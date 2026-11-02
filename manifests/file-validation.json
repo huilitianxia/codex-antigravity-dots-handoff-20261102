@@ -1,14 +1,12 @@
 {
-  "checked_at": "2026-11-02T02:30:51.129018+00:00",
-  "files": 2917,
-  "git_files": 1850,
-  "native_files": 1067,
-  "git_bytes": 76398933,
-  "native_logical_bytes": 1279023887,
-  "embedded_files": 194,
-  "embedded_bytes": 261903435,
+  "checked_at": "2026-11-02T03:07:46.930785+00:00",
+  "files": 3144,
+  "git_files": 1855,
+  "native_files": 1289,
   "hash_or_path_issues": [],
-  "scope_audit_exclusions_applied": 74,
-  "native_redacted_files": 2,
-  "note": "The apparent missing XLSX in the independent audit was a Windows 260-character path limitation; extended-path lookup and SHA verified it."
+  "core_directory_files_covered": 1027,
+  "core_directory_uncovered": 0,
+  "extra_native_objects_verified": 222,
+  "initial_native_objects_verified": 993,
+  "native_signed_link_redactions": 2
 }

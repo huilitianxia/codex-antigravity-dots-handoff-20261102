@@ -10,12 +10,13 @@
   "source_conversations_total": 20,
   "scope_peer_review": "PASS",
   "file_peer_review": "PASS",
-  "business_files": 2917,
+  "business_files": 3144,
   "payload": {
-    "files": 1261,
-    "logical_bytes": 1540927322,
-    "unique_objects": 993,
-    "packages": 3,
-    "package_bytes": 1138118673
-  }
+    "files": 1483,
+    "logical_bytes": 1939175744,
+    "unique_objects": 1215,
+    "packages": 4,
+    "package_bytes": 1536415957
+  },
+  "core_directory_files_covered": 1027
 }

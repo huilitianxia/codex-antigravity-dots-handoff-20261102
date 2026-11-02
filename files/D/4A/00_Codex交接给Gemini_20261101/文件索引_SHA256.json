@@ -1,0 +1,862 @@
+[
+  {
+    "package_path": "02_已提交历史文件_不可直接重传/01-price-title-fixes.xlsm",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261031-urgent-fixes\\01-price-title-fixes.xlsm",
+    "bytes": 1677319,
+    "sha256": "f6da696728f840a39b62252ff49ed435ecebfa3a17cc586ef92476e946ce3373",
+    "source_sha256": "f6da696728f840a39b62252ff49ed435ecebfa3a17cc586ef92476e946ce3373",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "02_已提交历史文件_不可直接重传/02-restore-original-skus.xlsm",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261031-urgent-fixes\\02-restore-original-skus.xlsm",
+    "bytes": 212676,
+    "sha256": "835cec167426b6cb319cf8dade470426aa4adfb6eb4e46f835c7054d517abda3",
+    "source_sha256": "835cec167426b6cb319cf8dade470426aa4adfb6eb4e46f835c7054d517abda3",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "02_已提交历史文件_不可直接重传/03-catalog-errors-consolidated.xlsm",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261031-urgent-fixes\\03-catalog-errors-consolidated.xlsm",
+    "bytes": 1681165,
+    "sha256": "40cdbcad0fa6800a5c5c1840c3f849ce0f92b4d448fbcd9d1de4055f7609123d",
+    "source_sha256": "40cdbcad0fa6800a5c5c1840c3f849ce0f92b4d448fbcd9d1de4055f7609123d",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "02_已提交历史文件_不可直接重传/04-reviewed-nonincident-fixes.xlsm",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261031-urgent-fixes\\04-reviewed-nonincident-fixes.xlsm",
+    "bytes": 1679709,
+    "sha256": "6d7ff33a9e45ccb7ec071b2cfce783f56354b149dace88f7050aef16ff606e6b",
+    "source_sha256": "6d7ff33a9e45ccb7ec071b2cfce783f56354b149dace88f7050aef16ff606e6b",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "02_已提交历史文件_不可直接重传/05-remove-temporary-minimums.xlsm",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261031-urgent-fixes\\05-remove-temporary-minimums.xlsm",
+    "bytes": 34310,
+    "sha256": "d3d72ef8b5c507bffca8d527e79781ae017722a562f090a6ad73cac3dd2ee7b6",
+    "source_sha256": "d3d72ef8b5c507bffca8d527e79781ae017722a562f090a6ad73cac3dd2ee7b6",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "02_已提交历史文件_不可直接重传/06-three-skus-five-bullets-only.xlsm",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261031-urgent-fixes\\06-three-skus-five-bullets-only.xlsm",
+    "bytes": 1673379,
+    "sha256": "eb6476fc07d20ae222c1bfc202182074318bc75c52c842a593f37687da7be390",
+    "source_sha256": "eb6476fc07d20ae222c1bfc202182074318bc75c52c842a593f37687da7be390",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "02_已提交历史文件_不可直接重传/07-star-full-adhesive-price-reset.xlsm",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261031-urgent-fixes\\07-star-full-adhesive-price-reset.xlsm",
+    "bytes": 34290,
+    "sha256": "f55b8ecd7fef500056d2c74d78e894c6e87701d2dc8e5fe68030fb95c32f7173",
+    "source_sha256": "f55b8ecd7fef500056d2c74d78e894c6e87701d2dc8e5fe68030fb95c32f7173",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "02_已提交历史文件_不可直接重传/09-073-business-only.xlsm",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261031-urgent-fixes\\09-073-business-only.xlsm",
+    "bytes": 34183,
+    "sha256": "6d6547b0175a24cfd803fbb60c402f4b47a7b8f0ebea4a8934fa4876cf75f6f1",
+    "source_sha256": "6d6547b0175a24cfd803fbb60c402f4b47a7b8f0ebea4a8934fa4876cf75f6f1",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "02_已提交历史文件_不可直接重传/10-four-noncoupon-promotions.xlsm",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261031-urgent-fixes\\10-four-noncoupon-promotions.xlsm",
+    "bytes": 34418,
+    "sha256": "75ec6a6125773265a2d89f332601a52855795a27a8828feb9360290f5116d784",
+    "source_sha256": "75ec6a6125773265a2d89f332601a52855795a27a8828feb9360290f5116d784",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "02_已提交历史文件_不可直接重传/11-remaining-three-five-bullets-only.xlsm",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261031-urgent-fixes\\11-remaining-three-five-bullets-only.xlsm",
+    "bytes": 1673347,
+    "sha256": "d36f875821c0c24c0d5de12c4223f9d7c27f3fd93ef4e10e173e94dec4d80fd6",
+    "source_sha256": "d36f875821c0c24c0d5de12c4223f9d7c27f3fd93ef4e10e173e94dec4d80fd6",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "02_已提交历史文件_不可直接重传/12-catalog-text-repairs-only.xlsm",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261031-urgent-fixes\\12-catalog-text-repairs-only.xlsm",
+    "bytes": 1739927,
+    "sha256": "aac5be52a7d6cf7bb6904f51c2f4d436f08dd19355908bd3f5e818de2cd3ed11",
+    "source_sha256": "aac5be52a7d6cf7bb6904f51c2f4d436f08dd19355908bd3f5e818de2cd3ed11",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "02_已提交历史文件_不可直接重传/13-0146-office-only.xlsm",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261031-urgent-fixes\\13-0146-office-only.xlsm",
+    "bytes": 1672792,
+    "sha256": "496f9daed5abe6d62a72ecbf56e5ff92cd3182a52556022d68d491a61cc18fa8",
+    "source_sha256": "496f9daed5abe6d62a72ecbf56e5ff92cd3182a52556022d68d491a61cc18fa8",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/本轮收尾_20261101.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\本轮收尾_20261101.txt",
+    "bytes": 3285,
+    "sha256": "5a6557e7d39aa785d989d811acacf2b2e28e530d9bd231626a3f5e1012cbfeb9",
+    "source_sha256": "391754fa4688da085d8550deb3de2f6e42bed3fc62491ff5a762bfe90b7267b2",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/restart-37-price-reconciliation.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\restart-37-price-reconciliation.json",
+    "bytes": 52092,
+    "sha256": "898bc3b2861f4c165e1cd3c733dcc4316c98ed966d80ebf31e08f93cfbb172a0",
+    "source_sha256": "898bc3b2861f4c165e1cd3c733dcc4316c98ed966d80ebf31e08f93cfbb172a0",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/v1-price-incident-audit.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\v1-price-incident-audit.json",
+    "bytes": 116909,
+    "sha256": "cdeb3de62fe9ee87b30b664a9f41603870b62d77fa72143e6dc692db08c69638",
+    "source_sha256": "cdeb3de62fe9ee87b30b664a9f41603870b62d77fa72143e6dc692db08c69638",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/root-price-recovery-log.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\root-price-recovery-log.json",
+    "bytes": 1994,
+    "sha256": "44cee49bd57e1edcc252a37ffa31a2eb04d9c3cf1753d5d6a696919543d25290",
+    "source_sha256": "44cee49bd57e1edcc252a37ffa31a2eb04d9c3cf1753d5d6a696919543d25290",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/agent2-price-recovery-log.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\agent2-price-recovery-log.json",
+    "bytes": 4056,
+    "sha256": "a887a68283b9ca99d0767c76fafc48d359493cd0f089efd35f903693b35dc771",
+    "source_sha256": "a887a68283b9ca99d0767c76fafc48d359493cd0f089efd35f903693b35dc771",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/v4-price-live-acceptance.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\v4-price-live-acceptance.json",
+    "bytes": 9748,
+    "sha256": "d6bbd97153b20b4075bc545d954a3efcc1535b0a0c77fae4d594842792d13150",
+    "source_sha256": "d6bbd97153b20b4075bc545d954a3efcc1535b0a0c77fae4d594842792d13150",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/v4-approved-price-rows.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\v4-approved-price-rows.json",
+    "bytes": 25741,
+    "sha256": "3118ed7768ce6b25ca6b8cae9373ed04d990bcede30536bab5f37ed267cd57c0",
+    "source_sha256": "3118ed7768ce6b25ca6b8cae9373ed04d990bcede30536bab5f37ed267cd57c0",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/05-final-minimum-acceptance.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\05-final-minimum-acceptance.json",
+    "bytes": 920,
+    "sha256": "f10045dd4847122361b6dd37a23cdb26b01cc082450132b27cac9d6605c3558e",
+    "source_sha256": "f10045dd4847122361b6dd37a23cdb26b01cc082450132b27cac9d6605c3558e",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/05-min-delete-diagnosis.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\05-min-delete-diagnosis.txt",
+    "bytes": 2429,
+    "sha256": "f37b1f1a6787733e7125479d49a46ccd83884c74ae720afa8b46f7469da30b2f",
+    "source_sha256": "6963e80599816e99f46667a700d2cb729e8377b526dff51dd45e63a565c5abeb",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/05-min-delete-operation-log.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\05-min-delete-operation-log.json",
+    "bytes": 1196,
+    "sha256": "87365e1049e9d70232674ef5df098ce537e7ae299161459492776b72a5896fb6",
+    "source_sha256": "87365e1049e9d70232674ef5df098ce537e7ae299161459492776b72a5896fb6",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/05-6032-late-readback.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\05-6032-late-readback.txt",
+    "bytes": 11886,
+    "sha256": "b6cb4a4b9f79cc2554279bdd9424c4beddeb0af0f5010d6d2b9d5a2aaa77ae90",
+    "source_sha256": "ad9e97c9eab0f1d6da924ec09dbe03fd7c5ac8b2d7131b8551427d05a0b9a699",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/07-live-pricing-acceptance.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\07-live-pricing-acceptance.json",
+    "bytes": 1133,
+    "sha256": "3596fe25a673c08084f65688640579676ed19b02eba31085e31fa8aa15448e05",
+    "source_sha256": "3596fe25a673c08084f65688640579676ed19b02eba31085e31fa8aa15448e05",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/09-live-business-acceptance.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\09-live-business-acceptance.json",
+    "bytes": 520,
+    "sha256": "e8747e94453066f88bf80fd131d6ae8aaf17ff586555b2af47ed974b2678439d",
+    "source_sha256": "e8747e94453066f88bf80fd131d6ae8aaf17ff586555b2af47ed974b2678439d",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/09-073-late-readback.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\09-073-late-readback.txt",
+    "bytes": 12245,
+    "sha256": "1f0de751b3f95765baab725673e085d79bfb2f9aed9128399144f9d0ef48f9da",
+    "source_sha256": "fcaa1dc27dbcb37103483208ed2885ef3d458f9f4a01bebd937131051aac1ae3",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/09-073-late-tiers-readback.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\09-073-late-tiers-readback.txt",
+    "bytes": 15111,
+    "sha256": "6bb9489f0cc3aaa54e2eb3316df18e9afb35157419099b728d6f6032cad234af",
+    "source_sha256": "3c0634744d492bcfa16a702318176468486bff9689ba572ea370c5e532e3f9a7",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/10-live-pricing-acceptance.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\10-live-pricing-acceptance.json",
+    "bytes": 4833,
+    "sha256": "c2fcf0cb5840e9d06dbc8f16a1695225ea1e98e23f5430b05bbe0de8ab7e6850",
+    "source_sha256": "c2fcf0cb5840e9d06dbc8f16a1695225ea1e98e23f5430b05bbe0de8ab7e6850",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/10-processing-receipt-audit.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\10-processing-receipt-audit.json",
+    "bytes": 8027,
+    "sha256": "7b21ec9b38ae2a6d493701413198a7503a2413d823f6b7769310c6b53829f63f",
+    "source_sha256": "7b21ec9b38ae2a6d493701413198a7503a2413d823f6b7769310c6b53829f63f",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/11-processing-receipt-audit.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\11-processing-receipt-audit.json",
+    "bytes": 984,
+    "sha256": "8372e84db607d3c3989e38a12b75d48e024ecef951d3d3c1b0f4eef5a3dbdf8c",
+    "source_sha256": "8372e84db607d3c3989e38a12b75d48e024ecef951d3d3c1b0f4eef5a3dbdf8c",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/11-live-bullet-acceptance.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\11-live-bullet-acceptance.json",
+    "bytes": 502,
+    "sha256": "1dd044e285c2cc8a8f4f6bdfec4e720d3e8475dab89eae8e37aba120dec52b9e",
+    "source_sha256": "1dd044e285c2cc8a8f4f6bdfec4e720d3e8475dab89eae8e37aba120dec52b9e",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/12-final-processing-summary.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\12-final-processing-summary.json",
+    "bytes": 20015,
+    "sha256": "ea0cc20524e78cc680377058398cfaac6f0be7f2e3ed64c201238c96007d9546",
+    "source_sha256": "ea0cc20524e78cc680377058398cfaac6f0be7f2e3ed64c201238c96007d9546",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/12-processing-receipt-audit.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\12-processing-receipt-audit.json",
+    "bytes": 372206,
+    "sha256": "ba014dc5874add447bedd80a08372cc90a86d1f1f691766eb2cc2eeb9ebb6c6e",
+    "source_sha256": "ba014dc5874add447bedd80a08372cc90a86d1f1f691766eb2cc2eeb9ebb6c6e",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/12-package-verification.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\12-package-verification.json",
+    "bytes": 1650,
+    "sha256": "e91c605e6e2f2b74227dddce562dcf0b6c29569d1525c172e5cd7e3d966a2cc1",
+    "source_sha256": "e91c605e6e2f2b74227dddce562dcf0b6c29569d1525c172e5cd7e3d966a2cc1",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/12-main-independent-check.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\12-main-independent-check.json",
+    "bytes": 492,
+    "sha256": "e270c4869ff081d657c98a29abe41f342f3c7f1ab865564e749ac5af79c416f2",
+    "source_sha256": "e270c4869ff081d657c98a29abe41f342f3c7f1ab865564e749ac5af79c416f2",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/12-one-highlight-saved.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\12-one-highlight-saved.txt",
+    "bytes": 10310,
+    "sha256": "c97f7d07cb4daedbed6157ccf37c71ecfaf28a929effa720d50a4f2f6ed0f6f5",
+    "source_sha256": "91a5921574257821441738433be543db6679c9655429d9ab3e430c5e7c317a47",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/12-one-highlight-saved.png",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\12-one-highlight-saved.png",
+    "bytes": 106477,
+    "sha256": "d01c3c067cc806008b3b8adb96cb81b721fb9552a9f3c2ff3c7346ade65dbb06",
+    "source_sha256": "d01c3c067cc806008b3b8adb96cb81b721fb9552a9f3c2ff3c7346ade65dbb06",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/12-language-124-before.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\12-language-124-before.txt",
+    "bytes": 10428,
+    "sha256": "95152aa881261112c8f60b6cc90fb08685db5ded98688fb2e84bd3f2d83e635a",
+    "source_sha256": "43a11551ad351420da1049f05519e6d625a370e869e9206791495469314b3472",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/12-language-484-before.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\12-language-484-before.txt",
+    "bytes": 10467,
+    "sha256": "1a9943163cb95c269a3ef6b77a408e644301e10e0e0ab24a1dbf22cd0e8141b1",
+    "source_sha256": "af02082e1c95e1ab19c7a845dc6dde85aceb20247b52fdcad10d2f1e774502c8",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/12-language-500-before.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\12-language-500-before.txt",
+    "bytes": 10393,
+    "sha256": "06214e6f3968cab9c7c5add9c6be3c4446293ba1e07c0a0e94d9b473773a0696",
+    "source_sha256": "d8ac4fbe3c11a36a495a6ef7e4156f5961fe2676dec9a5ce5e6dc0501f82fd1e",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/13-package-verification.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\13-package-verification.json",
+    "bytes": 665,
+    "sha256": "eec499d4f3718e44115e9feecf519d4b956a13f465fc9e9fbfd3efdcb2fea3f3",
+    "source_sha256": "eec499d4f3718e44115e9feecf519d4b956a13f465fc9e9fbfd3efdcb2fea3f3",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/13-upload-submitted.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\13-upload-submitted.txt",
+    "bytes": 16818,
+    "sha256": "a1e494c1a3a423e1152bfd08ffc128a0c38aadc9de1a43410d22a0f0067350c9",
+    "source_sha256": "81be696addfb5caeaab697b84f65e510abf1d992c3c9ee6c3e891cf5ece9b594",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/13-upload-submitted.png",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\13-upload-submitted.png",
+    "bytes": 122160,
+    "sha256": "d91ee32eb5b3bc07b39651b15ff1911204385ce8cf9759084997446640d12246",
+    "source_sha256": "d91ee32eb5b3bc07b39651b15ff1911204385ce8cf9759084997446640d12246",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/coupon15-final22-product-acceptance.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\coupon15-final22-product-acceptance.json",
+    "bytes": 2850,
+    "sha256": "7800069404818d076d4fd1ac4b8e383f9ad49a2ad1b193856ad2b47ee9193334",
+    "source_sha256": "7800069404818d076d4fd1ac4b8e383f9ad49a2ad1b193856ad2b47ee9193334",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/coupon5-final12-product-acceptance.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\coupon5-final12-product-acceptance.json",
+    "bytes": 1433,
+    "sha256": "d88089aba66dd0ebe5a28161578cda109954c8c97f0039ee91390597e5243da7",
+    "source_sha256": "d88089aba66dd0ebe5a28161578cda109954c8c97f0039ee91390597e5243da7",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/coupon5-final12-live-acceptance.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\coupon5-final12-live-acceptance.json",
+    "bytes": 959,
+    "sha256": "6b137dab3fecf2d1dfbabb37cda727338a1ecaf57abe1e5fe783b13278228679",
+    "source_sha256": "6b137dab3fecf2d1dfbabb37cda727338a1ecaf57abe1e5fe783b13278228679",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/coupon-expanded-execution-ledger.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\coupon-expanded-execution-ledger.json",
+    "bytes": 22324,
+    "sha256": "fbc68fbb4979fa97438bdbb1fff39976f67275491c252614bdf17a04bf7c5bc3",
+    "source_sha256": "fbc68fbb4979fa97438bdbb1fff39976f67275491c252614bdf17a04bf7c5bc3",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/coupon-expansion-77-complete-readonly-audit.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\coupon-expansion-77-complete-readonly-audit.json",
+    "bytes": 144939,
+    "sha256": "d40048553f4b205f63998c91db8c27041cadb359a1b211b294abed7cd3cbfbf0",
+    "source_sha256": "d40048553f4b205f63998c91db8c27041cadb359a1b211b294abed7cd3cbfbf0",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/coupon77-demand-and-aged-fee-recheck.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\coupon77-demand-and-aged-fee-recheck.json",
+    "bytes": 50880,
+    "sha256": "7f3ca7989c1c720db69dd69c1a63a5ebd27bd5ded00017d5eadd47dee9a57fba",
+    "source_sha256": "7f3ca7989c1c720db69dd69c1a63a5ebd27bd5ded00017d5eadd47dee9a57fba",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/coupon77-demand-recheck.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\coupon77-demand-recheck.json",
+    "bytes": 42920,
+    "sha256": "8640ce57fd8b57022f92f87bc61cadc9c5ec9ae7544497139f4d57ad770f362f",
+    "source_sha256": "8640ce57fd8b57022f92f87bc61cadc9c5ec9ae7544497139f4d57ad770f362f",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/coupon-fullscan-parsed.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\coupon-fullscan-parsed.json",
+    "bytes": 276476,
+    "sha256": "79a613d17017589089bdff7a9f719e48aa1db183d6cbebc89cac02649f29a220",
+    "source_sha256": "79a613d17017589089bdff7a9f719e48aa1db183d6cbebc89cac02649f29a220",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/fba-live-fees.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\fba-live-fees.json",
+    "bytes": 64000,
+    "sha256": "e6db32bbeba22d62b6a7d6a80fe5a0a4037677bbd5e63cba5f338358143e6ebc",
+    "source_sha256": "e6db32bbeba22d62b6a7d6a80fe5a0a4037677bbd5e63cba5f338358143e6ebc",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/samepage-stocked-fba-execution.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\samepage-stocked-fba-execution.json",
+    "bytes": 316891,
+    "sha256": "99349eced7ebb009b65d2dea8d99cbcac5e86c07e69f18fccc544f71dc0f1932",
+    "source_sha256": "99349eced7ebb009b65d2dea8d99cbcac5e86c07e69f18fccc544f71dc0f1932",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/samepage-live-decisions.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\samepage-live-decisions.txt",
+    "bytes": 3199,
+    "sha256": "8f80e3765b5e48b1286b718f49f78c4f303f81e8d4222a54c30c335c8a8b0f8c",
+    "source_sha256": "9bf51ee6c1ac7675cc53918a3db2e4c222dffddea8af784bc37911c4e2576a30",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/merge12-concrete-review.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\merge12-concrete-review.txt",
+    "bytes": 3781,
+    "sha256": "45c31abd24c02e2533639b41192a2b384ad54d6b869c3781dcda777c68557f59",
+    "source_sha256": "fb8939b2f484a859ed834ea5b1c5fb7e676586d7ff8812b1fb21a27706c0530e",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/merge13-to12-reviewed-groups.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\merge13-to12-reviewed-groups.json",
+    "bytes": 38364,
+    "sha256": "c90d0a1b5e3e129cb42b3f05ba4bd7b26923fa115172e72c0f5b444b93cfba32",
+    "source_sha256": "c90d0a1b5e3e129cb42b3f05ba4bd7b26923fa115172e72c0f5b444b93cfba32",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/merge-three-cases-send-verification.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\merge-three-cases-send-verification.json",
+    "bytes": 4308,
+    "sha256": "92f04281f512020f76d141401780a83111ee5cb4aac6ea12fc1ff413d107015b",
+    "source_sha256": "92f04281f512020f76d141401780a83111ee5cb4aac6ea12fc1ff413d107015b",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/merge-next3-support-drafts-unsent.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\merge-next3-support-drafts-unsent.txt",
+    "bytes": 3682,
+    "sha256": "7b5a18731b56fc7ba50732489822bd29941800fc413984748b496a9d6b2e22c9",
+    "source_sha256": "7b5a18731b56fc7ba50732489822bd29941800fc413984748b496a9d6b2e22c9",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/merge-additional6-support-drafts-unsent.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\merge-additional6-support-drafts-unsent.txt",
+    "bytes": 8124,
+    "sha256": "21369973c041b2db30668ec8aea56fe31dbd2c1256025da42a3eb7d6ff0a4abb",
+    "source_sha256": "b4b3d703aaa2bf79f526ce6a022156586403d2032f85b20ca59c3a44feea3a7f",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/merge-pss32-reply-1828.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\merge-pss32-reply-1828.txt",
+    "bytes": 5245,
+    "sha256": "46c35326e3a3df09e959c5097652b62861b7dcc5a326fa8e4f10ae5acbd6ee50",
+    "source_sha256": "cc383a313d2c2310d5bb9809db56e994780b7d7327556fb39da7995b26cab9d9",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/30315-support-send-verification.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\30315-support-send-verification.json",
+    "bytes": 1016,
+    "sha256": "026e0efc1de8c87405adf8299ecd150999c7e978cdf06c8804adfe2f02150b19",
+    "source_sha256": "026e0efc1de8c87405adf8299ecd150999c7e978cdf06c8804adfe2f02150b19",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/mfn-support-send-verification.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\mfn-support-send-verification.json",
+    "bytes": 389,
+    "sha256": "9340582cce1166dd6b49bf619ee5f6ec97fdc670ac952271d69ce161bd7fe1d3",
+    "source_sha256": "9340582cce1166dd6b49bf619ee5f6ec97fdc670ac952271d69ce161bd7fe1d3",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/mfn-p0-two-sku-comparison.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\mfn-p0-two-sku-comparison.json",
+    "bytes": 3165,
+    "sha256": "4fe45d41547dfce98c3a0aa057490a17dc0e2bbc14c71e25ac0d9eab7cfc3947",
+    "source_sha256": "4fe45d41547dfce98c3a0aa057490a17dc0e2bbc14c71e25ac0d9eab7cfc3947",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/mfn-p0-support-ready.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\mfn-p0-support-ready.txt",
+    "bytes": 2409,
+    "sha256": "61cd3426dec6bfbc723c5003559d21944514e16942e6b0e50685bbc22602c02a",
+    "source_sha256": "3d7cb93160cdd0fc043f84508d7be60eca5be59cc491f166dc492082fd2d07f3",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/mfn8-shipping-diagnosis.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\mfn8-shipping-diagnosis.json",
+    "bytes": 15822,
+    "sha256": "df88233cff4ef07ccf7f0228ae0e31efccbb2a444cbecc83f25922ef4b226d1d",
+    "source_sha256": "df88233cff4ef07ccf7f0228ae0e31efccbb2a444cbecc83f25922ef4b226d1d",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/nonfamily-stream2-6-remaining-gaps.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\nonfamily-stream2-6-remaining-gaps.txt",
+    "bytes": 3034,
+    "sha256": "7d76d47dee2830267c82d453ed4644e8a5069468a376db410597a77b274e0c52",
+    "source_sha256": "b41cd95fb54d2d9a6010ddf11dc0a831fb70972927e4e7dedd3cb8bf77e6985a",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/residual62-closeout.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\residual62-closeout.json",
+    "bytes": 177504,
+    "sha256": "1a319b832c59fac58856463f0444dea86995247a8519ffd437d79803a58ea7af",
+    "source_sha256": "1a319b832c59fac58856463f0444dea86995247a8519ffd437d79803a58ea7af",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/residual-closeout-brief.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\residual-closeout-brief.txt",
+    "bytes": 2839,
+    "sha256": "f55f5b0ab5efce40c05927df2fcd0f9a6b3563f41b98748bf431b7ab375a4b69",
+    "source_sha256": "f55f5b0ab5efce40c05927df2fcd0f9a6b3563f41b98748bf431b7ab375a4b69",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/family08-safe-sequence.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\family08-safe-sequence.txt",
+    "bytes": 4573,
+    "sha256": "323738f7f56a97e8f049866aecf3315c26e30acfe100227cef4f70c8710ac4e9",
+    "source_sha256": "9c31d07ac8e4345553dd7e4212298239bbd6067b415427369fe05283ccf33678",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/family08-support-request-draft.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\family08-support-request-draft.txt",
+    "bytes": 1992,
+    "sha256": "686ddc3d0a6b87c88e61212cf371978eabe257e2fbe34f2c3704e94d3ca0b6b6",
+    "source_sha256": "c0d7cf1374b9c73b6c7758e7f107915b1ede90e624d6cbc08f8ab8509ce29c9c",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/family08-attach-fields-prepared.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\family08-attach-fields-prepared.json",
+    "bytes": 3455,
+    "sha256": "e6faf2221bf0c520193f7d87a12e34e2ebec6e2853a15c8def6f32bf4707b886",
+    "source_sha256": "e6faf2221bf0c520193f7d87a12e34e2ebec6e2853a15c8def6f32bf4707b886",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/1801-orders-live-summary.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\1801-orders-live-summary.json",
+    "bytes": 1376,
+    "sha256": "933a2f8c5fb11a22b395feff8bc5655f17e8bee8129687fabc4b209aea8d27cc",
+    "source_sha256": "933a2f8c5fb11a22b395feff8bc5655f17e8bee8129687fabc4b209aea8d27cc",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/bs1801-sales-and-switch-review.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\bs1801-sales-and-switch-review.json",
+    "bytes": 1434,
+    "sha256": "bc056f93a4f78ec0733dc0089fbc44c87868339d94c7b2948a5a913cb4d8fa1c",
+    "source_sha256": "bc056f93a4f78ec0733dc0089fbc44c87868339d94c7b2948a5a913cb4d8fa1c",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/bs1801-refill-bundle-entry.png",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\bs1801-refill-bundle-entry.png",
+    "bytes": 112275,
+    "sha256": "2fd802f168cad8b17686ad976db6cb4e0460a8fcba0add20662a11a875676b0a",
+    "source_sha256": "2fd802f168cad8b17686ad976db6cb4e0460a8fcba0add20662a11a875676b0a",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/bundle-bs1801-acceptance.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\bundle-bs1801-acceptance.json",
+    "bytes": 1039,
+    "sha256": "4a89d7d184cdf8269de59e824210f82c81b73bda3cbb3a5bb6826818c29af831",
+    "source_sha256": "4a89d7d184cdf8269de59e824210f82c81b73bda3cbb3a5bb6826818c29af831",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/closeout-case-lobby.png",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\closeout-case-lobby.png",
+    "bytes": 130020,
+    "sha256": "08186388995e5b352fd66aec040dccf062fc169109933992ad374d096239c225",
+    "source_sha256": "08186388995e5b352fd66aec040dccf062fc169109933992ad374d096239c225",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/closeout-case-lobby.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\closeout-case-lobby.txt",
+    "bytes": 12544,
+    "sha256": "33aefd193c15d16b8b896e9dc4b52f1f05c2d41f966be462f3c09d17f3335dfd",
+    "source_sha256": "32f177b3747855c3954943d930df5608e22440afa23e063b78564625f24a7296",
+    "temporary_signed_urls_redacted": true
+  },
+  {
+    "package_path": "03_验收与待办证据/合并补证材料/406-neon/identity-fields.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\merge-support-packages\\406-neon\\identity-fields.txt",
+    "bytes": 1567,
+    "sha256": "f86792590ff21466251d66df8f2d5df1d3a5c93d73eceb87366652f500507012",
+    "source_sha256": "f86792590ff21466251d66df8f2d5df1d3a5c93d73eceb87366652f500507012",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/合并补证材料/406-neon/product-page-excerpts.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\merge-support-packages\\406-neon\\product-page-excerpts.txt",
+    "bytes": 1439,
+    "sha256": "35c300ba7653d3e2adbb7b3da07fe9e623b419133e9bf57c722df2f9fe03b06e",
+    "source_sha256": "35c300ba7653d3e2adbb7b3da07fe9e623b419133e9bf57c722df2f9fe03b06e",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/合并补证材料/406-neon/request.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\merge-support-packages\\406-neon\\request.txt",
+    "bytes": 1209,
+    "sha256": "4365de57bcfd8fc297e29e68acec6fa5f18059d8d01a8a2a3ce1d6ff28c4b552",
+    "source_sha256": "4365de57bcfd8fc297e29e68acec6fa5f18059d8d01a8a2a3ce1d6ff28c4b552",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/合并补证材料/406-pastel/identity-fields.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\merge-support-packages\\406-pastel\\identity-fields.txt",
+    "bytes": 1529,
+    "sha256": "08c4a634a03df634cd296ff4fc3eb29a37342a1686f4edff168e77f19b1ec286",
+    "source_sha256": "08c4a634a03df634cd296ff4fc3eb29a37342a1686f4edff168e77f19b1ec286",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/合并补证材料/406-pastel/product-page-excerpts.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\merge-support-packages\\406-pastel\\product-page-excerpts.txt",
+    "bytes": 1080,
+    "sha256": "96d3c021fdbd62dec56a82b7b2b1414fb2e750d963eedd4f8665d17a13b19d25",
+    "source_sha256": "96d3c021fdbd62dec56a82b7b2b1414fb2e750d963eedd4f8665d17a13b19d25",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/合并补证材料/406-pastel/request.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\merge-support-packages\\406-pastel\\request.txt",
+    "bytes": 1155,
+    "sha256": "7ec8f466a7f252925db442b594327592fe3af8a68508c74d4bc904306285968e",
+    "source_sha256": "7ec8f466a7f252925db442b594327592fe3af8a68508c74d4bc904306285968e",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/合并补证材料/pss32x6/identity-fields.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\merge-support-packages\\pss32x6\\identity-fields.txt",
+    "bytes": 1474,
+    "sha256": "1e7ae26393354bcab2d579605a8736c76dd992afe0742892cf270fe41ae71b9d",
+    "source_sha256": "1e7ae26393354bcab2d579605a8736c76dd992afe0742892cf270fe41ae71b9d",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/合并补证材料/pss32x6/product-page-excerpts.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\merge-support-packages\\pss32x6\\product-page-excerpts.txt",
+    "bytes": 970,
+    "sha256": "6207be7619adfe0eff8c5e5f18ff4abd1f5684a08444ef5c6f04d265197433c6",
+    "source_sha256": "6207be7619adfe0eff8c5e5f18ff4abd1f5684a08444ef5c6f04d265197433c6",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "03_验收与待办证据/合并补证材料/pss32x6/request.txt",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\merge-support-packages\\pss32x6\\request.txt",
+    "bytes": 1231,
+    "sha256": "dd679ec12cbdac2c825113db4f5c1e10829b720e2be72b96b8d53e842e0632c9",
+    "source_sha256": "dd679ec12cbdac2c825113db4f5c1e10829b720e2be72b96b8d53e842e0632c9",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "04_正式处理回执/01-price-title-fixes-processing-summary.xlsm",
+    "source_path": "D:\\下载文件\\01-price-title-fixes-processing-summary.xlsm",
+    "bytes": 1672828,
+    "sha256": "efaef4ffa84d39d2cab500e65ad355083cf48273c261692d68842d7fc22ad7ec",
+    "source_sha256": "efaef4ffa84d39d2cab500e65ad355083cf48273c261692d68842d7fc22ad7ec",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "04_正式处理回执/03-catalog-errors-consolidated-processing-summary.xlsm",
+    "source_path": "D:\\下载文件\\03-catalog-errors-consolidated-processing-summary.xlsm",
+    "bytes": 1669178,
+    "sha256": "2b2b2e1edb9927b256852a6084757b574a0cabbe429116a3b1556c689c048eda",
+    "source_sha256": "2b2b2e1edb9927b256852a6084757b574a0cabbe429116a3b1556c689c048eda",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "04_正式处理回执/05-remove-temporary-minimums-processing-summary.xlsm",
+    "source_path": "D:\\下载文件\\05-remove-temporary-minimums-processing-summary.xlsm",
+    "bytes": 42278,
+    "sha256": "08d887be157a4b0f00928eca7ed321d99fb82f801071b27c0eb7b47d536200d8",
+    "source_sha256": "08d887be157a4b0f00928eca7ed321d99fb82f801071b27c0eb7b47d536200d8",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "04_正式处理回执/06-three-skus-five-bullets-only-processing-summary.xlsm",
+    "source_path": "D:\\下载文件\\06-three-skus-five-bullets-only-processing-summary.xlsm",
+    "bytes": 1649496,
+    "sha256": "d57535937ff7f31ff5bcecfba7a1812b467dfee846af293d01620ca2303896c3",
+    "source_sha256": "d57535937ff7f31ff5bcecfba7a1812b467dfee846af293d01620ca2303896c3",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "04_正式处理回执/07-star-full-adhesive-price-reset-processing-summary.xlsm",
+    "source_path": "D:\\下载文件\\07-star-full-adhesive-price-reset-processing-summary.xlsm",
+    "bytes": 42759,
+    "sha256": "a30afe5586fd71e868b5f9ed79ffdfba90da3490e9f143a106dd4ea0aa997978",
+    "source_sha256": "a30afe5586fd71e868b5f9ed79ffdfba90da3490e9f143a106dd4ea0aa997978",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "04_正式处理回执/09-073-business-only-processing-summary.xlsm",
+    "source_path": "D:\\下载文件\\09-073-business-only-processing-summary.xlsm",
+    "bytes": 42489,
+    "sha256": "337a6b30d770e396de638daaa566af1580a997127f952f64997388373600647a",
+    "source_sha256": "337a6b30d770e396de638daaa566af1580a997127f952f64997388373600647a",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "04_正式处理回执/10-four-noncoupon-promotions-processing-summary.xlsm",
+    "source_path": "D:\\下载文件\\10-four-noncoupon-promotions-processing-summary.xlsm",
+    "bytes": 43153,
+    "sha256": "9e2859fc69ac02e8d54b10f82dddad65ccd9b684278969de2af618f32a398dd6",
+    "source_sha256": "9e2859fc69ac02e8d54b10f82dddad65ccd9b684278969de2af618f32a398dd6",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "04_正式处理回执/11-remaining-three-five-bullets-only-processing-summary.xlsm",
+    "source_path": "D:\\下载文件\\11-remaining-three-five-bullets-only-processing-summary.xlsm",
+    "bytes": 1647088,
+    "sha256": "66362083519fba9edfeb1a902d9b740beb23b57fa6ff0ad586034dce97ab68cb",
+    "source_sha256": "66362083519fba9edfeb1a902d9b740beb23b57fa6ff0ad586034dce97ab68cb",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "04_正式处理回执/12-catalog-text-repairs-only-processing-summary.xlsm",
+    "source_path": "D:\\下载文件\\12-catalog-text-repairs-only-processing-summary.xlsm",
+    "bytes": 1769706,
+    "sha256": "1e3ed43f60651c27d53e0a5cae33a1db6cf9d1998f002e20a0353043fed2939a",
+    "source_sha256": "1e3ed43f60651c27d53e0a5cae33a1db6cf9d1998f002e20a0353043fed2939a",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "04_正式处理回执/04-reviewed-nonincident-fixes-processing-summary (2).xlsm",
+    "source_path": "D:\\下载文件\\04-reviewed-nonincident-fixes-processing-summary (2).xlsm",
+    "bytes": 1684141,
+    "sha256": "53e8bdc4825eb39bf2b7a4949c8ce198d2fc0868546b02ccf9e893f820cfba36",
+    "source_sha256": "53e8bdc4825eb39bf2b7a4949c8ce198d2fc0868546b02ccf9e893f820cfba36",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "05_源数据快照_按日期使用/分类商品报告_10-31-2026.xlsm",
+    "source_path": "D:\\下载文件\\分类商品报告_10-31-2026.xlsm",
+    "bytes": 1950673,
+    "sha256": "426af6013978f19576607430236026ec6eb3dbf7ef062851841457c678d23289",
+    "source_sha256": "426af6013978f19576607430236026ec6eb3dbf7ef062851841457c678d23289",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "05_源数据快照_按日期使用/所有商品报告_11-01-2026.txt",
+    "source_path": "D:\\下载文件\\所有商品报告_11-01-2026.txt",
+    "bytes": 400634,
+    "sha256": "662f03d1b8d563a54d19502539314a0ece25f503aaf678b52f9a572cd8dc3dd5",
+    "source_sha256": "662f03d1b8d563a54d19502539314a0ece25f503aaf678b52f9a572cd8dc3dd5",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "06_D盘只读审计/D盘只读审计_20261101.json",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\D盘只读审计_20261101.json",
+    "bytes": 467362,
+    "sha256": "de83e57ce3328d422075aa2fb4acb85f913cae7145ee26900af71f3cd6063144",
+    "source_sha256": "de83e57ce3328d422075aa2fb4acb85f913cae7145ee26900af71f3cd6063144",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "06_D盘只读审计/audit_d_handoff.py",
+    "source_path": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\audit_d_handoff.py",
+    "bytes": 3474,
+    "sha256": "06eb689f49a8b2b17de11c2f888fb1ee674a4e81bea4531731c4e7588e721db7",
+    "source_sha256": "06eb689f49a8b2b17de11c2f888fb1ee674a4e81bea4531731c4e7588e721db7",
+    "temporary_signed_urls_redacted": false
+  },
+  {
+    "package_path": "00_先读_给Gemini的接手说明.txt",
+    "source_path": "本次生成的交接文件或内容审计证据",
+    "bytes": 3150,
+    "sha256": "ed12908cd454f610685eceb13d91b2e7743b3e9da8c0a6844e50e3cb4acff311"
+  },
+  {
+    "package_path": "01_已处理与未处理_完整运营交接.txt",
+    "source_path": "本次生成的交接文件或内容审计证据",
+    "bytes": 32650,
+    "sha256": "29ffedd1f6afb710d413837a2dc98f61c0567fc1669a94add75dfb02f7513eb4"
+  },
+  {
+    "package_path": "02_D盘清理判断复核.txt",
+    "source_path": "本次生成的交接文件或内容审计证据",
+    "bytes": 15558,
+    "sha256": "e97de6b4d1bf0a6540651d3e297b875635646ba8e7dfed9cd137d22439598499"
+  },
+  {
+    "package_path": "06_D盘只读审计/gemini-content-evidence.json",
+    "source_path": "本次生成的交接文件或内容审计证据",
+    "bytes": 7703,
+    "sha256": "89d31352990c5b1d839522180e31cf47a97617dabaecf634f67787c6e61f1936"
+  },
+  {
+    "package_path": "06_D盘只读审计/gemini-history-samples.json",
+    "source_path": "本次生成的交接文件或内容审计证据",
+    "bytes": 3427,
+    "sha256": "6c383036fab177de64646babdcc1093d26ddd92c488ba436fc92ad16763bdf92"
+  },
+  {
+    "package_path": "06_D盘只读审计/gemini-source-dependency-review.json",
+    "source_path": "本次生成的交接文件或内容审计证据",
+    "bytes": 5296,
+    "sha256": "cbb0ccedb6a9ba735f7f328cb83e9b9bbbe796078546a45b4b4a4dfbb4513b61"
+  },
+  {
+    "package_path": "06_D盘只读审计/gemini-source-image-samples.json",
+    "source_path": "本次生成的交接文件或内容审计证据",
+    "bytes": 621,
+    "sha256": "7f7fa10d3866b3a64b1e0fc6e7a5b21ed916d680dfa2713752726da3071110ee"
+  },
+  {
+    "package_path": "06_D盘只读审计/gemini-video-metadata.json",
+    "source_path": "本次生成的交接文件或内容审计证据",
+    "bytes": 5864,
+    "sha256": "0526308884f4c0320d55906c9c3a4f89a2e9794a5c7effb6275a06a8fffb2f0b"
+  },
+  {
+    "package_path": "缺失索引检查.json",
+    "source_path": "本次生成的交接文件或内容审计证据",
+    "bytes": 2,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  {
+    "package_path": "06_D盘只读审计/Gemini原判断截图.png",
+    "source_path": "本次生成的交接文件或内容审计证据",
+    "bytes": 107169,
+    "sha256": "c8e4aa2611870ad99bbfd1deb68b0474c043f66e681886ac3b9caddf668c744b"
+  }
+]
