@@ -1,0 +1,374 @@
+{
+  "status_asof_beijing": "2026-11-03T00:29:00+08:00",
+  "B_first_two": [
+    {
+      "B": 17,
+      "target_asin": "B00SMEEVCO",
+      "target_sku": "4A 5059-B00SM-FBM",
+      "source_asin": "B01MY06P05",
+      "source_sku": "4A 5059",
+      "quantity_allocation": 10,
+      "price": "6.99",
+      "shipping_template": "Migrated Template",
+      "condition": "New",
+      "source_fresh_quantity": 1623,
+      "source_after_expected": 1613,
+      "handling_time": 4,
+      "status": "TARGET_VALUES_PERSISTED_SOURCE_POOL_CORRECT_AWAIT_ACTIVE",
+      "target_submitted_at_beijing": "2026-11-03T00:20:00+08:00",
+      "target_submit_accepted": true,
+      "verified_complete": false,
+      "remaining_checks": [
+        "Actualtarget listing exists active10 and correct price/template/handling",
+        "Source eventual1613 or reconcileinterveningorders",
+        "TotalallocatedMFN1623 minus genuineorders; otherFBAunchanged"
+      ],
+      "source_after_actual": 1613,
+      "target_quantity_actual": 10,
+      "actual_pool_check": {
+        "source": 1613,
+        "target_stored": 10,
+        "sum": 1623,
+        "matches_before": true,
+        "target_inventory_state": "00:25missingoffer0 pendingpropagation; actualfreshoffereditor10"
+      }
+    },
+    {
+      "B": 18,
+      "target_asin": "B00SMEEV4C",
+      "target_sku": "4A5013-B00SM-FBM",
+      "source_asin": "B01N1U9USQ",
+      "source_sku": "4A052",
+      "quantity_allocation": 10,
+      "price": "8.99",
+      "shipping_template": "Migrated Template",
+      "condition": "New",
+      "source_fresh_quantity": 1609,
+      "source_after_expected": 1599,
+      "handling_time": "Blank source uses account default; target blank matches source, no numeric day inferred",
+      "status": "SOURCE_REDUCED_ACTUAL_TARGET_ACCEPTED_AWAIT_LISTING",
+      "target_submitted_at_beijing": "2026-11-03T00:24:00+08:00",
+      "target_submit_accepted": true,
+      "verified_complete": false,
+      "remaining_checks": [
+        "Actualtargetactive10/source1599 or reconcileinterveningorders",
+        "TotalMFN1609 minusactualorders, otherFBAunchanged"
+      ],
+      "source_after_actual": 1599
+    }
+  ],
+  "temporary_propagation_overlap": "User accepted temporary visible overlap after source reduction submitted once; never repeat reduction/create. Final total pool check remains pending.",
+  "B_preserved_exceptions": [
+    "30315 unchanged by user",
+    "608210 unchanged by user",
+    "B5/B6 retain better existing source pages"
+  ],
+  "B19_hold": "Target actualSize saysPack6 againstverified1pad200sheets; no newMFN created",
+  "family_actual_validation": {
+    "PAPER_C29": 29,
+    "PSS_PET_C20": 20,
+    "source_offers_preserved": 119,
+    "outside_scope_protected": {
+      "offers": 26,
+      "parents": 2
+    },
+    "limitation": "These49groupsmembers verified backend identity/labels/offer preservation, notalloriginalfamilies orbuyerreviewaggregation completed."
+  },
+  "direct_repairs": {
+    "40606_manufacturer": "Actualcorrect4A（USA）LIMITED; batch285668020759 successothererror old101078crossmarketID remains",
+    "60238_materials": "BothSKUactualPET+PP replaceswrong4A; batch285670020759 SFsuccess FBAothererror oldcolor8541/highlight100476",
+    "60238_package": "FBA6.6x2.48x0.15in0.07lb actualcorrect, userconfirmedsalePackage; title/manufactureractualcorrect"
+  },
+  "support_cases": [
+    {
+      "case_id": "22948463321",
+      "topic": "SelectiveYOR2ASIN oldparentreassignment; keepallchildoffers, noASINdelete",
+      "status": "Submitted2026-11-02 awaitingplatform",
+      "response_window": "Official indicatedwithin3days; no replyconfirmed"
+    },
+    {
+      "case_id": "22949202581",
+      "topic": "Color99022 and4SKUlanguage100720; authorized40609hiddenUPC supplement",
+      "status": "Submitted2026-11-02 awaitingplatform",
+      "response_window": "Awaitingplatform; no confirmedreplyorfixdeadline"
+    }
+  ],
+  "handoff_safety": [
+    "Do not resubmit B17/B18; first inspect actualexistingoffers and quantities.",
+    "Do not treat userstockoverlapacceptance asnewphysicalinventory.",
+    "Do not overwritecompletebullet/materialarrays withsparsepartialslots.",
+    "Do not delete childASINs or riskyrealproductparent aliases.",
+    "No new advertisingbudget ordiscountapproval inthismanifest."
+  ],
+  "binary_artifacts": "Notincluded; original frozen upload files remain unchanged. ThisJSON is a progress handoff, notan Amazonupload template.",
+  "old19_closeout": "The round of authorized manual corrections was completed before family restructuring; historical catalog/identifier warnings are not represented as universally cleared. Original19 report38rows retained separately.",
+  "B_original27_disposition": {
+    "updated_beijing": "2026-11-02T23:59:00+08:00",
+    "denominator": "Original27pagepair proposals; not27unique physicalproducts and not27requiredwrites",
+    "counts": {
+      "CLOSED_NO_NEW_OFFER": 3,
+      "CLOSED_KEEP_CURRENT_USER_EXCEPTION": 2,
+      "CLOSED_KEEP_BETTER_EXISTING_SOURCE": 2,
+      "NEXT_EVIDENCE_REVIEW_NOT_EXECUTING": 7,
+      "HOLD_PRODUCT_IDENTITY_CASE": 1,
+      "RECOMMEND_KEEP_SOURCE_PENDING_EVIDENCE_DECISION": 4,
+      "NO_DEMONSTRATED_RATING_GAIN": 1,
+      "EXECUTING_ALLOCATION10": 2,
+      "HOLD_ACTUAL_TARGET_FALSE_PACK6": 1,
+      "HOLD_PACK_AND_LARGE_PARCEL_SHIPPING": 4
+    },
+    "rows": [
+      {
+        "B": 1,
+        "target_asin": "B07F2BHFJH",
+        "source_asins": [],
+        "state": "CLOSED_NO_NEW_OFFER",
+        "reason": "Target alreadyMFN; no duplicate"
+      },
+      {
+        "B": 2,
+        "target_asin": "B00SMEFFRE",
+        "source_asins": [],
+        "state": "CLOSED_NO_NEW_OFFER",
+        "reason": "Target alreadyMFN; no duplicate"
+      },
+      {
+        "B": 3,
+        "target_asin": "B01M3N310M",
+        "source_asins": [
+          "B07FKJLZNG"
+        ],
+        "state": "CLOSED_NO_NEW_OFFER",
+        "reason": "Target alreadyMFN; no duplicate"
+      },
+      {
+        "B": 4,
+        "target_asin": "B07F295DPC",
+        "source_asins": [
+          "B07FKG29KB"
+        ],
+        "state": "CLOSED_KEEP_CURRENT_USER_EXCEPTION",
+        "reason": "Userexplicit30315/608210unchanged"
+      },
+      {
+        "B": 5,
+        "target_asin": "B07T7PXS32",
+        "source_asins": [
+          "B07RQ7JMV9"
+        ],
+        "state": "CLOSED_KEEP_BETTER_EXISTING_SOURCE",
+        "reason": "CurrentnativeAmazon screenshot source3.8/189 target3.7/43"
+      },
+      {
+        "B": 6,
+        "target_asin": "B07T42DXZ1",
+        "source_asins": [
+          "B07RP9LR73"
+        ],
+        "state": "CLOSED_KEEP_BETTER_EXISTING_SOURCE",
+        "reason": "CurrentnativeAmazon screenshot source3.8/189 target3.7/43"
+      },
+      {
+        "B": 7,
+        "target_asin": "B07DJXC4PJ",
+        "source_asins": [
+          "B07F295V3S"
+        ],
+        "state": "NEXT_EVIDENCE_REVIEW_NOT_EXECUTING",
+        "reason": "Targethistoricalratingmissing; source1.0/1 only; liveofferready butpagechoice unresolved"
+      },
+      {
+        "B": 8,
+        "target_asin": "B01MDJCWVH",
+        "source_asins": [
+          "B01MSZS7M3"
+        ],
+        "state": "HOLD_PRODUCT_IDENTITY_CASE",
+        "reason": "406existingcase22933634461 UPC/photo identity boundary"
+      },
+      {
+        "B": 9,
+        "target_asin": "B07T429N23",
+        "source_asins": [
+          "B07RP9MB7Y"
+        ],
+        "state": "RECOMMEND_KEEP_SOURCE_PENDING_EVIDENCE_DECISION",
+        "reason": "Nov1source4.4/64 target4.2/56; cached native Amazon rating region verified"
+      },
+      {
+        "B": 10,
+        "target_asin": "B07HDVVZ1B",
+        "source_asins": [
+          "B07B8RBCKT"
+        ],
+        "state": "CLOSED_KEEP_CURRENT_USER_EXCEPTION",
+        "reason": "Userexplicit30315/608210unchanged"
+      },
+      {
+        "B": 11,
+        "target_asin": "B07T79KGWF",
+        "source_asins": [
+          "B07RN7WQ81"
+        ],
+        "state": "NEXT_EVIDENCE_REVIEW_NOT_EXECUTING",
+        "reason": "Targethistoricalratingmissing; source4.0/29; truepack4pads×3packs"
+      },
+      {
+        "B": 12,
+        "target_asin": "B08CVLH794",
+        "source_asins": [
+          "B08DKJ2K3T"
+        ],
+        "state": "NO_DEMONSTRATED_RATING_GAIN",
+        "reason": "Nov1both3.8/223; earlierdifference superseded"
+      },
+      {
+        "B": 13,
+        "target_asin": "B07JVSYNYV",
+        "source_asins": [
+          "B07K8L4K8K"
+        ],
+        "state": "RECOMMEND_KEEP_SOURCE_PENDING_EVIDENCE_DECISION",
+        "reason": "Historicalsource4.6/22 target4.0/53; datedsourcecomparison"
+      },
+      {
+        "B": 14,
+        "target_asin": "B07Z2555TN",
+        "source_asins": [
+          "B07WK3JX6K"
+        ],
+        "state": "NEXT_EVIDENCE_REVIEW_NOT_EXECUTING",
+        "reason": "Targethistorical4.1/33, sourceunavailable; notautomaticbetter"
+      },
+      {
+        "B": 15,
+        "target_asin": "B07DJP6SNG",
+        "source_asins": [
+          "B07FKHHTYG"
+        ],
+        "state": "RECOMMEND_KEEP_SOURCE_PENDING_EVIDENCE_DECISION",
+        "reason": "Historicalsource4.3/36 target4.1/104"
+      },
+      {
+        "B": 16,
+        "target_asin": "B00SMEEVC4",
+        "source_asins": [
+          "B01N6IT5IG"
+        ],
+        "state": "NEXT_EVIDENCE_REVIEW_NOT_EXECUTING",
+        "reason": "Target4.1/325 sourceunavailable; sharedparentaggregatepossible"
+      },
+      {
+        "B": 17,
+        "target_asin": "B00SMEEVCO",
+        "source_asins": [
+          "B01MY06P05"
+        ],
+        "state": "EXECUTING_ALLOCATION10",
+        "reason": "User-authorized allocation of 10; source reduced and target submitted; final active-state verification pending"
+      },
+      {
+        "B": 18,
+        "target_asin": "B00SMEEV4C",
+        "source_asins": [
+          "B01N1U9USQ"
+        ],
+        "state": "EXECUTING_ALLOCATION10",
+        "reason": "User-authorized allocation of 10; source reduced and target submitted; final active-state verification pending"
+      },
+      {
+        "B": 19,
+        "target_asin": "B00SMEEN40",
+        "source_asins": [
+          "B01N9JKGO8"
+        ],
+        "state": "HOLD_ACTUAL_TARGET_FALSE_PACK6",
+        "reason": "Actual23:57SizePack6 againstmaster1pad200; nooffer"
+      },
+      {
+        "B": 20,
+        "target_asin": "B00SMEEN8G",
+        "source_asins": [
+          "B01NCNPD4N"
+        ],
+        "state": "NEXT_EVIDENCE_REVIEW_NOT_EXECUTING",
+        "reason": "Target4.1/325 sourceunavailable; sharedparentaggregatepossible"
+      },
+      {
+        "B": 21,
+        "target_asin": "B01LPKL5IE",
+        "source_asins": [
+          "B07548QLN8"
+        ],
+        "state": "NEXT_EVIDENCE_REVIEW_NOT_EXECUTING",
+        "reason": "Targetratingmissing source5.0/2; true52sheetsnotAG60"
+      },
+      {
+        "B": 22,
+        "target_asin": "B00SMEDVEI",
+        "source_asins": [
+          "B01MU5BGNQ"
+        ],
+        "state": "RECOMMEND_KEEP_SOURCE_PENDING_EVIDENCE_DECISION",
+        "reason": "Historicalsource4.6/17 target4.4/84"
+      },
+      {
+        "B": 23,
+        "target_asin": "B07T55RL97",
+        "source_asins": [
+          "B07QZR9Z3P"
+        ],
+        "state": "HOLD_PACK_AND_LARGE_PARCEL_SHIPPING",
+        "reason": "Exactsalespack/currentshippingcost gate; do notcopyoldlargepadprice"
+      },
+      {
+        "B": 24,
+        "target_asin": "B07T78PWRY",
+        "source_asins": [
+          "B07QWKYQV7"
+        ],
+        "state": "HOLD_PACK_AND_LARGE_PARCEL_SHIPPING",
+        "reason": "Exactsalespack/currentshippingcost gate; do notcopyoldlargepadprice"
+      },
+      {
+        "B": 25,
+        "target_asin": "B07T78QKJ3",
+        "source_asins": [
+          "B07R1XLCP4"
+        ],
+        "state": "HOLD_PACK_AND_LARGE_PARCEL_SHIPPING",
+        "reason": "Exactsalespack/currentshippingcost gate; do notcopyoldlargepadprice"
+      },
+      {
+        "B": 26,
+        "target_asin": "B07T79M4MD",
+        "source_asins": [
+          "B07RT4GTLZ"
+        ],
+        "state": "HOLD_PACK_AND_LARGE_PARCEL_SHIPPING",
+        "reason": "Exactsalespack/currentshippingcost gate; do notcopyoldlargepadprice"
+      },
+      {
+        "B": 27,
+        "target_asin": "B07T42DY4H",
+        "source_asins": [
+          "B07QXJY3FH"
+        ],
+        "state": "NEXT_EVIDENCE_REVIEW_NOT_EXECUTING",
+        "reason": "Differenthistoricaltables target3.9/10 source3.7/34; datesunverified, true2loaded+2refill"
+      }
+    ],
+    "additional22": "Separatecandidateinventory B_additional22_evidence_screen_2140.json; review originalratingsjoin underway. Notcountedasready orcompleted."
+  },
+  "additional22_status": "22extra candidate pairs identified,14 have bothsideshistoricalratings; notallverifiedcurrent orselected. Originalcapture/parentaggregate caveats remain.",
+  "next_actions": [
+    "CheckB17/B18actualsaleableandfinalsourcepool withoutrecreating",
+    "CompleteBremainingpagechoice/identityholds usingoriginalrepoevidence",
+    "Resolveplatformcases onlyauthorizedscope",
+    "Prepareadvertisingandpromotionsplan; actualbudget/discountnotyetset"
+  ],
+  "separate_deferred_items": {
+    "nine_attribute_abuse_warnings_and_301x24": "Deferred by user until classification work; not certified resolved by this progress package. Keep 301x24 actual ASIN B01LVXOCU2 separate from temporarily closed 301x24-Y B01N9HHKRM.",
+    "older_compliance": "305x6-Y trademark complaint and CR012 ps_toys_dv_us are independent pre-existing compliance items; no clearance claim in this package."
+  }
+}
