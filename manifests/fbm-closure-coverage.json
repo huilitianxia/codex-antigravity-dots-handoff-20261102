@@ -4,5 +4,7 @@
   "files": [
     "conversations/codex-fbm-closure/events-001.jsonl"
   ],
-  "rule": "Amazon browser operations and FBM evidence writes only after archive-scope steering; machine archive operations excluded."
+  "rule": "Amazon browser operations and FBM evidence writes only after archive-scope steering; machine archive operations excluded.",
+  "supplemental_public_assistant_messages": 11,
+  "chat_file": "conversations/codex-fbm-closure/chat-001.md"
 }
