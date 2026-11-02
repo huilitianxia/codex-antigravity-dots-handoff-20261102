@@ -1,0 +1,9 @@
+{
+  "subject": "解析各订单总表与Search文件的ASIN/标题",
+  "description": "用 openpyxl/zipfile 兜底读取 周订单总表-2023/2024、Amazon Bulk order-2023/2024总表、Search(4A-sticky-notes)-59-US-20260808.xlsx，提取每张表的 ASIN 与产品标题。",
+  "activeForm": "解析订单总表与Search文件",
+  "status": "completed",
+  "id": "4",
+  "createdAt": 1786429844194,
+  "updatedAt": 1786430481346
+}

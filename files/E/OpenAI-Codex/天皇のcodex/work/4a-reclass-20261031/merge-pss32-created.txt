@@ -1,0 +1,338 @@
+- navigation:
+  - button "菜单":
+  - generic: 菜单
+  - button:
+  - navigation:
+    - searchbox
+    - link:
+      - /url: /amazonsell/business
+      - generic: 我的业务
+    - button:
+      - generic: 商品
+    - link:
+      - /url: /amazonsell/listings
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/manage-products
+      - text: 管理商品
+      - button:
+    - link:
+      - /url: /pricing/health
+      - text: 管理定价
+      - button:
+    - link:
+      - /url: /product-search
+      - text: 添加商品
+      - button:
+    - link:
+      - /url: /feedback-manager/index.html
+      - text: 分析评论
+      - button:
+    - link:
+      - /url: /new-product-guidance
+      - text: 研究商品
+      - button:
+    - link:
+      - /url: /gex
+      - text: 全球开店
+      - button:
+    - link:
+      - /url: /listing/reports
+      - text: 商品报告
+      - button:
+    - button:
+      - generic: 供应链
+    - link:
+      - /url: /amazonsell/inventory
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/fba-inventory
+      - text: 管理亚马逊库存
+      - button:
+    - link:
+      - /url: /global-store
+      - text: 管理海外购
+      - button:
+    - link:
+      - /url: /seller-fulfilled-product/analytics
+      - text: 管理卖家自配送库存
+      - button:
+    - link:
+      - /url: /manage/shipments
+      - text: 管理货件
+      - button:
+    - link:
+      - /url: /fba/sendtoamazon
+      - text: Send to Amazon
+      - button:
+    - link:
+      - /url: /channel-manager
+      - text: 管理渠道目的地
+      - button:
+    - link:
+      - /url: https://supplychain.amazon.com/scp/login?utm_source=ngs_persistence_link
+      - text: 供应链控制面板
+      - button:
+    - link:
+      - /url: /reportcentral/WelcomePage
+      - text: 供应链报告
+      - button:
+    - button:
+      - generic: 订单
+    - link:
+      - /url: /amazonsell/orders
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/orders/mfn
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /amazonsell/orders/fba
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /business/manage-quotes
+      - text: 管理报价
+      - button:
+    - link:
+      - /url: /manage/returns/mfn
+      - text: 管理退货
+      - button:
+    - link:
+      - /url: /gp/chargebacks/home.html
+      - text: 管理索赔
+      - button:
+    - link:
+      - /url: /order-reports-and-feeds/reports
+      - text: 订单报告
+      - button:
+    - button:
+      - generic: 营销推广
+    - link:
+      - /url: /amazonsell/marketing
+      - text: 工作区
+    - link:
+      - /url: /promotion-central/dashboard
+      - text: 管理促销和特惠
+      - button:
+    - link:
+      - /url: /brand-analytics
+      - text: 品牌分析
+      - button:
+    - link:
+      - /url: /cm?source=ngs
+      - text: 广告控制台
+      - button:
+    - link:
+      - /url: /vine
+      - text: Vine
+      - button:
+    - button:
+      - generic: 财务人员
+    - link:
+      - /url: /amazonsell/payments
+      - text: 工作区
+    - link:
+      - /url: /manage/finance/transactions
+      - text: 管理交易
+      - button:
+    - link:
+      - /url: /managetaxes/global-transaction-reports
+      - text: 管理税费
+      - button:
+    - link:
+      - /url: /economics
+      - text: 利润分析
+      - button:
+    - link:
+      - /url: /manage/finance/reports
+      - text: 财务报告
+      - button:
+    - button:
+      - generic: 账户状况
+    - link:
+      - /url: /performance/dashboard
+      - text: 管理账户状况
+      - button:
+    - button:
+      - generic: 计划和应用程序
+    - link:
+      - /url: /recommended-programs
+      - text: 了解计划
+      - button:
+    - link:
+      - /url: /selling-partner-appstore
+      - text: 销售伙伴应用商店
+      - button:
+    - link:
+      - /url: /tsba
+      - text: 浏览服务
+      - button:
+  - link:
+    - /url: /sitemap
+    - text: 站点地图
+  - link:
+    - /url: /home?ngs_do_not_redirect_flag=1
+    - text: 传统卖家平台
+  - link "Amazon":
+    - /url: /amazonsell
+  - button "4A (USA) LIMITED 美国":
+    - generic: 4A (USA) LIMITED
+    - generic: 美国
+  - button "账户状况":
+    - generic: 账户状况
+    - generic: 存在风险
+  - textbox "搜索任何内容"
+  - button "询问卖家助手":
+    - generic: 卖家助手
+  - link "新增内容":
+    - /url: /featurereleases
+  - link "消息":
+    - /url: /messaging/inbox-v3?fi=responseNeeded&&
+  - button "帮助":
+  - button "设置":
+- navigation:
+  - button:
+  - link "管理交易":
+    - /url: /manage/finance/transactions
+    - generic: 管理交易
+  - link "卖家大学":
+    - /url: /su/learn
+    - generic: 卖家大学
+  - link "管理商品":
+    - /url: /amazonsell/manage-products
+    - generic: 管理商品
+  - link "广告控制台":
+    - /url: /cm?source=ngs
+    - generic: 广告控制台
+  - link "管理货件":
+    - /url: /manage/shipments
+    - generic: 管理货件
+  - link "商品商机探测器":
+    - /url: /new-product-guidance
+    - generic: 商品商机探测器
+  - link "品牌分析":
+    - /url: /brand-analytics
+    - generic: 品牌分析
+  - link "A+ 商品描述管理器":
+    - /url: /enhanced-content/ref=xx_ebc_favb_xx
+    - generic: A+ 商品描述管理器
+  - link "业务报告":
+    - /url: /business-reports#/dashboard
+    - generic: 业务报告
+  - link "亚马逊物流库存报告":
+    - /url: /reportcentral/WelcomePage
+    - generic: 亚马逊物流库存报告
+  - link "商品报告":
+    - /url: /listing/reports
+    - generic: 商品报告
+  - link "绩效通知":
+    - /url: /performance/notifications
+    - generic: 绩效通知
+  - link "管理账户状况":
+    - /url: /performance/dashboard
+    - generic: 管理账户状况
+  - button:
+- list
+- button "✕"
+- navigation "面包屑":
+  - list:
+    - generic: 支持资源
+    - generic: 获取帮助和资源
+- iframe [active] [id="mons-body-container"]:
+  - generic: 
+  - generic: 此页面将迁移至卖家助手
+  - generic: 您仍然可以通过卖家助手创建问题单并联系在线客服。
+  - link "了解卖家助手的更多信息":
+    - /url: /help/hub/reference/GLYJTRGQCYNYAZS9
+  - heading "获取帮助和资源" [level=1]:
+    - generic: 获取帮助和资源
+  - generic: 今天需要哪些帮助？ 您可以在此处快速处理大部分事宜，也可以在需要时联系我们。
+  - link "管理支持问题":
+    - /url: /cu/case-lobby
+    - button "管理支持问题":
+      - generic: 管理支持问题
+  - link "创建新问题":
+    - /url: "#"
+    - button "创建新问题":
+      - generic: 创建新问题
+  - generic: "1"
+  - generic: 选择常见问题或描述您的问题
+  - article: 商城：
+  - generic "美国":
+    - generic: 美国
+    - generic: 
+  - article: 服务：
+  - generic "我要开店":
+    - generic: 我要开店
+    - generic: 
+  - generic: 建议的描述
+  - button "使用原始文本" [disabled]:
+    - generic: 
+    - generic: 使用原始文本
+  - button "撤销" [disabled]:
+    - generic: 
+    - generic: 撤销
+  - button "重做" [disabled]:
+    - generic: 
+    - generic: 重做
+  - checkbox [disabled]
+  - generic: 显示对比
+  - textbox:
+    - paragraph:
+      - strong: 您需要什么帮助？
+      - text: "1. PSS 32x6 - specification correction and duplicate-product verification Candidate ASINs: B08DKJ2K3T and B08CVLH794. Preferred retained ASIN if identical and eligible: B08DKJ2K3T, which currently carries the active FBA and MFN offers. Both current product titles and our product master describe six full-adhesive note rolls with dispensers, 0.6 x 393 inches, six neon colors, model 4A PSS 32x6. The current size labels differ: Pack 6 versus Pack 44. Please verify the physical pack quantity and correct an unsupported size label before reviewing duplicate eligibility. Our master lists UPC 702877126561 for B08DKJ2K3T and 702877126578 for B08CVLH794; we do not claim those codes are equivalent. Please confirm the authoritative code mapping and specify any manufacturer/barcode evidence required. If identical and eligible, review consolidating B08CVLH794 into B08DKJ2K3T while preserving existing FBA associations. No family or pricing changes requested. Evidence ready: current page snapshots, scoped master row 110, existing FBA/MFN map. Manufacturer public barcode evidence still to obtain if required. Both pages now display 3.8/223; these may be shared reviews, and we are not requesting a merge for review aggregation."
+      - strong: 您采取了哪些措施？
+      - text: Reviewed both product pages and our product master. Six-roll titles conflict with Pack 44 on the older page. Different UPCs need catalog verification. No SKU remap or family change has been made.
+  - text: 请勿包含任何个人信息或敏感信息
+  - generic: 
+  - generic: 1443/10000 字符
+  - button "2 个附件":
+    - generic: 2 个附件
+    - generic: 
+  - generic: "2"
+  - generic: 解决问题
+  - generic: 合并重复的商品页面
+  - text: 请提供要合并的两个 ASIN。我们将审核您的请求并尽快回复。
+  - link "如何实现合并？":
+    - /url: /gp/help/G201950590
+  - generic: 目标 ASIN
+  - textbox [disabled]
+  - generic: 源 ASIN
+  - textbox [disabled]
+  - generic: 正在审核 brand。请在详情页面上确认当前值以继续。
+  - link "详情页面":
+    - /url: https://www.amazon.com/dp/B08DKJ2K3T
+    - generic: 详情页面
+  - button "4A" [disabled]:
+    - generic: 4A
+  - button "4 ايه" [disabled]:
+    - generic: 4 ايه
+  - text: 需要执行进一步分析。创建问题。
+  - list:
+    - listitem: 要保留的 ASIN： B08DKJ2K3T
+    - listitem: 要移除的 ASIN：B08CVLH794
+  - generic: 解决您的问题
+  - generic: 案例 22934108221 已创建：
+  - generic: 我们会在 3 天内向您发送电子邮件。
+  - 'link "查看问题编号 {1}"':
+    - /url: /cu/case-dashboard/view-case?ref=sc_cd_lobby_vc_v3&ie=UTF&caseID=22934108221
+    - generic: "查看问题编号 {1}"
+  - generic: 支持工具
+  - list:
+    - link "论坛":
+      - /url: /seller-forums
+      - generic: 论坛
+    - link "文章":
+      - /url: /gp/help
+      - generic: 文章
+    - link "卖家大学":
+      - /url: /learn
+      - generic: 卖家大学
+- link "站点地图":
+  - /url: /sitemap
+- link "计划政策":
+  - /url: /help/hub/reference/521
+- generic: © 1999-2026，Amazon.com, Inc. 或其附属公司
+- link "反馈":
+  - /url: "#"

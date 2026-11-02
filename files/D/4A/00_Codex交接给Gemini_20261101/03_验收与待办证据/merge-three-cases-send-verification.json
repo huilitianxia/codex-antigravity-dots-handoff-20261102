@@ -1,0 +1,106 @@
+{
+  "verified_at": "2026-11-01T18:50:00+08:00",
+  "authorized_scope": "Send three specifically approved catalog identity and conditional duplicate-review requests, with scoped evidence. No other groups.",
+  "summary": {
+    "requests_sent": 3,
+    "processing": 2,
+    "answered_not_merged": 1,
+    "actual_merges_verified": 0,
+    "attachments_per_case": 2
+  },
+  "cases": [
+    {
+      "group": "PSS32x6",
+      "case_id": "22934108221",
+      "url": "https://sellercentral.amazon.com/cu/case-dashboard/view-case?caseID=22934108221",
+      "full_text_sent_local": "2026-11-01 18:09 GMT+8",
+      "latest_status": "ANSWERED_NOT_MERGED_NEEDS_SPEC_PROOF",
+      "body_reviewed_complete": true,
+      "key_factual_terms_checked": {
+        "B08DKJ2K3T": true,
+        "B08CVLH794": true,
+        "702877126561": true,
+        "702877126578": true,
+        "Pack 44": true,
+        "preserving existing FBA associations": true
+      },
+      "attachment_links_verified": {
+        "identity-fields.txt": true,
+        "product-page-excerpts.txt": true
+      },
+      "evidence_files": [
+        "merge-pss32-sent-final.txt",
+        "merge-pss32-sent-final.png"
+      ],
+      "screenshot_visually_reviewed": true,
+      "package_directory": "merge-support-packages/pss32x6",
+      "catalog_merge_verified": false,
+      "new_fba_remap_or_family_edit": false,
+      "latest_reply": {
+        "at": "2026-11-01 18:28 GMT+8",
+        "evidence": "merge-pss32-reply-1828.txt",
+        "reason": "Amazon reports both ASINs are children of B0HPTC18T2 and rejects duplicate merge due to Pack 44 versus Pack 6. Needs authoritative physical specification evidence before reconsideration.",
+        "further_reply_sent": false
+      }
+    },
+    {
+      "group": "406x6 pastel",
+      "case_id": "22933634461",
+      "url": "https://sellercentral.amazon.com/cu/case-dashboard/view-case?caseID=22933634461",
+      "full_text_sent_local": "2026-11-01 18:33 GMT+8",
+      "latest_status": "PROCESSING",
+      "body_reviewed_complete": true,
+      "key_factual_terms_checked": {
+        "B07FKL263W": true,
+        "B01MSZS7M3": true,
+        "B01MDJCWVH": true,
+        "702877117460": true,
+        "702877118924": true,
+        "702877123584": true,
+        "only if all represent the identical physical product": true
+      },
+      "attachment_links_verified": {
+        "identity-fields.txt": true,
+        "product-page-excerpts.txt": true
+      },
+      "evidence_files": [
+        "merge-406pastel-sent-final.txt",
+        "merge-406pastel-sent-final.png"
+      ],
+      "screenshot_visually_reviewed": true,
+      "package_directory": "merge-support-packages/406-pastel",
+      "catalog_merge_verified": false,
+      "new_fba_remap_or_family_edit": false
+    },
+    {
+      "group": "406x6 neon",
+      "case_id": "22934554591",
+      "url": "https://sellercentral.amazon.com/cu/case-dashboard/view-case?caseID=22934554591",
+      "full_text_sent_local": "2026-11-01 18:48 GMT+8",
+      "latest_status": "PROCESSING",
+      "body_reviewed_complete": true,
+      "key_factual_terms_checked": {
+        "B07FKHHTY4": true,
+        "B01MSZSEBW": true,
+        "702877117477": true,
+        "702877118931": true,
+        "If the physical products and codes are verified": true,
+        "https://4ausa.com/product/4a-sticky-notes-neon-assorted-collection": true
+      },
+      "attachment_links_verified": {
+        "identity-fields.txt": true,
+        "product-page-excerpts.txt": true
+      },
+      "evidence_files": [
+        "merge-406neon-sent-final.txt",
+        "merge-406neon-sent-final.png"
+      ],
+      "screenshot_visually_reviewed": true,
+      "package_directory": "merge-support-packages/406-neon",
+      "catalog_merge_verified": false,
+      "new_fba_remap_or_family_edit": false
+    }
+  ],
+  "privacy_review": "Attachment packages contain only relevant identity fields and main-page specification excerpts. No FOB/cost data, full master workbook, price/stock quantities, cart, recommendations, or unrelated product-page screenshots. No raster images were attached.",
+  "prior_30315": "Separate case22923307871; root latest read still processing, no additional refresh or reply by this agent."
+}

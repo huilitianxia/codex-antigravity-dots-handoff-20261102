@@ -1,0 +1,282 @@
+[
+  {
+    "sku": "4A BP 1111-Nx4",
+    "source_row": 367,
+    "asin": "B07QWKYQV7",
+    "note": "Move 11x11 in Big Pad out of 3x3 303 family into BIGPAD family",
+    "before": {
+      "parent": "PARENT-4A-303-CLASSIC-SQUARE",
+      "theme": "COLOR/SIZE",
+      "color": "Bright Ultra Colors",
+      "size": "12 Pads Pack (Pack 9)",
+      "colormap": null
+    },
+    "after": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Bright Ultra Colors",
+      "size": "11 x 11 in (4 Pads)",
+      "colormap": "Multicolor"
+    }
+  },
+  {
+    "sku": "4A GMBP 1111-Nx4",
+    "source_row": 491,
+    "asin": "B07QWKYQV7",
+    "note": "Move 11x11 in Big Pad (839u) out of 3x3 303 family into BIGPAD family",
+    "before": {
+      "parent": "PARENT-4A-303-CLASSIC-SQUARE",
+      "theme": "COLOR/SIZE",
+      "color": "Bright Ultra Colors",
+      "size": "12 Pads Pack (Pack 7)",
+      "colormap": null
+    },
+    "after": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Bright Ultra Colors",
+      "size": "11 x 11 in (4 Pads)",
+      "colormap": "Multicolor"
+    }
+  },
+  {
+    "sku": "4A BP 1111-Px4",
+    "source_row": 369,
+    "asin": "B07QZR9Z3P",
+    "note": "Move 11x11 in Pastel Big Pad out of 3x3 303 family into BIGPAD family",
+    "before": {
+      "parent": "PARENT-4A-303-CLASSIC-SQUARE",
+      "theme": "COLOR/SIZE",
+      "color": "Pastel Assorted",
+      "size": "12 Pads Pack (Pack 14)",
+      "colormap": null
+    },
+    "after": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Pastel Assorted",
+      "size": "11 x 11 in (4 Pads)",
+      "colormap": "Multicolor"
+    }
+  },
+  {
+    "sku": "4A GMBP 1111-Px4",
+    "source_row": 492,
+    "asin": "B07QZR9Z3P",
+    "note": "Move 11x11 in Pastel Big Pad (1010u) out of 3x3 303 family into BIGPAD family",
+    "before": {
+      "parent": "PARENT-4A-303-CLASSIC-SQUARE",
+      "theme": "COLOR/SIZE",
+      "color": "Pastel Assorted",
+      "size": "12 Pads Pack (Pack 13)",
+      "colormap": null
+    },
+    "after": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Pastel Assorted",
+      "size": "11 x 11 in (4 Pads)",
+      "colormap": "Multicolor"
+    }
+  },
+  {
+    "sku": "4A BP 1515-Nx4",
+    "source_row": 371,
+    "asin": "B07R1XLCP4",
+    "note": "Move 15x15 in Giant Pad out of 3x3 303 family into BIGPAD family",
+    "before": {
+      "parent": "PARENT-4A-303-CLASSIC-SQUARE",
+      "theme": "COLOR/SIZE",
+      "color": "Bright Ultra Colors",
+      "size": "12 Pads Pack (Pack 10)",
+      "colormap": null
+    },
+    "after": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Bright Ultra Colors",
+      "size": "15 x 15 in (4 Pads)",
+      "colormap": "Multicolor"
+    }
+  },
+  {
+    "sku": "4A GMBP 1515-Nx4",
+    "source_row": 493,
+    "asin": "B07R1XLCP4",
+    "note": "Move 15x15 in Giant Pad (461u) out of 3x3 303 family into BIGPAD family",
+    "before": {
+      "parent": "PARENT-4A-303-CLASSIC-SQUARE",
+      "theme": "COLOR/SIZE",
+      "color": "Bright Ultra Colors",
+      "size": "12 Pads Pack (Pack 8)",
+      "colormap": null
+    },
+    "after": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Bright Ultra Colors",
+      "size": "15 x 15 in (4 Pads)",
+      "colormap": "Multicolor"
+    }
+  },
+  {
+    "sku": "4A BP 2222-Nx4",
+    "source_row": 373,
+    "asin": "B07RT4GTLZ",
+    "note": "Move 22x22 in Giant Easel Pad (19 FBA) out of 1.5x2 301 mini family into BIGPAD family",
+    "before": {
+      "parent": "PARENT-4A-301-MINI-PADS",
+      "theme": "COLOR/SIZE",
+      "color": "Bright Ultra Colors",
+      "size": "12 Pads Pack (Pack 2)",
+      "colormap": null
+    },
+    "after": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Bright Ultra Colors",
+      "size": "22 x 22 in (4 Pads)",
+      "colormap": "Multicolor"
+    }
+  },
+  {
+    "sku": "4A GMBP 2222-Nx4",
+    "source_row": 494,
+    "asin": "B07RT4GTLZ",
+    "note": "Move 22x22 in Giant Easel Pad (393 MFN) out of 1.5x2 301 mini family into BIGPAD family",
+    "before": {
+      "parent": "PARENT-4A-301-MINI-PADS",
+      "theme": "COLOR/SIZE",
+      "color": "Bright Ultra Colors",
+      "size": "12 Pads Pack",
+      "colormap": null
+    },
+    "after": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Bright Ultra Colors",
+      "size": "22 x 22 in (4 Pads)",
+      "colormap": "Multicolor"
+    }
+  },
+  {
+    "sku": "4A BP1111 BL",
+    "source_row": 375,
+    "asin": "B01N6LJNW4",
+    "note": "Clean fake (Pack 4) suffix on B01N6LJNW4",
+    "before": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Pastel Assorted",
+      "size": "Standard Size (Pack 4)",
+      "colormap": null
+    },
+    "after": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Pastel Assorted",
+      "size": "11 x 11 in (1 Pad)",
+      "colormap": "Multicolor"
+    }
+  },
+  {
+    "sku": "4A BP1111 BLx3",
+    "source_row": 376,
+    "asin": "B01N6LJNW4",
+    "note": "Align same-ASIN B01N6LJNW4 size",
+    "before": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Pastel Assorted",
+      "size": "Standard Size (Pack 6)",
+      "colormap": null
+    },
+    "after": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Pastel Assorted",
+      "size": "11 x 11 in (1 Pad)",
+      "colormap": "Multicolor"
+    }
+  },
+  {
+    "sku": "4A BP1515 NGORY",
+    "source_row": 377,
+    "asin": "B07MK2Z3VK",
+    "note": "Clean fake (Pack 4) suffix on B07MK2Z3VK",
+    "before": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Neon Assorted",
+      "size": "Standard Size (Pack 4)",
+      "colormap": null
+    },
+    "after": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Neon Assorted",
+      "size": "15 x 15 in (1 Pad)",
+      "colormap": "Multicolor"
+    }
+  },
+  {
+    "sku": "4A GMBP1515 NGORY",
+    "source_row": 495,
+    "asin": "B07MK2Z3VK",
+    "note": "Clean conflicting (Pack 5) suffix on same-ASIN B07MK2Z3VK",
+    "before": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Neon Assorted",
+      "size": "Standard Size (Pack 5)",
+      "colormap": null
+    },
+    "after": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Neon Assorted",
+      "size": "15 x 15 in (1 Pad)",
+      "colormap": "Multicolor"
+    }
+  },
+  {
+    "sku": "4A BP2222 NGPOY",
+    "source_row": 378,
+    "asin": "B07M854GPK",
+    "note": "Set clean 22 x 22 in (1 Pad) size on B07M854GPK",
+    "before": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Neon Assorted",
+      "size": "Standard Size",
+      "colormap": null
+    },
+    "after": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Neon Assorted",
+      "size": "22 x 22 in (1 Pad)",
+      "colormap": "Multicolor"
+    }
+  },
+  {
+    "sku": "4A GMBP2222 NGPOY",
+    "source_row": 496,
+    "asin": "B07M854GPK",
+    "note": "Clean conflicting (Pack 3) suffix on same-ASIN B07M854GPK",
+    "before": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Neon Assorted",
+      "size": "Standard Size (Pack 3)",
+      "colormap": null
+    },
+    "after": {
+      "parent": "PARENT-4A-BIGPAD-MEETING-EASEL",
+      "theme": "COLOR/SIZE",
+      "color": "Neon Assorted",
+      "size": "22 x 22 in (1 Pad)",
+      "colormap": "Multicolor"
+    }
+  }
+]

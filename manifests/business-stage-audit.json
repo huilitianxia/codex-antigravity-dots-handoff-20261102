@@ -1,0 +1,156 @@
+{
+  "counts": {
+    "repository_files": 2075,
+    "repository_bytes": 277343028,
+    "payload_files": 1261,
+    "payload_bytes": 1540927322
+  },
+  "types": {
+    "": 2,
+    ".md": 77,
+    ".json": 375,
+    ".py": 402,
+    ".ts": 2,
+    ".bat": 2,
+    ".txt": 951,
+    ".html": 37,
+    ".mjs": 16,
+    ".csv": 9,
+    ".log": 9,
+    ".js": 7,
+    ".tsv": 9,
+    ".cjs": 9,
+    ".svg": 14,
+    ".jsonl": 154,
+    ".xlsm": 88,
+    ".xlsx": 109,
+    ".mp4": 21,
+    ".pdf": 6,
+    ".jpg": 367,
+    ".png": 654,
+    ".jpeg": 8,
+    ".docx": 2,
+    ".template": 1,
+    ".wav": 2,
+    ".xls": 2,
+    ".doc": 1
+  },
+  "strong_findings": [],
+  "special_review": [
+    {
+      "base": "repository",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/4a-reclass-20261031/author_073_business_only.mjs",
+      "bytes": 2134
+    },
+    {
+      "base": "repository",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/4a-reclass-20261031/author_four_noncoupon_promotions.mjs",
+      "bytes": 2823
+    },
+    {
+      "base": "repository",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/4a-reclass-20261031/author_min_cleanup.mjs",
+      "bytes": 1680
+    },
+    {
+      "base": "repository",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/4a-reclass-20261031/author_star_price_reset.mjs",
+      "bytes": 2599
+    },
+    {
+      "base": "repository",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/4a-reclass-20261031/author_urgent_batches.mjs",
+      "bytes": 8778
+    },
+    {
+      "base": "repository",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/4a-reclass-20261031/excel-price-authority.json",
+      "bytes": 74399
+    },
+    {
+      "base": "repository",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/4a-reclass-20261031/v4-authoring-status.txt",
+      "bytes": 2934
+    },
+    {
+      "base": "repository",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/fbm-eight-draft-20261102/authorized-targets.json",
+      "bytes": 299
+    },
+    {
+      "base": "repository",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/fbm-eight-draft-20261102/B01LVXOCU2-filled-authorized.txt",
+      "bytes": 19889
+    },
+    {
+      "base": "repository",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/fbm-eight-draft-20261102/B01M986R0Y-filled-authorized.txt",
+      "bytes": 22682
+    },
+    {
+      "base": "repository",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/fbm-eight-draft-20261102/B01MXYQPE1-filled-authorized.txt",
+      "bytes": 19820
+    },
+    {
+      "base": "repository",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/fbm-eight-draft-20261102/B01MXYR202-filled-authorized.txt",
+      "bytes": 19737
+    },
+    {
+      "base": "repository",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/fbm-eight-draft-20261102/B01MZ1PQQ8-filled-authorized.txt",
+      "bytes": 19417
+    },
+    {
+      "base": "repository",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/fbm-eight-draft-20261102/B01NGWHSK1-filled-authorized.txt",
+      "bytes": 19643
+    },
+    {
+      "base": "repository",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/fbm-eight-draft-20261102/B07FK7PBHJ-filled-authorized.txt",
+      "bytes": 24189
+    },
+    {
+      "base": "repository",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/fbm-eight-draft-20261102/B082WMV9NQ-filled-authorized.txt",
+      "bytes": 24334
+    },
+    {
+      "base": "payload",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/4a-reclass-20261031/05-min-cleanup-authored-cells.xlsx",
+      "bytes": 30419
+    },
+    {
+      "base": "payload",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/4a-reclass-20261031/07-star-authored-cells.xlsx",
+      "bytes": 30428
+    },
+    {
+      "base": "payload",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/4a-reclass-20261031/09-073-authored-cells.xlsx",
+      "bytes": 30335
+    },
+    {
+      "base": "payload",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/4a-reclass-20261031/10-four-authored-cells.xlsx",
+      "bytes": 30558
+    },
+    {
+      "base": "payload",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/4a-reclass-20261031/11-authored-cells.xlsx",
+      "bytes": 896755
+    },
+    {
+      "base": "payload",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/4a-reclass-20261031/12-authored-cells.xlsx",
+      "bytes": 963332
+    },
+    {
+      "base": "payload",
+      "path": "files/E/OpenAI-Codex/天皇のcodex/work/4a-reclass-20261031/13-authored-cells.xlsx",
+      "bytes": 895945
+    }
+  ]
+}

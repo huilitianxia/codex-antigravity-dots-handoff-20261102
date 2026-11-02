@@ -1,0 +1,508 @@
+- navigation:
+  - button "菜单":
+  - generic: 菜单
+  - button:
+  - navigation:
+    - searchbox
+    - link:
+      - /url: /amazonsell/business
+      - generic: 我的业务
+    - button:
+      - generic: 商品
+    - link:
+      - /url: /amazonsell/listings
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/manage-products
+      - text: 管理商品
+      - button:
+    - link:
+      - /url: /pricing/health
+      - text: 管理定价
+      - button:
+    - link:
+      - /url: /product-search
+      - text: 添加商品
+      - button:
+    - link:
+      - /url: /feedback-manager/index.html
+      - text: 分析评论
+      - button:
+    - link:
+      - /url: /new-product-guidance
+      - text: 研究商品
+      - button:
+    - link:
+      - /url: /gex
+      - text: 全球开店
+      - button:
+    - link:
+      - /url: /listing/reports
+      - text: 商品报告
+      - button:
+    - button:
+      - generic: 供应链
+    - link:
+      - /url: /amazonsell/inventory
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/fba-inventory
+      - text: 管理亚马逊库存
+      - button:
+    - link:
+      - /url: /global-store
+      - text: 管理海外购
+      - button:
+    - link:
+      - /url: /seller-fulfilled-product/analytics
+      - text: 管理卖家自配送库存
+      - button:
+    - link:
+      - /url: /manage/shipments
+      - text: 管理货件
+      - button:
+    - link:
+      - /url: /fba/sendtoamazon
+      - text: Send to Amazon
+      - button:
+    - link:
+      - /url: /channel-manager
+      - text: 管理渠道目的地
+      - button:
+    - link:
+      - /url: https://supplychain.amazon.com/scp/login?utm_source=ngs_persistence_link
+      - text: 供应链控制面板
+      - button:
+    - link:
+      - /url: /reportcentral/WelcomePage
+      - text: 供应链报告
+      - button:
+    - button:
+      - generic: 订单
+    - link:
+      - /url: /amazonsell/orders
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/orders/mfn
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /amazonsell/orders/fba
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /business/manage-quotes
+      - text: 管理报价
+      - button:
+    - link:
+      - /url: /manage/returns/mfn
+      - text: 管理退货
+      - button:
+    - link:
+      - /url: /gp/chargebacks/home.html
+      - text: 管理索赔
+      - button:
+    - link:
+      - /url: /order-reports-and-feeds/reports
+      - text: 订单报告
+      - button:
+    - button:
+      - generic: 营销推广
+    - link:
+      - /url: /amazonsell/marketing
+      - text: 工作区
+    - link:
+      - /url: /promotion-central/dashboard
+      - text: 管理促销和特惠
+      - button:
+    - link:
+      - /url: /brand-analytics
+      - text: 品牌分析
+      - button:
+    - link:
+      - /url: /cm?source=ngs
+      - text: 广告控制台
+      - button:
+    - link:
+      - /url: /vine
+      - text: Vine
+      - button:
+    - button:
+      - generic: 财务人员
+    - link:
+      - /url: /amazonsell/payments
+      - text: 工作区
+    - link:
+      - /url: /manage/finance/transactions
+      - text: 管理交易
+      - button:
+    - link:
+      - /url: /managetaxes/global-transaction-reports
+      - text: 管理税费
+      - button:
+    - link:
+      - /url: /economics
+      - text: 利润分析
+      - button:
+    - link:
+      - /url: /manage/finance/reports
+      - text: 财务报告
+      - button:
+    - button:
+      - generic: 账户状况
+    - link:
+      - /url: /performance/dashboard
+      - text: 管理账户状况
+      - button:
+    - button:
+      - generic: 计划和应用程序
+    - link:
+      - /url: /recommended-programs
+      - text: 了解计划
+      - button:
+    - link:
+      - /url: /selling-partner-appstore
+      - text: 销售伙伴应用商店
+      - button:
+    - link:
+      - /url: /tsba
+      - text: 浏览服务
+      - button:
+  - link:
+    - /url: /sitemap
+    - text: 站点地图
+  - link:
+    - /url: /home?ngs_do_not_redirect_flag=1
+    - text: 传统卖家平台
+  - link "Amazon":
+    - /url: /amazonsell
+  - button "4A (USA) LIMITED 美国":
+    - generic: 4A (USA) LIMITED
+    - generic: 美国
+  - button "账户状况":
+    - generic: 账户状况
+    - generic: 存在风险
+  - textbox "搜索任何内容"
+  - button "询问卖家助手":
+    - generic: 卖家助手
+  - link "新增内容":
+    - /url: /featurereleases
+  - link "消息":
+    - /url: /messaging/inbox-v3?fi=responseNeeded&&
+  - button "帮助":
+  - button "设置":
+- navigation:
+  - button:
+  - link "管理交易":
+    - /url: /manage/finance/transactions
+    - generic: 管理交易
+  - link "卖家大学":
+    - /url: /su/learn
+    - generic: 卖家大学
+  - link "管理商品":
+    - /url: /amazonsell/manage-products
+    - generic: 管理商品
+  - link "广告控制台":
+    - /url: /cm?source=ngs
+    - generic: 广告控制台
+  - link "管理货件":
+    - /url: /manage/shipments
+    - generic: 管理货件
+  - link "商品商机探测器":
+    - /url: /new-product-guidance
+    - generic: 商品商机探测器
+  - link "品牌分析":
+    - /url: /brand-analytics
+    - generic: 品牌分析
+  - link "A+ 商品描述管理器":
+    - /url: /enhanced-content/ref=xx_ebc_favb_xx
+    - generic: A+ 商品描述管理器
+  - link "业务报告":
+    - /url: /business-reports#/dashboard
+    - generic: 业务报告
+  - link "亚马逊物流库存报告":
+    - /url: /reportcentral/WelcomePage
+    - generic: 亚马逊物流库存报告
+  - link "商品报告":
+    - /url: /listing/reports
+    - generic: 商品报告
+  - link "绩效通知":
+    - /url: /performance/notifications
+    - generic: 绩效通知
+  - link "管理账户状况":
+    - /url: /performance/dashboard
+    - generic: 管理账户状况
+  - button:
+- list
+- button "✕"
+- navigation "面包屑":
+  - list:
+    - generic: 其他资源
+    - generic: 业务报告
+- generic: 
+- generic: 关闭报告菜单
+- generic: 控制面板
+- generic: 控制面板
+- link "销售控制面板":
+  - /url: "#/dashboard"
+- generic: 业务报告
+- generic: 业务报告
+- paragraph: 按日期
+- link "销售和流量":
+  - /url: "#/report?id=102:SalesTrafficTimeSeries"
+- link "详情页面销售和流量":
+  - /url: "#/report?id=102:DetailSalesTrafficByTime"
+- link "卖家绩效":
+  - /url: "#/report?id=102:SellerPerformanceForMerchants"
+- paragraph: 按 ASIN
+- link "详情页面销售和流量":
+  - /url: "#/report?id=102:DetailSalesTrafficBySKU"
+- link "详情页面销售和流量（按父商品）":
+  - /url: "#/report?id=102:DetailSalesTrafficByParentItem"
+- link "详情页面销售和流量（按子商品）":
+  - /url: "#/report?id=102:DetailSalesTrafficByChildItem"
+- paragraph: 其他
+- link "各月销售额和订单数量":
+  - /url: "#/report?id=SalesOrderByMonth"
+- generic: 
+- generic: 通过定制分析解锁 200+ 项指标
+- generic: 在定制分析中获取您在业务报告中使用的功能，以及更多其他功能。 探索销售额、流量、搜索、库存、评论等内容。 在年底前切换。
+- link "查看最新功能":
+  - /url: /custom-analytics/dashboard/overall-business-performance-template?utm_source=br-banner&utm_medium=in-product&utm_campaign=sc-ca-br-banner-q4-2026&utm_content=sales-dashboard&ref=br_banner
+  - generic: 查看最新功能
+- button "忽略":
+  - generic: 
+- heading "销售控制面板" [level=1]
+- generic: 了解更多信息
+- button "刷新":
+  - generic: 刷新
+- button "下载":
+  - generic: 下载
+- heading "深入了解您的 ASIN 绩效" [level=3]
+- button "隐藏 ASIN":
+  - generic: 隐藏 ASIN
+- generic: 比较以 2026年10月25日 结尾的一周（周一到周日）与之前一周（周一到周日）
+- generic: 比较以 2026年10月25日 结尾的一周（周一到周日）与之前一周（周一到周日）
+- button "有增长机会的商品" [disabled]:
+  - generic: 有增长机会的商品
+- button "销量下降的商品":
+  - generic: 销量下降的商品
+- button "销量增长的商品":
+  - generic: 销量增长的商品
+- button "流量下降的商品" [disabled]:
+  - generic: 流量下降的商品
+- button "低于市场平均值的商品":
+  - generic: 低于市场平均值的商品
+- button "畅销商品":
+  - generic: 畅销商品
+- generic "上一周":
+  - generic: 上一周
+  - generic: 
+- generic: 前一天
+- generic: 上一周
+- generic: 上个月
+- generic "以下商品轮播":
+  - img "4A Full Adhesive Roll Sticky Notes, 4 Sets Roll Tape Refills, 0.6 x 315 Inches, Colorful Sticky Roll Tape for Book, Notebook, Office, Home, School Supplies, 4A PSS 9-3 Refill"
+  - paragraph:
+    - text: 4A Full Adhesive Roll Sticky Notes, 4 Sets Roll Tape Refills, 0.6 x 315 Inches, Colorful Sticky Roll Tape for Book, Notebook, Office, Home, School Supplies, 4A PSS 9-3 Refill
+    - text: B0DY12Y8FK
+  - generic: 此 ASIN 的已购商品销售额下降了 US$181.93
+  - button "查看详情":
+    - generic: 查看详情
+  - img "4 A 全胶注"
+  - paragraph:
+    - text: 4 A 全胶注
+    - text: B00SMEFFRE
+  - generic: 此 ASIN 的已购商品销售额下降了 US$98.90
+  - button "查看详情":
+    - generic: 查看详情
+  - img "4A 2 包全粘性卷带分配器,0.6 x 315 英寸(约 1.6 x 81.9 厘米),3 种颜色卷,可拆卸彩色粘性卷带,适用于书籍、笔记本、办公室、家庭,4A PSS 9-3 YORx2"
+  - paragraph:
+    - text: 4A 2 包全粘性卷带分配器,0.6 x 315 英寸(约 1.6 x 81.9 厘米),3 种颜色卷,可拆卸彩色粘性卷带,适用于书籍、笔记本、办公室、家庭,4A PSS 9-3 YORx2
+    - text: B07FK9S7S8
+  - generic: 此 ASIN 的已购商品销售额下降了 US$94.95
+  - button "查看详情":
+    - generic: 查看详情
+  - img "4A 粘性便条立方体,6.35 x 6.35 厘米,500 张,4 面泡泡印花,备忘录立方体粘性块,适用于办公室、家庭、学校、4A SMC 434"
+  - paragraph:
+    - text: 4A 粘性便条立方体,6.35 x 6.35 厘米,500 张,4 面泡泡印花,备忘录立方体粘性块,适用于办公室、家庭、学校、4A SMC 434
+    - text: B07FKHNTRK
+  - generic: 此 ASIN 的已购商品销售额下降了 US$78.95
+  - button "查看详情":
+    - generic: 查看详情
+  - button:
+    - generic: 
+  - button:
+    - generic: 
+- list:
+- generic: 日期
+- generic: 日期
+- generic: 当天 - 2026/10/31
+- generic: 
+- generic: 销售明细
+- generic: 销售明细
+- generic: 商城汇总
+- generic: 
+- generic: 配送渠道
+- generic: 配送渠道
+- generic: 两种（亚马逊和卖家）
+- generic: 
+- button "应用":
+  - generic: 应用
+- heading "销售快照" [level=3]
+- generic: 拍摄于 2026/10/31 GMT-7 7:40:44
+- text: 订单商品总数
+- heading "4" [level=2]
+- text: 已订购商品数量
+- heading "4" [level=2]
+- text: 已订购商品的销售额
+- heading "US$54.96" [level=2]
+- text: 平均 商品数量/订单商品
+- heading "1" [level=2]
+- text: 平均 销售额/订单商品
+- heading "US$13.74" [level=2]
+- heading "比较销售情况" [level=3]
+- group "null":
+  - button "图表视图":
+    - generic: 图表视图
+  - button "表格视图":
+    - generic: 表格视图
+- table:
+  - rowgroup:
+    - row "订单商品总数 已订购商品数量 已订购商品的销售额 每种订单商品的平均数量 每种订单商品的平均销售额":
+      - columnheader
+      - columnheader "订单商品总数"
+      - columnheader "已订购商品数量"
+      - columnheader "已订购商品的销售额"
+      - columnheader "每种订单商品的平均数量"
+      - columnheader "每种订单商品的平均销售额"
+  - rowgroup:
+    - row "今天到目前为止 4 4 US$54.96 1 US$13.74":
+      - cell "今天到目前为止"
+      - cell "4"
+      - cell "4"
+      - cell "US$54.96"
+      - cell "1"
+      - cell "US$13.74"
+    - row "昨天 26 41 US$629.40 1.58 US$24.21":
+      - cell "昨天"
+      - cell "26"
+      - cell "41"
+      - cell "US$629.40"
+      - cell "1.58"
+      - cell "US$24.21"
+    - row "上周同一天 16 18 US$280.24 1.12 US$17.51":
+      - cell "上周同一天"
+      - cell "16"
+      - cell "18"
+      - cell "US$280.24"
+      - cell "1.12"
+      - cell "US$17.51"
+    - row "去年同一天 22 24 US$427.61 1.09 US$19.44":
+      - cell "去年同一天"
+      - cell "22"
+      - cell "24"
+      - cell "US$427.61"
+      - cell "1.09"
+      - cell "US$19.44"
+    - row "变化为 % 昨天 100% 100% 129.19% 0% 14.6%":
+      - cell "变化为 % 昨天":
+        - generic: 
+        - text: 变化为 % 昨天
+      - cell "100%":
+        - generic: 100%
+      - cell "100%":
+        - generic: 100%
+      - cell "129.19%":
+        - generic: 129.19%
+      - cell "0%":
+        - generic: 0%
+      - cell "14.6%":
+        - generic: 14.6%
+    - row "当天 到 上午 7:00 PDT 4 4 US$54.96 1 US$13.74":
+      - cell "当天 到 上午 7:00 PDT"
+      - cell "4"
+      - cell "4"
+      - cell "US$54.96"
+      - cell "1"
+      - cell "US$13.74"
+    - row "昨天 到 上午 7:00 PDT 2 2 US$23.98 1 US$11.99":
+      - cell "昨天 到 上午 7:00 PDT"
+      - cell "2"
+      - cell "2"
+      - cell "US$23.98"
+      - cell "1"
+      - cell "US$11.99"
+    - row "变化为 % 上周同一天 33% 33% -3.53% 0% -27.65%":
+      - cell "变化为 % 上周同一天":
+        - generic: 
+        - text: 变化为 % 上周同一天
+      - cell "33%":
+        - generic: 33%
+      - cell "33%":
+        - generic: 33%
+      - cell "-3.53%":
+        - generic: "-3.53%"
+      - cell "0%":
+        - generic: 0%
+      - cell "-27.65%":
+        - generic: "-27.65%"
+    - row "当天 到 上午 7:00 PDT 4 4 US$54.96 1 US$13.74":
+      - cell "当天 到 上午 7:00 PDT"
+      - cell "4"
+      - cell "4"
+      - cell "US$54.96"
+      - cell "1"
+      - cell "US$13.74"
+    - row "上周同一天 到 上午 7:00 PDT 3 3 US$56.97 1 US$18.99":
+      - cell "上周同一天 到 上午 7:00 PDT"
+      - cell "3"
+      - cell "3"
+      - cell "US$56.97"
+      - cell "1"
+      - cell "US$18.99"
+    - row "变化为 % 去年同一天 0% 0% -11.3% 0% -11.3%":
+      - cell "变化为 % 去年同一天":
+        - generic: 
+        - text: 变化为 % 去年同一天
+      - cell "0%":
+        - generic: 0%
+      - cell "0%":
+        - generic: 0%
+      - cell "-11.3%":
+        - generic: "-11.3%"
+      - cell "0%":
+        - generic: 0%
+      - cell "-11.3%":
+        - generic: "-11.3%"
+- text: 业务绩效洞察
+- generic: 此分析使用人工智能汇总数据生成。 请检查是否存在不准确的信息。 此分析不能代替您自己的业务专业知识。 亚马逊不保证使用此信息会为您的业务带来特定结果。
+- paragraph: 今天是 2026-10-31，所以上个月是 2026 年 9 月。 数据中的销售从2025年9月开始（与2025年10月的去年同期比较已经超过0），因此启动条件已得到满足。
+- paragraph: 2026 年 9 月的计算：
+- list:
+  - listitem: 销售额：US$18,089.32 与 US$21,249.47，变动幅度为-US$3,160.15 (-14.87%）。
+  - listitem: 单位：1,125 与 1,181，变化幅度为 -56 (-4.74%)。
+  - listitem: ASP：18,089.32/1,125 = US$16.08 与 21,249.47/1,181 = US$17.99 相比，变更了-US$1.91（大约-11%）。
+  - listitem: 页面浏览量：7,768 与 9,283，变化幅度为-16.3%。
+  - listitem: 精选出价百分比：98.49% 与 95.5%，变动幅度为 +299 个基点。 数据的 0.031 相对应于 + 3.13%，绝对差为 2.99 点。
+  - listitem: 转化率（单位/页面浏览量）：14.5% 与 12.7%，这是一个改进。
+- paragraph: 2026 年 9 月，您订购的产品销售额为 US$1.81万 (-US$3200 或-15%（同比）。 销量为 1,125（同比下降56或-5%）。 结果，平均售价为 US$16.08 (-US$1.91（与2025年9月相比）。 在 7800 页面浏览量（-16% YoY）时，流量有所减少，这解释了销售下降的大部分原因。 您的精选出价百分比为 98.5%（同比增长299个基点），继续保持在强劲水平。 转化率从去年的 12.7% 提高到大约 14.5%，因此，即使流量较少，每次访问的转化率也有所提高。 整体业务见解：您的业务在2026年5月急剧下滑 (US$1.05万)，然后恢复到6月至8月 (US$1.56万, US$1.65万, US$1.86万)，此后一直保持相当稳定。 同比业绩已从2025年底和2026年初的强劲增长转变为最近几个月（8月-19%，9月-15%）的下降，主要驱动因素是流量减少。 通过广告和促销重建页面浏览量应有助于使您的商店恢复同比增长。
+- button "查看更多":
+  - generic: 
+  - text: 查看更多
+- paragraph: 帮助改善此体验
+- button:
+  - generic: 
+- generic: 真实无误、完整或相关、易于使用、易于理解、其他
+- button:
+  - generic: 
+- generic: 与事实不符、不完整或不相关、不恰当或有问题、时间过长、不喜欢语气或表达方式、其他
+- button:
+  - generic: 
+- link "站点地图":
+  - /url: /sitemap
+- link "计划政策":
+  - /url: /help/hub/reference/521
+- generic: © 1999-2026，Amazon.com, Inc. 或其附属公司
+- link "反馈":
+  - /url: "#"

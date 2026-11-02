@@ -1,0 +1,289 @@
+{
+  "sku": "4A 305-Full Adhesive",
+  "asin": "B0FBG138ND",
+  "spec": "3 × 5 in · 5 pads × 20 sheets · 100 sheets total",
+  "correction": "按Amazon标题、五点及包装：5本×20张，共100张，不是100张/本。包装保留Non-stick edge；满胶示意须保留取纸边。",
+  "date": "2026-10-30 Asia/Shanghai",
+  "status_definitions": {
+    "final_candidate": "本轮设计检查完成，待实物核样和最终采用",
+    "needs_claim_or_structure_check": "有明确结构或性能待核项，先审稿",
+    "approved": "审核通过后才可进入已批准目录；本轮未设置"
+  },
+  "approved_files": [],
+  "images": [
+    {
+      "id": "305FA_01",
+      "sku": "4A 305-Full Adhesive",
+      "asin": "B0FBG138ND",
+      "order": 1,
+      "role": "main",
+      "title": "主图｜五本立放",
+      "file": "交付候选_2000px/305FA_01.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "generation_method": "built_in_imagegen",
+      "generation_source": "生成源图/305FA_01.png",
+      "generation_source_pixels": [
+        1254,
+        1254
+      ],
+      "processing": "内置imagegen透明底源图；按alpha外接框去除空白，Lanczos3等比插值；主体最长边约90%；合成RGB255白底；不恢复真实细节。",
+      "reference_sources": [
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B0FBG138ND_00.jpg",
+          "copy": "原图参考\\01_B0FBG138ND_00.jpg",
+          "sha256": "6505d10d63e54229de60a6397baeae2d2df92ffd1fe22b59f34d4c68d23374b6"
+        },
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B0FBG138ND_01.jpg",
+          "copy": "原图参考\\02_B0FBG138ND_01.jpg",
+          "sha256": "56aae15a32afe90a48712e30e12c52d9ac95b265e54aed16eeafa6dd84dc008e"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_Listing_AP_20261029/images/5082_03.png",
+          "copy": "原图参考\\03_5082_03.png",
+          "sha256": "590492275a4e88adef8c71ae4fd907486d75a7d6a993d7a7e51c24f691a8ce9c"
+        }
+      ],
+      "review_status": "final_candidate",
+      "design_check": "五本独立可数；绿、粉、橙、珊瑚、黄；无广告字道具。",
+      "pending_checks": [
+        "20张/本纸厚、实际色值与批次须核样。",
+        "实际批次颜色、纸质与尺寸仍需实物核样；未获得发布批准。"
+      ],
+      "catalog_source": "https://www.amazon.com/dp/B0FBG138ND",
+      "approved_for_automation": false,
+      "approved_for_upload": false,
+      "physical_sample_verified": false,
+      "technical_checks": {
+        "pixel_dimensions": [
+          2000,
+          2000
+        ],
+        "safety_margins_including_shadow": [
+          61,
+          96,
+          61,
+          97
+        ],
+        "product_bbox_alpha230": {
+          "left": 170,
+          "top": 188,
+          "width": 1725,
+          "height": 1619
+        },
+        "product_longest_span_percent": 86.25,
+        "occupancy_definition": "主体外接框最长边占2000px画幅的比例；不是面积占比。alpha>230近似实体产品。",
+        "background_rgb": [
+          255,
+          255,
+          255
+        ],
+        "border60_checked": 465600,
+        "border60_exact_white": 465600,
+        "white_background_pass": true,
+        "margin_pass": true,
+        "occupancy_pass": true
+      },
+      "sha256": "f4cdf1b79ed7e8e37b2e3b8e027153cba266a5b724cbb0a843f0302802d1c174"
+    },
+    {
+      "id": "305FA_02",
+      "sku": "4A 305-Full Adhesive",
+      "asin": "B0FBG138ND",
+      "order": 2,
+      "role": "secondary",
+      "title": "副图｜满胶与取纸边",
+      "file": "审稿待核_2000px/305FA_02.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "generation_method": "built_in_imagegen",
+      "generation_source": "生成源图/305FA_02.png",
+      "generation_source_pixels": [
+        1254,
+        1254
+      ],
+      "processing": "内置imagegen；Lanczos3等比插值至2000×2000；源图留存；不是原生2000像素细节或AI超分。",
+      "reference_sources": [
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B0FBG138ND_00.jpg",
+          "copy": "原图参考\\01_B0FBG138ND_00.jpg",
+          "sha256": "6505d10d63e54229de60a6397baeae2d2df92ffd1fe22b59f34d4c68d23374b6"
+        },
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B0FBG138ND_01.jpg",
+          "copy": "原图参考\\02_B0FBG138ND_01.jpg",
+          "sha256": "56aae15a32afe90a48712e30e12c52d9ac95b265e54aed16eeafa6dd84dc008e"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_Listing_AP_20261029/images/5082_03.png",
+          "copy": "原图参考\\03_5082_03.png",
+          "sha256": "590492275a4e88adef8c71ae4fd907486d75a7d6a993d7a7e51c24f691a8ce9c"
+        }
+      ],
+      "review_status": "needs_claim_or_structure_check",
+      "design_check": "保留Full adhesive backing与Non-stick edge；明确示意。",
+      "pending_checks": [
+        "实际无胶边宽度、胶面覆盖位置须实物核验；非微观胶层证据。",
+        "实际批次颜色、纸质与尺寸仍需实物核样；未获得发布批准。"
+      ],
+      "catalog_source": "https://www.amazon.com/dp/B0FBG138ND",
+      "approved_for_automation": false,
+      "approved_for_upload": false,
+      "physical_sample_verified": false,
+      "technical_checks": null,
+      "sha256": "ab51a06af2653fcebae0aef7209cd1b1ae086e105e2efed201fdd93ae40aa20f"
+    },
+    {
+      "id": "305FA_03",
+      "sku": "4A 305-Full Adhesive",
+      "asin": "B0FBG138ND",
+      "order": 3,
+      "role": "secondary",
+      "title": "副图｜洁净移除",
+      "file": "审稿待核_2000px/305FA_03.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "generation_method": "built_in_imagegen",
+      "generation_source": "生成源图/305FA_03.png",
+      "generation_source_pixels": [
+        1254,
+        1254
+      ],
+      "processing": "内置imagegen；Lanczos3等比插值至2000×2000；源图留存；不是原生2000像素细节或AI超分。",
+      "reference_sources": [
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B0FBG138ND_00.jpg",
+          "copy": "原图参考\\01_B0FBG138ND_00.jpg",
+          "sha256": "6505d10d63e54229de60a6397baeae2d2df92ffd1fe22b59f34d4c68d23374b6"
+        },
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B0FBG138ND_01.jpg",
+          "copy": "原图参考\\02_B0FBG138ND_01.jpg",
+          "sha256": "56aae15a32afe90a48712e30e12c52d9ac95b265e54aed16eeafa6dd84dc008e"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_Listing_AP_20261029/images/5082_03.png",
+          "copy": "原图参考\\03_5082_03.png",
+          "sha256": "590492275a4e88adef8c71ae4fd907486d75a7d6a993d7a7e51c24f691a8ce9c"
+        }
+      ],
+      "review_status": "needs_claim_or_structure_check",
+      "design_check": "单张撕取动作；当前Listing支持clean removal/without damaging pages表述。",
+      "pending_checks": [
+        "未做残胶或纸面损伤实测；上架采用前需确认性能依据。",
+        "实际批次颜色、纸质与尺寸仍需实物核样；未获得发布批准。"
+      ],
+      "catalog_source": "https://www.amazon.com/dp/B0FBG138ND",
+      "approved_for_automation": false,
+      "approved_for_upload": false,
+      "physical_sample_verified": false,
+      "technical_checks": null,
+      "sha256": "57e9e9ad11b14619ce1e4c14f655de77ea02b92c8965866879cd277c47f8a1d3"
+    },
+    {
+      "id": "305FA_04",
+      "sku": "4A 305-Full Adhesive",
+      "asin": "B0FBG138ND",
+      "order": 4,
+      "role": "secondary",
+      "title": "副图｜3×5尺寸及100张规格",
+      "file": "交付候选_2000px/305FA_04.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "generation_method": "exact_vector_diagram",
+      "generation_source": "生成源图/305FA_04_exact.svg",
+      "generation_source_pixels": [
+        2000,
+        2000
+      ],
+      "processing": "原生SVG精确比例绘制并直接渲染2000×2000，无放大；示意图不等于实物照片。",
+      "reference_sources": [
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B0FBG138ND_00.jpg",
+          "copy": "原图参考\\01_B0FBG138ND_00.jpg",
+          "sha256": "6505d10d63e54229de60a6397baeae2d2df92ffd1fe22b59f34d4c68d23374b6"
+        },
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B0FBG138ND_01.jpg",
+          "copy": "原图参考\\02_B0FBG138ND_01.jpg",
+          "sha256": "56aae15a32afe90a48712e30e12c52d9ac95b265e54aed16eeafa6dd84dc008e"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_Listing_AP_20261029/images/5082_03.png",
+          "copy": "原图参考\\03_5082_03.png",
+          "sha256": "590492275a4e88adef8c71ae4fd907486d75a7d6a993d7a7e51c24f691a8ce9c"
+        }
+      ],
+      "review_status": "final_candidate",
+      "design_check": "原生SVG 3:5几何；5×20=100；仅英制。",
+      "pending_checks": [
+        "颜色/纸面为尺寸示意，不是纸张色准证明。",
+        "实际批次颜色、纸质与尺寸仍需实物核样；未获得发布批准。"
+      ],
+      "catalog_source": "https://www.amazon.com/dp/B0FBG138ND",
+      "approved_for_automation": false,
+      "approved_for_upload": false,
+      "physical_sample_verified": false,
+      "technical_checks": null,
+      "sha256": "8493f3945cf88b1743830cf3099766c7db59f343a02353a8bcfd0ad778bd3e4e"
+    },
+    {
+      "id": "305FA_05",
+      "sku": "4A 305-Full Adhesive",
+      "asin": "B0FBG138ND",
+      "order": 5,
+      "role": "secondary",
+      "title": "副图｜办公／厨房／冰箱",
+      "file": "交付候选_2000px/305FA_05.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "generation_method": "built_in_imagegen",
+      "generation_source": "生成源图/305FA_05.png",
+      "generation_source_pixels": [
+        1254,
+        1254
+      ],
+      "processing": "内置imagegen；Lanczos3等比插值至2000×2000；源图留存；不是原生2000像素细节或AI超分。",
+      "reference_sources": [
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B0FBG138ND_00.jpg",
+          "copy": "原图参考\\01_B0FBG138ND_00.jpg",
+          "sha256": "6505d10d63e54229de60a6397baeae2d2df92ffd1fe22b59f34d4c68d23374b6"
+        },
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B0FBG138ND_01.jpg",
+          "copy": "原图参考\\02_B0FBG138ND_01.jpg",
+          "sha256": "56aae15a32afe90a48712e30e12c52d9ac95b265e54aed16eeafa6dd84dc008e"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_Listing_AP_20261029/images/5082_03.png",
+          "copy": "原图参考\\03_5082_03.png",
+          "sha256": "590492275a4e88adef8c71ae4fd907486d75a7d6a993d7a7e51c24f691a8ce9c"
+        }
+      ],
+      "review_status": "final_candidate",
+      "design_check": "办公、厨房、冰箱场景；贴附平整且未借用磁铁或夹子。",
+      "pending_checks": [
+        "场景粘性与纸张比例仍须实物核验；不含耐热、防水承诺。",
+        "实际批次颜色、纸质与尺寸仍需实物核样；未获得发布批准。"
+      ],
+      "catalog_source": "https://www.amazon.com/dp/B0FBG138ND",
+      "approved_for_automation": false,
+      "approved_for_upload": false,
+      "physical_sample_verified": false,
+      "technical_checks": null,
+      "sha256": "794c81f41cb9a3c563f4d9427aa10273aa441438a35a0c2236d1b72f0cdea97f"
+    }
+  ]
+}

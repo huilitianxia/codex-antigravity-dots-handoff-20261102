@@ -1,0 +1,243 @@
+{
+  "sku": "4A 303-Full Adhesive-400",
+  "asin": "B07QXJYTZ7",
+  "spec": "3 × 3 in · 5 colors × 80 sheets · 400 sheets",
+  "checked_at": "2026-10-31 Asia/Shanghai",
+  "catalog_url": "https://www.amazon.com/dp/B07QXJYTZ7",
+  "catalog_correction": "执行包写成4本马卡龙色、3⅓×3⅓英寸；原包装与C盘总表确认5色×80=400、3×3英寸。当前Amazon标题3⅓×3与五点/尺寸栏3×3存在冲突，本批采用包装和总表一致规格，保留标题冲突记录。包装说明有non-stick edge，不宣称100%无留边胶面。",
+  "workbook_source": {
+    "file": "C:/Users/24243/Documents/Codex/2026-08-11/7-30-slack-plugin-slack-openai/4A_Amazon_Operations/source_workbooks/亚马逊供应商和开店总表-2026 (1).xlsx",
+    "sheet": "Sheet1",
+    "range": "A58:G58"
+  },
+  "reference_files": [
+    {
+      "original": "E:/Desktop/待上架_新图文素材库_第五批/_核验依据/B07QXJYTZ7_PT02.jpg",
+      "copy": "原图参考/01_B07QXJYTZ7_PT02.jpg",
+      "sha256": "a8634e3046aea93567797028ffe35f1e445ee73d2c94b2f5dd8b0d7a730da46f"
+    },
+    {
+      "original": "D:/4A/印刷用图片/电商/亚马逊图片-2021/6-----4A Full Adhesive Notes/4A 303-Full Adhesive-400/702877124307.main.jpg",
+      "copy": "原图参考/02_702877124307.main.jpg",
+      "sha256": "17bf72d73ad4fa5d3881a521e4495fd3361ca4bae674adc0f467bc982b5ada61"
+    },
+    {
+      "original": "E:/Desktop/待上架_新图文素材库_第五批/_核验依据/B07QXJYTZ7_MAIN.jpg",
+      "copy": "原图参考/03_B07QXJYTZ7_MAIN.jpg",
+      "sha256": "12ca2d83993e87b4ae40c44f388f1de89b69f255d5e3191257b268299effda44"
+    },
+    {
+      "original": "D:/4A/印刷用图片/电商/亚马逊图片-2021/6-----4A Full Adhesive Notes/4A 303-Full Adhesive-400/702877124307.pt04.JPG",
+      "copy": "原图参考/04_702877124307.pt04.JPG",
+      "sha256": "8414a06bf0e8c73d0c716bd2fa722fd7b0752e3406b9e0eb128fb7d0eea055bd"
+    }
+  ],
+  "images": [
+    {
+      "id": "FULL303_01",
+      "title": "主图｜五色满胶400张",
+      "type": "main",
+      "order": 1,
+      "sku": "4A 303-Full Adhesive-400",
+      "asin": "B07QXJYTZ7",
+      "file": "交付候选_2000px/FULL303_01.png",
+      "jpg": "ASIN命名JPG_交付候选/B07QXJYTZ7.MAIN.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/FULL303_01.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-6395bcde-ab44-4ed8-ba03-2897db786ae0.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "new_imagegen",
+      "processing": "透明源稿按alpha居中，Lanczos3等比缩放，合成RGB255白底",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "五色各一叠，绿/桃/橙/粉/黄，按原图恢复规格。",
+      "remaining_checks": "实际批次色值、纸厚与可撕边细节仍需实物核样。",
+      "technical": {
+        "background_rgb": [
+          255,
+          255,
+          255
+        ],
+        "border60": {
+          "checked_pixels": 465600,
+          "exact_white_pixels": 465600,
+          "pass": true
+        },
+        "safety_margins_including_shadow": [
+          65,
+          123,
+          66,
+          124
+        ],
+        "margin_pass": true,
+        "product_longest_span_percent": 89.55,
+        "occupancy_pass": true,
+        "occupancy_definition": "alpha>230近似实体外接框最长边/2000，非面积占比；透明壳和阴影另行目视检查。",
+        "jpg_border60": {
+          "checked_pixels": 465600,
+          "exact_white_pixels": 465600,
+          "pass": true
+        }
+      },
+      "png_sha256": "44e9a764feca147027831f5e0d0e9104e772a0f5e6b3b07e84a9c4ae31410e68",
+      "jpg_sha256": "79e11f24de3054692cb9ca9963acacb63688e2154dddaf847d24411eae6913fe"
+    },
+    {
+      "id": "FULL303_02",
+      "title": "胶面覆盖示意",
+      "type": "secondary",
+      "order": 2,
+      "sku": "4A 303-Full Adhesive-400",
+      "asin": "B07QXJYTZ7",
+      "file": "交付候选_2000px/FULL303_02.png",
+      "jpg": "ASIN命名JPG_交付候选/B07QXJYTZ7.PT01.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/FULL303_02_exact.svg",
+      "original_source": null,
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "kind": "svg",
+      "processing": "原生2000×2000 SVG生成PNG；规格/胶面示意，保留可编辑SVG",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "SVG以常见顶部条胶与满胶覆盖作结构示意，保留non-stick lifting edge。",
+      "remaining_checks": "胶区宽度为示意，不能作为胶量、强度、不翘边或竞品掉落测试证据。",
+      "technical": {
+        "comparison_type": "schematic adhesive coverage",
+        "paper_square_px": [
+          580,
+          580
+        ],
+        "exact_glue_zone": false
+      },
+      "png_sha256": "4a60b96e596a998d6d988cc3c0c25245db47b6368896cd7e49917a6d348aaf17",
+      "jpg_sha256": "e0bf3ee4e297582034a67a14d6c3ba8e73b9a6affd4a4cd82bd414bde66243c5"
+    },
+    {
+      "id": "FULL303_03",
+      "title": "3×3英寸与5×80规格",
+      "type": "secondary",
+      "order": 3,
+      "sku": "4A 303-Full Adhesive-400",
+      "asin": "B07QXJYTZ7",
+      "file": "交付候选_2000px/FULL303_03.png",
+      "jpg": "ASIN命名JPG_交付候选/B07QXJYTZ7.PT02.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/FULL303_03_exact.svg",
+      "original_source": null,
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "kind": "svg",
+      "processing": "原生2000×2000 SVG生成PNG；规格/胶面示意，保留可编辑SVG",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "SVG单张1:1；5×80=400；3×3依据包装、表格及Amazon五点。",
+      "remaining_checks": "Amazon标题3⅓×3与包装3×3存在冲突，已记录；未按标题推定外延尺寸。",
+      "technical": {
+        "square_px": [
+          650,
+          650
+        ],
+        "square_inches": [
+          3,
+          3
+        ],
+        "colors": 5,
+        "sheets_per_color": 80,
+        "total_sheets": 400
+      },
+      "png_sha256": "718740470460d432161a4037751194d28be20f5038993d048dba500cf99ac746",
+      "jpg_sha256": "78b4720df9d020ac597512eec6b476e54b15924af2344faa96fb47907e790c19"
+    },
+    {
+      "id": "FULL303_04",
+      "title": "团队办公与看板",
+      "type": "secondary",
+      "order": 4,
+      "sku": "4A 303-Full Adhesive-400",
+      "asin": "B07QXJYTZ7",
+      "file": "交付候选_2000px/FULL303_04.png",
+      "jpg": "ASIN命名JPG_交付候选/B07QXJYTZ7.PT03.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/FULL303_04.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-a16ae05f-1961-494d-861b-cca27b662c2b.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "new_imagegen",
+      "processing": "内置imagegen生成/返修稿等比插值至2000px，未声称恢复实拍细节",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "单张纸贴玻璃，五色和手写任务清楚，无整本上墙。",
+      "remaining_checks": "场景为使用示意，贴附与重复粘性未作实测。",
+      "technical": {},
+      "png_sha256": "6ce5899fc1516d6a05bbda0d22d7558c8670763b1d4af08bc0defc97a1174bea",
+      "jpg_sha256": "24c5647f697bdf44858028ea00c7c1bb99570a66e1c6f7877095e51367b8009c"
+    },
+    {
+      "id": "FULL303_05",
+      "title": "日常书写与计划",
+      "type": "secondary",
+      "order": 5,
+      "sku": "4A 303-Full Adhesive-400",
+      "asin": "B07QXJYTZ7",
+      "file": "交付候选_2000px/FULL303_05.png",
+      "jpg": "ASIN命名JPG_交付候选/B07QXJYTZ7.PT04.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/FULL303_05.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-950cadab-b361-4eb7-b0c3-45df3542e72e.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "new_imagegen",
+      "processing": "内置imagegen生成/返修稿等比插值至2000px，未声称恢复实拍细节",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "纸面书写及五色400张文案清楚，无不透墨承诺。",
+      "remaining_checks": "纸厚、笔尖适配、批次颜色仍需核样；手写非预印。",
+      "technical": {},
+      "png_sha256": "e6990a1d7ea1969aa5e7647f757ddeeca439bec2fc3e1f329a784d71ed6048d3",
+      "jpg_sha256": "20b45c23c3768646577c1e70b29c4d23f503cd3c0ae3092697ff70fff998ea8a"
+    }
+  ],
+  "note": "设计检查不等于实物核样或Amazon批准。原始素材及前四批不改动。"
+}

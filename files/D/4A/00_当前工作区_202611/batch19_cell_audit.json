@@ -1,0 +1,707 @@
+{
+  "file": "D:\\4A\\00_当前工作区_202611\\19-voc-copy-and-pack-clarity-fixes.xlsm",
+  "sha256": "405d92b1121fd9dd86a9d6af983ea1cfce7bdde947c9502cea76684be9fa6a98",
+  "row_count": 21,
+  "rows": [
+    {
+      "row": 7,
+      "sku": "4A 0166",
+      "asin": "B0784GHSVJ",
+      "reason": "Final 8541 color match on 4A 0166 (549 FBA units, B0784GHSVJ): set Color='White-atlantic Ocean' + Package Units='Inches' + clear Col K Item Highlight",
+      "changes": {
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        },
+        "Col_54_Material": {
+          "old": null,
+          "new": "4A"
+        },
+        "Col_58_Color": {
+          "old": "Classic Assorted",
+          "new": "White-atlantic Ocean"
+        },
+        "Col_254_Color Map": {
+          "old": null,
+          "new": null
+        },
+        "Col_380_Package Length Unit": {
+          "old": "IN",
+          "new": "Inches"
+        },
+        "Col_382_Package Width Unit": {
+          "old": "IN",
+          "new": "Inches"
+        },
+        "Col_384_Package Height Unit": {
+          "old": "IN",
+          "new": "Inches"
+        }
+      }
+    },
+    {
+      "row": 8,
+      "sku": "4A 039",
+      "asin": "B01N1T23HH",
+      "reason": "Clear Col K (index 10) Item Highlight on 4A 039 while preserving unlocked Color='Orange&pink' and Manufacturer='4A'",
+      "changes": {
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        },
+        "Col_54_Material": {
+          "old": null,
+          "new": "4A"
+        },
+        "Col_58_Color": {
+          "old": "Neon Assorted",
+          "new": "Orange&pink"
+        },
+        "Col_254_Color Map": {
+          "old": null,
+          "new": "Orange"
+        }
+      }
+    },
+    {
+      "row": 9,
+      "sku": "4A 040",
+      "asin": "B01N7IT411",
+      "reason": "Clear Col K (index 10) Item Highlight on 4A 040 while preserving unlocked Color='Red&pink' and Manufacturer='4A'",
+      "changes": {
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        },
+        "Col_54_Material": {
+          "old": null,
+          "new": "4A"
+        },
+        "Col_58_Color": {
+          "old": "Neon Assorted",
+          "new": "Red&pink"
+        },
+        "Col_254_Color Map": {
+          "old": null,
+          "new": "Red"
+        }
+      }
+    },
+    {
+      "row": 10,
+      "sku": "4A 037",
+      "asin": "B01M617ZTH",
+      "reason": "Clear Col K (index 10) Item Highlight on 4A 037 while preserving unlocked Color='Green&yellow' and Manufacturer='4A'",
+      "changes": {
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        },
+        "Col_54_Material": {
+          "old": null,
+          "new": "4A"
+        },
+        "Col_58_Color": {
+          "old": "Neon Assorted",
+          "new": "Green&yellow"
+        },
+        "Col_254_Color Map": {
+          "old": null,
+          "new": "Green"
+        }
+      }
+    },
+    {
+      "row": 11,
+      "sku": "4A 60238",
+      "asin": "B01MATR9TE",
+      "reason": "Clear Col K (index 10) Item Highlight on 4A 60238 while preserving unlocked Color='Colors-60238' and Manufacturer='4A'",
+      "changes": {
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        },
+        "Col_54_Material": {
+          "old": null,
+          "new": "4A"
+        },
+        "Col_58_Color": {
+          "old": "Neon Assorted",
+          "new": "Colors-60238"
+        },
+        "Col_254_Color Map": {
+          "old": null,
+          "new": "Multicolor"
+        }
+      }
+    },
+    {
+      "row": 12,
+      "sku": "4A SF-60238",
+      "asin": "B01MATR9TE",
+      "reason": "Clear Col K (index 10) Item Highlight on 4A SF-60238 while preserving unlocked Color='Colors-60238' and Manufacturer='4A'",
+      "changes": {
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        },
+        "Col_54_Material": {
+          "old": null,
+          "new": "4A"
+        },
+        "Col_58_Color": {
+          "old": "Neon Assorted",
+          "new": "Colors-60238"
+        },
+        "Col_254_Color Map": {
+          "old": null,
+          "new": "Multicolor"
+        }
+      }
+    },
+    {
+      "row": 13,
+      "sku": "4A 5082-Y-Lx2",
+      "asin": "B0F9L5G6XQ",
+      "reason": "Fix VOC 'only received 2 packs' return on B0F9L5G6XQ: clarify in Title & Bullet 1/5 that 4 Pads (200 Sheets) are delivered as 2 shrink-wrapped twin-packs (each wrap contains 2 stacked 50-sheet pads)",
+      "changes": {
+        "Col_8_Item Name": {
+          "old": "4A 4 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Yellow Sticky Notes with Lines Long Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5082-Y-Lx2",
+          "new": "4A 4 Pads Lined Sticky Notes 5 x 8 in (2 Twin-Packs of 2 Stacked Pads), Pastel Yellow Sticky Notes with Lines for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5082-Y-Lx2"
+        },
+        "Col_44_Bullet Point": {
+          "old": "Lined Sticky Notes: Includes 4 Pads Yellow Sticky Notes with Lines 5 x 8 in, Pastel Yellow, 50 Sheets/Pad, 200 Sheets Total",
+          "new": "4 Pads Value Bundle (Delivered as 2 Twin-Packs of 2 Stacked Pads): Includes 4 Pads of 5 x 8 in Pastel Yellow Lined Sticky Notes (50 Sheets/Pad, 200 Sheets Total). Each shrink-wrapped pack contains 2 pads stacked together (100 sheets per pack)—please open the outer film wrap to separate the 2 pads inside!"
+        },
+        "Col_45_Bullet Point": {
+          "old": "Pastel Yellow: Lined sticky notes in yellow ensure your notes stand out clearly, making it easy to spot important reminders, tasks, or ideas at a glance",
+          "new": "Pastel Yellow with Ruled Lines: Soft pastel yellow paper reduces eye strain while crisp ruled lines keep your handwriting neat, structured, and easy to read at a glance."
+        },
+        "Col_46_Bullet Point": {
+          "old": "Long Sticky Notes: 5 x 8 in lined sticky notes help you write neatly and keep your ideas organized and easy to read, perfect for to-do lists, notes, and reminders",
+          "new": "Large 5 x 8 Inch Writing Space: Generous 5 x 8 in size gives you plenty of room for daily to-do lists, meeting action items, project checklists, lecture notes, and phone messages."
+        },
+        "Col_47_Bullet Point": {
+          "old": "Stick & Re-Stick: Made from high-quality paper and adhesive, our yellow sticky notes stick securely, easy to peel and removes cleanly without leaving residue, allowing for easy repositioning and reuse",
+          "new": "Reliable Repositionable Adhesive: Top-edge adhesive sticks securely to monitors, desk pads, notebooks, folders, and smooth walls, and removes cleanly without tearing paper or leaving sticky residue."
+        },
+        "Col_48_Bullet Point": {
+          "old": "Versatile Uses: Great for home, office, school. Ideal for brainstorming, planning, studying, journaling, leaving reminders, organizing your workflow, and jotting down quick ideas",
+          "new": "Packaging Note for Buyers: Your order arrives as 2 factory-sealed shrink-wrapped bricks; each brick is labeled '2 Pads / 50 Sheets / 100 Sheets' on the front band (2 Packs x 2 Pads = 4 Pads / 200 Sheets Total)."
+        },
+        "Col_9_Item Highlight": {
+          "old": "B0F9L5G6XQ",
+          "new": null
+        },
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        }
+      }
+    },
+    {
+      "row": 14,
+      "sku": "4A 302-Full Adhesive-400",
+      "asin": "B0F2TKL2P5",
+      "reason": "VOC anti-curl horizontal peel instruction + cover-only dashed line clarification for 302-Full Adhesive-400 (B0F2TKL2P5, 340 FBA units)",
+      "changes": {
+        "Col_44_Bullet Point": {
+          "old": "Full Adhesive Sticky Notes: Includes 1 Pack Full Adhesive Sticky Notes 3 x 2 in, 5 Bright Colors, 80 Sheets/Color, 5 Colors/Pack, 400 Sheets Total",
+          "new": "Full Adhesive Sticky Notes 3 x 2 in (400 Sheets Total): Includes 1 Cube Pack of Full Adhesive Sticky Notes 3 x 2 in, 5 Bright Neon Colors, 80 Sheets/Color, 400 Sheets Total."
+        },
+        "Col_45_Bullet Point": {
+          "old": "Strong Adhesive: Featuring a reliable adhesive that sticks securely to smooth surface, these full adhesive sticky notes stay in place and can be repositioned without leaving residue or damaging pages",
+          "new": "90% Full Adhesive Back + 10% Non-Stick Grip Edge: Coated with full-back adhesive so notes lay flush against smooth surfaces without flipping or falling off, while a narrow bottom non-stick strip makes each sheet easy to grab and peel cleanly without residue."
+        },
+        "Col_46_Bullet Point": {
+          "old": "3 x 2 Inches: These full stick sticky notes 3 x 2 in are the ideal size for quick reminders, important to-dos, and personal notes, small enough to be handy, yet large enough to hold your message",
+          "new": "How to Peel Flat Without Curling (3 x 2 Inches): Start at the bottom non-stick grip edge and peel SIDE-TO-SIDE (horizontally) rather than pulling straight up from the bottom. Note: the black dashed line is printed on the top cover sheet only—all inner sheets are 100% blank and unperforated."
+        },
+        "Col_47_Bullet Point": {
+          "old": "Vibrant & Eye-Catching Colors: Featuring bright, attention-grabbing colors, these colorful sticky notes full adhesive back make it easy to highlight important reminders, categorize tasks, or add a splash of color to your notes and organization",
+          "new": "Thick No-Bleed Paper & Vibrant Neon Colors: Made of durable, recyclable paper that writes smoothly with ballpoint pens, gel pens, markers, and pencils without ink bleed-through, in bright eye-catching colors that keep key reminders visible."
+        },
+        "Col_48_Bullet Point": {
+          "old": "Versatile Uses: Ideal for home, office, school, and business use, our colorful full adhesive sticky notes are perfect for reminders, quick messages, bookmarks and brainstorming sessions",
+          "new": "Best for Clean, Dry, Smooth Surfaces: Adheres firmly to computer monitors, glass, notebooks, planners, binders, refrigerators, and smooth doors or cabinets. Wipe dusty or textured walls clean and dry before applying for maximum hold."
+        },
+        "Col_9_Item Highlight": {
+          "old": "B0F2TKL2P5",
+          "new": null
+        },
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        }
+      }
+    },
+    {
+      "row": 15,
+      "sku": "4A 303-Full Adhesive-400",
+      "asin": "B07QXJYTZ7",
+      "reason": "VOC anti-curl horizontal peel instruction + cover-only dashed line clarification for 303-Full Adhesive-400 (B07QXJYTZ7, Cash Cow #1)",
+      "changes": {
+        "Col_44_Bullet Point": {
+          "old": "Full Adhesive Sticky Notes: Includes 1 Pack Full Adhesive Sticky Notes 3 x 3 in, 5 Bright Colors, 80 Sheets/Color, 5 Colors/Pack, 400 Sheets Total",
+          "new": "Full Adhesive Sticky Notes 3 x 3 in (400 Sheets Total): Includes 1 Cube Pack of Full Adhesive Sticky Notes 3 x 3 in, 5 Bright Neon Colors, 80 Sheets/Color, 400 Sheets Total."
+        },
+        "Col_45_Bullet Point": {
+          "old": "Reliable & Durable: Made of thick and recyclable paper, these full adhesive sticky notes are easy to write on with ballpoint pens, pens, or pencils for clear, legible notes. Sticks securely to smooth surfaces and removes cleanly without residue or damaging pages",
+          "new": "90% Full Adhesive Back + 10% Non-Stick Grip Edge: Coated with full-back adhesive so notes lay flush against smooth surfaces without flipping or falling off, while a narrow bottom non-stick strip makes each sheet easy to grab and peel cleanly without residue."
+        },
+        "Col_46_Bullet Point": {
+          "old": "3 x 3 Inches: These full sticky back sticky notes 3 x 3 in are the ideal size for quick reminders, important to-dos, and personal notes, small enough to be handy, yet large enough to hold your message",
+          "new": "How to Peel Flat Without Curling (3 x 3 Inches): Start at the bottom non-stick grip edge and peel SIDE-TO-SIDE (horizontally) rather than pulling straight up from the bottom. Note: the black dashed line is printed on the top cover sheet only—all inner sheets are 100% blank and unperforated."
+        },
+        "Col_47_Bullet Point": {
+          "old": "Vibrant & Eye-Catching Colors: Featuring bright, attention-grabbing colors, these colorful sticky notes full adhesive back make it easy to highlight important reminders, categorize tasks, or add a splash of color to your notes and organization",
+          "new": "Thick No-Bleed Paper & Vibrant Neon Colors: Made of durable, recyclable paper that writes smoothly with ballpoint pens, gel pens, markers, and pencils without ink bleed-through, in bright eye-catching colors that keep key reminders visible."
+        },
+        "Col_48_Bullet Point": {
+          "old": "Versatile Uses: Ideal for home, office, school, and business use, our colorful full stick sticky notes in are perfect for reminders, quick messages, bookmarks and brainstorming sessions where ideas get captured",
+          "new": "Best for Clean, Dry, Smooth Surfaces: Adheres firmly to computer monitors, glass, notebooks, planners, binders, refrigerators, and smooth doors or cabinets. Wipe dusty or textured walls clean and dry before applying for maximum hold."
+        },
+        "Col_9_Item Highlight": {
+          "old": "B07QXJYTZ7",
+          "new": null
+        },
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        }
+      }
+    },
+    {
+      "row": 16,
+      "sku": "4A GM303-Full Adhesive-400",
+      "asin": "B07QXJYTZ7",
+      "reason": "Sync MFN twin 4A GM303-Full Adhesive-400 on ASIN B07QXJYTZ7 with exact same 5 anti-curl bullets",
+      "changes": {
+        "Col_44_Bullet Point": {
+          "old": null,
+          "new": "Full Adhesive Sticky Notes 3 x 3 in (400 Sheets Total): Includes 1 Cube Pack of Full Adhesive Sticky Notes 3 x 3 in, 5 Bright Neon Colors, 80 Sheets/Color, 400 Sheets Total."
+        },
+        "Col_45_Bullet Point": {
+          "old": null,
+          "new": "90% Full Adhesive Back + 10% Non-Stick Grip Edge: Coated with full-back adhesive so notes lay flush against smooth surfaces without flipping or falling off, while a narrow bottom non-stick strip makes each sheet easy to grab and peel cleanly without residue."
+        },
+        "Col_46_Bullet Point": {
+          "old": null,
+          "new": "How to Peel Flat Without Curling (3 x 3 Inches): Start at the bottom non-stick grip edge and peel SIDE-TO-SIDE (horizontally) rather than pulling straight up from the bottom. Note: the black dashed line is printed on the top cover sheet only—all inner sheets are 100% blank and unperforated."
+        },
+        "Col_47_Bullet Point": {
+          "old": null,
+          "new": "Thick No-Bleed Paper & Vibrant Neon Colors: Made of durable, recyclable paper that writes smoothly with ballpoint pens, gel pens, markers, and pencils without ink bleed-through, in bright eye-catching colors that keep key reminders visible."
+        },
+        "Col_48_Bullet Point": {
+          "old": null,
+          "new": "Best for Clean, Dry, Smooth Surfaces: Adheres firmly to computer monitors, glass, notebooks, planners, binders, refrigerators, and smooth doors or cabinets. Wipe dusty or textured walls clean and dry before applying for maximum hold."
+        },
+        "Col_9_Item Highlight": {
+          "old": "B07QXJYTZ7",
+          "new": null
+        },
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        }
+      }
+    },
+    {
+      "row": 17,
+      "sku": "4A 303-Full Adhesive",
+      "asin": "B0F9L7BVCW",
+      "reason": "VOC anti-curl horizontal peel instruction for 4A 303-Full Adhesive (B0F9L7BVCW)",
+      "changes": {
+        "Col_44_Bullet Point": {
+          "old": "Full Adhesive Sticky Notes: Includes 5 Pads Full Adhesive Sticky Notes 3 x 3 in, 5 Bright Colors, 20 Sheets/Pad, 100 Sheets Total",
+          "new": "Full Adhesive Sticky Notes 3 x 3 in (100 Sheets Total): Includes 5 Pads of Full Adhesive Sticky Notes 3 x 3 in, 5 Bright Neon Colors, 20 Sheets/Pad, 100 Sheets Total."
+        },
+        "Col_45_Bullet Point": {
+          "old": "Strong Adhesive: Featuring a reliable adhesive that sticks securely to smooth surface, these full adhesive sticky notes stay in place and can be repositioned without leaving residue or damaging pages",
+          "new": "90% Full Adhesive Back + 10% Non-Stick Grip Edge: Coated with full-back adhesive so notes lay flush against smooth surfaces without flipping or falling off, while a narrow bottom non-stick strip makes each sheet easy to grab and peel cleanly without residue."
+        },
+        "Col_46_Bullet Point": {
+          "old": "3 x 3 Inches: These sticky notes 3 x 3 in are the ideal size for quick reminders, important to-dos, and personal notes, small enough to be handy, yet large enough to hold your message",
+          "new": "How to Peel Flat Without Curling (3 x 3 Inches): Start at the bottom non-stick grip edge and peel SIDE-TO-SIDE (horizontally) rather than pulling straight up from the bottom. Note: the black dashed line is printed on the top cover sheet only—all inner sheets are 100% blank and unperforated."
+        },
+        "Col_47_Bullet Point": {
+          "old": "Vibrant & Eye-Catching Colors: Featuring bright, attention-grabbing colors, these colorful sticky notes full adhesive back make it easy to highlight important reminders, categorize tasks, or add a splash of color to your notes and organization",
+          "new": "Thick No-Bleed Paper & Vibrant Neon Colors: Made of durable, recyclable paper that writes smoothly with ballpoint pens, gel pens, markers, and pencils without ink bleed-through, in bright eye-catching colors that keep key reminders visible."
+        },
+        "Col_48_Bullet Point": {
+          "old": "Versatile Uses: Ideal for home, office, school, and business use, our colorful sticky notes in are perfect for reminders, quick messages, bookmarks and brainstorming sessions",
+          "new": "Best for Clean, Dry, Smooth Surfaces: Adheres firmly to computer monitors, glass, notebooks, planners, binders, refrigerators, and smooth doors or cabinets. Wipe dusty or textured walls clean and dry before applying for maximum hold."
+        },
+        "Col_9_Item Highlight": {
+          "old": "B0F9L7BVCW",
+          "new": null
+        },
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        }
+      }
+    },
+    {
+      "row": 18,
+      "sku": "4A 304 Full Glue",
+      "asin": "B00SMEFFRE",
+      "reason": "VOC anti-curl horizontal peel instruction for 4A 304 Full Glue (B00SMEFFRE, 333 FBA units, 68 orders/30d)",
+      "changes": {
+        "Col_44_Bullet Point": {
+          "old": "Full Adhesive Sticky Notes: Includes 5 Pads Full Adhesive Sticky Notes 3 x 4 in, 5 Bright Colors, 20 Sheets/Pad, 5 Pads/Pack, 100 Sheets Total",
+          "new": "Full Adhesive Sticky Notes 3 x 4 in (100 Sheets Total): Includes 5 Pads of Full Adhesive Sticky Notes 3 x 4 in, 5 Bright Neon Colors, 20 Sheets/Pad, 100 Sheets Total."
+        },
+        "Col_45_Bullet Point": {
+          "old": "Reliable & Durable: Made of thick and recyclable paper, these full adhesive sticky notes are easy to write on with ballpoint pens, pens, or pencils for clear, legible notes. Sticks securely to smooth surfaces and removes cleanly without residue or damaging pages",
+          "new": "90% Full Adhesive Back + 10% Non-Stick Grip Edge: Coated with full-back adhesive so notes lay flush against smooth surfaces without flipping or falling off, while a narrow bottom non-stick strip makes each sheet easy to grab and peel cleanly without residue."
+        },
+        "Col_46_Bullet Point": {
+          "old": "3 x 4 Inches: These full stick sticky notes 3 x 4 in are the ideal size for quick reminders, important to-dos, and personal notes, small enough to be handy, yet large enough to hold your message",
+          "new": "How to Peel Flat Without Curling (3 x 4 Inches): Start at the bottom non-stick grip edge and peel SIDE-TO-SIDE (horizontally) rather than pulling straight up from the bottom. Note: the black dashed line is printed on the top cover sheet only—all inner sheets are 100% blank and unperforated."
+        },
+        "Col_47_Bullet Point": {
+          "old": "Vibrant & Eye-Catching Colors: Featuring bright, attention-grabbing colors, these colorful sticky notes full adhesive back make it easy to highlight important reminders, categorize tasks, or add a splash of color to your notes and organization",
+          "new": "Thick No-Bleed Paper & Vibrant Neon Colors: Made of durable, recyclable paper that writes smoothly with ballpoint pens, gel pens, markers, and pencils without ink bleed-through, in bright eye-catching colors that keep key reminders visible."
+        },
+        "Col_48_Bullet Point": {
+          "old": "Versatile Uses: Ideal for home, office, school, and business use, our colorful full adhesive sticky notes are perfect for reminders, quick messages, to do lists, note-taking and brainstorming sessions where ideas get captured",
+          "new": "Best for Clean, Dry, Smooth Surfaces: Adheres firmly to computer monitors, glass, notebooks, planners, binders, refrigerators, and smooth doors or cabinets. Wipe dusty or textured walls clean and dry before applying for maximum hold."
+        },
+        "Col_9_Item Highlight": {
+          "old": "B00SMEFFRE",
+          "new": null
+        },
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        }
+      }
+    },
+    {
+      "row": 19,
+      "sku": "4A 304-Full Adhesive-400",
+      "asin": "B07QXJWDPL",
+      "reason": "VOC anti-curl horizontal peel instruction for 4A 304-Full Adhesive-400 (B07QXJWDPL, 533 FBA units)",
+      "changes": {
+        "Col_44_Bullet Point": {
+          "old": "Full Adhesive Sticky Notes: Includes 5 Pads Full Adhesive Sticky Notes 3 x 4 in, 5 Bright Colors, 80 Sheets/Pad, 400 Sheets Total",
+          "new": "Full Adhesive Sticky Notes 3 x 4 in (400 Sheets Total): Includes 5 Pads of Full Adhesive Sticky Notes 3 x 4 in, 5 Bright Neon Colors, 80 Sheets/Pad, 400 Sheets Total."
+        },
+        "Col_45_Bullet Point": {
+          "old": "Reliable & Durable: Made of thick and recyclable paper, these full adhesive sticky notes are easy to write on with ballpoint pens, pens, or pencils for clear, legible notes. Sticks securely to smooth surfaces and removes cleanly without residue or damaging pages",
+          "new": "90% Full Adhesive Back + 10% Non-Stick Grip Edge: Coated with full-back adhesive so notes lay flush against smooth surfaces without flipping or falling off, while a narrow bottom non-stick strip makes each sheet easy to grab and peel cleanly without residue."
+        },
+        "Col_46_Bullet Point": {
+          "old": "3 x 4 Inches: These full stick back sticky notes 3 x 4 in are the ideal size for quick reminders, important to-dos, and personal notes, small enough to be handy, yet large enough to hold your message",
+          "new": "How to Peel Flat Without Curling (3 x 4 Inches): Start at the bottom non-stick grip edge and peel SIDE-TO-SIDE (horizontally) rather than pulling straight up from the bottom. Note: the black dashed line is printed on the top cover sheet only—all inner sheets are 100% blank and unperforated."
+        },
+        "Col_47_Bullet Point": {
+          "old": "Vibrant & Eye-Catching Colors: Featuring bright, attention-grabbing colors, these colorful sticky notes full adhesive back make it easy to highlight important reminders, categorize tasks, or add a splash of color to your notes and organization",
+          "new": "Thick No-Bleed Paper & Vibrant Neon Colors: Made of durable, recyclable paper that writes smoothly with ballpoint pens, gel pens, markers, and pencils without ink bleed-through, in bright eye-catching colors that keep key reminders visible."
+        },
+        "Col_48_Bullet Point": {
+          "old": "Versatile Uses: Ideal for home, office, school, and business use, our full adhesive sticky notes in are perfect for reminders, quick messages, bookmarks and brainstorming sessions where ideas get captured",
+          "new": "Best for Clean, Dry, Smooth Surfaces: Adheres firmly to computer monitors, glass, notebooks, planners, binders, refrigerators, and smooth doors or cabinets. Wipe dusty or textured walls clean and dry before applying for maximum hold."
+        },
+        "Col_9_Item Highlight": {
+          "old": "B07QXJWDPL",
+          "new": null
+        },
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        }
+      }
+    },
+    {
+      "row": 20,
+      "sku": "4A GM304-Full Adhesive-400",
+      "asin": "B07QXJWDPL",
+      "reason": "Sync MFN twin 4A GM304-Full Adhesive-400 on ASIN B07QXJWDPL with exact same 5 anti-curl bullets",
+      "changes": {
+        "Col_44_Bullet Point": {
+          "old": "Full Adhesive Sticky Notes: Includes 1 Pack Full Adhesive Sticky Notes 3 x 4 in, 5 Bright Colors, 80 Sheets/Color, 5 Colors/Pack, 400 Sheets Total",
+          "new": "Full Adhesive Sticky Notes 3 x 4 in (400 Sheets Total): Includes 5 Pads of Full Adhesive Sticky Notes 3 x 4 in, 5 Bright Neon Colors, 80 Sheets/Pad, 400 Sheets Total."
+        },
+        "Col_45_Bullet Point": {
+          "old": "Reliable & Durable: Made of thick and recyclable paper, these full adhesive sticky notes are easy to write on with ballpoint pens, pens, or pencils for clear, legible notes. Sticks securely to smooth surfaces and removes cleanly without residue or damaging pages",
+          "new": "90% Full Adhesive Back + 10% Non-Stick Grip Edge: Coated with full-back adhesive so notes lay flush against smooth surfaces without flipping or falling off, while a narrow bottom non-stick strip makes each sheet easy to grab and peel cleanly without residue."
+        },
+        "Col_46_Bullet Point": {
+          "old": "3 x 4 Inches: These sticky notes 3 x 4 in are the ideal size for quick reminders, important to-dos, and personal notes, small enough to be handy, yet large enough to hold your message",
+          "new": "How to Peel Flat Without Curling (3 x 4 Inches): Start at the bottom non-stick grip edge and peel SIDE-TO-SIDE (horizontally) rather than pulling straight up from the bottom. Note: the black dashed line is printed on the top cover sheet only—all inner sheets are 100% blank and unperforated."
+        },
+        "Col_47_Bullet Point": {
+          "old": "Vibrant & Eye-Catching Colors: Featuring bright, attention-grabbing colors, these colorful sticky notes make it easy to highlight important reminders, categorize tasks, or add a splash of color to your notes and organization",
+          "new": "Thick No-Bleed Paper & Vibrant Neon Colors: Made of durable, recyclable paper that writes smoothly with ballpoint pens, gel pens, markers, and pencils without ink bleed-through, in bright eye-catching colors that keep key reminders visible."
+        },
+        "Col_48_Bullet Point": {
+          "old": "Versatile Uses: Ideal for home, office, school, and business use, our colorful sticky notes in are perfect for reminders, quick messages, bookmarks and brainstorming sessions where ideas get captured",
+          "new": "Best for Clean, Dry, Smooth Surfaces: Adheres firmly to computer monitors, glass, notebooks, planners, binders, refrigerators, and smooth doors or cabinets. Wipe dusty or textured walls clean and dry before applying for maximum hold."
+        },
+        "Col_9_Item Highlight": {
+          "old": "B07QXJWDPL",
+          "new": null
+        },
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        }
+      }
+    },
+    {
+      "row": 21,
+      "sku": "AAAA 4A 304-Full Glue",
+      "asin": "B07FK975YB",
+      "reason": "VOC anti-curl horizontal peel instruction for AAAA 4A 304-Full Glue (B07FK975YB, 372 FBA units)",
+      "changes": {
+        "Col_44_Bullet Point": {
+          "old": "Full Adhesive Sticky Notes: Includes 10 Pads Full Adhesive Sticky Notes 3 x 4 in, 5 Bright Colors, 20 Sheets/Pad, 200 Sheets Total",
+          "new": "Full Adhesive Sticky Notes 3 x 4 in (200 Sheets Total): Includes 10 Pads of Full Adhesive Sticky Notes 3 x 4 in, 5 Bright Neon Colors, 20 Sheets/Pad, 200 Sheets Total."
+        },
+        "Col_45_Bullet Point": {
+          "old": "Reliable & Durable: Made of thick and recyclable paper, these sticky notes are easy to write on with ballpoint pens, pens, or pencils for clear, legible notes. The strong adhesive sticks securely to smooth surfaces and removes cleanly without residue or damaging pages",
+          "new": "90% Full Adhesive Back + 10% Non-Stick Grip Edge: Coated with full-back adhesive so notes lay flush against smooth surfaces without flipping or falling off, while a narrow bottom non-stick strip makes each sheet easy to grab and peel cleanly without residue."
+        },
+        "Col_46_Bullet Point": {
+          "old": "3 x 4 Inches: These full stick back sticky notes 3 x 4 in are the ideal size for quick reminders, important to-dos, and personal notes, small enough to be handy, yet large enough to hold your message",
+          "new": "How to Peel Flat Without Curling (3 x 4 Inches): Start at the bottom non-stick grip edge and peel SIDE-TO-SIDE (horizontally) rather than pulling straight up from the bottom. Note: the black dashed line is printed on the top cover sheet only—all inner sheets are 100% blank and unperforated."
+        },
+        "Col_47_Bullet Point": {
+          "old": "Vibrant & Eye-Catching Colors: Featuring bright, attention-grabbing colors, these colorful sticky notes full adhesive back make it easy to highlight important reminders, categorize tasks, or add a splash of color to your notes and organization",
+          "new": "Thick No-Bleed Paper & Vibrant Neon Colors: Made of durable, recyclable paper that writes smoothly with ballpoint pens, gel pens, markers, and pencils without ink bleed-through, in bright eye-catching colors that keep key reminders visible."
+        },
+        "Col_48_Bullet Point": {
+          "old": "Versatile Uses: Ideal for home, office, school, and business use, our full adhesive sticky notes in are perfect for reminders, quick messages, bookmarks and brainstorming sessions where ideas get captured",
+          "new": "Best for Clean, Dry, Smooth Surfaces: Adheres firmly to computer monitors, glass, notebooks, planners, binders, refrigerators, and smooth doors or cabinets. Wipe dusty or textured walls clean and dry before applying for maximum hold."
+        },
+        "Col_9_Item Highlight": {
+          "old": "B07FK975YB",
+          "new": null
+        },
+        "Col_10_Brand Name": {
+          "old": "AAAA 4A",
+          "new": null
+        }
+      }
+    },
+    {
+      "row": 22,
+      "sku": "4A 305-Full Adhesive",
+      "asin": "B0FBG138ND",
+      "reason": "VOC anti-curl horizontal peel instruction for 4A 305-Full Adhesive (B0FBG138ND, 428 FBA units, 123 orders/30d)",
+      "changes": {
+        "Col_44_Bullet Point": {
+          "old": "Full Adhesive Sticky Notes: Includes 5 Pads Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colors, 20 Sheets/Pad, 100 Sheets Total",
+          "new": "Full Adhesive Sticky Notes 3 x 5 in (100 Sheets Total): Includes 5 Pads of Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Neon Colors, 20 Sheets/Pad, 100 Sheets Total."
+        },
+        "Col_45_Bullet Point": {
+          "old": "Reliable & Durable: Made of thick and recyclable paper, these full adhesive sticky notes are easy to write on with ballpoint pens, pens, or pencils for clear, legible notes. Sticks securely to smooth surfaces and removes cleanly without residue or damaging pages",
+          "new": "90% Full Adhesive Back + 10% Non-Stick Grip Edge: Coated with full-back adhesive so notes lay flush against smooth surfaces without flipping or falling off, while a narrow bottom non-stick strip makes each sheet easy to grab and peel cleanly without residue."
+        },
+        "Col_46_Bullet Point": {
+          "old": "3 x 5 Inches: These full stick sticky notes 3 x 5 in are the ideal size for quick reminders, important to-dos, and personal notes, small enough to be handy, yet large enough to hold your message",
+          "new": "How to Peel Flat Without Curling (3 x 5 Inches): Start at the bottom non-stick grip edge and peel SIDE-TO-SIDE (horizontally) rather than pulling straight up from the bottom. Note: the black dashed line is printed on the top cover sheet only—all inner sheets are 100% blank and unperforated."
+        },
+        "Col_47_Bullet Point": {
+          "old": "Vibrant & Eye-Catching Colors: Featuring bright, attention-grabbing colors, these colorful sticky notes full adhesive back make it easy to highlight important reminders, categorize tasks, or add a splash of color to your notes and organization",
+          "new": "Thick No-Bleed Paper & Vibrant Neon Colors: Made of durable, recyclable paper that writes smoothly with ballpoint pens, gel pens, markers, and pencils without ink bleed-through, in bright eye-catching colors that keep key reminders visible."
+        },
+        "Col_48_Bullet Point": {
+          "old": "Versatile Uses: Ideal for home, office, school, and business use, our colorful full adhesive sticky notes are perfect for reminders, quick messages, bookmarks and brainstorming sessions where ideas get captured",
+          "new": "Best for Clean, Dry, Smooth Surfaces: Adheres firmly to computer monitors, glass, notebooks, planners, binders, refrigerators, and smooth doors or cabinets. Wipe dusty or textured walls clean and dry before applying for maximum hold."
+        },
+        "Col_9_Item Highlight": {
+          "old": "B0FBG138ND",
+          "new": null
+        },
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        }
+      }
+    },
+    {
+      "row": 23,
+      "sku": "4A 305-Full Adhesive-300",
+      "asin": "B07QXJZKHC",
+      "reason": "VOC anti-curl horizontal peel instruction for 4A 305-Full Adhesive-300 (B07QXJZKHC, 174 FBA units)",
+      "changes": {
+        "Col_44_Bullet Point": {
+          "old": "Full Adhesive Sticky Notes: Includes 5 pads full adhesive sticky notes 3 x 5 inches, 5 bright colors, 60 sheets/pad, 300 Sheets Total",
+          "new": "Full Adhesive Sticky Notes 3 x 5 in (300 Sheets Total): Includes 5 Pads of Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Neon Colors, 60 Sheets/Pad, 300 Sheets Total."
+        },
+        "Col_45_Bullet Point": {
+          "old": "Reliable & Durable: Made of thick and recyclable paper, these full adhesive sticky notes are easy to write on with ballpoint pens, pens, or pencils for clear, legible notes. Sticks securely to smooth surfaces and removes cleanly without residue or damaging pages",
+          "new": "90% Full Adhesive Back + 10% Non-Stick Grip Edge: Coated with full-back adhesive so notes lay flush against smooth surfaces without flipping or falling off, while a narrow bottom non-stick strip makes each sheet easy to grab and peel cleanly without residue."
+        },
+        "Col_46_Bullet Point": {
+          "old": "3 x 5 Inches: These full stick sticky notes 3 x 5 in are the ideal size for quick reminders, important to-dos, and personal notes, small enough to be handy, yet large enough to hold your message",
+          "new": "How to Peel Flat Without Curling (3 x 5 Inches): Start at the bottom non-stick grip edge and peel SIDE-TO-SIDE (horizontally) rather than pulling straight up from the bottom. Note: the black dashed line is printed on the top cover sheet only—all inner sheets are 100% blank and unperforated."
+        },
+        "Col_47_Bullet Point": {
+          "old": "Vibrant & Eye-Catching Colors: Featuring bright, attention-grabbing colors, these colorful sticky notes full adhesive back make it easy to highlight important reminders, categorize tasks, or add a splash of color to your notes and organization",
+          "new": "Thick No-Bleed Paper & Vibrant Neon Colors: Made of durable, recyclable paper that writes smoothly with ballpoint pens, gel pens, markers, and pencils without ink bleed-through, in bright eye-catching colors that keep key reminders visible."
+        },
+        "Col_48_Bullet Point": {
+          "old": "Versatile Uses: Ideal for home, office, school, and business use, our colorful full adhesive sticky notes are perfect for reminders, quick messages, to do lists, shopping lists, note-taking and brainstorming sessions where ideas get captured",
+          "new": "Best for Clean, Dry, Smooth Surfaces: Adheres firmly to computer monitors, glass, notebooks, planners, binders, refrigerators, and smooth doors or cabinets. Wipe dusty or textured walls clean and dry before applying for maximum hold."
+        },
+        "Col_9_Item Highlight": {
+          "old": "B07QXJZKHC",
+          "new": null
+        },
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        }
+      }
+    },
+    {
+      "row": 24,
+      "sku": "4A GM305-Full Adhesive-300",
+      "asin": "B07QXJZKHC",
+      "reason": "Sync MFN twin 4A GM305-Full Adhesive-300 on ASIN B07QXJZKHC with exact same 5 anti-curl bullets",
+      "changes": {
+        "Col_44_Bullet Point": {
+          "old": "Full Adhesive Sticky Notes: Includes 5 Pads Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colors, 60 Sheets/Color, 5 Colors/Pack, 300 Sheets Total",
+          "new": "Full Adhesive Sticky Notes 3 x 5 in (300 Sheets Total): Includes 5 Pads of Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Neon Colors, 60 Sheets/Pad, 300 Sheets Total."
+        },
+        "Col_45_Bullet Point": {
+          "old": "Reliable & Durable: Made of thick and recyclable paper, these full adhesive sticky notes are easy to write on with ballpoint pens, pens, or pencils for clear, legible notes. Sticks securely to smooth surfaces and removes cleanly without residue or damaging pages",
+          "new": "90% Full Adhesive Back + 10% Non-Stick Grip Edge: Coated with full-back adhesive so notes lay flush against smooth surfaces without flipping or falling off, while a narrow bottom non-stick strip makes each sheet easy to grab and peel cleanly without residue."
+        },
+        "Col_46_Bullet Point": {
+          "old": "3 x 5 Inches: These sticky notes 3 x 5 in are the ideal size for quick reminders, important to-dos, and personal notes, small enough to be handy, yet large enough to hold your message",
+          "new": "How to Peel Flat Without Curling (3 x 5 Inches): Start at the bottom non-stick grip edge and peel SIDE-TO-SIDE (horizontally) rather than pulling straight up from the bottom. Note: the black dashed line is printed on the top cover sheet only—all inner sheets are 100% blank and unperforated."
+        },
+        "Col_47_Bullet Point": {
+          "old": "Vibrant & Eye-Catching Colors: Featuring bright, attention-grabbing colors, these colorful sticky notes make it easy to highlight important reminders, categorize tasks, or add a splash of color to your notes and organization",
+          "new": "Thick No-Bleed Paper & Vibrant Neon Colors: Made of durable, recyclable paper that writes smoothly with ballpoint pens, gel pens, markers, and pencils without ink bleed-through, in bright eye-catching colors that keep key reminders visible."
+        },
+        "Col_48_Bullet Point": {
+          "old": "Versatile Uses: Ideal for home, office, school, and business use, our colorful sticky notes in are perfect for reminders, quick messages, bookmarks and brainstorming sessions where ideas get captured",
+          "new": "Best for Clean, Dry, Smooth Surfaces: Adheres firmly to computer monitors, glass, notebooks, planners, binders, refrigerators, and smooth doors or cabinets. Wipe dusty or textured walls clean and dry before applying for maximum hold."
+        },
+        "Col_9_Item Highlight": {
+          "old": "B07QXJZKHC",
+          "new": null
+        },
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        }
+      }
+    },
+    {
+      "row": 25,
+      "sku": "4A SCPSS 32x6",
+      "asin": "B08DKJ2K3T",
+      "reason": "VOC 45-degree clean cut dispenser instruction for 4A SCPSS 32x6 (B08DKJ2K3T)",
+      "changes": {
+        "Col_44_Bullet Point": {
+          "old": "Roll Sticky Notes: Includes 6 x full adhesive roll sticky notes with dispensers, 0.6 x 393 Inches, 6 colors",
+          "new": "6 Rolls Full Adhesive Sticky Notes with Dispensers: Includes 6 rolls of full-adhesive sticky note tape (0.6 in x 393 in / 15 mm x 10 m per roll) in 6 bright neon colors, each housed in a refillable serrated plastic dispenser."
+        },
+        "Col_45_Bullet Point": {
+          "old": "Full Adhesive Sticky Notes: Sticks firmly to surfaces like desks, books, or monitors and removes cleanly, suitable for both short-term and long-term use",
+          "new": "How to Dispense & Cut Cleanly: Keep the paper strip threaded under the clear front guide bar, pull out your desired length, press your thumb lightly on top of the roll to hold it steady, and tear diagonally at a 45-degree angle across the serrated blade."
+        },
+        "Col_46_Bullet Point": {
+          "old": "Effortless Cut: Cut them easily to any length you want, whether it's a small strip for quick reminders or a larger piece for detailed notes",
+          "new": "Full-Back Adhesive & Residue-Free Removal: Full adhesive coating across the back keeps strips completely flat on books, documents, monitors, planners, and containers without curling up, and peels off cleanly without leaving sticky residue."
+        },
+        "Col_47_Bullet Point": {
+          "old": "Convenient & Portable: The compact roll design makes these sticky notes easy to carry in bags, pockets, or briefcases, ensuring you always have a reliable note-taking tool on hand, ready for use anytime and anywhere",
+          "new": "Custom Length for Any Label or Tab: Easily cut a tiny flag for page marking or a long strip for file folders, storage bins, cables, spice jars, and study notes—no pre-cut size waste."
+        },
+        "Col_48_Bullet Point": {
+          "old": "Versatile Use: Ideal for offices, classrooms, homes. Great for jotting down quick messages, reminders, labels, schedules, to-do lists, meeting notes or brainstorming sessions",
+          "new": "Portable & Organized for Home, School & Office: Compact roll dispensers fit neatly in pencil cases, desk drawers, and bags while protecting the sticky note roll from dust and edge damage."
+        },
+        "Col_9_Item Highlight": {
+          "old": "B08DKJ2K3T",
+          "new": null
+        },
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        }
+      }
+    },
+    {
+      "row": 26,
+      "sku": "4A GM-SCPSS 32x6",
+      "asin": "B08DKJ2K3T",
+      "reason": "Sync MFN twin 4A GM-SCPSS 32x6 on ASIN B08DKJ2K3T with exact same 5 dispenser instructions",
+      "changes": {
+        "Col_44_Bullet Point": {
+          "old": null,
+          "new": "6 Rolls Full Adhesive Sticky Notes with Dispensers: Includes 6 rolls of full-adhesive sticky note tape (0.6 in x 393 in / 15 mm x 10 m per roll) in 6 bright neon colors, each housed in a refillable serrated plastic dispenser."
+        },
+        "Col_45_Bullet Point": {
+          "old": null,
+          "new": "How to Dispense & Cut Cleanly: Keep the paper strip threaded under the clear front guide bar, pull out your desired length, press your thumb lightly on top of the roll to hold it steady, and tear diagonally at a 45-degree angle across the serrated blade."
+        },
+        "Col_46_Bullet Point": {
+          "old": null,
+          "new": "Full-Back Adhesive & Residue-Free Removal: Full adhesive coating across the back keeps strips completely flat on books, documents, monitors, planners, and containers without curling up, and peels off cleanly without leaving sticky residue."
+        },
+        "Col_47_Bullet Point": {
+          "old": null,
+          "new": "Custom Length for Any Label or Tab: Easily cut a tiny flag for page marking or a long strip for file folders, storage bins, cables, spice jars, and study notes—no pre-cut size waste."
+        },
+        "Col_48_Bullet Point": {
+          "old": null,
+          "new": "Portable & Organized for Home, School & Office: Compact roll dispensers fit neatly in pencil cases, desk drawers, and bags while protecting the sticky note roll from dust and edge damage."
+        },
+        "Col_9_Item Highlight": {
+          "old": "B08DKJ2K3T",
+          "new": null
+        },
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        }
+      }
+    },
+    {
+      "row": 27,
+      "sku": "4A PSS 32x6",
+      "asin": "B08CVLH794",
+      "reason": "Populate missing 5 Bullet Points + 45-degree clean cut dispenser instruction on 4A PSS 32x6 (B08CVLH794)",
+      "changes": {
+        "Col_44_Bullet Point": {
+          "old": null,
+          "new": "6 Rolls Full Adhesive Sticky Notes with Dispensers: Includes 6 rolls of full-adhesive sticky note tape (0.6 in x 393 in / 15 mm x 10 m per roll) in 6 bright neon colors, each housed in a refillable serrated plastic dispenser."
+        },
+        "Col_45_Bullet Point": {
+          "old": null,
+          "new": "How to Dispense & Cut Cleanly: Keep the paper strip threaded under the clear front guide bar, pull out your desired length, press your thumb lightly on top of the roll to hold it steady, and tear diagonally at a 45-degree angle across the serrated blade."
+        },
+        "Col_46_Bullet Point": {
+          "old": null,
+          "new": "Full-Back Adhesive & Residue-Free Removal: Full adhesive coating across the back keeps strips completely flat on books, documents, monitors, planners, and containers without curling up, and peels off cleanly without leaving sticky residue."
+        },
+        "Col_47_Bullet Point": {
+          "old": null,
+          "new": "Custom Length for Any Label or Tab: Easily cut a tiny flag for page marking or a long strip for file folders, storage bins, cables, spice jars, and study notes—no pre-cut size waste."
+        },
+        "Col_48_Bullet Point": {
+          "old": null,
+          "new": "Portable & Organized for Home, School & Office: Compact roll dispensers fit neatly in pencil cases, desk drawers, and bags while protecting the sticky note roll from dust and edge damage."
+        },
+        "Col_9_Item Highlight": {
+          "old": "B08CVLH794",
+          "new": null
+        },
+        "Col_10_Brand Name": {
+          "old": "4A",
+          "new": null
+        }
+      }
+    }
+  ]
+}

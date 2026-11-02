@@ -1,0 +1,198 @@
+{
+  "source": "175793876516020757.txt",
+  "date_min": "2026-10-01T15:53:49+00:00",
+  "date_max": "2026-10-31T13:50:16+00:00",
+  "definition": "US / USD / not Cancelled; pending included; item-price before promotions, refunds, shipping and tax",
+  "source_rows": 745,
+  "included_rows": 686,
+  "orders": 668,
+  "item_amount": 13965.3,
+  "zip_matched_rows": 686,
+  "zip_database": "https://github.com/seanpianka/Zipcodes/blob/master/scripts/data/zip_code_database.csv",
+  "unmatched_summary": [],
+  "orders_in_multiple_regions": 0,
+  "regions": [
+    {
+      "region": "东部时区",
+      "orders": 301,
+      "lines": 307,
+      "units": 396,
+      "item_amount": 6281.43,
+      "after_item_promotion": 6279.33,
+      "order_share": 0.4505988023952096,
+      "amount_share": 0.44978840411591586,
+      "zones": {
+        "America/New_York": 269,
+        "America/Detroit": 24,
+        "America/Indiana/Indianapolis": 11,
+        "America/Kentucky/Louisville": 2,
+        "America/Indiana/Vincennes": 1
+      },
+      "states": {
+        "VA": 26,
+        "OH": 23,
+        "PA": 25,
+        "GA": 24,
+        "FL": 30,
+        "NY": 37,
+        "MD": 14,
+        "MA": 15,
+        "CT": 5,
+        "NC": 25,
+        "MI": 24,
+        "DC": 2,
+        "ME": 3,
+        "KY": 8,
+        "NJ": 16,
+        "DE": 3,
+        "SC": 5,
+        "NH": 5,
+        "IN": 13,
+        "TN": 1,
+        "WV": 2,
+        "RI": 1
+      }
+    },
+    {
+      "region": "中部时区",
+      "orders": 205,
+      "lines": 211,
+      "units": 257,
+      "item_amount": 4139.32,
+      "after_item_promotion": 4139.32,
+      "order_share": 0.3068862275449102,
+      "amount_share": 0.2964003637587449,
+      "zones": {
+        "America/Chicago": 211
+      },
+      "states": {
+        "IL": 25,
+        "TX": 67,
+        "MO": 16,
+        "IA": 6,
+        "OK": 12,
+        "TN": 8,
+        "MN": 19,
+        "WI": 17,
+        "AL": 6,
+        "LA": 10,
+        "FL": 6,
+        "KY": 5,
+        "KS": 4,
+        "IN": 1,
+        "NE": 2,
+        "SD": 1,
+        "AR": 3,
+        "ND": 1,
+        "MS": 2
+      }
+    },
+    {
+      "region": "太平洋时区（美西）",
+      "orders": 103,
+      "lines": 109,
+      "units": 135,
+      "item_amount": 2347.14,
+      "after_item_promotion": 2346.49,
+      "order_share": 0.15419161676646706,
+      "amount_share": 0.16806942922815837,
+      "zones": {
+        "America/Los_Angeles": 109
+      },
+      "states": {
+        "CA": 78,
+        "WA": 14,
+        "OR": 12,
+        "ID": 1,
+        "NV": 4
+      }
+    },
+    {
+      "region": "山地时区（夏令）",
+      "orders": 39,
+      "lines": 39,
+      "units": 50,
+      "item_amount": 749.27,
+      "after_item_promotion": 749.27,
+      "order_share": 0.058383233532934134,
+      "amount_share": 0.053652266689580605,
+      "zones": {
+        "America/Boise": 5,
+        "America/Denver": 34
+      },
+      "states": {
+        "ID": 5,
+        "CO": 17,
+        "UT": 9,
+        "NM": 3,
+        "TX": 4,
+        "WY": 1
+      }
+    },
+    {
+      "region": "亚利桑那（不实行夏令时）",
+      "orders": 13,
+      "lines": 13,
+      "units": 19,
+      "item_amount": 312.37,
+      "after_item_promotion": 312.37,
+      "order_share": 0.019461077844311378,
+      "amount_share": 0.022367582508073584,
+      "zones": {
+        "America/Phoenix": 13
+      },
+      "states": {
+        "AZ": 13
+      }
+    },
+    {
+      "region": "阿拉斯加",
+      "orders": 3,
+      "lines": 3,
+      "units": 4,
+      "item_amount": 75.81,
+      "after_item_promotion": 74.91,
+      "order_share": 0.004491017964071856,
+      "amount_share": 0.005428454813000795,
+      "zones": {
+        "America/Anchorage": 2,
+        "America/Yakutat": 1
+      },
+      "states": {
+        "AK": 3
+      }
+    },
+    {
+      "region": "夏威夷",
+      "orders": 2,
+      "lines": 2,
+      "units": 2,
+      "item_amount": 31.98,
+      "after_item_promotion": 31.98,
+      "order_share": 0.0029940119760479044,
+      "amount_share": 0.002289961547549999,
+      "zones": {
+        "Pacific/Honolulu": 2
+      },
+      "states": {
+        "HI": 2
+      }
+    },
+    {
+      "region": "波多黎各及其他属地",
+      "orders": 2,
+      "lines": 2,
+      "units": 2,
+      "item_amount": 27.98,
+      "after_item_promotion": 27.98,
+      "order_share": 0.0029940119760479044,
+      "amount_share": 0.0020035373389758904,
+      "zones": {
+        "America/Puerto_Rico": 2
+      },
+      "states": {
+        "PR": 2
+      }
+    }
+  ]
+}

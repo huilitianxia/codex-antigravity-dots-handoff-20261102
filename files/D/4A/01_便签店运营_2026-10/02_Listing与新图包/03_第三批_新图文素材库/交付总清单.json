@@ -1,0 +1,662 @@
+{
+  "date": "2026-10-30",
+  "count": 15,
+  "candidates": 13,
+  "needs_product_check": 2,
+  "approved": 0,
+  "products": [
+    {
+      "sku": "4A 40609x2",
+      "asin": "B07FKBHTDG",
+      "folder": "40609"
+    },
+    {
+      "sku": "4A 5088-N-L",
+      "asin": "B07RP9MB7Y",
+      "folder": "5088NL"
+    },
+    {
+      "sku": "4A PSS 9-1 NYNRx2",
+      "asin": "B07QWKWWP2",
+      "folder": "PSS91"
+    }
+  ],
+  "images": [
+    {
+      "id": "40609_01",
+      "title": "主图｜两本四组彩签",
+      "type": "main",
+      "order": 1,
+      "sku": "4A 40609x2",
+      "asin": "B07FKBHTDG",
+      "file": "交付候选_2000px/40609_01.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:/OpenAI-Codex/CodexHome/generated_images/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/exec-5eede05d-3cf0-4339-a938-1c350a64c90b.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/40609_01.png",
+      "resize_method": "透明生成源图按alpha裁切，Lanczos3等比缩放，居中合成RGB255白底",
+      "reference_files": [
+        "原图参考/01_B07FKBHTDG_01.jpg",
+        "原图参考/02_B07FKBHTDG_02.jpg",
+        "原图参考/03_702877120071.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "两本可数，各四个彩色分组；水平横线配侧边宽彩签。",
+      "remaining_checks": "纸厚、模切轮廓、彩签色值与实物批次仍需核样。",
+      "technical": {
+        "background_rgb": [
+          255,
+          255,
+          255
+        ],
+        "border60_checked": 465600,
+        "border60_white": 465600,
+        "white_background_pass": true,
+        "safety_margins_including_shadow": [
+          74,
+          61,
+          74,
+          61
+        ],
+        "margin_pass": true,
+        "product_bbox_alpha230": {
+          "left": 121,
+          "top": 169,
+          "width": 1749,
+          "height": 1689
+        },
+        "product_longest_span_percent": 87.45,
+        "occupancy_pass": true,
+        "occupancy_definition": "alpha>230实体近似外接框最长边/2000；不是画幅面积占比。"
+      },
+      "sha256": "996e7a9b7b2b937576e0224431bd1b67f1422c3da33e5f78b3f83e5675854333",
+      "folder": "40609",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第三批/40609/交付候选_2000px/40609_01.png"
+    },
+    {
+      "id": "40609_02",
+      "title": "章节索引",
+      "type": "secondary",
+      "order": 2,
+      "sku": "4A 40609x2",
+      "asin": "B07FKBHTDG",
+      "file": "交付候选_2000px/40609_02.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-4f5369c9-c9b9-40c5-a82d-1ccd9f281fbb.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/40609_02_v2.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07FKBHTDG_01.jpg",
+        "原图参考/02_B07FKBHTDG_02.jpg",
+        "原图参考/03_702877120071.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "已返修：可见页为两张七横线便签，另两色标签露出；没有将白纸画成狭长条。",
+      "remaining_checks": "透视下纸面长宽和书页比例仍需实物比对；场景为用途示意。",
+      "technical": {},
+      "sha256": "ec088093886a78ff320a338f81fbcfca8bad590617bf82eeb883f522ab4cb4c7",
+      "folder": "40609",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第三批/40609/交付候选_2000px/40609_02.png"
+    },
+    {
+      "id": "40609_03",
+      "title": "横线书写",
+      "type": "secondary",
+      "order": 3,
+      "sku": "4A 40609x2",
+      "asin": "B07FKBHTDG",
+      "file": "交付候选_2000px/40609_03.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-5924c5da-d8bb-4c52-9c5b-f0dc880bf0e4.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/40609_03_v2.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07FKBHTDG_01.jpg",
+        "原图参考/02_B07FKBHTDG_02.jpg",
+        "原图参考/03_702877120071.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "已返修：单张便签，移除方向错误的后排彩签；七条横线与手写场景。",
+      "remaining_checks": "Smooth writing为用途演示，未加入不透墨与80 GSM实测承诺。",
+      "technical": {},
+      "sha256": "ca64450d109c1253086c84b4e2a1ab40fda202cb1d51c59a8c606cc372fc7ed5",
+      "folder": "40609",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第三批/40609/交付候选_2000px/40609_03.png"
+    },
+    {
+      "id": "40609_04",
+      "title": "撕取与重新贴附",
+      "type": "secondary",
+      "order": 4,
+      "sku": "4A 40609x2",
+      "asin": "B07FKBHTDG",
+      "file": "交付候选_2000px/40609_04.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-a8a0b6d1-8e57-4465-9b96-868a7814517c.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/40609_04.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07FKBHTDG_01.jpg",
+        "原图参考/02_B07FKBHTDG_02.jpg",
+        "原图参考/03_702877120071.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "表现单张纸撕取；背景贴附纸平整；没有写无损纸保证。",
+      "remaining_checks": "动态弯曲、纸面比例和真实胶位需要核样；画面不等于移除测试。",
+      "technical": {},
+      "sha256": "64f8caad1b824a7bb10d2de30cf6443602529f75aa92460a022a1767757f6573",
+      "folder": "40609",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第三批/40609/交付候选_2000px/40609_04.png"
+    },
+    {
+      "id": "40609_05",
+      "title": "学习与办公分类",
+      "type": "secondary",
+      "order": 5,
+      "sku": "4A 40609x2",
+      "asin": "B07FKBHTDG",
+      "file": "交付候选_2000px/40609_05.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-15fb3f4e-ea7b-49f1-a441-4dbbc9d5a31a.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/40609_05.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07FKBHTDG_01.jpg",
+        "原图参考/02_B07FKBHTDG_02.jpg",
+        "原图参考/03_702877120071.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "两本/八分组/120张文案对应当前ASIN；学习与规划场景。",
+      "remaining_checks": "手写内容仅作使用示例，非预印；道具不包含。",
+      "technical": {},
+      "sha256": "6016f30e180868f6c099f13dfc1820118dbebaed5835e06267e07a2f9d999ea8",
+      "folder": "40609",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第三批/40609/交付候选_2000px/40609_05.png"
+    },
+    {
+      "id": "5088NL_01",
+      "title": "主图｜八本混色",
+      "type": "main",
+      "order": 1,
+      "sku": "4A 5088-N-L",
+      "asin": "B07RP9MB7Y",
+      "file": "交付候选_2000px/5088NL_01.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:/OpenAI-Codex/CodexHome/generated_images/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/exec-34adb508-114d-4d02-8524-4c0d20ed9462.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/5088NL_01.png",
+      "resize_method": "透明生成源图按alpha裁切，Lanczos3等比缩放，居中合成RGB255白底",
+      "reference_files": [
+        "原图参考/01_B07RP9MB7Y_00.jpg",
+        "原图参考/02_B07RP9MB7Y_01.jpg",
+        "原图参考/03_702877124673.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "八本独立可数，混合八色按当前图示；无文案或额外道具。",
+      "remaining_checks": "50张/本的厚度、真实色值及行距仍需实物核样。",
+      "technical": {
+        "background_rgb": [
+          255,
+          255,
+          255
+        ],
+        "border60_checked": 465600,
+        "border60_white": 465600,
+        "white_background_pass": true,
+        "safety_margins_including_shadow": [
+          61,
+          113,
+          61,
+          114
+        ],
+        "margin_pass": true,
+        "product_bbox_alpha230": {
+          "left": 128,
+          "top": 159,
+          "width": 1775,
+          "height": 1721
+        },
+        "product_longest_span_percent": 88.75,
+        "occupancy_pass": true,
+        "occupancy_definition": "alpha>230实体近似外接框最长边/2000；不是画幅面积占比。"
+      },
+      "sha256": "7bca67d348855a7fae0c7cbe4524736303a3db5a753b63c211dabd112bfc97dd",
+      "folder": "5088NL",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第三批/5088NL/交付候选_2000px/5088NL_01.png"
+    },
+    {
+      "id": "5088NL_02",
+      "title": "精确尺寸与面积对比",
+      "type": "secondary",
+      "order": 2,
+      "sku": "4A 5088-N-L",
+      "asin": "B07RP9MB7Y",
+      "file": "交付候选_2000px/5088NL_02.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:/Desktop/待上架_新图文素材库_第三批/5088NL/生成源图/5088NL_02_exact.svg",
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "source_copy": "生成源图/5088NL_02_exact.svg",
+      "resize_method": "原生2000×2000 SVG按同一物理比例绘制后渲染PNG；非AI放大",
+      "reference_files": [
+        "原图参考/01_B07RP9MB7Y_00.jpg",
+        "原图参考/02_B07RP9MB7Y_01.jpg",
+        "原图参考/03_702877124673.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "原生SVG：650×1040与390×390，统一130px/in；面积比40/9约4.44。",
+      "remaining_checks": "属于尺寸示意；3×3对照便签不包含；不把面积当成书写效率。",
+      "technical": {
+        "scale_px_per_inch": 130,
+        "rectangles_px": [
+          [
+            650,
+            1040
+          ],
+          [
+            390,
+            390
+          ]
+        ],
+        "area_ratio": 4.444444444444445
+      },
+      "sha256": "112de0ada58574e7a2a604f34c533dc0e6f82d063d02c5dc5bd7c3be7b0b40a3",
+      "folder": "5088NL",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第三批/5088NL/交付候选_2000px/5088NL_02.png"
+    },
+    {
+      "id": "5088NL_03",
+      "title": "会议纪要",
+      "type": "secondary",
+      "order": 3,
+      "sku": "4A 5088-N-L",
+      "asin": "B07RP9MB7Y",
+      "file": "交付候选_2000px/5088NL_03.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-be1653a4-c877-40ba-a8c8-97ee4d7f6eab.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/5088NL_03.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07RP9MB7Y_00.jpg",
+        "原图参考/02_B07RP9MB7Y_01.jpg",
+        "原图参考/03_702877124673.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "5×8纵向橙色横线本，会议手写示例；无不透墨承诺。",
+      "remaining_checks": "实际行距、纸厚及笔与纸尺度需核样。",
+      "technical": {},
+      "sha256": "b53678d36084142884de29ef6dcbff5a279b4529813721fa78306faef17770e2",
+      "folder": "5088NL",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第三批/5088NL/交付候选_2000px/5088NL_03.png"
+    },
+    {
+      "id": "5088NL_04",
+      "title": "撕取与平贴",
+      "type": "secondary",
+      "order": 4,
+      "sku": "4A 5088-N-L",
+      "asin": "B07RP9MB7Y",
+      "file": "交付候选_2000px/5088NL_04.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-42965311-88af-4fea-9747-0469ed944081.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/5088NL_04.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07RP9MB7Y_00.jpg",
+        "原图参考/02_B07RP9MB7Y_01.jpg",
+        "原图参考/03_702877124673.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "单张撕取与平整贴附分栏；没有磁铁图钉胶带。",
+      "remaining_checks": "背景有额外展示叠本，并非整包数量主图；纸厚、动作与粘贴性能需核样。",
+      "technical": {},
+      "sha256": "606ceacef316cfa28db2e99e42241ac9fd47ef6c3ffcb12ed38460d14bae3c78",
+      "folder": "5088NL",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第三批/5088NL/交付候选_2000px/5088NL_04.png"
+    },
+    {
+      "id": "5088NL_05",
+      "title": "团队周计划",
+      "type": "secondary",
+      "order": 5,
+      "sku": "4A 5088-N-L",
+      "asin": "B07RP9MB7Y",
+      "file": "交付候选_2000px/5088NL_05.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-c8fef800-43be-4fda-8882-1ea17824688a.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/5088NL_05.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07RP9MB7Y_00.jpg",
+        "原图参考/02_B07RP9MB7Y_01.jpg",
+        "原图参考/03_702877124673.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "五天团队看板；8×50=400规格正确；便签贴附平整。",
+      "remaining_checks": "前景叠本厚度及看板比例需实物核样；不宣称永不卷边。",
+      "technical": {},
+      "sha256": "9a70c3bbe7df52c87b7d2275d5bcd836d366b84e788f6ce0c551cd9fa2462eab",
+      "folder": "5088NL",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第三批/5088NL/交付候选_2000px/5088NL_05.png"
+    },
+    {
+      "id": "PSS91_01",
+      "title": "主图｜分配器加替换卷",
+      "type": "main",
+      "order": 1,
+      "sku": "4A PSS 9-1 NYNRx2",
+      "asin": "B07QWKWWP2",
+      "file": "交付候选_2000px/PSS91_01.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:/OpenAI-Codex/CodexHome/generated_images/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/exec-b7863d00-4b14-41e3-87a2-ab013c0f31b2.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/PSS91_01.png",
+      "resize_method": "透明生成源图按alpha裁切，Lanczos3等比缩放，居中合成RGB255白底",
+      "reference_files": [
+        "原图参考/01_B07QWKWWP2_00.jpg",
+        "原图参考/02_B07QWKWWP2_01.jpg",
+        "原图参考/03_PSS-9-1-NY-4.jpg",
+        "原图参考/04_PSS-9-1-NY-8.jpg",
+        "原图参考/05_B07QWKWWP2_03.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "两个带卷分配器+两个替换卷，共四卷，黄色和洋红色。",
+      "remaining_checks": "透明壳、切刀、中心轴、纸卷直径与批次色值仍需实物核样。",
+      "technical": {
+        "background_rgb": [
+          255,
+          255,
+          255
+        ],
+        "border60_checked": 465600,
+        "border60_white": 465600,
+        "white_background_pass": true,
+        "safety_margins_including_shadow": [
+          82,
+          82,
+          83,
+          83
+        ],
+        "margin_pass": true,
+        "product_bbox_alpha230": {
+          "left": 102,
+          "top": 250,
+          "width": 1799,
+          "height": 1559
+        },
+        "product_longest_span_percent": 89.95,
+        "occupancy_pass": true,
+        "occupancy_definition": "alpha>230实体近似外接框最长边/2000；不是画幅面积占比。"
+      },
+      "sha256": "f7fe645307a991399fdd57e8f5c6bb9be33da54ef535231d4f5b22443836bd14",
+      "folder": "PSS91",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第三批/PSS91/交付候选_2000px/PSS91_01.png"
+    },
+    {
+      "id": "PSS91_02",
+      "title": "自选长度裁切",
+      "type": "secondary",
+      "order": 2,
+      "sku": "4A PSS 9-1 NYNRx2",
+      "asin": "B07QWKWWP2",
+      "file": "审稿待核_2000px/PSS91_02.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-c3938b93-ee87-47d9-baab-5f0a645e87a0.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/PSS91_02.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07QWKWWP2_00.jpg",
+        "原图参考/02_B07QWKWWP2_01.jpg",
+        "原图参考/03_PSS-9-1-NY-4.jpg",
+        "原图参考/04_PSS-9-1-NY-8.jpg",
+        "原图参考/05_B07QWKWWP2_03.jpg"
+      ],
+      "status": "needs_product_check",
+      "status_zh": "审稿待核",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "切纸路线参考真实切割旧图，手从切刀处斜向拉出纸。",
+      "remaining_checks": "具体撕切动作与刀口结构未实测，列为待核稿。",
+      "technical": {},
+      "sha256": "a36cc87b166607c4f9d983d7403feab26369220bfab67f922ed3af543e8651fc",
+      "folder": "PSS91",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第三批/PSS91/审稿待核_2000px/PSS91_02.png"
+    },
+    {
+      "id": "PSS91_03",
+      "title": "2英寸宽与裁切示意",
+      "type": "secondary",
+      "order": 3,
+      "sku": "4A PSS 9-1 NYNRx2",
+      "asin": "B07QWKWWP2",
+      "file": "交付候选_2000px/PSS91_03.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:/Desktop/待上架_新图文素材库_第三批/PSS91/生成源图/PSS91_03_exact.svg",
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "source_copy": "生成源图/PSS91_03_exact.svg",
+      "resize_method": "原生2000×2000 SVG按同一物理比例绘制后渲染PNG；非AI放大",
+      "reference_files": [
+        "原图参考/01_B07QWKWWP2_00.jpg",
+        "原图参考/02_B07QWKWWP2_01.jpg",
+        "原图参考/03_PSS-9-1-NY-4.jpg",
+        "原图参考/04_PSS-9-1-NY-8.jpg",
+        "原图参考/05_B07QWKWWP2_03.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "原生SVG：两个纸条同为2英寸宽，分别示意3和5英寸裁切；315英寸为每卷总长。",
+      "remaining_checks": "裁切长度是示例，不是预裁规格；整卷315英寸没有按同尺全部展开。",
+      "technical": {
+        "scale_px_per_inch": 200,
+        "example_rectangles_px": [
+          [
+            400,
+            600
+          ],
+          [
+            400,
+            1000
+          ]
+        ],
+        "roll_total_length_in": 315
+      },
+      "sha256": "cd26bc75778dc5c3917679b791802d2224a47358882d5060db692ef8c0b37a71",
+      "folder": "PSS91",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第三批/PSS91/交付候选_2000px/PSS91_03.png"
+    },
+    {
+      "id": "PSS91_04",
+      "title": "纸箱文件夹白板标签",
+      "type": "secondary",
+      "order": 4,
+      "sku": "4A PSS 9-1 NYNRx2",
+      "asin": "B07QWKWWP2",
+      "file": "交付候选_2000px/PSS91_04.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-b8b1f931-7f63-4627-95c8-1a856c53971e.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/PSS91_04.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07QWKWWP2_00.jpg",
+        "原图参考/02_B07QWKWWP2_01.jpg",
+        "原图参考/03_PSS-9-1-NY-4.jpg",
+        "原图参考/04_PSS-9-1-NY-8.jpg",
+        "原图参考/05_B07QWKWWP2_03.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "纸箱、文件夹、白板三种场景，标签平整无额外固定物。",
+      "remaining_checks": "不同表面粘性未实测；不含耐热、绝缘、防水等承诺。",
+      "technical": {},
+      "sha256": "dac19336b54376b0cd6b4859b5cdca995217cdf70ac18386f68f9c28acf6085e",
+      "folder": "PSS91",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第三批/PSS91/交付候选_2000px/PSS91_04.png"
+    },
+    {
+      "id": "PSS91_05",
+      "title": "换卷步骤示意",
+      "type": "secondary",
+      "order": 5,
+      "sku": "4A PSS 9-1 NYNRx2",
+      "asin": "B07QWKWWP2",
+      "file": "审稿待核_2000px/PSS91_05.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-9d0ec81a-a0c2-4755-90af-c9b5afe68fd5.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/PSS91_05.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07QWKWWP2_00.jpg",
+        "原图参考/02_B07QWKWWP2_01.jpg",
+        "原图参考/03_PSS-9-1-NY-4.jpg",
+        "原图参考/04_PSS-9-1-NY-8.jpg",
+        "原图参考/05_B07QWKWWP2_03.jpg"
+      ],
+      "status": "needs_product_check",
+      "status_zh": "审稿待核",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "三步换卷概念，保留原有透明壳与刀口；图片已标Illustrated refill sequence。",
+      "remaining_checks": "未取得实物拆装步骤或说明书；第二格轴芯残留需核对，不作为操作说明定稿。",
+      "technical": {},
+      "sha256": "2a95cbc3f5dd6e6e5f32b661f017a63a5aa31613430f8ac40a0b058b65b1a2bf",
+      "folder": "PSS91",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第三批/PSS91/审稿待核_2000px/PSS91_05.png"
+    }
+  ]
+}

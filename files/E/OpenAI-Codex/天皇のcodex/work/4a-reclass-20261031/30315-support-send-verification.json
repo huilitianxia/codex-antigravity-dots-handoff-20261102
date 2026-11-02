@@ -1,0 +1,24 @@
+{
+  "status": "SENT_AND_PROCESSING",
+  "case_id": "22923307871",
+  "new_case_created": false,
+  "route": "Reply with new manufacturer evidence to existing case; new-case classifier wrongly proposed split-ASIN flow so abandoned unsent",
+  "sent_time_ui": "2026-11-01 17:14 GMT+8",
+  "recipient": "Amazon Seller Support in existingUS4Acase",
+  "sender_account": "4A (USA) LIMITED / US",
+  "body_file": "30315-support-sent-body.txt",
+  "attachments": [
+    "30315-manufacturer-current.png",
+    "30315-prior-case-reply-attachment.txt",
+    "30315-scoped-identifiers-attachment.txt"
+  ],
+  "attachment_links_visible_after_send": true,
+  "case_status_after_send": "正在处理",
+  "case_url": "https://sellercentral.amazon.com/cu/case-dashboard/view-case?ref=sc_cd_lobby_vc_v3&ie=UTF&caseID=22923307871",
+  "evidence": [
+    "30315-support-sent-result.txt",
+    "30315-support-sent.png"
+  ],
+  "catalog_merged": false,
+  "mutations": "Onlysupportreply; no catalog/price/inventory/family changes"
+}

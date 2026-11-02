@@ -1,0 +1,252 @@
+{
+  "03_视频素材与成品": {
+    "files": 30,
+    "types": {
+      ".mp4": 22,
+      ".txt": 2,
+      ".jpg": 6
+    }
+  },
+  "05_历史版本与中间过程": {
+    "files": 17,
+    "types": {
+      ".json": 2,
+      ".tsv": 4,
+      ".xlsm": 3,
+      ".csv": 2,
+      ".txt": 6
+    }
+  },
+  "target_source_content": {
+    "files": 294,
+    "types": {
+      ".json": 25,
+      ".jpg": 126,
+      ".cjs": 9,
+      ".png": 110,
+      ".md": 3,
+      ".svg": 14,
+      ".jpeg": 1,
+      ".py": 6
+    }
+  },
+  "manifests": [
+    {
+      "file": "01_第一批_新图文素材库\\301x12\\manifest.json",
+      "image_count": 5,
+      "upload_approved_true": 0,
+      "upload_approved_false": 5,
+      "status": {
+        "MISSING": 5
+      },
+      "refs": 0
+    },
+    {
+      "file": "01_第一批_新图文素材库\\5084NL\\manifest.json",
+      "image_count": 5,
+      "upload_approved_true": 0,
+      "upload_approved_false": 5,
+      "status": {
+        "MISSING": 5
+      },
+      "refs": 0
+    },
+    {
+      "file": "01_第一批_新图文素材库\\PSS32x6\\manifest.json",
+      "image_count": 5,
+      "upload_approved_true": 0,
+      "upload_approved_false": 5,
+      "status": {
+        "MISSING": 5
+      },
+      "refs": 0
+    },
+    {
+      "file": "02_第二批_新图文素材库\\305FullAdhesive\\manifest.json",
+      "image_count": 5,
+      "upload_approved_true": 0,
+      "upload_approved_false": 5,
+      "status": {
+        "MISSING": 5
+      },
+      "refs": 0
+    },
+    {
+      "file": "02_第二批_新图文素材库\\608NL210\\manifest.json",
+      "image_count": 5,
+      "upload_approved_true": 0,
+      "upload_approved_false": 5,
+      "status": {
+        "MISSING": 5
+      },
+      "refs": 0
+    },
+    {
+      "file": "02_第二批_新图文素材库\\BS1801\\manifest.json",
+      "image_count": 5,
+      "upload_approved_true": 0,
+      "upload_approved_false": 5,
+      "status": {
+        "MISSING": 5
+      },
+      "refs": 0
+    },
+    {
+      "file": "03_第三批_新图文素材库\\40609\\manifest.json",
+      "image_count": 5,
+      "upload_approved_true": 0,
+      "upload_approved_false": 5,
+      "status": {
+        "final_candidate": 5
+      },
+      "refs": 3
+    },
+    {
+      "file": "03_第三批_新图文素材库\\5088NL\\manifest.json",
+      "image_count": 5,
+      "upload_approved_true": 0,
+      "upload_approved_false": 5,
+      "status": {
+        "final_candidate": 5
+      },
+      "refs": 3
+    },
+    {
+      "file": "03_第三批_新图文素材库\\PSS91\\manifest.json",
+      "image_count": 5,
+      "upload_approved_true": 0,
+      "upload_approved_false": 5,
+      "status": {
+        "final_candidate": 3,
+        "needs_product_check": 2
+      },
+      "refs": 5
+    },
+    {
+      "file": "04_第四批_新图文素材库\\124418\\manifest.json",
+      "image_count": 5,
+      "upload_approved_true": 0,
+      "upload_approved_false": 5,
+      "status": {
+        "final_candidate": 4,
+        "needs_product_check": 1
+      },
+      "refs": 2
+    },
+    {
+      "file": "04_第四批_新图文素材库\\303M\\manifest.json",
+      "image_count": 5,
+      "upload_approved_true": 0,
+      "upload_approved_false": 5,
+      "status": {
+        "final_candidate": 5
+      },
+      "refs": 3
+    },
+    {
+      "file": "04_第四批_新图文素材库\\4012\\manifest.json",
+      "image_count": 5,
+      "upload_approved_true": 0,
+      "upload_approved_false": 5,
+      "status": {
+        "needs_product_check": 1,
+        "final_candidate": 4
+      },
+      "refs": 4
+    },
+    {
+      "file": "05_第五批_新图文素材库\\FULL303\\manifest.json",
+      "image_count": 5,
+      "upload_approved_true": 0,
+      "upload_approved_false": 5,
+      "status": {
+        "final_candidate": 5
+      },
+      "refs": 4
+    },
+    {
+      "file": "05_第五批_新图文素材库\\PSS93\\manifest.json",
+      "image_count": 5,
+      "upload_approved_true": 0,
+      "upload_approved_false": 5,
+      "status": {
+        "final_candidate": 4,
+        "needs_product_check": 1
+      },
+      "refs": 4
+    },
+    {
+      "file": "05_第五批_新图文素材库\\SCPSS32\\manifest.json",
+      "image_count": 5,
+      "upload_approved_true": 0,
+      "upload_approved_false": 5,
+      "status": {
+        "final_candidate": 4,
+        "needs_product_check": 1
+      },
+      "refs": 4
+    },
+    {
+      "file": "06_第六批_新图文素材库\\608NL210\\manifest.json",
+      "image_count": 5,
+      "upload_approved_true": 0,
+      "upload_approved_false": 5,
+      "status": {
+        "final_candidate": 5
+      },
+      "refs": 2
+    },
+    {
+      "file": "06_第六批_新图文素材库\\BP1111\\manifest.json",
+      "image_count": 5,
+      "upload_approved_true": 0,
+      "upload_approved_false": 5,
+      "status": {
+        "final_candidate": 5
+      },
+      "refs": 3
+    },
+    {
+      "file": "06_第六批_新图文素材库\\HOLDER303\\manifest.json",
+      "image_count": 5,
+      "upload_approved_true": 0,
+      "upload_approved_false": 5,
+      "status": {
+        "final_candidate": 5
+      },
+      "refs": 7
+    }
+  ],
+  "editable_files": [
+    "06_第六批_新图文素材库\\_核验依据\\build_delivery.cjs",
+    "06_第六批_新图文素材库\\_核验依据\\dimension_art.cjs",
+    "06_第六批_新图文素材库\\HOLDER303\\生成源图\\HOLDER303_02_exact.svg",
+    "06_第六批_新图文素材库\\BP1111\\生成源图\\BP1111_02_exact.svg",
+    "06_第六批_新图文素材库\\608NL210\\生成源图\\608NL210_02_exact.svg",
+    "05_第五批_新图文素材库\\_核验依据\\build_delivery.cjs",
+    "05_第五批_新图文素材库\\_核验依据\\dimension_art.cjs",
+    "05_第五批_新图文素材库\\PSS93\\生成源图\\PSS93_03_exact.svg",
+    "05_第五批_新图文素材库\\FULL303\\生成源图\\FULL303_02_exact.svg",
+    "05_第五批_新图文素材库\\FULL303\\生成源图\\FULL303_03_exact.svg",
+    "04_第四批_新图文素材库\\_核验依据\\build_delivery.cjs",
+    "04_第四批_新图文素材库\\_核验依据\\dimension_art.cjs",
+    "04_第四批_新图文素材库\\_核验依据\\extract_4012_embedded.py",
+    "04_第四批_新图文素材库\\_核验依据\\prepare_builder.py",
+    "04_第四批_新图文素材库\\_核验依据\\read_product_workbooks.py",
+    "04_第四批_新图文素材库\\4012\\生成源图\\4012_02_exact.svg",
+    "04_第四批_新图文素材库\\303M\\生成源图\\303M_02_exact.svg",
+    "04_第四批_新图文素材库\\124418\\生成源图\\124418_02_exact.svg",
+    "03_第三批_新图文素材库\\_核验依据\\build_delivery.cjs",
+    "03_第三批_新图文素材库\\_核验依据\\verify_and_pack.py",
+    "03_第三批_新图文素材库\\PSS91\\生成源图\\PSS91_03_exact.svg",
+    "03_第三批_新图文素材库\\5088NL\\生成源图\\5088NL_02_exact.svg",
+    "02_第二批_新图文素材库\\_核验依据\\build_delivery.cjs",
+    "02_第二批_新图文素材库\\_核验依据\\verify_and_pack.py",
+    "02_第二批_新图文素材库\\608NL210\\生成源图\\608NL210_02_exact.svg",
+    "02_第二批_新图文素材库\\305FullAdhesive\\生成源图\\305FA_04_exact.svg",
+    "01_第一批_新图文素材库\\_核验依据\\build_delivery.cjs",
+    "01_第一批_新图文素材库\\_核验依据\\verify_and_pack.py",
+    "01_第一批_新图文素材库\\5084NL\\生成源图\\5084NL_02_exact.svg"
+  ],
+  "cv2": false
+}

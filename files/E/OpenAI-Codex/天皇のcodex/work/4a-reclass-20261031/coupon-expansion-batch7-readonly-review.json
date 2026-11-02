@@ -1,0 +1,308 @@
+{
+  "scope": "Batch7 additional ASINs; read-only; no coupon or price changes",
+  "asof": "2026-11-01T13:58:12.881733",
+  "rows": [
+    {
+      "asin": "B07T42DXZ1",
+      "sku": "4A 354832-FBA",
+      "price": 14.99,
+      "units_current": 2,
+      "sales_units_ui": null,
+      "b2b": 14.49,
+      "fba_fee": 5.06,
+      "total_fee": 7.31,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 0,
+      "age365plus": 0,
+      "catalog_label_issues": [
+        {
+          "sku": "4A 354832-FBA",
+          "size": "48 Pads (2 Towers) (Pack 2)",
+          "parent": "PARENT-4A-301-MINI-PADS"
+        }
+      ],
+      "live_evidence": "audit7-live-B07T42DXZ1.txt",
+      "tiers": [],
+      "tier_evidence": "audit7-tiers-B07T42DXZ1.txt",
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 14.24,
+          "deepest_coupon_stacked_unit": 13.77,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 6.27
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 12.74,
+          "deepest_coupon_stacked_unit": 12.32,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 5.04
+        }
+      ],
+      "suggested_coupon_percent": 5,
+      "suggested_reason": "Mild coupon; preserve restored ordinary price",
+      "selected_scenario": {
+        "coupon_percent": 5,
+        "regular_coupon_price": 14.24,
+        "deepest_coupon_stacked_unit": 13.77,
+        "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 6.27
+      }
+    },
+    {
+      "asin": "B01M617ZTH",
+      "sku": "4A 037",
+      "price": 12.99,
+      "units_current": 2,
+      "sales_units_ui": 1,
+      "b2b": null,
+      "fba_fee": 5.53,
+      "total_fee": 7.48,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 1,
+      "age365plus": 2,
+      "catalog_label_issues": [
+        {
+          "sku": "4A 037",
+          "size": "2 Pads Pack (Pack 12)",
+          "parent": "PARENT-4A-608-XLARGE-6X8"
+        },
+        {
+          "sku": "4A GM608x2-N-L YG",
+          "size": "2 Pads Pack (Pack 10)",
+          "parent": "PARENT-4A-608-XLARGE-6X8"
+        }
+      ],
+      "live_evidence": "audit7-live-B01M617ZTH.txt",
+      "tiers": [],
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 12.34,
+          "deepest_coupon_stacked_unit": 12.34,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 4.63
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 11.04,
+          "deepest_coupon_stacked_unit": 11.04,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 3.53
+        }
+      ],
+      "suggested_coupon_percent": 15,
+      "suggested_reason": "Aged or slow stock; provisional grouping for parent review",
+      "selected_scenario": {
+        "coupon_percent": 15,
+        "regular_coupon_price": 11.04,
+        "deepest_coupon_stacked_unit": 11.04,
+        "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 3.53
+      }
+    },
+    {
+      "asin": "B07FKJDBFT",
+      "sku": "AAAA 4A SMC 436",
+      "price": 12.99,
+      "units_current": 1,
+      "sales_units_ui": 0,
+      "b2b": null,
+      "fba_fee": 4.64,
+      "total_fee": 6.59,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 0,
+      "age365plus": 0,
+      "catalog_label_issues": [
+        {
+          "sku": "4A GMSCSMC 436",
+          "size": "Standard Size (Pack 3)",
+          "parent": "PARENT-4A-MEMO-NOTE-CUBES"
+        }
+      ],
+      "live_evidence": "audit7-live-B07FKJDBFT.txt",
+      "tiers": [],
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 12.34,
+          "deepest_coupon_stacked_unit": 12.34,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 5.52
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 11.04,
+          "deepest_coupon_stacked_unit": 11.04,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 4.42
+        }
+      ],
+      "suggested_coupon_percent": 5,
+      "suggested_reason": "Mild coupon; preserve restored ordinary price",
+      "selected_scenario": {
+        "coupon_percent": 5,
+        "regular_coupon_price": 12.34,
+        "deepest_coupon_stacked_unit": 12.34,
+        "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 5.52
+      }
+    },
+    {
+      "asin": "B0821GTX3C",
+      "sku": "4A SCLB 1902",
+      "price": 9.99,
+      "units_current": 1,
+      "sales_units_ui": 1,
+      "b2b": null,
+      "fba_fee": 2.77,
+      "total_fee": 4.27,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 0,
+      "age365plus": 0,
+      "catalog_label_issues": [
+        {
+          "sku": "4A LB 1902",
+          "size": "Standard Size (Pack 5)",
+          "parent": "PARENT-4A-LABEL-STICKERS"
+        },
+        {
+          "sku": "4A SCLB 1902",
+          "size": "Standard Size (Pack 3)",
+          "parent": "PARENT-4A-LABEL-STICKERS"
+        }
+      ],
+      "live_evidence": "audit7-live-B0821GTX3C.txt",
+      "tiers": [],
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 9.49,
+          "deepest_coupon_stacked_unit": 9.49,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 5.05
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 8.49,
+          "deepest_coupon_stacked_unit": 8.49,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 4.2
+        }
+      ],
+      "suggested_coupon_percent": 5,
+      "suggested_reason": "Mild coupon; preserve restored ordinary price",
+      "selected_scenario": {
+        "coupon_percent": 5,
+        "regular_coupon_price": 9.49,
+        "deepest_coupon_stacked_unit": 9.49,
+        "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 5.05
+      }
+    },
+    {
+      "asin": "B07K8L4K8K",
+      "sku": "4A BS 1801",
+      "price": 17.99,
+      "units_current": 1,
+      "sales_units_ui": 1,
+      "b2b": 17.98,
+      "fba_fee": 4.36,
+      "total_fee": 7.06,
+      "sale_visible": null,
+      "minimum": 14.99,
+      "units30_fba": 1,
+      "age365plus": 1,
+      "catalog_label_issues": [
+        {
+          "sku": "4A BS 1801",
+          "size": "Standard Size (Pack 3)",
+          "parent": "PARENT-4A-BS-EXECUTIVE-LEATHER"
+        },
+        {
+          "sku": "4A GMBS 1801",
+          "size": "Standard Size (Pack 2)",
+          "parent": "PARENT-4A-BS-EXECUTIVE-LEATHER"
+        }
+      ],
+      "live_evidence": "audit7-live-B07K8L4K8K.txt",
+      "tiers": [
+        [
+          3,
+          2.0
+        ]
+      ],
+      "tier_evidence": "audit7-tiers-B07K8L4K8K.txt",
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 17.09,
+          "deepest_coupon_stacked_unit": 16.74,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 9.42
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 15.29,
+          "deepest_coupon_stacked_unit": 14.98,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 7.92
+        }
+      ],
+      "suggested_coupon_percent": 15,
+      "suggested_reason": "Aged or slow stock; provisional grouping for parent review",
+      "selected_scenario": {
+        "coupon_percent": 15,
+        "regular_coupon_price": 15.29,
+        "deepest_coupon_stacked_unit": 14.98,
+        "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 7.92
+      }
+    },
+    {
+      "asin": "B01LPKL5IE",
+      "sku": "4A 6533-FBA",
+      "price": 13.99,
+      "units_current": 1,
+      "sales_units_ui": null,
+      "b2b": 13.49,
+      "fba_fee": 4.13,
+      "total_fee": 6.23,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 0,
+      "age365plus": 0,
+      "catalog_label_issues": [],
+      "live_evidence": "audit7-live-B01LPKL5IE.txt",
+      "tiers": [],
+      "tier_evidence": "audit7-tiers-B01LPKL5IE.txt",
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 13.29,
+          "deepest_coupon_stacked_unit": 12.82,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 6.42
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 11.89,
+          "deepest_coupon_stacked_unit": 11.47,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 5.27
+        }
+      ],
+      "suggested_coupon_percent": 5,
+      "suggested_reason": "Mild coupon; preserve restored ordinary price",
+      "selected_scenario": {
+        "coupon_percent": 5,
+        "regular_coupon_price": 13.29,
+        "deepest_coupon_stacked_unit": 12.82,
+        "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 6.42
+      }
+    }
+  ],
+  "count": 6,
+  "stock": 8,
+  "assumptions": [
+    "15% estimated referral + live FBA fee + coupon variable2.5% ordinary price",
+    "Coupon conservatively stacked on deepest current business tier",
+    "Not profit: excludes goods,inbound,storage,ads,refunds,fixed fee",
+    "1.50 caution line is audit recommendation,not a user-imposed threshold",
+    "Parent checks coupon eligibility; never lower ordinary price to unlock coupon"
+  ]
+}

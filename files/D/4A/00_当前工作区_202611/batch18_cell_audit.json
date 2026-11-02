@@ -1,0 +1,69 @@
+[
+  {
+    "sku": "4A 0166",
+    "source_row": 94,
+    "mfg": "4A",
+    "color": "White-polar Bear",
+    "colormap": "White",
+    "fixed_in_units": [
+      [
+        380,
+        "Package Length Unit"
+      ],
+      [
+        382,
+        "Package Width Unit"
+      ],
+      [
+        384,
+        "Package Height Unit"
+      ]
+    ],
+    "note": "Fix 90244 Package Length/Width/Height Unit 'IN' -> 'Inches' + clear Item Highlight (549 FBA units)"
+  },
+  {
+    "sku": "4A 039",
+    "source_row": 126,
+    "mfg": "4A",
+    "color": "Orange&pink",
+    "colormap": "Multicolor",
+    "fixed_in_units": [],
+    "note": "Match exact Amazon catalog Color='Orange&pink' revealed after Mfg fix (1,073 FBA units)"
+  },
+  {
+    "sku": "4A 040",
+    "source_row": 127,
+    "mfg": "4A",
+    "color": "Red&pink",
+    "colormap": "Multicolor",
+    "fixed_in_units": [],
+    "note": "Match exact Amazon catalog Color='Red&pink' revealed after Mfg fix (917 FBA units)"
+  },
+  {
+    "sku": "4A 037",
+    "source_row": 124,
+    "mfg": "4A（USA）LIMITED",
+    "color": "Green&yellow",
+    "colormap": "Multicolor",
+    "fixed_in_units": [],
+    "note": "Match exact Amazon catalog Color='Green&yellow' revealed in 8541 message (553 FBA units)"
+  },
+  {
+    "sku": "4A 60238",
+    "source_row": 322,
+    "mfg": "4A（USA）LIMITED",
+    "color": "Colors-60238",
+    "colormap": "Multicolor",
+    "fixed_in_units": [],
+    "note": "Match exact Amazon catalog Color='Colors-60238' revealed after Mfg fix (5 MFN units)"
+  },
+  {
+    "sku": "4A SF-60238",
+    "source_row": 606,
+    "mfg": "4A（USA）LIMITED",
+    "color": "Colors-60238",
+    "colormap": "Multicolor",
+    "fixed_in_units": [],
+    "note": "Align same-ASIN B01MATR9TE Color='Colors-60238' (381 MFN units)"
+  }
+]

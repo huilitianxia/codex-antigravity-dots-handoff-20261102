@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-31",
+  "count": 15,
+  "errors": [],
+  "main_checks": [
+    {
+      "id": "FULL303_01",
+      "background_rgb": [
+        255,
+        255,
+        255
+      ],
+      "border60": {
+        "checked_pixels": 465600,
+        "exact_white_pixels": 465600,
+        "pass": true
+      },
+      "safety_margins_including_shadow": [
+        65,
+        123,
+        66,
+        124
+      ],
+      "margin_pass": true,
+      "product_longest_span_percent": 89.55,
+      "occupancy_pass": true,
+      "occupancy_definition": "alpha>230近似实体外接框最长边/2000，非面积占比；透明壳和阴影另行目视检查。",
+      "jpg_border60": {
+        "checked_pixels": 465600,
+        "exact_white_pixels": 465600,
+        "pass": true
+      }
+    },
+    {
+      "id": "SCPSS32_01",
+      "background_rgb": [
+        255,
+        255,
+        255
+      ],
+      "border60": {
+        "checked_pixels": 465600,
+        "exact_white_pixels": 465600,
+        "pass": true
+      },
+      "safety_margins_including_shadow": [
+        88,
+        100,
+        89,
+        101
+      ],
+      "margin_pass": true,
+      "product_longest_span_percent": 89.55,
+      "occupancy_pass": true,
+      "occupancy_definition": "alpha>230近似实体外接框最长边/2000，非面积占比；透明壳和阴影另行目视检查。",
+      "jpg_border60": {
+        "checked_pixels": 465600,
+        "exact_white_pixels": 465600,
+        "pass": true
+      }
+    },
+    {
+      "id": "PSS93_01",
+      "background_rgb": [
+        255,
+        255,
+        255
+      ],
+      "border60": {
+        "checked_pixels": 465600,
+        "exact_white_pixels": 465600,
+        "pass": true
+      },
+      "safety_margins_including_shadow": [
+        96,
+        189,
+        97,
+        190
+      ],
+      "margin_pass": true,
+      "product_longest_span_percent": 89.45,
+      "occupancy_pass": true,
+      "occupancy_definition": "alpha>230近似实体外接框最长边/2000，非面积占比；透明壳和阴影另行目视检查。",
+      "jpg_border60": {
+        "checked_pixels": 465600,
+        "exact_white_pixels": 465600,
+        "pass": true
+      }
+    }
+  ],
+  "visual_review": "已查看新制7张摄影图、2张返修图、3张复用图；3张SVG示意/规格图及总预览均已目视检查；胶面引线遮字已修复。",
+  "limitations": "仅技术和设计检查，不等于实物核样或Amazon审核通过。",
+  "html_review": {
+    "page_title": "4A 第五批｜15张主副图审稿",
+    "viewport": [
+      1365,
+      900
+    ],
+    "loaded_images": 15,
+    "broken_images": 0,
+    "horizontal_overflow": false,
+    "check_method": "DOM资源加载和布局尺寸"
+  },
+  "final_file_check": {
+    "png": 15,
+    "jpg": 15,
+    "size": [
+      2000,
+      2000
+    ],
+    "mode": "RGB",
+    "sha256_verified": true,
+    "source_copies_checked": true,
+    "local_links_checked": true,
+    "errors": []
+  }
+}

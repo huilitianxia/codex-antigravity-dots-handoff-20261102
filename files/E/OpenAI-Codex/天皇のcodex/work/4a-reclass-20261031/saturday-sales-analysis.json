@@ -1,0 +1,1283 @@
+{
+  "source": "D:\\下载文件\\175793876516020757.txt",
+  "basis": "US, USD, non-Cancelled; pending included; PDT UTC-07 calendar days; item-price line total before item promotions; excludes shipping/tax/refunds/fees",
+  "raw_rows": 745,
+  "included": {
+    "orders": 668,
+    "lines": 686,
+    "units": 865,
+    "item_amount": 13965.3,
+    "item_promotion_discount": 3.65,
+    "after_item_promotion": 13961.65
+  },
+  "statuses": {
+    "Pending": 40,
+    "Shipped": 634,
+    "Shipped - Picked Up": 3,
+    "Shipped - Delivered to Buyer": 9
+  },
+  "source_min_purchase_PDT": "2026-10-01T08:53:49-07:00",
+  "source_max_purchase_PDT": "2026-10-31T06:50:16-07:00",
+  "source_last_modified_local": "2026-10-31T23:21:49.744553",
+  "complete_day_basis": "2026-10-02..2026-10-30: exclude 10/01 because requested export boundary unknown, exclude unfinished 10/31",
+  "groups": {
+    "weekday": {
+      "days": 21,
+      "dates": [
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30"
+      ],
+      "orders_total": 529,
+      "orders_daily_mean": 25.19,
+      "orders_daily_median": 25,
+      "orders_min": 16,
+      "orders_max": 34,
+      "units_total": 693,
+      "units_daily_mean": 33,
+      "units_daily_median": 34,
+      "units_min": 19,
+      "units_max": 48,
+      "item_amount_total": 11315.96,
+      "item_amount_daily_mean": 538.86,
+      "item_amount_daily_median": 553.17,
+      "item_amount_min": 296.0,
+      "item_amount_max": 831.88,
+      "business": {
+        "orders_daily_mean": 7.57,
+        "units_daily_mean": 11.95,
+        "item_amount_daily_mean": 201.56
+      },
+      "nonbusiness": {
+        "orders_daily_mean": 17.62,
+        "units_daily_mean": 21.05,
+        "item_amount_daily_mean": 337.3
+      },
+      "fba": {
+        "orders_daily_mean": 24.62,
+        "units_daily_mean": 32,
+        "item_amount_daily_mean": 529.64
+      },
+      "business_amount_share": 0.374,
+      "amount_per_order": 21.39
+    },
+    "saturday": {
+      "days": 4,
+      "dates": [
+        "2026-10-03",
+        "2026-10-10",
+        "2026-10-17",
+        "2026-10-24"
+      ],
+      "orders_total": 58,
+      "orders_daily_mean": 14.5,
+      "orders_daily_median": 14.0,
+      "orders_min": 11,
+      "orders_max": 19,
+      "units_total": 83,
+      "units_daily_mean": 20.75,
+      "units_daily_median": 15.5,
+      "units_min": 13,
+      "units_max": 39,
+      "item_amount_total": 1234.34,
+      "item_amount_daily_mean": 308.59,
+      "item_amount_daily_median": 245.81,
+      "item_amount_min": 188.29,
+      "item_amount_max": 554.44,
+      "business": {
+        "orders_daily_mean": 2.5,
+        "units_daily_mean": 7.25,
+        "item_amount_daily_mean": 103.47
+      },
+      "nonbusiness": {
+        "orders_daily_mean": 12,
+        "units_daily_mean": 13.5,
+        "item_amount_daily_mean": 205.12
+      },
+      "fba": {
+        "orders_daily_mean": 14.25,
+        "units_daily_mean": 20.25,
+        "item_amount_daily_mean": 302.59
+      },
+      "business_amount_share": 0.3353,
+      "amount_per_order": 21.28,
+      "change_vs_weekday_pct": {
+        "orders": -42.44,
+        "units": -37.12,
+        "item_amount": -42.73
+      }
+    },
+    "sunday": {
+      "days": 4,
+      "dates": [
+        "2026-10-04",
+        "2026-10-11",
+        "2026-10-18",
+        "2026-10-25"
+      ],
+      "orders_total": 52,
+      "orders_daily_mean": 13,
+      "orders_daily_median": 13.0,
+      "orders_min": 9,
+      "orders_max": 17,
+      "units_total": 57,
+      "units_daily_mean": 14.25,
+      "units_daily_median": 14.0,
+      "units_min": 12,
+      "units_max": 17,
+      "item_amount_total": 956.47,
+      "item_amount_daily_mean": 239.12,
+      "item_amount_daily_median": 238.35,
+      "item_amount_min": 195.48,
+      "item_amount_max": 284.28,
+      "business": {
+        "orders_daily_mean": 0.75,
+        "units_daily_mean": 1,
+        "item_amount_daily_mean": 17.62
+      },
+      "nonbusiness": {
+        "orders_daily_mean": 12.25,
+        "units_daily_mean": 13.25,
+        "item_amount_daily_mean": 221.49
+      },
+      "fba": {
+        "orders_daily_mean": 12.75,
+        "units_daily_mean": 14,
+        "item_amount_daily_mean": 237.62
+      },
+      "business_amount_share": 0.0737,
+      "amount_per_order": 18.39,
+      "change_vs_weekday_pct": {
+        "orders": -48.39,
+        "units": -56.82,
+        "item_amount": -55.62
+      }
+    }
+  },
+  "daily": [
+    {
+      "date": "2026-10-01",
+      "weekday": "Thursday",
+      "orders": 25,
+      "lines": 25,
+      "units": 28,
+      "item_amount": 403.57,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 403.57,
+      "business": {
+        "orders": 7,
+        "lines": 7,
+        "units": 9,
+        "item_amount": 121.76,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 121.76
+      },
+      "nonbusiness": {
+        "orders": 18,
+        "lines": 18,
+        "units": 19,
+        "item_amount": 281.81,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 281.81
+      },
+      "fba": {
+        "orders": 25,
+        "lines": 25,
+        "units": 28,
+        "item_amount": 403.57,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 403.57
+      }
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Friday",
+      "orders": 29,
+      "lines": 30,
+      "units": 34,
+      "item_amount": 520.04,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 520.04,
+      "business": {
+        "orders": 12,
+        "lines": 12,
+        "units": 16,
+        "item_amount": 270.31,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 270.31
+      },
+      "nonbusiness": {
+        "orders": 17,
+        "lines": 18,
+        "units": 18,
+        "item_amount": 249.73,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 249.73
+      },
+      "fba": {
+        "orders": 26,
+        "lines": 27,
+        "units": 31,
+        "item_amount": 489.16,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 489.16
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "weekday": "Saturday",
+      "orders": 12,
+      "lines": 12,
+      "units": 13,
+      "item_amount": 211.37,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 211.37,
+      "business": {
+        "orders": 1,
+        "lines": 1,
+        "units": 1,
+        "item_amount": 9.49,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 9.49
+      },
+      "nonbusiness": {
+        "orders": 11,
+        "lines": 11,
+        "units": 12,
+        "item_amount": 201.88,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 201.88
+      },
+      "fba": {
+        "orders": 12,
+        "lines": 12,
+        "units": 13,
+        "item_amount": 211.37,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 211.37
+      }
+    },
+    {
+      "date": "2026-10-04",
+      "weekday": "Sunday",
+      "orders": 12,
+      "lines": 12,
+      "units": 12,
+      "item_amount": 201.88,
+      "item_promotion_discount": 0.9,
+      "after_item_promotion": 200.98,
+      "business": {
+        "orders": 0,
+        "lines": 0,
+        "units": 0,
+        "item_amount": 0.0,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 0.0
+      },
+      "nonbusiness": {
+        "orders": 12,
+        "lines": 12,
+        "units": 12,
+        "item_amount": 201.88,
+        "item_promotion_discount": 0.9,
+        "after_item_promotion": 200.98
+      },
+      "fba": {
+        "orders": 12,
+        "lines": 12,
+        "units": 12,
+        "item_amount": 201.88,
+        "item_promotion_discount": 0.9,
+        "after_item_promotion": 200.98
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Monday",
+      "orders": 27,
+      "lines": 28,
+      "units": 34,
+      "item_amount": 553.29,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 553.29,
+      "business": {
+        "orders": 8,
+        "lines": 8,
+        "units": 12,
+        "item_amount": 208.51,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 208.51
+      },
+      "nonbusiness": {
+        "orders": 19,
+        "lines": 20,
+        "units": 22,
+        "item_amount": 344.78,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 344.78
+      },
+      "fba": {
+        "orders": 27,
+        "lines": 28,
+        "units": 34,
+        "item_amount": 553.29,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 553.29
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Tuesday",
+      "orders": 33,
+      "lines": 35,
+      "units": 37,
+      "item_amount": 618.14,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 618.14,
+      "business": {
+        "orders": 9,
+        "lines": 10,
+        "units": 12,
+        "item_amount": 212.89,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 212.89
+      },
+      "nonbusiness": {
+        "orders": 24,
+        "lines": 25,
+        "units": 25,
+        "item_amount": 405.25,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 405.25
+      },
+      "fba": {
+        "orders": 33,
+        "lines": 35,
+        "units": 37,
+        "item_amount": 618.14,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 618.14
+      }
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Wednesday",
+      "orders": 25,
+      "lines": 25,
+      "units": 26,
+      "item_amount": 417.41,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 417.41,
+      "business": {
+        "orders": 5,
+        "lines": 5,
+        "units": 6,
+        "item_amount": 100.21,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 100.21
+      },
+      "nonbusiness": {
+        "orders": 20,
+        "lines": 20,
+        "units": 20,
+        "item_amount": 317.2,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 317.2
+      },
+      "fba": {
+        "orders": 24,
+        "lines": 24,
+        "units": 25,
+        "item_amount": 406.02,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 406.02
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Thursday",
+      "orders": 32,
+      "lines": 32,
+      "units": 37,
+      "item_amount": 648.24,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 648.24,
+      "business": {
+        "orders": 11,
+        "lines": 11,
+        "units": 12,
+        "item_amount": 224.49,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 224.49
+      },
+      "nonbusiness": {
+        "orders": 21,
+        "lines": 21,
+        "units": 25,
+        "item_amount": 423.75,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 423.75
+      },
+      "fba": {
+        "orders": 32,
+        "lines": 32,
+        "units": 37,
+        "item_amount": 648.24,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 648.24
+      }
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Friday",
+      "orders": 19,
+      "lines": 21,
+      "units": 25,
+      "item_amount": 421.78,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 421.78,
+      "business": {
+        "orders": 6,
+        "lines": 7,
+        "units": 10,
+        "item_amount": 171.93,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 171.93
+      },
+      "nonbusiness": {
+        "orders": 13,
+        "lines": 14,
+        "units": 15,
+        "item_amount": 249.85,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 249.85
+      },
+      "fba": {
+        "orders": 19,
+        "lines": 21,
+        "units": 25,
+        "item_amount": 421.78,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 421.78
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "weekday": "Saturday",
+      "orders": 19,
+      "lines": 19,
+      "units": 39,
+      "item_amount": 554.44,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 554.44,
+      "business": {
+        "orders": 3,
+        "lines": 3,
+        "units": 20,
+        "item_amount": 275.63,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 275.63
+      },
+      "nonbusiness": {
+        "orders": 16,
+        "lines": 16,
+        "units": 19,
+        "item_amount": 278.81,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 278.81
+      },
+      "fba": {
+        "orders": 19,
+        "lines": 19,
+        "units": 39,
+        "item_amount": 554.44,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 554.44
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "weekday": "Sunday",
+      "orders": 14,
+      "lines": 14,
+      "units": 16,
+      "item_amount": 284.28,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 284.28,
+      "business": {
+        "orders": 1,
+        "lines": 1,
+        "units": 2,
+        "item_amount": 34.42,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 34.42
+      },
+      "nonbusiness": {
+        "orders": 13,
+        "lines": 13,
+        "units": 14,
+        "item_amount": 249.86,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 249.86
+      },
+      "fba": {
+        "orders": 14,
+        "lines": 14,
+        "units": 16,
+        "item_amount": 284.28,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 284.28
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "weekday": "Monday",
+      "orders": 19,
+      "lines": 19,
+      "units": 25,
+      "item_amount": 368.97,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 368.97,
+      "business": {
+        "orders": 6,
+        "lines": 6,
+        "units": 12,
+        "item_amount": 184.6,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 184.6
+      },
+      "nonbusiness": {
+        "orders": 13,
+        "lines": 13,
+        "units": 13,
+        "item_amount": 184.37,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 184.37
+      },
+      "fba": {
+        "orders": 19,
+        "lines": 19,
+        "units": 25,
+        "item_amount": 368.97,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 368.97
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "weekday": "Tuesday",
+      "orders": 23,
+      "lines": 23,
+      "units": 34,
+      "item_amount": 615.03,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 615.03,
+      "business": {
+        "orders": 7,
+        "lines": 7,
+        "units": 14,
+        "item_amount": 303.23,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 303.23
+      },
+      "nonbusiness": {
+        "orders": 16,
+        "lines": 16,
+        "units": 20,
+        "item_amount": 311.8,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 311.8
+      },
+      "fba": {
+        "orders": 23,
+        "lines": 23,
+        "units": 34,
+        "item_amount": 615.03,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 615.03
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "weekday": "Wednesday",
+      "orders": 21,
+      "lines": 21,
+      "units": 26,
+      "item_amount": 345.11,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 345.11,
+      "business": {
+        "orders": 11,
+        "lines": 11,
+        "units": 16,
+        "item_amount": 224.21,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 224.21
+      },
+      "nonbusiness": {
+        "orders": 10,
+        "lines": 10,
+        "units": 10,
+        "item_amount": 120.9,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 120.9
+      },
+      "fba": {
+        "orders": 21,
+        "lines": 21,
+        "units": 26,
+        "item_amount": 345.11,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 345.11
+      }
+    },
+    {
+      "date": "2026-10-15",
+      "weekday": "Thursday",
+      "orders": 23,
+      "lines": 24,
+      "units": 40,
+      "item_amount": 553.17,
+      "item_promotion_discount": 1.1,
+      "after_item_promotion": 552.07,
+      "business": {
+        "orders": 10,
+        "lines": 11,
+        "units": 24,
+        "item_amount": 314.83,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 314.83
+      },
+      "nonbusiness": {
+        "orders": 13,
+        "lines": 13,
+        "units": 16,
+        "item_amount": 238.34,
+        "item_promotion_discount": 1.1,
+        "after_item_promotion": 237.24
+      },
+      "fba": {
+        "orders": 21,
+        "lines": 22,
+        "units": 31,
+        "item_amount": 488.26,
+        "item_promotion_discount": 1.1,
+        "after_item_promotion": 487.16
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "weekday": "Friday",
+      "orders": 16,
+      "lines": 18,
+      "units": 20,
+      "item_amount": 296.0,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 296.0,
+      "business": {
+        "orders": 4,
+        "lines": 4,
+        "units": 6,
+        "item_amount": 94.14,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 94.14
+      },
+      "nonbusiness": {
+        "orders": 12,
+        "lines": 14,
+        "units": 14,
+        "item_amount": 201.86,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 201.86
+      },
+      "fba": {
+        "orders": 16,
+        "lines": 18,
+        "units": 20,
+        "item_amount": 296.0,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 296.0
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "weekday": "Saturday",
+      "orders": 11,
+      "lines": 12,
+      "units": 13,
+      "item_amount": 188.29,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 188.29,
+      "business": {
+        "orders": 3,
+        "lines": 4,
+        "units": 4,
+        "item_amount": 67.38,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 67.38
+      },
+      "nonbusiness": {
+        "orders": 8,
+        "lines": 8,
+        "units": 9,
+        "item_amount": 120.91,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 120.91
+      },
+      "fba": {
+        "orders": 10,
+        "lines": 11,
+        "units": 11,
+        "item_amount": 164.31,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 164.31
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "weekday": "Sunday",
+      "orders": 9,
+      "lines": 9,
+      "units": 12,
+      "item_amount": 195.48,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 195.48,
+      "business": {
+        "orders": 2,
+        "lines": 2,
+        "units": 2,
+        "item_amount": 36.08,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 36.08
+      },
+      "nonbusiness": {
+        "orders": 7,
+        "lines": 7,
+        "units": 10,
+        "item_amount": 159.4,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 159.4
+      },
+      "fba": {
+        "orders": 9,
+        "lines": 9,
+        "units": 12,
+        "item_amount": 195.48,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 195.48
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "weekday": "Monday",
+      "orders": 24,
+      "lines": 25,
+      "units": 32,
+      "item_amount": 543.06,
+      "item_promotion_discount": 0.65,
+      "after_item_promotion": 542.41,
+      "business": {
+        "orders": 2,
+        "lines": 2,
+        "units": 3,
+        "item_amount": 53.35,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 53.35
+      },
+      "nonbusiness": {
+        "orders": 22,
+        "lines": 23,
+        "units": 29,
+        "item_amount": 489.71,
+        "item_promotion_discount": 0.65,
+        "after_item_promotion": 489.06
+      },
+      "fba": {
+        "orders": 24,
+        "lines": 25,
+        "units": 32,
+        "item_amount": 543.06,
+        "item_promotion_discount": 0.65,
+        "after_item_promotion": 542.41
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "weekday": "Tuesday",
+      "orders": 29,
+      "lines": 29,
+      "units": 33,
+      "item_amount": 566.45,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 566.45,
+      "business": {
+        "orders": 14,
+        "lines": 14,
+        "units": 16,
+        "item_amount": 269.62,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 269.62
+      },
+      "nonbusiness": {
+        "orders": 15,
+        "lines": 15,
+        "units": 17,
+        "item_amount": 296.83,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 296.83
+      },
+      "fba": {
+        "orders": 28,
+        "lines": 28,
+        "units": 32,
+        "item_amount": 554.46,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 554.46
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "weekday": "Wednesday",
+      "orders": 23,
+      "lines": 24,
+      "units": 27,
+      "item_amount": 465.12,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 465.12,
+      "business": {
+        "orders": 7,
+        "lines": 7,
+        "units": 8,
+        "item_amount": 146.31,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 146.31
+      },
+      "nonbusiness": {
+        "orders": 16,
+        "lines": 17,
+        "units": 19,
+        "item_amount": 318.81,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 318.81
+      },
+      "fba": {
+        "orders": 23,
+        "lines": 24,
+        "units": 27,
+        "item_amount": 465.12,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 465.12
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "weekday": "Thursday",
+      "orders": 24,
+      "lines": 25,
+      "units": 43,
+      "item_amount": 797.78,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 797.78,
+      "business": {
+        "orders": 5,
+        "lines": 5,
+        "units": 18,
+        "item_amount": 375.03,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 375.03
+      },
+      "nonbusiness": {
+        "orders": 19,
+        "lines": 20,
+        "units": 25,
+        "item_amount": 422.75,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 422.75
+      },
+      "fba": {
+        "orders": 24,
+        "lines": 25,
+        "units": 43,
+        "item_amount": 797.78,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 797.78
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "weekday": "Friday",
+      "orders": 16,
+      "lines": 18,
+      "units": 19,
+      "item_amount": 319.36,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 319.36,
+      "business": {
+        "orders": 3,
+        "lines": 3,
+        "units": 3,
+        "item_amount": 53.52,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 53.52
+      },
+      "nonbusiness": {
+        "orders": 13,
+        "lines": 15,
+        "units": 16,
+        "item_amount": 265.84,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 265.84
+      },
+      "fba": {
+        "orders": 16,
+        "lines": 18,
+        "units": 19,
+        "item_amount": 319.36,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 319.36
+      }
+    },
+    {
+      "date": "2026-10-24",
+      "weekday": "Saturday",
+      "orders": 16,
+      "lines": 16,
+      "units": 18,
+      "item_amount": 280.24,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 280.24,
+      "business": {
+        "orders": 3,
+        "lines": 3,
+        "units": 4,
+        "item_amount": 61.38,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 61.38
+      },
+      "nonbusiness": {
+        "orders": 13,
+        "lines": 13,
+        "units": 14,
+        "item_amount": 218.86,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 218.86
+      },
+      "fba": {
+        "orders": 16,
+        "lines": 16,
+        "units": 18,
+        "item_amount": 280.24,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 280.24
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "weekday": "Sunday",
+      "orders": 17,
+      "lines": 17,
+      "units": 17,
+      "item_amount": 274.83,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 274.83,
+      "business": {
+        "orders": 0,
+        "lines": 0,
+        "units": 0,
+        "item_amount": 0.0,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 0.0
+      },
+      "nonbusiness": {
+        "orders": 17,
+        "lines": 17,
+        "units": 17,
+        "item_amount": 274.83,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 274.83
+      },
+      "fba": {
+        "orders": 16,
+        "lines": 16,
+        "units": 16,
+        "item_amount": 268.84,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 268.84
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "weekday": "Monday",
+      "orders": 34,
+      "lines": 36,
+      "units": 48,
+      "item_amount": 675.7,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 675.7,
+      "business": {
+        "orders": 13,
+        "lines": 15,
+        "units": 26,
+        "item_amount": 356.52,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 356.52
+      },
+      "nonbusiness": {
+        "orders": 21,
+        "lines": 21,
+        "units": 22,
+        "item_amount": 319.18,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 319.18
+      },
+      "fba": {
+        "orders": 32,
+        "lines": 34,
+        "units": 46,
+        "item_amount": 658.32,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 658.32
+      }
+    },
+    {
+      "date": "2026-10-27",
+      "weekday": "Tuesday",
+      "orders": 32,
+      "lines": 32,
+      "units": 44,
+      "item_amount": 831.88,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 831.88,
+      "business": {
+        "orders": 8,
+        "lines": 8,
+        "units": 9,
+        "item_amount": 174.72,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 174.72
+      },
+      "nonbusiness": {
+        "orders": 24,
+        "lines": 24,
+        "units": 35,
+        "item_amount": 657.16,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 657.16
+      },
+      "fba": {
+        "orders": 32,
+        "lines": 32,
+        "units": 44,
+        "item_amount": 831.88,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 831.88
+      }
+    },
+    {
+      "date": "2026-10-28",
+      "weekday": "Wednesday",
+      "orders": 26,
+      "lines": 26,
+      "units": 32,
+      "item_amount": 535.03,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 535.03,
+      "business": {
+        "orders": 2,
+        "lines": 2,
+        "units": 2,
+        "item_amount": 31.33,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 31.33
+      },
+      "nonbusiness": {
+        "orders": 24,
+        "lines": 24,
+        "units": 30,
+        "item_amount": 503.7,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 503.7
+      },
+      "fba": {
+        "orders": 25,
+        "lines": 25,
+        "units": 31,
+        "item_amount": 517.04,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 517.04
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "weekday": "Thursday",
+      "orders": 28,
+      "lines": 29,
+      "units": 36,
+      "item_amount": 595.0,
+      "item_promotion_discount": 1.0,
+      "after_item_promotion": 594.0,
+      "business": {
+        "orders": 9,
+        "lines": 10,
+        "units": 13,
+        "item_amount": 238.23,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 238.23
+      },
+      "nonbusiness": {
+        "orders": 19,
+        "lines": 19,
+        "units": 23,
+        "item_amount": 356.77,
+        "item_promotion_discount": 1.0,
+        "after_item_promotion": 355.77
+      },
+      "fba": {
+        "orders": 28,
+        "lines": 29,
+        "units": 36,
+        "item_amount": 595.0,
+        "item_promotion_discount": 1.0,
+        "after_item_promotion": 594.0
+      }
+    },
+    {
+      "date": "2026-10-30",
+      "weekday": "Friday",
+      "orders": 26,
+      "lines": 26,
+      "units": 41,
+      "item_amount": 629.4,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 629.4,
+      "business": {
+        "orders": 7,
+        "lines": 7,
+        "units": 13,
+        "item_amount": 224.68,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 224.68
+      },
+      "nonbusiness": {
+        "orders": 19,
+        "lines": 19,
+        "units": 28,
+        "item_amount": 404.72,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 404.72
+      },
+      "fba": {
+        "orders": 24,
+        "lines": 24,
+        "units": 37,
+        "item_amount": 590.44,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 590.44
+      }
+    },
+    {
+      "date": "2026-10-31",
+      "weekday": "Saturday",
+      "orders": 4,
+      "lines": 4,
+      "units": 4,
+      "item_amount": 54.96,
+      "item_promotion_discount": 0.0,
+      "after_item_promotion": 54.96,
+      "business": {
+        "orders": 0,
+        "lines": 0,
+        "units": 0,
+        "item_amount": 0.0,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 0.0
+      },
+      "nonbusiness": {
+        "orders": 4,
+        "lines": 4,
+        "units": 4,
+        "item_amount": 54.96,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 54.96
+      },
+      "fba": {
+        "orders": 4,
+        "lines": 4,
+        "units": 4,
+        "item_amount": 54.96,
+        "item_promotion_discount": 0.0,
+        "after_item_promotion": 54.96
+      }
+    }
+  ],
+  "normal_price_amount": null,
+  "normal_price_note": "No reliable original regular-price field exists in order export. Do not reprice orders retrospectively or subtract an assumed five orders. The identified $5.99 wrong-price orders in later UI snapshot are reported separately.",
+  "known_wrong_price_snapshot_orders": [
+    {
+      "date": "2026-10-31",
+      "time_PDT": "11:55",
+      "order_suffix": "1601839",
+      "units": 2,
+      "item_amount": 11.98,
+      "in_order_source": false
+    },
+    {
+      "date": "2026-10-31",
+      "time_PDT": "10:18",
+      "order_suffix": "2110602",
+      "units": 1,
+      "item_amount": 5.99,
+      "in_order_source": false
+    },
+    {
+      "date": "2026-10-31",
+      "time_PDT": "09:32",
+      "order_suffix": "5844256",
+      "units": 2,
+      "item_amount": 11.98,
+      "in_order_source": false
+    }
+  ],
+  "wrong_price_matches_in_source": [],
+  "limitations": [
+    "One month only; four complete Saturdays and four complete Sundays.",
+    "Latest order timestamp is not an exact export completeness cutoff.",
+    "This source predates later 10/31 orders and cannot measure current Saturday.",
+    "Revenue versus traffic/conversion cause requires sessions and conversion reports.",
+    "No market-wide inference can be made solely from this seller."
+  ],
+  "same_hour_saved_dashboard": {
+    "source": "sales-20261031-same-hour.txt",
+    "cutoff_PDT": "07:00",
+    "current_date": "2026-10-31",
+    "current": {
+      "orders": 4,
+      "units": 4,
+      "item_amount": 54.96
+    },
+    "previous_saturday": {
+      "orders": 3,
+      "units": 3,
+      "item_amount": 56.97
+    },
+    "amount_change_pct": -3.53
+  }
+}

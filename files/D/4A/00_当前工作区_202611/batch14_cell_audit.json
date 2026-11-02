@@ -1,0 +1,335 @@
+{
+  "file_path": "D:\\4A\\00_当前工作区_202611\\14-proven-catalog-conflicts-only.xlsm",
+  "sha256": "6ac214d9c284c2f2c5667d9c9f257efe078ae0f4d48f17d7c9fc46fe9f3720e9",
+  "file_size_bytes": 882984,
+  "total_rows": 19,
+  "total_populated_cells": 113,
+  "start_row": 7,
+  "end_row": 25,
+  "audit_timestamp": "2026-11-01T21:30:00Z",
+  "verification_status": "PASSED_100%_MINIMAL_CELL_INTEGRITY",
+  "rows": [
+    {
+      "excel_row": 7,
+      "sku": "4A 039",
+      "product_type": "SELF_STICK_NOTE",
+      "id_type": "ASIN",
+      "product_id": "B01N1T23HH",
+      "reason": "FBA 12 units: align Color attribute with verified Amazon catalog value 'Orange&pink'",
+      "populated_cells": {
+        "C (SKU)": "4A 039",
+        "D (Product Type)": "SELF_STICK_NOTE",
+        "E (Listing Action)": "Edit (Partial Update)",
+        "L (Product Id Type)": "ASIN",
+        "M (Product Id)": "B01N1T23HH",
+        "BG (Color)": "Orange&pink"
+      },
+      "cell_count": 6
+    },
+    {
+      "excel_row": 8,
+      "sku": "4A 040",
+      "product_type": "SELF_STICK_NOTE",
+      "id_type": "ASIN",
+      "product_id": "B01N7IT411",
+      "reason": "FBA 5 units: align Color attribute with verified Amazon catalog value 'Red&pink'",
+      "populated_cells": {
+        "C (SKU)": "4A 040",
+        "D (Product Type)": "SELF_STICK_NOTE",
+        "E (Listing Action)": "Edit (Partial Update)",
+        "L (Product Id Type)": "ASIN",
+        "M (Product Id)": "B01N7IT411",
+        "BG (Color)": "Red&pink"
+      },
+      "cell_count": 6
+    },
+    {
+      "excel_row": 9,
+      "sku": "4A 037",
+      "product_type": "SELF_STICK_NOTE",
+      "id_type": "ASIN",
+      "product_id": "B01M617ZTH",
+      "reason": "FBA 2 units: align Color attribute with verified Amazon catalog value 'Green&yellow'",
+      "populated_cells": {
+        "C (SKU)": "4A 037",
+        "D (Product Type)": "SELF_STICK_NOTE",
+        "E (Listing Action)": "Edit (Partial Update)",
+        "L (Product Id Type)": "ASIN",
+        "M (Product Id)": "B01M617ZTH",
+        "BG (Color)": "Green&yellow"
+      },
+      "cell_count": 6
+    },
+    {
+      "excel_row": 10,
+      "sku": "4A 0166",
+      "product_type": "SELF_STICK_NOTE",
+      "id_type": "ASIN",
+      "product_id": "B0784GHSVJ",
+      "reason": "FBA 3 units: align Color attribute with verified Amazon catalog value 'White-atlantic Ocean'",
+      "populated_cells": {
+        "C (SKU)": "4A 0166",
+        "D (Product Type)": "SELF_STICK_NOTE",
+        "E (Listing Action)": "Edit (Partial Update)",
+        "L (Product Id Type)": "ASIN",
+        "M (Product Id)": "B0784GHSVJ",
+        "BG (Color)": "White-atlantic Ocean"
+      },
+      "cell_count": 6
+    },
+    {
+      "excel_row": 11,
+      "sku": "4A095",
+      "product_type": "SELF_STICK_NOTE",
+      "id_type": "ASIN",
+      "product_id": "B01M2UDADZ",
+      "reason": "MFN 719 units (sibling FBA 2 units): align Manufacturer with authentic company name '4A（USA）LIMITED'",
+      "populated_cells": {
+        "C (SKU)": "4A095",
+        "D (Product Type)": "SELF_STICK_NOTE",
+        "E (Listing Action)": "Edit (Partial Update)",
+        "L (Product Id Type)": "ASIN",
+        "M (Product Id)": "B01M2UDADZ",
+        "T (Manufacturer)": "4A（USA）LIMITED"
+      },
+      "cell_count": 6
+    },
+    {
+      "excel_row": 12,
+      "sku": "4A092",
+      "product_type": "SELF_STICK_NOTE",
+      "id_type": "ASIN",
+      "product_id": "B00SMEDUWQ",
+      "reason": "MFN 6 units: align Color attribute with verified Amazon catalog variation value 'Colors-s434' (SMC 434 model)",
+      "populated_cells": {
+        "C (SKU)": "4A092",
+        "D (Product Type)": "SELF_STICK_NOTE",
+        "E (Listing Action)": "Edit (Partial Update)",
+        "L (Product Id Type)": "ASIN",
+        "M (Product Id)": "B00SMEDUWQ",
+        "BG (Color)": "Colors-s434"
+      },
+      "cell_count": 6
+    },
+    {
+      "excel_row": 13,
+      "sku": "4A PSS 9-5 NB",
+      "product_type": "SELF_STICK_NOTE",
+      "id_type": "UPC",
+      "product_id": "702877123140",
+      "reason": "MFN 45 units: align standard_product_id with packaging barcode UPC 702877123140 (catalog value 00702877123140)",
+      "populated_cells": {
+        "C (SKU)": "4A PSS 9-5 NB",
+        "D (Product Type)": "SELF_STICK_NOTE",
+        "E (Listing Action)": "Edit (Partial Update)",
+        "L (Product Id Type)": "UPC",
+        "M (Product Id)": "702877123140"
+      },
+      "cell_count": 5
+    },
+    {
+      "excel_row": 14,
+      "sku": "4A 0153",
+      "product_type": "SELF_STICK_NOTE",
+      "id_type": "ASIN",
+      "product_id": "B077QFD8G7",
+      "reason": "MFN 3 units: align Color attribute with verified Amazon catalog variation value 'White-tiger' (Tiger 3D note)",
+      "populated_cells": {
+        "C (SKU)": "4A 0153",
+        "D (Product Type)": "SELF_STICK_NOTE",
+        "E (Listing Action)": "Edit (Partial Update)",
+        "L (Product Id Type)": "ASIN",
+        "M (Product Id)": "B077QFD8G7",
+        "BG (Color)": "White-tiger"
+      },
+      "cell_count": 6
+    },
+    {
+      "excel_row": 15,
+      "sku": "4A 0154",
+      "product_type": "SELF_STICK_NOTE",
+      "id_type": "ASIN",
+      "product_id": "B078BQ7G72",
+      "reason": "MFN 12 units: align Color attribute with verified Amazon catalog variation value 'White-havana Dog' (Havana Dog 3D note)",
+      "populated_cells": {
+        "C (SKU)": "4A 0154",
+        "D (Product Type)": "SELF_STICK_NOTE",
+        "E (Listing Action)": "Edit (Partial Update)",
+        "L (Product Id Type)": "ASIN",
+        "M (Product Id)": "B078BQ7G72",
+        "BG (Color)": "White-havana Dog"
+      },
+      "cell_count": 6
+    },
+    {
+      "excel_row": 16,
+      "sku": "4A 0155",
+      "product_type": "SELF_STICK_NOTE",
+      "id_type": "ASIN",
+      "product_id": "B0784GDSY2",
+      "reason": "MFN 12 units: align Color attribute with verified Amazon catalog variation value 'White-berman Cat' (Berman Cat 3D note)",
+      "populated_cells": {
+        "C (SKU)": "4A 0155",
+        "D (Product Type)": "SELF_STICK_NOTE",
+        "E (Listing Action)": "Edit (Partial Update)",
+        "L (Product Id Type)": "ASIN",
+        "M (Product Id)": "B0784GDSY2",
+        "BG (Color)": "White-berman Cat"
+      },
+      "cell_count": 6
+    },
+    {
+      "excel_row": 17,
+      "sku": "4A 0168",
+      "product_type": "SELF_STICK_NOTE",
+      "id_type": "ASIN",
+      "product_id": "B077Q9W8CW",
+      "reason": "MFN 9 units: align Color attribute with verified Amazon catalog variation value \"White-risso's Dolphin\" (Risso's Dolphin 3D note)",
+      "populated_cells": {
+        "C (SKU)": "4A 0168",
+        "D (Product Type)": "SELF_STICK_NOTE",
+        "E (Listing Action)": "Edit (Partial Update)",
+        "L (Product Id Type)": "ASIN",
+        "M (Product Id)": "B077Q9W8CW",
+        "BG (Color)": "White-risso's Dolphin"
+      },
+      "cell_count": 6
+    },
+    {
+      "excel_row": 18,
+      "sku": "4A 0169",
+      "product_type": "SELF_STICK_NOTE",
+      "id_type": "ASIN",
+      "product_id": "B077QB3SK9",
+      "reason": "MFN 12 units: align Color attribute with verified Amazon catalog variation value 'White-japanese Bobtail' (Japanese Bobtail 3D note)",
+      "populated_cells": {
+        "C (SKU)": "4A 0169",
+        "D (Product Type)": "SELF_STICK_NOTE",
+        "E (Listing Action)": "Edit (Partial Update)",
+        "L (Product Id Type)": "ASIN",
+        "M (Product Id)": "B077QB3SK9",
+        "BG (Color)": "White-japanese Bobtail"
+      },
+      "cell_count": 6
+    },
+    {
+      "excel_row": 19,
+      "sku": "4A 0171",
+      "product_type": "SELF_STICK_NOTE",
+      "id_type": "ASIN",
+      "product_id": "B078BPPCXR",
+      "reason": "MFN 9 units: align Color attribute with verified Amazon catalog variation value 'White-polar Bear' (Polar Bear 3D note)",
+      "populated_cells": {
+        "C (SKU)": "4A 0171",
+        "D (Product Type)": "SELF_STICK_NOTE",
+        "E (Listing Action)": "Edit (Partial Update)",
+        "L (Product Id Type)": "ASIN",
+        "M (Product Id)": "B078BPPCXR",
+        "BG (Color)": "White-polar Bear"
+      },
+      "cell_count": 6
+    },
+    {
+      "excel_row": 20,
+      "sku": "4A 40606",
+      "product_type": "SELF_STICK_NOTE",
+      "id_type": "UPC",
+      "product_id": "702877120040",
+      "reason": "MFN 278 units: align standard_product_id with VC packaging barcode UPC 702877120040 (catalog value 00702877120040)",
+      "populated_cells": {
+        "C (SKU)": "4A 40606",
+        "D (Product Type)": "SELF_STICK_NOTE",
+        "E (Listing Action)": "Edit (Partial Update)",
+        "L (Product Id Type)": "UPC",
+        "M (Product Id)": "702877120040"
+      },
+      "cell_count": 5
+    },
+    {
+      "excel_row": 21,
+      "sku": "4A 5036",
+      "product_type": "SELF_STICK_NOTE",
+      "id_type": "ASIN",
+      "product_id": "B01N6IT5IG",
+      "reason": "MFN 1404 units: align Color attribute with verified Amazon catalog variation value 'Colors-heart' (Heart shape model 5036)",
+      "populated_cells": {
+        "C (SKU)": "4A 5036",
+        "D (Product Type)": "SELF_STICK_NOTE",
+        "E (Listing Action)": "Edit (Partial Update)",
+        "L (Product Id Type)": "ASIN",
+        "M (Product Id)": "B01N6IT5IG",
+        "BG (Color)": "Colors-heart"
+      },
+      "cell_count": 6
+    },
+    {
+      "excel_row": 22,
+      "sku": "4A 60238",
+      "product_type": "SELF_STICK_NOTE",
+      "id_type": "ASIN",
+      "product_id": "B01MATR9TE",
+      "reason": "MFN Inactive (revival candidate): align Manufacturer with authentic company name '4A（USA）LIMITED'",
+      "populated_cells": {
+        "C (SKU)": "4A 60238",
+        "D (Product Type)": "SELF_STICK_NOTE",
+        "E (Listing Action)": "Edit (Partial Update)",
+        "L (Product Id Type)": "ASIN",
+        "M (Product Id)": "B01MATR9TE",
+        "T (Manufacturer)": "4A（USA）LIMITED"
+      },
+      "cell_count": 6
+    },
+    {
+      "excel_row": 23,
+      "sku": "4A SF-60238",
+      "product_type": "SELF_STICK_NOTE",
+      "id_type": "ASIN",
+      "product_id": "B01MATR9TE",
+      "reason": "MFN 381 units: align Manufacturer with authentic company name '4A（USA）LIMITED'",
+      "populated_cells": {
+        "C (SKU)": "4A SF-60238",
+        "D (Product Type)": "SELF_STICK_NOTE",
+        "E (Listing Action)": "Edit (Partial Update)",
+        "L (Product Id Type)": "ASIN",
+        "M (Product Id)": "B01MATR9TE",
+        "T (Manufacturer)": "4A（USA）LIMITED"
+      },
+      "cell_count": 6
+    },
+    {
+      "excel_row": 24,
+      "sku": "4A093",
+      "product_type": "OFFICE_PRODUCTS",
+      "id_type": "ASIN",
+      "product_id": "B01N0VHWSL",
+      "reason": "MFN 419 units: align Color attribute with verified Amazon catalog variation value 'Wave' (MC 434 wave cube)",
+      "populated_cells": {
+        "C (SKU)": "4A093",
+        "D (Product Type)": "OFFICE_PRODUCTS",
+        "E (Listing Action)": "Edit (Partial Update)",
+        "L (Product Id Type)": "ASIN",
+        "M (Product Id)": "B01N0VHWSL",
+        "BG (Color)": "Wave"
+      },
+      "cell_count": 6
+    },
+    {
+      "excel_row": 25,
+      "sku": "4A GM40624*2",
+      "product_type": "SELF_STICK_NOTE",
+      "id_type": "ASIN",
+      "product_id": "B07FK8CRM9",
+      "reason": "MFN 747 units: resolve error 99022 by providing Color Map 'White' matching existing Color 'White'",
+      "populated_cells": {
+        "C (SKU)": "4A GM40624*2",
+        "D (Product Type)": "SELF_STICK_NOTE",
+        "E (Listing Action)": "Edit (Partial Update)",
+        "L (Product Id Type)": "ASIN",
+        "M (Product Id)": "B07FK8CRM9",
+        "BG (Color)": "White",
+        "IU (Color Map)": "White"
+      },
+      "cell_count": 7
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+- navigation:
+  - button "菜单":
+  - generic: 菜单
+  - button:
+  - navigation:
+    - searchbox
+    - link:
+      - /url: /amazonsell/business
+      - generic: 我的业务
+    - button:
+      - generic: 商品
+    - link:
+      - /url: /amazonsell/listings
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/manage-products
+      - text: 管理商品
+      - button:
+    - link:
+      - /url: /pricing/health
+      - text: 管理定价
+      - button:
+    - link:
+      - /url: /product-search
+      - text: 添加商品
+      - button:
+    - link:
+      - /url: /feedback-manager/index.html
+      - text: 分析评论
+      - button:
+    - link:
+      - /url: /new-product-guidance
+      - text: 研究商品
+      - button:
+    - link:
+      - /url: /gex
+      - text: 全球开店
+      - button:
+    - link:
+      - /url: /listing/reports
+      - text: 商品报告
+      - button:
+    - button:
+      - generic: 供应链
+    - link:
+      - /url: /amazonsell/inventory
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/fba-inventory
+      - text: 管理亚马逊库存
+      - button:
+    - link:
+      - /url: /global-store
+      - text: 管理海外购
+      - button:
+    - link:
+      - /url: /seller-fulfilled-product/analytics
+      - text: 管理卖家自配送库存
+      - button:
+    - link:
+      - /url: /manage/shipments
+      - text: 管理货件
+      - button:
+    - link:
+      - /url: /fba/sendtoamazon
+      - text: Send to Amazon
+      - button:
+    - link:
+      - /url: /channel-manager
+      - text: 管理渠道目的地
+      - button:
+    - link:
+      - /url: https://supplychain.amazon.com/scp/login?utm_source=ngs_persistence_link
+      - text: 供应链控制面板
+      - button:
+    - link:
+      - /url: /reportcentral/WelcomePage
+      - text: 供应链报告
+      - button:
+    - button:
+      - generic: 订单
+    - link:
+      - /url: /amazonsell/orders
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/orders/mfn
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /amazonsell/orders/fba
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /business/manage-quotes
+      - text: 管理报价
+      - button:
+    - link:
+      - /url: /manage/returns/mfn
+      - text: 管理退货
+      - button:
+    - link:
+      - /url: /gp/chargebacks/home.html
+      - text: 管理索赔
+      - button:
+    - link:
+      - /url: /order-reports-and-feeds/reports
+      - text: 订单报告
+      - button:
+    - button:
+      - generic: 营销推广
+    - link:
+      - /url: /amazonsell/marketing
+      - text: 工作区
+    - link:
+      - /url: /promotion-central/dashboard
+      - text: 管理促销和特惠
+      - button:
+    - link:
+      - /url: /brand-analytics
+      - text: 品牌分析
+      - button:
+    - link:
+      - /url: /cm?source=ngs
+      - text: 广告控制台
+      - button:
+    - link:
+      - /url: /vine
+      - text: Vine
+      - button:
+    - button:
+      - generic: 财务人员
+    - link:
+      - /url: /amazonsell/payments
+      - text: 工作区
+    - link:
+      - /url: /manage/finance/transactions
+      - text: 管理交易
+      - button:
+    - link:
+      - /url: /managetaxes/global-transaction-reports
+      - text: 管理税费
+      - button:
+    - link:
+      - /url: /economics
+      - text: 利润分析
+      - button:
+    - link:
+      - /url: /manage/finance/reports
+      - text: 财务报告
+      - button:
+    - button:
+      - generic: 账户状况
+    - link:
+      - /url: /performance/dashboard
+      - text: 管理账户状况
+      - button:
+    - button:
+      - generic: 计划和应用程序
+    - link:
+      - /url: /recommended-programs
+      - text: 了解计划
+      - button:
+    - link:
+      - /url: /selling-partner-appstore
+      - text: 销售伙伴应用商店
+      - button:
+    - link:
+      - /url: /tsba
+      - text: 浏览服务
+      - button:
+  - link:
+    - /url: /sitemap
+    - text: 站点地图
+  - link:
+    - /url: /home?ngs_do_not_redirect_flag=1
+    - text: 传统卖家平台
+  - link "Amazon":
+    - /url: /amazonsell
+  - button "4A (USA) LIMITED 美国":
+    - generic: 4A (USA) LIMITED
+    - generic: 美国
+  - button "账户状况":
+    - generic: 账户状况
+    - generic: 存在风险
+  - textbox "搜索任何内容"
+  - button "询问卖家助手":
+    - generic: 卖家助手
+  - link "新增内容":
+    - /url: /featurereleases
+  - link "消息":
+    - /url: /messaging/inbox-v3?fi=responseNeeded&&
+  - button "帮助":
+  - button "设置":
+- navigation:
+  - button:
+  - link "管理交易":
+    - /url: /manage/finance/transactions
+    - generic: 管理交易
+  - link "卖家大学":
+    - /url: /su/learn
+    - generic: 卖家大学
+  - link "管理商品":
+    - /url: /amazonsell/manage-products
+    - generic: 管理商品
+  - link "广告控制台":
+    - /url: /cm?source=ngs
+    - generic: 广告控制台
+  - link "管理货件":
+    - /url: /manage/shipments
+    - generic: 管理货件
+  - link "商品商机探测器":
+    - /url: /new-product-guidance
+    - generic: 商品商机探测器
+  - link "品牌分析":
+    - /url: /brand-analytics
+    - generic: 品牌分析
+  - link "A+ 商品描述管理器":
+    - /url: /enhanced-content/ref=xx_ebc_favb_xx
+    - generic: A+ 商品描述管理器
+  - link "业务报告":
+    - /url: /business-reports#/dashboard
+    - generic: 业务报告
+  - link "亚马逊物流库存报告":
+    - /url: /reportcentral/WelcomePage
+    - generic: 亚马逊物流库存报告
+  - link "商品报告":
+    - /url: /listing/reports
+    - generic: 商品报告
+  - link "绩效通知":
+    - /url: /performance/notifications
+    - generic: 绩效通知
+  - link "管理账户状况":
+    - /url: /performance/dashboard
+    - generic: 管理账户状况
+  - button:
+- list
+- button "✕"
+- link "< 返回所有优惠券":
+  - /url: /promotion-central/dashboard
+  - generic: < 返回所有优惠券
+- text: 节省 15% 4A Creative Notes and Holders
+- generic: 运行中
+- button "取消优惠券":
+  - generic: 取消优惠券
+- button "编辑":
+  - generic: 编辑
+- generic: 预算使用率
+- generic: 支出预算
+- generic: 已领取
+- generic: 已兑换
+- generic: 销售额
+- heading "详情" [level=2]
+- generic: 优惠券名称
+- generic: 节省 15% 4A Creative Notes and Holders
+- generic: 优惠券类型
+- generic: 标准
+- generic: 折扣
+- generic: 15%
+- generic: 预算
+- generic: US$200.00
+- generic: 费用
+- text: US$5.00 超过 2.5% 的销售额
+- generic: 
+- generic: 价目表
+- generic: 2026/10/31 - 2026/11/29
+- generic: 消费群体类型
+- generic: 所有买家
+- generic: 每个买家兑换一次
+- generic: 否
+- generic: 叠加使用的促销
+- generic: 不允许与“折扣”或“买一赠一”促销叠加使用
+- img "NoImage"
+- generic: 4A 12 垫拼图形状便利贴 2 7/8 x 2 4/7 英寸(约 6.9 x 6.9 厘米),可爱形状便利贴 彩色自粘便条 适用于办公室学校用品的有趣备忘录垫,100 张/垫,100 张 200 S20heets Total, 4A 5020x3
+- generic "4.5 星级":
+  - generic: "205"
+- generic: 保存 15%
+- generic: 含优惠券
+- link "查看优惠券页面":
+  - /url: https://www.Amazon.com/promotion/psp/A1ZX0MB81GW64V
+  - generic: 查看优惠券页面
+- tablist:
+  - tab "商品 (9)" [selected]:
+    - generic: 商品 (9)
+  - tabpanel "商品 (9)"
+- table:
+  - rowgroup:
+    - row "商品名称 变体 ASIN 有货 错误":
+      - columnheader "商品名称 变体":
+        - text: 商品名称
+        - generic: 
+        - generic: 变体
+      - columnheader "ASIN":
+        - generic: ASIN
+      - columnheader "有货":
+        - generic: 有货
+      - columnheader "错误":
+        - text: 错误
+        - generic: 
+      - columnheader
+  - rowgroup:
+    - row "NoImage 4A 12 垫拼图形状便利贴 2 7/8 x 2 4/7 英寸(约 6.9 x 6.9 厘米),可爱形状便利贴 彩色自粘便条 适用于办公室学校用品的有趣备忘录垫,100 张/垫,100 张 200 S20heets Total, 4A 5020x3 B07RN7WQ81 1387":
+      - cell "NoImage 4A 12 垫拼图形状便利贴 2 7/8 x 2 4/7 英寸(约 6.9 x 6.9 厘米),可爱形状便利贴 彩色自粘便条 适用于办公室学校用品的有趣备忘录垫,100 张/垫,100 张 200 S20heets Total, 4A 5020x3":
+        - img "NoImage"
+        - link "4A 12 垫拼图形状便利贴 2 7/8 x 2 4/7 英寸(约 6.9 x 6.9 厘米),可爱形状便利贴 彩色自粘便条 适用于办公室学校用品的有趣备忘录垫,100 张/垫,100 张 200 S20heets Total, 4A 5020x3":
+          - /url: https://www.Amazon.com/dp/B07RN7WQ81
+          - generic: 4A 12 垫拼图形状便利贴 2 7/8 x 2 4/7 英寸(约 6.9 x 6.9 厘米),可爱形状便利贴 彩色自粘便条 适用于办公室学校用品的有趣备忘录垫,100 张/垫,100 张 200 S20heets Total, 4A 5020x3
+      - cell "B07RN7WQ81"
+      - cell "1387"
+      - cell
+      - cell
+    - row "NoImage 4A 箭头形便签,6.91 x 6.50 厘米,5 种亮色,趣味便签便条簿,适用于办公室、学校、家庭,共 200 张,4A 5013 B01N1U9USQ 1609":
+      - cell "NoImage 4A 箭头形便签,6.91 x 6.50 厘米,5 种亮色,趣味便签便条簿,适用于办公室、学校、家庭,共 200 张,4A 5013":
+        - img "NoImage"
+        - link "4A 箭头形便签,6.91 x 6.50 厘米,5 种亮色,趣味便签便条簿,适用于办公室、学校、家庭,共 200 张,4A 5013":
+          - /url: https://www.Amazon.com/dp/B01N1U9USQ
+          - generic: 4A 箭头形便签,6.91 x 6.50 厘米,5 种亮色,趣味便签便条簿,适用于办公室、学校、家庭,共 200 张,4A 5013
+      - cell "B01N1U9USQ"
+      - cell "1609"
+      - cell
+      - cell
+    - row "NoImage 4A 粘性便条盒分配器,笔和便签纸盒,适用于办公桌,8 个亮色便签,3 x 3 英寸(约 7.6 x 7.6 厘米),粘性标签,用于办公室家庭返校用品,4A 303-AC-holder B07FKHHTYG 1196":
+      - cell "NoImage 4A 粘性便条盒分配器,笔和便签纸盒,适用于办公桌,8 个亮色便签,3 x 3 英寸(约 7.6 x 7.6 厘米),粘性标签,用于办公室家庭返校用品,4A 303-AC-holder":
+        - img "NoImage"
+        - link "4A 粘性便条盒分配器,笔和便签纸盒,适用于办公桌,8 个亮色便签,3 x 3 英寸(约 7.6 x 7.6 厘米),粘性标签,用于办公室家庭返校用品,4A 303-AC-holder":
+          - /url: https://www.Amazon.com/dp/B07FKHHTYG
+          - generic: 4A 粘性便条盒分配器,笔和便签纸盒,适用于办公桌,8 个亮色便签,3 x 3 英寸(约 7.6 x 7.6 厘米),粘性标签,用于办公室家庭返校用品,4A 303-AC-holder
+      - cell "B07FKHHTYG"
+      - cell "1196"
+      - cell
+      - cell
+    - row "NoImage 4A 4 Pads Big Sticky Notes 11 x 11 Inches, Pastel Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad, 4A BP 1111-Px4 B07QZR9Z3P 1038":
+      - cell "NoImage 4A 4 Pads Big Sticky Notes 11 x 11 Inches, Pastel Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad, 4A BP 1111-Px4":
+        - img "NoImage"
+        - link "4A 4 Pads Big Sticky Notes 11 x 11 Inches, Pastel Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad, 4A BP 1111-Px4":
+          - /url: https://www.Amazon.com/dp/B07QZR9Z3P
+          - generic: 4A 4 Pads Big Sticky Notes 11 x 11 Inches, Pastel Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad, 4A BP 1111-Px4
+      - cell "B07QZR9Z3P"
+      - cell "1038"
+      - cell
+      - cell
+    - row "NoImage 4A 内衬便利贴 15.24 x 20.32 厘米,7 个亮色大号便签,适用于办公室、学校、家庭,共 210 张 B07B8RBCKT 1518":
+      - cell "NoImage 4A 内衬便利贴 15.24 x 20.32 厘米,7 个亮色大号便签,适用于办公室、学校、家庭,共 210 张":
+        - img "NoImage"
+        - link "4A 内衬便利贴 15.24 x 20.32 厘米,7 个亮色大号便签,适用于办公室、学校、家庭,共 210 张":
+          - /url: https://www.Amazon.com/dp/B07B8RBCKT
+          - generic: 4A 内衬便利贴 15.24 x 20.32 厘米,7 个亮色大号便签,适用于办公室、学校、家庭,共 210 张
+      - cell "B07B8RBCKT"
+      - cell "1518"
+      - cell
+      - cell
+    - row "NoImage 4A 分隔便利贴 2 2/3 x 2 7/8 英寸(约 6.9 x 6.9 厘米),白色,内衬便签带线条,适用于笔记本、书籍、办公室、学校用品,15 张/隔板,4 个隔板/垫,120 张 heets 总计 4A 40609x2 B07FKBHTDG 949":
+      - cell "NoImage 4A 分隔便利贴 2 2/3 x 2 7/8 英寸(约 6.9 x 6.9 厘米),白色,内衬便签带线条,适用于笔记本、书籍、办公室、学校用品,15 张/隔板,4 个隔板/垫,120 张 heets 总计 4A 40609x2":
+        - img "NoImage"
+        - link "4A 分隔便利贴 2 2/3 x 2 7/8 英寸(约 6.9 x 6.9 厘米),白色,内衬便签带线条,适用于笔记本、书籍、办公室、学校用品,15 张/隔板,4 个隔板/垫,120 张 heets 总计 4A 40609x2":
+          - /url: https://www.Amazon.com/dp/B07FKBHTDG
+          - generic: 4A 分隔便利贴 2 2/3 x 2 7/8 英寸(约 6.9 x 6.9 厘米),白色,内衬便签带线条,适用于笔记本、书籍、办公室、学校用品,15 张/隔板,4 个隔板/垫,120 张 heets 总计 4A 40609x2
+      - cell "B07FKBHTDG"
+      - cell "949"
+      - cell
+      - cell
+    - row "NoImage 4A 分隔贴纸,4 x 6 英寸,大号,霓虹色混色,衬里,10 张/隔板,6 个潜水器/包,6 张自粘便条,60 张/包,6 个装,4A 40623x6 B07T79KGWM 1027":
+      - cell "NoImage 4A 分隔贴纸,4 x 6 英寸,大号,霓虹色混色,衬里,10 张/隔板,6 个潜水器/包,6 张自粘便条,60 张/包,6 个装,4A 40623x6":
+        - img "NoImage"
+        - link "4A 分隔贴纸,4 x 6 英寸,大号,霓虹色混色,衬里,10 张/隔板,6 个潜水器/包,6 张自粘便条,60 张/包,6 个装,4A 40623x6":
+          - /url: https://www.Amazon.com/dp/B07T79KGWM
+          - generic: 4A 分隔贴纸,4 x 6 英寸,大号,霓虹色混色,衬里,10 张/隔板,6 个潜水器/包,6 张自粘便条,60 张/包,6 个装,4A 40623x6
+      - cell "B07T79KGWM"
+      - cell "1027"
+      - cell
+      - cell
+    - row "NoImage 4A 分隔贴纸贴 B07T42D4GL 1018":
+      - cell "NoImage 4A 分隔贴纸贴":
+        - img "NoImage"
+        - link "4A 分隔贴纸贴":
+          - /url: https://www.Amazon.com/dp/B07T42D4GL
+          - generic: 4A 分隔贴纸贴
+      - cell "B07T42D4GL"
+      - cell "1018"
+      - cell
+      - cell
+    - row "NoImage 4 A die-cut 便签纸心形3 X 25.4 cm 荧光系列200张 / PAD 1 PAD / 包5包。 4 A 5036 B01N6IT5IG 1404":
+      - cell "NoImage 4 A die-cut 便签纸心形3 X 25.4 cm 荧光系列200张 / PAD 1 PAD / 包5包。 4 A 5036":
+        - img "NoImage"
+        - link "4 A die-cut 便签纸心形3 X 25.4 cm 荧光系列200张 / PAD 1 PAD / 包5包。 4 A 5036":
+          - /url: https://www.Amazon.com/dp/B01N6IT5IG
+          - generic: 4 A die-cut 便签纸心形3 X 25.4 cm 荧光系列200张 / PAD 1 PAD / 包5包。 4 A 5036
+      - cell "B01N6IT5IG"
+      - cell "1404"
+      - cell
+      - cell
+- generic "10":
+  - generic: "10"
+  - generic: 
+- navigation "分页":
+  - generic "向后导航":
+    - generic: 
+  - list:
+    - generic "页面 1": "1"
+  - generic "向前导航":
+    - generic: 
+- link "站点地图":
+  - /url: /sitemap
+- link "计划政策":
+  - /url: /help/hub/reference/521
+- generic: © 1999-2026，Amazon.com, Inc. 或其附属公司
+- link "反馈":
+  - /url: "#"

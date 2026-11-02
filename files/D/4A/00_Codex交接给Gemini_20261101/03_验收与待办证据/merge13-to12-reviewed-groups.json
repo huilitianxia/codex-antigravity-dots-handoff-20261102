@@ -1,0 +1,1018 @@
+{
+  "checked_at": "2026-11-01T17:34:02+08:00",
+  "scope": "Existing13candidatepairs deduplicatedto12productgroups;19specificpublicpageschecked;301protectedgroupsnotreopened;nofullstorescan",
+  "summary": {
+    "groups": 12,
+    "pairs": 13,
+    "sent_processing": 1,
+    "conditional_identity_review": 7,
+    "blocked_spec_or_selected_product_conflict": 2,
+    "protected_301_parallel": 2,
+    "new_merge_approved_or_submitted": 0
+  },
+  "rules": [
+    "Displayedratingsmaybesharedacrossvariants;notprovenchild-only,notguaranteedcombinedreviewsaftermerge.",
+    "RetainedirectionsareconditionalandprioritizeexistingFBAidentity;neverdirectlyreassignSKUASIN.",
+    "UPCcodesdifferbyVC/SCandlegacycontribution;donotclaimequivalencewithoutproof.",
+    "StockanddemandareexplicitlysavedpriorNov1snapshots,notnewinventoryaudit.",
+    "NoPARENTcreation/deletion/attachment orvariationfamilychanges.",
+    "Nootherexternalmessagesauthorized/sent.30315onlysent."
+  ],
+  "manufacturer_source_for_neon406": "https://4ausa.com/product/4a-sticky-notes-neon-assorted-collection-4-x-6-inches-100-sheets-pad-6-pads-pack-4a-406x6-n/",
+  "extra_preexisting_conflict_holds": [
+    {
+      "group": "PSS9-3 two sets",
+      "asins": [
+        "B0DYNL5SMR",
+        "B0CPM4CP6T"
+      ],
+      "decision": "HOLD",
+      "reason": "Existingevidence315inversus315cmSizeconflict;notin13candidatepairs,nohardmerge."
+    },
+    {
+      "group": "305Full300",
+      "asins": [
+        "B07QXJZKHC",
+        "B07T42DM1R"
+      ],
+      "decision": "HOLD",
+      "reason": "Existingevidence3x5vs3x5.333/5.1sizeconflicts;notin13pairs,nohardmerge."
+    }
+  ],
+  "groups": [
+    {
+      "group": "PSS32x6",
+      "asins": [
+        "B08DKJ2K3T",
+        "B08CVLH794"
+      ],
+      "suggested_retained_asin": "B08DKJ2K3T",
+      "status": "CONDITIONAL_DUPLICATE_REVIEW",
+      "priority": 1,
+      "identity_evidence": "2026masterrow110 maps both to0.6x393in,6neon colors,6rolls with dispensers. Current both titles agree.",
+      "current_displayed_ratings": {
+        "B08DKJ2K3T": "3.8/223",
+        "B08CVLH794": "3.8/223"
+      },
+      "conflicts_and_gaps": [
+        "Displayreviews aggregated/unproven child-only; historical3.6/16 versus4.0/74 no longer current.",
+        "Current sourceSizePack6 versus oldtargetPack44; targetcurrentlyunavailable.",
+        "MasterVCUPC702877126578 versusSC702877126561; codeequivalence unverified."
+      ],
+      "next_action": "Preferkeep currentFBA+MFN B08DKJ2K3T; askcatalogteamvalidate sameproduct andPack44 error beforemerging oldB08CVLH794 intoit; nofamilyedits.",
+      "saved_stock_mapping": [
+        {
+          "asin": "B08DKJ2K3T",
+          "sku": "4A SCPSS 32x6",
+          "fba_stock_saved_scan": 34,
+          "fba_stock_saved_fee_snapshot": 35.0,
+          "units30_fba_saved": 37,
+          "active_same_asin_mfn": [
+            {
+              "sku": "4A GM-SCPSS 32x6",
+              "quantity": 835,
+              "price": 13.99,
+              "sales_units_ui": 0
+            }
+          ]
+        }
+      ],
+      "master_rows": [
+        {
+          "sheet": "Sheet1",
+          "row": 110,
+          "sku": "4A PSS 32x6",
+          "vc_upc": "702877126578",
+          "vc_asin": "B08CVLH794",
+          "sc_upc": "702877126561",
+          "sc_asin": "B08DKJ2K3T",
+          "title": "4A Roll Sticky Notes with Dispenser, Full Adhesive,Width x Length 0.6 x 393 Inches,6 different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6"
+        }
+      ],
+      "offer_identifiers": [
+        {
+          "seller-sku": "4A GM-SCPSS 32x6",
+          "asin1": "B08DKJ2K3T",
+          "product-id": "B08DKJ2K3T",
+          "product-id-type": "1",
+          "fulfillment-channel": "DEFAULT",
+          "quantity": "835",
+          "item-name": "4A Roll Sticky Notes with Dispenser,Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6",
+          "status": "Active"
+        },
+        {
+          "seller-sku": "4A SCPSS 32x6",
+          "asin1": "B08DKJ2K3T",
+          "product-id": "B08DKJ2K3T",
+          "product-id-type": "1",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A Roll Sticky Notes with Dispenser,Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6",
+          "status": "Active"
+        },
+        {
+          "seller-sku": "4A PSS 32x6",
+          "asin1": "B08CVLH794",
+          "product-id": "B08CVLH794",
+          "product-id-type": "1",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A Roll Sticky Notes with Dispenser, Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6",
+          "status": "Inactive"
+        }
+      ],
+      "demand29": [],
+      "browser_sources": [
+        "merge-current-B08DKJ2K3T.txt",
+        "merge-current-B08CVLH794.txt"
+      ]
+    },
+    {
+      "group": "30315",
+      "asins": [
+        "B07F295DPC",
+        "B07FKG29KB"
+      ],
+      "suggested_retained_asin": "B07FKG29KB",
+      "status": "SENT_CASE_PROCESSING",
+      "priority": 0,
+      "identity_evidence": "Manufacturer4ausa30315 page supports3x3in,15colors,15pads100each; scopedmaster/reportssupportsame model. Priorcase rejectedSize15Pads vs15PadsValuePack.",
+      "current_displayed_ratings": {},
+      "conflicts_and_gaps": [
+        "HistoricaltargetFBAUPC122860 vs master/source124116 unresolved."
+      ],
+      "next_action": "Nov1 17:14 replysent with3attachments oncase22923307871; nowPROCESSING. Waitsupport, notmerged.",
+      "saved_stock_mapping": [
+        {
+          "asin": "B07F295DPC",
+          "sku": "4A 30315",
+          "fba_stock_saved_scan": 22,
+          "fba_stock_saved_fee_snapshot": 22.0,
+          "units30_fba_saved": 0,
+          "active_same_asin_mfn": []
+        }
+      ],
+      "master_rows": [
+        {
+          "sheet": "Sheet1",
+          "row": 22,
+          "sku": "4A 30315",
+          "vc_upc": "702877124802",
+          "vc_asin": "B07DJG1W7D",
+          "sc_upc": "702877124116",
+          "sc_asin": "B07FKG29KB",
+          "title": "4A Sticky Notes,3 x 3 Inches,Neon Assorted,15 colors,Self-Stick Notes,100 Sheets/Pad,15 Pads/Pack,4A 30315"
+        }
+      ],
+      "offer_identifiers": [
+        {
+          "seller-sku": "4A 30315",
+          "asin1": "B07F295DPC",
+          "product-id": "702877124116",
+          "product-id-type": "3",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A 15 Pads Sticky Notes 3 x 3 in, Assorted Pack of 15 Colors, Colored Stick Notes Pads for Office, Home, School Supplies, 100 Sheets/Pad, 1500 Sheets Total, 4A 30315",
+          "status": "Active"
+        },
+        {
+          "seller-sku": "4A GM30315",
+          "asin1": "B07FKG29KB",
+          "product-id": "B07FKG29KB",
+          "product-id-type": "1",
+          "fulfillment-channel": "DEFAULT",
+          "quantity": "1054",
+          "item-name": "4A 15 Pads Sticky Notes 3 x 3 in, Assorted Colors, Colorful Stick Notes Self-Stick Note Pads for Office, Home, School Supplies, 100 Sheets/Pad, 1500 Sheets Total, 4A 30315",
+          "status": "Active"
+        }
+      ],
+      "demand29": [],
+      "browser_sources": []
+    },
+    {
+      "group": "406x6 pastel",
+      "asins": [
+        "B07FKL263W",
+        "B01MDJCWVH",
+        "B01MSZS7M3"
+      ],
+      "suggested_retained_asin": "B07FKL263W",
+      "status": "CONDITIONAL_DUPLICATE_REVIEW",
+      "priority": 1,
+      "identity_evidence": "Currenttitlesall4x6in,pastel,6pads100each;2026masterrow39 pairsVCB01MDJCWVH/S CB01MSZS7M3 asmodel406x6.",
+      "current_displayed_ratings": {
+        "B07FKL263W": "4.0/56",
+        "B01MDJCWVH": "3.7/135",
+        "B01MSZS7M3": "4.0/56"
+      },
+      "conflicts_and_gaps": [
+        "SourceandSCpage displayshared56reviews, notconfirmeduniquechildscores.",
+        "SourceSize4x6Lined andSCSizeLinedPack3 conflictwithplainmodel6pads.",
+        "SavedUPCsource702877123584;masterVC702877117460/SC702877118924 all distinct. OldVCpageunavailable;0available/3reservedprevioussnapshot."
+      ],
+      "next_action": "PreferkeepactiveFBA B07FKL263W; verifyplainvsLinedandGTIN beforeconditionalmergeother2 intoit. Noordinary-to-neonmerge.",
+      "saved_stock_mapping": [
+        {
+          "asin": "B07FKL263W",
+          "sku": "AAAA 4A 406x6",
+          "fba_stock_saved_scan": 7,
+          "fba_stock_saved_fee_snapshot": 7.0,
+          "units30_fba_saved": 14,
+          "active_same_asin_mfn": []
+        }
+      ],
+      "master_rows": [
+        {
+          "sheet": "Sheet1",
+          "row": 39,
+          "sku": "4A 406x6",
+          "vc_upc": "702877117460",
+          "vc_asin": "B01MDJCWVH",
+          "sc_upc": "702877118924",
+          "sc_asin": "B01MSZS7M3",
+          "title": "4A  Sticky Notes,4 x 6 Inches,Large Size,Pastel Assorted,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 406x6        "
+        }
+      ],
+      "offer_identifiers": [
+        {
+          "seller-sku": "4A 033",
+          "asin1": "B01MSZS7M3",
+          "product-id": "702877118924",
+          "product-id-type": "3",
+          "fulfillment-channel": "DEFAULT",
+          "quantity": "957",
+          "item-name": "4A Sticky Notes, 4 x 6 in, 6 Pads, Pastel Colors | 100 sheets per pad",
+          "status": "Active"
+        },
+        {
+          "seller-sku": "AAAA 4A 406x6",
+          "asin1": "B07FKL263W",
+          "product-id": "702877123584",
+          "product-id-type": "3",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A 6 Pads Sticky Notes 4 x 6 Inches, Pastel Colors, Large Self-Stick Note Pads for Office, School, 100 Sheets/Pad, 600 Sheets Total, 4A 406x6",
+          "status": "Active"
+        },
+        {
+          "seller-sku": "EP-T1V0-IBUZ",
+          "asin1": "B01MDJCWVH",
+          "product-id": "B01MDJCWVH",
+          "product-id-type": "1",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A Sticky Notes,4 x 6 Inches,Large Size,Pastel Assorted,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 406x6",
+          "status": "Active"
+        },
+        {
+          "seller-sku": "4A 406x6",
+          "asin1": "B01MSZS7M3",
+          "product-id": "B01MSZS7M3",
+          "product-id-type": "1",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A Sticky Notes, 4 x 6 in, 6 Pads, Pastel Colors | 100 sheets per pad",
+          "status": "Inactive"
+        }
+      ],
+      "demand29": [
+        {
+          "asin": "B07FKL263W",
+          "sku": "AAAA 4A 406x6",
+          "orders29": 11,
+          "units29": 14,
+          "orders7": 0,
+          "units7": 0
+        }
+      ],
+      "browser_sources": [
+        "merge-current-B07FKL263W.txt",
+        "merge-current-B01MDJCWVH.txt",
+        "merge-current-B01MSZS7M3.txt"
+      ]
+    },
+    {
+      "group": "5088-N-L",
+      "asins": [
+        "B07RP9MB7Y",
+        "B07T429N23"
+      ],
+      "suggested_retained_asin": "B07RP9MB7Y",
+      "status": "CONDITIONAL_DUPLICATE_REVIEW",
+      "priority": 2,
+      "identity_evidence": "Masterrow45 mapsbothmodel5088NL:5x8lined8colors8pads50each=400. CurrentFBA titleagrees;oldVCtitlegenericmodelonly.",
+      "current_displayed_ratings": {
+        "B07RP9MB7Y": "4.4/64",
+        "B07T429N23": "4.2/56"
+      },
+      "conflicts_and_gaps": [
+        "SourceSize8PadsPack4; verifypacklabels.",
+        "MasterVCUPC702877124673 vsSC702877121757; no physicalbarcode equivalence proof."
+      ],
+      "next_action": "KeepcurrentFBA+MFN. Lowerprioritycatalogidentityreview foroldVC; noforcedmigrationforreviewcount.",
+      "saved_stock_mapping": [
+        {
+          "asin": "B07RP9MB7Y",
+          "sku": "4A 5088-N-L",
+          "fba_stock_saved_scan": 5,
+          "fba_stock_saved_fee_snapshot": 5.0,
+          "units30_fba_saved": 8,
+          "active_same_asin_mfn": [
+            {
+              "sku": "4A GM5088-N-L",
+              "quantity": 582,
+              "price": 19.99,
+              "sales_units_ui": null
+            }
+          ]
+        }
+      ],
+      "master_rows": [
+        {
+          "sheet": "Sheet1",
+          "row": 45,
+          "sku": "4A 5088-N-L",
+          "vc_upc": "702877124673",
+          "vc_asin": "B07T429N23",
+          "sc_upc": "702877121757",
+          "sc_asin": "B07RP9MB7Y",
+          "title": "4A Sticky Notes,5 x 8 Inches,Large Size,Neon Assorted,Lined,8 Colors,Self-Stick Notes,50 Sheets/Pad,8 Pads/Pack,400 Sheets/Pack,4A 5088-N-L"
+        }
+      ],
+      "offer_identifiers": [
+        {
+          "seller-sku": "4A 5088-N-L",
+          "asin1": "B07RP9MB7Y",
+          "product-id": "702877121757",
+          "product-id-type": "3",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A 8 Pads Lined Sticky Notes with Lines 5 x 8 in, Bright Colored Large Sticky Note Pads for Office, School, Home, 50 Sheets/Pad, 400 Sheets, 4A 5088-N-L",
+          "status": "Active"
+        },
+        {
+          "seller-sku": "4A GM5088-N-L",
+          "asin1": "B07RP9MB7Y",
+          "product-id": "B07RP9MB7Y",
+          "product-id-type": "1",
+          "fulfillment-channel": "DEFAULT",
+          "quantity": "582",
+          "item-name": "4A 8 Pads Lined Sticky Notes with Lines 5 x 8 in, Bright Colored Large Sticky Note Pads for Office, School, Home, 50 Sheets/Pad, 400 Sheets, 4A 5088-N-L",
+          "status": "Active"
+        },
+        {
+          "seller-sku": "4A 5088-N-L-FBA",
+          "asin1": "B07T429N23",
+          "product-id": "B07T429N23",
+          "product-id-type": "1",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A Self-Stick Notes, 8 Colors Assorted, 4A 5088-N-L-FBA | B07T429N23",
+          "status": "Inactive"
+        }
+      ],
+      "demand29": [
+        {
+          "asin": "B07RP9MB7Y",
+          "sku": "4A 5088-N-L",
+          "orders29": 7,
+          "units29": 8,
+          "orders7": 5,
+          "units7": 6
+        }
+      ],
+      "browser_sources": [
+        "merge-current-B07RP9MB7Y.txt",
+        "merge-current-B07T429N23.txt"
+      ]
+    },
+    {
+      "group": "30132",
+      "asins": [
+        "B07RQ7JMV9",
+        "B07T7PXS32"
+      ],
+      "suggested_retained_asin": "B07RQ7JMV9",
+      "status": "PROTECTED_301_PARALLEL_EXCEPTION",
+      "priority": 9,
+      "identity_evidence": "Masterrow12 same32pads/16colors model butVC/SC differentUPCs.",
+      "current_displayed_ratings": {},
+      "conflicts_and_gaps": [
+        "301parallel-page exception retained; notfreshpublicreviewedthispass."
+      ],
+      "next_action": "Preserveboth, no merge submission withinthisbatch.",
+      "saved_stock_mapping": [
+        {
+          "asin": "B07RQ7JMV9",
+          "sku": "4A 30132",
+          "fba_stock_saved_scan": 16,
+          "fba_stock_saved_fee_snapshot": 16.0,
+          "units30_fba_saved": 1,
+          "active_same_asin_mfn": [
+            {
+              "sku": "4A GM30132",
+              "quantity": 470,
+              "price": 12.99,
+              "sales_units_ui": null
+            }
+          ]
+        }
+      ],
+      "master_rows": [
+        {
+          "sheet": "Sheet1",
+          "row": 12,
+          "sku": "4A 30132",
+          "vc_upc": "702877124598",
+          "vc_asin": "B07T7PXS32",
+          "sc_upc": "702877120934",
+          "sc_asin": "B07RQ7JMV9",
+          "title": "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,16 Colors,Self-Stick Notes,100 Sheets/Pad,32 Pads/Box,4A 30132"
+        }
+      ],
+      "offer_identifiers": [
+        {
+          "seller-sku": "4A 30132",
+          "asin1": "B07RQ7JMV9",
+          "product-id": "702877120934",
+          "product-id-type": "3",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A 32 Pads Sticky Notes 1.5 x 2 in, Bright Colors, Colored Small Sticky Notes Pads for Home, Office, Notebook, 100 Sheets/pad, 3200 Sheets Total, 4A 30132",
+          "status": "Active"
+        },
+        {
+          "seller-sku": "4A GM30132",
+          "asin1": "B07RQ7JMV9",
+          "product-id": "B07RQ7JMV9",
+          "product-id-type": "1",
+          "fulfillment-channel": "DEFAULT",
+          "quantity": "470",
+          "item-name": "4A 32 Pads Sticky Notes 1.5 x 2 in, Bright Colors, Colored Small Sticky Notes Pads for Home, Office, Notebook, 100 Sheets/pad, 3200 Sheets Total, 4A 30132",
+          "status": "Active"
+        },
+        {
+          "seller-sku": "4A 30132-FBA",
+          "asin1": "B07T7PXS32",
+          "product-id": "B07T7PXS32",
+          "product-id-type": "1",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A Self-Stick Notes, 16 Colors Assorted, 4A 30132-FBA | B07T7PXS32",
+          "status": "Inactive"
+        }
+      ],
+      "demand29": [],
+      "browser_sources": []
+    },
+    {
+      "group": "406x6 neon",
+      "asins": [
+        "B07FKHHTY4",
+        "B01MSZSEBW"
+      ],
+      "suggested_retained_asin": "B07FKHHTY4",
+      "status": "CONDITIONAL_DUPLICATE_REVIEW",
+      "priority": 1,
+      "identity_evidence": "Bothcurrenttitles4x6neon6pads100each;masterrow40;manufacturerpublicpage confirmsmodelandUPC702877117477.",
+      "current_displayed_ratings": {
+        "B07FKHHTY4": "4.0/56",
+        "B01MSZSEBW": "4.0/56"
+      },
+      "conflicts_and_gaps": [
+        "Sharedratingdisplaynotuniquechildproof.",
+        "CurrentSizeLinedPack4 vsLinedPack10 inconsistentwith6padtitle; do notassumethosefakepacksreal.",
+        "ManufacturerUPC117477;masterSC118931;sourcecurrentofferidentifierASIN only, GTINassociationneedsreview."
+      ],
+      "next_action": "PreferkeepFBA+MFN B07FKHHTY4. Askcatalogteamresolveactual6pad/plain-vs-lined andcodeassociation, thenconditionalmergeoldSC; nofamily.",
+      "saved_stock_mapping": [
+        {
+          "asin": "B07FKHHTY4",
+          "sku": "AAAA 4A 406x6-N",
+          "fba_stock_saved_scan": 20,
+          "fba_stock_saved_fee_snapshot": 20.0,
+          "units30_fba_saved": 0,
+          "active_same_asin_mfn": [
+            {
+              "sku": "4A GM406x6-N",
+              "quantity": 521,
+              "price": 13.99,
+              "sales_units_ui": null
+            }
+          ]
+        }
+      ],
+      "master_rows": [
+        {
+          "sheet": "Sheet1",
+          "row": 40,
+          "sku": "4A 406x6-N",
+          "vc_upc": "702877117477",
+          "vc_asin": "B01M24DCU8",
+          "sc_upc": "702877118931",
+          "sc_asin": "B01MSZSEBW",
+          "title": "4A  Sticky Notes,4 x 6 Inches,Large Size,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 406x6-N         "
+        }
+      ],
+      "offer_identifiers": [
+        {
+          "seller-sku": "4A 034",
+          "asin1": "B01MSZSEBW",
+          "product-id": "702877118931",
+          "product-id-type": "3",
+          "fulfillment-channel": "DEFAULT",
+          "quantity": "521",
+          "item-name": "4A Sticky Notes, 4 x 6 in, 6 Pads, Bright Colors | 100 sheets per pad",
+          "status": "Active"
+        },
+        {
+          "seller-sku": "4A GM406x6-N",
+          "asin1": "B07FKHHTY4",
+          "product-id": "B07FKHHTY4",
+          "product-id-type": "1",
+          "fulfillment-channel": "DEFAULT",
+          "quantity": "521",
+          "item-name": "4A 6 Pads Sticky Notes 4 x 6 Inches, Bright Colors, Large Self-Stick Note Pads for Office, School, 100 Sheets/Pad, 600 Sheets Total, 4A 406x6-N",
+          "status": "Active"
+        },
+        {
+          "seller-sku": "AAAA 4A 406x6-N",
+          "asin1": "B07FKHHTY4",
+          "product-id": "B07FKHHTY4",
+          "product-id-type": "1",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A 6 Pads Sticky Notes 4 x 6 Inches, Bright Colors, Large Self-Stick Note Pads for Office, School, 100 Sheets/Pad, 600 Sheets Total, 4A 406x6-N",
+          "status": "Active"
+        },
+        {
+          "seller-sku": "4A 406x6-N",
+          "asin1": "B01MSZSEBW",
+          "product-id": "B01MSZSEBW",
+          "product-id-type": "1",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A Sticky Notes, 4 x 6 in, 6 Pads, Bright Colors | 100 sheets per pad",
+          "status": "Inactive"
+        }
+      ],
+      "demand29": [
+        {
+          "asin": "B07FKHHTY4",
+          "sku": "AAAA 4A 406x6-N",
+          "orders29": 0,
+          "units29": 0,
+          "orders7": 0,
+          "units7": 0
+        }
+      ],
+      "browser_sources": [
+        "merge-current-B07FKHHTY4.txt",
+        "merge-current-B01MSZSEBW.txt"
+      ]
+    },
+    {
+      "group": "30148pads",
+      "asins": [
+        "B0F7LW38FX",
+        "B07FKD3DBJ"
+      ],
+      "suggested_retained_asin": "B0F7LW38FX",
+      "status": "PROTECTED_301_PARALLEL_EXCEPTION",
+      "priority": 9,
+      "identity_evidence": "Savedtitlesboth48pad1.5x2neon model;productcodes notfullyreconciled.",
+      "current_displayed_ratings": {},
+      "conflicts_and_gaps": [
+        "301parallel-page exception; notfreshpublicreviewedthispass."
+      ],
+      "next_action": "Preserveboth; nochangeinthisbatch.",
+      "saved_stock_mapping": [
+        {
+          "asin": "B0F7LW38FX",
+          "sku": "4A 301x24x2",
+          "fba_stock_saved_scan": 43,
+          "fba_stock_saved_fee_snapshot": 43.0,
+          "units30_fba_saved": 0,
+          "active_same_asin_mfn": []
+        }
+      ],
+      "master_rows": [],
+      "offer_identifiers": [
+        {
+          "seller-sku": "4A 301x24x2",
+          "asin1": "B0F7LW38FX",
+          "product-id": "702877125571",
+          "product-id-type": "3",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A 48 Pads Sticky Notes 1.5 x 2 in, Neon Assorted, Colorful Small Sticky Notes Self-Stick Note Pads for Book Office School Supplies, 100 Sheets/Pad, 4800 Sheets Total, 4A 301x24",
+          "status": "Active"
+        },
+        {
+          "seller-sku": "4A GM301x24*2",
+          "asin1": "B07FKD3DBJ",
+          "product-id": "B07FKD3DBJ",
+          "product-id-type": "1",
+          "fulfillment-channel": "DEFAULT",
+          "quantity": "618",
+          "item-name": "4A 48 Pads Sticky Notes 1.5 x 2 in, Neon Assorted, Adhesive On Short Side, Small Sticky Notes Self-Stick Note Pads for Office School Supplies, 100 Sheets/Pad, 48 Pads, 4800 Sheets Total, 4A 301x24x2",
+          "status": "Active"
+        }
+      ],
+      "demand29": [],
+      "browser_sources": []
+    },
+    {
+      "group": "305x6NLx4",
+      "asins": [
+        "B0F28LXKKF",
+        "B07M8558B2"
+      ],
+      "suggested_retained_asin": "B0F28LXKKF",
+      "status": "BLOCK_CURRENT_SELECTED_PRODUCT_MISMATCH",
+      "priority": 3,
+      "identity_evidence": "CurrentFBA3x5lined24pads/2400sheets. Oldcandidatewaslegacy24pads perstoredreport.",
+      "current_displayed_ratings": {
+        "B0F28LXKKF": "2.6/200",
+        "B07M8558B2": "DO_NOT_ATTRIBUTE:mainselectedproductB0F2TKL2P5 shows2.6/200"
+      },
+      "conflicts_and_gaps": [
+        "VisitingoldcandidateURLcurrentlyshows302FullAdhesive400,3x2in,brandstore/merchant/reviewlinksB0F2TKL2P5. ExtensionstilllabelsrequestedB07M8558B2; thosearecontradictorysignals.",
+        "CurrentFBASizePack6 vs24padtitle.",
+        "OfferUPC125458 vslegacy121504 unresolved."
+      ],
+      "next_action": "Do NOTmerge thispair. PreserveFBA; iflaterinvestigatecatalogredirect/selectedchild before anynewrequest.",
+      "saved_stock_mapping": [
+        {
+          "asin": "B0F28LXKKF",
+          "sku": "4A 305x6-N-Lx4",
+          "fba_stock_saved_scan": 17,
+          "fba_stock_saved_fee_snapshot": 17.0,
+          "units30_fba_saved": 0,
+          "active_same_asin_mfn": []
+        }
+      ],
+      "master_rows": [],
+      "offer_identifiers": [
+        {
+          "seller-sku": "4A 305x6-N-Lx4",
+          "asin1": "B0F28LXKKF",
+          "product-id": "702877125458",
+          "product-id-type": "3",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A 4 Packs Lined Sticky Notes with Lines 3x5 in, 6 Bright Colors, Colorful Sticky Notes for Office, Home, School Supplies,100 Sheets/Pad,6 Pads/Pack,24 Pads,2400 Sheets Total, 4A 305x6-N-Lx4",
+          "status": "Active"
+        },
+        {
+          "seller-sku": "4A 305x6-N-L*4",
+          "asin1": "B07M8558B2",
+          "product-id": "702877121504",
+          "product-id-type": "3",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A 4 Packs Lined Sticky Notes 3 x 5 in, 6 Bright Colors, Colorful Sticky Notes with Lines Memo Pad for Office, School, Home, 100 Sheets/Pad, 6 Pads/Pack, 24 Pads, 2400 Sheets",
+          "status": "Inactive"
+        },
+        {
+          "seller-sku": "4A GM305x6-N-L*4",
+          "asin1": "B07M8558B2",
+          "product-id": "B07M8558B2",
+          "product-id-type": "1",
+          "fulfillment-channel": "DEFAULT",
+          "quantity": "0",
+          "item-name": "4A 4 Packs Lined Sticky Notes 3 x 5 in, 6 Bright Colors, Colorful Sticky Notes with Lines Memo Pad for Office, School, Home, 100 Sheets/Pad, 6 Pads/Pack, 24 Pads, 2400 Sheets",
+          "status": "Inactive"
+        }
+      ],
+      "demand29": [],
+      "browser_sources": [
+        "merge-current-B0F28LXKKF.txt",
+        "merge-current-B07M8558B2.txt"
+      ]
+    },
+    {
+      "group": "5082YL",
+      "asins": [
+        "B07F2BHFJH",
+        "B07DJKB2S9"
+      ],
+      "suggested_retained_asin": "B07F2BHFJH",
+      "status": "CONDITIONAL_DUPLICATE_REVIEW",
+      "priority": 2,
+      "identity_evidence": "Masterrow43 andbothcurrenttitles:5x8yellowlined2pads50each=100.",
+      "current_displayed_ratings": {
+        "B07F2BHFJH": "4.4/64",
+        "B07DJKB2S9": "4.1/177"
+      },
+      "conflicts_and_gaps": [
+        "SourceSize2PadsPack2 andcolorPastelAssorted mismatchyellowtitle.",
+        "MasterVCUPC124895 vsSC124178;differentcodeassociationunverified.",
+        "Ratingsaredisplayaggregates; donottransferbased177count."
+      ],
+      "next_action": "KeepcurrentFBAactivepage; conditionalcatalogcleanup/duplicateverificationonly, lowerprioritywhilecontinuousorders.",
+      "saved_stock_mapping": [
+        {
+          "asin": "B07F2BHFJH",
+          "sku": "4A 5082-Y-L-GM",
+          "fba_stock_saved_scan": 62,
+          "fba_stock_saved_fee_snapshot": 62.0,
+          "units30_fba_saved": 16,
+          "active_same_asin_mfn": []
+        }
+      ],
+      "master_rows": [
+        {
+          "sheet": "Sheet1",
+          "row": 43,
+          "sku": "4A 5082-Y-L",
+          "vc_upc": "702877124895",
+          "vc_asin": "B07DJKB2S9",
+          "sc_upc": "702877124178",
+          "sc_asin": "B07F2BHFJH",
+          "title": "4A Sticky Notes,5 x 8 Inches,Large Size, Yellow,Lined,Self-Stick Notes,50 Sheets/Pad,2 Pads/Pack,100 Sheets/Pack,4A 5082-Y-L"
+        }
+      ],
+      "offer_identifiers": [
+        {
+          "seller-sku": "4A 5082-Y-L-GM",
+          "asin1": "B07F2BHFJH",
+          "product-id": "B07F2BHFJH",
+          "product-id-type": "1",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A Lined Sticky Notes, 5 x 8 in, 2 Pads, Pastel Yellow | 50 sheets per pad, 100 sheets total",
+          "status": "Active"
+        },
+        {
+          "seller-sku": "4A 5082-Y-L",
+          "asin1": "B07F2BHFJH",
+          "product-id": "702877124178",
+          "product-id-type": "3",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A Lined Sticky Notes, 5 x 8 in, 2 Pads, Pastel Yellow | 50 sheets per pad, 100 sheets total",
+          "status": "Inactive"
+        },
+        {
+          "seller-sku": "4A 5082-Y-L-FBA",
+          "asin1": "B07DJKB2S9",
+          "product-id": "B07DJKB2S9",
+          "product-id-type": "1",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A 4A 5082-Y-L Sticky Notes, 5 x 8 Inches, Large Size, Yellow, Lined, Self-Stick Notes, 50 Sheets/Pad, 2 Pads/Pack, 100 Sheets/Pack",
+          "status": "Inactive"
+        }
+      ],
+      "demand29": [
+        {
+          "asin": "B07F2BHFJH",
+          "sku": "4A 5082-Y-L-GM",
+          "orders29": 15,
+          "units29": 16,
+          "orders7": 4,
+          "units7": 5
+        }
+      ],
+      "browser_sources": [
+        "merge-current-B07F2BHFJH.txt",
+        "merge-current-B07DJKB2S9.txt"
+      ]
+    },
+    {
+      "group": "5084NL",
+      "asins": [
+        "B07F2B49BL",
+        "B07DJPCBLV"
+      ],
+      "suggested_retained_asin": "B07F2B49BL",
+      "status": "CONDITIONAL_DUPLICATE_REVIEW",
+      "priority": 2,
+      "identity_evidence": "Masterrow44 andbothcurrenttitles:5x8lined4neonpads50each=200.",
+      "current_displayed_ratings": {
+        "B07F2B49BL": "4.4/64",
+        "B07DJPCBLV": "4.1/177"
+      },
+      "conflicts_and_gaps": [
+        "SourceSize4PadsPack3 inconsistentwith4padtitle.",
+        "MasterVCUPC124888 vsSC124161 notsamebarcode."
+      ],
+      "next_action": "KeepcurrentFBApage, notoldVC177reviews. Conditionalcatalogproofreview beforemerge.",
+      "saved_stock_mapping": [
+        {
+          "asin": "B07F2B49BL",
+          "sku": "4A 5084-N-L",
+          "fba_stock_saved_scan": 143,
+          "fba_stock_saved_fee_snapshot": 143.0,
+          "units30_fba_saved": 4,
+          "active_same_asin_mfn": []
+        }
+      ],
+      "master_rows": [
+        {
+          "sheet": "Sheet1",
+          "row": 44,
+          "sku": "4A 5084-N-L",
+          "vc_upc": "702877124888",
+          "vc_asin": "B07DJPCBLV",
+          "sc_upc": "702877124161",
+          "sc_asin": "B07F2B49BL",
+          "title": "4A Sticky Notes,5 x 8 Inches,Large Size,Neon Assorted,Lined,4 Neon Colors,Self-Stick Notes,50 Sheets/Pad,4 Pads/Pack,200 Sheets/Pack,4A 5084-N-L"
+        }
+      ],
+      "offer_identifiers": [
+        {
+          "seller-sku": "4A 5084-N-L",
+          "asin1": "B07F2B49BL",
+          "product-id": "702877124161",
+          "product-id-type": "3",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A 4 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5084-N-L",
+          "status": "Active"
+        },
+        {
+          "seller-sku": "4A 5084-N-L-FBA",
+          "asin1": "B07DJPCBLV",
+          "product-id": "B07DJPCBLV",
+          "product-id-type": "1",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A 4A 5084-N-L Sticky Notes, 5 x 8 Inches, Large Size, Lined, 4 Neon Colors, Self-Stick Notes, 50 Sheets/Pad, 4 Pads/Pack, 200 Sheets/Pack",
+          "status": "Inactive"
+        },
+        {
+          "seller-sku": "4A GM5084-N-L",
+          "asin1": "B07F2B49BL",
+          "product-id": "B07F2B49BL",
+          "product-id-type": "1",
+          "fulfillment-channel": "DEFAULT",
+          "quantity": "0",
+          "item-name": "4A 4 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5084-N-L",
+          "status": "Inactive"
+        }
+      ],
+      "demand29": [],
+      "browser_sources": [
+        "merge-current-B07F2B49BL.txt",
+        "merge-current-B07DJPCBLV.txt"
+      ]
+    },
+    {
+      "group": "608YG2pads",
+      "asins": [
+        "B01M617ZTH",
+        "B07FKHLSJM"
+      ],
+      "suggested_retained_asin": "B01M617ZTH",
+      "status": "BLOCK_CURRENT_SPEC_CONFLICT",
+      "priority": 3,
+      "identity_evidence": "CurrentFBA2pads6x8linedgreen/yellow100each200total;legacycandidateSKUcontains608x2YG.",
+      "current_displayed_ratings": {
+        "B01M617ZTH": "4.3/90",
+        "B07FKHLSJM": "4.2/212"
+      },
+      "conflicts_and_gaps": [
+        "Oldcandidatecurrentmainheading4padsNeonColors, Size4PadsPack2, differsfrom2padsGreenYellow.",
+        "Noindependentactualpackageevidence resolves2vs4."
+      ],
+      "next_action": "Do NOTmerge. Preserve2padFBA; explicitmanufacturer/packbarcode proofneededtointerpretlegacySKU.",
+      "saved_stock_mapping": [
+        {
+          "asin": "B01M617ZTH",
+          "sku": "4A 037",
+          "fba_stock_saved_scan": 2,
+          "fba_stock_saved_fee_snapshot": 2.0,
+          "units30_fba_saved": 1,
+          "active_same_asin_mfn": []
+        }
+      ],
+      "master_rows": [],
+      "offer_identifiers": [
+        {
+          "seller-sku": "4A 037",
+          "asin1": "B01M617ZTH",
+          "product-id": "702877118955",
+          "product-id-type": "3",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A 2 Pads Lined Sticky Notes with Lines 6 x 8 in, Neon Green and Yellow Large Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 200 Sheets, 4A 608x2-N-L YG",
+          "status": "Active"
+        },
+        {
+          "seller-sku": "4A GM608x2-N-L YG",
+          "asin1": "B01M617ZTH",
+          "product-id": "B01M617ZTH",
+          "product-id-type": "1",
+          "fulfillment-channel": "DEFAULT",
+          "quantity": "0",
+          "item-name": "4A 2 Pads Lined Sticky Notes with Lines 6 x 8 in, Neon Green and Yellow Large Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 200 Sheets, 4A 608x2-N-L YG",
+          "status": "Inactive"
+        },
+        {
+          "seller-sku": "4A GMSC608x2-N-L YG",
+          "asin1": "B07FKHLSJM",
+          "product-id": "B07FKHLSJM",
+          "product-id-type": "1",
+          "fulfillment-channel": "DEFAULT",
+          "quantity": "0",
+          "item-name": "4A Sticky Notes,6 x 8 Inches,Large Size,Neon Green&Yellow,Lined,Self-Stick Notes,100 Sheets/Pad,2 Pads/Pack,4A 608x2-N-L-YG",
+          "status": "Inactive"
+        }
+      ],
+      "demand29": [
+        {
+          "asin": "B01M617ZTH",
+          "sku": "4A 037",
+          "orders29": 1,
+          "units29": 1,
+          "orders7": 1,
+          "units7": 1
+        }
+      ],
+      "browser_sources": [
+        "merge-current-B01M617ZTH.txt",
+        "merge-current-B07FKHLSJM.txt"
+      ]
+    },
+    {
+      "group": "404SuperLined6",
+      "asins": [
+        "B073VPFBL6",
+        "B07FKKY4XP"
+      ],
+      "suggested_retained_asin": "B073VPFBL6",
+      "status": "CONDITIONAL_DUPLICATE_REVIEW",
+      "priority": 2,
+      "identity_evidence": "Currenttitle+firstbulletboth4x4supersticky lined6neonpads100each600;masterrow63supportsVCmodel.",
+      "current_displayed_ratings": {
+        "B073VPFBL6": "3.5/12",
+        "B07FKKY4XP": "3.6/4"
+      },
+      "conflicts_and_gaps": [
+        "OtherASINnotmasterrow63 SCASIN(B07B8JFJZY); currentotherUPC702877123607vs masterVC702877120194;missingmanufacturerSKU-codeassociation.",
+        "MarginalratingdifferenceandshareddisplaynotreasonforFBAremap."
+      ],
+      "next_action": "KeepFBA B073VPFBL6andMFNotheruntilidentityverified; lowerpriorityconditionalmerge request, no price/familychanges.",
+      "saved_stock_mapping": [
+        {
+          "asin": "B073VPFBL6",
+          "sku": "4A 404S-Lx6",
+          "fba_stock_saved_scan": 5,
+          "fba_stock_saved_fee_snapshot": 5.0,
+          "units30_fba_saved": 0,
+          "active_same_asin_mfn": []
+        }
+      ],
+      "master_rows": [
+        {
+          "sheet": "Sheet1",
+          "row": 63,
+          "sku": "4A 404S-Linex6",
+          "vc_upc": "702877120194",
+          "vc_asin": "B073VPFBL6",
+          "sc_upc": "702877121122",
+          "sc_asin": "B07B8JFJZY",
+          "title": "4A Super Sticky Notes,4 x 4 Inches,Large Size,Neon Assorted,Lined,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,600 Sheets/Pack,4A 404S-Lx6"
+        }
+      ],
+      "offer_identifiers": [
+        {
+          "seller-sku": "4A 404S-Lx6",
+          "asin1": "B073VPFBL6",
+          "product-id": "B073VPFBL6",
+          "product-id-type": "1",
+          "fulfillment-channel": "AMAZON_NA",
+          "quantity": "",
+          "item-name": "4A Super Sticky,4 x 4 Inches,Neon Assorted,Lined,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,600 Sheets/Pack,4A 404S-Lx6",
+          "status": "Active"
+        },
+        {
+          "seller-sku": "AAAA 4A 404S-Linex6",
+          "asin1": "B07FKKY4XP",
+          "product-id": "702877123607",
+          "product-id-type": "3",
+          "fulfillment-channel": "DEFAULT",
+          "quantity": "753",
+          "item-name": "4A 6 Pads Super Sticky Lined Notes 4 x 4 Inches, Neon Assorted, Sticky Notes with Lines for Office School Supplies, 100 Sheets/Pad, 600 Sheets Total,4A 404S-Linex6",
+          "status": "Active"
+        }
+      ],
+      "demand29": [
+        {
+          "asin": "B073VPFBL6",
+          "sku": "4A 404S-Lx6",
+          "orders29": 0,
+          "units29": 0,
+          "orders7": 0,
+          "units7": 0
+        }
+      ],
+      "browser_sources": [
+        "merge-current-B073VPFBL6.txt",
+        "merge-current-B07FKKY4XP.txt"
+      ]
+    }
+  ]
+}

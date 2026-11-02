@@ -1,0 +1,718 @@
+- navigation:
+  - button "菜单":
+  - generic: 菜单
+  - button:
+  - navigation:
+    - searchbox
+    - link:
+      - /url: /amazonsell/business
+      - generic: 我的业务
+    - button:
+      - generic: 商品
+    - link:
+      - /url: /amazonsell/listings
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/manage-products
+      - text: 管理商品
+      - button:
+    - link:
+      - /url: /pricing/health
+      - text: 管理定价
+      - button:
+    - link:
+      - /url: /product-search
+      - text: 添加商品
+      - button:
+    - link:
+      - /url: /feedback-manager/index.html
+      - text: 分析评论
+      - button:
+    - link:
+      - /url: /new-product-guidance
+      - text: 研究商品
+      - button:
+    - link:
+      - /url: /gex
+      - text: 全球开店
+      - button:
+    - link:
+      - /url: /listing/reports
+      - text: 商品报告
+      - button:
+    - button:
+      - generic: 供应链
+    - link:
+      - /url: /amazonsell/inventory
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/fba-inventory
+      - text: 管理亚马逊库存
+      - button:
+    - link:
+      - /url: /global-store
+      - text: 管理海外购
+      - button:
+    - link:
+      - /url: /seller-fulfilled-product/analytics
+      - text: 管理卖家自配送库存
+      - button:
+    - link:
+      - /url: /manage/shipments
+      - text: 管理货件
+      - button:
+    - link:
+      - /url: /fba/sendtoamazon
+      - text: Send to Amazon
+      - button:
+    - link:
+      - /url: /channel-manager
+      - text: 管理渠道目的地
+      - button:
+    - link:
+      - /url: https://supplychain.amazon.com/scp/login?utm_source=ngs_persistence_link
+      - text: 供应链控制面板
+      - button:
+    - link:
+      - /url: /reportcentral/WelcomePage
+      - text: 供应链报告
+      - button:
+    - button:
+      - generic: 订单
+    - link:
+      - /url: /amazonsell/orders
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/orders/mfn
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /amazonsell/orders/fba
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /business/manage-quotes
+      - text: 管理报价
+      - button:
+    - link:
+      - /url: /manage/returns/mfn
+      - text: 管理退货
+      - button:
+    - link:
+      - /url: /gp/chargebacks/home.html
+      - text: 管理索赔
+      - button:
+    - link:
+      - /url: /order-reports-and-feeds/reports
+      - text: 订单报告
+      - button:
+    - button:
+      - generic: 营销推广
+    - link:
+      - /url: /amazonsell/marketing
+      - text: 工作区
+    - link:
+      - /url: /promotion-central/dashboard
+      - text: 管理促销和特惠
+      - button:
+    - link:
+      - /url: /brand-analytics
+      - text: 品牌分析
+      - button:
+    - link:
+      - /url: /cm?source=ngs
+      - text: 广告控制台
+      - button:
+    - link:
+      - /url: /vine
+      - text: Vine
+      - button:
+    - button:
+      - generic: 财务人员
+    - link:
+      - /url: /amazonsell/payments
+      - text: 工作区
+    - link:
+      - /url: /manage/finance/transactions
+      - text: 管理交易
+      - button:
+    - link:
+      - /url: /managetaxes/global-transaction-reports
+      - text: 管理税费
+      - button:
+    - link:
+      - /url: /economics
+      - text: 利润分析
+      - button:
+    - link:
+      - /url: /manage/finance/reports
+      - text: 财务报告
+      - button:
+    - button:
+      - generic: 账户状况
+    - link:
+      - /url: /performance/dashboard
+      - text: 管理账户状况
+      - button:
+    - button:
+      - generic: 计划和应用程序
+    - link:
+      - /url: /recommended-programs
+      - text: 了解计划
+      - button:
+    - link:
+      - /url: /selling-partner-appstore
+      - text: 销售伙伴应用商店
+      - button:
+    - link:
+      - /url: /tsba
+      - text: 浏览服务
+      - button:
+  - link:
+    - /url: /sitemap
+    - text: 站点地图
+  - link:
+    - /url: /home?ngs_do_not_redirect_flag=1
+    - text: 传统卖家平台
+  - link "Amazon":
+    - /url: /amazonsell
+  - button "4A (USA) LIMITED 美国":
+    - generic: 4A (USA) LIMITED
+    - generic: 美国
+  - button "账户状况":
+    - generic: 账户状况
+    - generic: 存在风险
+  - textbox "搜索任何内容"
+  - button "询问卖家助手":
+    - generic: 卖家助手
+  - link "新增内容":
+    - /url: /featurereleases
+  - link "消息":
+    - /url: /messaging/inbox-v3?fi=responseNeeded&&
+  - button "帮助":
+  - button "设置":
+- navigation:
+  - button:
+  - link "管理交易":
+    - /url: /manage/finance/transactions
+    - generic: 管理交易
+  - link "卖家大学":
+    - /url: /su/learn
+    - generic: 卖家大学
+  - link "管理商品":
+    - /url: /amazonsell/manage-products
+    - generic: 管理商品
+  - link "广告控制台":
+    - /url: /cm?source=ngs
+    - generic: 广告控制台
+  - link "管理货件":
+    - /url: /manage/shipments
+    - generic: 管理货件
+  - link "商品商机探测器":
+    - /url: /new-product-guidance
+    - generic: 商品商机探测器
+  - link "品牌分析":
+    - /url: /brand-analytics
+    - generic: 品牌分析
+  - link "A+ 商品描述管理器":
+    - /url: /enhanced-content/ref=xx_ebc_favb_xx
+    - generic: A+ 商品描述管理器
+  - link "业务报告":
+    - /url: /business-reports#/dashboard
+    - generic: 业务报告
+  - link "亚马逊物流库存报告":
+    - /url: /reportcentral/WelcomePage
+    - generic: 亚马逊物流库存报告
+  - link "商品报告":
+    - /url: /listing/reports
+    - generic: 商品报告
+  - link "绩效通知":
+    - /url: /performance/notifications
+    - generic: 绩效通知
+  - link "管理账户状况":
+    - /url: /performance/dashboard
+    - generic: 管理账户状况
+  - button:
+- list
+- button "✕"
+- heading "编辑商品信息" [level=2]
+- text: SKU：4A 305 x 6-Y
+- generic: 4A Sticky Notes,3 x 5 Inches,Canary Yellow,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 305x6-Y
+- generic: "ASIN: B01N0R4QI8"
+- generic: 产品识别
+- generic: 产品识别
+- generic: 无编辑
+- generic: 无编辑
+- generic: 
+- generic: 描述
+- generic: 描述
+- generic: 无编辑
+- generic: 无编辑
+- generic: 
+- generic: 产品详情
+- generic: 产品详情
+- generic: 无编辑
+- generic: 无编辑
+- generic: 
+- generic: 变种
+- generic: 变种
+- generic: 无编辑
+- generic: 无编辑
+- generic: 
+- generic: 
+- generic: 报价
+- generic: 报价
+- generic: "8"
+- generic: "8"
+- generic: 个错误
+- generic: 个错误
+- generic: 
+- generic: 安全与合规
+- generic: 安全与合规
+- generic: 无编辑
+- generic: 无编辑
+- generic: 
+- generic: 改进商品信息
+- generic: 查看 AI 建议
+- button "查看":
+  - generic: 查看
+- button "商品信息采用的语言：English":
+  - generic: 
+  - text: 商品信息采用的语言：English
+- button "提交":
+  - generic: 提交
+- button "取消":
+  - generic: 取消
+- generic: 添加商品价格和库存
+- generic "全部":
+  - generic: 全部
+  - generic: 
+- 'button "筛选属性: 全部"':
+  - generic: "筛选属性: 全部"
+- generic: 在其他商城销售
+- generic: 在其他商城销售
+- generic: 您可以在其他商城中销售此商品。 请为每个商城提供商品价格和数量。 如果商品详情页面尚不存在，亚马逊将尝试自动翻译您当地商城中的内容，翻译服务免费。 之后，您可以修改翻译的内容。 全球商城将使用相同的 SKU 及商品状况。
+- generic: 您可以在其他商城中销售此商品。 请为每个商城提供商品价格和数量。 如果商品详情页面尚不存在，亚马逊将尝试自动翻译您当地商城中的内容，翻译服务免费。 之后，您可以修改翻译的内容。 全球商城将使用相同的 SKU 及商品状况。
+- link "了解更多信息":
+  - /url: /gp/help/201062890
+  - generic: 了解更多信息
+- checkbox "undefined"
+- generic: SKU
+- generic: SKU
+- button "反馈"
+- generic: 该属性显示了出资人指定的库存单位数量
+- generic: 该属性显示了出资人指定的库存单位数量
+- textbox "SKU" [disabled]:
+  - /placeholder: 示例： ABC123
+  - text: 4A 305 x 6-Y
+- generic: 配送渠道代码
+- generic: 配送渠道代码
+- button "反馈"
+- generic: 对于使用亚马逊物流服务的商家，指定将使用哪个物流网络。指定除 DEFAULT 以外的值将取消商家交付的产品。对于商家交付的产品，应将此字段留空。
+- generic: 对于使用亚马逊物流服务的商家，指定将使用哪个物流网络。指定除 DEFAULT 以外的值将取消商家交付的产品。对于商家交付的产品，应将此字段留空。
+- radio "我希望通过亚马逊配送（亚马逊物流）配送我的商品，并在商品售出后由亚马逊提供客户服务。" [checked] [disabled]
+- generic: 我希望通过亚马逊配送（亚马逊物流）配送我的商品，并在商品售出后由亚马逊提供客户服务。
+- generic: 我希望通过亚马逊配送（亚马逊物流）配送我的商品，并在商品售出后由亚马逊提供客户服务。
+- generic: （亚马逊配送）
+- generic: （亚马逊配送）
+- radio "我想自行配送此商品，或者在其售出后使用亚马逊 Easy Ship。" [disabled]
+- generic: 我想自行配送此商品，或者在其售出后使用亚马逊 Easy Ship。
+- generic: 我想自行配送此商品，或者在其售出后使用亚马逊 Easy Ship。
+- generic: （卖家自配送）
+- generic: （卖家自配送）
+- generic: 最低广告价格
+- generic: 最低广告价格
+- button "反馈"
+- generic: 提供最低广告价格
+- generic: 提供最低广告价格
+- generic: USD$
+- generic: USD$
+- textbox "最低广告价格":
+  - /placeholder: 示例： 259.99
+- text: "*"
+- generic: 您的价格
+- generic: 您的价格
+- button "反馈"
+- generic: 指明向目标买家群体提供的商品基本价格
+- generic: 指明向目标买家群体提供的商品基本价格
+- generic: USD$
+- generic: USD$
+- textbox "您的价格":
+  - /placeholder: 示例： 9.00
+  - text: "11.99"
+- generic: 卖方允许的最低价格
+- generic: 卖方允许的最低价格
+- button "反馈"
+- generic: 提供卖方允许的最低价格
+- generic: 提供卖方允许的最低价格
+- generic: USD$
+- generic: USD$
+- textbox "卖方允许的最低价格":
+  - /placeholder: 示例： 259.99
+- generic: 卖方允许的最高价格
+- generic: 卖方允许的最高价格
+- button "反馈"
+- generic: 提供卖方允许的最高价格
+- generic: 提供卖方允许的最高价格
+- generic: USD$
+- generic: USD$
+- textbox "卖方允许的最高价格":
+  - /placeholder: 示例： 259.99
+- generic: 销售截止日期
+- generic: 销售截止日期
+- button "反馈"
+- generic: 促销价格覆盖商品标准价格的最后日期（YYYY-MM-DD 格式）；促销结束日期的凌晨 0:00 之后将显示商品的标准价格。
+- generic: 促销价格覆盖商品标准价格的最后日期（YYYY-MM-DD 格式）；促销结束日期的凌晨 0:00 之后将显示商品的标准价格。
+- button "Calendar":
+  - generic: 
+- textbox "销售截止日期":
+  - /placeholder: YYYY-MM-DD
+- generic: 销售开始日期
+- generic: 销售开始日期
+- button "反馈"
+- generic: 促销价格开始覆盖商品标准价格的日期（YYYY-MM-DD格式）；促销价格将在促销开始日期的0:00AM之后显示。
+- generic: 促销价格开始覆盖商品标准价格的日期（YYYY-MM-DD格式）；促销价格将在促销开始日期的0:00AM之后显示。
+- button "Calendar":
+  - generic: 
+- textbox "销售开始日期":
+  - /placeholder: YYYY-MM-DD
+- generic: 销售价格
+- generic: 销售价格
+- button "反馈"
+- generic: 您提供的待售产品的价格。
+- generic: 您提供的待售产品的价格。
+- generic: USD$
+- generic: USD$
+- textbox "销售价格":
+  - /placeholder: 示例： 219.99
+- generic: 提供发布日期
+- generic: 提供发布日期
+- button "反馈"
+- generic: 使用 YYYY-MM-DD 格式提供您的价格开始日期
+- generic: 使用 YYYY-MM-DD 格式提供您的价格开始日期
+- button "Calendar":
+  - generic: 
+- textbox "提供发布日期":
+  - /placeholder: YYYY-MM-DD
+  - text: 2018-04-26
+- generic: 商品状况
+- generic: 商品状况
+- button "反馈"
+- generic: 提供产品的实际条件类型
+- generic: 提供产品的实际条件类型
+- generic "商品状况":
+  - generic "New":
+    - generic: New
+    - generic: 
+- text: "*"
+- generic: 不含税价目表
+- generic: 不含税价目表
+- button "反馈"
+- generic: 提供商品的定价（不含税）。定价是制造商、供应商或卖家提供的商品建议零售价。这不是报价或成本价。
+- generic: 提供商品的定价（不含税）。定价是制造商、供应商或卖家提供的商品建议零售价。这不是报价或成本价。
+- generic: "6.99"
+- generic: USD$
+- generic: USD$
+- textbox "不含税价目表":
+  - /placeholder: 示例： 64
+  - text: "11.99"
+- generic: 
+- generic: 设置为匹配 您的价格 USD$11.99
+- generic: 设置为匹配 您的价格 USD$11.99
+- generic: 产品税码
+- generic: 产品税码
+- button "反馈"
+- generic: 输入 Amazon.com 向您提供的产品税码
+- generic: 输入 Amazon.com 向您提供的产品税码
+- textbox "产品税码":
+  - /placeholder: 示例： A_GEN_NOTAX
+- generic: 发售日期
+- generic: 发售日期
+- button "反馈"
+- generic: 使用 YYYY-MM-DD 格式说明商家发布日期。
+- generic: 使用 YYYY-MM-DD 格式说明商家发布日期。
+- button "Calendar":
+  - generic: 
+- textbox "发售日期":
+  - /placeholder: YYYY-MM-DD
+- generic: 配送模板
+- generic: 配送模板
+- button "反馈"
+- generic: 配送模板定义您的配送区域和费用。亚马逊会分配一个默认模板，您可以在配送设置中修改该模板或配置其他模板。
+- generic: 配送模板定义您的配送区域和费用。亚马逊会分配一个默认模板，您可以在配送设置中修改该模板或配置其他模板。
+- generic "配送模板":
+  - generic "Migrated Template":
+    - generic: Migrated Template
+    - button "清除":
+      - generic: 
+    - generic: 
+- generic: 最大订单数量
+- generic: 最大订单数量
+- button "反馈"
+- generic: 整数。
+- generic: 整数。
+- spinbutton "最大订单数量"
+- generic: 礼品选项
+- generic: 礼品选项
+- button "反馈"
+- generic: 提供礼品卡选项
+- generic: 提供礼品卡选项
+- generic: 可以提供礼品信息
+- generic: 可以提供礼品信息
+- button "反馈"
+- generic: 如果您可以打印礼品信息与项目，请在此注明。 如果留白，默认为“false”
+- generic: 如果您可以打印礼品信息与项目，请在此注明。 如果留白，默认为“false”
+- radio "是"
+- generic: 是
+- generic: 是
+- radio "否"
+- generic: 否
+- generic: 否
+- generic: 表示礼品包装可用
+- generic: 表示礼品包装可用
+- button "反馈"
+- generic: 如果你为一个项目做礼品包装，请在此注明。 如果留白，默认为“false”
+- generic: 如果你为一个项目做礼品包装，请在此注明。 如果留白，默认为“false”
+- radio "是"
+- generic: 是
+- generic: 是
+- radio "否"
+- generic: 否
+- generic: 否
+- generic: 最低广告价
+- generic: 最低广告价
+- button "反馈"
+- generic: 给出产品最低广告价，数值精确到小数点后两位
+- generic: 给出产品最低广告价，数值精确到小数点后两位
+- generic: USD$
+- generic: USD$
+- textbox "最低广告价":
+  - /placeholder: 示例： 20.00, 45.99
+- generic: 补充状况信息
+- generic: 补充状况信息
+- button "反馈"
+- generic: 提供有关非全新商品的额外状况信息。
+- generic: 提供有关非全新商品的额外状况信息。
+- generic: 配件
+- generic: 配件
+- button "反馈"
+- generic: 提供包含在非全新产品中的配件类型。
+- generic: 提供包含在非全新产品中的配件类型。
+- generic "配件":
+  - generic: 示例： Generic
+  - generic: 
+- generic: 电池电量百分比
+- generic: 电池电量百分比
+- button "反馈"
+- generic: 如果非新产品包含电池，说明其电池状态信息。
+- generic: 如果非新产品包含电池，说明其电池状态信息。
+- generic "电池电量百分比":
+  - generic: 示例： >90%
+  - generic: 
+- generic: 化妆品
+- generic: 化妆品
+- button "反馈"
+- generic: 提供非全新商品的整体外观状况。
+- generic: 提供非全新商品的整体外观状况。
+- generic "化妆品":
+  - generic: 示例： No Sign of Use
+  - generic: 
+- generic: 功能
+- generic: 功能
+- button "反馈"
+- generic: 提供非全新商品的翻新类型。
+- generic: 提供非全新商品的翻新类型。
+- generic "功能":
+  - generic: 示例： Green Refurbishment
+  - generic: 
+- link "添加更多":
+  - /url: javascript:void(0);
+  - generic: 添加更多
+- generic: 功能状况
+- generic: 功能状况
+- button "反馈"
+- generic: 说明非新产品的功能状况。
+- generic: 说明非新产品的功能状况。
+- generic "功能状况":
+  - generic: 示例： Fully Functional
+  - generic: 
+- generic: 包装
+- generic: 包装
+- button "反馈"
+- generic: 提供非全新商品的包装类型。
+- generic: 提供非全新商品的包装类型。
+- generic "包装":
+  - generic: 示例： OEM Original
+  - generic: 
+- generic: 翻新等级
+- generic: 翻新等级
+- button "反馈"
+- generic: 说明非全新商品的翻新等级。
+- generic: 说明非全新商品的翻新等级。
+- generic "翻新等级":
+  - generic: 示例： Renewed - Excellent
+  - generic: 
+- generic: 来源类型
+- generic: 来源类型
+- button "反馈"
+- generic: 提供非全新商品的来源信息。
+- generic: 提供非全新商品的来源信息。
+- generic "来源类型":
+  - generic: 示例： Returned Never Used
+  - generic: 
+- generic: 产品尺寸
+- generic: 产品尺寸
+- button "反馈"
+- generic: 提供商品尺寸
+- generic: 提供商品尺寸
+- generic: 商品高度单位
+- generic: 商品高度单位
+- button "反馈"
+- generic: 选择 Item Height 的度量单位。如果给出 Item Height 的值，还必须输入相应的单位。
+- generic: 选择 Item Height 的度量单位。如果给出 Item Height 的值，还必须输入相应的单位。
+- generic: Inches
+- generic "商品高度单位":
+  - generic: 示例： Inches
+  - generic: 
+- generic: 商品高度
+- generic: 商品高度
+- button "反馈"
+- generic: 给出商品高度的数值。
+- generic: 给出商品高度的数值。
+- generic: "2.0"
+- spinbutton "商品高度"
+- generic: 商品长度单位
+- generic: 商品长度单位
+- button "反馈"
+- generic: 选择 Item Length 的度量单位。如果给出 Item Length 的值，还必须输入相应的单位。
+- generic: 选择 Item Length 的度量单位。如果给出 Item Length 的值，还必须输入相应的单位。
+- generic: Inches
+- generic "商品长度单位":
+  - generic: 示例： Inches
+  - generic: 
+- generic: 商品长度
+- generic: 商品长度
+- button "反馈"
+- generic: 给出商品长度的数值。
+- generic: 给出商品长度的数值。
+- generic: "5.0"
+- spinbutton "商品长度"
+- generic: 商品宽度单位
+- generic: 商品宽度单位
+- button "反馈"
+- generic: 选择 Item Width 的度量单位。如果给出 Item Width 的值，还必须输入相应的单位。
+- generic: 选择 Item Width 的度量单位。如果给出 Item Width 的值，还必须输入相应的单位。
+- generic: Inches
+- generic "商品宽度单位":
+  - generic: 示例： Inches
+  - generic: 
+- generic: 商品宽度
+- generic: 商品宽度
+- button "反馈"
+- generic: 给出商品宽度的数值。
+- generic: 给出商品宽度的数值。
+- generic: "3.0"
+- spinbutton "商品宽度"
+- generic: 包装尺寸
+- generic: 包装尺寸
+- button "反馈"
+- generic: package_width
+- generic: package_width
+- generic: 包装高度单位
+- generic: 包装高度单位
+- button "反馈"
+- generic: 选择 Package Height 的度量单位。如果给出 Package Height 的值，还必须输入相应的单位。
+- generic: 选择 Package Height 的度量单位。如果给出 Package Height 的值，还必须输入相应的单位。
+- generic: Centimeters
+- generic "包装高度单位":
+  - generic: 示例： Inches
+  - generic: 
+- generic: "90220: “包装高度单位” 为必填项，但缺失。"
+- generic: 包装高度
+- generic: 包装高度
+- button "反馈"
+- generic: 给出包装高度的数值。
+- generic: 给出包装高度的数值。
+- generic: "12.8"
+- spinbutton "包装高度"
+- generic: "90220: “包装高度单位” 为必填项，但缺失。"
+- generic: 包装长度单位
+- generic: 包装长度单位
+- button "反馈"
+- generic: 选择 Package Length 的度量单位。如果给出 Package Length 的值，还必须输入相应的单位。
+- generic: 选择 Package Length 的度量单位。如果给出 Package Length 的值，还必须输入相应的单位。
+- generic: Centimeters
+- generic "包装长度单位":
+  - generic: 示例： Inches
+  - generic: 
+- generic: "90220: “包装高度单位” 为必填项，但缺失。"
+- generic: 包装长度
+- generic: 包装长度
+- button "反馈"
+- generic: 给出包装长度的数值。
+- generic: 给出包装长度的数值。
+- generic: "6.1"
+- spinbutton "包装长度"
+- generic: "90220: “包装高度单位” 为必填项，但缺失。"
+- generic: 包装宽度单位
+- generic: 包装宽度单位
+- button "反馈"
+- generic: 选择 Package Width 的度量单位。如果给出 Package Width 的值，还必须输入相应的单位。
+- generic: 选择 Package Width 的度量单位。如果给出 Package Width 的值，还必须输入相应的单位。
+- generic: Centimeters
+- generic "包装宽度单位":
+  - generic: 示例： Inches
+  - generic: 
+- generic: "90220: “包装高度单位” 为必填项，但缺失。"
+- generic: 包装宽度
+- generic: 包装宽度
+- button "反馈"
+- generic: 给出包装宽度的数值。
+- generic: 给出包装宽度的数值。
+- generic: "7.7"
+- spinbutton "包装宽度"
+- generic: "90220: “包装高度单位” 为必填项，但缺失。"
+- generic: 包裹重量
+- generic: 包裹重量
+- button "反馈"
+- generic: 可交运包裹的重量。这个值将用于“卓越亚马逊物流”服务。
+- generic: 可交运包裹的重量。这个值将用于“卓越亚马逊物流”服务。
+- generic: 包装重量
+- generic: 包装重量
+- button "反馈"
+- generic: 给出包装重量的数值。
+- generic: 给出包装重量的数值。
+- generic: "0.423"
+- spinbutton "包装重量"
+- generic: "90220: “包装重量单位” 为必填项，但缺失。"
+- generic: 包装重量单位
+- generic: 包装重量单位
+- button "反馈"
+- generic: 选择 Package Weight 的度量单位。如果给出 Package Weight 的值，还必须输入相应的单位。
+- generic: 选择 Package Weight 的度量单位。如果给出 Package Weight 的值，还必须输入相应的单位。
+- generic: Kilograms
+- generic "包装重量单位":
+  - generic: 示例： Pounds
+  - generic: 
+- generic: "90220: “包装重量单位” 为必填项，但缺失。"
+- generic: 每托盘主包装层数
+- generic: 每托盘主包装层数
+- button "反馈"
+- generic: 提供存放在托盘上的主包装层数（即 Hi）。
+- generic: 提供存放在托盘上的主包装层数（即 Hi）。
+- spinbutton "每托盘主包装层数"
+- generic: 每层主包装数量
+- generic: 每层主包装数量
+- button "反馈"
+- generic: 提供托盘每层中的产品主包装数量（即 Ti）。
+- generic: 提供托盘每层中的产品主包装数量（即 Ti）。
+- spinbutton "每层主包装数量"
+- text: 继续 安全与合规
+- generic: 
+- link "站点地图":
+  - /url: /sitemap
+- link "计划政策":
+  - /url: /help/hub/reference/521
+- generic: © 1999-2026，Amazon.com, Inc. 或其附属公司
+- link "反馈":
+  - /url: "#"

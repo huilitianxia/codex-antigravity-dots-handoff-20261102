@@ -1,0 +1,943 @@
+[
+  {
+    "sku": "4A 305-Full Adhesive",
+    "asin": "B0FBG138ND",
+    "allowed_price_cells": {
+      "MN": 10.44,
+      "MO": "2026-11-01",
+      "MP": "2026-11-30",
+      "MS": 9.49,
+      "MX": "Percent",
+      "MY": 2,
+      "MZ": 3,
+      "NA": 5,
+      "NB": 5,
+      "NC": 10,
+      "ND": 8
+    },
+    "regular_price_unchanged": 10.99,
+    "sale_price": 10.44,
+    "business_price": 9.49,
+    "minimum_business_unit_price": 8.73,
+    "maximum_stack_cash": 3.68,
+    "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+    "evidence": [
+      "fba-fees-page2.txt",
+      "category-report-raw.json 全五档阶梯无未覆盖残留",
+      "promotion-active-dashboard-v4.txt",
+      "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+    ],
+    "old_tiers": {
+      "MX": "Percent",
+      "MY": 2,
+      "MZ": "3.0",
+      "NA": null,
+      "NB": null,
+      "NC": null,
+      "ND": null,
+      "NE": null,
+      "NF": null,
+      "NG": null,
+      "NH": null
+    },
+    "ordinary_base": 10.99,
+    "effective_after": 10.44,
+    "sale_before": null,
+    "sale_new": 10.44,
+    "sale_drop_percent": 5.0,
+    "sale_start": "2026-11-01",
+    "sale_end_exclusive": "2026-11-30",
+    "business_tiers": [
+      [
+        2,
+        3
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        10,
+        8
+      ]
+    ],
+    "maximum_cumulative_business_discount_percent": 20.56
+  },
+  {
+    "sku": "AAAA 4A 304-Full Glue",
+    "asin": "B07FK975YB",
+    "allowed_price_cells": {
+      "MN": 11.04,
+      "MO": "2026-11-01",
+      "MP": "2026-11-30",
+      "MS": 10.99,
+      "MX": "Percent",
+      "MY": 2,
+      "MZ": 3,
+      "NA": 5,
+      "NB": 5,
+      "NC": 10,
+      "ND": 8
+    },
+    "regular_price_unchanged": 12.99,
+    "sale_price": 11.04,
+    "business_price": 10.99,
+    "minimum_business_unit_price": 10.11,
+    "maximum_stack_cash": 4.85,
+    "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+    "evidence": [
+      "fba-fees-page5.txt",
+      "category-report-raw.json 全五档阶梯无未覆盖残留",
+      "promotion-active-dashboard-v4.txt",
+      "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+    ],
+    "old_tiers": {
+      "MX": "Percent",
+      "MY": 2,
+      "MZ": "3.0",
+      "NA": null,
+      "NB": null,
+      "NC": null,
+      "ND": null,
+      "NE": null,
+      "NF": null,
+      "NG": null,
+      "NH": null
+    },
+    "ordinary_base": 12.99,
+    "effective_after": 11.04,
+    "sale_before": null,
+    "sale_new": 11.04,
+    "sale_drop_percent": 15.01,
+    "sale_start": "2026-11-01",
+    "sale_end_exclusive": "2026-11-30",
+    "business_tiers": [
+      [
+        2,
+        3
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        10,
+        8
+      ]
+    ],
+    "maximum_cumulative_business_discount_percent": 22.17
+  },
+  {
+    "sku": "4A 302-Full Adhesive-400",
+    "asin": "B0F2TKL2P5",
+    "allowed_price_cells": {
+      "MN": 16.19,
+      "MO": "2026-11-01",
+      "MP": "2026-11-30",
+      "MS": 15.99,
+      "MX": "Percent",
+      "MY": 2,
+      "MZ": 3,
+      "NA": 5,
+      "NB": 5,
+      "NC": 10,
+      "ND": 8
+    },
+    "regular_price_unchanged": 17.99,
+    "sale_price": 16.19,
+    "business_price": 15.99,
+    "minimum_business_unit_price": 14.71,
+    "maximum_stack_cash": 8.14,
+    "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+    "evidence": [
+      "fba-fees-page2.txt",
+      "category-report-raw.json 全五档阶梯无未覆盖残留",
+      "promotion-active-dashboard-v4.txt",
+      "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+    ],
+    "old_tiers": {
+      "MX": "Percent",
+      "MY": 2,
+      "MZ": "2.0",
+      "NA": null,
+      "NB": null,
+      "NC": null,
+      "ND": null,
+      "NE": null,
+      "NF": null,
+      "NG": null,
+      "NH": null
+    },
+    "ordinary_base": 17.99,
+    "effective_after": 16.19,
+    "sale_before": null,
+    "sale_new": 16.19,
+    "sale_drop_percent": 10.01,
+    "sale_start": "2026-11-01",
+    "sale_end_exclusive": "2026-11-30",
+    "business_tiers": [
+      [
+        2,
+        3
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        10,
+        8
+      ]
+    ],
+    "maximum_cumulative_business_discount_percent": 18.23
+  },
+  {
+    "sku": "4A 305-Full Adhesive-300",
+    "asin": "B07QXJZKHC",
+    "allowed_price_cells": {
+      "MN": 18.69,
+      "MO": "2026-11-01",
+      "MP": "2026-11-30",
+      "MS": 18.49,
+      "MX": "Percent",
+      "MY": 2,
+      "MZ": 3,
+      "NA": 5,
+      "NB": 5,
+      "NC": 10,
+      "ND": 8
+    },
+    "regular_price_unchanged": 21.99,
+    "sale_price": 18.69,
+    "business_price": 18.49,
+    "minimum_business_unit_price": 17.01,
+    "maximum_stack_cash": 9.82,
+    "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+    "evidence": [
+      "fba-fees-page3.txt",
+      "category-report-raw.json 全五档阶梯无未覆盖残留",
+      "promotion-active-dashboard-v4.txt",
+      "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+    ],
+    "old_tiers": {
+      "MX": "Percent",
+      "MY": 2,
+      "MZ": "3.0",
+      "NA": null,
+      "NB": null,
+      "NC": null,
+      "ND": null,
+      "NE": null,
+      "NF": null,
+      "NG": null,
+      "NH": null
+    },
+    "ordinary_base": 21.99,
+    "effective_after": 18.69,
+    "sale_before": null,
+    "sale_new": 18.69,
+    "sale_drop_percent": 15.01,
+    "sale_start": "2026-11-01",
+    "sale_end_exclusive": "2026-11-30",
+    "business_tiers": [
+      [
+        2,
+        3
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        10,
+        8
+      ]
+    ],
+    "maximum_cumulative_business_discount_percent": 22.65
+  },
+  {
+    "sku": "AAAA 4A 305-Full Glue",
+    "asin": "B07FK9BYHW",
+    "allowed_price_cells": {
+      "MN": 12.74,
+      "MO": "2026-11-01",
+      "MP": "2026-11-30",
+      "MS": 12.49,
+      "MX": "Percent",
+      "MY": 2,
+      "MZ": 3,
+      "NA": 5,
+      "NB": 5,
+      "NC": 10,
+      "ND": 8
+    },
+    "regular_price_unchanged": 14.99,
+    "sale_price": 12.74,
+    "business_price": 12.49,
+    "minimum_business_unit_price": 11.49,
+    "maximum_stack_cash": 5.41,
+    "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+    "evidence": [
+      "fba-fees-page5.txt",
+      "category-report-raw.json 全五档阶梯无未覆盖残留",
+      "promotion-active-dashboard-v4.txt",
+      "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+    ],
+    "old_tiers": {
+      "MX": null,
+      "MY": null,
+      "MZ": null,
+      "NA": null,
+      "NB": null,
+      "NC": null,
+      "ND": null,
+      "NE": null,
+      "NF": null,
+      "NG": null,
+      "NH": null
+    },
+    "ordinary_base": 14.99,
+    "effective_after": 12.74,
+    "sale_before": null,
+    "sale_new": 12.74,
+    "sale_drop_percent": 15.01,
+    "sale_start": "2026-11-01",
+    "sale_end_exclusive": "2026-11-30",
+    "business_tiers": [
+      [
+        2,
+        3
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        10,
+        8
+      ]
+    ],
+    "maximum_cumulative_business_discount_percent": 23.35
+  },
+  {
+    "sku": "4A PSS 9-3 2 Sets",
+    "asin": "B0DYNL5SMR",
+    "allowed_price_cells": {
+      "MN": 20.39,
+      "MO": "2026-11-01",
+      "MP": "2026-11-30",
+      "ML": 20.39,
+      "MS": 19.99,
+      "MX": "Percent",
+      "MY": 3,
+      "MZ": 2,
+      "NA": 5,
+      "NB": 4
+    },
+    "regular_price_unchanged": 23.99,
+    "sale_price": 20.39,
+    "business_price": 19.99,
+    "minimum_business_unit_price": 19.19,
+    "maximum_stack_cash": 11.67,
+    "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+    "evidence": [
+      "fba-fees-page2.txt",
+      "category-report-raw.json 全五档阶梯无未覆盖残留",
+      "promotion-active-dashboard-v4.txt",
+      "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+    ],
+    "old_tiers": {
+      "MX": "Percent",
+      "MY": 5,
+      "MZ": "24.99",
+      "NA": 30,
+      "NB": "22.49",
+      "NC": null,
+      "ND": null,
+      "NE": null,
+      "NF": null,
+      "NG": null,
+      "NH": null
+    },
+    "ordinary_base": 23.99,
+    "effective_after": 20.39,
+    "sale_before": null,
+    "sale_new": 20.39,
+    "sale_drop_percent": 15.01,
+    "sale_start": "2026-11-01",
+    "sale_end_exclusive": "2026-11-30",
+    "business_tiers": [
+      [
+        3,
+        2
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "maximum_cumulative_business_discount_percent": 20.01
+  },
+  {
+    "sku": "4A 305 x 6",
+    "asin": "B01MSZM8IC",
+    "allowed_price_cells": {
+      "MN": 12.74,
+      "MO": "2026-11-01",
+      "MP": "2026-11-30",
+      "MS": 12.74,
+      "MX": "Percent",
+      "MY": 3,
+      "MZ": 2,
+      "NA": 5,
+      "NB": 4
+    },
+    "regular_price_unchanged": 14.99,
+    "sale_price": 12.74,
+    "business_price": 12.74,
+    "minimum_business_unit_price": 12.23,
+    "maximum_stack_cash": 5.34,
+    "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+    "evidence": [
+      "fba-fees-page5.txt",
+      "category-report-raw.json 全五档阶梯无未覆盖残留",
+      "promotion-active-dashboard-v4.txt",
+      "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+    ],
+    "old_tiers": {
+      "MX": null,
+      "MY": null,
+      "MZ": null,
+      "NA": null,
+      "NB": null,
+      "NC": null,
+      "ND": null,
+      "NE": null,
+      "NF": null,
+      "NG": null,
+      "NH": null
+    },
+    "ordinary_base": 14.99,
+    "effective_after": 12.74,
+    "sale_before": null,
+    "sale_new": 12.74,
+    "sale_drop_percent": 15.01,
+    "sale_start": "2026-11-01",
+    "sale_end_exclusive": "2026-11-30",
+    "business_tiers": [
+      [
+        3,
+        2
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "maximum_cumulative_business_discount_percent": 18.41
+  },
+  {
+    "sku": "4A PSS 9-3 Refill",
+    "asin": "B0DY12Y8FK",
+    "allowed_price_cells": {
+      "MN": 24.69,
+      "MO": "2026-11-01",
+      "MP": "2026-11-30",
+      "MS": 24.69,
+      "MX": "Percent",
+      "MY": 3,
+      "MZ": 2,
+      "NA": 5,
+      "NB": 4
+    },
+    "regular_price_unchanged": 25.99,
+    "sale_price": 24.69,
+    "business_price": 24.69,
+    "minimum_business_unit_price": 23.7,
+    "maximum_stack_cash": 15.79,
+    "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+    "evidence": [
+      "fba-fees-page2.txt",
+      "category-report-raw.json 全五档阶梯无未覆盖残留",
+      "promotion-active-dashboard-v4.txt",
+      "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+    ],
+    "old_tiers": {
+      "MX": null,
+      "MY": null,
+      "MZ": null,
+      "NA": null,
+      "NB": null,
+      "NC": null,
+      "ND": null,
+      "NE": null,
+      "NF": null,
+      "NG": null,
+      "NH": null
+    },
+    "ordinary_base": 25.99,
+    "effective_after": 24.69,
+    "sale_before": null,
+    "sale_new": 24.69,
+    "sale_drop_percent": 5.0,
+    "sale_start": "2026-11-01",
+    "sale_end_exclusive": "2026-11-30",
+    "business_tiers": [
+      [
+        3,
+        2
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "maximum_cumulative_business_discount_percent": 8.81
+  },
+  {
+    "sku": "4A MG30312",
+    "asin": "B01MU0JZHU",
+    "allowed_price_cells": {
+      "MN": 9.34,
+      "MO": "2026-11-01",
+      "MP": "2026-11-30",
+      "MS": 9.34,
+      "MX": "Percent",
+      "MY": 3,
+      "MZ": 2,
+      "NA": 5,
+      "NB": 4
+    },
+    "regular_price_unchanged": 10.99,
+    "sale_price": 9.34,
+    "business_price": 9.34,
+    "minimum_business_unit_price": 8.97,
+    "maximum_stack_cash": 2.09,
+    "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+    "evidence": [
+      "fba-fees-page6.txt",
+      "category-report-raw.json 全五档阶梯无未覆盖残留",
+      "promotion-active-dashboard-v4.txt",
+      "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+    ],
+    "old_tiers": {
+      "MX": null,
+      "MY": null,
+      "MZ": null,
+      "NA": null,
+      "NB": null,
+      "NC": null,
+      "ND": null,
+      "NE": null,
+      "NF": null,
+      "NG": null,
+      "NH": null
+    },
+    "ordinary_base": 10.99,
+    "effective_after": 9.34,
+    "sale_before": null,
+    "sale_new": 9.34,
+    "sale_drop_percent": 15.01,
+    "sale_start": "2026-11-01",
+    "sale_end_exclusive": "2026-11-30",
+    "business_tiers": [
+      [
+        3,
+        2
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "maximum_cumulative_business_discount_percent": 18.38
+  },
+  {
+    "sku": "4A BP 2222-Nx4",
+    "asin": "B07RT4GTLZ",
+    "allowed_price_cells": {
+      "MN": 54.39,
+      "MO": "2026-11-01",
+      "MP": "2026-11-30",
+      "MS": 54.39,
+      "MX": "Percent",
+      "MY": 3,
+      "MZ": 2,
+      "NA": 5,
+      "NB": 4
+    },
+    "regular_price_unchanged": 63.99,
+    "sale_price": 54.39,
+    "business_price": 54.39,
+    "minimum_business_unit_price": 52.21,
+    "maximum_stack_cash": 32.74,
+    "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+    "evidence": [
+      "fba-fees-page3.txt",
+      "category-report-raw.json 全五档阶梯无未覆盖残留",
+      "promotion-active-dashboard-v4.txt",
+      "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+    ],
+    "old_tiers": {
+      "MX": null,
+      "MY": null,
+      "MZ": null,
+      "NA": null,
+      "NB": null,
+      "NC": null,
+      "ND": null,
+      "NE": null,
+      "NF": null,
+      "NG": null,
+      "NH": null
+    },
+    "ordinary_base": 63.99,
+    "effective_after": 54.39,
+    "sale_before": null,
+    "sale_new": 54.39,
+    "sale_drop_percent": 15.0,
+    "sale_start": "2026-11-01",
+    "sale_end_exclusive": "2026-11-30",
+    "business_tiers": [
+      [
+        3,
+        2
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "maximum_cumulative_business_discount_percent": 18.41
+  },
+  {
+    "sku": "4A 305x6-N-Lx4",
+    "asin": "B0F28LXKKF",
+    "allowed_price_cells": {
+      "MN": 30.59,
+      "MO": "2026-11-01",
+      "MP": "2026-11-30",
+      "MS": 30.59,
+      "MX": "Percent",
+      "MY": 3,
+      "MZ": 2,
+      "NA": 5,
+      "NB": 4
+    },
+    "regular_price_unchanged": 35.99,
+    "sale_price": 30.59,
+    "business_price": 30.59,
+    "minimum_business_unit_price": 29.37,
+    "maximum_stack_cash": 17.0,
+    "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+    "evidence": [
+      "fba-fees-page2.txt",
+      "category-report-raw.json 全五档阶梯无未覆盖残留",
+      "promotion-active-dashboard-v4.txt",
+      "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+    ],
+    "old_tiers": {
+      "MX": null,
+      "MY": null,
+      "MZ": null,
+      "NA": null,
+      "NB": null,
+      "NC": null,
+      "ND": null,
+      "NE": null,
+      "NF": null,
+      "NG": null,
+      "NH": null
+    },
+    "ordinary_base": 35.99,
+    "effective_after": 30.59,
+    "sale_before": null,
+    "sale_new": 30.59,
+    "sale_drop_percent": 15.0,
+    "sale_start": "2026-11-01",
+    "sale_end_exclusive": "2026-11-30",
+    "business_tiers": [
+      [
+        3,
+        2
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "maximum_cumulative_business_discount_percent": 18.39
+  },
+  {
+    "sku": "4A 30132",
+    "asin": "B07RQ7JMV9",
+    "allowed_price_cells": {
+      "MN": 11.04,
+      "MO": "2026-11-01",
+      "MP": "2026-11-30",
+      "MS": 11.04,
+      "MX": "Percent",
+      "MY": 3,
+      "MZ": 2,
+      "NA": 5,
+      "NB": 4
+    },
+    "regular_price_unchanged": 12.99,
+    "sale_price": 11.04,
+    "business_price": 11.04,
+    "minimum_business_unit_price": 10.6,
+    "maximum_stack_cash": 2.64,
+    "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+    "evidence": [
+      "fba-fees-page3.txt",
+      "category-report-raw.json 全五档阶梯无未覆盖残留",
+      "promotion-active-dashboard-v4.txt",
+      "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+    ],
+    "old_tiers": {
+      "MX": null,
+      "MY": null,
+      "MZ": null,
+      "NA": null,
+      "NB": null,
+      "NC": null,
+      "ND": null,
+      "NE": null,
+      "NF": null,
+      "NG": null,
+      "NH": null
+    },
+    "ordinary_base": 12.99,
+    "effective_after": 11.04,
+    "sale_before": null,
+    "sale_new": 11.04,
+    "sale_drop_percent": 15.01,
+    "sale_start": "2026-11-01",
+    "sale_end_exclusive": "2026-11-30",
+    "business_tiers": [
+      [
+        3,
+        2
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "maximum_cumulative_business_discount_percent": 18.4
+  },
+  {
+    "sku": "4A 303M-PNx12*4",
+    "asin": "B07M855HVB",
+    "allowed_price_cells": {
+      "MN": 33.99,
+      "MO": "2026-11-01",
+      "MP": "2026-11-30",
+      "MS": 33.99,
+      "MX": "Percent",
+      "MY": 3,
+      "MZ": 2,
+      "NA": 5,
+      "NB": 4
+    },
+    "regular_price_unchanged": 39.99,
+    "sale_price": 33.99,
+    "business_price": 33.99,
+    "minimum_business_unit_price": 32.63,
+    "maximum_stack_cash": 19.3,
+    "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+    "evidence": [
+      "fba-fees-page4.txt",
+      "category-report-raw.json 全五档阶梯无未覆盖残留",
+      "promotion-active-dashboard-v4.txt",
+      "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+    ],
+    "old_tiers": {
+      "MX": null,
+      "MY": null,
+      "MZ": null,
+      "NA": null,
+      "NB": null,
+      "NC": null,
+      "ND": null,
+      "NE": null,
+      "NF": null,
+      "NG": null,
+      "NH": null
+    },
+    "ordinary_base": 39.99,
+    "effective_after": 33.99,
+    "sale_before": null,
+    "sale_new": 33.99,
+    "sale_drop_percent": 15.0,
+    "sale_start": "2026-11-01",
+    "sale_end_exclusive": "2026-11-30",
+    "business_tiers": [
+      [
+        3,
+        2
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "maximum_cumulative_business_discount_percent": 18.4
+  },
+  {
+    "sku": "4A SC303M15-Popup",
+    "asin": "B07WDWY3B2",
+    "allowed_price_cells": {
+      "MN": 16.14,
+      "MO": "2026-11-01",
+      "MP": "2026-11-30",
+      "MS": 16.14,
+      "MX": "Percent",
+      "MY": 2,
+      "MZ": 2
+    },
+    "regular_price_unchanged": 18.99,
+    "sale_price": 16.14,
+    "business_price": 16.14,
+    "minimum_business_unit_price": 15.82,
+    "maximum_stack_cash": 7.52,
+    "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+    "evidence": [
+      "fba-fees-page3.txt",
+      "category-report-raw.json 全五档阶梯无未覆盖残留",
+      "promotion-active-dashboard-v4.txt",
+      "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+    ],
+    "old_tiers": {
+      "MX": null,
+      "MY": null,
+      "MZ": null,
+      "NA": null,
+      "NB": null,
+      "NC": null,
+      "ND": null,
+      "NE": null,
+      "NF": null,
+      "NG": null,
+      "NH": null
+    },
+    "ordinary_base": 18.99,
+    "effective_after": 16.14,
+    "sale_before": null,
+    "sale_new": 16.14,
+    "sale_drop_percent": 15.01,
+    "sale_start": "2026-11-01",
+    "sale_end_exclusive": "2026-11-30",
+    "business_tiers": [
+      [
+        2,
+        2
+      ]
+    ],
+    "maximum_cumulative_business_discount_percent": 16.69
+  },
+  {
+    "sku": "4A 0130",
+    "asin": "B0756ZY4F8",
+    "allowed_price_cells": {
+      "MN": 10.19,
+      "MO": "2026-11-01",
+      "MP": "2026-11-30",
+      "MS": 10.19,
+      "MX": "Percent",
+      "MY": 2,
+      "MZ": 2
+    },
+    "regular_price_unchanged": 11.99,
+    "sale_price": 10.19,
+    "business_price": 10.19,
+    "minimum_business_unit_price": 9.99,
+    "maximum_stack_cash": 4.38,
+    "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+    "evidence": [
+      "fba-fees-page5.txt",
+      "category-report-raw.json 全五档阶梯无未覆盖残留",
+      "promotion-active-dashboard-v4.txt",
+      "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+    ],
+    "old_tiers": {
+      "MX": null,
+      "MY": null,
+      "MZ": null,
+      "NA": null,
+      "NB": null,
+      "NC": null,
+      "ND": null,
+      "NE": null,
+      "NF": null,
+      "NG": null,
+      "NH": null
+    },
+    "ordinary_base": 11.99,
+    "effective_after": 10.19,
+    "sale_before": null,
+    "sale_new": 10.19,
+    "sale_drop_percent": 15.01,
+    "sale_start": "2026-11-01",
+    "sale_end_exclusive": "2026-11-30",
+    "business_tiers": [
+      [
+        2,
+        2
+      ]
+    ],
+    "maximum_cumulative_business_discount_percent": 16.68
+  },
+  {
+    "sku": "4A 30512-L",
+    "asin": "B07RQ7B9QR",
+    "allowed_price_cells": {
+      "MN": 20.39,
+      "MO": "2026-11-01",
+      "MP": "2026-11-30",
+      "MS": 20.39,
+      "MX": "Percent",
+      "MY": 2,
+      "MZ": 2
+    },
+    "regular_price_unchanged": 23.99,
+    "sale_price": 20.39,
+    "business_price": 20.39,
+    "minimum_business_unit_price": 19.98,
+    "maximum_stack_cash": 10.61,
+    "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+    "evidence": [
+      "fba-fees-page3.txt",
+      "category-report-raw.json 全五档阶梯无未覆盖残留",
+      "promotion-active-dashboard-v4.txt",
+      "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+    ],
+    "old_tiers": {
+      "MX": null,
+      "MY": null,
+      "MZ": null,
+      "NA": null,
+      "NB": null,
+      "NC": null,
+      "ND": null,
+      "NE": null,
+      "NF": null,
+      "NG": null,
+      "NH": null
+    },
+    "ordinary_base": 23.99,
+    "effective_after": 20.39,
+    "sale_before": null,
+    "sale_new": 20.39,
+    "sale_drop_percent": 15.01,
+    "sale_start": "2026-11-01",
+    "sale_end_exclusive": "2026-11-30",
+    "business_tiers": [
+      [
+        2,
+        2
+      ]
+    ],
+    "maximum_cumulative_business_discount_percent": 16.72
+  }
+]

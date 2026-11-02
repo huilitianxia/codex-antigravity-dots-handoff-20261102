@@ -1,0 +1,232 @@
+{
+  "sku": "4A 5088-N-L",
+  "asin": "B07RP9MB7Y",
+  "spec": "5 × 8 in · 8 pads × 50 sheets · 400 sheets",
+  "checked_at": "2026-10-30 Asia/Shanghai",
+  "catalog_url": "https://www.amazon.com/dp/B07RP9MB7Y",
+  "catalog_evidence": "../_核验依据/Amazon_catalog_20261030.json",
+  "catalog_correction": "当前主图与包装为八本混合亮色，包含珊瑚、浅黄、紫、蓝、绿、黄、粉、橙；不能写成四种颜色各两本。文案采用Assorted bright colors。",
+  "reference_files": [
+    {
+      "original": "E:/Desktop/待上架_新图文素材库_第三批/_核验依据/B07RP9MB7Y_00.jpg",
+      "copy": "原图参考/01_B07RP9MB7Y_00.jpg",
+      "sha256": "43acb524b4199f3efa11a0b0fe9b4bf0a55c3efb09456adf8b742f5fce1f93f2"
+    },
+    {
+      "original": "E:/Desktop/待上架_新图文素材库_第三批/_核验依据/B07RP9MB7Y_01.jpg",
+      "copy": "原图参考/02_B07RP9MB7Y_01.jpg",
+      "sha256": "8f832f0b5c5fcd2c0b18f2f99a7e14fa1eacea55cbd4b322b9999cd1f82417e7"
+    },
+    {
+      "original": "D:/4A/印刷用图片/电商/亚马逊图片-2021/1-----4A Stiky notes/4A 5088-N-L/702877124673.pt01.jpg",
+      "copy": "原图参考/03_702877124673.pt01.jpg",
+      "sha256": "8e03ab82c01736e4d80d694207ddd976a58e2fd06b2fcba22b7a3ba36b02c2b2"
+    }
+  ],
+  "images": [
+    {
+      "id": "5088NL_01",
+      "title": "主图｜八本混色",
+      "type": "main",
+      "order": 1,
+      "sku": "4A 5088-N-L",
+      "asin": "B07RP9MB7Y",
+      "file": "交付候选_2000px/5088NL_01.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:/OpenAI-Codex/CodexHome/generated_images/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/exec-34adb508-114d-4d02-8524-4c0d20ed9462.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/5088NL_01.png",
+      "resize_method": "透明生成源图按alpha裁切，Lanczos3等比缩放，居中合成RGB255白底",
+      "reference_files": [
+        "原图参考/01_B07RP9MB7Y_00.jpg",
+        "原图参考/02_B07RP9MB7Y_01.jpg",
+        "原图参考/03_702877124673.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "八本独立可数，混合八色按当前图示；无文案或额外道具。",
+      "remaining_checks": "50张/本的厚度、真实色值及行距仍需实物核样。",
+      "technical": {
+        "background_rgb": [
+          255,
+          255,
+          255
+        ],
+        "border60_checked": 465600,
+        "border60_white": 465600,
+        "white_background_pass": true,
+        "safety_margins_including_shadow": [
+          61,
+          113,
+          61,
+          114
+        ],
+        "margin_pass": true,
+        "product_bbox_alpha230": {
+          "left": 128,
+          "top": 159,
+          "width": 1775,
+          "height": 1721
+        },
+        "product_longest_span_percent": 88.75,
+        "occupancy_pass": true,
+        "occupancy_definition": "alpha>230实体近似外接框最长边/2000；不是画幅面积占比。"
+      },
+      "sha256": "7bca67d348855a7fae0c7cbe4524736303a3db5a753b63c211dabd112bfc97dd"
+    },
+    {
+      "id": "5088NL_02",
+      "title": "精确尺寸与面积对比",
+      "type": "secondary",
+      "order": 2,
+      "sku": "4A 5088-N-L",
+      "asin": "B07RP9MB7Y",
+      "file": "交付候选_2000px/5088NL_02.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:/Desktop/待上架_新图文素材库_第三批/5088NL/生成源图/5088NL_02_exact.svg",
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "source_copy": "生成源图/5088NL_02_exact.svg",
+      "resize_method": "原生2000×2000 SVG按同一物理比例绘制后渲染PNG；非AI放大",
+      "reference_files": [
+        "原图参考/01_B07RP9MB7Y_00.jpg",
+        "原图参考/02_B07RP9MB7Y_01.jpg",
+        "原图参考/03_702877124673.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "原生SVG：650×1040与390×390，统一130px/in；面积比40/9约4.44。",
+      "remaining_checks": "属于尺寸示意；3×3对照便签不包含；不把面积当成书写效率。",
+      "technical": {
+        "scale_px_per_inch": 130,
+        "rectangles_px": [
+          [
+            650,
+            1040
+          ],
+          [
+            390,
+            390
+          ]
+        ],
+        "area_ratio": 4.444444444444445
+      },
+      "sha256": "112de0ada58574e7a2a604f34c533dc0e6f82d063d02c5dc5bd7c3be7b0b40a3"
+    },
+    {
+      "id": "5088NL_03",
+      "title": "会议纪要",
+      "type": "secondary",
+      "order": 3,
+      "sku": "4A 5088-N-L",
+      "asin": "B07RP9MB7Y",
+      "file": "交付候选_2000px/5088NL_03.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-be1653a4-c877-40ba-a8c8-97ee4d7f6eab.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/5088NL_03.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07RP9MB7Y_00.jpg",
+        "原图参考/02_B07RP9MB7Y_01.jpg",
+        "原图参考/03_702877124673.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "5×8纵向橙色横线本，会议手写示例；无不透墨承诺。",
+      "remaining_checks": "实际行距、纸厚及笔与纸尺度需核样。",
+      "technical": {},
+      "sha256": "b53678d36084142884de29ef6dcbff5a279b4529813721fa78306faef17770e2"
+    },
+    {
+      "id": "5088NL_04",
+      "title": "撕取与平贴",
+      "type": "secondary",
+      "order": 4,
+      "sku": "4A 5088-N-L",
+      "asin": "B07RP9MB7Y",
+      "file": "交付候选_2000px/5088NL_04.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-42965311-88af-4fea-9747-0469ed944081.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/5088NL_04.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07RP9MB7Y_00.jpg",
+        "原图参考/02_B07RP9MB7Y_01.jpg",
+        "原图参考/03_702877124673.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "单张撕取与平整贴附分栏；没有磁铁图钉胶带。",
+      "remaining_checks": "背景有额外展示叠本，并非整包数量主图；纸厚、动作与粘贴性能需核样。",
+      "technical": {},
+      "sha256": "606ceacef316cfa28db2e99e42241ac9fd47ef6c3ffcb12ed38460d14bae3c78"
+    },
+    {
+      "id": "5088NL_05",
+      "title": "团队周计划",
+      "type": "secondary",
+      "order": 5,
+      "sku": "4A 5088-N-L",
+      "asin": "B07RP9MB7Y",
+      "file": "交付候选_2000px/5088NL_05.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-c8fef800-43be-4fda-8882-1ea17824688a.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/5088NL_05.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07RP9MB7Y_00.jpg",
+        "原图参考/02_B07RP9MB7Y_01.jpg",
+        "原图参考/03_702877124673.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "五天团队看板；8×50=400规格正确；便签贴附平整。",
+      "remaining_checks": "前景叠本厚度及看板比例需实物核样；不宣称永不卷边。",
+      "technical": {},
+      "sha256": "9a70c3bbe7df52c87b7d2275d5bcd836d366b84e788f6ce0c551cd9fa2462eab"
+    }
+  ],
+  "global_note": "本地设计交付，不等于实物核样或Amazon上架批准。未加入缺乏证据的80 GSM承诺。原始素材保留。"
+}

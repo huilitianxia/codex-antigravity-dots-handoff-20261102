@@ -1,0 +1,137 @@
+[
+  {
+    "asin": "B07T42DXZ1",
+    "sku": "4A 354832-FBA",
+    "price": 14.99,
+    "units_current": 2,
+    "sales_units_ui": null,
+    "b2b": 14.49,
+    "fba_fee": 5.06,
+    "total_fee": 7.31,
+    "sale_visible": null,
+    "minimum": null,
+    "units30_fba": 0,
+    "age365plus": 0,
+    "catalog_label_issues": [
+      {
+        "sku": "4A 354832-FBA",
+        "size": "48 Pads (2 Towers) (Pack 2)",
+        "parent": "PARENT-4A-301-MINI-PADS"
+      }
+    ]
+  },
+  {
+    "asin": "B01M617ZTH",
+    "sku": "4A 037",
+    "price": 12.99,
+    "units_current": 2,
+    "sales_units_ui": 1,
+    "b2b": null,
+    "fba_fee": 5.53,
+    "total_fee": 7.48,
+    "sale_visible": null,
+    "minimum": null,
+    "units30_fba": 1,
+    "age365plus": 2,
+    "catalog_label_issues": [
+      {
+        "sku": "4A 037",
+        "size": "2 Pads Pack (Pack 12)",
+        "parent": "PARENT-4A-608-XLARGE-6X8"
+      },
+      {
+        "sku": "4A GM608x2-N-L YG",
+        "size": "2 Pads Pack (Pack 10)",
+        "parent": "PARENT-4A-608-XLARGE-6X8"
+      }
+    ]
+  },
+  {
+    "asin": "B07FKJDBFT",
+    "sku": "AAAA 4A SMC 436",
+    "price": 12.99,
+    "units_current": 1,
+    "sales_units_ui": 0,
+    "b2b": null,
+    "fba_fee": 4.64,
+    "total_fee": 6.59,
+    "sale_visible": null,
+    "minimum": null,
+    "units30_fba": 0,
+    "age365plus": 0,
+    "catalog_label_issues": [
+      {
+        "sku": "4A GMSCSMC 436",
+        "size": "Standard Size (Pack 3)",
+        "parent": "PARENT-4A-MEMO-NOTE-CUBES"
+      }
+    ]
+  },
+  {
+    "asin": "B0821GTX3C",
+    "sku": "4A SCLB 1902",
+    "price": 9.99,
+    "units_current": 1,
+    "sales_units_ui": 1,
+    "b2b": null,
+    "fba_fee": 2.77,
+    "total_fee": 4.27,
+    "sale_visible": null,
+    "minimum": null,
+    "units30_fba": 0,
+    "age365plus": 0,
+    "catalog_label_issues": [
+      {
+        "sku": "4A LB 1902",
+        "size": "Standard Size (Pack 5)",
+        "parent": "PARENT-4A-LABEL-STICKERS"
+      },
+      {
+        "sku": "4A SCLB 1902",
+        "size": "Standard Size (Pack 3)",
+        "parent": "PARENT-4A-LABEL-STICKERS"
+      }
+    ]
+  },
+  {
+    "asin": "B07K8L4K8K",
+    "sku": "4A BS 1801",
+    "price": 17.99,
+    "units_current": 1,
+    "sales_units_ui": 1,
+    "b2b": 17.98,
+    "fba_fee": 4.36,
+    "total_fee": 7.06,
+    "sale_visible": null,
+    "minimum": 14.99,
+    "units30_fba": 1,
+    "age365plus": 1,
+    "catalog_label_issues": [
+      {
+        "sku": "4A BS 1801",
+        "size": "Standard Size (Pack 3)",
+        "parent": "PARENT-4A-BS-EXECUTIVE-LEATHER"
+      },
+      {
+        "sku": "4A GMBS 1801",
+        "size": "Standard Size (Pack 2)",
+        "parent": "PARENT-4A-BS-EXECUTIVE-LEATHER"
+      }
+    ]
+  },
+  {
+    "asin": "B01LPKL5IE",
+    "sku": "4A 6533-FBA",
+    "price": 13.99,
+    "units_current": 1,
+    "sales_units_ui": null,
+    "b2b": 13.49,
+    "fba_fee": 4.13,
+    "total_fee": 6.23,
+    "sale_visible": null,
+    "minimum": null,
+    "units30_fba": 0,
+    "age365plus": 0,
+    "catalog_label_issues": []
+  }
+]

@@ -1,0 +1,804 @@
+{
+  "updated": "2026-11-01T16:17:27.6136091+08:00",
+  "existing15_before": [
+    "B07RN7WQ81",
+    "B01N1U9USQ",
+    "B07FKHHTYG",
+    "B07QZR9Z3P",
+    "B07B8RBCKT",
+    "B07FKBHTDG",
+    "B07T79KGWM",
+    "B07T42D4GL",
+    "B01N6IT5IG",
+    "B07QWKWWP2",
+    "B00SMEENOU",
+    "B07R2KSW34",
+    "B07RP9K6KV",
+    "B0F2YHTD8T",
+    "B0F2TJ7ZL7"
+  ],
+  "existing5_before": [
+    "B08DKJ2K3T",
+    "B01LVTWP7Q",
+    "B07F2B49BL",
+    "B0F9L5G6XQ"
+  ],
+  "first8_15_submitted": [
+    "B0F1TZ114W",
+    "B0F1TTFTKQ",
+    "B0F2TJZ8GM",
+    "B07DJKB4FZ",
+    "B07T7PTYQ2",
+    "B07FKB3BRZ",
+    "B07RP9BW5Z",
+    "B07FKJLZNG"
+  ],
+  "current15_running_count": 22,
+  "current5_running_count": 12,
+  "rows": [
+    {
+      "asin": "B00SMEFFRE",
+      "sku": "4A 304 Full Glue",
+      "coupon_percent": null,
+      "status": "STAR_KEEP_REGULAR_PRICE_BUSINESS_ONLY",
+      "audit_file": "coupon-expansion-batch1-review.json",
+      "price": 9.99,
+      "stock": 332
+    },
+    {
+      "asin": "B07FKJM2LX",
+      "sku": "AAAA 4A 5084-N-L",
+      "coupon_percent": 15,
+      "status": "RUNNING_FINAL_5",
+      "audit_file": "coupon-expansion-batch2-readonly-review.json",
+      "price": 19.99,
+      "stock": 161
+    },
+    {
+      "asin": "B07QVKPZXX",
+      "sku": "4A PSS 9-1 Refill",
+      "coupon_percent": 5,
+      "status": "RUNNING_FINAL_5",
+      "audit_file": "coupon-expansion-batch1-review.json",
+      "price": 18.99,
+      "stock": 67
+    },
+    {
+      "asin": "B07FKF5V92",
+      "sku": "AAAA 4A PSS 9-1 NRGrid",
+      "coupon_percent": 15,
+      "status": "RUNNING_FINAL_15",
+      "audit_file": "coupon-expansion-batch2-readonly-review.json",
+      "price": 19.99,
+      "stock": 63
+    },
+    {
+      "asin": "B07F2BHFJH",
+      "sku": "4A 5082-Y-L-GM",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch2-readonly-review.json",
+      "price": 11.99,
+      "stock": 61
+    },
+    {
+      "asin": "B07FK8MF91",
+      "sku": "AAAA 4A PSS 9-1 NBGrid",
+      "coupon_percent": 15,
+      "status": "RUNNING_FINAL_15",
+      "audit_file": "coupon-expansion-batch2-readonly-review.json",
+      "price": 15.99,
+      "stock": 48
+    },
+    {
+      "asin": "B07QWKYMGM",
+      "sku": "4A PSS 9-1 Grid-NBNPx2",
+      "coupon_percent": 15,
+      "status": "RUNNING_FINAL_15",
+      "audit_file": "coupon-expansion-batch2-readonly-review.json",
+      "price": 22.99,
+      "stock": 46
+    },
+    {
+      "asin": "B07FK9S7S8",
+      "sku": "4A PSS 9-3 YORx2",
+      "coupon_percent": 15,
+      "status": "RUNNING_FINAL_5",
+      "audit_file": "coupon-expansion-batch2-readonly-review.json",
+      "price": 18.99,
+      "stock": 43
+    },
+    {
+      "asin": "B0F2TJZ8GM",
+      "sku": "4A BS 1801 Refill",
+      "coupon_percent": 15,
+      "status": "RUNNING_FINAL_15",
+      "audit_file": "coupon-expansion-batch1-review.json",
+      "price": 18.99,
+      "stock": 37
+    },
+    {
+      "asin": "B0F1TZ114W",
+      "sku": "4A 5037x2",
+      "coupon_percent": 15,
+      "status": "EXCLUDED_FROM_FINAL_EXPANSION_AFTER_DEMAND_REVIEW",
+      "audit_file": "coupon-expansion-batch1-review.json",
+      "price": 14.99,
+      "stock": 35
+    },
+    {
+      "asin": "B07DJKB4FZ",
+      "sku": "AAAA 4A 124418",
+      "coupon_percent": 15,
+      "status": "RUNNING_FINAL_15",
+      "audit_file": "coupon-expansion-batch1-review.json",
+      "price": 6.99,
+      "stock": 34
+    },
+    {
+      "asin": "B07FKFMJTL",
+      "sku": "AAAA 4A 40622",
+      "coupon_percent": 15,
+      "status": "RUNNING_FINAL_15",
+      "audit_file": "coupon-expansion-batch2-readonly-review.json",
+      "price": 9.99,
+      "stock": 33
+    },
+    {
+      "asin": "B0F1TTFTKQ",
+      "sku": "4A 5036x2",
+      "coupon_percent": 15,
+      "status": "EXCLUDED_FROM_FINAL_EXPANSION_AFTER_DEMAND_REVIEW",
+      "audit_file": "coupon-expansion-batch1-review.json",
+      "price": 14.99,
+      "stock": 33
+    },
+    {
+      "asin": "B07QXJYKJN",
+      "sku": "4A PSS 9-5 NANBx2",
+      "coupon_percent": 5,
+      "status": "RUNNING_FINAL_5",
+      "audit_file": "coupon-expansion-batch2-readonly-review.json",
+      "price": 24.99,
+      "stock": 33
+    },
+    {
+      "asin": "B07QXJY3FH",
+      "sku": "4A PSS 9-1 NGNOx2",
+      "coupon_percent": 15,
+      "status": "RUNNING_FINAL_15",
+      "audit_file": "coupon-expansion-batch2-readonly-review.json",
+      "price": 22.99,
+      "stock": 27
+    },
+    {
+      "asin": "B07FKHNTRK",
+      "sku": "AAAA 4A SMC 434",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch1-review.json",
+      "price": 15.99,
+      "stock": 26
+    },
+    {
+      "asin": "B07T7PTYQ2",
+      "sku": "4A 60144x2",
+      "coupon_percent": 15,
+      "status": "RUNNING_FINAL_15",
+      "audit_file": "coupon-expansion-batch1-review.json",
+      "price": 18.99,
+      "stock": 26
+    },
+    {
+      "asin": "B07FKB3BRZ",
+      "sku": "AAAA 4A PSS 9-1 NYGrid",
+      "coupon_percent": 15,
+      "status": "RUNNING_FINAL_15",
+      "audit_file": "coupon-expansion-batch1-review.json",
+      "price": 15.99,
+      "stock": 25
+    },
+    {
+      "asin": "B07DJKDB63",
+      "sku": "4A 354818",
+      "coupon_percent": 15,
+      "status": "RUNNING_FINAL_15",
+      "audit_file": "coupon-expansion-batch2-readonly-review.json",
+      "price": 7.99,
+      "stock": 22
+    },
+    {
+      "asin": "B07RP9BW5Z",
+      "sku": "4A 50024",
+      "coupon_percent": 15,
+      "status": "RUNNING_FINAL_15",
+      "audit_file": "coupon-expansion-batch1-review.json",
+      "price": 17.99,
+      "stock": 21
+    },
+    {
+      "asin": "B07FKHHTY4",
+      "sku": "AAAA 4A 406x6-N",
+      "coupon_percent": 15,
+      "status": "RUNNING_FINAL_15",
+      "audit_file": "coupon-expansion-batch2-readonly-review.json",
+      "price": 11.99,
+      "stock": 20
+    },
+    {
+      "asin": "B07JVSYNYV",
+      "sku": "4A BS 1801-FBA",
+      "coupon_percent": 15,
+      "status": "RUNNING_FINAL_5",
+      "audit_file": "coupon-expansion-batch2-readonly-review.json",
+      "price": 14.99,
+      "stock": 20
+    },
+    {
+      "asin": "B07MQVWLSY",
+      "sku": "4A 5084-N-L*4",
+      "coupon_percent": 15,
+      "status": "RUNNING_FINAL_5",
+      "audit_file": "coupon-expansion-batch3-readonly-review.json",
+      "price": 35.99,
+      "stock": 20
+    },
+    {
+      "asin": "B07FKJLZNG",
+      "sku": "AAAA 4A 4012",
+      "coupon_percent": 15,
+      "status": "RUNNING_FINAL_15",
+      "audit_file": "coupon-expansion-batch1-review.json",
+      "price": 10.99,
+      "stock": 17
+    },
+    {
+      "asin": "B01MZ4FDN5",
+      "sku": "4A GM-PSS 9-3 YOR",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch3-readonly-review.json",
+      "price": 11.99,
+      "stock": 13
+    },
+    {
+      "asin": "B07T55VHS6",
+      "sku": "4A GM6035x5",
+      "coupon_percent": 15,
+      "status": "EXCLUDED_FROM_FINAL_EXPANSION_AFTER_DEMAND_REVIEW",
+      "audit_file": "coupon-expansion-batch3-readonly-review.json",
+      "price": 18.99,
+      "stock": 12
+    },
+    {
+      "asin": "B01N1T23HH",
+      "sku": "4A 039",
+      "coupon_percent": 15,
+      "status": "EXCLUDED_FROM_FINAL_EXPANSION_AFTER_DEMAND_REVIEW",
+      "audit_file": "coupon-expansion-batch3-readonly-review.json",
+      "price": 10.99,
+      "stock": 12
+    },
+    {
+      "asin": "B01N0RJSTU",
+      "sku": "4A 032",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch3-readonly-review.json",
+      "price": 11.49,
+      "stock": 12
+    },
+    {
+      "asin": "B07F298JNC",
+      "sku": "4A SMC 438",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch3-readonly-review.json",
+      "price": 12.99,
+      "stock": 10
+    },
+    {
+      "asin": "B077QGRH89",
+      "sku": "4A 0175",
+      "coupon_percent": null,
+      "status": "PARENT_REVIEW_LOW_STACKED_CASH",
+      "audit_file": "coupon-expansion-batch3-readonly-review.json",
+      "price": 7.99,
+      "stock": 10
+    },
+    {
+      "asin": "B00SMEE3XQ",
+      "sku": "4A 6035-FBA",
+      "coupon_percent": 15,
+      "status": "EXCLUDED_FROM_FINAL_EXPANSION_AFTER_DEMAND_REVIEW",
+      "audit_file": "coupon-expansion-batch3-readonly-review.json",
+      "price": 8.99,
+      "stock": 9
+    },
+    {
+      "asin": "B0F1TW5LS8",
+      "sku": "4A 5061x2",
+      "coupon_percent": 15,
+      "status": "EXCLUDED_FROM_FINAL_EXPANSION_AFTER_DEMAND_REVIEW",
+      "audit_file": "coupon-expansion-batch3-readonly-review.json",
+      "price": 14.99,
+      "stock": 8
+    },
+    {
+      "asin": "B07FK81CQ7",
+      "sku": "AAAA 4A 6032",
+      "coupon_percent": 15,
+      "status": "EXCLUDED_FROM_FINAL_EXPANSION_AFTER_DEMAND_REVIEW",
+      "audit_file": "coupon-expansion-batch3-readonly-review.json",
+      "price": 24.99,
+      "stock": 7
+    },
+    {
+      "asin": "B07FKL263W",
+      "sku": "AAAA 4A 406x6",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch3-readonly-review.json",
+      "price": 13.49,
+      "stock": 7
+    },
+    {
+      "asin": "B0821LD25K",
+      "sku": "4A SCPSS 7",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch3-readonly-review.json",
+      "price": 12.99,
+      "stock": 7
+    },
+    {
+      "asin": "B07RBVWVY4",
+      "sku": "4A Meeting 52x4",
+      "coupon_percent": 15,
+      "status": "EXCLUDED_FROM_FINAL_EXPANSION_AFTER_DEMAND_REVIEW",
+      "audit_file": "coupon-expansion-batch4-readonly-review.json",
+      "price": 84.99,
+      "stock": 7
+    },
+    {
+      "asin": "B07T2ZNTGK",
+      "sku": "4A 40609x4",
+      "coupon_percent": 15,
+      "status": "EXCLUDED_FROM_FINAL_EXPANSION_AFTER_DEMAND_REVIEW",
+      "audit_file": "coupon-expansion-batch4-readonly-review.json",
+      "price": 18.99,
+      "stock": 7
+    },
+    {
+      "asin": "B07PVWYS9T",
+      "sku": "4A 406x6-N*2",
+      "coupon_percent": 15,
+      "status": "EXCLUDED_FROM_FINAL_EXPANSION_AFTER_DEMAND_REVIEW",
+      "audit_file": "coupon-expansion-batch4-readonly-review.json",
+      "price": 21.99,
+      "stock": 6
+    },
+    {
+      "asin": "B00SMEE5HU",
+      "sku": "MG-ET8D-JLS7",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch4-readonly-review.json",
+      "price": 13.99,
+      "stock": 5
+    },
+    {
+      "asin": "B07FK8CJ76",
+      "sku": "AAAA 4A 40607",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch4-readonly-review.json",
+      "price": 12.99,
+      "stock": 5
+    },
+    {
+      "asin": "B00SMEEV4C",
+      "sku": "4A5013-B00SM-FBA",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch4-readonly-review.json",
+      "price": 7.2,
+      "stock": 5
+    },
+    {
+      "asin": "B07T55QCRY",
+      "sku": "4A4013-B07T-FBA",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch4-readonly-review.json",
+      "price": 15.99,
+      "stock": 5
+    },
+    {
+      "asin": "B07DLM2QP1",
+      "sku": "4A SMC 435-FBA",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch4-readonly-review.json",
+      "price": 13.99,
+      "stock": 5
+    },
+    {
+      "asin": "B0821GML8W",
+      "sku": "4A SCLB 1901",
+      "coupon_percent": 15,
+      "status": "EXCLUDED_FROM_FINAL_EXPANSION_AFTER_DEMAND_REVIEW",
+      "audit_file": "coupon-expansion-batch4-readonly-review.json",
+      "price": 14.99,
+      "stock": 5
+    },
+    {
+      "asin": "B07J6Q5TTR",
+      "sku": "4A BS 1803-FBA",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch4-readonly-review.json",
+      "price": 12.99,
+      "stock": 5
+    },
+    {
+      "asin": "B073VPHSJ9",
+      "sku": "4A 608S-Lx4",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch4-readonly-review.json",
+      "price": 13.99,
+      "stock": 5
+    },
+    {
+      "asin": "B07RP9MB7Y",
+      "sku": "4A 5088-N-L",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch4-readonly-review.json",
+      "price": 19.99,
+      "stock": 7
+    },
+    {
+      "asin": "B00SMEEN40",
+      "sku": "4A 5061-B00SM-FBA",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch5-readonly-review.json",
+      "price": 7.2,
+      "stock": 5
+    },
+    {
+      "asin": "B00SMEEVCO",
+      "sku": "4A 5059-B00SM-FBA",
+      "coupon_percent": null,
+      "status": "PARENT_REVIEW_LOW_STACKED_CASH",
+      "audit_file": "coupon-expansion-batch5-readonly-review.json",
+      "price": 7.2,
+      "stock": 5
+    },
+    {
+      "asin": "B00SMEEVC4",
+      "sku": "4A 5036-B00SM-FBA",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch5-readonly-review.json",
+      "price": 7.2,
+      "stock": 5
+    },
+    {
+      "asin": "B07T79KGWF",
+      "sku": "4A 5020x3-FBA",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch5-readonly-review.json",
+      "price": 25.99,
+      "stock": 5
+    },
+    {
+      "asin": "B07T42J6FY",
+      "sku": "4A 501516",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch5-readonly-review.json",
+      "price": 7.49,
+      "stock": 5
+    },
+    {
+      "asin": "B07DJG1W71",
+      "sku": "4A 484812-N-FBA",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch5-readonly-review.json",
+      "price": 9.99,
+      "stock": 5
+    },
+    {
+      "asin": "B01N6KXLJ5",
+      "sku": "4A 40608*2",
+      "coupon_percent": 15,
+      "status": "EXCLUDED_FROM_FINAL_EXPANSION_AFTER_DEMAND_REVIEW",
+      "audit_file": "coupon-expansion-batch5-readonly-review.json",
+      "price": 11.99,
+      "stock": 5
+    },
+    {
+      "asin": "B073VPFBL6",
+      "sku": "4A 404S-Lx6",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch5-readonly-review.json",
+      "price": 14.99,
+      "stock": 5
+    },
+    {
+      "asin": "B07Z2555TN",
+      "sku": "4A 404-AC-Holder",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch5-readonly-review.json",
+      "price": 15.99,
+      "stock": 5
+    },
+    {
+      "asin": "B01N7IT411",
+      "sku": "4A 040",
+      "coupon_percent": 15,
+      "status": "EXCLUDED_FROM_FINAL_EXPANSION_AFTER_DEMAND_REVIEW",
+      "audit_file": "coupon-expansion-batch5-readonly-review.json",
+      "price": 9.99,
+      "stock": 5
+    },
+    {
+      "asin": "B077QLHHVH",
+      "sku": "4A 0165",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch5-readonly-review.json",
+      "price": 5.99,
+      "stock": 5
+    },
+    {
+      "asin": "B07FKPY2V6",
+      "sku": "AAAA 4A 608S-Linex4",
+      "coupon_percent": 15,
+      "status": "EXCLUDED_FROM_FINAL_EXPANSION_AFTER_DEMAND_REVIEW",
+      "audit_file": "coupon-expansion-batch5-readonly-review.json",
+      "price": 9.49,
+      "stock": 4
+    },
+    {
+      "asin": "B07RR924N1",
+      "sku": "4A 60122-8",
+      "coupon_percent": 15,
+      "status": "EXCLUDED_FROM_FINAL_EXPANSION_AFTER_DEMAND_REVIEW",
+      "audit_file": "coupon-expansion-batch6-readonly-review.json",
+      "price": 15.99,
+      "stock": 4
+    },
+    {
+      "asin": "B07FKJGDJR",
+      "sku": "AAAA 4A Meeting-6",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch6-readonly-review.json",
+      "price": 18.99,
+      "stock": 3
+    },
+    {
+      "asin": "B01N2YL12Y",
+      "sku": "4A0103",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch6-readonly-review.json",
+      "price": 9.99,
+      "stock": 3
+    },
+    {
+      "asin": "B07HDVVZ1B",
+      "sku": "4A 608-N-L-210-FBA",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch6-readonly-review.json",
+      "price": 11.99,
+      "stock": 3
+    },
+    {
+      "asin": "B01M986R0Y",
+      "sku": "4A 6043-FBA",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch6-readonly-review.json",
+      "price": 8.99,
+      "stock": 3
+    },
+    {
+      "asin": "B07RVJB9DL",
+      "sku": "4A 40612",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch6-readonly-review.json",
+      "price": 21.99,
+      "stock": 3
+    },
+    {
+      "asin": "B01M3N310M",
+      "sku": "4A 4012-B07T-FBA",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch6-readonly-review.json",
+      "price": 12.99,
+      "stock": 3
+    },
+    {
+      "asin": "B07DJXC4PJ",
+      "sku": "4A 2028-N-FBA",
+      "coupon_percent": null,
+      "status": "PARENT_REVIEW_LOW_STACKED_CASH",
+      "audit_file": "coupon-expansion-batch6-readonly-review.json",
+      "price": 8.99,
+      "stock": 3
+    },
+    {
+      "asin": "B0784GHSVJ",
+      "sku": "4A 0166",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch6-readonly-review.json",
+      "price": 5.99,
+      "stock": 3
+    },
+    {
+      "asin": "B07DJP6SNG",
+      "sku": "303-AC-holder",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch6-readonly-review.json",
+      "price": 11.6,
+      "stock": 3
+    },
+    {
+      "asin": "B01M2UDADZ",
+      "sku": "4A 66114",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch6-readonly-review.json",
+      "price": 6.99,
+      "stock": 2
+    },
+    {
+      "asin": "B07T77N118",
+      "sku": "4A 6087-NL-420",
+      "coupon_percent": 15,
+      "status": "EXCLUDED_FROM_FINAL_EXPANSION_AFTER_DEMAND_REVIEW",
+      "audit_file": "coupon-expansion-batch6-readonly-review.json",
+      "price": 23.99,
+      "stock": 2
+    },
+    {
+      "asin": "B07T42DXZ1",
+      "sku": "4A 354832-FBA",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch7-readonly-review.json",
+      "price": 14.99,
+      "stock": 2
+    },
+    {
+      "asin": "B01M617ZTH",
+      "sku": "4A 037",
+      "coupon_percent": 15,
+      "status": "EXCLUDED_FROM_FINAL_EXPANSION_AFTER_DEMAND_REVIEW",
+      "audit_file": "coupon-expansion-batch7-readonly-review.json",
+      "price": 12.99,
+      "stock": 2
+    },
+    {
+      "asin": "B07FKJDBFT",
+      "sku": "AAAA 4A SMC 436",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch7-readonly-review.json",
+      "price": 12.99,
+      "stock": 1
+    },
+    {
+      "asin": "B0821GTX3C",
+      "sku": "4A SCLB 1902",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch7-readonly-review.json",
+      "price": 9.99,
+      "stock": 1
+    },
+    {
+      "asin": "B07K8L4K8K",
+      "sku": "4A BS 1801",
+      "coupon_percent": 15,
+      "status": "EXCLUDED_FROM_FINAL_EXPANSION_AFTER_DEMAND_REVIEW",
+      "audit_file": "coupon-expansion-batch7-readonly-review.json",
+      "price": 17.99,
+      "stock": 1
+    },
+    {
+      "asin": "B01LPKL5IE",
+      "sku": "4A 6533-FBA",
+      "coupon_percent": 5,
+      "status": "ready_for_ui_eligibility",
+      "audit_file": "coupon-expansion-batch7-readonly-review.json",
+      "price": 13.99,
+      "stock": 1
+    }
+  ],
+  "second15_draft_added": [
+    "B00SMEE3XQ",
+    "B01M617ZTH",
+    "B01N1T23HH",
+    "B01N6KXLJ5",
+    "B01N7IT411",
+    "B07DJKDB63",
+    "B07FK81CQ7",
+    "B07FK8MF91",
+    "B07FK9S7S8",
+    "B07FKF5V92",
+    "B07FKFMJTL",
+    "B07FKHHTY4",
+    "B07FKJM2LX",
+    "B07FKPY2V6",
+    "B07JVSYNYV",
+    "B07K8L4K8K",
+    "B07MQVWLSY",
+    "B07PVWYS9T",
+    "B07QWKYMGM",
+    "B07QXJY3FH",
+    "B07RBVWVY4",
+    "B07RR924N1",
+    "B07T2ZNTGK",
+    "B07T55VHS6",
+    "B07T77N118",
+    "B0821GML8W",
+    "B0F1TW5LS8"
+  ],
+  "second15_draft_selected_count": 50,
+  "second15_workflow": "9828f041-ae7a-4b52-a83c-15b8bb33c92e",
+  "second15_tab": "1634912331",
+  "second15_current_search": "B07K8L4K8K",
+  "final15_running_asins": [
+    "B00SMEENOU",
+    "B07DJKB4FZ",
+    "B07DJKDB63",
+    "B07FK8MF91",
+    "B07FKB3BRZ",
+    "B07FKF5V92",
+    "B07FKFMJTL",
+    "B07FKHHTY4",
+    "B07FKHHTYG",
+    "B07FKJLZNG",
+    "B07QWKWWP2",
+    "B07QWKYMGM",
+    "B07QWKYQV7",
+    "B07QXJY3FH",
+    "B07QZR9Z3P",
+    "B07R2KSW34",
+    "B07RP9BW5Z",
+    "B07RP9K6KV",
+    "B07T7PTYQ2",
+    "B0F2TJ7ZL7",
+    "B0F2TJZ8GM",
+    "B0F2YHTD8T"
+  ],
+  "final5_running_asins": [
+    "B08DKJ2K3T",
+    "B0F9L5G6XQ",
+    "B01LVTWP7Q",
+    "B07F2B49BL",
+    "B07QVKPZXX",
+    "B07QXJYKJN",
+    "B07FK9S7S8",
+    "B07FKBHTDG",
+    "B07B8RBCKT",
+    "B07FKJM2LX",
+    "B07JVSYNYV",
+    "B07MQVWLSY"
+  ]
+}

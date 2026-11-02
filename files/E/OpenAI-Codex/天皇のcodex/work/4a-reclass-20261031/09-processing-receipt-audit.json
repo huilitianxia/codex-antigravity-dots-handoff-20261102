@@ -1,0 +1,221 @@
+{
+  "source": "D:\\下载文件\\09-073-business-only-processing-summary.xlsm",
+  "sheets": [
+    "Changes to the template",
+    "Feed Processing Summary",
+    "Instructions",
+    "Data Definitions",
+    "Dropdown Lists",
+    "Template",
+    "Conditions List",
+    "Valid Values",
+    "AttributePTDMAP"
+  ],
+  "review": {
+    "Feed Processing Summary": [
+      {
+        "B3": "Summary"
+      },
+      {
+        "B4": "Number of SKUs processed",
+        "E4": "1"
+      },
+      {
+        "B5": "Number of SKUs successful",
+        "E5": "0"
+      },
+      {
+        "B6": "Number of SKUs successful with other errors",
+        "E6": "1"
+      },
+      {
+        "B7": "Number of SKUs unsuccessful due to errors",
+        "E7": "0"
+      },
+      {
+        "B8": "Number of SKUs with warnings",
+        "E8": "0"
+      },
+      {
+        "B10": "Errors and Warnings per Error Code"
+      },
+      {
+        "B11": "#",
+        "C11": "Error code",
+        "D11": "Category of error",
+        "E11": "Store",
+        "F11": "Error message",
+        "G11": "Affected field (Impacted column)",
+        "H11": "Number of errors"
+      },
+      {
+        "B12": "1",
+        "C12": "100476",
+        "D12": "ERROR",
+        "E12": "US",
+        "F12": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+        "G12": "Number of attributes with errors (B)",
+        "H12": "1"
+      },
+      {
+        "B13": "Total number of errors",
+        "H13": "1"
+      },
+      {
+        "B16": "Errors and Warnings per SKU"
+      },
+      {
+        "B17": "#",
+        "C17": "Error code",
+        "D17": "Category of error",
+        "E17": "Store",
+        "F17": "Error message",
+        "G17": "Affected field (Impacted cell)",
+        "H17": "SKU"
+      },
+      {
+        "B18": "1",
+        "C18": "100476",
+        "D18": "ERROR",
+        "E18": "US",
+        "F18": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+        "G18": "Number of attributes with errors (B7)",
+        "H18": "4A073"
+      }
+    ],
+    "Template": [
+      {
+        "A1": "settings=feedType=256&timestamp=2026-11-01T07%3A20%3A57.802Z&contributorId=amzn1.cr.o.A2O6EHY2KJ4BXE&primaryMarketplaceId=amzn1.mp.o.ATVPDKIKX0DER&contentLanguageTag=en_US&templateIdentifier=10fdcccd-6785-493d-8c88-b6620faf78e8&headerLanguageTag=en_US&labelRow=4&attributeRow=5&dataRow=7&flavor=seller-price-quantity&isProcessingSummary=true&isEdit=false&productTypeRequirement=LISTING_OFFER_ONLY&listingsItemRequirement=LISTING_OFFER_ONLY&reportProvenance=false&settingsHasAllDelocalizationData=true&ptds=UFJPRFVDVA%3D%3D&ptdToNamespaceMap=eyJQUk9EVUNUIjoiaW5nZXN0aW9uIn0%3D&browseClassifications=W3sicHJvZHVjdFR5cGUiOiJQUk9EVUNUIiwiYnJvd3NlQ2xhc3NpZmljYXRpb25LZXlzIjpbXX1d&vendorCodes=W10%3D&AttributeDefaultValues=eyJwcm9kdWN0X3R5cGUjMS52YWx1ZSI6IlBST0RVQ1QiLCJyZWNvcmRfYWN0aW9uIzEudmFsdWUiOiJwYXJ0aWFsX3VwZGF0ZSJ9&attributeSettings=W3siYXR0cmlidXRlIjoibWVyY2hhbnRfc2hpcHBpbmdfZ3JvdXAjMS52YWx1ZSIsImFsaWFzZXMiOnsiQmlnIHNpemUgZGVsaXZlcnkiOiI3YmVlNDhkMC0yNTRkLTQxZDktOTE5Ni01N2YwODdjZmZmNTkiLCI0QSBQYXJjZWwgNy45OSBwbHVzIDIuOTkgcGVyIGxiIjoiM2IyYTBhMjYtOTcxZi00MzkwLTg3NTgtMGM2NDdjNzA1MmVkIiwiTWlncmF0ZWQgVGVtcGxhdGUiOiJsZWdhY3ktdGVtcGxhdGUtaWQiLCJIZWF2eSBkZWxpdmVyeSI6IjlmMmNkNWFhLTUxMDMtNGI3Yi1iZGJhLWJlY2JmOTU1MjU2ZCIsIkN1YmUgZGVsaXZlcnkiOiIxNTFkZGM0NS0wMzA1LTQxN2UtOGE3My03Njc3MjFjYWRkMzUiLCJCaWdlciBzaXplIGRlbGl2ZXJ5LTI1IjoiOTQwOWU1NDAtMzQ2Ny00ZGNlLWJjZmUtYjQ1MmJlOTc1ZjVlIn19LHsiYXR0cmlidXRlIjoicHVyY2hhc2FibGVfb2ZmZXJbbWFya2V0cGxhY2VfaWQ9QVRWUERLSUtYMERFUl1bYXVkaWVuY2U9QUxMXSMxLmF1dG9tYXRlZF9wcmljaW5nX21lcmNoYW5kaXNpbmdfcnVsZV9wbGFuIzEubWVyY2hhbmRpc2luZ19ydWxlLnJ1bGVfaWQiLCJhbGlhc2VzIjp7Ik5vIFByaWNlIFJ1bGUiOiJlbXB0eV92YWx1ZV9sYWJlbCIsIkNvbXBldGl0aXZlIFByaWNlIFJ1bGUgYnkgQW1hem9uIjoiOTg1ODQ5OTY2MTItQ09NUEVUSVRJVkVfQlVZQk9YIn19LHsiYXR0cmlidXRlIjoicHVyY2hhc2FibGVfb2ZmZXJbbWFya2V0cGxhY2VfaWQ9QVRWUERLSUtYMERFUl1bYXVkaWVuY2U9QjJCXSMxLm1pbmltdW1fc2VsbGVyX2FsbG93ZWRfcHJpY2UjMS5zY2hlZHVsZSMxLnZhbHVlX3dpdGhfdGF4IiwiYWxpYXNlcyI6eyJEZWxldGUgTWluaW11bSBTZWxsZXIgQWxsb3dlZCBQcmljZSAoQW1hem9uIEJ1c2luZXNzIChCMkIpLCBVUykiOiJhbXpuMS52b2x0LmN2LmRlbGV0ZV91bXBfdG9wX2xldmVsX2ZpZWxkIn19LHsiYXR0cmlidXRlIjoibWVyY2hhbnRfc2hpcHBpbmdfZ3JvdXBbbWFya2V0cGxhY2VfaWQ9QVRWUERLSUtYMERFUl0jMS52YWx1ZSIsImFsaWFzZXMiOnsiQmlnIHNpemUgZGVsaXZlcnkiOiI3YmVlNDhkMC0yNTRkLTQxZDktOTE5Ni01N2YwODdjZmZmNTkiLCI0QSBQYXJjZWwgNy45OSBwbHVzIDIuOTkgcGVyIGxiIjoiM2IyYTBhMjYtOTcxZi00MzkwLTg3NTgtMGM2NDdjNzA1MmVkIiwiTWlncmF0ZWQgVGVtcGxhdGUiOiJsZWdhY3ktdGVtcGxhdGUtaWQiLCJIZWF2eSBkZWxpdmVyeSI6IjlmMmNkNWFhLTUxMDMtNGI3Yi1iZGJhLWJlY2JmOTU1MjU2ZCIsIkN1YmUgZGVsaXZlcnkiOiIxNTFkZGM0NS0wMzA1LTQxN2UtOGE3My03Njc3MjFjYWRkMzUiLCJCaWdlciBzaXplIGRlbGl2ZXJ5LTI1IjoiOTQwOWU1NDAtMzQ2Ny00ZGNlLWJjZmUtYjQ1MmJlOTc1ZjVlIn19LHsiYXR0cmlidXRlIjoicHVyY2hhc2FibGVfb2ZmZXJbbWFya2V0cGxhY2VfaWQ9QVRWUERLSUtYMERFUl1bYXVkaWVuY2U9QjJCXSMxLm1heGltdW1fc2VsbGVyX2FsbG93ZWRfcHJpY2UjMS5zY2hlZHVsZSMxLnZhbHVlX3dpdGhfdGF4IiwiYWxpYXNlcyI6eyJEZWxldGUgTWF4aW11bSBTZWxsZXIgQWxsb3dlZCBQcmljZSAoQW1hem9uIEJ1c2luZXNzIChCMkIpLCBVUykiOiJhbXpuMS52b2x0LmN2LmRlbGV0ZV91bXBfdG9wX2xldmVsX2ZpZWxkIn19LHsiYXR0cmlidXRlIjoicHVyY2hhc2FibGVfb2ZmZXJbYXVkaWVuY2U9QjJCXSMxLnF1YW50aXR5X2Rpc2NvdW50X3BsYW4jMS5zY2hlZHVsZSMxLmRpc2NvdW50X3R5cGUiLCJhbGlhc2VzIjp7IlBlcmNlbnQiOiJwZXJjZW50IiwiRml4ZWQiOiJmaXhlZCJ9fSx7ImF0dHJpYnV0ZSI6InB1cmNoYXNhYmxlX29mZmVyW2F1ZGllbmNlPUFMTF0jMS5hdXRvbWF0ZWRfcHJpY2luZ19tZXJjaGFuZGlzaW5nX3J1bGVfcGxhbiMxLm1lcmNoYW5kaXNpbmdfcnVsZS5ydWxlX2lkIiwiYWxpYXNlcyI6eyJObyBQcmljZSBSdWxlIjoiZW1wdHlfdmFsdWVfbGFiZWwiLCJDb21wZXRpdGl2ZSBQcmljZSBSdWxlIGJ5IEFtYXpvbiI6Ijk4NTg0OTk2NjEyLUNPTVBFVElUSVZFX0JVWUJPWCJ9fSx7ImF0dHJpYnV0ZSI6InByb2R1Y3RfdHlwZSMxLnZhbHVlIiwiYWxpYXNlcyI6eyJQUk9EVUNUIjoiUFJPRFVDVCJ9fSx7ImF0dHJpYnV0ZSI6ImZ1bGZpbGxtZW50X2F2YWlsYWJpbGl0eSMxLmlzX2ludmVudG9yeV9hdmFpbGFibGUiLCJhbGlhc2VzIjp7IkVuYWJsZWQiOiJ0cnVlIiwiRGlzYWJsZWQiOiJmYWxzZSJ9fSx7ImF0dHJpYnV0ZSI6InB1cmNoYXNhYmxlX29mZmVyW21hcmtldHBsYWNlX2lkPUFUVlBES0lLWDBERVJdW2F1ZGllbmNlPUIyQl0jMS5xdWFudGl0eV9kaXNjb3VudF9wbGFuIzEuc2NoZWR1bGUjMS5kaXNjb3VudF90eXBlIiwiYWxpYXNlcyI6eyJQZXJjZW50IjoicGVyY2VudCIsIkRlbGV0ZSBRdWFudGl0eSBEaXNjb3VudHMiOiJhbXpuMS52b2x0LmN2LmRlbGV0ZV91bXBfdG9wX2xldmVsX2ZpZWxkIiwiRml4ZWQiOiJmaXhlZCJ9fSx7ImF0dHJpYnV0ZSI6InB1cmNoYXNhYmxlX29mZmVyW21hcmtldHBsYWNlX2lkPUFUVlBES0lLWDBERVJdW2F1ZGllbmNlPUFMTF0jMS5vdXJfcHJpY2UjMS5zY2hlZHVsZSMxLnZhbHVlX3dpdGhfdGF4IiwiYWxpYXNlcyI6eyJEZWxldGUgT2ZmZXIgKFNlbGwgb24gQW1hem9uKSI6ImFtem4xLnZvbHQuY3YuZGVsZXRlX3VtcF92YXJpYW50In19LHsiYXR0cmlidXRlIjoicHVyY2hhc2FibGVfb2ZmZXJbYXVkaWVuY2U9QjJCXSMxLmN1cnJlbmN5IiwiYWxpYXNlcyI6eyJGSkQiOiJGSkQiLCJNWE4iOiJNWE4iLCJTQ1IiOiJTQ1IiLCJMVkwiOiJMVkwiLCJDREYiOiJDREYiLCJHVFEiOiJHVFEiLCJCQkQiOiJCQkQiLCJDTFAiOiJDTFAiLCJVR1giOiJVR1giLCJITkwiOiJITkwiLCJaQVIiOiJaQVIiLCJUTkQiOiJUTkQiLCJTVE4iOiJTVE4iLCJTTEwiOiJTTEwiLCJCU0QiOiJCU0QiLCJTREciOiJTREciLCJJUUQiOiJJUUQiLCJHTUQiOiJHTUQiLCJDVVAiOiJDVVAiLCJUV0QiOiJUV0QiLCJSU0QiOiJSU0QiLCJET1AiOiJET1AiLCJLTUYiOiJLTUYiLCJNWVIiOiJNWVIiLCJGS1AiOiJGS1AiLCJYT0YiOiJYT0YiLCJHRUwiOiJHRUwiLCJVWVUiOiJVWVUiLCJNQUQiOiJNQUQiLCJDVkUiOiJDVkUiLCJUT1AiOiJUT1AiLCJQR0siOiJQR0siLCJPTVIiOiJPTVIiLCJBWk4iOiJBWk4iLCJTRUsiOiJTRUsiLCJLRVMiOiJLRVMiLCJVQUgiOiJVQUgiLCJCVE4iOiJCVE4iLCJHTkYiOiJHTkYiLCJNWk4iOiJNWk4iLCJFUk4iOiJFUk4iLCJTVkMiOiJTVkMiLCJBUlMiOiJBUlMiLCJRQVIiOiJRQVIiLCJJUlIiOiJJUlIiLCJYUEYiOiJYUEYiLCJVWlMiOiJVWlMiLCJUSEIiOiJUSEIiLCJDTlkiOiJDTlkiLCJNUlUiOiJNUlUiLCJCRFQiOiJCRFQiLCJMWUQiOiJMWUQiLCJCTUQiOiJCTUQiLCJQSFAiOiJQSFAiLCJLV0QiOiJLV0QiLCJSVUIiOiJSVUIiLCJQWUciOiJQWUciLCJKTUQiOiJKTUQiLCJJU0siOiJJU0siLCJCRUYiOiJCRUYiLCJFU1AiOiJFU1AiLCJDT1AiOiJDT1AiLCJVU0QiOiJVU0QiLCJNS0QiOiJNS0QiLCJEWkQiOiJEWkQiLCJQQUIiOiJQQUIiLCJTR0QiOiJTR0QiLCJHR1AiOiJHR1AiLCJFVEIiOiJFVEIiLCJKRVAiOiJKRVAiLCJWVVYiOiJWVVYiLCJWRUYiOiJWRUYiLCJTT1MiOiJTT1MiLCJLR1MiOiJLR1MiLCJMQUsiOiJMQUsiLCJCTkQiOiJCTkQiLCJYQUYiOiJYQUYiLCJMUkQiOiJMUkQiLCJJVEwiOiJJVEwiLCJIUksiOiJIUksiLCJDSEYiOiJDSEYiLCJBVFMiOiJBVFMiLCJESkYiOiJESkYiLCJBTEwiOiJBTEwiLCJaTVciOiJaTVciLCJWRVMiOiJWRVMiLCJUWlMiOiJUWlMiLCJWTkQiOiJWTkQiLCJBVUQiOiJBVUQiLCJJTFMiOiJJTFMiLCJLUFciOiJLUFciLCJHWUQiOiJHWUQiLCJHSFMiOiJHSFMiLCJNREwiOiJNREwiLCJLSFIiOiJLSFIiLCJCT0IiOiJCT0IiLCJJRFIiOiJJRFIiLCJLWUQiOiJLWUQiLCJBTUQiOiJBTUQiLCJUUlkiOiJUUlkiLCJTSFAiOiJTSFAiLCJCV1AiOiJCV1AiLCJMQlAiOiJMQlAiLCJUSlMiOiJUSlMiLCJKT0QiOiJKT0QiLCJSV0YiOiJSV0YiLCJIS0QiOiJIS0QiLCJBRUQiOiJBRUQiLCJFVVIiOiJFVVIiLCJMU0wiOiJMU0wiLCJES0siOiJES0siLCJDQUQiOiJDQUQiLCJCR04iOiJCR04iLCJNTUsiOiJNTUsiLCJFRUsiOiJFRUsiLCJTWVAiOiJTWVAiLCJOT0siOiJOT0siLCJNVVIiOiJNVVIiLCJJTVAiOiJJTVAiLCJHSVAiOiJHSVAiLCJST04iOiJST04iLCJMS1IiOiJMS1IiLCJOR04iOiJOR04iLCJDWksiOiJDWksiLCJDUkMiOiJDUkMiLCJQS1IiOiJQS1IiLCJYQ0QiOiJYQ0QiLCJHUkQiOiJHUkQiLCJIVEciOiJIVEciLCJBTkciOiJBTkciLCJCSEQiOiJCSEQiLCJQVEUiOiJQVEUiLCJTWkwiOiJTWkwiLCJTUkQiOiJTUkQiLCJLWlQiOiJLWlQiLCJUVEQiOiJUVEQiLCJTQVIiOiJTQVIiLCJMVEwiOiJMVEwiLCJZRVIiOiJZRVIiLCJNVlIiOiJNVlIiLCJBRk4iOiJBRk4iLCJJTlIiOiJJTlIiLCJOUFIiOiJOUFIiLCJLUlciOiJLUlciLCJBV0ciOiJBV0ciLCJNTlQiOiJNTlQiLCJKUFkiOiJKUFkiLCJQTE4iOiJQTE4iLCJBT0EiOiJBT0EiLCJTQkQiOiJTQkQiLCJHQlAiOiJHQlAiLCJDU0QiOiJDU0QiLCJCWU4iOiJCWU4iLCJIVUYiOiJIVUYiLCJCWVIiOiJCWVIiLCJMVUYiOiJMVUYiLCJCSUYiOiJCSUYiLCJNV0siOiJNV0siLCJNR0EiOiJNR0EiLCJGSU0iOiJGSU0iLCJERU0iOiJERU0iLCJCWkQiOiJCWkQiLCJCQU0iOiJCQU0iLCJNT1AiOiJNT1AiLCJFR1AiOiJFR1AiLCJOQUQiOiJOQUQiLCJTU1AiOiJTU1AiLCJTS0siOiJTS0siLCJOSU8iOiJOSU8iLCJQRU4iOiJQRU4iLCJXU1QiOiJXU1QiLCJOWkQiOiJOWkQiLCJUTVQiOiJUTVQiLCJGUkYiOiJGUkYiLCJCUkwiOiJCUkwifX0seyJhdHRyaWJ1dGUiOiJwdXJjaGFzYWJsZV9vZmZlclttYXJrZXRwbGFjZV9pZD1BVFZQREtJS1gwREVSXVthdWRpZW5jZT1BTExdIzEubWluaW11bV9zZWxsZXJfYWxsb3dlZF9wcmljZSMxLnNjaGVkdWxlIzEudmFsdWVfd2l0aF90YXgiLCJhbGlhc2VzIjp7IkRlbGV0ZSBNaW5pbXVtIFNlbGxlciBBbGxvd2VkIFByaWNlIChTZWxsIG9uIEFtYXpvbiwgVVMpIjoiYW16bjEudm9sdC5jdi5kZWxldGVfdW1wX3RvcF9sZXZlbF9maWVsZCJ9fSx7ImF0dHJpYnV0ZSI6InB1cmNoYXNhYmxlX29mZmVyW21hcmtldHBsYWNlX2lkPUFUVlBES0lLWDBERVJdW2F1ZGllbmNlPUIyQl0jMS5vdXJfcHJpY2UjMS5zY2hlZHVsZSMxLnZhbHVlX3dpdGhfdGF4IiwiYWxpYXNlcyI6eyJEZWxldGUgT2ZmZXIgKEFtYXpvbiBCdXNpbmVzcyAoQjJCKSkiOiJhbXpuMS52b2x0LmN2LmRlbGV0ZV91bXBfdmFyaWFudCJ9fSx7ImF0dHJpYnV0ZSI6InB1cmNoYXNhYmxlX29mZmVyW21hcmtldHBsYWNlX2lkPUFUVlBES0lLWDBERVJdW2F1ZGllbmNlPUFMTF0jMS5tYXhpbXVtX3NlbGxlcl9hbGxvd2VkX3ByaWNlIzEuc2NoZWR1bGUjMS52YWx1ZV93aXRoX3RheCIsImFsaWFzZXMiOnsiRGVsZXRlIE1heGltdW0gU2VsbGVyIEFsbG93ZWQgUHJpY2UgKFNlbGwgb24gQW1hem9uLCBVUykiOiJhbXpuMS52b2x0LmN2LmRlbGV0ZV91bXBfdG9wX2xldmVsX2ZpZWxkIn19LHsiYXR0cmlidXRlIjoiZnVsZmlsbG1lbnRfYXZhaWxhYmlsaXR5IzEuZnVsZmlsbG1lbnRfY2hhbm5lbF9jb2RlIiwiYWxpYXNlcyI6eyJBTUFaT05fVVMyTVhfUkFGTiI6IkFNQVpPTl9VUzJNWF9SQUZOIiwiZTBkZTlmZDgtNGU0Zi00Mzc2LTkzMjItY2Y3YjY2YjRlOGFjIjoiZTBkZTlmZDgtNGU0Zi00Mzc2LTkzMjItY2Y3YjY2YjRlOGFjIiwiQU1BWk9OX1VTMkNBX1JBRk4iOiJBTUFaT05fVVMyQ0FfUkFGTiIsIkZ1bGZpbGxtZW50IGJ5IE1lcmNoYW50IChEZWZhdWx0KSI6IkRFRkFVTFQiLCJBTUFaT05fVVMyQlJfUkFGTiI6IkFNQVpPTl9VUzJCUl9SQUZOIiwiMWYyNGNiMjYtYWY2Ni00YWZmLThlNWUtZjdkODc0M2I5MWE2IjoiMWYyNGNiMjYtYWY2Ni00YWZmLThlNWUtZjdkODc0M2I5MWE2IiwiZmZlYmYzMjYtMjIxYS00ZDg5LTkxMTMtZTc4ZDM3N2Q2YjIwIjoiZmZlYmYzMjYtMjIxYS00ZDg5LTkxMTMtZTc4ZDM3N2Q2YjIwIiwiRnVsZmlsbG1lbnQgYnkgQW1hem9uIChOQSkiOiJBTUFaT05fTkEifX0seyJhdHRyaWJ1dGUiOiJwdXJjaGFzYWJsZV9vZmZlclthdWRpZW5jZT1BTExdIzEuY3VycmVuY3kiLCJhbGlhc2VzIjp7IkZKRCI6IkZKRCIsIk1YTiI6Ik1YTiIsIlNDUiI6IlNDUiIsIkxWTCI6IkxWTCIsIkNERiI6IkNERiIsIkdUUSI6IkdUUSIsIkJCRCI6IkJCRCIsIkNMUCI6IkNMUCIsIlVHWCI6IlVHWCIsIkhOTCI6IkhOTCIsIlpBUiI6IlpBUiIsIlRORCI6IlRORCIsIlNUTiI6IlNUTiIsIlNMTCI6IlNMTCIsIkJTRCI6IkJTRCIsIlNERyI6IlNERyIsIklRRCI6IklRRCIsIkdNRCI6IkdNRCIsIkNVUCI6IkNVUCIsIlRXRCI6IlRXRCIsIlJTRCI6IlJTRCIsIkRPUCI6IkRPUCIsIktNRiI6IktNRiIsIk1ZUiI6Ik1ZUiIsIkZLUCI6IkZLUCIsIlhPRiI6IlhPRiIsIkdFTCI6IkdFTCIsIlVZVSI6IlVZVSIsIk1BRCI6Ik1BRCIsIkNWRSI6IkNWRSIsIlRPUCI6IlRPUCIsIlBHSyI6IlBHSyIsIk9NUiI6Ik9NUiIsIkFaTiI6IkFaTiIsIlNFSyI6IlNFSyIsIktFUyI6IktFUyIsIlVBSCI6IlVBSCIsIkJUTiI6IkJUTiIsIkdORiI6IkdORiIsIk1aTiI6Ik1aTiIsIkVSTiI6IkVSTiIsIlNWQyI6IlNWQyIsIkFSUyI6IkFSUyIsIlFBUiI6IlFBUiIsIklSUiI6IklSUiIsIlhQRiI6IlhQRiIsIlVaUyI6IlVaUyIsIlRIQiI6IlRIQiIsIkNOWSI6IkNOWSIsIk1SVSI6Ik1SVSIsIkJEVCI6IkJEVCIsIkxZRCI6IkxZRCIsIkJNRCI6IkJNRCIsIlBIUCI6IlBIUCIsIktXRCI6IktXRCIsIlJVQiI6IlJVQiIsIlBZRyI6IlBZRyIsIkpNRCI6IkpNRCIsIklTSyI6IklTSyIsIkJFRiI6IkJFRiIsIkVTUCI6IkVTUCIsIkNPUCI6IkNPUCIsIlVTRCI6IlVTRCIsIk1LRCI6Ik1LRCIsIkRaRCI6IkRaRCIsIlBBQiI6IlBBQiIsIlNHRCI6IlNHRCIsIkdHUCI6IkdHUCIsIkVUQiI6IkVUQiIsIkpFUCI6IkpFUCIsIlZVViI6IlZVViIsIlZFRiI6IlZFRiIsIlNPUyI6IlNPUyIsIktHUyI6IktHUyIsIkxBSyI6IkxBSyIsIkJORCI6IkJORCIsIlhBRiI6IlhBRiIsIkxSRCI6IkxSRCIsIklUTCI6IklUTCIsIkhSSyI6IkhSSyIsIkNIRiI6IkNIRiIsIkFUUyI6IkFUUyIsIkRKRiI6IkRKRiIsIkFMTCI6IkFMTCIsIlpNVyI6IlpNVyIsIlZFUyI6IlZFUyIsIlRaUyI6IlRaUyIsIlZORCI6IlZORCIsIkFVRCI6IkFVRCIsIklMUyI6IklMUyIsIktQVyI6IktQVyIsIkdZRCI6IkdZRCIsIkdIUyI6IkdIUyIsIk1ETCI6Ik1ETCIsIktIUiI6IktIUiIsIkJPQiI6IkJPQiIsIklEUiI6IklEUiIsIktZRCI6IktZRCIsIkFNRCI6IkFNRCIsIlRSWSI6IlRSWSIsIlNIUCI6IlNIUCIsIkJXUCI6IkJXUCIsIkxCUCI6IkxCUCIsIlRKUyI6IlRKUyIsIkpPRCI6IkpPRCIsIlJXRiI6IlJXRiIsIkhLRCI6IkhLRCIsIkFFRCI6IkFFRCIsIkVVUiI6IkVVUiIsIkxTTCI6IkxTTCIsIkRLSyI6IkRLSyIsIkNBRCI6IkNBRCIsIkJHTiI6IkJHTiIsIk1NSyI6Ik1NSyIsIkVFSyI6IkVFSyIsIlNZUCI6IlNZUCIsIk5PSyI6Ik5PSyIsIk1VUiI6Ik1VUiIsIklNUCI6IklNUCIsIkdJUCI6IkdJUCIsIlJPTiI6IlJPTiIsIkxLUiI6IkxLUiIsIk5HTiI6Ik5HTiIsIkNaSyI6IkNaSyIsIkNSQyI6IkNSQyIsIlBLUiI6IlBLUiIsIlhDRCI6IlhDRCIsIkdSRCI6IkdSRCIsIkhURyI6IkhURyIsIkFORyI6IkFORyIsIkJIRCI6IkJIRCIsIlBURSI6IlBURSIsIlNaTCI6IlNaTCIsIlNSRCI6IlNSRCIsIktaVCI6IktaVCIsIlRURCI6IlRURCIsIlNBUiI6IlNBUiIsIkxUTCI6IkxUTCIsIllFUiI6IllFUiIsIk1WUiI6Ik1WUiIsIkFGTiI6IkFGTiIsIklOUiI6IklOUiIsIk5QUiI6Ik5QUiIsIktSVyI6IktSVyIsIkFXRyI6IkFXRyIsIk1OVCI6Ik1OVCIsIkpQWSI6IkpQWSIsIlBMTiI6IlBMTiIsIkFPQSI6IkFPQSIsIlNCRCI6IlNCRCIsIkdCUCI6IkdCUCIsIkNTRCI6IkNTRCIsIkJZTiI6IkJZTiIsIkhVRiI6IkhVRiIsIkJZUiI6IkJZUiIsIkxVRiI6IkxVRiIsIkJJRiI6IkJJRiIsIk1XSyI6Ik1XSyIsIk1HQSI6Ik1HQSIsIkZJTSI6IkZJTSIsIkRFTSI6IkRFTSIsIkJaRCI6IkJaRCIsIkJBTSI6IkJBTSIsIk1PUCI6Ik1PUCIsIkVHUCI6IkVHUCIsIk5BRCI6Ik5BRCIsIlNTUCI6IlNTUCIsIlNLSyI6IlNLSyIsIk5JTyI6Ik5JTyIsIlBFTiI6IlBFTiIsIldTVCI6IldTVCIsIk5aRCI6Ik5aRCIsIlRNVCI6IlRNVCIsIkZSRiI6IkZSRiIsIkJSTCI6IkJSTCJ9fV0%3D&TemplateType=unified&Version=2026.1101&TemplateSignature=UFJPRFVDVA==&umpVersion=MS41Ni4zOA=="
+      },
+      {
+        "A2": "     Use ENGLISH to fill this template. DO NOT modify or delete the colored header rows. To expand all optional columns, click the \"2\" button on the top left."
+      },
+      {
+        "D3": "Listing Identity",
+        "E3": "Offer (US) - (Sell on Amazon), (US) - (Amazon Business (B2B))"
+      },
+      {
+        "A4": "Submission Status",
+        "B4": "Number of attributes with errors",
+        "C4": "Number of attributes with other suggestions",
+        "D4": "SKU",
+        "E4": "Fulfillment Channel Code (US)",
+        "F4": "Quantity (US)",
+        "G4": "Handling Time (US)",
+        "H4": "Restock Date (US)",
+        "I4": "Inventory Always Available (US)",
+        "J4": "Your Price USD (Sell on Amazon, US)",
+        "K4": "Pricing Rule (Sell on Amazon, US)",
+        "L4": "Minimum Seller Allowed Price (Sell on Amazon, US)",
+        "M4": "Maximum Seller Allowed Price (Sell on Amazon, US)",
+        "N4": "Sale Price USD (Sell on Amazon, US)",
+        "O4": "Sale Start Date (Sell on Amazon, US)",
+        "P4": "Sale End Date (Sell on Amazon, US)",
+        "Q4": "Offering Release Date (Sell on Amazon, US)",
+        "R4": "Stop Selling Date (Sell on Amazon, US)",
+        "S4": "Your Price USD (Amazon Business (B2B), US)",
+        "T4": "Minimum Seller Allowed Price (Amazon Business (B2B), US)",
+        "U4": "Maximum Seller Allowed Price (Amazon Business (B2B), US)",
+        "V4": "Offering Release Date (Amazon Business (B2B), US)",
+        "W4": "Stop Selling Date (Amazon Business (B2B), US)",
+        "X4": "Quantity Price Type (Amazon Business (B2B), US)",
+        "Y4": "Quantity Threshold (Lower Bound, Amazon Business (B2B), US)",
+        "Z4": "Quantity Price (Fixed Price/Percentage Discount, Amazon Business (B2B), US)",
+        "AA4": "Quantity Threshold (Lower Bound, Amazon Business (B2B), US)",
+        "AB4": "Quantity Price (Fixed Price/Percentage Discount, Amazon Business (B2B), US)",
+        "AC4": "Quantity Threshold (Lower Bound, Amazon Business (B2B), US)",
+        "AD4": "Quantity Price (Fixed Price/Percentage Discount, Amazon Business (B2B), US)",
+        "AE4": "Quantity Threshold (Lower Bound, Amazon Business (B2B), US)",
+        "AF4": "Quantity Price (Fixed Price/Percentage Discount, Amazon Business (B2B), US)",
+        "AG4": "Quantity Threshold (Lower Bound, Amazon Business (B2B), US)",
+        "AH4": "Quantity Price (Fixed Price/Percentage Discount, Amazon Business (B2B), US)",
+        "AI4": "Shipping Template (US)"
+      },
+      {
+        "A5": "::submission_status",
+        "B5": "::number_of_attributes_with_errors",
+        "C5": "::number_of_attributes_with_other_suggestions",
+        "D5": "contribution_sku#1.value",
+        "E5": "fulfillment_availability#1.fulfillment_channel_code",
+        "F5": "fulfillment_availability#1.quantity",
+        "G5": "fulfillment_availability#1.lead_time_to_ship_max_days",
+        "H5": "fulfillment_availability#1.restock_date",
+        "I5": "fulfillment_availability#1.is_inventory_available",
+        "J5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=ALL]#1.our_price#1.schedule#1.value_with_tax",
+        "K5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=ALL]#1.automated_pricing_merchandising_rule_plan#1.merchandising_rule.rule_id",
+        "L5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=ALL]#1.minimum_seller_allowed_price#1.schedule#1.value_with_tax",
+        "M5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=ALL]#1.maximum_seller_allowed_price#1.schedule#1.value_with_tax",
+        "N5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=ALL]#1.discounted_price#1.schedule#1.value_with_tax",
+        "O5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=ALL]#1.discounted_price#1.schedule#1.start_at",
+        "P5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=ALL]#1.discounted_price#1.schedule#1.end_at",
+        "Q5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=ALL]#1.start_at.value",
+        "R5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=ALL]#1.end_at.value",
+        "S5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=B2B]#1.our_price#1.schedule#1.value_with_tax",
+        "T5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=B2B]#1.minimum_seller_allowed_price#1.schedule#1.value_with_tax",
+        "U5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=B2B]#1.maximum_seller_allowed_price#1.schedule#1.value_with_tax",
+        "V5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=B2B]#1.start_at.value",
+        "W5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=B2B]#1.end_at.value",
+        "X5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=B2B]#1.quantity_discount_plan#1.schedule#1.discount_type",
+        "Y5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=B2B]#1.quantity_discount_plan#1.schedule#1.levels#1.lower_bound",
+        "Z5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=B2B]#1.quantity_discount_plan#1.schedule#1.levels#1.value",
+        "AA5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=B2B]#1.quantity_discount_plan#1.schedule#1.levels#2.lower_bound",
+        "AB5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=B2B]#1.quantity_discount_plan#1.schedule#1.levels#2.value",
+        "AC5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=B2B]#1.quantity_discount_plan#1.schedule#1.levels#3.lower_bound",
+        "AD5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=B2B]#1.quantity_discount_plan#1.schedule#1.levels#3.value",
+        "AE5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=B2B]#1.quantity_discount_plan#1.schedule#1.levels#4.lower_bound",
+        "AF5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=B2B]#1.quantity_discount_plan#1.schedule#1.levels#4.value",
+        "AG5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=B2B]#1.quantity_discount_plan#1.schedule#1.levels#5.lower_bound",
+        "AH5": "purchasable_offer[marketplace_id=ATVPDKIKX0DER][audience=B2B]#1.quantity_discount_plan#1.schedule#1.levels#5.value",
+        "AI5": "merchant_shipping_group[marketplace_id=ATVPDKIKX0DER]#1.value"
+      },
+      {
+        "D6": "ABC123",
+        "E6": "AMAZON_NA",
+        "F6": "152",
+        "G6": "5",
+        "H6": "2020-05-05",
+        "I6": "Enabled",
+        "J6": "9.00",
+        "K6": "Competitive Price Rule by Amazon",
+        "L6": "259.99",
+        "M6": "259.99",
+        "N6": "219.99",
+        "O6": "2017-06-30",
+        "P6": "2017-07-01",
+        "Q6": "2017-06-30",
+        "R6": "2017-07-01",
+        "S6": "9.00",
+        "T6": "259.99",
+        "U6": "259.99",
+        "V6": "2017-06-30",
+        "W6": "2017-07-01",
+        "X6": "Fixed, Percent",
+        "Y6": "5, 10",
+        "Z6": "10, 20",
+        "AA6": "5, 10",
+        "AB6": "10, 20",
+        "AC6": "5, 10",
+        "AD6": "10, 20",
+        "AE6": "5, 10",
+        "AF6": "10, 20",
+        "AG6": "5, 10",
+        "AH6": "10, 20",
+        "AI6": "Heavy Bulky Products, NCR Large Appliance Delivery"
+      },
+      {
+        "A7": "SUCCESS (OTHER ERROR)",
+        "B7": "1",
+        "C7": "0",
+        "D7": "4A073",
+        "S7": "9.49",
+        "X7": "Percent",
+        "Y7": "3",
+        "Z7": "2",
+        "AA7": "5",
+        "AB7": "3",
+        "AC7": "10",
+        "AD7": "5"
+      }
+    ]
+  }
+}

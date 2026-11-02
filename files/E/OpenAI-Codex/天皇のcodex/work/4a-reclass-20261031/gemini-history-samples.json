@@ -1,0 +1,104 @@
+{
+  "4A_全店15大家族全量变体合并_亚马逊官方批量上传表.tsv": {
+    "rows": 960,
+    "data_rows_assuming_row7": 954,
+    "first8_nonempty_data_values": [
+      [
+        "4A（USA）LIMITED -- Dropship, us_office_products, 4AUSA",
+        "PARENT-4A-30315-RAINBOW-3X3",
+        "SELF_STICK_NOTE",
+        "Parent",
+        "COLOR/NUMBER_OF_ITEMS",
+        "4A 3x3 Inches Sticky Notes 15-Color Rainbow Value Pack, Assorted Multi-Packs",
+        "4A"
+      ],
+      [
+        "4A（USA）LIMITED -- Dropship, us_office_products, 4AUSA",
+        "PARENT-4A-BS-EXECUTIVE-LEATHER",
+        "SELF_STICK_NOTE",
+        "Parent",
+        "COLOR/NUMBER_OF_ITEMS",
+        "4A Executive Leather Desk Sticky Notes Organizer Gift Set & Replacement Refills",
+        "4A"
+      ]
+    ]
+  },
+  "4A_全店15大家族全量变体合并_完美修复终极版.tsv": {
+    "rows": 960,
+    "data_rows_assuming_row7": 954,
+    "first8_nonempty_data_values": [
+      [
+        "Parent row > Do not edit or delete",
+        "PARENT-4A-30315-RAINBOW-3X3",
+        "SELF_STICK_NOTE",
+        "Create or Replace (Full Update)",
+        "Parent",
+        "COLOR/NUMBER_OF_ITEMS",
+        "4A 3x3 Inches Sticky Notes 15-Color Rainbow Value Pack, Assorted Multi-Packs",
+        "4A"
+      ],
+      [
+        "Parent row > Do not edit or delete",
+        "PARENT-4A-BS-EXECUTIVE-LEATHER",
+        "SELF_STICK_NOTE",
+        "Create or Replace (Full Update)",
+        "Parent",
+        "COLOR/NUMBER_OF_ITEMS",
+        "4A Executive Leather Desk Sticky Notes Organizer Gift Set & Replacement Refills",
+        "4A"
+      ]
+    ]
+  },
+  "4A_全店15大家族全量变体合并_官方卖家模板.tsv": {
+    "rows": 960,
+    "data_rows_assuming_row7": 954,
+    "first8_nonempty_data_values": [
+      [
+        "Parent row > Do not edit or delete",
+        "PARENT-4A-30315-RAINBOW-3X3",
+        "SELF_STICK_NOTE",
+        "Create or Replace (Full Update)",
+        "Parent",
+        "COLOR/NUMBER_OF_ITEMS",
+        "4A 3x3 Inches Sticky Notes 15-Color Rainbow Value Pack, Assorted Multi-Packs",
+        "4A"
+      ],
+      [
+        "Parent row > Do not edit or delete",
+        "PARENT-4A-BS-EXECUTIVE-LEATHER",
+        "SELF_STICK_NOTE",
+        "Create or Replace (Full Update)",
+        "Parent",
+        "COLOR/NUMBER_OF_ITEMS",
+        "4A Executive Leather Desk Sticky Notes Organizer Gift Set & Replacement Refills",
+        "4A"
+      ]
+    ]
+  },
+  "4A_全店21大家族精细化变体清洗_终极纯净版.tsv": {
+    "rows": 967,
+    "data_rows_assuming_row7": 961,
+    "first8_nonempty_data_values": [
+      [
+        "Parent row > Do not edit or delete",
+        "PARENT-4A-301-MINI-PADS",
+        "SELF_STICK_NOTE",
+        "Create or Replace (Full Update)",
+        "Parent",
+        "COLOR/SIZE",
+        "4A Mini Sticky Notes 1.5 x 2 & 2 x 2 Inches, Small Colorful Self-Stick Note Pads",
+        "4A"
+      ],
+      [
+        "Child row > Do not edit or delete",
+        "4A 301x12-N",
+        "SELF_STICK_NOTE",
+        "Edit (Partial Update)",
+        "Child",
+        "PARENT-4A-301-MINI-PADS",
+        "COLOR/SIZE",
+        "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 301x12-N, Neon Assorted-12 Pads"
+      ]
+    ]
+  }
+}

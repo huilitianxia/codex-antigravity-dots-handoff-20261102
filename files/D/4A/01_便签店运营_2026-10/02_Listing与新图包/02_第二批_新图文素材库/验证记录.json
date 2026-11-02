@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-30",
+  "count": 15,
+  "image_checks": [
+    {
+      "id": "305FA_01",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "hash_match": true,
+      "source_exists": true,
+      "status": "final_candidate"
+    },
+    {
+      "id": "305FA_02",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "hash_match": true,
+      "source_exists": true,
+      "status": "needs_claim_or_structure_check"
+    },
+    {
+      "id": "305FA_03",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "hash_match": true,
+      "source_exists": true,
+      "status": "needs_claim_or_structure_check"
+    },
+    {
+      "id": "305FA_04",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "hash_match": true,
+      "source_exists": true,
+      "status": "final_candidate"
+    },
+    {
+      "id": "305FA_05",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "hash_match": true,
+      "source_exists": true,
+      "status": "final_candidate"
+    },
+    {
+      "id": "608NL210_01",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "hash_match": true,
+      "source_exists": true,
+      "status": "final_candidate"
+    },
+    {
+      "id": "608NL210_02",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "hash_match": true,
+      "source_exists": true,
+      "status": "final_candidate"
+    },
+    {
+      "id": "608NL210_03",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "hash_match": true,
+      "source_exists": true,
+      "status": "final_candidate"
+    },
+    {
+      "id": "608NL210_04",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "hash_match": true,
+      "source_exists": true,
+      "status": "final_candidate"
+    },
+    {
+      "id": "608NL210_05",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "hash_match": true,
+      "source_exists": true,
+      "status": "final_candidate"
+    },
+    {
+      "id": "BS1801_01",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "hash_match": true,
+      "source_exists": true,
+      "status": "final_candidate"
+    },
+    {
+      "id": "BS1801_02",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "hash_match": true,
+      "source_exists": true,
+      "status": "final_candidate"
+    },
+    {
+      "id": "BS1801_03",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "hash_match": true,
+      "source_exists": true,
+      "status": "final_candidate"
+    },
+    {
+      "id": "BS1801_04",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "hash_match": true,
+      "source_exists": true,
+      "status": "final_candidate"
+    },
+    {
+      "id": "BS1801_05",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "hash_match": true,
+      "source_exists": true,
+      "status": "final_candidate"
+    }
+  ],
+  "html_review": {
+    "all_preview_images_loaded": true,
+    "horizontal_overflow": false
+  },
+  "visual_review": "逐图检查数量、产品结构、颜色、文字；608色序及单张纸厚已返修；2张精确尺寸图已目视检查。",
+  "limitations": "305胶区及移除性能待核；所有生成产品仍需实物批次核样。"
+}

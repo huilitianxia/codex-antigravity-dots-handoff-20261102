@@ -1,0 +1,2751 @@
+[
+  {
+    "file": "C:\\Users\\24243\\Documents\\Codex\\2026-08-11\\7-30-slack-plugin-slack-openai\\4A_Amazon_Operations\\source_workbooks\\亚马逊供应商和开店总表-2026 (1).xlsx",
+    "sheet": "Sheet1",
+    "headers": [
+      [
+        {
+          "cell": "A1",
+          "value": "SKU"
+        },
+        {
+          "cell": "B1",
+          "value": "供应商/VC-UPC"
+        },
+        {
+          "cell": "C1",
+          "value": "ASIn"
+        },
+        {
+          "cell": "D1",
+          "value": "店铺/SL-UPC"
+        },
+        {
+          "cell": "E1",
+          "value": "ASIn"
+        },
+        {
+          "cell": "F1",
+          "value": "Picture"
+        },
+        {
+          "cell": "G1",
+          "value": "产品标题/Title"
+        },
+        {
+          "cell": "H1",
+          "value": "物流N4.99/B9.99/H11.99/2H22.99"
+        },
+        {
+          "cell": "I1",
+          "value": "产品满箱数"
+        },
+        {
+          "cell": "J1",
+          "value": "FOB (SZ)"
+        },
+        {
+          "cell": "K1",
+          "value": "AmazOn Cost"
+        },
+        {
+          "cell": "L1",
+          "value": "标价"
+        },
+        {
+          "cell": "M1",
+          "value": "折后销售价\n2026"
+        },
+        {
+          "cell": "N1",
+          "value": "单套重量/磅-LBS"
+        },
+        {
+          "cell": "O1",
+          "value": "单套长宽高(英寸Inches)"
+        },
+        {
+          "cell": "R1",
+          "value": "立方英尺Cu-ft"
+        },
+        {
+          "cell": "S1",
+          "value": "立方英寸Cu-in"
+        },
+        {
+          "cell": "T1",
+          "value": "IPQ"
+        },
+        {
+          "cell": "U1",
+          "value": "单套重量/克 g"
+        },
+        {
+          "cell": "V1",
+          "value": "单套长宽高(厘米)"
+        },
+        {
+          "cell": "Y1",
+          "value": "单箱尺寸"
+        },
+        {
+          "cell": "AB1",
+          "value": "key words"
+        },
+        {
+          "cell": "AC1",
+          "value": "同行"
+        },
+        {
+          "cell": "AD1",
+          "value": "3M"
+        },
+        {
+          "cell": "AE1",
+          "value": "unit price"
+        },
+        {
+          "cell": "AF1",
+          "value": "Pack of pcs"
+        }
+      ],
+      [
+        {
+          "cell": "A2",
+          "value": "4A 124418"
+        },
+        {
+          "cell": "B2",
+          "value": "702877124819"
+        },
+        {
+          "cell": "C2",
+          "value": "B07DJKB4FZ"
+        },
+        {
+          "cell": "D2",
+          "value": "702877124154"
+        },
+        {
+          "cell": "E2",
+          "value": "B07F2CWVQ7"
+        },
+        {
+          "cell": "G2",
+          "value": "4A Page Maker 1/2x1 3/4 Inches,Small Size,Neon Assorted,Self-Stick Notes,16 Colors,50 sheets/Pad,16 Pads/Pack,800 Sheets/Pack,4A 124418"
+        },
+        {
+          "cell": "H2",
+          "value": "N"
+        },
+        {
+          "cell": "I2",
+          "value": "144"
+        },
+        {
+          "cell": "J2",
+          "value": "2.25"
+        },
+        {
+          "cell": "K2",
+          "value": "4.5"
+        },
+        {
+          "cell": "L2",
+          "value": "8.99"
+        },
+        {
+          "cell": "M2",
+          "value": "6.99"
+        },
+        {
+          "cell": "N2",
+          "value": "0.26"
+        },
+        {
+          "cell": "O2",
+          "value": "6.85"
+        },
+        {
+          "cell": "P2",
+          "value": "4.76"
+        },
+        {
+          "cell": "Q2",
+          "value": "0.6"
+        },
+        {
+          "cell": "R2",
+          "value": "0.011328083381586565"
+        },
+        {
+          "cell": "S2",
+          "value": "19.563599999999997"
+        },
+        {
+          "cell": "U2",
+          "value": "117.93339999999999"
+        },
+        {
+          "cell": "V2",
+          "value": "17.399"
+        },
+        {
+          "cell": "W2",
+          "value": "12.090399999999999"
+        },
+        {
+          "cell": "X2",
+          "value": "1.524"
+        },
+        {
+          "cell": "Y2",
+          "value": "12.7952755905512"
+        },
+        {
+          "cell": "Z2",
+          "value": "10.0787401574803"
+        },
+        {
+          "cell": "AA2",
+          "value": "8.66141732283465"
+        },
+        {
+          "cell": "AB2",
+          "value": "Sticky notes,1/2x1 3/4,Neon Assorted,Self-Stick Notes,Post it,Sticky note pads,"
+        },
+        {
+          "cell": "AD2",
+          "value": "10.5"
+        },
+        {
+          "cell": "AF2",
+          "value": "18"
+        }
+      ],
+      [
+        {
+          "cell": "A3",
+          "value": "4A 501516"
+        },
+        {
+          "cell": "B3",
+          "value": "702877121511"
+        },
+        {
+          "cell": "C3",
+          "value": "B07T42J6FY"
+        },
+        {
+          "cell": "D3",
+          "value": "702877126943"
+        },
+        {
+          "cell": "E3",
+          "value": "B07T42J6FY\nB07TSD57BD√"
+        },
+        {
+          "cell": "G3",
+          "value": "4A Sticky Notes, 0.6 x 2 Inches, Small Size,16 colors, Self-Stick Notes, 100 Sheets/Pad,16 Pads/Pack, 4A 501516"
+        },
+        {
+          "cell": "H3",
+          "value": "N"
+        },
+        {
+          "cell": "I3",
+          "value": "142"
+        },
+        {
+          "cell": "J3",
+          "value": "2.5"
+        },
+        {
+          "cell": "K3",
+          "value": "5"
+        },
+        {
+          "cell": "L3",
+          "value": "9.99"
+        },
+        {
+          "cell": "M3",
+          "value": "7.49"
+        },
+        {
+          "cell": "N3",
+          "value": "0.22"
+        },
+        {
+          "cell": "O3",
+          "value": "4.8"
+        },
+        {
+          "cell": "P3",
+          "value": "2.01"
+        },
+        {
+          "cell": "Q3",
+          "value": "0.87"
+        },
+        {
+          "cell": "R3",
+          "value": "0.0048603126809496225"
+        },
+        {
+          "cell": "S3",
+          "value": "8.393759999999999"
+        },
+        {
+          "cell": "U3",
+          "value": "101"
+        },
+        {
+          "cell": "V3",
+          "value": "12.2"
+        },
+        {
+          "cell": "W3",
+          "value": "5.1"
+        },
+        {
+          "cell": "X3",
+          "value": "2.2"
+        },
+        {
+          "cell": "Y3",
+          "value": "12.6771653543307"
+        },
+        {
+          "cell": "Z3",
+          "value": "10.0787401574803"
+        },
+        {
+          "cell": "AA3",
+          "value": "11.8110236220472"
+        },
+        {
+          "cell": "AF3",
+          "value": "16"
+        }
+      ],
+      [
+        {
+          "cell": "A4",
+          "value": "4A 501521"
+        },
+        {
+          "cell": "B4",
+          "value": "702877124956"
+        },
+        {
+          "cell": "C4",
+          "value": "B08DKFCQBB"
+        },
+        {
+          "cell": "D4",
+          "value": "702877126547"
+        },
+        {
+          "cell": "E4",
+          "value": "B08CVKHGYT"
+        },
+        {
+          "cell": "G4",
+          "value": "4A Sticky Notes, 50x15mm, Small Size,21 colors, Self-Stick Notes, 100 Sheets/Pad,4200 Sheets,21 Pads/Pack, 4A 501521"
+        },
+        {
+          "cell": "H4",
+          "value": "N"
+        },
+        {
+          "cell": "I4",
+          "value": "96"
+        },
+        {
+          "cell": "J4",
+          "value": "2.25"
+        },
+        {
+          "cell": "K4",
+          "value": "6.99"
+        },
+        {
+          "cell": "L4",
+          "value": "13.99"
+        },
+        {
+          "cell": "M4",
+          "value": "11.99"
+        },
+        {
+          "cell": "N4",
+          "value": "0.3"
+        },
+        {
+          "cell": "O4",
+          "value": "4.06"
+        },
+        {
+          "cell": "P4",
+          "value": "2.01"
+        },
+        {
+          "cell": "Q4",
+          "value": "1.34"
+        },
+        {
+          "cell": "R4",
+          "value": "0.006331907353792704"
+        },
+        {
+          "cell": "S4",
+          "value": "10.935203999999999"
+        },
+        {
+          "cell": "U4",
+          "value": "135"
+        },
+        {
+          "cell": "V4",
+          "value": "10.3"
+        },
+        {
+          "cell": "W4",
+          "value": "5.1"
+        },
+        {
+          "cell": "X4",
+          "value": "3.4"
+        },
+        {
+          "cell": "Y4",
+          "value": "12.7952755905512"
+        },
+        {
+          "cell": "Z4",
+          "value": "10.0787401574803"
+        },
+        {
+          "cell": "AA4",
+          "value": "11.8110236220472"
+        },
+        {
+          "cell": "AF4",
+          "value": "21"
+        }
+      ],
+      [
+        {
+          "cell": "A5",
+          "value": "4A 501521x2"
+        },
+        {
+          "cell": "E5",
+          "value": "B08DKFCQBB"
+        },
+        {
+          "cell": "G5",
+          "value": "AAAA 4A 42 Pads 0.6 x 2 Inches Sticky Notes Tabs Flags Page Markers, 21 Colors, 100 Sheets/Pad, 4200 Sheets, Small Sticky Notes Tabs for Office, Home, School, 4A 501521x2"
+        },
+        {
+          "cell": "H5",
+          "value": "N"
+        },
+        {
+          "cell": "I5",
+          "value": "48"
+        },
+        {
+          "cell": "J5",
+          "value": "4.5"
+        },
+        {
+          "cell": "K5",
+          "value": "6.99"
+        },
+        {
+          "cell": "L5",
+          "value": "17.99"
+        },
+        {
+          "cell": "M5",
+          "value": "14.99"
+        },
+        {
+          "cell": "N5",
+          "value": "0.6"
+        }
+      ],
+      [
+        {
+          "cell": "A6",
+          "value": "4A 752516"
+        },
+        {
+          "cell": "B6",
+          "value": "702877124963"
+        },
+        {
+          "cell": "C6",
+          "value": "B08DKCBX5Q"
+        },
+        {
+          "cell": "G6",
+          "value": "4A Sticky Notes,75x25mm,Small Size,Self-Stick Notes,16 Colors,100 Sheets/Pad,1600 Sheets,16 Pads/Pack, 4A 752516"
+        },
+        {
+          "cell": "H6",
+          "value": "N"
+        },
+        {
+          "cell": "I6",
+          "value": "54"
+        },
+        {
+          "cell": "J6",
+          "value": "2.5"
+        },
+        {
+          "cell": "K6",
+          "value": "5"
+        },
+        {
+          "cell": "L6",
+          "value": "9.99"
+        },
+        {
+          "cell": "M6",
+          "value": "8.99"
+        },
+        {
+          "cell": "N6",
+          "value": "0.57"
+        },
+        {
+          "cell": "O6",
+          "value": "4.06"
+        },
+        {
+          "cell": "P6",
+          "value": "3.04"
+        },
+        {
+          "cell": "Q6",
+          "value": "1.74"
+        },
+        {
+          "cell": "R6",
+          "value": "0.012435307469600462"
+        },
+        {
+          "cell": "S6",
+          "value": "21.475776"
+        },
+        {
+          "cell": "U6",
+          "value": "256"
+        },
+        {
+          "cell": "V6",
+          "value": "10.3"
+        },
+        {
+          "cell": "W6",
+          "value": "7.7"
+        },
+        {
+          "cell": "X6",
+          "value": "4.4"
+        },
+        {
+          "cell": "Y6",
+          "value": "12.7952755905512"
+        },
+        {
+          "cell": "Z6",
+          "value": "10.0787401574803"
+        },
+        {
+          "cell": "AA6",
+          "value": "11.8110236220472"
+        },
+        {
+          "cell": "AF6",
+          "value": "16"
+        }
+      ]
+    ],
+    "rows": [
+      [
+        {
+          "cell": "A2",
+          "value": "4A 124418"
+        },
+        {
+          "cell": "B2",
+          "value": "702877124819"
+        },
+        {
+          "cell": "C2",
+          "value": "B07DJKB4FZ"
+        },
+        {
+          "cell": "D2",
+          "value": "702877124154"
+        },
+        {
+          "cell": "E2",
+          "value": "B07F2CWVQ7"
+        },
+        {
+          "cell": "G2",
+          "value": "4A Page Maker 1/2x1 3/4 Inches,Small Size,Neon Assorted,Self-Stick Notes,16 Colors,50 sheets/Pad,16 Pads/Pack,800 Sheets/Pack,4A 124418"
+        },
+        {
+          "cell": "H2",
+          "value": "N"
+        },
+        {
+          "cell": "I2",
+          "value": "144"
+        },
+        {
+          "cell": "J2",
+          "value": "2.25"
+        },
+        {
+          "cell": "K2",
+          "value": "4.5"
+        },
+        {
+          "cell": "L2",
+          "value": "8.99"
+        },
+        {
+          "cell": "M2",
+          "value": "6.99"
+        },
+        {
+          "cell": "N2",
+          "value": "0.26"
+        },
+        {
+          "cell": "O2",
+          "value": "6.85"
+        },
+        {
+          "cell": "P2",
+          "value": "4.76"
+        },
+        {
+          "cell": "Q2",
+          "value": "0.6"
+        },
+        {
+          "cell": "R2",
+          "value": "0.011328083381586565"
+        },
+        {
+          "cell": "S2",
+          "value": "19.563599999999997"
+        },
+        {
+          "cell": "U2",
+          "value": "117.93339999999999"
+        },
+        {
+          "cell": "V2",
+          "value": "17.399"
+        },
+        {
+          "cell": "W2",
+          "value": "12.090399999999999"
+        },
+        {
+          "cell": "X2",
+          "value": "1.524"
+        },
+        {
+          "cell": "Y2",
+          "value": "12.7952755905512"
+        },
+        {
+          "cell": "Z2",
+          "value": "10.0787401574803"
+        },
+        {
+          "cell": "AA2",
+          "value": "8.66141732283465"
+        },
+        {
+          "cell": "AB2",
+          "value": "Sticky notes,1/2x1 3/4,Neon Assorted,Self-Stick Notes,Post it,Sticky note pads,"
+        },
+        {
+          "cell": "AD2",
+          "value": "10.5"
+        },
+        {
+          "cell": "AF2",
+          "value": "18"
+        }
+      ],
+      [
+        {
+          "cell": "A72",
+          "value": "4A 4012"
+        },
+        {
+          "cell": "B72",
+          "value": "702877117644"
+        },
+        {
+          "cell": "C72",
+          "value": "B01M3N310M"
+        },
+        {
+          "cell": "D72",
+          "value": "702877119952"
+        },
+        {
+          "cell": "E72",
+          "value": "B01MZ1PQQ8"
+        },
+        {
+          "cell": "G72",
+          "value": "4A Sticky Notes Value Pack,Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4012"
+        },
+        {
+          "cell": "H72",
+          "value": "B"
+        },
+        {
+          "cell": "I72",
+          "value": "24"
+        },
+        {
+          "cell": "J72",
+          "value": "3.25"
+        },
+        {
+          "cell": "K72",
+          "value": "6.5"
+        },
+        {
+          "cell": "L72",
+          "value": "12.99"
+        },
+        {
+          "cell": "M72",
+          "value": "10.99"
+        },
+        {
+          "cell": "N72",
+          "value": "0.9"
+        },
+        {
+          "cell": "O72",
+          "value": "6"
+        },
+        {
+          "cell": "P72",
+          "value": "3"
+        },
+        {
+          "cell": "Q72",
+          "value": "2.35"
+        },
+        {
+          "cell": "R72",
+          "value": "0.02449334105385061"
+        },
+        {
+          "cell": "S72",
+          "value": "42.300000000000004"
+        },
+        {
+          "cell": "T72",
+          "value": "1"
+        },
+        {
+          "cell": "U72",
+          "value": "408.231"
+        },
+        {
+          "cell": "V72",
+          "value": "15.24"
+        },
+        {
+          "cell": "W72",
+          "value": "7.62"
+        },
+        {
+          "cell": "X72",
+          "value": "5.969"
+        },
+        {
+          "cell": "Y72",
+          "value": "12.7952755905512"
+        },
+        {
+          "cell": "Z72",
+          "value": "10.5511811023622"
+        },
+        {
+          "cell": "AA72",
+          "value": "10.1574803149606"
+        },
+        {
+          "cell": "AB72",
+          "value": "Sticky notes Value Pack,Box,Holder,Self-Stick Notes,Post it,Sticky note pads,sticky note pads,personalized"
+        },
+        {
+          "cell": "AE72",
+          "value": "0.18055555555555555"
+        },
+        {
+          "cell": "AF72",
+          "value": "18"
+        }
+      ],
+      [
+        {
+          "cell": "A220",
+          "value": "4A 303M-PNx12"
+        },
+        {
+          "cell": "B220",
+          "value": "702877118009"
+        },
+        {
+          "cell": "C220",
+          "value": "B01JGGQ5B6"
+        },
+        {
+          "cell": "D220",
+          "value": "702877121092"
+        },
+        {
+          "cell": "E220",
+          "value": "B07B7JF9LB"
+        },
+        {
+          "cell": "G220",
+          "value": "4A Magic Cyclic Sticky Notes,4 Neon Color Assorted, Each Color Sheets Cyclic,Self-Stick Notes,3 x 3 Inches,100 Sheets/Pad,12 Pads/Box,4A 303M-PNx12, More Easy&Efficient! "
+        },
+        {
+          "cell": "H220",
+          "value": "B"
+        },
+        {
+          "cell": "I220",
+          "value": "24"
+        },
+        {
+          "cell": "J220",
+          "value": "18.99"
+        },
+        {
+          "cell": "K220",
+          "value": "2.5"
+        },
+        {
+          "cell": "L220",
+          "value": "5"
+        },
+        {
+          "cell": "M220",
+          "value": "18.99"
+        },
+        {
+          "cell": "N220",
+          "value": "9.99"
+        },
+        {
+          "cell": "O220",
+          "value": "1.1"
+        },
+        {
+          "cell": "P220",
+          "value": "6"
+        },
+        {
+          "cell": "Q220",
+          "value": "3"
+        },
+        {
+          "cell": "R220",
+          "value": "2.35"
+        },
+        {
+          "cell": "S220",
+          "value": "0.02449334105385061"
+        },
+        {
+          "cell": "T220",
+          "value": "42.300000000000004"
+        },
+        {
+          "cell": "U220",
+          "value": "1"
+        },
+        {
+          "cell": "V220",
+          "value": "498.949"
+        },
+        {
+          "cell": "W220",
+          "value": "15.24"
+        },
+        {
+          "cell": "X220",
+          "value": "7.62"
+        },
+        {
+          "cell": "Y220",
+          "value": "5.969"
+        },
+        {
+          "cell": "AC220",
+          "value": "Sticky notes 3x3,Magic Cyclic,Neon Assorted Color Cyclic,Self-Stick Notes,Post it,Sticky note pads,"
+        },
+        {
+          "cell": "AF220",
+          "value": "0.20833333333333334"
+        },
+        {
+          "cell": "AG220",
+          "value": "12"
+        }
+      ]
+    ]
+  },
+  {
+    "file": "C:\\Users\\24243\\Documents\\Codex\\2026-08-11\\7-30-slack-plugin-slack-openai\\4A_Amazon_Operations\\source_workbooks\\亚马逊供应商和开店总表-2026 (1).xlsx",
+    "sheet": "变体",
+    "headers": [
+      [],
+      [
+        {
+          "cell": "A2",
+          "value": "paper filags"
+        },
+        {
+          "cell": "B2",
+          "value": "4A 124418"
+        }
+      ],
+      [
+        {
+          "cell": "B3",
+          "value": "4A 501516"
+        }
+      ],
+      [
+        {
+          "cell": "B4",
+          "value": "4A 501521"
+        }
+      ],
+      [
+        {
+          "cell": "B5",
+          "value": "4A 752516"
+        }
+      ],
+      []
+    ],
+    "rows": [
+      [
+        {
+          "cell": "A2",
+          "value": "paper filags"
+        },
+        {
+          "cell": "B2",
+          "value": "4A 124418"
+        }
+      ]
+    ]
+  },
+  {
+    "file": "C:\\Users\\24243\\Documents\\Codex\\2026-08-11\\7-30-slack-plugin-slack-openai\\4A_Amazon_Operations\\source_workbooks\\亚马逊供应商和开店总表-2026 (1).xlsx",
+    "sheet": "Sheet3",
+    "headers": [
+      [],
+      [
+        {
+          "cell": "A2",
+          "value": "702877117552"
+        },
+        {
+          "cell": "B2",
+          "value": "B00SMEG5O6"
+        },
+        {
+          "cell": "C2",
+          "value": "702877119129"
+        },
+        {
+          "cell": "D2",
+          "value": "B01MRY5WC7"
+        },
+        {
+          "cell": "E2",
+          "value": "4A 3031"
+        },
+        {
+          "cell": "G2",
+          "value": "4A Sticky Notes Cube In Ultra Colors,3 x 3 Inches,Neon Assorted,Self-Stick Notes,400 Sheets/Pad,1 Pad/Pack,4A 3031"
+        },
+        {
+          "cell": "J2",
+          "value": "1.25"
+        },
+        {
+          "cell": "K2",
+          "value": "1.25"
+        },
+        {
+          "cell": "L2",
+          "value": "1"
+        },
+        {
+          "cell": "M2",
+          "value": "96"
+        },
+        {
+          "cell": "N2",
+          "value": "1.25"
+        },
+        {
+          "cell": "O2",
+          "value": "2.5"
+        },
+        {
+          "cell": "P2",
+          "value": "4.99"
+        },
+        {
+          "cell": "Q2",
+          "value": "0.35"
+        },
+        {
+          "cell": "R2",
+          "value": "3"
+        },
+        {
+          "cell": "S2",
+          "value": "3"
+        },
+        {
+          "cell": "T2",
+          "value": "1.5"
+        },
+        {
+          "cell": "U2",
+          "value": "1"
+        },
+        {
+          "cell": "V2",
+          "value": "158.7565"
+        },
+        {
+          "cell": "W2",
+          "value": "7.62"
+        },
+        {
+          "cell": "X2",
+          "value": "7.62"
+        },
+        {
+          "cell": "Y2",
+          "value": "3.81"
+        },
+        {
+          "cell": "Z2",
+          "value": "Sticky notes Cube,3x3,Neon Assorted,Self-Stick Notes,Post it,Sticky note pads,"
+        }
+      ],
+      [
+        {
+          "cell": "A3",
+          "value": "702877117569"
+        },
+        {
+          "cell": "B3",
+          "value": "B00SMEFEFM"
+        },
+        {
+          "cell": "C3",
+          "value": "702877119136"
+        },
+        {
+          "cell": "D3",
+          "value": "B01N1T2BE0"
+        },
+        {
+          "cell": "E3",
+          "value": "4A 3032"
+        },
+        {
+          "cell": "G3",
+          "value": "4A Sticky Notes Cube In Ultra Colors,3 x 3 Inches,Neon Assorted,Self-Stick Notes,400 Sheets/Pad,1 Pad/Pack,4A 3032"
+        },
+        {
+          "cell": "J3",
+          "value": "1.25"
+        },
+        {
+          "cell": "K3",
+          "value": "1.25"
+        },
+        {
+          "cell": "L3",
+          "value": "1"
+        },
+        {
+          "cell": "M3",
+          "value": "96"
+        },
+        {
+          "cell": "N3",
+          "value": "1.25"
+        },
+        {
+          "cell": "O3",
+          "value": "2.5"
+        },
+        {
+          "cell": "P3",
+          "value": "4.99"
+        },
+        {
+          "cell": "Q3",
+          "value": "0.35"
+        },
+        {
+          "cell": "R3",
+          "value": "3"
+        },
+        {
+          "cell": "S3",
+          "value": "3"
+        },
+        {
+          "cell": "T3",
+          "value": "1.5"
+        },
+        {
+          "cell": "U3",
+          "value": "1"
+        },
+        {
+          "cell": "V3",
+          "value": "158.7565"
+        },
+        {
+          "cell": "W3",
+          "value": "7.62"
+        },
+        {
+          "cell": "X3",
+          "value": "7.62"
+        },
+        {
+          "cell": "Y3",
+          "value": "3.81"
+        },
+        {
+          "cell": "Z3",
+          "value": "Sticky notes Cube,3x3,Neon Assorted,Self-Stick Notes,Post it,Sticky note pads,"
+        }
+      ],
+      [
+        {
+          "cell": "A4",
+          "value": "702877117576"
+        },
+        {
+          "cell": "B4",
+          "value": "B00SMEFEAC"
+        },
+        {
+          "cell": "C4",
+          "value": "702877119143"
+        },
+        {
+          "cell": "D4",
+          "value": "B01N2UNPY8"
+        },
+        {
+          "cell": "E4",
+          "value": "4A 3033"
+        },
+        {
+          "cell": "G4",
+          "value": "4A Sticky Notes Cube In Ultra Colors,3 x 3 Inches, pastel Assorted,Self-Stick Notes,400 Sheets/Pad,1 Pad/Pack,4A 3033"
+        },
+        {
+          "cell": "J4",
+          "value": "1.25"
+        },
+        {
+          "cell": "K4",
+          "value": "1.25"
+        },
+        {
+          "cell": "L4",
+          "value": "1"
+        },
+        {
+          "cell": "M4",
+          "value": "96"
+        },
+        {
+          "cell": "N4",
+          "value": "1.25"
+        },
+        {
+          "cell": "O4",
+          "value": "2.5"
+        },
+        {
+          "cell": "P4",
+          "value": "4.99"
+        },
+        {
+          "cell": "Q4",
+          "value": "0.35"
+        },
+        {
+          "cell": "R4",
+          "value": "3"
+        },
+        {
+          "cell": "S4",
+          "value": "3"
+        },
+        {
+          "cell": "T4",
+          "value": "1.5"
+        },
+        {
+          "cell": "U4",
+          "value": "1"
+        },
+        {
+          "cell": "V4",
+          "value": "158.7565"
+        },
+        {
+          "cell": "W4",
+          "value": "7.62"
+        },
+        {
+          "cell": "X4",
+          "value": "7.62"
+        },
+        {
+          "cell": "Y4",
+          "value": "3.81"
+        },
+        {
+          "cell": "Z4",
+          "value": "Sticky notes Cube,3x3,Neon Assorted,Self-Stick Notes,Post it,Sticky note pads,"
+        }
+      ],
+      [
+        {
+          "cell": "A5",
+          "value": "702877117583"
+        },
+        {
+          "cell": "B5",
+          "value": "B00SMEFEG6"
+        },
+        {
+          "cell": "C5",
+          "value": "702877119150"
+        },
+        {
+          "cell": "D5",
+          "value": "B01N2UJB1Q"
+        },
+        {
+          "cell": "E5",
+          "value": "4A 3034"
+        },
+        {
+          "cell": "G5",
+          "value": "4A Sticky Notes Cube In Ultra Colors,3 x 3 Inches,Neon Assorted,Self-Stick Notes,400 Sheets/Pad,1 Pad/Pack,4A 3034"
+        },
+        {
+          "cell": "J5",
+          "value": "1.25"
+        },
+        {
+          "cell": "K5",
+          "value": "1.25"
+        },
+        {
+          "cell": "L5",
+          "value": "1"
+        },
+        {
+          "cell": "M5",
+          "value": "96"
+        },
+        {
+          "cell": "N5",
+          "value": "1.25"
+        },
+        {
+          "cell": "O5",
+          "value": "2.5"
+        },
+        {
+          "cell": "P5",
+          "value": "4.99"
+        },
+        {
+          "cell": "Q5",
+          "value": "0.35"
+        },
+        {
+          "cell": "R5",
+          "value": "3"
+        },
+        {
+          "cell": "S5",
+          "value": "3"
+        },
+        {
+          "cell": "T5",
+          "value": "1.5"
+        },
+        {
+          "cell": "U5",
+          "value": "1"
+        },
+        {
+          "cell": "V5",
+          "value": "158.7565"
+        },
+        {
+          "cell": "W5",
+          "value": "7.62"
+        },
+        {
+          "cell": "X5",
+          "value": "7.62"
+        },
+        {
+          "cell": "Y5",
+          "value": "3.81"
+        },
+        {
+          "cell": "Z5",
+          "value": "Sticky notes Cube,3x3,Neon Assorted,Self-Stick Notes,Post it,Sticky note pads,"
+        }
+      ],
+      [
+        {
+          "cell": "A6",
+          "value": "702877117590"
+        },
+        {
+          "cell": "B6",
+          "value": "B00SMEFGPU"
+        },
+        {
+          "cell": "C6",
+          "value": "702877119167"
+        },
+        {
+          "cell": "D6",
+          "value": "B07546FW69"
+        },
+        {
+          "cell": "E6",
+          "value": "4A 3035"
+        },
+        {
+          "cell": "G6",
+          "value": "4A Sticky Notes Cube In Ultra Colors,3 x 3 Inches,Neon Assorted,Self-Stick Notes,400 Sheets/Pad,1 Pad/Pack,4A 3035"
+        },
+        {
+          "cell": "J6",
+          "value": "1.25"
+        },
+        {
+          "cell": "K6",
+          "value": "1.25"
+        },
+        {
+          "cell": "L6",
+          "value": "1"
+        },
+        {
+          "cell": "M6",
+          "value": "96"
+        },
+        {
+          "cell": "N6",
+          "value": "1.25"
+        },
+        {
+          "cell": "O6",
+          "value": "2.5"
+        },
+        {
+          "cell": "P6",
+          "value": "4.99"
+        },
+        {
+          "cell": "Q6",
+          "value": "0.35"
+        },
+        {
+          "cell": "R6",
+          "value": "3"
+        },
+        {
+          "cell": "S6",
+          "value": "3"
+        },
+        {
+          "cell": "T6",
+          "value": "1.5"
+        },
+        {
+          "cell": "U6",
+          "value": "1"
+        },
+        {
+          "cell": "V6",
+          "value": "158.7565"
+        },
+        {
+          "cell": "W6",
+          "value": "7.62"
+        },
+        {
+          "cell": "X6",
+          "value": "7.62"
+        },
+        {
+          "cell": "Y6",
+          "value": "3.81"
+        },
+        {
+          "cell": "Z6",
+          "value": "Sticky notes Cube,3x3,Neon Assorted,Self-Stick Notes,Post it,Sticky note pads,"
+        }
+      ]
+    ],
+    "rows": [
+      [
+        {
+          "cell": "A15",
+          "value": "4A 303M-PNx12"
+        },
+        {
+          "cell": "B15",
+          "value": "702877118009"
+        },
+        {
+          "cell": "C15",
+          "value": "B01JGGQ5B6"
+        },
+        {
+          "cell": "D15",
+          "value": "702877121092"
+        },
+        {
+          "cell": "E15",
+          "value": "B07B7JF9LB"
+        },
+        {
+          "cell": "G15",
+          "value": "4A Magic Cyclic Sticky Notes,4 Neon Color Assorted, Each Color Sheets Cyclic,Self-Stick Notes,3 x 3 Inches,100 Sheets/Pad,12 Pads/Box,4A 303M-PNx12, More Easy&Efficient! "
+        },
+        {
+          "cell": "H15",
+          "value": "B"
+        },
+        {
+          "cell": "I15",
+          "value": "24"
+        },
+        {
+          "cell": "J15",
+          "value": "18.99"
+        },
+        {
+          "cell": "K15",
+          "value": "2.5"
+        },
+        {
+          "cell": "L15",
+          "value": "5"
+        },
+        {
+          "cell": "M15",
+          "value": "18.99"
+        },
+        {
+          "cell": "N15",
+          "value": "9.99"
+        },
+        {
+          "cell": "O15",
+          "value": "1.1"
+        },
+        {
+          "cell": "P15",
+          "value": "6"
+        },
+        {
+          "cell": "Q15",
+          "value": "3"
+        },
+        {
+          "cell": "R15",
+          "value": "2.35"
+        },
+        {
+          "cell": "S15",
+          "value": "0.02449334105385061"
+        },
+        {
+          "cell": "T15",
+          "value": "42.300000000000004"
+        },
+        {
+          "cell": "U15",
+          "value": "1"
+        },
+        {
+          "cell": "V15",
+          "value": "498.949"
+        },
+        {
+          "cell": "W15",
+          "value": "15.24"
+        },
+        {
+          "cell": "X15",
+          "value": "7.62"
+        },
+        {
+          "cell": "Y15",
+          "value": "5.969"
+        },
+        {
+          "cell": "AC15",
+          "value": "Sticky notes 3x3,Magic Cyclic,Neon Assorted Color Cyclic,Self-Stick Notes,Post it,Sticky note pads,"
+        },
+        {
+          "cell": "AF15",
+          "value": "0.20833333333333334"
+        },
+        {
+          "cell": "AG15",
+          "value": "12"
+        }
+      ],
+      [
+        {
+          "cell": "A17",
+          "value": "MG 30312"
+        },
+        {
+          "cell": "B17",
+          "value": "702877119914"
+        },
+        {
+          "cell": "C17",
+          "value": "无"
+        },
+        {
+          "cell": "D17",
+          "value": "无"
+        },
+        {
+          "cell": "E17",
+          "value": "B01MU0JZHU"
+        },
+        {
+          "cell": "G17",
+          "value": "4A Magic Cyclic Sticky Notes,4 Neon Color Assorted, Each Color Sheets Cyclic,3 x 3 Inches,100 Sheets/Pad,12 Pads/Box,4A 303M-PNx12, More Easy&Efficient! "
+        },
+        {
+          "cell": "H17",
+          "value": "B"
+        },
+        {
+          "cell": "I17",
+          "value": "24"
+        },
+        {
+          "cell": "J17",
+          "value": "10.99"
+        },
+        {
+          "cell": "K17",
+          "value": "2.5"
+        },
+        {
+          "cell": "L17",
+          "value": "5"
+        },
+        {
+          "cell": "M17",
+          "value": "10.99"
+        },
+        {
+          "cell": "N17",
+          "value": "9.99"
+        },
+        {
+          "cell": "O17",
+          "value": "1.1"
+        },
+        {
+          "cell": "P17",
+          "value": "6"
+        },
+        {
+          "cell": "Q17",
+          "value": "3"
+        },
+        {
+          "cell": "R17",
+          "value": "2.35"
+        },
+        {
+          "cell": "S17",
+          "value": "0.02449334105385061"
+        },
+        {
+          "cell": "T17",
+          "value": "42.300000000000004"
+        },
+        {
+          "cell": "U17",
+          "value": "1"
+        },
+        {
+          "cell": "V17",
+          "value": "498.949"
+        },
+        {
+          "cell": "W17",
+          "value": "15.24"
+        },
+        {
+          "cell": "X17",
+          "value": "7.62"
+        },
+        {
+          "cell": "Y17",
+          "value": "5.969"
+        },
+        {
+          "cell": "AC17",
+          "value": "Sticky notes 3x3,Magic Cyclic,Neon Assorted Color Cyclic,Self-Stick Notes,Post it,Sticky note pads,"
+        },
+        {
+          "cell": "AF17",
+          "value": "0.20833333333333334"
+        },
+        {
+          "cell": "AG17",
+          "value": "12"
+        }
+      ]
+    ]
+  },
+  {
+    "file": "C:\\Users\\24243\\Documents\\Codex\\2026-08-11\\7-30-slack-plugin-slack-openai\\4A_Amazon_Operations\\source_workbooks\\亚马逊供应商和开店总表-2023.xlsx",
+    "sheet": "Sheet1",
+    "headers": [
+      [
+        {
+          "cell": "A1",
+          "value": "SKU"
+        },
+        {
+          "cell": "B1",
+          "value": "供应商/VC-UPC"
+        },
+        {
+          "cell": "C1",
+          "value": "ASIn"
+        },
+        {
+          "cell": "D1",
+          "value": "店铺/SL-UPC"
+        },
+        {
+          "cell": "E1",
+          "value": "ASIn"
+        },
+        {
+          "cell": "F1",
+          "value": "Picture"
+        },
+        {
+          "cell": "G1",
+          "value": "产品标题/Title"
+        },
+        {
+          "cell": "H1",
+          "value": "产品满箱数"
+        },
+        {
+          "cell": "I1",
+          "value": "FOB (SZ)"
+        },
+        {
+          "cell": "J1",
+          "value": "AmazOn Cost"
+        },
+        {
+          "cell": "K1",
+          "value": "MSRP"
+        },
+        {
+          "cell": "L1",
+          "value": "单套重量/磅-LBS"
+        },
+        {
+          "cell": "M1",
+          "value": "单套长宽高(英寸Inches)"
+        },
+        {
+          "cell": "P1",
+          "value": "立方英尺Cu-ft"
+        },
+        {
+          "cell": "Q1",
+          "value": "立方英寸Cu-in"
+        },
+        {
+          "cell": "R1",
+          "value": "IPQ"
+        },
+        {
+          "cell": "S1",
+          "value": "单套重量/克 g"
+        },
+        {
+          "cell": "T1",
+          "value": "单套长宽高(厘米)"
+        },
+        {
+          "cell": "W1",
+          "value": "单箱尺寸"
+        },
+        {
+          "cell": "Z1",
+          "value": "key words"
+        },
+        {
+          "cell": "AA1",
+          "value": "同行"
+        },
+        {
+          "cell": "AB1",
+          "value": "3M-2026"
+        },
+        {
+          "cell": "AC1",
+          "value": "3M"
+        },
+        {
+          "cell": "AD1",
+          "value": "unit price"
+        },
+        {
+          "cell": "AE1",
+          "value": "Pack of pcs"
+        }
+      ],
+      [
+        {
+          "cell": "A2",
+          "value": "4A 124418"
+        },
+        {
+          "cell": "B2",
+          "value": "702877124819"
+        },
+        {
+          "cell": "C2",
+          "value": "B07DJKB4FZ"
+        },
+        {
+          "cell": "D2",
+          "value": "702877124154"
+        },
+        {
+          "cell": "E2",
+          "value": "B07F2CWVQ7"
+        },
+        {
+          "cell": "G2",
+          "value": "4A Page Maker 1/2x1 3/4 Inches,Small Size,Neon Assorted,Self-Stick Notes,16 Colors,50 sheets/Pad,16 Pads/Pack,800 Sheets/Pack,4A 124418"
+        },
+        {
+          "cell": "H2",
+          "value": "144"
+        },
+        {
+          "cell": "I2",
+          "value": "2.25"
+        },
+        {
+          "cell": "J2",
+          "value": "4.5"
+        },
+        {
+          "cell": "K2",
+          "value": "8.99"
+        },
+        {
+          "cell": "L2",
+          "value": "0.26"
+        },
+        {
+          "cell": "M2",
+          "value": "6.85"
+        },
+        {
+          "cell": "N2",
+          "value": "4.76"
+        },
+        {
+          "cell": "O2",
+          "value": "0.6"
+        },
+        {
+          "cell": "P2",
+          "value": "0.011328083381586565"
+        },
+        {
+          "cell": "Q2",
+          "value": "19.563599999999997"
+        },
+        {
+          "cell": "S2",
+          "value": "117.93339999999999"
+        },
+        {
+          "cell": "T2",
+          "value": "17.399"
+        },
+        {
+          "cell": "U2",
+          "value": "12.090399999999999"
+        },
+        {
+          "cell": "V2",
+          "value": "1.524"
+        },
+        {
+          "cell": "W2",
+          "value": "12.7952755905512"
+        },
+        {
+          "cell": "X2",
+          "value": "10.0787401574803"
+        },
+        {
+          "cell": "Y2",
+          "value": "8.66141732283465"
+        },
+        {
+          "cell": "Z2",
+          "value": "Sticky notes,1/2x1 3/4,Neon Assorted,Self-Stick Notes,Post it,Sticky note pads,"
+        },
+        {
+          "cell": "AC2",
+          "value": "10.5"
+        },
+        {
+          "cell": "AE2",
+          "value": "18"
+        }
+      ],
+      [
+        {
+          "cell": "A3",
+          "value": "4A 501516"
+        },
+        {
+          "cell": "B3",
+          "value": "702877121511"
+        },
+        {
+          "cell": "C3",
+          "value": "B07T42J6FY"
+        },
+        {
+          "cell": "D3",
+          "value": "702877126943"
+        },
+        {
+          "cell": "E3",
+          "value": "B07T42J6FY\nB07TSD57BD√"
+        },
+        {
+          "cell": "G3",
+          "value": "4A Sticky Notes, 0.6 x 2 Inches, Small Size,16 colors, Self-Stick Notes, 100 Sheets/Pad,16 Pads/Pack, 4A 501516"
+        },
+        {
+          "cell": "H3",
+          "value": "142"
+        },
+        {
+          "cell": "I3",
+          "value": "2.5"
+        },
+        {
+          "cell": "J3",
+          "value": "5"
+        },
+        {
+          "cell": "K3",
+          "value": "9.99"
+        },
+        {
+          "cell": "L3",
+          "value": "0.22"
+        },
+        {
+          "cell": "M3",
+          "value": "4.8"
+        },
+        {
+          "cell": "N3",
+          "value": "2.01"
+        },
+        {
+          "cell": "O3",
+          "value": "0.87"
+        },
+        {
+          "cell": "P3",
+          "value": "0.0048603126809496225"
+        },
+        {
+          "cell": "Q3",
+          "value": "8.393759999999999"
+        },
+        {
+          "cell": "S3",
+          "value": "101"
+        },
+        {
+          "cell": "T3",
+          "value": "12.2"
+        },
+        {
+          "cell": "U3",
+          "value": "5.1"
+        },
+        {
+          "cell": "V3",
+          "value": "2.2"
+        },
+        {
+          "cell": "W3",
+          "value": "12.6771653543307"
+        },
+        {
+          "cell": "X3",
+          "value": "10.0787401574803"
+        },
+        {
+          "cell": "Y3",
+          "value": "11.8110236220472"
+        },
+        {
+          "cell": "AE3",
+          "value": "16"
+        }
+      ],
+      [
+        {
+          "cell": "A4",
+          "value": "4A 501521"
+        },
+        {
+          "cell": "B4",
+          "value": "702877124956"
+        },
+        {
+          "cell": "C4",
+          "value": "B08DKFCQBB"
+        },
+        {
+          "cell": "D4",
+          "value": "702877126547"
+        },
+        {
+          "cell": "E4",
+          "value": "B08CVKHGYT"
+        },
+        {
+          "cell": "G4",
+          "value": "4A Sticky Notes, 50x15mm, Small Size,21 colors, Self-Stick Notes, 100 Sheets/Pad,4200 Sheets,21 Pads/Pack, 4A 501521"
+        },
+        {
+          "cell": "H4",
+          "value": "96"
+        },
+        {
+          "cell": "I4",
+          "value": "2.25"
+        },
+        {
+          "cell": "J4",
+          "value": "6.99"
+        },
+        {
+          "cell": "K4",
+          "value": "13.99"
+        },
+        {
+          "cell": "L4",
+          "value": "0.3"
+        },
+        {
+          "cell": "M4",
+          "value": "4.06"
+        },
+        {
+          "cell": "N4",
+          "value": "2.01"
+        },
+        {
+          "cell": "O4",
+          "value": "1.34"
+        },
+        {
+          "cell": "P4",
+          "value": "0.006331907353792704"
+        },
+        {
+          "cell": "Q4",
+          "value": "10.935203999999999"
+        },
+        {
+          "cell": "S4",
+          "value": "135"
+        },
+        {
+          "cell": "T4",
+          "value": "10.3"
+        },
+        {
+          "cell": "U4",
+          "value": "5.1"
+        },
+        {
+          "cell": "V4",
+          "value": "3.4"
+        },
+        {
+          "cell": "W4",
+          "value": "12.7952755905512"
+        },
+        {
+          "cell": "X4",
+          "value": "10.0787401574803"
+        },
+        {
+          "cell": "Y4",
+          "value": "11.8110236220472"
+        },
+        {
+          "cell": "AE4",
+          "value": "21"
+        }
+      ],
+      [
+        {
+          "cell": "A5",
+          "value": "4A 752516"
+        },
+        {
+          "cell": "B5",
+          "value": "702877124963"
+        },
+        {
+          "cell": "C5",
+          "value": "B08DKCBX5Q"
+        },
+        {
+          "cell": "D5",
+          "value": "702877126554"
+        },
+        {
+          "cell": "E5",
+          "value": "B08DKCBX5Q"
+        },
+        {
+          "cell": "G5",
+          "value": "4A Sticky Notes,75x25mm,Small Size,Self-Stick Notes,16 Colors,100 Sheets/Pad,1600 Sheets,16 Pads/Pack, 4A 752516"
+        },
+        {
+          "cell": "H5",
+          "value": "54"
+        },
+        {
+          "cell": "I5",
+          "value": "2.375"
+        },
+        {
+          "cell": "J5",
+          "value": "4.75"
+        },
+        {
+          "cell": "K5",
+          "value": "9.49"
+        },
+        {
+          "cell": "L5",
+          "value": "0.57"
+        },
+        {
+          "cell": "M5",
+          "value": "4.06"
+        },
+        {
+          "cell": "N5",
+          "value": "3.04"
+        },
+        {
+          "cell": "O5",
+          "value": "1.74"
+        },
+        {
+          "cell": "P5",
+          "value": "0.012435307469600462"
+        },
+        {
+          "cell": "Q5",
+          "value": "21.475776"
+        },
+        {
+          "cell": "S5",
+          "value": "256"
+        },
+        {
+          "cell": "T5",
+          "value": "10.3"
+        },
+        {
+          "cell": "U5",
+          "value": "7.7"
+        },
+        {
+          "cell": "V5",
+          "value": "4.4"
+        },
+        {
+          "cell": "W5",
+          "value": "12.7952755905512"
+        },
+        {
+          "cell": "X5",
+          "value": "10.0787401574803"
+        },
+        {
+          "cell": "Y5",
+          "value": "11.8110236220472"
+        },
+        {
+          "cell": "AE5",
+          "value": "16"
+        }
+      ],
+      [
+        {
+          "cell": "A6",
+          "value": "4A 301x12-Y"
+        },
+        {
+          "cell": "B6",
+          "value": "702877117200"
+        },
+        {
+          "cell": "C6",
+          "value": "B01LVWFZVZ"
+        },
+        {
+          "cell": "D6",
+          "value": "702877118597"
+        },
+        {
+          "cell": "E6",
+          "value": "B01N2YLQ23"
+        },
+        {
+          "cell": "G6",
+          "value": "4A Sticky Notes,75x25mm,Small Size,Self-Stick Notes,16 Colors,100 Sheets/Pad,1600 Sheets,16 Pads/Pack, 4A 752516"
+        },
+        {
+          "cell": "H6",
+          "value": "144"
+        },
+        {
+          "cell": "I6",
+          "value": "0.97"
+        },
+        {
+          "cell": "J6",
+          "value": "1.99"
+        },
+        {
+          "cell": "K6",
+          "value": "3.99"
+        },
+        {
+          "cell": "L6",
+          "value": "0.4"
+        },
+        {
+          "cell": "M6",
+          "value": "3"
+        },
+        {
+          "cell": "N6",
+          "value": "2"
+        },
+        {
+          "cell": "O6",
+          "value": "2.35"
+        },
+        {
+          "cell": "P6",
+          "value": "0.008164447017950204"
+        },
+        {
+          "cell": "Q6",
+          "value": "14.100000000000001"
+        },
+        {
+          "cell": "R6",
+          "value": "1"
+        },
+        {
+          "cell": "S6",
+          "value": "181.436"
+        },
+        {
+          "cell": "T6",
+          "value": "7.62"
+        },
+        {
+          "cell": "U6",
+          "value": "5.08"
+        },
+        {
+          "cell": "V6",
+          "value": "5.969"
+        },
+        {
+          "cell": "W6",
+          "value": "13.5826771653543"
+        },
+        {
+          "cell": "X6",
+          "value": "13.3858267716535"
+        },
+        {
+          "cell": "Y6",
+          "value": "17.5196850393701"
+        },
+        {
+          "cell": "Z6",
+          "value": "Sticky notes,1 1/2 x 2,Yellow,Self-Stick Notes,Post it,Sticky note pads,"
+        },
+        {
+          "cell": "AD6",
+          "value": "0.08083333333333333"
+        },
+        {
+          "cell": "AE6",
+          "value": "12"
+        }
+      ]
+    ],
+    "rows": [
+      [
+        {
+          "cell": "A2",
+          "value": "4A 124418"
+        },
+        {
+          "cell": "B2",
+          "value": "702877124819"
+        },
+        {
+          "cell": "C2",
+          "value": "B07DJKB4FZ"
+        },
+        {
+          "cell": "D2",
+          "value": "702877124154"
+        },
+        {
+          "cell": "E2",
+          "value": "B07F2CWVQ7"
+        },
+        {
+          "cell": "G2",
+          "value": "4A Page Maker 1/2x1 3/4 Inches,Small Size,Neon Assorted,Self-Stick Notes,16 Colors,50 sheets/Pad,16 Pads/Pack,800 Sheets/Pack,4A 124418"
+        },
+        {
+          "cell": "H2",
+          "value": "144"
+        },
+        {
+          "cell": "I2",
+          "value": "2.25"
+        },
+        {
+          "cell": "J2",
+          "value": "4.5"
+        },
+        {
+          "cell": "K2",
+          "value": "8.99"
+        },
+        {
+          "cell": "L2",
+          "value": "0.26"
+        },
+        {
+          "cell": "M2",
+          "value": "6.85"
+        },
+        {
+          "cell": "N2",
+          "value": "4.76"
+        },
+        {
+          "cell": "O2",
+          "value": "0.6"
+        },
+        {
+          "cell": "P2",
+          "value": "0.011328083381586565"
+        },
+        {
+          "cell": "Q2",
+          "value": "19.563599999999997"
+        },
+        {
+          "cell": "S2",
+          "value": "117.93339999999999"
+        },
+        {
+          "cell": "T2",
+          "value": "17.399"
+        },
+        {
+          "cell": "U2",
+          "value": "12.090399999999999"
+        },
+        {
+          "cell": "V2",
+          "value": "1.524"
+        },
+        {
+          "cell": "W2",
+          "value": "12.7952755905512"
+        },
+        {
+          "cell": "X2",
+          "value": "10.0787401574803"
+        },
+        {
+          "cell": "Y2",
+          "value": "8.66141732283465"
+        },
+        {
+          "cell": "Z2",
+          "value": "Sticky notes,1/2x1 3/4,Neon Assorted,Self-Stick Notes,Post it,Sticky note pads,"
+        },
+        {
+          "cell": "AC2",
+          "value": "10.5"
+        },
+        {
+          "cell": "AE2",
+          "value": "18"
+        }
+      ],
+      [
+        {
+          "cell": "A70",
+          "value": "4A 4012"
+        },
+        {
+          "cell": "B70",
+          "value": "702877117644"
+        },
+        {
+          "cell": "C70",
+          "value": "B01M3N310M"
+        },
+        {
+          "cell": "D70",
+          "value": "702877119952"
+        },
+        {
+          "cell": "E70",
+          "value": "B01MZ1PQQ8"
+        },
+        {
+          "cell": "G70",
+          "value": "4A Sticky Notes Value Pack,Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4012"
+        },
+        {
+          "cell": "H70",
+          "value": "24"
+        },
+        {
+          "cell": "I70",
+          "value": "3"
+        },
+        {
+          "cell": "J70",
+          "value": "6"
+        },
+        {
+          "cell": "K70",
+          "value": "11.99"
+        },
+        {
+          "cell": "L70",
+          "value": "0.9"
+        },
+        {
+          "cell": "M70",
+          "value": "6"
+        },
+        {
+          "cell": "N70",
+          "value": "3"
+        },
+        {
+          "cell": "O70",
+          "value": "2.35"
+        },
+        {
+          "cell": "P70",
+          "value": "0.02449334105385061"
+        },
+        {
+          "cell": "Q70",
+          "value": "42.300000000000004"
+        },
+        {
+          "cell": "R70",
+          "value": "1"
+        },
+        {
+          "cell": "S70",
+          "value": "408.231"
+        },
+        {
+          "cell": "T70",
+          "value": "15.24"
+        },
+        {
+          "cell": "U70",
+          "value": "7.62"
+        },
+        {
+          "cell": "V70",
+          "value": "5.969"
+        },
+        {
+          "cell": "W70",
+          "value": "12.7952755905512"
+        },
+        {
+          "cell": "X70",
+          "value": "10.5511811023622"
+        },
+        {
+          "cell": "Y70",
+          "value": "10.1574803149606"
+        },
+        {
+          "cell": "Z70",
+          "value": "Sticky notes Value Pack,Box,Holder,Self-Stick Notes,Post it,Sticky note pads,sticky note pads,personalized"
+        },
+        {
+          "cell": "AD70",
+          "value": "0.16666666666666666"
+        },
+        {
+          "cell": "AE70",
+          "value": "18"
+        }
+      ],
+      [
+        {
+          "cell": "A76",
+          "value": "4A 303M-PNx12"
+        },
+        {
+          "cell": "B76",
+          "value": "702877118009"
+        },
+        {
+          "cell": "C76",
+          "value": "B01JGGQ5B6"
+        },
+        {
+          "cell": "D76",
+          "value": "702877121092"
+        },
+        {
+          "cell": "E76",
+          "value": "B07B7JF9LB"
+        },
+        {
+          "cell": "G76",
+          "value": "4A Magic Cyclic Sticky Notes,4 Neon Color Assorted, Each Color Sheets Cyclic,Self-Stick Notes,3 x 3 Inches,100 Sheets/Pad,12 Pads/Box,4A 303M-PNx12, More Easy&Efficient! "
+        },
+        {
+          "cell": "H76",
+          "value": "24"
+        },
+        {
+          "cell": "I76",
+          "value": "2.5"
+        },
+        {
+          "cell": "J76",
+          "value": "5"
+        },
+        {
+          "cell": "K76",
+          "value": "9.99"
+        },
+        {
+          "cell": "L76",
+          "value": "1.1"
+        },
+        {
+          "cell": "M76",
+          "value": "6"
+        },
+        {
+          "cell": "N76",
+          "value": "3"
+        },
+        {
+          "cell": "O76",
+          "value": "2.35"
+        },
+        {
+          "cell": "P76",
+          "value": "0.02449334105385061"
+        },
+        {
+          "cell": "Q76",
+          "value": "42.300000000000004"
+        },
+        {
+          "cell": "R76",
+          "value": "1"
+        },
+        {
+          "cell": "S76",
+          "value": "498.949"
+        },
+        {
+          "cell": "T76",
+          "value": "15.24"
+        },
+        {
+          "cell": "U76",
+          "value": "7.62"
+        },
+        {
+          "cell": "V76",
+          "value": "5.969"
+        },
+        {
+          "cell": "Z76",
+          "value": "Sticky notes 3x3,Magic Cyclic,Neon Assorted Color Cyclic,Self-Stick Notes,Post it,Sticky note pads,"
+        },
+        {
+          "cell": "AD76",
+          "value": "0.20833333333333334"
+        },
+        {
+          "cell": "AE76",
+          "value": "12"
+        }
+      ],
+      [
+        {
+          "cell": "A78",
+          "value": "MG 30312"
+        },
+        {
+          "cell": "B78",
+          "value": "702877119914"
+        },
+        {
+          "cell": "C78",
+          "value": "无"
+        },
+        {
+          "cell": "D78",
+          "value": "无"
+        },
+        {
+          "cell": "E78",
+          "value": "B01MU0JZHU"
+        },
+        {
+          "cell": "G78",
+          "value": "4A Magic Cyclic Sticky Notes,4 Neon Color Assorted, Each Color Sheets Cyclic,3 x 3 Inches,100 Sheets/Pad,12 Pads/Box,4A 303M-PNx12, More Easy&Efficient! "
+        },
+        {
+          "cell": "H78",
+          "value": "24"
+        },
+        {
+          "cell": "I78",
+          "value": "2.5"
+        },
+        {
+          "cell": "J78",
+          "value": "5"
+        },
+        {
+          "cell": "K78",
+          "value": "9.99"
+        },
+        {
+          "cell": "L78",
+          "value": "1.1"
+        },
+        {
+          "cell": "M78",
+          "value": "6"
+        },
+        {
+          "cell": "N78",
+          "value": "3"
+        },
+        {
+          "cell": "O78",
+          "value": "2.35"
+        },
+        {
+          "cell": "P78",
+          "value": "0.02449334105385061"
+        },
+        {
+          "cell": "Q78",
+          "value": "42.300000000000004"
+        },
+        {
+          "cell": "R78",
+          "value": "1"
+        },
+        {
+          "cell": "S78",
+          "value": "498.949"
+        },
+        {
+          "cell": "T78",
+          "value": "15.24"
+        },
+        {
+          "cell": "U78",
+          "value": "7.62"
+        },
+        {
+          "cell": "V78",
+          "value": "5.969"
+        },
+        {
+          "cell": "Z78",
+          "value": "Sticky notes 3x3,Magic Cyclic,Neon Assorted Color Cyclic,Self-Stick Notes,Post it,Sticky note pads,"
+        },
+        {
+          "cell": "AD78",
+          "value": "0.20833333333333334"
+        },
+        {
+          "cell": "AE78",
+          "value": "12"
+        }
+      ]
+    ]
+  },
+  {
+    "file": "C:\\Users\\24243\\Documents\\Codex\\2026-08-11\\7-30-slack-plugin-slack-openai\\4A_Amazon_Operations\\source_workbooks\\亚马逊供应商和开店总表-2023.xlsx",
+    "sheet": "变体",
+    "headers": [
+      [],
+      [
+        {
+          "cell": "A2",
+          "value": "paper filags"
+        },
+        {
+          "cell": "B2",
+          "value": "4A 124418"
+        }
+      ],
+      [
+        {
+          "cell": "B3",
+          "value": "4A 501516"
+        }
+      ],
+      [
+        {
+          "cell": "B4",
+          "value": "4A 501521"
+        }
+      ],
+      [
+        {
+          "cell": "B5",
+          "value": "4A 752516"
+        }
+      ],
+      []
+    ],
+    "rows": [
+      [
+        {
+          "cell": "A2",
+          "value": "paper filags"
+        },
+        {
+          "cell": "B2",
+          "value": "4A 124418"
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "checked_at": "2026-10-30 Asia/Shanghai",
+  "results": [
+    {
+      "page": 2,
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Script ran on page and returned:\n```json\n{\"url\":\"https://www.amazon.com/dp/B07DJPCBLV\",\"asin\":\"B07DJPCBLV\",\"title\":\"4A 5084-N-L 便签,12.7 x 20.3 厘米,大号,内衬,4 种霓虹色,自粘便条,50 张/垫,4 个垫/包,200 张/包\",\"details\":\"颜色\\t霓虹灯组合\\n大小\\t8\\\" x 5\\\"\\n品牌\\t4A\\n单位数量\\t200 个\\n形状\\t矩形\",\"bullets\":\"关于该商品\\n[颜色和尺寸] 5 英寸 x 8 英寸(约 12.7 厘米 x 20.3 厘米),4 种霓虹色,带衬里,50 张/垫,4 张/包,200 张/包\\n[ 特点 ] 优质纸张,易于使用和剥离,无残留,可保持干净整洁。\\n[应用程序] 非常适合记录快速消息和头脑风暴会议,捕捉想法\\n[可回收] 4A 便签可回收\\n[4A 品牌] 高品质,价格合理!\\n› 查看更多商品信息\",\"availability\":\"目前无货。\\n欢迎选购其他类似产品。\",\"image\":\"https://m.media-amazon.com/images/I/71miiT9TSFL._AC_SL1500_.jpg\"}\n```"
+          }
+        ]
+      }
+    },
+    {
+      "page": 3,
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Script ran on page and returned:\n```json\n{\"url\":\"https://www.amazon.com/dp/B08CVLH794\",\"asin\":\"B08CVLH794\",\"title\":\"卷便签带分配器,全粘性,宽 x 长 0.6 x 393 英寸,6 种不同霓虹色,自粘便条,6 卷/包,4A PSS 32x6\",\"details\":\"颜色\\t[霓虹色]\\n大小\\t0.6 x 393 Inches\\n品牌\\t4A\\n单位数量\\t6 个\\n形状\\t矩形\",\"bullets\":\"关于该商品\\n[颜色和尺寸] 0.6 x 393 英寸,6 种霓虹色,6 卷\\n[ 特点 ] 方便的设计，根据您的需要将其裁剪，每次都能获得完美的长度\\n[应用] 非常适合记录快速信息和脑风暴会议,记录想法。\\n[可回收] 4A 便签可回收\\n[4A 品牌] 高品质,价格合理!\\n› 查看更多商品信息\",\"availability\":\"目前无货。\\n欢迎选购其他类似产品。\",\"image\":\"https://m.media-amazon.com/images/I/81A1OxVMLCL._AC_SL1500_.jpg\"}\n```"
+          }
+        ]
+      }
+    },
+    {
+      "page": 4,
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Script ran on page and returned:\n```json\n{\"url\":\"https://www.amazon.com/dp/B01LVWFZVZ?th=1\",\"asin\":\"B01LVWFZVZ\",\"title\":\"便利贴,1 1/2 x 2 英寸,小号,短边胶带,淡黄色,自粘便签,100 张/垫,12 张/包,4A 301x12-Y\",\"details\":\"颜色\\tYellow-12 Pads\\n大小\\t3\\\" x 2\\\"\\n品牌\\t4A\\n单位数量\\t1 个\\n形状\\tRectangular\",\"bullets\":\"关于该商品\\n[颜色和尺寸] 1 1/2\\\" x 2\\\",淡黄色, 100 张/垫, 12 个垫/包\\n[特点] 优质纸张,使用方便剥除,无残留,可保持干净整洁。\\n[应用] 非常适合记录快速信息和脑风暴会议,记录想法。\\n[可回收] 4A 便签可回收\\n[4A 品牌] 高品质,价格合理!\\n› 查看更多商品信息\",\"availability\":\"目前无货。\\n欢迎选购其他类似产品。\",\"image\":\"https://m.media-amazon.com/images/I/51CwnyQsPoL._AC_SL1500_.jpg\"}\n```"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2164 @@
+- generic: 卖家精灵
+- navigation "快捷菜单":
+  - heading "跳至" [level=2]:
+    - generic: 跳至
+  - list "跳至":
+    - link "主要内容":
+      - /url: "#skippedLink"
+      - generic: 主要内容
+    - link "关于此商品":
+      - /url: "#featurebullets_feature_div"
+      - generic: 关于此商品
+    - link "购买选项":
+      - /url: "#buybox"
+      - generic: 购买选项
+    - link "视频":
+      - /url: "#va-related-videos-widget_feature_div"
+      - generic: 视频
+    - link "评论":
+      - /url: "#customerReviews"
+      - generic: 评论
+  - separator
+  - heading "键盘快捷键" [level=2]:
+    - generic: 键盘快捷键
+  - list "键盘快捷键":
+    - link "搜索键、Alt键、正斜杠":
+      - /url: javascript:void(0)
+      - generic: 搜索
+      - generic: 备选
+      - generic: +
+      - generic: /
+    - link "购物车、Shift、Alt、C":
+      - /url: javascript:void(0)
+      - generic: 大车
+      - generic: 转移
+      - generic: +
+      - generic: 备选
+      - generic: +
+      - generic: C
+    - link "Home、Shift、Alt、H":
+      - /url: javascript:void(0)
+      - generic: 家
+      - generic: 转移
+      - generic: +
+      - generic: 备选
+      - generic: +
+      - generic: H
+    - link "您的订单、Shift、Alt、o":
+      - /url: javascript:void(0)
+      - generic: 订单
+      - generic: 转移
+      - generic: +
+      - generic: 备选
+      - generic: +
+      - generic: 哦
+    - link "要前往独立生活商店，请按 Shift、Alt、I 键。":
+      - /url: javascript:void(0)
+      - generic: 独立生活商店
+      - generic: 转移
+      - generic: +
+      - generic: 备选
+      - generic: +
+      - generic: 我
+    - button "加入购物车，Shift，Alt，K":
+      - generic: 添加到购物车
+      - generic: 转移
+      - generic: +
+      - generic: 备选
+      - generic: +
+      - generic: K
+    - button "产品摘要、Shift、Alt、D":
+      - generic: 产品概述
+      - generic: 转移
+      - generic: +
+      - generic: 备选
+      - generic: +
+      - generic: D
+    - button "显示/隐藏快捷键、Shift、Alt、Z":
+      - generic: 显示/隐藏快捷方式
+      - generic: 转移
+      - generic: +
+      - generic: 备选
+      - generic: +
+      - generic: Z
+  - generic: 要在项目之间移动，请使用键盘上的向上或向下箭头键。
+- banner:
+  - navigation "基本的":
+    - link "亚马逊":
+      - /url: /ref=nav_logo
+    - button "送至 纽约 10001":
+      - generic: 送至
+      - generic: 纽约 10001
+    - search:
+      - generic: 办公用品
+      - combobox "选择您要搜索的部门":
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option [selected]
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+      - searchbox "搜索亚马逊"
+      - generic "去":
+        - button "去"
+    - link "选择您在亚马逊美国站购物的语言。当前选项为英语（EN）。":
+      - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang
+      - img "美国"
+      - generic: EN
+    - button "展开以更改语言或国家/地区"
+    - link "你好，安迪 账户和列表":
+      - /url: https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn
+      - generic: 你好，安迪
+      - generic: 账户和列表
+    - button "展开帐户和列表"
+    - link "返回 订单":
+      - /url: /gp/css/order-history?ref_=nav_orders_first
+      - generic: 返回
+      - generic: 订单
+    - link "99+ items in cart":
+      - /url: /gp/cart/view.html?ref_=nav_cart
+      - generic: 99+
+      - generic: 大车
+    - button "打开所有类别菜单":
+      - generic: 全部
+    - button "打开 Alexa 面板"
+    - button "加入 Prime 会员":
+      - generic: 加入 Prime 会员
+    - list:
+      - link "节日礼物":
+        - /url: https://www.amazon.com/b/?node=221346714011&enabledRefinements=%5B%7B%22rid%22%3A%22p_n_condition-type%22%2C%22value%22%3A%226461716011%22%2C%22ridType%22%3A%22SEARCH_SHORT_ID%22%2C%22type%22%3A%22BROWSE_NODE%22%7D%2C%7B%22rid%22%3A%22p_n_availability%22%2C%22value%22%3A%222661600011%22%2C%22ridType%22%3A%22SEARCH_SHORT_ID%22%2C%22type%22%3A%22BROWSE_NODE%22%7D%5D&ref_=nav_cs_discobar_hg2026#dossier-asin-grid
+        - generic: 节日礼物
+      - link "浏览历史记录":
+        - /url: /gp/history?ref_=nav_cs_timeline
+        - generic: 浏览历史记录
+      - button "浏览历史记录详情"
+      - link "礼品卡":
+        - /url: /gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc
+        - generic: 礼品卡
+      - button "礼品卡详情"
+      - link "畅销书":
+        - /url: /gp/bestsellers/?ref_=nav_cs_bestsellers
+        - generic: 畅销书
+      - link "今日特惠":
+        - /url: /deals?ref_=nav_cs_gb
+        - generic: 今日特惠
+      - link "优惠券":
+        - /url: /coupons?ref_=nav_cs_coupons
+        - generic: 优惠券
+      - link "家庭音响及影院":
+        - /url: /Home-Audio-Electronics/b/?ie=UTF8&node=667846011&ref_=nav_cs_home_audio
+        - generic: 家庭音响及影院
+      - link "Prime Video":
+        - /url: /gp/video/storefront?ref_=nav_cs_prime_video
+        - generic: Prime Video
+      - link "新品发布":
+        - /url: /gp/new-releases/?ref_=nav_cs_newreleases
+        - generic: 新品发布
+      - link "再次购买":
+        - /url: /gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again
+        - generic: 再次购买
+      - link "卖":
+        - /url: /b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell
+        - generic: 卖
+      - link "注册表":
+        - /url: /gp/browse.html?node=16115931011&ref_=nav_cs_registry
+        - generic: 注册表
+      - link "宠物用品":
+        - /url: /pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets
+        - generic: 宠物用品
+      - button "宠物用品详情"
+      - link "家居装修":
+        - /url: /Tools-and-Home-Improvement/b/?ie=UTF8&node=228013&ref_=nav_cs_hi
+        - generic: 家居装修
+      - button "家居装修详情"
+      - link "每天":
+        - /url: /everyday-essentials?ref_=nav_cs_ee
+        - generic: 每天
+      - link "家居、健康与婴儿护理":
+        - /url: /health-personal-care-nutrition-fitness/b/?ie=UTF8&node=3760901&ref_=nav_cs_hpc
+        - generic: 家居、健康与婴儿护理
+      - link "Kindle电子书":
+        - /url: /Kindle-eBooks/b/?ie=UTF8&node=154606011&ref_=nav_cs_kindle_books
+        - generic: Kindle电子书
+      - link "图书":
+        - /url: /books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books
+        - generic: 图书
+      - link "客户服务":
+        - /url: /hz/contact-us/foresight/hubgateway?ref_=nav_cs_fs_hybridhub_navbar_c
+        - generic: 客户服务
+      - link "玩具和游戏":
+        - /url: /toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys
+        - generic: 玩具和游戏
+      - button "玩具和游戏详情"
+      - link "杂货":
+        - /url: /fmc/grocery-gateway?gsc=fe16aGPfFs46S&ref_=nav_cs_groceries
+        - generic: 杂货
+      - link "定制产品":
+        - /url: /Amazon-Custom/b/?ie=UTF8&node=11032013011&ref_=nav_cs_custom
+        - generic: 定制产品
+      - button "定制产品详情"
+      - link "电视和视频":
+        - /url: /tvs/b/?ie=UTF8&node=172659&ref_=nav_cs_tv
+        - generic: 电视和视频
+      - link "药店":
+        - /url: https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy
+        - generic: 药店
+      - link "亚马逊购物分享":
+        - /url: /haul/store?ref_=nav_cs_hul_disb
+        - generic: 亚马逊购物分享
+      - link "亚马逊基础款":
+        - /url: /Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics
+        - generic: 亚马逊基础款
+      - link "医疗保健":
+        - /url: https://health.amazon.com/?ref_=nav_cs_medical_care_health_home
+        - generic: 医疗保健
+      - button "医疗护理详情"
+      - link "全食超市":
+        - /url: /alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=nav_cs_whole_foods
+        - generic: 全食超市
+      - link "计算机":
+        - /url: /computer-pc-hardware-accessories-add-ons/b/?ie=UTF8&node=541966&ref_=nav_cs_pc
+        - generic: 计算机
+      - link "当日送达":
+        - /url: /fmc/ssd-storefront?gsc=fe16aGPfFs46S&ref_=nav_cs_SSD_nav_storefront
+        - generic: 当日送达
+    - link "办公用品":
+      - /url: /Office-Products/b/?ie=UTF8&node=1064954&ref_=topnav_storetab_op
+      - generic: 办公用品
+    - link "办公用品交易":
+      - /url: /b/?ie=UTF8&node=1086186&ref_=sv_op_1
+      - generic: 办公用品交易
+    - link "学校用品，您当前位于下拉菜单中。要打开此下拉菜单，请按回车键。":
+      - /url: /Office-Supplies/b/?ie=UTF8&node=1069242&ref_=sv_op_2
+      - generic: 学校用品
+    - link "打印机、墨水和碳粉":
+      - /url: /Printers/b/?ie=UTF8&node=172635&ref_=sv_op_3
+      - generic: 打印机、墨水和碳粉
+    - link "投影仪":
+      - /url: /projectors/b/?ie=UTF8&node=300334&ref_=sv_op_4
+      - generic: 投影仪
+    - link "亚马逊企业购":
+      - /url: /business/register/org/landing/?_encoding=UTF8&ref=b2b_reg_subnav_office&ref_=sv_op_5
+      - generic: 亚马逊企业购
+    - dialog:
+      - heading "小计" [level=1]:
+        - generic: 小计
+      - heading "$2,158.65" [level=2]
+      - link "前往购物车":
+        - /url: /cart?ref_=ox_ewc_ret_gtc_dsk_us
+        - generic: 前往购物车
+      - link "4A Transparent Page Flags, 0.5 x 1.75 in, Neon Colors | Mark and organize pages for easy reference":
+        - /url: /gp/product/B07RP8FX7N/ref=ewc_pr_img_1?smid=A2O6EHY2KJ4BXE&psc=1
+        - img "4A Transparent Page Flags, 0.5 x 1.75 in, Neon Colors | Mark and organize pages for easy reference"
+      - generic: $15.99
+      - generic: "Qty:"
+      - spinbutton "Quantity 4A Transparent Page Flags, 0.5 x 1.75 in, Neon Colors | Mark and organize pages for easy reference": "135"
+      - list:
+        - link "4A 耐用文件标签 | 标记和整理页面...":
+          - /url: /gp/product/B07RQ5MBBB/ref=ewc_title_delete1?smid=A2O6EHY2KJ4BXE&psc=1
+          - generic: 4A 耐用文件标签 | 标记和整理页面...
+        - generic: 已从购物车中移除。
+- heading "产品概要介绍关键产品信息 键盘快捷 键 Shift + Alt + D" [level=1]:
+  - button "产品概要介绍关键产品信息":
+    - generic: 产品概要介绍关键产品信息
+  - separator
+  - generic: 键盘快捷
+  - generic: 键 Shift
+  - generic: +
+  - generic: Alt
+  - generic: +
+  - generic: D
+- main:
+  - list:
+    - link "办公用品":
+      - /url: /Office-Products/b/ref=dp_bc_1?ie=UTF8&node=1064954
+      - generic: 办公用品
+    - generic: ›
+    - link "办公及学习用品":
+      - /url: /Office-Supplies/b/ref=dp_bc_2?ie=UTF8&node=1069242
+      - generic: 办公及学习用品
+    - generic: ›
+    - link "纸":
+      - /url: /paper/b/ref=dp_bc_3?ie=UTF8&node=1069664
+      - generic: 纸
+    - generic: ›
+    - link "笔记本和便笺簿":
+      - /url: /Notebook/b/ref=dp_bc_4?ie=UTF8&node=1069756
+      - generic: 笔记本和便笺簿
+    - generic: ›
+    - link "自粘便签":
+      - /url: /Self-Stick-Note-Pads/b/ref=dp_bc_5?ie=UTF8&node=1297017011
+      - generic: 自粘便签
+  - generic: v5.0.6（数据来源：卖家精灵）
+  - generic: 质量得分
+  - generic: "7.1"
+  - generic: 近30天销量(父体)
+  - generic: "****"
+  - generic: 上市销售额
+  - generic: "****"
+  - generic: 均价
+  - generic: "****"
+  - generic: 巴西国家铁路
+  - generic: 186,917
+  - generic: FBA费用
+  - generic: "****"
+  - generic: 变体数
+  - generic: "28"
+  - generic: 1688找货源
+  - generic: 查外观专利
+  - generic "视频+图文教程":
+  - generic "设置":
+  - generic: 变体对比
+  - generic: (28)
+  - generic: Keepa 插件替代
+  - generic: 流量分析
+  - generic: 人工智能评论分析
+  - generic: 全站点售卖
+  - generic: 反查出单词
+  - generic: 变体流量对比
+  - generic: 收起
+  - generic: 主人！插件需要登录才能使用哦~
+  - generic: 立即登录
+  - link:
+    - /url: javascript:void(0)
+  - heading "卖家精灵-库存监控" [level=4]:
+    - generic: 卖家精灵-库存监控
+  - switch [checked]
+  - generic: 剩余库存
+  - generic: "135"
+  - generic: 15.99美元
+  - link "4A（美国）有限公司":
+    - /url: https://www.amazon.com/gp/offer-listing/B07RP8FX7N/ref=dp_olp_new_mbc?ie=UTF8&amp;condition=new
+    - generic: 4A（美国）有限公司
+  - generic: "135"
+  - generic: 查看详细
+  - generic: 15.99美元
+  - generic: "15"
+  - generic: 美元
+  - generic: 。
+  - generic: "99"
+  - button "加载更多"
+  - generic: 价格历史
+  - generic: 11月6日星期五
+  - generic: 送货，运费6.29美元。
+  - link "有关运费和运输方式的详细信息":
+    - /url: /gp/aag/details/?seller=A2O6EHY2KJ4BXE&sshmPath=shipping-rates
+    - generic: 详情
+  - button "送货至纽约 10001":
+    - generic: 送货至
+    - generic: 纽约 10001
+  - generic: 有存货
+  - generic: 数量：
+  - combobox "数量：":
+    - option [selected]
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+  - generic: 数量：
+  - generic: "1"
+  - button "添加到购物车"
+  - generic: 添加到购物车
+  - button "加入产品库":
+    - generic: 加入产品库
+  - generic: 主人～为了避免购物车被清空，建议您使用
+  - generic: “加入商品库”
+  - generic: 功能，这样可以永久收藏商品，还能批量分析。
+  - button "立即购买"
+  - generic: 立即购买
+  - group "卖家、运费和购买选项详情":
+    - heading "发货人/卖家" [level=4]:
+      - generic: 发货人/卖家
+    - link "4A（美国）有限公司":
+      - /url: /gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2O6EHY2KJ4BXE&asin=B07RP8FX7N&ref_=dp_merchant_link
+      - generic: 4A（美国）有限公司
+    - heading "返回" [level=4]:
+      - generic: 返回
+    - button "30天退款/换货":
+      - generic: 30天退款/换货
+    - heading "支付" [level=4]:
+      - generic: 支付
+    - button "安全交易":
+      - generic: 安全交易
+  - button "查看更多":
+    - generic: 查看更多
+  - link "加入自动购买":
+    - /url: /buying-rules/ref=rsi_ye_brh_yed&action=dyn-create-br&source=dpx_ye&asin=B07RP8FX7N&existingRuleRedirectView=edit&existingRuleTerminatedRedirectView=edit&minFormActions=true
+    - generic: 加入自动购买
+  - separator
+  - button "添加到列表"
+  - generic: 添加到列表
+  - button "分享":
+    - button "分享"
+  - button "点赞即可将商品保存到您的列表中":
+    - img "点赞即可将商品保存到您的列表中"
+  - radiogroup "图片缩略图":
+    - radio "产品图片":
+      - img "产品图片"
+    - radio "产品图片":
+      - img "产品图片"
+    - radio "产品图片":
+      - img "产品图片"
+  - list
+  - list:
+    - button "4A 透明页标，0.5 x 1.75 英寸，荧光色 | 标记和整理页面，方便查找":
+      - img "4A 透明页标，0.5 x 1.75 英寸，荧光色 | 标记和整理页面，方便查找"
+  - link "点击查看完整图片":
+    - /url: "#"
+    - generic: 点击查看完整图片
+  - heading "问问 Alexa 下载 Alexa 数据" [level=5]:
+    - generic: 问问 Alexa
+    - button "下载 Alexa 数据":
+      - generic: 下载 Alexa 数据
+  - list:
+    - button "这些旗帜可以轻易移除吗？":
+      - generic: 这些旗帜可以轻易移除吗？
+    - button "这些标签页可以写入吗？":
+      - generic: 这些标签页可以写入吗？
+    - button "它们有不同的颜色吗？":
+      - generic: 它们有不同的颜色吗？
+    - button "你可能喜欢这个的原因":
+      - generic: 你可能喜欢这个的原因
+    - button "与类似产品比较":
+      - generic: 与类似产品比较
+    - button "问问别的问题":
+      - generic: 问问别的问题
+  - button
+  - link:
+    - list
+  - generic: ASIN：
+  - generic: B07RP8FX7N
+  - generic: 收起
+  - generic: "品牌:"
+  - generic: 4A
+  - generic: "卖家:"
+  - generic: 4A (USA) LIMITED
+  - generic: "产品: FBM"
+  - link "卖家：1":
+    - /url: https://www.amazon.com/gp/offer-listing/B07RP8FX7N/ref=dp_olp_new_mbc?ie=UTF8&amp;condition=new
+    - generic: 卖家：1
+  - generic: 加入产品库
+  - paragraph:
+    - generic: "#186,917"
+    - generic: 办公
+    - generic: 用品
+  - paragraph:
+    - generic: "#200"
+    - generic: 胶带
+    - generic: 旗帜
+  - paragraph:
+    - generic: "#2,897"
+    - generic: 自粘
+    - generic: 便签本
+  - paragraph:
+    - generic: "#7,420"
+    - generic: 在
+    - generic: 归档产品中
+  - generic: "近30天销量(父体):"
+  - generic: "****"
+  - generic: "近30天销量(子体):"
+  - generic: "****"
+  - generic: 单位：
+  - generic: "****"
+  - generic: FBA费用：
+  - generic: "****"
+  - generic: 毛利率：
+  - generic: "****"
+  - generic: 变形数：
+  - generic: "28"
+  - generic: 价格：
+  - generic: 15.99 美元
+  - generic: 评分（评分数）：
+  - generic: "4.5"
+  - generic: (83)
+  - generic: "商品时长:"
+  - generic: 6天
+  - generic: 颜色：
+  - generic: 霓虹色混装
+  - generic: 尺寸：
+  - generic: 标准尺寸（16个装）
+  - generic: "全部流量词:"
+  - generic: "****"
+  - generic: 搜索推荐词：
+  - generic: "****"
+  - generic: 自然搜索词：
+  - generic: "****"
+  - generic: 广告流量词：
+  - generic: "****"
+  - generic: 关键词反查
+  - generic: 广告分析
+  - generic: 关联流量
+  - generic: 市场分析
+  - generic: 列表生成器
+  - generic: 1688找货源
+  - generic: 阿里巴巴
+  - generic: 销量历史
+  - generic: 产品概要
+  - generic: 优麦云
+  - generic: 抖音达人
+  - generic: MCP服务
+  - generic: 品牌检测
+  - generic: 人工智能评论分析
+  - generic: 评论下载
+  - generic: 主图下载
+  - generic: A+图片下载
+  - generic: 评论图片下载
+  - generic: 卖家精灵
+  - heading "透明书页标签，0.5 x 1.75 英寸，霓虹色" [level=1]:
+    - generic: 透明书页标签，0.5 x 1.75 英寸，霓虹色
+  - generic: 标记并整理页面，以便于查阅
+  - link "前往 4A 商店":
+    - /url: /stores/4A/page/4E42DF11-6189-40AB-8685-6F3D9C788997?lp_asin=B07RP8FX7N&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto
+    - generic: 前往 4A 商店
+  - generic "4.5 星（满分 5 星）":
+    - button "4.5 星（满分 5 星）":
+      - generic: "4.5"
+      - generic: 4.5 星（满分 5 星）
+  - link "83 条评论":
+    - /url: "#averageCustomerReviewsAnchor"
+    - generic "83 条评论":
+      - generic: （83）
+  - generic: "|"
+  - link "搜索此页面":
+    - /url: "#"
+    - generic: 搜索此页面
+  - separator
+  - generic: 15.99美元
+  - generic: "15"
+  - generic: 美元
+  - generic: 。
+  - generic: "99"
+  - button "价格历史"
+  - generic: 价格历史
+  - link "感谢您成为亚马逊顾客。立享50美元优惠： 亚马逊Visa卡获批后，只需支付0.00美元（实际支付15.99美元） 。":
+    - /url: /dp/product/B007URFTYI?pr=con321&inc=782e2c62-97d6-449f-9b98-51014cd1a3b3&ts=d5np55o4dbd52zffouke7q9eu155vit&place=priceblock&plattr=math&imp=21fa3f34-c13e-4f8b-812e-ea85d2ea6856&dasin=B07RP8FX7N&mru=%2Fdp%2Fproduct%2FB07RP8FX7N
+    - strong:
+      - generic: 感谢您成为亚马逊顾客。立享
+      - generic: 50美元
+      - generic: 优惠：
+    - text: 亚马逊Visa卡获批后，只需支付
+    - strong:
+      - generic: 0.00美元（实际支付
+    - strong:
+      - generic: 15.99美元） 。
+  - table
+  - generic: 主要流量词
+  - generic: 收起
+  - generic: 主人！插件需要登录才能使用哦~
+  - generic: 立即登录
+  - generic "所选颜色为霓虹混色。点击即可收起。":
+    - generic: 颜色：
+    - generic: 霓虹色混装
+  - generic "有3个选择。":
+    - group "Make a Color selection":
+      - radiogroup:
+        - radio "霓虹色 15.99美元 15.99美元 In Stock 11月6日，星期五" [checked]
+        - separator
+        - generic: 15.99美元
+        - generic: 15.99美元
+        - generic: 11月6日，星期五
+      - navigation
+  - generic: 尺寸：
+  - combobox:
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option [selected]
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+  - generic: 标准尺寸（16 包装）
+  - button "违规检测":
+    - generic: 违规检测
+  - button "列表优化":
+    - generic: 列表优化
+  - list:
+    - rowgroup:
+      - generic: 颜色
+      - generic: 霓虹色
+      - generic: 尺寸
+      - generic: 标准尺寸（16 包装）
+      - generic: 品牌
+      - generic: 4A
+      - generic: 形状
+      - generic: 矩形的
+      - generic: 项目亮点
+      - generic: 标记并整理页面，以便于查阅
+  - separator
+  - heading "更多详情" [level=1]:
+    - generic: 更多详情
+  - generic: 小型企业
+  - generic: 本产品来自一家小型企业品牌。请支持小型企业。
+  - link "了解更多":
+    - /url: "#"
+    - generic: 了解更多
+  - generic: 本产品来自一家小型企业品牌。请支持小型企业。
+  - link:
+    - /url: "#"
+    - generic: 了解更多
+  - link "报告此产品或卖家的问题":
+    - /url: javascript:void(0)
+    - generic: 报告此产品或卖家的问题
+  - separator
+  - heading "类似产品可供参考" [level=4]:
+    - generic: 类似产品可供参考
+  - generic: 亚马逊的
+  - generic: 选择
+  - link:
+    - /url: /dp/B0DNK3Y1F1/ref=vp_d_pbp13nt5_trans_lp_B07RP8FX7N_pd?_encoding=UTF8&pf_rd_p=496158f5-8d33-4a5c-a195-b3e3d2378493&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=Shtg5&pd_rd_i=B0DNK3Y1F1&pd_rd_w=dvvuy&content-id=amzn1.sym.496158f5-8d33-4a5c-a195-b3e3d2378493&pd_rd_r=06744f80-fb87-4e0e-8fc8-5aae3e341e63&psc=1
+  - link "亚马逊基础款长方形粘性标签，2英寸宽，多种颜色，10种颜色，500片":
+    - /url: /dp/B0DNK3Y1F1/ref=vp_d_pbp13nt5_trans_lp_B07RP8FX7N_pd?_encoding=UTF8&pf_rd_p=496158f5-8d33-4a5c-a195-b3e3d2378493&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=Shtg5&pd_rd_i=B0DNK3Y1F1&pd_rd_w=dvvuy&content-id=amzn1.sym.496158f5-8d33-4a5c-a195-b3e3d2378493&pd_rd_r=06744f80-fb87-4e0e-8fc8-5aae3e341e63&psc=1
+    - generic: 亚马逊基础款长方形粘性标签，2英寸宽，多种颜色，10种颜色，500片
+  - generic: 4.3 星（满分 5 星）
+  - link "617 条评价":
+    - /url: /product-reviews/B0DNK3Y1F1/ref=vp_d_pbp13nt5_trans_lp_B07RP8FX7N_rv?_encoding=UTF8&pf_rd_p=496158f5-8d33-4a5c-a195-b3e3d2378493&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=Shtg5&pd_rd_i=B0DNK3Y1F1&pd_rd_w=dvvuy&content-id=amzn1.sym.496158f5-8d33-4a5c-a195-b3e3d2378493&pd_rd_r=06744f80-fb87-4e0e-8fc8-5aae3e341e63?showViewpoints=1
+    - generic: （617）
+  - generic: 6.94 美元
+  - generic: （每件 0.01 美元）
+  - img "亚马逊Prime会员"
+  - separator
+  - heading "顾客还浏览了这些产品" [level=2]:
+    - generic: 顾客还浏览了这些产品
+  - button "对特定商品不感兴趣"
+  - list:
+    - link:
+      - /url: /Mr-Colorful-Transparent-Markers-Annotating/dp/B0BR7SHWV8/ref=pd_day0_d_sccl_1_1/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0BR7SHWV8&psc=1
+    - link "Mr. Pen 彩色便利贴，8 套，共 1600 张，莫兰迪和复古风格 | 半透明书签，防水书页标签，适用于注释、圣经学习、计划、索引和文档整理":
+      - /url: /Mr-Colorful-Transparent-Markers-Annotating/dp/B0BR7SHWV8/ref=pd_day0_d_sccl_1_1/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0BR7SHWV8&psc=1
+      - generic: Mr. Pen 彩色便利贴，8 套，共 1600 张，莫兰迪和复古风格 | 半透明书签，防水书页标签，适用于注释、圣经学习、计划、索引和文档整理
+    - link "评分 4.8 星（满分 5 星），2474 条评价":
+      - /url: /product-reviews/B0BR7SHWV8/ref=pd_day0_d_sccl_1_1_cr/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0BR7SHWV8
+      - generic: 4.8 星（满分 5 星）
+      - generic: 2,474
+    - link "-26%":
+      - /url: /Mr-Colorful-Transparent-Markers-Annotating/dp/B0BR7SHWV8/ref=pd_day0_d_sccl_1_1/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0BR7SHWV8&psc=1
+      - generic: "-26%"
+    - link "6.99美元":
+      - /url: /Mr-Colorful-Transparent-Markers-Annotating/dp/B0BR7SHWV8/ref=pd_day0_d_sccl_1_1/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0BR7SHWV8&psc=1
+      - generic: 6.99美元
+      - generic: "6"
+      - generic: 美元
+      - generic: 。
+      - generic: "99"
+    - link "标价： 9.44美元":
+      - /url: /Mr-Colorful-Transparent-Markers-Annotating/dp/B0BR7SHWV8/ref=pd_day0_d_sccl_1_1/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0BR7SHWV8&psc=1
+      - generic: 标价：
+      - generic: 9.44美元
+    - generic: 最快可于11月5日星期四
+    - text: 收到。
+    - generic: 亚马逊配送，订单满 35 美元免运费
+    - link:
+      - /url: /ELII-Writable-Transparent-Stickers-Classify/dp/B09ZF3Y1C5/ref=pd_day0_d_sccl_1_2/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B09ZF3Y1C5&psc=1
+    - link "ELII Tabs 800Pcs Sticky Index Tabs Page Markers,Writable and Transparent | Sticky Notes Page Tabs,Book Tabs Label Stickers,Index Tabs for Page Marking ,Classify File,Bible Study,Planning":
+      - /url: /ELII-Writable-Transparent-Stickers-Classify/dp/B09ZF3Y1C5/ref=pd_day0_d_sccl_1_2/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B09ZF3Y1C5&psc=1
+      - generic: ELII Tabs 800Pcs Sticky Index Tabs Page Markers,Writable and Transparent | Sticky Notes Page Tabs,Book Tabs Label Stickers,Index Tabs for Page Marking ,Classify File,Bible Study,Planning
+    - link "评分 4.7 星（满分 5 星），1729 条评价":
+      - /url: /product-reviews/B09ZF3Y1C5/ref=pd_day0_d_sccl_1_2_cr/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B09ZF3Y1C5
+      - generic: 4.7 out of 5 stars
+      - text: 1,729
+    - link "$5.99":
+      - /url: /ELII-Writable-Transparent-Stickers-Classify/dp/B09ZF3Y1C5/ref=pd_day0_d_sccl_1_2/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B09ZF3Y1C5&psc=1
+      - generic: $5.99
+      - text: $
+      - text: "5"
+      - generic: .
+      - text: "99"
+    - link "($0.01/count)":
+      - /url: /ELII-Writable-Transparent-Stickers-Classify/dp/B09ZF3Y1C5/ref=pd_day0_d_sccl_1_2/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B09ZF3Y1C5&psc=1
+    - generic: Get it as soon as Thursday, Nov 5
+    - text: FREE Shipping on orders over $35 shipped by Amazon
+    - link:
+      - /url: /ELII-1200pcs-Markers-Writable-Repositionable/dp/B09WVHMPNQ/ref=pd_day0_d_sccl_1_3/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B09WVHMPNQ&psc=1
+    - link "ELII 1200pcs Sticky Tabs Page Markers,Morandi Sticky Note Tabs Colored | Writable and Repositionable,Book Tabs for Annotating,Book Flags Tabs Strip Index Tabs,Page Tabs,Bible Study,Safety Material":
+      - /url: /ELII-1200pcs-Markers-Writable-Repositionable/dp/B09WVHMPNQ/ref=pd_day0_d_sccl_1_3/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B09WVHMPNQ&psc=1
+      - generic: ELII 1200pcs Sticky Tabs Page Markers,Morandi Sticky Note Tabs Colored | Writable and Repositionable,Book Tabs for Annotating,Book Flags Tabs Strip Index Tabs,Page Tabs,Bible Study,Safety Material
+    - link "评分 4.8 星（满分 5 星），6,926 条评价":
+      - /url: /product-reviews/B09WVHMPNQ/ref=pd_day0_d_sccl_1_3_cr/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B09WVHMPNQ
+      - generic: 4.8 out of 5 stars
+      - text: 6,926
+    - link "$6.79":
+      - /url: /ELII-1200pcs-Markers-Writable-Repositionable/dp/B09WVHMPNQ/ref=pd_day0_d_sccl_1_3/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B09WVHMPNQ&psc=1
+      - generic: $6.79
+      - text: $
+      - text: "6"
+      - generic: .
+      - text: "79"
+    - link "($0.01/count)":
+      - /url: /ELII-1200pcs-Markers-Writable-Repositionable/dp/B09WVHMPNQ/ref=pd_day0_d_sccl_1_3/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B09WVHMPNQ&psc=1
+    - generic: Get it as soon as Thursday, Nov 5
+    - text: FREE Shipping on orders over $35 shipped by Amazon
+    - link:
+      - /url: /Lysas-Translucent-Writable-Repositionable-Aesthetic/dp/B0BF143HRJ/ref=pd_day0_d_sccl_1_4/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0BF143HRJ&psc=1
+    - link "Lysas 1200 Pcs Morandi Sticky Tabs, Translucent Book Tabs Page Markers | Writable & repositionable index tabs & annotation tabs for reading notes, book annotating, Bible, planner & office files":
+      - /url: /Lysas-Translucent-Writable-Repositionable-Aesthetic/dp/B0BF143HRJ/ref=pd_day0_d_sccl_1_4/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0BF143HRJ&psc=1
+      - generic: Lysas 1200 Pcs Morandi Sticky Tabs, Translucent Book Tabs Page Markers | Writable & repositionable index tabs & annotation tabs for reading notes, book annotating, Bible, planner & office files
+    - link "4.8 星（满分 5 星），505 条评价":
+      - /url: /product-reviews/B0BF143HRJ/ref=pd_day0_d_sccl_1_4_cr/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0BF143HRJ
+      - generic: 4.8 out of 5 stars
+      - text: "505"
+    - link "$4.99":
+      - /url: /Lysas-Translucent-Writable-Repositionable-Aesthetic/dp/B0BF143HRJ/ref=pd_day0_d_sccl_1_4/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0BF143HRJ&psc=1
+      - generic: $4.99
+      - text: $
+      - text: "4"
+      - generic: .
+      - text: "99"
+    - generic: Get it as soon as Thursday, Nov 5
+    - text: FREE Shipping on orders over $35 shipped by Amazon
+    - link:
+      - /url: /KICNIC-800-Translucent-Fluorescent-Notebooks/dp/B098F9YKKG/ref=pd_day0_d_sccl_1_5/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B098F9YKKG&psc=1
+    - link "KICNIC Page Markers 8 Colors Sticky Tabs, 800 Pcs, Translucent Arrow Flags | Fluorescent Index Tab Stickers, Small Sticky Notes Flags, 8 Colors, 4 Sets, for Notebooks, Page Marking, School & Office":
+      - /url: /KICNIC-800-Translucent-Fluorescent-Notebooks/dp/B098F9YKKG/ref=pd_day0_d_sccl_1_5/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B098F9YKKG&psc=1
+      - generic: KICNIC Page Markers 8 Colors Sticky Tabs, 800 Pcs, Translucent Arrow Flags | Fluorescent Index Tab Stickers, Small Sticky Notes Flags, 8 Colors, 4 Sets, for Notebooks, Page Marking, School & Office
+    - link "评分 4.7 星（满分 5 星），2,811 条评价":
+      - /url: /product-reviews/B098F9YKKG/ref=pd_day0_d_sccl_1_5_cr/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B098F9YKKG
+      - generic: 4.7 out of 5 stars
+      - text: 2,811
+    - generic: Amazon's Choice
+    - link "$5.99":
+      - /url: /KICNIC-800-Translucent-Fluorescent-Notebooks/dp/B098F9YKKG/ref=pd_day0_d_sccl_1_5/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B098F9YKKG&psc=1
+      - generic: $5.99
+      - text: $
+      - text: "5"
+      - generic: .
+      - text: "99"
+    - generic: Get it as soon as Thursday, Nov 5
+    - text: FREE Shipping on orders over $35 shipped by Amazon
+    - link:
+      - /url: /Post-Dispenser-Assorted-Removable-Calendars/dp/B0FNFPYQH5/ref=pd_day0_d_sccl_1_6/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0FNFPYQH5&psc=1
+    - link "Post-it Flags, .47 x 1.7 in, Assorted Pastels, 1 Pack Dispenser, 100 Flags | Removable Page Markers for Planners, Journals, and Calendars":
+      - /url: /Post-Dispenser-Assorted-Removable-Calendars/dp/B0FNFPYQH5/ref=pd_day0_d_sccl_1_6/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0FNFPYQH5&psc=1
+      - generic: Post-it Flags, .47 x 1.7 in, Assorted Pastels, 1 Pack Dispenser, 100 Flags | Removable Page Markers for Planners, Journals, and Calendars
+    - link "4.8 星（满分 5 星），1297 条评价":
+      - /url: /product-reviews/B0FNFPYQH5/ref=pd_day0_d_sccl_1_6_cr/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0FNFPYQH5
+      - generic: 4.8 out of 5 stars
+      - text: 1,297
+    - link "-40%":
+      - /url: /Post-Dispenser-Assorted-Removable-Calendars/dp/B0FNFPYQH5/ref=pd_day0_d_sccl_1_6/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0FNFPYQH5&psc=1
+      - text: "-40%"
+    - link "$2.99":
+      - /url: /Post-Dispenser-Assorted-Removable-Calendars/dp/B0FNFPYQH5/ref=pd_day0_d_sccl_1_6/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0FNFPYQH5&psc=1
+      - generic: $2.99
+      - text: $
+      - text: "2"
+      - generic: .
+      - text: "99"
+    - 'link "List: $4.99"':
+      - /url: /Post-Dispenser-Assorted-Removable-Calendars/dp/B0FNFPYQH5/ref=pd_day0_d_sccl_1_6/138-3162330-3945130?pd_rd_w=QoXPU&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0FNFPYQH5&psc=1
+      - generic: "List: $4.99"
+    - generic: Get it as soon as Thursday, Nov 5
+    - text: FREE Shipping on orders over $35 shipped by Amazon
+  - separator
+  - heading "根据您最近的购物趋势" [level=2]:
+    - generic: 根据您最近的购物趋势
+  - button "对特定商品不感兴趣"
+  - list:
+    - link:
+      - /url: /Stickies-Notepads-Removal-Self-Stick-Enterprise/dp/B0DYNW511F/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_1/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0DYNW511F&psc=1
+    - link "8本装4x6英寸便利贴，共400张，大号便签本，适用于办公室 | 每本50张，80克厚，不渗墨，易于撕除，自粘式便签本，适用于学生、家庭、企业、公司、待办事项清单":
+      - /url: /Stickies-Notepads-Removal-Self-Stick-Enterprise/dp/B0DYNW511F/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_1/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0DYNW511F&psc=1
+      - generic: 8本装4x6英寸便利贴，共400张，大号便签本，适用于办公室 | 每本50张，80克厚，不渗墨，易于撕除，自粘式便签本，适用于学生、家庭、企业、公司、待办事项清单
+    - link "4.1 星（满分 5 星），581 条评价":
+      - /url: /product-reviews/B0DYNW511F/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_1_cr/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0DYNW511F
+      - generic: 4.1 星（满分 5 星）
+      - generic: "581"
+    - link "12.99美元":
+      - /url: /Stickies-Notepads-Removal-Self-Stick-Enterprise/dp/B0DYNW511F/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_1/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0DYNW511F&psc=1
+      - generic: 12.99美元
+      - generic: "12"
+      - generic: 美元
+      - generic: 。
+      - generic: "99"
+    - link "（每件 1.62 美元）":
+      - /url: /Stickies-Notepads-Removal-Self-Stick-Enterprise/dp/B0DYNW511F/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_1/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0DYNW511F&psc=1
+      - generic: （每件 1.62 美元）
+    - generic: 最快可于11月5日星期四
+    - text: 收到。
+    - generic: 亚马逊配送，订单满 35 美元免运费
+    - link:
+      - /url: /Sticky-Bright-Colorful-Sheets-Self-Sticky/dp/B07VHJ6F8N/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_2/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B07VHJ6F8N&psc=1
+    - link "SIMONA 4x6英寸便签纸，6种亮色，270张 | 彩色自粘便签纸，6种颜色可选，大号便签纸，适用于办公室、学校、家庭":
+      - /url: /Sticky-Bright-Colorful-Sheets-Self-Sticky/dp/B07VHJ6F8N/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_2/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B07VHJ6F8N&psc=1
+      - generic: SIMONA 4x6英寸便签纸，6种亮色，270张 | 彩色自粘便签纸，6种颜色可选，大号便签纸，适用于办公室、学校、家庭
+    - link "4.2 星（满分 5 星），3,584 条评价":
+      - /url: /product-reviews/B07VHJ6F8N/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_2_cr/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B07VHJ6F8N
+      - generic: 4.2 星（满分 5 星）
+      - generic: 3,584
+    - generic: 亚马逊之选
+    - link "8.99美元":
+      - /url: /Sticky-Bright-Colorful-Sheets-Self-Sticky/dp/B07VHJ6F8N/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_2/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B07VHJ6F8N&psc=1
+      - generic: 8.99美元
+      - generic: "8"
+      - generic: 美元
+      - generic: 。
+      - generic: "99"
+    - link "（每件0.03美元）":
+      - /url: /Sticky-Bright-Colorful-Sheets-Self-Sticky/dp/B07VHJ6F8N/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_2/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B07VHJ6F8N&psc=1
+      - generic: （每件0.03美元）
+    - generic: 最快可于11月5日星期四
+    - text: 收到。
+    - generic: 亚马逊配送，订单满 35 美元免运费
+    - link:
+      - /url: /Self-Stick-Recyclable-Sticking-76x127mm-Removal/dp/B0D2X4757F/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_3/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0D2X4757F&psc=1
+    - link "Agoer 3 x 5 英寸便签纸，12 本装，可重复粘贴，黄色 | 每本 100 张，大号便签纸，学校用品和办公用品，易于粘贴，超强粘性，长条便签纸":
+      - /url: /Self-Stick-Recyclable-Sticking-76x127mm-Removal/dp/B0D2X4757F/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_3/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0D2X4757F&psc=1
+      - generic: Agoer 3 x 5 英寸便签纸，12 本装，可重复粘贴，黄色 | 每本 100 张，大号便签纸，学校用品和办公用品，易于粘贴，超强粘性，长条便签纸
+    - link "4.0 星（满分 5 星），426 条评价":
+      - /url: /product-reviews/B0D2X4757F/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_3_cr/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0D2X4757F
+      - generic: 4.0 分（满分 5 分）
+      - generic: "426"
+    - link "15.99美元":
+      - /url: /Self-Stick-Recyclable-Sticking-76x127mm-Removal/dp/B0D2X4757F/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_3/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0D2X4757F&psc=1
+      - generic: 15.99美元
+      - generic: "15"
+      - generic: 美元
+      - generic: 。
+      - generic: "99"
+    - link "（每件 1.33 美元）":
+      - /url: /Self-Stick-Recyclable-Sticking-76x127mm-Removal/dp/B0D2X4757F/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_3/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B0D2X4757F&psc=1
+      - generic: （每件 1.33 美元）
+    - generic: 最快可于11月5日星期四
+    - text: 收到。
+    - generic: 亚马逊配送，订单满 35 美元免运费
+    - generic: 库存仅剩17件 - 欲购从速。
+    - link:
+      - /url: /Post-Super-Sticky-Notes-Sheets/dp/B000E7D7HC/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_4/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B000E7D7HC&psc=1
+    - link "Post-it 超强粘性便签纸，6 x 4 英寸，霓虹亮片色，8 本，每本 45 张 | 学校用品和办公用品，粘性是普通便签纸的两倍":
+      - /url: /Post-Super-Sticky-Notes-Sheets/dp/B000E7D7HC/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_4/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B000E7D7HC&psc=1
+      - generic: Post-it 超强粘性便签纸，6 x 4 英寸，霓虹亮片色，8 本，每本 45 张 | 学校用品和办公用品，粘性是普通便签纸的两倍
+    - link "评分 4.8 星（满分 5 星），723 条评价":
+      - /url: /product-reviews/B000E7D7HC/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_4_cr/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B000E7D7HC
+      - generic: 4.8 星（满分 5 星）
+      - generic: "723"
+    - link "-34%":
+      - /url: /Post-Super-Sticky-Notes-Sheets/dp/B000E7D7HC/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_4/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B000E7D7HC&psc=1
+      - generic: "-34%"
+    - link "11.96美元":
+      - /url: /Post-Super-Sticky-Notes-Sheets/dp/B000E7D7HC/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_4/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B000E7D7HC&psc=1
+      - generic: 11.96美元
+      - generic: "11"
+      - generic: 美元
+      - generic: 。
+      - generic: "96"
+    - link "标价： 17.99美元":
+      - /url: /Post-Super-Sticky-Notes-Sheets/dp/B000E7D7HC/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_4/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B000E7D7HC&psc=1
+      - generic: 标价：
+      - generic: 17.99美元
+    - generic: 最快可于11月5日星期四
+    - text: 收到。
+    - generic: 亚马逊配送，订单满 35 美元免运费
+    - link:
+      - /url: /Post-Americas-Favorite-Sticky-659/dp/B00006JNNS/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_5/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B00006JNNS&psc=1
+    - link "便利贴，4 x 6 英寸，经典金丝雀黄，12 本装 | 学校用品和办公用品":
+      - /url: /Post-Americas-Favorite-Sticky-659/dp/B00006JNNS/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_5/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B00006JNNS&psc=1
+      - generic: 便利贴，4 x 6 英寸，经典金丝雀黄，12 本装 | 学校用品和办公用品
+    - link "4.5 星（满分 5 星），103 条评价":
+      - /url: /product-reviews/B00006JNNS/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_5_cr/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B00006JNNS
+      - generic: 4.5 星（满分 5 星）
+      - generic: "103"
+    - link "-27%":
+      - /url: /Post-Americas-Favorite-Sticky-659/dp/B00006JNNS/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_5/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B00006JNNS&psc=1
+      - generic: "-27%"
+    - link "29.21美元":
+      - /url: /Post-Americas-Favorite-Sticky-659/dp/B00006JNNS/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_5/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B00006JNNS&psc=1
+      - generic: 29.21美元
+      - generic: "29"
+      - generic: 美元
+      - generic: 。
+      - generic: "21"
+    - link "（每件 2.43 美元）":
+      - /url: /Post-Americas-Favorite-Sticky-659/dp/B00006JNNS/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_5/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B00006JNNS&psc=1
+      - generic: （每件 2.43 美元）
+    - link "标价： 39.99美元":
+      - /url: /Post-Americas-Favorite-Sticky-659/dp/B00006JNNS/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_5/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B00006JNNS&psc=1
+      - generic: 标价：
+      - generic: 39.99美元
+    - generic: 最快可于11月5日星期四
+    - text: 收到。
+    - generic: 亚马逊配送，订单满 35 美元免运费
+    - link:
+      - /url: /Early-Buy-Sticky-Bright-Self-Stick/dp/B07VKMJW1D/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_6/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B07VKMJW1D&psc=1
+    - link "Early Buy 便利贴，4x6 英寸，6 种亮色，6 本，每本 45 张 | 自粘可重复粘贴设计，非常适合用于清单、备忘录和日常整理":
+      - /url: /Early-Buy-Sticky-Bright-Self-Stick/dp/B07VKMJW1D/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_6/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B07VKMJW1D&psc=1
+      - generic: Early Buy 便利贴，4x6 英寸，6 种亮色，6 本，每本 45 张 | 自粘可重复粘贴设计，非常适合用于清单、备忘录和日常整理
+    - link "评分 4.2 星（满分 5 星），2050 条评价":
+      - /url: /product-reviews/B07VKMJW1D/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_6_cr/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B07VKMJW1D
+      - generic: 4.2 星（满分 5 星）
+      - generic: 2,050
+    - link "7.99美元":
+      - /url: /Early-Buy-Sticky-Bright-Self-Stick/dp/B07VKMJW1D/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_2_6/138-3162330-3945130?pd_rd_w=lHIa5&content-id=amzn1.sym.751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pd_rd_i=B07VKMJW1D&psc=1
+      - generic: 7.99美元
+      - generic: "7"
+      - generic: 美元
+      - generic: 。
+      - generic: "99"
+    - generic: 最快可于11月5日星期四
+    - text: 收到。
+    - generic: 亚马逊配送，订单满 35 美元免运费
+    - generic: 库存仅剩12件，欲购从速。
+  - separator
+  - heading "From the brand" [level=2]
+  - region "精选内容轮播":
+    - list:
+      - paragraph: About 4A
+      - paragraph: Since 2000, 4A has been committed to developing high quality sticky notes. Our innovative adhesive technology ensures our notes stick longer, remove cleanly, and stay flat, all while being reusable on any clear surface.
+      - paragraph: At 4A, we believe that the simplest tools can spark the greatest ideas - whether it’s a quick reminder or a big plan, our sticky notes help bring your thoughts to life!
+      - heading "NEW" [level=3]
+      - list:
+        - link "4A 全粘性便签纸，3 x 2 英寸，色彩鲜艳，彩色小便签纸，全粘性……":
+          - /url: /dp/B0F2TKL2P5/ref=emc_bcc_2_i
+          - img "4A 全粘性便签纸，3 x 2 英寸，色彩鲜艳，彩色小便签纸，全粘性……"
+        - link "4A 全粘性便签纸，3 1/3 x 3 英寸，每色 80 张，自粘便签纸，5 种颜色/包，400...":
+          - /url: /dp/B07QXJYTZ7/ref=emc_bcc_2_i
+          - img "4A 全粘性便签纸，3 1/3 x 3 英寸，每色 80 张，自粘便签纸，5 种颜色/包，400..."
+        - link "4A 5 片装全粘性便签纸，3 x 4 英寸，颜色鲜艳，背面全粘性，自粘便签纸...":
+          - /url: /dp/B07QXJWDPL/ref=emc_bcc_2_i
+          - img "4A 5 片装全粘性便签纸，3 x 4 英寸，颜色鲜艳，背面全粘性，自粘便签纸..."
+        - link "4A 5 包全粘性便签纸，3 x 5 英寸，5 张亮色全粘性便签纸，适用于……":
+          - /url: /dp/B07QXJZKHC/ref=emc_bcc_2_i
+          - img "4A 5 包全粘性便签纸，3 x 5 英寸，5 张亮色全粘性便签纸，适用于……"
+      - heading "Full Adhesive Sticky Notes" [level=3]
+      - list:
+        - link "4A 全粘性便签纸，4 1/3 x 3 英寸，每色 20 张，5 种颜色/包，自粘便签纸，100...":
+          - /url: /dp/B00SMEFFRE/ref=emc_bcc_2_i
+          - img "4A 全粘性便签纸，4 1/3 x 3 英寸，每色 20 张，5 种颜色/包，自粘便签纸，100..."
+        - link "4A 10本装全粘性便签纸，3 x 4 英寸，颜色鲜艳，背面全粘性，自粘便签纸...":
+          - /url: /dp/B07FK975YB/ref=emc_bcc_2_i
+          - img "4A 10本装全粘性便签纸，3 x 4 英寸，颜色鲜艳，背面全粘性，自粘便签纸..."
+        - link "4A 5 片装全粘性便签纸，3 x 5 英寸，颜色鲜艳，背面全粘性，自粘便签纸...":
+          - /url: /dp/B0FBG138ND/ref=emc_bcc_2_i
+          - img "4A 5 片装全粘性便签纸，3 x 5 英寸，颜色鲜艳，背面全粘性，自粘便签纸..."
+        - link "4A 全粘性便签纸，5 x 3 英寸，每色 20 张，每包 5 种颜色，每套 2 包，共 200 张 T...":
+          - /url: /dp/B07FK9BYHW/ref=emc_bcc_2_i
+          - img "4A 全粘性便签纸，5 x 3 英寸，每色 20 张，每包 5 种颜色，每套 2 包，共 200 张 T..."
+      - heading "Full Adhesive Sticky Notes" [level=3]
+      - list:
+        - link "4A 4本带横线便签纸，5 x 8 英寸，淡黄色，带横线的长款自粘便签纸...":
+          - /url: /dp/B0F9L5G6XQ/ref=emc_bcc_2_i
+          - img "4A 4本带横线便签纸，5 x 8 英寸，淡黄色，带横线的长款自粘便签纸..."
+        - link "4A 4本带横线的便签纸，5 x 8 英寸，颜色鲜艳，彩色大号带横线便签纸...":
+          - /url: /dp/B07F2B49BL/ref=emc_bcc_2_i
+          - img "4A 4本带横线的便签纸，5 x 8 英寸，颜色鲜艳，彩色大号带横线便签纸..."
+        - link "4A 8本带横线便签纸，5 x 8英寸，颜色鲜艳，彩色大号带横线便签纸...":
+          - /url: /dp/B07FKJM2LX/ref=emc_bcc_2_i
+          - img "4A 8本带横线便签纸，5 x 8英寸，颜色鲜艳，彩色大号带横线便签纸..."
+        - link "4A 16 叠带横线便签本 5 x 8 英寸，色彩鲜艳，彩色大号带横线便签 Sel...":
+          - /url: /dp/B07MQVWLSY/ref=emc_bcc_2_i
+          - img "4A 16 叠带横线便签本 5 x 8 英寸，色彩鲜艳，彩色大号带横线便签 Sel..."
+      - heading "Lined Sticky Notes" [level=3]
+      - heading "Sticky Notes" [level=3]
+      - paragraph
+      - list:
+        - generic: Focus on Durability and Recyclability
+        - generic: Organize Your Thoughts, Make Every Idea Stick!
+      - paragraph
+      - list:
+        - link "4A 全粘性便签纸，带分配器和 2 卷补充装，荧光黄和绿色...":
+          - /url: /dp/B07R2KSW34/ref=emc_bcc_2_i
+          - img "4A 全粘性便签纸，带分配器和 2 卷补充装，荧光黄和绿色..."
+        - link "4A 全粘性便签纸，带分配器和 2 卷补充装，荧光黄和 Ro...":
+          - /url: /dp/B07QWKWWP2/ref=emc_bcc_2_i
+          - img "4A 全粘性便签纸，带分配器和 2 卷补充装，荧光黄和 Ro..."
+        - link "4A 卷装便利贴，全粘性，宽 x 长 2 x 315 英寸，霓虹色混装，自粘便签，4...":
+          - /url: /dp/B07QVKPZXX/ref=emc_bcc_2_i
+          - img "4A 卷装便利贴，全粘性，宽 x 长 2 x 315 英寸，霓虹色混装，自粘便签，4..."
+        - link "4A 卷装便利贴，全粘性，宽 x 长 0.4 x 315 英寸，霓虹色混装，自粘便签……":
+          - /url: /dp/B01N4IN5OP/ref=emc_bcc_2_i
+          - img "4A 卷装便利贴，全粘性，宽 x 长 0.4 x 315 英寸，霓虹色混装，自粘便签……"
+      - heading "Roll Sticky Notes" [level=3]
+      - list:
+        - link "4A 全粘性便签纸，4 卷替换装，网格线，2 x 315 英寸，彩色方格纸……":
+          - /url: /dp/B07FKF5V92/ref=emc_bcc_2_i
+          - img "4A 全粘性便签纸，4 卷替换装，网格线，2 x 315 英寸，彩色方格纸……"
+        - link "4A 卷装便利贴，全粘性，宽 x 长 2 x 315 英寸，霓虹色混装，自粘便签，4...":
+          - /url: /dp/B07QVKPZXX/ref=emc_bcc_2_i
+          - img "4A 卷装便利贴，全粘性，宽 x 长 2 x 315 英寸，霓虹色混装，自粘便签，4..."
+        - link "4A 便利贴，4 卷全粘性胶带，0.4 x 315 英寸，彩色卷胶带，适用于 Bo...":
+          - /url: /dp/B07QXJX2BV/ref=emc_bcc_2_i
+          - img "4A 便利贴，4 卷全粘性胶带，0.4 x 315 英寸，彩色卷胶带，适用于 Bo..."
+        - link "4A 便签纸补充装，6 种鲜艳颜色，多种尺寸，彩色便签纸和索引标签……":
+          - /url: /dp/B0F2TJZ8GM/ref=emc_bcc_2_i
+          - img "4A 便签纸补充装，6 种鲜艳颜色，多种尺寸，彩色便签纸和索引标签……"
+      - heading "Sticky Note Refills" [level=3]
+      - list:
+        - link "4A分隔页便签纸，标签页，2 2/3 x 2 7/8 英寸，白色纸张，带横线，每分隔页15张，4个分隔页...":
+          - /url: /dp/B07FKBHTDG/ref=emc_bcc_2_i
+          - img "4A分隔页便签纸，标签页，2 2/3 x 2 7/8 英寸，白色纸张，带横线，每分隔页15张，4个分隔页..."
+        - link "4A 耐用文件标签、分隔标签、页码索引标签、透明贴纸、可书写、书籍...":
+          - /url: /dp/B07RP9K6KV/ref=emc_bcc_2_i
+          - img "4A 耐用文件标签、分隔标签、页码索引标签、透明贴纸、可书写、书籍..."
+        - link "4A分隔便签纸，4 x 6 英寸，白色纸张，带横线，每张20张，每包3个分隔页，每包2包……":
+          - /url: /dp/B07FKFMJTL/ref=emc_bcc_2_i
+          - img "4A分隔便签纸，4 x 6 英寸，白色纸张，带横线，每张20张，每包3个分隔页，每包2包……"
+        - link "4包4A分隔便签纸，4 x 6英寸，大号，荧光色混装，带横线，每张10页，6 D...":
+          - /url: /dp/B07MMMY4L4/ref=emc_bcc_2_i
+          - img "4包4A分隔便签纸，4 x 6英寸，大号，荧光色混装，带横线，每张10页，6 D..."
+      - heading "Divider Sticky Notes" [level=3]
+      - list:
+        - link "4A 32 叠 0.6 x 2 英寸便利贴标签/书签，16 种颜色，每叠 100 张，小号……":
+          - /url: /dp/B07TSD57BD/ref=emc_bcc_2_i
+          - img "4A 32 叠 0.6 x 2 英寸便利贴标签/书签，16 种颜色，每叠 100 张，小号……"
+        - link "4A 便签纸，50x15mm，小号，21种颜色，自粘便签纸，100张/本，4200张，21 P...":
+          - /url: /dp/B08DKFCQBB/ref=emc_bcc_2_i
+          - img "4A 便签纸，50x15mm，小号，21种颜色，自粘便签纸，100张/本，4200张，21 P..."
+        - link "4A 耐用文件标签、分隔标签、页码索引标签、透明贴纸、可书写标签……":
+          - /url: /dp/B01MZ4GWAS/ref=emc_bcc_2_i
+          - img "4A 耐用文件标签、分隔标签、页码索引标签、透明贴纸、可书写标签……"
+        - link "4A 便签纸标签，带PP刻度线，霓虹色书签，荧光色索引标签，透明……":
+          - /url: /dp/B01N7MUM3T/ref=emc_bcc_2_i
+          - img "4A 便签纸标签，带PP刻度线，霓虹色书签，荧光色索引标签，透明……"
+      - heading "Sticky Tabs" [level=3]
+      - list:
+        - link "4A 立体粘贴便签，3 x 3 英寸，霓虹色混装，15 种颜色，自粘便签，100 张/本，15 包...":
+          - /url: /dp/B07RP82CVJ/ref=emc_bcc_2_i
+          - img "4A 立体粘贴便签，3 x 3 英寸，霓虹色混装，15 种颜色，自粘便签，100 张/本，15 包..."
+        - link "4A 立体粘贴便签，3 x 3 英寸，霓虹色混装，自粘便签，每本 100 张，每包 12 本，4A...":
+          - /url: /dp/B07FKL115P/ref=emc_bcc_2_i
+          - img "4A 立体粘贴便签，3 x 3 英寸，霓虹色混装，自粘便签，每本 100 张，每包 12 本，4A..."
+        - link "4A 粘性弹出式便签，4 种霓虹色混装，每种颜色循环使用，自粘便签，3 x 3 英寸...":
+          - /url: /dp/B07RN7VHK1/ref=emc_bcc_2_i
+          - img "4A 粘性弹出式便签，4 种霓虹色混装，每种颜色循环使用，自粘便签，3 x 3 英寸..."
+        - link "4A 立体粘贴便签，3 x 3 英寸，粉彩色系，每本 100 张，每包 12 本，4A 303x12-Z":
+          - /url: /dp/B07FKL2S87/ref=emc_bcc_2_i
+          - img "4A 立体粘贴便签，3 x 3 英寸，粉彩色系，每本 100 张，每包 12 本，4A 303x12-Z"
+      - heading "Pop Up Sticky Notes" [level=3]
+      - list:
+        - link "4A 2 包心形便签纸，3 x 3 英寸，5 种颜色混合，每包 200 张，彩色心形便签纸...":
+          - /url: /dp/B0F1TTFTKQ/ref=emc_bcc_2_i
+          - img "4A 2 包心形便签纸，3 x 3 英寸，5 种颜色混合，每包 200 张，彩色心形便签纸..."
+        - link "4A 2 叠叶形便签纸，2.83 x 2.83 英寸，5 种颜色混合，彩色可爱便签纸 S...":
+          - /url: /dp/B0F1TW5LS8/ref=emc_bcc_2_i
+          - img "4A 2 叠叶形便签纸，2.83 x 2.83 英寸，5 种颜色混合，彩色可爱便签纸 S..."
+        - link "4A Shapes Sticky Notes,Puzzle,2 7/8 x 2 4/7 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,...":
+          - /url: /dp/B07RN7WQ81/ref=emc_bcc_2_i
+          - img "4A Shapes Sticky Notes,Puzzle,2 7/8 x 2 4/7 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,..."
+        - link "4A Shapes Sticky Notes,Heart(3 x 3 Inches),Arrow(2.72 x 2.56 Inches),Bubble(3 3/8 x 1 7/8 Inches)...":
+          - /url: /dp/B07FKHKDJG/ref=emc_bcc_2_i
+          - img "4A Shapes Sticky Notes,Heart(3 x 3 Inches),Arrow(2.72 x 2.56 Inches),Bubble(3 3/8 x 1 7/8 Inches)..."
+      - heading "Shaped Sticky Notes" [level=3]
+      - list:
+        - link "4A Sticky Notes,5 x 8 Inches,Large Size,Canary Yellow,Lined,Self-Stick Notes,50 Sheets/Pad,2 Pads...":
+          - /url: /dp/B07F2BHFJH/ref=emc_bcc_2_i
+          - img "4A Sticky Notes,5 x 8 Inches,Large Size,Canary Yellow,Lined,Self-Stick Notes,50 Sheets/Pad,2 Pads..."
+        - link "4A Sticky Big Pad,11 x 11 Inches,Large Size,Pastel Blue,Self-Stick Notes,30 Sheets/Pad,3 Pads/Pac...":
+          - /url: /dp/B01N6LJNW4/ref=emc_bcc_2_i
+          - img "4A Sticky Big Pad,11 x 11 Inches,Large Size,Pastel Blue,Self-Stick Notes,30 Sheets/Pad,3 Pads/Pac..."
+        - link "4A Sticky Big Pad,15 x 15 in,Large Size,Neon Yellow,Orange,Red and Green,Self-Stick Notes,30 Shee...":
+          - /url: /dp/B07R1XLCP4/ref=emc_bcc_2_i
+          - img "4A Sticky Big Pad,15 x 15 in,Large Size,Neon Yellow,Orange,Red and Green,Self-Stick Notes,30 Shee..."
+        - link "8 Packs 4A Super Sticky Easel Pad,White Sheets,Meeting Pad,Self-Stick Flip Chart Paper,Great for ...":
+          - /url: /dp/B07RP9MCSW/ref=emc_bcc_2_i
+          - img "8 Packs 4A Super Sticky Easel Pad,White Sheets,Meeting Pad,Self-Stick Flip Chart Paper,Great for ..."
+      - heading "Big Sticky Notes" [level=3]
+      - list:
+        - link "4A 便签方块，2.87 x 2.87 英寸，带项圈狗狗图案印花便签方块...":
+          - /url: /dp/B07F298JNC/ref=emc_bcc_2_i
+          - img "4A 便签方块，2.87 x 2.87 英寸，带项圈狗狗图案印花便签方块..."
+        - link "4A 便签立方体，2.87 x 2.87 英寸，四面印有猫咪图案的便签立方体，A...":
+          - /url: /dp/B07FKJDBFT/ref=emc_bcc_2_i
+          - img "4A 便签立方体，2.87 x 2.87 英寸，四面印有猫咪图案的便签立方体，A..."
+        - link "4A 便签盒（不带粘性），3 1/4 英寸，侧面有波浪纹，每个便签盒约 650 张纸，每包 1 个便签盒……":
+          - /url: /dp/B07FKGDMPS/ref=emc_bcc_2_i
+          - img "4A 便签盒（不带粘性），3 1/4 英寸，侧面有波浪纹，每个便签盒约 650 张纸，每包 1 个便签盒……"
+        - link "4A 便签纸方块，2 1/2 英寸，侧面有气泡图案，每个方块约 500 张，每包 1 个……":
+          - /url: /dp/B07FKHNTRK/ref=emc_bcc_2_i
+          - img "4A 便签纸方块，2 1/2 英寸，侧面有气泡图案，每个方块约 500 张，每包 1 个……"
+      - heading "Sticky Cubes" [level=3]
+      - list:
+        - link "4A 便签纸标签，带PP刻度线，霓虹色书签，荧光色索引标签，透明……":
+          - /url: /dp/B01N7MUM3T/ref=emc_bcc_2_i
+          - img "4A 便签纸标签，带PP刻度线，霓虹色书签，荧光色索引标签，透明……"
+        - link "4A 便利贴标签套装，霓虹色索引标签，透明标签贴纸，文本高亮……":
+          - /url: /dp/B07RQ73GTZ/ref=emc_bcc_2_i
+          - img "4A 便利贴标签套装，霓虹色索引标签，透明标签贴纸，文本高亮……"
+        - link "4A 便携式弹出式标签套装，霓虹色书签荧光色索引标签，Tr...":
+          - /url: /dp/B07FKMZYHH/ref=emc_bcc_2_i
+          - img "4A 便携式弹出式标签套装，霓虹色书签荧光色索引标签，Tr..."
+        - link "4A 弹出式标签套装（含标签盒），霓虹色书签，荧光色索引标签，透明……":
+          - /url: /dp/B07FKJNNHP/ref=emc_bcc_2_i
+          - img "4A 弹出式标签套装（含标签盒），霓虹色书签，荧光色索引标签，透明……"
+      - heading "Sticky Flags" [level=3]
+      - list:
+        - link "4A 3D立体印花便签纸，可爱设计，印有雪地松鼠图案，自粘便签纸……":
+          - /url: /dp/B077Q9ZBBG/ref=emc_bcc_2_i
+          - img "4A 3D立体印花便签纸，可爱设计，印有雪地松鼠图案，自粘便签纸……"
+        - link "4A 3D立体印花便签纸，可爱设计，印有哈瓦那犬图案，自粘便签纸，3.35 x 3.7...":
+          - /url: /dp/B078BQ7G72/ref=emc_bcc_2_i
+          - img "4A 3D立体印花便签纸，可爱设计，印有哈瓦那犬图案，自粘便签纸，3.35 x 3.7..."
+        - link "4A 3D立体印花便签纸，可爱设计，印有Risso's海豚图案，自粘便签纸，3.75英寸……":
+          - /url: /dp/B077Q9W8CW/ref=emc_bcc_2_i
+          - img "4A 3D立体印花便签纸，可爱设计，印有Risso's海豚图案，自粘便签纸，3.75英寸……"
+        - link "4A 3D立体印花便签纸，可爱设计，印有白色小狗图案，自粘便签纸，3.35 x 3.75...":
+          - /url: /dp/B078BP9WP5/ref=emc_bcc_2_i
+          - img "4A 3D立体印花便签纸，可爱设计，印有白色小狗图案，自粘便签纸，3.35 x 3.75..."
+      - heading "3D Memo Pads" [level=3]
+      - list:
+        - link "4A 便利贴超值装，霓虹色，常用尺寸组合，PP盒包装，自粘式...":
+          - /url: /dp/B07RQ6HLK3/ref=emc_bcc_2_i
+          - img "4A 便利贴超值装，霓虹色，常用尺寸组合，PP盒包装，自粘式..."
+        - link "4A 便利贴超值装，多种常用尺寸，PP盒包装，18本/盒，1900张...":
+          - /url: /dp/B07FKJLZNG/ref=emc_bcc_2_i
+          - img "4A 便利贴超值装，多种常用尺寸，PP盒包装，18本/盒，1900张..."
+        - link "4A磁性便签笔套装":
+          - /url: /dp/B07B68TZ84/ref=emc_bcc_2_i
+          - img "4A磁性便签笔套装"
+        - link "4A 印花便签纸，可爱设计，自粘便签纸，Gharry 品牌，尺寸：4 1/2 x 6 英寸，50 张……":
+          - /url: /dp/B0756CNXJW/ref=emc_bcc_2_i
+          - img "4A 印花便签纸，可爱设计，自粘便签纸，Gharry 品牌，尺寸：4 1/2 x 6 英寸，50 张……"
+      - heading "Sticky Notes Set" [level=3]
+  - separator
+  - heading "Product description" [level=2]
+  - paragraph:
+  - heading [level=4]
+  - paragraph: Sticky notes
+  - paragraph:
+  - heading [level=4]
+  - paragraph: Sticky big pads
+  - paragraph:
+  - heading [level=4]
+  - paragraph: Sticky notes flags
+  - paragraph:
+  - heading [level=4]
+  - paragraph: Super Sticky Table Top Dry Erase Pad
+  - table:
+    - rowgroup:
+      - row "Magic Sticky Notes Sticky Notes Pop-up Sticky Big Pads Sticky Notes Colorful Magic Sticky Notes Sticky Notes":
+        - cell
+        - columnheader "Magic Sticky Notes":
+          - link "Magic Sticky Notes":
+            - /url: /dp/B07RQ7G57D?ref=emc_s_m_5_i_atc
+            - generic: Magic Sticky Notes
+        - columnheader "Sticky Notes Pop-up":
+          - link "Sticky Notes Pop-up":
+            - /url: /dp/B07RP82CVJ?ref=emc_s_m_5_i_atc
+            - generic: Sticky Notes Pop-up
+        - columnheader "Sticky Big Pads":
+          - link "Sticky Big Pads":
+            - /url: /dp/B07QWKYQV7?ref=emc_s_m_5_i_atc
+            - generic: Sticky Big Pads
+        - columnheader "Sticky Notes Colorful":
+          - link "Sticky Notes Colorful":
+            - /url: /dp/B07FKG29KB?ref=emc_s_m_5_i_atc
+            - generic: Sticky Notes Colorful
+        - columnheader "Magic Sticky Notes":
+          - link "Magic Sticky Notes":
+            - /url: /dp/B01MU0JZHU?ref=emc_s_m_5_i_atc
+            - generic: Magic Sticky Notes
+        - columnheader "Sticky Notes":
+          - link "Sticky Notes":
+            - /url: /dp/B07FK9R5GW?ref=emc_s_m_5_i_atc
+            - generic: Sticky Notes
+      - row "Add to Cart Add to Cart Add to Cart Add to Cart Add to Cart Buying Options":
+        - cell
+        - cell "Add to Cart":
+          - button "Add to Cart"
+          - generic: Add to Cart
+        - cell "Add to Cart":
+          - button "Add to Cart"
+          - generic: Add to Cart
+        - cell "Add to Cart":
+          - button "Add to Cart"
+          - generic: Add to Cart
+        - cell "Add to Cart":
+          - button "Add to Cart"
+          - generic: Add to Cart
+        - cell "Add to Cart":
+          - button "Add to Cart"
+          - generic: Add to Cart
+        - cell "Buying Options":
+          - link "Buying Options":
+            - /url: /dp/B07FK9R5GW?ref=emc_s_m_5_i_atc
+      - row "Customer Reviews 2.7 out of 5 stars 21 3.9 out of 5 stars 128 3.6 out of 5 stars 118 3.9 out of 5 stars 128 2.7 out of 5 stars 21 3.0 out of 5 stars 1":
+        - rowheader "Customer Reviews"
+        - cell "2.7 out of 5 stars 21":
+          - generic: 2.7 out of 5 stars
+          - text: "21"
+        - cell "3.9 out of 5 stars 128":
+          - generic: 3.9 out of 5 stars
+          - text: "128"
+        - cell "3.6 out of 5 stars 118":
+          - generic: 3.6 out of 5 stars
+          - text: "118"
+        - cell "3.9 out of 5 stars 128":
+          - generic: 3.9 out of 5 stars
+          - text: "128"
+        - cell "2.7 out of 5 stars 21":
+          - generic: 2.7 out of 5 stars
+          - text: "21"
+        - cell "3.0 out of 5 stars 1":
+          - generic: 3.0 out of 5 stars
+          - text: "1"
+      - row "Price $18.99 $16.99 $27.99 $14.99 $10.99 — no data":
+        - rowheader "Price"
+        - cell "$18.99":
+          - generic: $18.99
+          - text: $
+          - text: "18"
+          - generic: .
+          - text: "99"
+        - cell "$16.99":
+          - generic: $16.99
+          - text: $
+          - text: "16"
+          - generic: .
+          - text: "99"
+        - cell "$27.99":
+          - generic: $27.99
+          - text: $
+          - text: "27"
+          - generic: .
+          - text: "99"
+        - cell "$14.99":
+          - generic: $14.99
+          - text: $
+          - text: "14"
+          - generic: .
+          - text: "99"
+        - cell "$10.99":
+          - generic: $10.99
+          - text: $
+          - text: "10"
+          - generic: .
+          - text: "99"
+        - cell "— no data":
+          - text: —
+          - generic: no data
+      - row "Stick and re-stick ✓ ✓ ✓ ✓ ✓ ✓":
+        - rowheader "Stick and re-stick"
+        - cell "✓":
+          - generic: ✓
+        - cell "✓":
+          - generic: ✓
+        - cell "✓":
+          - generic: ✓
+        - cell "✓":
+          - generic: ✓
+        - cell "✓":
+          - generic: ✓
+        - cell "✓":
+          - generic: ✓
+      - row "去除干净 ✓ ✓ ✓ ✓ ✓ ✓":
+        - rowheader "去除干净":
+          - generic: 去除干净
+        - cell "✓":
+          - generic: ✓
+        - cell "✓":
+          - generic: ✓
+        - cell "✓":
+          - generic: ✓
+        - cell "✓":
+          - generic: ✓
+        - cell "✓":
+          - generic: ✓
+        - cell "✓":
+          - generic: ✓
+      - row "采用专为纸张设计的独特粘合剂制成 ✓ ✓ ✓ ✓ ✓ ✓":
+        - rowheader "采用专为纸张设计的独特粘合剂制成":
+          - generic: 采用专为纸张设计的独特粘合剂制成
+        - cell "✓":
+          - generic: ✓
+        - cell "✓":
+          - generic: ✓
+        - cell "✓":
+          - generic: ✓
+        - cell "✓":
+          - generic: ✓
+        - cell "✓":
+          - generic: ✓
+        - cell "✓":
+          - generic: ✓
+  - img "2"
+  - navigation:
+    - navigation "在产品详情页面内导航":
+      - navigation "返回顶部 跳转链接":
+        - generic: 顶部
+      - navigation "关于此项目小部件跳转链接":
+        - generic: 关于此商品
+      - navigation "类似小部件跳转链接":
+        - generic: 相似的
+      - navigation "从品牌小部件跳转链接":
+        - generic: 来自品牌
+      - navigation "产品信息小部件跳转链接":
+        - generic: 产品信息
+      - navigation "问题小部件跳转链接":
+        - generic: 问题
+      - navigation "客户评论小部件跳转链接":
+        - generic: 评论
+    - navigation "返回顶部 图片跳转链接":
+      - img "4A 透明页标，0.5 x 1.75 英寸，荧光色 | 标记和整理页面，方便查找"
+    - navigation "返回顶部标题跳转链接":
+      - generic: 透明书页标签，0.5 x 1.75 英寸，霓虹色
+  - heading "视频" [level=2]:
+    - generic: 视频
+  - generic: 上传视频，帮助其他人了解更多关于这款产品的信息！
+  - link "上传你的视频":
+    - /url: /creatorhub/video/upload?productASIN=B07RP8FX7N&referringURL=ZHAvQjA3UlA4Rlg3Tg%3D%3D&ref=RVSW
+    - generic: 上传你的视频
+  - separator
+  - heading "产品信息" [level=1]:
+    - generic: 产品信息
+  - button "商品详情" [expanded]:
+    - heading "商品详情" [level=5]:
+      - generic: 商品详情
+  - table:
+    - rowgroup:
+      - row "品牌名称 4A":
+        - rowheader "品牌名称":
+          - generic: 品牌名称
+        - cell "4A":
+          - generic: 4A
+      - row "UPC 702877124390":
+        - rowheader "UPC":
+          - generic: UPC
+        - cell "702877124390":
+          - generic: "702877124390"
+      - row "物品重量 4.2盎司":
+        - rowheader "物品重量":
+          - generic: 物品重量
+        - cell "4.2盎司":
+          - generic: 4.2盎司
+      - row "制造商 中国":
+        - rowheader "制造商":
+          - generic: 制造商
+        - cell "中国":
+          - generic: 中国
+      - row "型号 4A 60121-10x2":
+        - rowheader "型号":
+          - generic: 型号
+        - cell "4A 60121-10x2":
+          - generic: 4A 60121-10x2
+      - row "制造商零件编号 4A 60121-10x2":
+        - rowheader "制造商零件编号":
+          - generic: 制造商零件编号
+        - cell "4A 60121-10x2":
+          - generic: 4A 60121-10x2
+      - row "畅销书排名 办公用品类排名第 186,917 位（查看办公用品类前 100 名） 胶带旗帜第 200 名 自粘便签本排名第2897位 文件处理产品排名第 7,420 位":
+        - rowheader "畅销书排名":
+          - generic: 畅销书排名
+        - cell "办公用品类排名第 186,917 位（查看办公用品类前 100 名） 胶带旗帜第 200 名 自粘便签本排名第2897位 文件处理产品排名第 7,420 位":
+          - list:
+            - generic: 办公用品类排名第 186,917 位（
+            - link "查看办公用品类前 100 名":
+              - /url: /gp/bestsellers/office-products/ref=pd_zg_ts_office-products
+              - generic: 查看办公用品类前 100 名
+            - generic: ）
+            - link "胶带旗帜":
+              - /url: /gp/bestsellers/office-products/490718011/ref=pd_zg_hrsr_office-products
+            - text: 第 200 名
+            - link:
+              - /url: /gp/bestsellers/office-products/490718011/ref=pd_zg_hrsr_office-products
+            - link "自粘便签本排名":
+              - /url: /gp/bestsellers/office-products/1297017011/ref=pd_zg_hrsr_office-products
+            - text: 第2897位
+            - link:
+              - /url: /gp/bestsellers/office-products/1297017011/ref=pd_zg_hrsr_office-products
+            - link "文件处理产品":
+              - /url: /gp/bestsellers/office-products/1069554/ref=pd_zg_hrsr_office-products
+            - text: 排名第 7,420 位
+            - link:
+              - /url: /gp/bestsellers/office-products/1069554/ref=pd_zg_hrsr_office-products
+      - row "ASIN B07RP8FX7N":
+        - rowheader "ASIN":
+          - generic: ASIN
+        - cell "B07RP8FX7N":
+          - generic: B07RP8FX7N
+      - row "用户评价 4.5 星（满分 5 星） 83 条评论 4.5 星（满分 5 星）":
+        - rowheader "用户评价":
+          - generic: 用户评价
+        - cell "4.5 星（满分 5 星） 83 条评论 4.5 星（满分 5 星）":
+          - generic "4.5 星（满分 5 星）":
+            - button "4.5 星（满分 5 星）":
+              - generic: "4.5"
+              - generic: 4.5 星（满分 5 星）
+          - link "83 条评论":
+            - /url: "#averageCustomerReviewsAnchor"
+            - generic "83 条评论":
+              - generic: （83）
+          - generic: 4.5 星（满分 5 星）
+  - heading "保修与支持" [level=3]:
+    - generic: 保修与支持
+  - generic: 亚马逊退货政策
+  - generic: ：
+  - generic: 亚马逊30天自愿退货保证：
+  - generic: 您可以在收到商品后的30天内退回大部分已购买的商品。我们的30天自愿退货保证不会以任何方式影响您的法定撤回权。您可以
+  - link "在这里":
+    - /url: /gp/help/customer/display.html/ref=orc_hp_s_retpol?ie=UTF8&nodeId=201819200
+    - generic: 在这里
+  - generic: 了解更多例外情况和条件。
+  - heading "反馈" [level=3]:
+    - generic: 反馈
+  - generic: 你是否想要
+  - button "如果有更低的价格，请告诉我们？":
+    - generic: 如果有更低的价格，请告诉我们？
+  - button "测量" [expanded]:
+    - heading "测量" [level=5]:
+      - generic: 测量
+  - table:
+    - rowgroup:
+      - row "尺寸 标准尺寸（16 包装）":
+        - rowheader "尺寸":
+          - generic: 尺寸
+        - cell "标准尺寸（16 包装）":
+          - generic: 标准尺寸（16 包装）
+      - row "商品尺寸 8.27 x 5.31 x 0.39 英寸":
+        - rowheader "商品尺寸":
+          - generic: 商品尺寸
+        - cell "8.27 x 5.31 x 0.39 英寸":
+          - generic: 8.27 x 5.31 x 0.39 英寸
+  - button "风格" [expanded]:
+    - heading "风格" [level=5]:
+      - generic: 风格
+  - table:
+    - rowgroup:
+      - row "颜色 霓虹色":
+        - rowheader "颜色":
+          - generic: 颜色
+        - cell "霓虹色":
+          - generic: 霓虹色
+      - row "物品形状 矩形的":
+        - rowheader "物品形状":
+          - generic: 物品形状
+        - cell "矩形的":
+          - generic: 矩形的
+  - separator
+  - heading "Alexa AI 想查找特定信息？" [level=3]:
+    - generic: Alexa AI
+    - generic: 想查找特定信息？
+  - textbox "想查找特定信息？":
+    - /placeholder: 询问 Alexa 或搜索评论和问答
+  - button "提交":
+    - img "提交"
+  - list:
+    - button "这些旗帜可以轻易移除吗？"
+    - generic: 这些旗帜可以轻易移除吗？
+    - button "这些标签页可以写入吗？"
+    - generic: 这些标签页可以写入吗？
+    - button "它们有不同的颜色吗？"
+    - generic: 它们有不同的颜色吗？
+    - button "这些可以用在纸上吗？"
+    - generic: 这些可以用在纸上吗？
+    - button "它们可以重复使用吗？"
+    - generic: 它们可以重复使用吗？
+  - heading "亚马逊上的类似品牌" [level=2]:
+    - generic: 亚马逊上的类似品牌
+  - button "请对赞助广告发表反馈意见":
+    - generic: 赞助
+  - list:
+    - link "赞助视频，点击即可跳转至专题页面。":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JAWUSOrA5R3X8LphQ2My9oUAAAGhk31K_gEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDWMFv1/clv1c_ek-wwnHSEsbWDpHHBU7eM2YEMKobDNuZjCJFaAfjjF9nLWvriTdqx4fH_2y5IAt3G2D2ytWK0Jwwivc9O5IzBN-BO1RfHe6T7CqCfBYhU9N3bCr43bTZZex4bP3h3lpfxkTAognOVbcjRinWScRv-QBbotSIDVvki8bvxwneZLLwTye0h0hmDCidDPl7TFuYRCSqxYqnvwfOFvC47kpOOf-S1712quvYOKo7YYyzwXWSpX114rbKofcF981Uop90-4kC2XshpSyIijmbRTqrqlQmBDqkka0hhQ1tDNMGAdwJEWGv7wKumE04okri-XZnp7B6t75UlWYomWqQq8txx7Cf4Ohx8xy3Q1ymIY07vuAY4g7mYuKyYzfhSBKbFK-NdX-DsUf21q9q8-42MB9IQgVOUelhGTFkUp-D_aS9Ase6eEqsQf7bnlXSOCNn_PKr2w4Z5OyhCrH53Tb2toQvr9pT_cq7P4u9pDFquQGWKCoXo6EzGzl0QX5dn_my_DlcRptkQe1vGj3F1SrOP1wEaj31AIAOT65QjAmfDGFm8YcDA8g6rtkScQaMXdcY6K_og4KpP-l-DYZ3rmbhaqAGhNAgUedwLkhR6kA-bosbroOUmg5LszB-LSnJZkbFgkSw6lM0yqI_LmSqypPczxZQ9E-sk3PNkGpvNiJSgE6u5ih0_44IrR37-L6zdS3R0bmMz7MZwNbKqUYjOpoKs0vMrgev1ATgjfppw0wBb_Ct_-ovxZ2LhTj1sRq3cUT06JQhC8-BpKzWRgNAKj8jcYzJ64GgGA1PPlblOf14b7jvg_xIzEW4LiOdiPeMRy8efXQHU3RsM7dzKMXMcW8f8BOUXzmWoyY6rTbY_3TemFy_FMfXJ-5kQ-AUPkDBmz2et26Tc3ow-aCtZU7MtOUpUDXgIm0NVEd9KbItXneYrK7cyuOE-X8tWsnmJfpXtqMwoOgR1qS1rrTZ2GXnpwNpS4_wsq8vT1-hEG5d3xoF8lINA4-Cp6KaYPpfpEAwQYm7aN-liPFJ8kUeU2r8jNMB8o-5zI0Q05gw338AEASNvIWHHTd5Mjz16FZWB9O8mr6NgQ/https://www.amazon.com/dp/B07RJQH2DS/?_encoding=UTF8&pd_rd_i=B07RJQH2DS&pd_rd_i=B07RJQH2DS&ref_=sbx_be_s_sparkle_ssd_vid&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - generic "赞助视频，点击即可跳转至专题页面。"
+    - link "500张2英寸粘性索引标签，可书写可重复粘贴 | 文件标签/旗帜/彩色书签，适用于阅读笔记、书籍和文件分类，21套10种颜色，书写流畅":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JAWUSOrA5R3X8LphQ2My9oUAAAGhk31K_gEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDWMFv1/clv1c_ek-wwnHSEsbWDpHHBU7eM2YEMKobDNuZjCJFaAfjjF9nLWvriTdqx4fH_2y5IAt3G2D2ytWK0Jwwivc9O5IzBN-BO1RfHe6T7CqCfBYhU9N3bCr43bTZZex4bP3h3lpfxkTAognOVbcjRinWScRv-QBbotSIDVvki8bvxwneZLLwTye0h0hmDCidDPl7TFuYRCSqxYqnvwfOFvC47kpOOf-S1712quvYOKo7YYyzwXWSpX114rbKofcF981Uop90-4kC2XshpSyIijmbRTqrqlQmBDqkka0hhQ1tDNMGAdwJEWGv7wKumE04okri-XZnp7B6t75UlWYomWqQq8txx7Cf4Ohx8xy3Q1ymIY07vuAY4g7mYuKyYzfhSBKbFK-NdX-DsUf21q9q8-42MB9IQgVOUelhGTFkUp-D_aS9Ase6eEqsQf7bnlXSOCNn_PKr2w4Z5OyhCrH53Tb2toQvr9pT_cq7P4u9pDFquQGWKCoXo6EzGzl0QX5dn_my_DlcRptkQe1vGj3F1SrOP1wEaj31AIAOT65QjAmfDGFm8YcDA8g6rtkScQaMXdcY6K_og4KpP-l-DYZ3rmbhaqAGhNAgUedwLkhR6kA-bosbroOUmg5LszB-LSnJZkbFgkSw6lM0yqI_LmSqypPczxZQ9E-sk3PNkGpvNiJSgE6u5ih0_44IrR37-L6zdS3R0bmMz7MZwNbKqUYjOpoKs0vMrgev1ATgjfppw0wBb_Ct_-ovxZ2LhTj1sRq3cUT06JQhC8-BpKzWRgNAKj8jcYzJ64GgGA1PPlblOf14b7jvg_xIzEW4LiOdiPeMRy8efXQHU3RsM7dzKMXMcW8f8BOUXzmWoyY6rTbY_3TemFy_FMfXJ-5kQ-AUPkDBmz2et26Tc3ow-aCtZU7MtOUpUDXgIm0NVEd9KbItXneYrK7cyuOE-X8tWsnmJfpXtqMwoOgR1qS1rrTZ2GXnpwNpS4_wsq8vT1-hEG5d3xoF8lINA4-Cp6KaYPpfpEAwQYm7aN-liPFJ8kUeU2r8jNMB8o-5zI0Q05gw338AEASNvIWHHTd5Mjz16FZWB9O8mr6NgQ/https://www.amazon.com/dp/B07RJQH2DS/?_encoding=UTF8&pd_rd_i=B07RJQH2DS&pd_rd_i=B07RJQH2DS&ref_=sbx_be_s_sparkle_ssd_img&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - img "500张2英寸粘性索引标签，可书写可重复粘贴 | 文件标签/旗帜/彩色书签，适用于阅读笔记、书籍和文件分类，21套10种颜色，书写流畅"
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JAWUSOrA5R3X8LphQ2My9oUAAAGhk31K_gEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDWMFv1/clv1c_ek-wwnHSEsbWDpHHBU7eM2YEMKobDNuZjCJFaAfjjF9nLWvriTdqx4fH_2y5IAt3G2D2ytWK0Jwwivc9O5IzBN-BO1RfHe6T7CqCfBYhU9N3bCr43bTZZex4bP3h3lpfxkTAognOVbcjRinWScRv-QBbotSIDVvki8bvxwneZLLwTye0h0hmDCidDPl7TFuYRCSqxYqnvwfOFvC47kpOOf-S1712quvYOKo7YYyzwXWSpX114rbKofcF981Uop90-4kC2XshpSyIijmbRTqrqlQmBDqkka0hhQ1tDNMGAdwJEWGv7wKumE04okri-XZnp7B6t75UlWYomWqQq8txx7Cf4Ohx8xy3Q1ymIY07vuAY4g7mYuKyYzfhSBKbFK-NdX-DsUf21q9q8-42MB9IQgVOUelhGTFkUp-D_aS9Ase6eEqsQf7bnlXSOCNn_PKr2w4Z5OyhCrH53Tb2toQvr9pT_cq7P4u9pDFquQGWKCoXo6EzGzl0QX5dn_my_DlcRptkQe1vGj3F1SrOP1wEaj31AIAOT65QjAmfDGFm8YcDA8g6rtkScQaMXdcY6K_og4KpP-l-DYZ3rmbhaqAGhNAgUedwLkhR6kA-bosbroOUmg5LszB-LSnJZkbFgkSw6lM0yqI_LmSqypPczxZQ9E-sk3PNkGpvNiJSgE6u5ih0_44IrR37-L6zdS3R0bmMz7MZwNbKqUYjOpoKs0vMrgev1ATgjfppw0wBb_Ct_-ovxZ2LhTj1sRq3cUT06JQhC8-BpKzWRgNAKj8jcYzJ64GgGA1PPlblOf14b7jvg_xIzEW4LiOdiPeMRy8efXQHU3RsM7dzKMXMcW8f8BOUXzmWoyY6rTbY_3TemFy_FMfXJ-5kQ-AUPkDBmz2et26Tc3ow-aCtZU7MtOUpUDXgIm0NVEd9KbItXneYrK7cyuOE-X8tWsnmJfpXtqMwoOgR1qS1rrTZ2GXnpwNpS4_wsq8vT1-hEG5d3xoF8lINA4-Cp6KaYPpfpEAwQYm7aN-liPFJ8kUeU2r8jNMB8o-5zI0Q05gw338AEASNvIWHHTd5Mjz16FZWB9O8mr6NgQ/https://www.amazon.com/dp/B07RJQH2DS/?_encoding=UTF8&pd_rd_i=B07RJQH2DS&pd_rd_i=B07RJQH2DS&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JAWUSOrA5R3X8LphQ2My9oUAAAGhk31K_gEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDWMFv1/clv1c_ek-wwnHSEsbWDpHHBU7eM2YEMKobDNuZjCJFaAfjjF9nLWvriTdqx4fH_2y5IAt3G2D2ytWK0Jwwivc9O5IzBN-BO1RfHe6T7CqCfBYhU9N3bCr43bTZZex4bP3h3lpfxkTAognOVbcjRinWScRv-QBbotSIDVvki8bvxwneZLLwTye0h0hmDCidDPl7TFuYRCSqxYqnvwfOFvC47kpOOf-S1712quvYOKo7YYyzwXWSpX114rbKofcF981Uop90-4kC2XshpSyIijmbRTqrqlQmBDqkka0hhQ1tDNMGAdwJEWGv7wKumE04okri-XZnp7B6t75UlWYomWqQq8txx7Cf4Ohx8xy3Q1ymIY07vuAY4g7mYuKyYzfhSBKbFK-NdX-DsUf21q9q8-42MB9IQgVOUelhGTFkUp-D_aS9Ase6eEqsQf7bnlXSOCNn_PKr2w4Z5OyhCrH53Tb2toQvr9pT_cq7P4u9pDFquQGWKCoXo6EzGzl0QX5dn_my_DlcRptkQe1vGj3F1SrOP1wEaj31AIAOT65QjAmfDGFm8YcDA8g6rtkScQaMXdcY6K_og4KpP-l-DYZ3rmbhaqAGhNAgUedwLkhR6kA-bosbroOUmg5LszB-LSnJZkbFgkSw6lM0yqI_LmSqypPczxZQ9E-sk3PNkGpvNiJSgE6u5ih0_44IrR37-L6zdS3R0bmMz7MZwNbKqUYjOpoKs0vMrgev1ATgjfppw0wBb_Ct_-ovxZ2LhTj1sRq3cUT06JQhC8-BpKzWRgNAKj8jcYzJ64GgGA1PPlblOf14b7jvg_xIzEW4LiOdiPeMRy8efXQHU3RsM7dzKMXMcW8f8BOUXzmWoyY6rTbY_3TemFy_FMfXJ-5kQ-AUPkDBmz2et26Tc3ow-aCtZU7MtOUpUDXgIm0NVEd9KbItXneYrK7cyuOE-X8tWsnmJfpXtqMwoOgR1qS1rrTZ2GXnpwNpS4_wsq8vT1-hEG5d3xoF8lINA4-Cp6KaYPpfpEAwQYm7aN-liPFJ8kUeU2r8jNMB8o-5zI0Q05gw338AEASNvIWHHTd5Mjz16FZWB9O8mr6NgQ/https://www.amazon.com/dp/B07RJQH2DS/?_encoding=UTF8&pd_rd_i=B07RJQH2DS&pd_rd_i=B07RJQH2DS&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+    - link "500张2英寸粘性索引标签，可书写可重复粘贴 | 文件标签/旗帜/彩色书签，适用于阅读笔记、书籍和文件分类，21套10种颜色，书写流畅":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JAWUSOrA5R3X8LphQ2My9oUAAAGhk31K_gEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDWMFv1/clv1c_ek-wwnHSEsbWDpHHBU7eM2YEMKobDNuZjCJFaAfjjF9nLWvriTdqx4fH_2y5IAt3G2D2ytWK0Jwwivc9O5IzBN-BO1RfHe6T7CqCfBYhU9N3bCr43bTZZex4bP3h3lpfxkTAognOVbcjRinWScRv-QBbotSIDVvki8bvxwneZLLwTye0h0hmDCidDPl7TFuYRCSqxYqnvwfOFvC47kpOOf-S1712quvYOKo7YYyzwXWSpX114rbKofcF981Uop90-4kC2XshpSyIijmbRTqrqlQmBDqkka0hhQ1tDNMGAdwJEWGv7wKumE04okri-XZnp7B6t75UlWYomWqQq8txx7Cf4Ohx8xy3Q1ymIY07vuAY4g7mYuKyYzfhSBKbFK-NdX-DsUf21q9q8-42MB9IQgVOUelhGTFkUp-D_aS9Ase6eEqsQf7bnlXSOCNn_PKr2w4Z5OyhCrH53Tb2toQvr9pT_cq7P4u9pDFquQGWKCoXo6EzGzl0QX5dn_my_DlcRptkQe1vGj3F1SrOP1wEaj31AIAOT65QjAmfDGFm8YcDA8g6rtkScQaMXdcY6K_og4KpP-l-DYZ3rmbhaqAGhNAgUedwLkhR6kA-bosbroOUmg5LszB-LSnJZkbFgkSw6lM0yqI_LmSqypPczxZQ9E-sk3PNkGpvNiJSgE6u5ih0_44IrR37-L6zdS3R0bmMz7MZwNbKqUYjOpoKs0vMrgev1ATgjfppw0wBb_Ct_-ovxZ2LhTj1sRq3cUT06JQhC8-BpKzWRgNAKj8jcYzJ64GgGA1PPlblOf14b7jvg_xIzEW4LiOdiPeMRy8efXQHU3RsM7dzKMXMcW8f8BOUXzmWoyY6rTbY_3TemFy_FMfXJ-5kQ-AUPkDBmz2et26Tc3ow-aCtZU7MtOUpUDXgIm0NVEd9KbItXneYrK7cyuOE-X8tWsnmJfpXtqMwoOgR1qS1rrTZ2GXnpwNpS4_wsq8vT1-hEG5d3xoF8lINA4-Cp6KaYPpfpEAwQYm7aN-liPFJ8kUeU2r8jNMB8o-5zI0Q05gw338AEASNvIWHHTd5Mjz16FZWB9O8mr6NgQ/https://www.amazon.com/dp/B07RJQH2DS/?_encoding=UTF8&pd_rd_i=B07RJQH2DS&pd_rd_i=B07RJQH2DS&ref_=sbx_be_s_sparkle_ssd_tt&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - generic: 500张2英寸粘性索引标签，可书写可重复粘贴 | 文件标签/旗帜/彩色书签，适用于阅读笔记、书籍和文件分类，21套10种颜色，书写流畅
+    - link "根据 12,243 条评论，评分为 4.7 星（满分 5 星）。":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JAWUSOrA5R3X8LphQ2My9oUAAAGhk31K_gEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDWMFv1/clv1c_ek-wwnHSEsbWDpHHBU7eM2YEMKobDNuZjCJFaAfjjF9nLWvriTdqx4fH_2y5IAt3G2D2ytWK0Jwwivc9O5IzBN-BO1RfHe6T7CqCfBYhU9N3bCr43bTZZex4bP3h3lpfxkTAognOVbcjRinWScRv-QBbotSIDVvki8bvxwneZLLwTye0h0hmDCidDPl7TFuYRCSqxYqnvwfOFvC47kpOOf-S1712quvYOKo7YYyzwXWSpX114rbKofcF981Uop90-4kC2XshpSyIijmbRTqrqlQmBDqkka0hhQ1tDNMGAdwJEWGv7wKumE04okri-XZnp7B6t75UlWYomWqQq8txx7Cf4Ohx8xy3Q1ymIY07vuAY4g7mYuKyYzfhSBKbFK-NdX-DsUf21q9q8-42MB9IQgVOUelhGTFkUp-D_aS9Ase6eEqsQf7bnlXSOCNn_PKr2w4Z5OyhCrH53Tb2toQvr9pT_cq7P4u9pDFquQGWKCoXo6EzGzl0QX5dn_my_DlcRptkQe1vGj3F1SrOP1wEaj31AIAOT65QjAmfDGFm8YcDA8g6rtkScQaMXdcY6K_og4KpP-l-DYZ3rmbhaqAGhNAgUedwLkhR6kA-bosbroOUmg5LszB-LSnJZkbFgkSw6lM0yqI_LmSqypPczxZQ9E-sk3PNkGpvNiJSgE6u5ih0_44IrR37-L6zdS3R0bmMz7MZwNbKqUYjOpoKs0vMrgev1ATgjfppw0wBb_Ct_-ovxZ2LhTj1sRq3cUT06JQhC8-BpKzWRgNAKj8jcYzJ64GgGA1PPlblOf14b7jvg_xIzEW4LiOdiPeMRy8efXQHU3RsM7dzKMXMcW8f8BOUXzmWoyY6rTbY_3TemFy_FMfXJ-5kQ-AUPkDBmz2et26Tc3ow-aCtZU7MtOUpUDXgIm0NVEd9KbItXneYrK7cyuOE-X8tWsnmJfpXtqMwoOgR1qS1rrTZ2GXnpwNpS4_wsq8vT1-hEG5d3xoF8lINA4-Cp6KaYPpfpEAwQYm7aN-liPFJ8kUeU2r8jNMB8o-5zI0Q05gw338AEASNvIWHHTd5Mjz16FZWB9O8mr6NgQ/https://www.amazon.com/dp/B07RJQH2DS/?_encoding=UTF8&pd_rd_i=B07RJQH2DS&pd_rd_i=B07RJQH2DS&ref_=sbx_be_s_sparkle_ssd_rev&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - generic: "4.7"
+      - generic: 4.7 星（满分 5 星）
+      - generic: 12,243
+    - link "6.97美元":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JAWUSOrA5R3X8LphQ2My9oUAAAGhk31K_gEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDWMFv1/clv1c_ek-wwnHSEsbWDpHHBU7eM2YEMKobDNuZjCJFaAfjjF9nLWvriTdqx4fH_2y5IAt3G2D2ytWK0Jwwivc9O5IzBN-BO1RfHe6T7CqCfBYhU9N3bCr43bTZZex4bP3h3lpfxkTAognOVbcjRinWScRv-QBbotSIDVvki8bvxwneZLLwTye0h0hmDCidDPl7TFuYRCSqxYqnvwfOFvC47kpOOf-S1712quvYOKo7YYyzwXWSpX114rbKofcF981Uop90-4kC2XshpSyIijmbRTqrqlQmBDqkka0hhQ1tDNMGAdwJEWGv7wKumE04okri-XZnp7B6t75UlWYomWqQq8txx7Cf4Ohx8xy3Q1ymIY07vuAY4g7mYuKyYzfhSBKbFK-NdX-DsUf21q9q8-42MB9IQgVOUelhGTFkUp-D_aS9Ase6eEqsQf7bnlXSOCNn_PKr2w4Z5OyhCrH53Tb2toQvr9pT_cq7P4u9pDFquQGWKCoXo6EzGzl0QX5dn_my_DlcRptkQe1vGj3F1SrOP1wEaj31AIAOT65QjAmfDGFm8YcDA8g6rtkScQaMXdcY6K_og4KpP-l-DYZ3rmbhaqAGhNAgUedwLkhR6kA-bosbroOUmg5LszB-LSnJZkbFgkSw6lM0yqI_LmSqypPczxZQ9E-sk3PNkGpvNiJSgE6u5ih0_44IrR37-L6zdS3R0bmMz7MZwNbKqUYjOpoKs0vMrgev1ATgjfppw0wBb_Ct_-ovxZ2LhTj1sRq3cUT06JQhC8-BpKzWRgNAKj8jcYzJ64GgGA1PPlblOf14b7jvg_xIzEW4LiOdiPeMRy8efXQHU3RsM7dzKMXMcW8f8BOUXzmWoyY6rTbY_3TemFy_FMfXJ-5kQ-AUPkDBmz2et26Tc3ow-aCtZU7MtOUpUDXgIm0NVEd9KbItXneYrK7cyuOE-X8tWsnmJfpXtqMwoOgR1qS1rrTZ2GXnpwNpS4_wsq8vT1-hEG5d3xoF8lINA4-Cp6KaYPpfpEAwQYm7aN-liPFJ8kUeU2r8jNMB8o-5zI0Q05gw338AEASNvIWHHTd5Mjz16FZWB9O8mr6NgQ/https://www.amazon.com/dp/B07RJQH2DS/?_encoding=UTF8&pd_rd_i=B07RJQH2DS&pd_rd_i=B07RJQH2DS&ref_=sbx_be_s_sparkle_ssd_pce&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - generic: 6.97美元
+      - generic: "6.97"
+      - generic: 美元
+    - link "赞助视频，点击即可跳转至专题页面。":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JDAEiPEMqmIRHwD1Yq9K4osAAAGhk31LAAEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDIAIzF/clv1c_ek-wwnHSLcbWDvnNUU0pmS6Joz6YCvPc0Dc5VLlUipOfhPQS7rKJwHhJYX-hoHyFYBJwIgClASwS1xKsn97aEOlxIQxLcH-C_bmgN_XS3tMJ9RV2kY8XYhSQYnn9pKcJs68TAGMtZLafcPWTgRBFe9LKyJ0dkl9znNrl7SCi4vK3ACA39kmtoqp90INuP8O_-36TjqsaTmd-heR-1sFi3mtUe5RHYT-SQ9h7JB0y0fMTWdXK-4QR295Cc4GOsFcNcCrkNOi_U7M2mlFLjtp-EM9kezQTqD1VM5olM9NufgSpfOJxwF94-RThStbCafnDyF8VoUuByXkQ3kpt4QmRVM7xIgZtmXy2enLcxT3ndhMgHY8SbINMp6i4zYA6U1qpwhaUIouTqZ-y5YdJofz0uAqy0MdgcoEcIqyljasMe0fOmM56WQcco7q7WIZqdKX07WnIoTygCWa1QcTe7__6xcYsQ9tB3UtArn8yEnLIqyw5QPqFZp0Akvz-YIElFIXryPw263Z2q98ZnxI4rtHlazVD8SQuNXFO63Sy5wXsWrF9dz24EKwQ1mcelVqBNFT_P3ZnZ988MqY-WAeWi7CnpBOnT7PVmlQF5jChVnLKwiE4nz1dDl_xjaCVp6tjQvvq8lp5CQyufMRoCvZMouwWQi2j6yfYVcT4JReAEVrSVrlL-VkoL45p9yIfCQ9SvKbed6QgSuR36FHXnDNoeT3mfOCzu3zu6xs6Fm9dmcwcICxrofU4vXTTqBHv9L2YxO2H6VJmniPxotJRseHpYuCUXQQZp-oQSnsdGTogyQhLhivfNThrigfqJscdgGjII0D_X3HrEIvRwSrRvz74agIXPUd7709_Wht6umWeMfmPftz1z_6fYOCRNGMr9cRaG9myqSvX-hbS9V8nQOegDqGwapcRO94sZNCav06XahzO_qA03ELbIR0qXjQfmO7T_h9LZ2nogFGv2rHqge1M8t2oTujKhf-myKa_6fNVGz7MfcU-YgYsU5Zb-KStsRLLlwqkBdEzgpDGUe1urKEG2-2fSynmN5kxHXiMvc7rF78VeK52kvpFNDIA7ztuGXqc1EwjJXU/https://www.amazon.com/dp/B0F1YDF11N/?_encoding=UTF8&pd_rd_i=B0F1YDF11N&pd_rd_i=B0F1YDF11N&ref_=sbx_be_s_sparkle_ssd_vid&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - generic "赞助视频，点击即可跳转至专题页面。"
+    - link "Vuzvuv 1120张透明便签圣经标签 - Morandi | 塑料便签，多种颜色，多种尺寸，防撕裂，带笔套装，适用于圣经、书籍、学校、办公室学习标记":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JDAEiPEMqmIRHwD1Yq9K4osAAAGhk31LAAEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDIAIzF/clv1c_ek-wwnHSLcbWDvnNUU0pmS6Joz6YCvPc0Dc5VLlUipOfhPQS7rKJwHhJYX-hoHyFYBJwIgClASwS1xKsn97aEOlxIQxLcH-C_bmgN_XS3tMJ9RV2kY8XYhSQYnn9pKcJs68TAGMtZLafcPWTgRBFe9LKyJ0dkl9znNrl7SCi4vK3ACA39kmtoqp90INuP8O_-36TjqsaTmd-heR-1sFi3mtUe5RHYT-SQ9h7JB0y0fMTWdXK-4QR295Cc4GOsFcNcCrkNOi_U7M2mlFLjtp-EM9kezQTqD1VM5olM9NufgSpfOJxwF94-RThStbCafnDyF8VoUuByXkQ3kpt4QmRVM7xIgZtmXy2enLcxT3ndhMgHY8SbINMp6i4zYA6U1qpwhaUIouTqZ-y5YdJofz0uAqy0MdgcoEcIqyljasMe0fOmM56WQcco7q7WIZqdKX07WnIoTygCWa1QcTe7__6xcYsQ9tB3UtArn8yEnLIqyw5QPqFZp0Akvz-YIElFIXryPw263Z2q98ZnxI4rtHlazVD8SQuNXFO63Sy5wXsWrF9dz24EKwQ1mcelVqBNFT_P3ZnZ988MqY-WAeWi7CnpBOnT7PVmlQF5jChVnLKwiE4nz1dDl_xjaCVp6tjQvvq8lp5CQyufMRoCvZMouwWQi2j6yfYVcT4JReAEVrSVrlL-VkoL45p9yIfCQ9SvKbed6QgSuR36FHXnDNoeT3mfOCzu3zu6xs6Fm9dmcwcICxrofU4vXTTqBHv9L2YxO2H6VJmniPxotJRseHpYuCUXQQZp-oQSnsdGTogyQhLhivfNThrigfqJscdgGjII0D_X3HrEIvRwSrRvz74agIXPUd7709_Wht6umWeMfmPftz1z_6fYOCRNGMr9cRaG9myqSvX-hbS9V8nQOegDqGwapcRO94sZNCav06XahzO_qA03ELbIR0qXjQfmO7T_h9LZ2nogFGv2rHqge1M8t2oTujKhf-myKa_6fNVGz7MfcU-YgYsU5Zb-KStsRLLlwqkBdEzgpDGUe1urKEG2-2fSynmN5kxHXiMvc7rF78VeK52kvpFNDIA7ztuGXqc1EwjJXU/https://www.amazon.com/dp/B0F1YDF11N/?_encoding=UTF8&pd_rd_i=B0F1YDF11N&pd_rd_i=B0F1YDF11N&ref_=sbx_be_s_sparkle_ssd_img&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - img "Vuzvuv 1120张透明便签圣经标签 - Morandi | 塑料便签，多种颜色，多种尺寸，防撕裂，带笔套装，适用于圣经、书籍、学校、办公室学习标记"
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JDAEiPEMqmIRHwD1Yq9K4osAAAGhk31LAAEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDIAIzF/clv1c_ek-wwnHSLcbWDvnNUU0pmS6Joz6YCvPc0Dc5VLlUipOfhPQS7rKJwHhJYX-hoHyFYBJwIgClASwS1xKsn97aEOlxIQxLcH-C_bmgN_XS3tMJ9RV2kY8XYhSQYnn9pKcJs68TAGMtZLafcPWTgRBFe9LKyJ0dkl9znNrl7SCi4vK3ACA39kmtoqp90INuP8O_-36TjqsaTmd-heR-1sFi3mtUe5RHYT-SQ9h7JB0y0fMTWdXK-4QR295Cc4GOsFcNcCrkNOi_U7M2mlFLjtp-EM9kezQTqD1VM5olM9NufgSpfOJxwF94-RThStbCafnDyF8VoUuByXkQ3kpt4QmRVM7xIgZtmXy2enLcxT3ndhMgHY8SbINMp6i4zYA6U1qpwhaUIouTqZ-y5YdJofz0uAqy0MdgcoEcIqyljasMe0fOmM56WQcco7q7WIZqdKX07WnIoTygCWa1QcTe7__6xcYsQ9tB3UtArn8yEnLIqyw5QPqFZp0Akvz-YIElFIXryPw263Z2q98ZnxI4rtHlazVD8SQuNXFO63Sy5wXsWrF9dz24EKwQ1mcelVqBNFT_P3ZnZ988MqY-WAeWi7CnpBOnT7PVmlQF5jChVnLKwiE4nz1dDl_xjaCVp6tjQvvq8lp5CQyufMRoCvZMouwWQi2j6yfYVcT4JReAEVrSVrlL-VkoL45p9yIfCQ9SvKbed6QgSuR36FHXnDNoeT3mfOCzu3zu6xs6Fm9dmcwcICxrofU4vXTTqBHv9L2YxO2H6VJmniPxotJRseHpYuCUXQQZp-oQSnsdGTogyQhLhivfNThrigfqJscdgGjII0D_X3HrEIvRwSrRvz74agIXPUd7709_Wht6umWeMfmPftz1z_6fYOCRNGMr9cRaG9myqSvX-hbS9V8nQOegDqGwapcRO94sZNCav06XahzO_qA03ELbIR0qXjQfmO7T_h9LZ2nogFGv2rHqge1M8t2oTujKhf-myKa_6fNVGz7MfcU-YgYsU5Zb-KStsRLLlwqkBdEzgpDGUe1urKEG2-2fSynmN5kxHXiMvc7rF78VeK52kvpFNDIA7ztuGXqc1EwjJXU/https://www.amazon.com/dp/B0F1YDF11N/?_encoding=UTF8&pd_rd_i=B0F1YDF11N&pd_rd_i=B0F1YDF11N&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JDAEiPEMqmIRHwD1Yq9K4osAAAGhk31LAAEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDIAIzF/clv1c_ek-wwnHSLcbWDvnNUU0pmS6Joz6YCvPc0Dc5VLlUipOfhPQS7rKJwHhJYX-hoHyFYBJwIgClASwS1xKsn97aEOlxIQxLcH-C_bmgN_XS3tMJ9RV2kY8XYhSQYnn9pKcJs68TAGMtZLafcPWTgRBFe9LKyJ0dkl9znNrl7SCi4vK3ACA39kmtoqp90INuP8O_-36TjqsaTmd-heR-1sFi3mtUe5RHYT-SQ9h7JB0y0fMTWdXK-4QR295Cc4GOsFcNcCrkNOi_U7M2mlFLjtp-EM9kezQTqD1VM5olM9NufgSpfOJxwF94-RThStbCafnDyF8VoUuByXkQ3kpt4QmRVM7xIgZtmXy2enLcxT3ndhMgHY8SbINMp6i4zYA6U1qpwhaUIouTqZ-y5YdJofz0uAqy0MdgcoEcIqyljasMe0fOmM56WQcco7q7WIZqdKX07WnIoTygCWa1QcTe7__6xcYsQ9tB3UtArn8yEnLIqyw5QPqFZp0Akvz-YIElFIXryPw263Z2q98ZnxI4rtHlazVD8SQuNXFO63Sy5wXsWrF9dz24EKwQ1mcelVqBNFT_P3ZnZ988MqY-WAeWi7CnpBOnT7PVmlQF5jChVnLKwiE4nz1dDl_xjaCVp6tjQvvq8lp5CQyufMRoCvZMouwWQi2j6yfYVcT4JReAEVrSVrlL-VkoL45p9yIfCQ9SvKbed6QgSuR36FHXnDNoeT3mfOCzu3zu6xs6Fm9dmcwcICxrofU4vXTTqBHv9L2YxO2H6VJmniPxotJRseHpYuCUXQQZp-oQSnsdGTogyQhLhivfNThrigfqJscdgGjII0D_X3HrEIvRwSrRvz74agIXPUd7709_Wht6umWeMfmPftz1z_6fYOCRNGMr9cRaG9myqSvX-hbS9V8nQOegDqGwapcRO94sZNCav06XahzO_qA03ELbIR0qXjQfmO7T_h9LZ2nogFGv2rHqge1M8t2oTujKhf-myKa_6fNVGz7MfcU-YgYsU5Zb-KStsRLLlwqkBdEzgpDGUe1urKEG2-2fSynmN5kxHXiMvc7rF78VeK52kvpFNDIA7ztuGXqc1EwjJXU/https://www.amazon.com/dp/B0F1YDF11N/?_encoding=UTF8&pd_rd_i=B0F1YDF11N&pd_rd_i=B0F1YDF11N&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+    - link "Vuzvuv 1120张透明便签圣经标签 - Morandi | 塑料便签，多种颜色，多种尺寸，防撕裂，带笔套装，适用于圣经、书籍、学校、办公室学习标记":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JDAEiPEMqmIRHwD1Yq9K4osAAAGhk31LAAEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDIAIzF/clv1c_ek-wwnHSLcbWDvnNUU0pmS6Joz6YCvPc0Dc5VLlUipOfhPQS7rKJwHhJYX-hoHyFYBJwIgClASwS1xKsn97aEOlxIQxLcH-C_bmgN_XS3tMJ9RV2kY8XYhSQYnn9pKcJs68TAGMtZLafcPWTgRBFe9LKyJ0dkl9znNrl7SCi4vK3ACA39kmtoqp90INuP8O_-36TjqsaTmd-heR-1sFi3mtUe5RHYT-SQ9h7JB0y0fMTWdXK-4QR295Cc4GOsFcNcCrkNOi_U7M2mlFLjtp-EM9kezQTqD1VM5olM9NufgSpfOJxwF94-RThStbCafnDyF8VoUuByXkQ3kpt4QmRVM7xIgZtmXy2enLcxT3ndhMgHY8SbINMp6i4zYA6U1qpwhaUIouTqZ-y5YdJofz0uAqy0MdgcoEcIqyljasMe0fOmM56WQcco7q7WIZqdKX07WnIoTygCWa1QcTe7__6xcYsQ9tB3UtArn8yEnLIqyw5QPqFZp0Akvz-YIElFIXryPw263Z2q98ZnxI4rtHlazVD8SQuNXFO63Sy5wXsWrF9dz24EKwQ1mcelVqBNFT_P3ZnZ988MqY-WAeWi7CnpBOnT7PVmlQF5jChVnLKwiE4nz1dDl_xjaCVp6tjQvvq8lp5CQyufMRoCvZMouwWQi2j6yfYVcT4JReAEVrSVrlL-VkoL45p9yIfCQ9SvKbed6QgSuR36FHXnDNoeT3mfOCzu3zu6xs6Fm9dmcwcICxrofU4vXTTqBHv9L2YxO2H6VJmniPxotJRseHpYuCUXQQZp-oQSnsdGTogyQhLhivfNThrigfqJscdgGjII0D_X3HrEIvRwSrRvz74agIXPUd7709_Wht6umWeMfmPftz1z_6fYOCRNGMr9cRaG9myqSvX-hbS9V8nQOegDqGwapcRO94sZNCav06XahzO_qA03ELbIR0qXjQfmO7T_h9LZ2nogFGv2rHqge1M8t2oTujKhf-myKa_6fNVGz7MfcU-YgYsU5Zb-KStsRLLlwqkBdEzgpDGUe1urKEG2-2fSynmN5kxHXiMvc7rF78VeK52kvpFNDIA7ztuGXqc1EwjJXU/https://www.amazon.com/dp/B0F1YDF11N/?_encoding=UTF8&pd_rd_i=B0F1YDF11N&pd_rd_i=B0F1YDF11N&ref_=sbx_be_s_sparkle_ssd_tt&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - generic: Vuzvuv 1120张透明便签圣经标签 - Morandi | 塑料便签，多种颜色，多种尺寸，防撕裂，带笔套装，适用于圣经、书籍、学校、办公室学习标记
+    - link "根据 163 条评论，评分为 4.4 星（满分 5 星）。":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JDAEiPEMqmIRHwD1Yq9K4osAAAGhk31LAAEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDIAIzF/clv1c_ek-wwnHSLcbWDvnNUU0pmS6Joz6YCvPc0Dc5VLlUipOfhPQS7rKJwHhJYX-hoHyFYBJwIgClASwS1xKsn97aEOlxIQxLcH-C_bmgN_XS3tMJ9RV2kY8XYhSQYnn9pKcJs68TAGMtZLafcPWTgRBFe9LKyJ0dkl9znNrl7SCi4vK3ACA39kmtoqp90INuP8O_-36TjqsaTmd-heR-1sFi3mtUe5RHYT-SQ9h7JB0y0fMTWdXK-4QR295Cc4GOsFcNcCrkNOi_U7M2mlFLjtp-EM9kezQTqD1VM5olM9NufgSpfOJxwF94-RThStbCafnDyF8VoUuByXkQ3kpt4QmRVM7xIgZtmXy2enLcxT3ndhMgHY8SbINMp6i4zYA6U1qpwhaUIouTqZ-y5YdJofz0uAqy0MdgcoEcIqyljasMe0fOmM56WQcco7q7WIZqdKX07WnIoTygCWa1QcTe7__6xcYsQ9tB3UtArn8yEnLIqyw5QPqFZp0Akvz-YIElFIXryPw263Z2q98ZnxI4rtHlazVD8SQuNXFO63Sy5wXsWrF9dz24EKwQ1mcelVqBNFT_P3ZnZ988MqY-WAeWi7CnpBOnT7PVmlQF5jChVnLKwiE4nz1dDl_xjaCVp6tjQvvq8lp5CQyufMRoCvZMouwWQi2j6yfYVcT4JReAEVrSVrlL-VkoL45p9yIfCQ9SvKbed6QgSuR36FHXnDNoeT3mfOCzu3zu6xs6Fm9dmcwcICxrofU4vXTTqBHv9L2YxO2H6VJmniPxotJRseHpYuCUXQQZp-oQSnsdGTogyQhLhivfNThrigfqJscdgGjII0D_X3HrEIvRwSrRvz74agIXPUd7709_Wht6umWeMfmPftz1z_6fYOCRNGMr9cRaG9myqSvX-hbS9V8nQOegDqGwapcRO94sZNCav06XahzO_qA03ELbIR0qXjQfmO7T_h9LZ2nogFGv2rHqge1M8t2oTujKhf-myKa_6fNVGz7MfcU-YgYsU5Zb-KStsRLLlwqkBdEzgpDGUe1urKEG2-2fSynmN5kxHXiMvc7rF78VeK52kvpFNDIA7ztuGXqc1EwjJXU/https://www.amazon.com/dp/B0F1YDF11N/?_encoding=UTF8&pd_rd_i=B0F1YDF11N&pd_rd_i=B0F1YDF11N&ref_=sbx_be_s_sparkle_ssd_rev&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - generic: "4.4"
+      - generic: 4.4 星（满分 5 星）
+      - generic: "163"
+    - link "9.99美元":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JDAEiPEMqmIRHwD1Yq9K4osAAAGhk31LAAEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDIAIzF/clv1c_ek-wwnHSLcbWDvnNUU0pmS6Joz6YCvPc0Dc5VLlUipOfhPQS7rKJwHhJYX-hoHyFYBJwIgClASwS1xKsn97aEOlxIQxLcH-C_bmgN_XS3tMJ9RV2kY8XYhSQYnn9pKcJs68TAGMtZLafcPWTgRBFe9LKyJ0dkl9znNrl7SCi4vK3ACA39kmtoqp90INuP8O_-36TjqsaTmd-heR-1sFi3mtUe5RHYT-SQ9h7JB0y0fMTWdXK-4QR295Cc4GOsFcNcCrkNOi_U7M2mlFLjtp-EM9kezQTqD1VM5olM9NufgSpfOJxwF94-RThStbCafnDyF8VoUuByXkQ3kpt4QmRVM7xIgZtmXy2enLcxT3ndhMgHY8SbINMp6i4zYA6U1qpwhaUIouTqZ-y5YdJofz0uAqy0MdgcoEcIqyljasMe0fOmM56WQcco7q7WIZqdKX07WnIoTygCWa1QcTe7__6xcYsQ9tB3UtArn8yEnLIqyw5QPqFZp0Akvz-YIElFIXryPw263Z2q98ZnxI4rtHlazVD8SQuNXFO63Sy5wXsWrF9dz24EKwQ1mcelVqBNFT_P3ZnZ988MqY-WAeWi7CnpBOnT7PVmlQF5jChVnLKwiE4nz1dDl_xjaCVp6tjQvvq8lp5CQyufMRoCvZMouwWQi2j6yfYVcT4JReAEVrSVrlL-VkoL45p9yIfCQ9SvKbed6QgSuR36FHXnDNoeT3mfOCzu3zu6xs6Fm9dmcwcICxrofU4vXTTqBHv9L2YxO2H6VJmniPxotJRseHpYuCUXQQZp-oQSnsdGTogyQhLhivfNThrigfqJscdgGjII0D_X3HrEIvRwSrRvz74agIXPUd7709_Wht6umWeMfmPftz1z_6fYOCRNGMr9cRaG9myqSvX-hbS9V8nQOegDqGwapcRO94sZNCav06XahzO_qA03ELbIR0qXjQfmO7T_h9LZ2nogFGv2rHqge1M8t2oTujKhf-myKa_6fNVGz7MfcU-YgYsU5Zb-KStsRLLlwqkBdEzgpDGUe1urKEG2-2fSynmN5kxHXiMvc7rF78VeK52kvpFNDIA7ztuGXqc1EwjJXU/https://www.amazon.com/dp/B0F1YDF11N/?_encoding=UTF8&pd_rd_i=B0F1YDF11N&pd_rd_i=B0F1YDF11N&ref_=sbx_be_s_sparkle_ssd_pce&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - generic: 9.99美元
+      - generic: "9.99"
+      - generic: 美元
+    - link "赞助视频，点击即可跳转至专题页面。":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JDr4S-P3SYLRNowrpUrVsikAAAGhk31LAQEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICA--doq/clv1c_ek-wwnHyFdbWDqnuA6rWLUSKkGxDaMg1PCdVL4mJismtxRZQEFZnUrRS3Q7LPI8_B9EayrTI7go0UdGoj5A5csdc66qLo7LRogU9ldTYoTYyrW6kxnMRPWz5__DOs-ON_aS1uNvePW7Hn21fOL7229DWiE3cJ8wKAuUATtdpSMjdYw8rcVXVZ9eEqD_39B_spvxrdtorLKfJ0y9skx3GZKHOCDLOYMEWiwJq1-CcmxJj-NiILlZQ73GR5ujUf9E55rZOTWdbROX_1POQYc5O1LA7iNloTHBKCAA6hCxvrgP8_81YipnwTa3HxG3Y6g-5Zbo77-6OuH-u3NwDPTWwipcRaiJNUE-8fBR7phvGG4YWosuYblogRBI7jPIhwJw75U3OYc3NwkbFmVsDOYIquiOvMbHbvUMcX0CpQrGxU78Ort4dPSbb2lIobAg5JRDbVG0p4gPw3xfzJDULJ-ChUd9JJ8cbnZePrDsuZLxAhcgLxXFqGgiWEIHDLy173TXORpRshnOAfSY7uZJ8OrVuYr39lE4Dkno0HmFhEe5c7f7jgQO1o5BgImz_9qwOs0TiFhajfJLtoTj2jLb_BZlQp1JZuMmb9svLEg1TErTk7mKxjS6uhTYEDEZ4pHmd94qgQKv74NcKqmYMjGaiDe3RQKsDse_QKTLcdBWmbkib7oDEZX1qElyjEmM9iu0GYtt1-_0jax13gLyMUgCsqCnKRU81QuyouUqYbyFEmfJFV7IKnmx46oyYGjcWWHKlPsXR2RqwSRrCIv1XDxlRny_oEVon2OYmHSLikizjX9a5O7remjqSx5HnDmzaTIB6hHdTMbEq6JhxvcsQGuwDoE8nRkf4T-cda_dZXJgX4HFCsOfDT_elSGibjYBL-PbZ0jOTo6NFEI5ej6q4OoHJCexCs25dRScTWSRJzRpYEe8fwzTn5Nz1VSexOwramlC-OvHDExTFyRQEi4OOxJ27TK0zw_3k7IzGfoqjznDHoDyscZluzZB5Rs8V_GadsdCSMBu8EcMBdmiCSWy9G9lEl4ywzLK5FgTwk0USL_A1W8B7zA3BzY-1M5FUIIKcYTTCmunwNA/https://www.amazon.com/dp/B0BYYRRMLB/?_encoding=UTF8&pd_rd_i=B0BYYRRMLB&pd_rd_i=B0BYYRRMLB&ref_=sbx_be_s_sparkle_ssd_vid&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - generic "赞助视频，点击即可跳转至专题页面。"
+    - link "Colarr 1000个装“在此签名”粘性标签，红色 | PET材质粘性箭头标签，适用于合同签署、法律文件，防撕裂，无残留标记，适用于公证处办公文件":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JDr4S-P3SYLRNowrpUrVsikAAAGhk31LAQEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICA--doq/clv1c_ek-wwnHyFdbWDqnuA6rWLUSKkGxDaMg1PCdVL4mJismtxRZQEFZnUrRS3Q7LPI8_B9EayrTI7go0UdGoj5A5csdc66qLo7LRogU9ldTYoTYyrW6kxnMRPWz5__DOs-ON_aS1uNvePW7Hn21fOL7229DWiE3cJ8wKAuUATtdpSMjdYw8rcVXVZ9eEqD_39B_spvxrdtorLKfJ0y9skx3GZKHOCDLOYMEWiwJq1-CcmxJj-NiILlZQ73GR5ujUf9E55rZOTWdbROX_1POQYc5O1LA7iNloTHBKCAA6hCxvrgP8_81YipnwTa3HxG3Y6g-5Zbo77-6OuH-u3NwDPTWwipcRaiJNUE-8fBR7phvGG4YWosuYblogRBI7jPIhwJw75U3OYc3NwkbFmVsDOYIquiOvMbHbvUMcX0CpQrGxU78Ort4dPSbb2lIobAg5JRDbVG0p4gPw3xfzJDULJ-ChUd9JJ8cbnZePrDsuZLxAhcgLxXFqGgiWEIHDLy173TXORpRshnOAfSY7uZJ8OrVuYr39lE4Dkno0HmFhEe5c7f7jgQO1o5BgImz_9qwOs0TiFhajfJLtoTj2jLb_BZlQp1JZuMmb9svLEg1TErTk7mKxjS6uhTYEDEZ4pHmd94qgQKv74NcKqmYMjGaiDe3RQKsDse_QKTLcdBWmbkib7oDEZX1qElyjEmM9iu0GYtt1-_0jax13gLyMUgCsqCnKRU81QuyouUqYbyFEmfJFV7IKnmx46oyYGjcWWHKlPsXR2RqwSRrCIv1XDxlRny_oEVon2OYmHSLikizjX9a5O7remjqSx5HnDmzaTIB6hHdTMbEq6JhxvcsQGuwDoE8nRkf4T-cda_dZXJgX4HFCsOfDT_elSGibjYBL-PbZ0jOTo6NFEI5ej6q4OoHJCexCs25dRScTWSRJzRpYEe8fwzTn5Nz1VSexOwramlC-OvHDExTFyRQEi4OOxJ27TK0zw_3k7IzGfoqjznDHoDyscZluzZB5Rs8V_GadsdCSMBu8EcMBdmiCSWy9G9lEl4ywzLK5FgTwk0USL_A1W8B7zA3BzY-1M5FUIIKcYTTCmunwNA/https://www.amazon.com/dp/B0BYYRRMLB/?_encoding=UTF8&pd_rd_i=B0BYYRRMLB&pd_rd_i=B0BYYRRMLB&ref_=sbx_be_s_sparkle_ssd_img&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - img "Colarr 1000个装“在此签名”粘性标签，红色 | PET材质粘性箭头标签，适用于合同签署、法律文件，防撕裂，无残留标记，适用于公证处办公文件"
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JDr4S-P3SYLRNowrpUrVsikAAAGhk31LAQEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICA--doq/clv1c_ek-wwnHyFdbWDqnuA6rWLUSKkGxDaMg1PCdVL4mJismtxRZQEFZnUrRS3Q7LPI8_B9EayrTI7go0UdGoj5A5csdc66qLo7LRogU9ldTYoTYyrW6kxnMRPWz5__DOs-ON_aS1uNvePW7Hn21fOL7229DWiE3cJ8wKAuUATtdpSMjdYw8rcVXVZ9eEqD_39B_spvxrdtorLKfJ0y9skx3GZKHOCDLOYMEWiwJq1-CcmxJj-NiILlZQ73GR5ujUf9E55rZOTWdbROX_1POQYc5O1LA7iNloTHBKCAA6hCxvrgP8_81YipnwTa3HxG3Y6g-5Zbo77-6OuH-u3NwDPTWwipcRaiJNUE-8fBR7phvGG4YWosuYblogRBI7jPIhwJw75U3OYc3NwkbFmVsDOYIquiOvMbHbvUMcX0CpQrGxU78Ort4dPSbb2lIobAg5JRDbVG0p4gPw3xfzJDULJ-ChUd9JJ8cbnZePrDsuZLxAhcgLxXFqGgiWEIHDLy173TXORpRshnOAfSY7uZJ8OrVuYr39lE4Dkno0HmFhEe5c7f7jgQO1o5BgImz_9qwOs0TiFhajfJLtoTj2jLb_BZlQp1JZuMmb9svLEg1TErTk7mKxjS6uhTYEDEZ4pHmd94qgQKv74NcKqmYMjGaiDe3RQKsDse_QKTLcdBWmbkib7oDEZX1qElyjEmM9iu0GYtt1-_0jax13gLyMUgCsqCnKRU81QuyouUqYbyFEmfJFV7IKnmx46oyYGjcWWHKlPsXR2RqwSRrCIv1XDxlRny_oEVon2OYmHSLikizjX9a5O7remjqSx5HnDmzaTIB6hHdTMbEq6JhxvcsQGuwDoE8nRkf4T-cda_dZXJgX4HFCsOfDT_elSGibjYBL-PbZ0jOTo6NFEI5ej6q4OoHJCexCs25dRScTWSRJzRpYEe8fwzTn5Nz1VSexOwramlC-OvHDExTFyRQEi4OOxJ27TK0zw_3k7IzGfoqjznDHoDyscZluzZB5Rs8V_GadsdCSMBu8EcMBdmiCSWy9G9lEl4ywzLK5FgTwk0USL_A1W8B7zA3BzY-1M5FUIIKcYTTCmunwNA/https://www.amazon.com/dp/B0BYYRRMLB/?_encoding=UTF8&pd_rd_i=B0BYYRRMLB&pd_rd_i=B0BYYRRMLB&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JDr4S-P3SYLRNowrpUrVsikAAAGhk31LAQEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICA--doq/clv1c_ek-wwnHyFdbWDqnuA6rWLUSKkGxDaMg1PCdVL4mJismtxRZQEFZnUrRS3Q7LPI8_B9EayrTI7go0UdGoj5A5csdc66qLo7LRogU9ldTYoTYyrW6kxnMRPWz5__DOs-ON_aS1uNvePW7Hn21fOL7229DWiE3cJ8wKAuUATtdpSMjdYw8rcVXVZ9eEqD_39B_spvxrdtorLKfJ0y9skx3GZKHOCDLOYMEWiwJq1-CcmxJj-NiILlZQ73GR5ujUf9E55rZOTWdbROX_1POQYc5O1LA7iNloTHBKCAA6hCxvrgP8_81YipnwTa3HxG3Y6g-5Zbo77-6OuH-u3NwDPTWwipcRaiJNUE-8fBR7phvGG4YWosuYblogRBI7jPIhwJw75U3OYc3NwkbFmVsDOYIquiOvMbHbvUMcX0CpQrGxU78Ort4dPSbb2lIobAg5JRDbVG0p4gPw3xfzJDULJ-ChUd9JJ8cbnZePrDsuZLxAhcgLxXFqGgiWEIHDLy173TXORpRshnOAfSY7uZJ8OrVuYr39lE4Dkno0HmFhEe5c7f7jgQO1o5BgImz_9qwOs0TiFhajfJLtoTj2jLb_BZlQp1JZuMmb9svLEg1TErTk7mKxjS6uhTYEDEZ4pHmd94qgQKv74NcKqmYMjGaiDe3RQKsDse_QKTLcdBWmbkib7oDEZX1qElyjEmM9iu0GYtt1-_0jax13gLyMUgCsqCnKRU81QuyouUqYbyFEmfJFV7IKnmx46oyYGjcWWHKlPsXR2RqwSRrCIv1XDxlRny_oEVon2OYmHSLikizjX9a5O7remjqSx5HnDmzaTIB6hHdTMbEq6JhxvcsQGuwDoE8nRkf4T-cda_dZXJgX4HFCsOfDT_elSGibjYBL-PbZ0jOTo6NFEI5ej6q4OoHJCexCs25dRScTWSRJzRpYEe8fwzTn5Nz1VSexOwramlC-OvHDExTFyRQEi4OOxJ27TK0zw_3k7IzGfoqjznDHoDyscZluzZB5Rs8V_GadsdCSMBu8EcMBdmiCSWy9G9lEl4ywzLK5FgTwk0USL_A1W8B7zA3BzY-1M5FUIIKcYTTCmunwNA/https://www.amazon.com/dp/B0BYYRRMLB/?_encoding=UTF8&pd_rd_i=B0BYYRRMLB&pd_rd_i=B0BYYRRMLB&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+    - link "Colarr 1000个装“在此签名”粘性标签，红色 | PET材质粘性箭头标签，适用于合同签署、法律文件，防撕裂，无残留标记，适用于公证处办公文件":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JDr4S-P3SYLRNowrpUrVsikAAAGhk31LAQEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICA--doq/clv1c_ek-wwnHyFdbWDqnuA6rWLUSKkGxDaMg1PCdVL4mJismtxRZQEFZnUrRS3Q7LPI8_B9EayrTI7go0UdGoj5A5csdc66qLo7LRogU9ldTYoTYyrW6kxnMRPWz5__DOs-ON_aS1uNvePW7Hn21fOL7229DWiE3cJ8wKAuUATtdpSMjdYw8rcVXVZ9eEqD_39B_spvxrdtorLKfJ0y9skx3GZKHOCDLOYMEWiwJq1-CcmxJj-NiILlZQ73GR5ujUf9E55rZOTWdbROX_1POQYc5O1LA7iNloTHBKCAA6hCxvrgP8_81YipnwTa3HxG3Y6g-5Zbo77-6OuH-u3NwDPTWwipcRaiJNUE-8fBR7phvGG4YWosuYblogRBI7jPIhwJw75U3OYc3NwkbFmVsDOYIquiOvMbHbvUMcX0CpQrGxU78Ort4dPSbb2lIobAg5JRDbVG0p4gPw3xfzJDULJ-ChUd9JJ8cbnZePrDsuZLxAhcgLxXFqGgiWEIHDLy173TXORpRshnOAfSY7uZJ8OrVuYr39lE4Dkno0HmFhEe5c7f7jgQO1o5BgImz_9qwOs0TiFhajfJLtoTj2jLb_BZlQp1JZuMmb9svLEg1TErTk7mKxjS6uhTYEDEZ4pHmd94qgQKv74NcKqmYMjGaiDe3RQKsDse_QKTLcdBWmbkib7oDEZX1qElyjEmM9iu0GYtt1-_0jax13gLyMUgCsqCnKRU81QuyouUqYbyFEmfJFV7IKnmx46oyYGjcWWHKlPsXR2RqwSRrCIv1XDxlRny_oEVon2OYmHSLikizjX9a5O7remjqSx5HnDmzaTIB6hHdTMbEq6JhxvcsQGuwDoE8nRkf4T-cda_dZXJgX4HFCsOfDT_elSGibjYBL-PbZ0jOTo6NFEI5ej6q4OoHJCexCs25dRScTWSRJzRpYEe8fwzTn5Nz1VSexOwramlC-OvHDExTFyRQEi4OOxJ27TK0zw_3k7IzGfoqjznDHoDyscZluzZB5Rs8V_GadsdCSMBu8EcMBdmiCSWy9G9lEl4ywzLK5FgTwk0USL_A1W8B7zA3BzY-1M5FUIIKcYTTCmunwNA/https://www.amazon.com/dp/B0BYYRRMLB/?_encoding=UTF8&pd_rd_i=B0BYYRRMLB&pd_rd_i=B0BYYRRMLB&ref_=sbx_be_s_sparkle_ssd_tt&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - generic: Colarr 1000个装“在此签名”粘性标签，红色 | PET材质粘性箭头标签，适用于合同签署、法律文件，防撕裂，无残留标记，适用于公证处办公文件
+    - link "根据 230 条评论，评分为 4.8 星（满分 5 星）。":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JDr4S-P3SYLRNowrpUrVsikAAAGhk31LAQEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICA--doq/clv1c_ek-wwnHyFdbWDqnuA6rWLUSKkGxDaMg1PCdVL4mJismtxRZQEFZnUrRS3Q7LPI8_B9EayrTI7go0UdGoj5A5csdc66qLo7LRogU9ldTYoTYyrW6kxnMRPWz5__DOs-ON_aS1uNvePW7Hn21fOL7229DWiE3cJ8wKAuUATtdpSMjdYw8rcVXVZ9eEqD_39B_spvxrdtorLKfJ0y9skx3GZKHOCDLOYMEWiwJq1-CcmxJj-NiILlZQ73GR5ujUf9E55rZOTWdbROX_1POQYc5O1LA7iNloTHBKCAA6hCxvrgP8_81YipnwTa3HxG3Y6g-5Zbo77-6OuH-u3NwDPTWwipcRaiJNUE-8fBR7phvGG4YWosuYblogRBI7jPIhwJw75U3OYc3NwkbFmVsDOYIquiOvMbHbvUMcX0CpQrGxU78Ort4dPSbb2lIobAg5JRDbVG0p4gPw3xfzJDULJ-ChUd9JJ8cbnZePrDsuZLxAhcgLxXFqGgiWEIHDLy173TXORpRshnOAfSY7uZJ8OrVuYr39lE4Dkno0HmFhEe5c7f7jgQO1o5BgImz_9qwOs0TiFhajfJLtoTj2jLb_BZlQp1JZuMmb9svLEg1TErTk7mKxjS6uhTYEDEZ4pHmd94qgQKv74NcKqmYMjGaiDe3RQKsDse_QKTLcdBWmbkib7oDEZX1qElyjEmM9iu0GYtt1-_0jax13gLyMUgCsqCnKRU81QuyouUqYbyFEmfJFV7IKnmx46oyYGjcWWHKlPsXR2RqwSRrCIv1XDxlRny_oEVon2OYmHSLikizjX9a5O7remjqSx5HnDmzaTIB6hHdTMbEq6JhxvcsQGuwDoE8nRkf4T-cda_dZXJgX4HFCsOfDT_elSGibjYBL-PbZ0jOTo6NFEI5ej6q4OoHJCexCs25dRScTWSRJzRpYEe8fwzTn5Nz1VSexOwramlC-OvHDExTFyRQEi4OOxJ27TK0zw_3k7IzGfoqjznDHoDyscZluzZB5Rs8V_GadsdCSMBu8EcMBdmiCSWy9G9lEl4ywzLK5FgTwk0USL_A1W8B7zA3BzY-1M5FUIIKcYTTCmunwNA/https://www.amazon.com/dp/B0BYYRRMLB/?_encoding=UTF8&pd_rd_i=B0BYYRRMLB&pd_rd_i=B0BYYRRMLB&ref_=sbx_be_s_sparkle_ssd_rev&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - generic: "4.8"
+      - generic: 4.8 星（满分 5 星）
+      - generic: "230"
+    - link "9.99美元":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JDr4S-P3SYLRNowrpUrVsikAAAGhk31LAQEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICA--doq/clv1c_ek-wwnHyFdbWDqnuA6rWLUSKkGxDaMg1PCdVL4mJismtxRZQEFZnUrRS3Q7LPI8_B9EayrTI7go0UdGoj5A5csdc66qLo7LRogU9ldTYoTYyrW6kxnMRPWz5__DOs-ON_aS1uNvePW7Hn21fOL7229DWiE3cJ8wKAuUATtdpSMjdYw8rcVXVZ9eEqD_39B_spvxrdtorLKfJ0y9skx3GZKHOCDLOYMEWiwJq1-CcmxJj-NiILlZQ73GR5ujUf9E55rZOTWdbROX_1POQYc5O1LA7iNloTHBKCAA6hCxvrgP8_81YipnwTa3HxG3Y6g-5Zbo77-6OuH-u3NwDPTWwipcRaiJNUE-8fBR7phvGG4YWosuYblogRBI7jPIhwJw75U3OYc3NwkbFmVsDOYIquiOvMbHbvUMcX0CpQrGxU78Ort4dPSbb2lIobAg5JRDbVG0p4gPw3xfzJDULJ-ChUd9JJ8cbnZePrDsuZLxAhcgLxXFqGgiWEIHDLy173TXORpRshnOAfSY7uZJ8OrVuYr39lE4Dkno0HmFhEe5c7f7jgQO1o5BgImz_9qwOs0TiFhajfJLtoTj2jLb_BZlQp1JZuMmb9svLEg1TErTk7mKxjS6uhTYEDEZ4pHmd94qgQKv74NcKqmYMjGaiDe3RQKsDse_QKTLcdBWmbkib7oDEZX1qElyjEmM9iu0GYtt1-_0jax13gLyMUgCsqCnKRU81QuyouUqYbyFEmfJFV7IKnmx46oyYGjcWWHKlPsXR2RqwSRrCIv1XDxlRny_oEVon2OYmHSLikizjX9a5O7remjqSx5HnDmzaTIB6hHdTMbEq6JhxvcsQGuwDoE8nRkf4T-cda_dZXJgX4HFCsOfDT_elSGibjYBL-PbZ0jOTo6NFEI5ej6q4OoHJCexCs25dRScTWSRJzRpYEe8fwzTn5Nz1VSexOwramlC-OvHDExTFyRQEi4OOxJ27TK0zw_3k7IzGfoqjznDHoDyscZluzZB5Rs8V_GadsdCSMBu8EcMBdmiCSWy9G9lEl4ywzLK5FgTwk0USL_A1W8B7zA3BzY-1M5FUIIKcYTTCmunwNA/https://www.amazon.com/dp/B0BYYRRMLB/?_encoding=UTF8&pd_rd_i=B0BYYRRMLB&pd_rd_i=B0BYYRRMLB&ref_=sbx_be_s_sparkle_ssd_pce&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - generic: 9.99美元
+      - generic: "9.99"
+      - generic: 美元
+    - link "赞助视频，点击即可跳转至专题页面。":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JMVQoOOKcvTpofKFBVQuSxMAAAGhk31LAgEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICBe_SR8/clv1c_ek-wwnfyFcbaDqnuA6reLWQKkGxCaIg1vJPisYuJismMRc7kIdSGUzTDr302LcvpFWh2b27PyK2Ign4CJZZJ1e6kN57cEKo-8CqK7xXp4bI6GPqn5tsBbWz6xOsA2jrosmj3smFADTsMgDcHZsROa1DdtJU87FPu9oys74-abQ1OGoNmWyiFdA94RTIUPu81EuWK_0I9FAr4jXLZnnowntwZTkh42gp70UW0Pw5uh0FT5W-0GGHyErX91-Xylo5OBMcIfuq-EyQ3ZZIjzBy7blgVgUgkmHhR_AM79CST7RMHgSPWCePhlEnMWRMgX2sGmV-rn426jyKrL7VfMkwAdHhQPl8-XX437P0lb52bmoEYQzuGhzG19jQh871jz2o05kEtIP1BxcegYp_TzPkEgy1tcKGv7gNFpW-eM7Gx5tNI9v-1WEiIbr_EjvzeWKdfgtHwD9DUEyTQ6wXlvcZl6l68tabQsgNuknAhewo-ktT7pscEXXuoJbd3R1pZYKGue2su2bodE4t_bxDxXdAbKOtm1JwjSZsFCIzaoRBrH0Qo5f_BTcQakOWy0oq0L7e8TuU4DhbqJyZPopQ27j2qMfhjI-4a2f9YFH5AiTmYxL70b7ZkLPp-F9u3iVw5xI2O6TGgbdSz0BWE7ay1vmLTkabZhdSCViLY3ww30gyIEhuIGZCOiN6zGuF9qRzKZFKroKPm4YfWRBg6mDfwClZ7httjQ5B-mA4JRadD-6Thw4sfEjHVOHUIguvJaLvKUQVPKK_Plx9kbSCwWMNuwSERryysnh42KxTHkDycLQB_15A_6Ggb3zTgZiSwmBOuOOWHYX4i0YXRVtJAi4NvIOMyJ1B_5j6XhMno6d2OmmhzXESGdFp9w5fjIoW_WdB8-lSufIBsD2pT7Yx1YmSn8xH80FHFw1OlNeSJomTzYougv0xag1mW1nRf-MCsXu3tmL0Wn_1-dyFPtN9dbCPKFmwVwwznTU1-EZl3JQ5GwxGFpkBJseaFlb0Je8aLSGGNPIDFDCPAu2Ff8jkjAZRKvc3MCKg_D7P8VvwIp0_hXVNq3XBbesumfh3Gp1fJCiLW1jcyFm0v/https://www.amazon.com/dp/B08VW33TFW/?_encoding=UTF8&pd_rd_i=B08VW33TFW&pd_rd_i=B08VW33TFW&ref_=sbx_be_s_sparkle_ssd_vid&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - generic "赞助视频，点击即可跳转至专题页面。"
+    - link "Zonon 400片装 2英寸粘性索引标签，可书写可重复粘贴 | 文件标签，用于整理笔记、书签、阅读注释、粘贴式标签，用于分类文件，办公用品":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JMVQoOOKcvTpofKFBVQuSxMAAAGhk31LAgEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICBe_SR8/clv1c_ek-wwnfyFcbaDqnuA6reLWQKkGxCaIg1vJPisYuJismMRc7kIdSGUzTDr302LcvpFWh2b27PyK2Ign4CJZZJ1e6kN57cEKo-8CqK7xXp4bI6GPqn5tsBbWz6xOsA2jrosmj3smFADTsMgDcHZsROa1DdtJU87FPu9oys74-abQ1OGoNmWyiFdA94RTIUPu81EuWK_0I9FAr4jXLZnnowntwZTkh42gp70UW0Pw5uh0FT5W-0GGHyErX91-Xylo5OBMcIfuq-EyQ3ZZIjzBy7blgVgUgkmHhR_AM79CST7RMHgSPWCePhlEnMWRMgX2sGmV-rn426jyKrL7VfMkwAdHhQPl8-XX437P0lb52bmoEYQzuGhzG19jQh871jz2o05kEtIP1BxcegYp_TzPkEgy1tcKGv7gNFpW-eM7Gx5tNI9v-1WEiIbr_EjvzeWKdfgtHwD9DUEyTQ6wXlvcZl6l68tabQsgNuknAhewo-ktT7pscEXXuoJbd3R1pZYKGue2su2bodE4t_bxDxXdAbKOtm1JwjSZsFCIzaoRBrH0Qo5f_BTcQakOWy0oq0L7e8TuU4DhbqJyZPopQ27j2qMfhjI-4a2f9YFH5AiTmYxL70b7ZkLPp-F9u3iVw5xI2O6TGgbdSz0BWE7ay1vmLTkabZhdSCViLY3ww30gyIEhuIGZCOiN6zGuF9qRzKZFKroKPm4YfWRBg6mDfwClZ7httjQ5B-mA4JRadD-6Thw4sfEjHVOHUIguvJaLvKUQVPKK_Plx9kbSCwWMNuwSERryysnh42KxTHkDycLQB_15A_6Ggb3zTgZiSwmBOuOOWHYX4i0YXRVtJAi4NvIOMyJ1B_5j6XhMno6d2OmmhzXESGdFp9w5fjIoW_WdB8-lSufIBsD2pT7Yx1YmSn8xH80FHFw1OlNeSJomTzYougv0xag1mW1nRf-MCsXu3tmL0Wn_1-dyFPtN9dbCPKFmwVwwznTU1-EZl3JQ5GwxGFpkBJseaFlb0Je8aLSGGNPIDFDCPAu2Ff8jkjAZRKvc3MCKg_D7P8VvwIp0_hXVNq3XBbesumfh3Gp1fJCiLW1jcyFm0v/https://www.amazon.com/dp/B08VW33TFW/?_encoding=UTF8&pd_rd_i=B08VW33TFW&pd_rd_i=B08VW33TFW&ref_=sbx_be_s_sparkle_ssd_img&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - img "Zonon 400片装 2英寸粘性索引标签，可书写可重复粘贴 | 文件标签，用于整理笔记、书签、阅读注释、粘贴式标签，用于分类文件，办公用品"
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JMVQoOOKcvTpofKFBVQuSxMAAAGhk31LAgEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICBe_SR8/clv1c_ek-wwnfyFcbaDqnuA6reLWQKkGxCaIg1vJPisYuJismMRc7kIdSGUzTDr302LcvpFWh2b27PyK2Ign4CJZZJ1e6kN57cEKo-8CqK7xXp4bI6GPqn5tsBbWz6xOsA2jrosmj3smFADTsMgDcHZsROa1DdtJU87FPu9oys74-abQ1OGoNmWyiFdA94RTIUPu81EuWK_0I9FAr4jXLZnnowntwZTkh42gp70UW0Pw5uh0FT5W-0GGHyErX91-Xylo5OBMcIfuq-EyQ3ZZIjzBy7blgVgUgkmHhR_AM79CST7RMHgSPWCePhlEnMWRMgX2sGmV-rn426jyKrL7VfMkwAdHhQPl8-XX437P0lb52bmoEYQzuGhzG19jQh871jz2o05kEtIP1BxcegYp_TzPkEgy1tcKGv7gNFpW-eM7Gx5tNI9v-1WEiIbr_EjvzeWKdfgtHwD9DUEyTQ6wXlvcZl6l68tabQsgNuknAhewo-ktT7pscEXXuoJbd3R1pZYKGue2su2bodE4t_bxDxXdAbKOtm1JwjSZsFCIzaoRBrH0Qo5f_BTcQakOWy0oq0L7e8TuU4DhbqJyZPopQ27j2qMfhjI-4a2f9YFH5AiTmYxL70b7ZkLPp-F9u3iVw5xI2O6TGgbdSz0BWE7ay1vmLTkabZhdSCViLY3ww30gyIEhuIGZCOiN6zGuF9qRzKZFKroKPm4YfWRBg6mDfwClZ7httjQ5B-mA4JRadD-6Thw4sfEjHVOHUIguvJaLvKUQVPKK_Plx9kbSCwWMNuwSERryysnh42KxTHkDycLQB_15A_6Ggb3zTgZiSwmBOuOOWHYX4i0YXRVtJAi4NvIOMyJ1B_5j6XhMno6d2OmmhzXESGdFp9w5fjIoW_WdB8-lSufIBsD2pT7Yx1YmSn8xH80FHFw1OlNeSJomTzYougv0xag1mW1nRf-MCsXu3tmL0Wn_1-dyFPtN9dbCPKFmwVwwznTU1-EZl3JQ5GwxGFpkBJseaFlb0Je8aLSGGNPIDFDCPAu2Ff8jkjAZRKvc3MCKg_D7P8VvwIp0_hXVNq3XBbesumfh3Gp1fJCiLW1jcyFm0v/https://www.amazon.com/dp/B08VW33TFW/?_encoding=UTF8&pd_rd_i=B08VW33TFW&pd_rd_i=B08VW33TFW&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JMVQoOOKcvTpofKFBVQuSxMAAAGhk31LAgEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICBe_SR8/clv1c_ek-wwnfyFcbaDqnuA6reLWQKkGxCaIg1vJPisYuJismMRc7kIdSGUzTDr302LcvpFWh2b27PyK2Ign4CJZZJ1e6kN57cEKo-8CqK7xXp4bI6GPqn5tsBbWz6xOsA2jrosmj3smFADTsMgDcHZsROa1DdtJU87FPu9oys74-abQ1OGoNmWyiFdA94RTIUPu81EuWK_0I9FAr4jXLZnnowntwZTkh42gp70UW0Pw5uh0FT5W-0GGHyErX91-Xylo5OBMcIfuq-EyQ3ZZIjzBy7blgVgUgkmHhR_AM79CST7RMHgSPWCePhlEnMWRMgX2sGmV-rn426jyKrL7VfMkwAdHhQPl8-XX437P0lb52bmoEYQzuGhzG19jQh871jz2o05kEtIP1BxcegYp_TzPkEgy1tcKGv7gNFpW-eM7Gx5tNI9v-1WEiIbr_EjvzeWKdfgtHwD9DUEyTQ6wXlvcZl6l68tabQsgNuknAhewo-ktT7pscEXXuoJbd3R1pZYKGue2su2bodE4t_bxDxXdAbKOtm1JwjSZsFCIzaoRBrH0Qo5f_BTcQakOWy0oq0L7e8TuU4DhbqJyZPopQ27j2qMfhjI-4a2f9YFH5AiTmYxL70b7ZkLPp-F9u3iVw5xI2O6TGgbdSz0BWE7ay1vmLTkabZhdSCViLY3ww30gyIEhuIGZCOiN6zGuF9qRzKZFKroKPm4YfWRBg6mDfwClZ7httjQ5B-mA4JRadD-6Thw4sfEjHVOHUIguvJaLvKUQVPKK_Plx9kbSCwWMNuwSERryysnh42KxTHkDycLQB_15A_6Ggb3zTgZiSwmBOuOOWHYX4i0YXRVtJAi4NvIOMyJ1B_5j6XhMno6d2OmmhzXESGdFp9w5fjIoW_WdB8-lSufIBsD2pT7Yx1YmSn8xH80FHFw1OlNeSJomTzYougv0xag1mW1nRf-MCsXu3tmL0Wn_1-dyFPtN9dbCPKFmwVwwznTU1-EZl3JQ5GwxGFpkBJseaFlb0Je8aLSGGNPIDFDCPAu2Ff8jkjAZRKvc3MCKg_D7P8VvwIp0_hXVNq3XBbesumfh3Gp1fJCiLW1jcyFm0v/https://www.amazon.com/dp/B08VW33TFW/?_encoding=UTF8&pd_rd_i=B08VW33TFW&pd_rd_i=B08VW33TFW&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+    - link "Zonon 400片装 2英寸粘性索引标签，可书写可重复粘贴 | 文件标签，用于整理笔记、书签、阅读注释、粘贴式标签，用于分类文件，办公用品":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JMVQoOOKcvTpofKFBVQuSxMAAAGhk31LAgEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICBe_SR8/clv1c_ek-wwnfyFcbaDqnuA6reLWQKkGxCaIg1vJPisYuJismMRc7kIdSGUzTDr302LcvpFWh2b27PyK2Ign4CJZZJ1e6kN57cEKo-8CqK7xXp4bI6GPqn5tsBbWz6xOsA2jrosmj3smFADTsMgDcHZsROa1DdtJU87FPu9oys74-abQ1OGoNmWyiFdA94RTIUPu81EuWK_0I9FAr4jXLZnnowntwZTkh42gp70UW0Pw5uh0FT5W-0GGHyErX91-Xylo5OBMcIfuq-EyQ3ZZIjzBy7blgVgUgkmHhR_AM79CST7RMHgSPWCePhlEnMWRMgX2sGmV-rn426jyKrL7VfMkwAdHhQPl8-XX437P0lb52bmoEYQzuGhzG19jQh871jz2o05kEtIP1BxcegYp_TzPkEgy1tcKGv7gNFpW-eM7Gx5tNI9v-1WEiIbr_EjvzeWKdfgtHwD9DUEyTQ6wXlvcZl6l68tabQsgNuknAhewo-ktT7pscEXXuoJbd3R1pZYKGue2su2bodE4t_bxDxXdAbKOtm1JwjSZsFCIzaoRBrH0Qo5f_BTcQakOWy0oq0L7e8TuU4DhbqJyZPopQ27j2qMfhjI-4a2f9YFH5AiTmYxL70b7ZkLPp-F9u3iVw5xI2O6TGgbdSz0BWE7ay1vmLTkabZhdSCViLY3ww30gyIEhuIGZCOiN6zGuF9qRzKZFKroKPm4YfWRBg6mDfwClZ7httjQ5B-mA4JRadD-6Thw4sfEjHVOHUIguvJaLvKUQVPKK_Plx9kbSCwWMNuwSERryysnh42KxTHkDycLQB_15A_6Ggb3zTgZiSwmBOuOOWHYX4i0YXRVtJAi4NvIOMyJ1B_5j6XhMno6d2OmmhzXESGdFp9w5fjIoW_WdB8-lSufIBsD2pT7Yx1YmSn8xH80FHFw1OlNeSJomTzYougv0xag1mW1nRf-MCsXu3tmL0Wn_1-dyFPtN9dbCPKFmwVwwznTU1-EZl3JQ5GwxGFpkBJseaFlb0Je8aLSGGNPIDFDCPAu2Ff8jkjAZRKvc3MCKg_D7P8VvwIp0_hXVNq3XBbesumfh3Gp1fJCiLW1jcyFm0v/https://www.amazon.com/dp/B08VW33TFW/?_encoding=UTF8&pd_rd_i=B08VW33TFW&pd_rd_i=B08VW33TFW&ref_=sbx_be_s_sparkle_ssd_tt&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - generic: Zonon 400片装 2英寸粘性索引标签，可书写可重复粘贴 | 文件标签，用于整理笔记、书签、阅读注释、粘贴式标签，用于分类文件，办公用品
+    - link "根据 404 条评价，评分为 4.5 星（满分 5 星）。":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JMVQoOOKcvTpofKFBVQuSxMAAAGhk31LAgEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICBe_SR8/clv1c_ek-wwnfyFcbaDqnuA6reLWQKkGxCaIg1vJPisYuJismMRc7kIdSGUzTDr302LcvpFWh2b27PyK2Ign4CJZZJ1e6kN57cEKo-8CqK7xXp4bI6GPqn5tsBbWz6xOsA2jrosmj3smFADTsMgDcHZsROa1DdtJU87FPu9oys74-abQ1OGoNmWyiFdA94RTIUPu81EuWK_0I9FAr4jXLZnnowntwZTkh42gp70UW0Pw5uh0FT5W-0GGHyErX91-Xylo5OBMcIfuq-EyQ3ZZIjzBy7blgVgUgkmHhR_AM79CST7RMHgSPWCePhlEnMWRMgX2sGmV-rn426jyKrL7VfMkwAdHhQPl8-XX437P0lb52bmoEYQzuGhzG19jQh871jz2o05kEtIP1BxcegYp_TzPkEgy1tcKGv7gNFpW-eM7Gx5tNI9v-1WEiIbr_EjvzeWKdfgtHwD9DUEyTQ6wXlvcZl6l68tabQsgNuknAhewo-ktT7pscEXXuoJbd3R1pZYKGue2su2bodE4t_bxDxXdAbKOtm1JwjSZsFCIzaoRBrH0Qo5f_BTcQakOWy0oq0L7e8TuU4DhbqJyZPopQ27j2qMfhjI-4a2f9YFH5AiTmYxL70b7ZkLPp-F9u3iVw5xI2O6TGgbdSz0BWE7ay1vmLTkabZhdSCViLY3ww30gyIEhuIGZCOiN6zGuF9qRzKZFKroKPm4YfWRBg6mDfwClZ7httjQ5B-mA4JRadD-6Thw4sfEjHVOHUIguvJaLvKUQVPKK_Plx9kbSCwWMNuwSERryysnh42KxTHkDycLQB_15A_6Ggb3zTgZiSwmBOuOOWHYX4i0YXRVtJAi4NvIOMyJ1B_5j6XhMno6d2OmmhzXESGdFp9w5fjIoW_WdB8-lSufIBsD2pT7Yx1YmSn8xH80FHFw1OlNeSJomTzYougv0xag1mW1nRf-MCsXu3tmL0Wn_1-dyFPtN9dbCPKFmwVwwznTU1-EZl3JQ5GwxGFpkBJseaFlb0Je8aLSGGNPIDFDCPAu2Ff8jkjAZRKvc3MCKg_D7P8VvwIp0_hXVNq3XBbesumfh3Gp1fJCiLW1jcyFm0v/https://www.amazon.com/dp/B08VW33TFW/?_encoding=UTF8&pd_rd_i=B08VW33TFW&pd_rd_i=B08VW33TFW&ref_=sbx_be_s_sparkle_ssd_rev&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - generic: "4.5"
+      - generic: 4.5 星（满分 5 星）
+      - generic: "404"
+    - link "11.99美元":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JMVQoOOKcvTpofKFBVQuSxMAAAGhk31LAgEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICBe_SR8/clv1c_ek-wwnfyFcbaDqnuA6reLWQKkGxCaIg1vJPisYuJismMRc7kIdSGUzTDr302LcvpFWh2b27PyK2Ign4CJZZJ1e6kN57cEKo-8CqK7xXp4bI6GPqn5tsBbWz6xOsA2jrosmj3smFADTsMgDcHZsROa1DdtJU87FPu9oys74-abQ1OGoNmWyiFdA94RTIUPu81EuWK_0I9FAr4jXLZnnowntwZTkh42gp70UW0Pw5uh0FT5W-0GGHyErX91-Xylo5OBMcIfuq-EyQ3ZZIjzBy7blgVgUgkmHhR_AM79CST7RMHgSPWCePhlEnMWRMgX2sGmV-rn426jyKrL7VfMkwAdHhQPl8-XX437P0lb52bmoEYQzuGhzG19jQh871jz2o05kEtIP1BxcegYp_TzPkEgy1tcKGv7gNFpW-eM7Gx5tNI9v-1WEiIbr_EjvzeWKdfgtHwD9DUEyTQ6wXlvcZl6l68tabQsgNuknAhewo-ktT7pscEXXuoJbd3R1pZYKGue2su2bodE4t_bxDxXdAbKOtm1JwjSZsFCIzaoRBrH0Qo5f_BTcQakOWy0oq0L7e8TuU4DhbqJyZPopQ27j2qMfhjI-4a2f9YFH5AiTmYxL70b7ZkLPp-F9u3iVw5xI2O6TGgbdSz0BWE7ay1vmLTkabZhdSCViLY3ww30gyIEhuIGZCOiN6zGuF9qRzKZFKroKPm4YfWRBg6mDfwClZ7httjQ5B-mA4JRadD-6Thw4sfEjHVOHUIguvJaLvKUQVPKK_Plx9kbSCwWMNuwSERryysnh42KxTHkDycLQB_15A_6Ggb3zTgZiSwmBOuOOWHYX4i0YXRVtJAi4NvIOMyJ1B_5j6XhMno6d2OmmhzXESGdFp9w5fjIoW_WdB8-lSufIBsD2pT7Yx1YmSn8xH80FHFw1OlNeSJomTzYougv0xag1mW1nRf-MCsXu3tmL0Wn_1-dyFPtN9dbCPKFmwVwwznTU1-EZl3JQ5GwxGFpkBJseaFlb0Je8aLSGGNPIDFDCPAu2Ff8jkjAZRKvc3MCKg_D7P8VvwIp0_hXVNq3XBbesumfh3Gp1fJCiLW1jcyFm0v/https://www.amazon.com/dp/B08VW33TFW/?_encoding=UTF8&pd_rd_i=B08VW33TFW&pd_rd_i=B08VW33TFW&ref_=sbx_be_s_sparkle_ssd_pce&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - generic: 11.99美元
+      - generic: "11.99"
+      - generic: 美元
+    - link "赞助视频，点击即可跳转至专题页面。":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JPtogGVoLIiJniG7vUGMbKcAAAGhk31LAwEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDmI6AV/clv1c_ek-wwnXyFcbWTqnoA6reLWQKUGxCKIg1vJPi8Wu5Gts5-Q1iG1Z_J2qMRzCgkj23S1F_mAWqCS4a9xb8wkHtMprF-CEuW8yT3nVrkuLk4rLKgzeUJXQ6fVz44-R9HAyYgf6dCWWCmyKZN1lIgURi6ZR7odiOvmPprva08SfWVFZgbnDmjGQ0Z6xOR9O2Z3OMguLzgm-TEjMItf1fnwMAg9OpnOdHlgvgmtjUFl0uZFk8B_PkKJ1T7UE9fq3cf9E5pqZ2TR9bRJ2sbZ6xCmqssek5XvQ_tGgaoJR18AnEiUtO_X2dwKOVTafuRXAORfNyOjmgHmJgPz3MvTV7vqEPBzEKzC6nbSjnNNVSXk3ZQ-AhFkOVW2d82SrWNn4VCgpMQOBwvHglxP0TBTrK95FAeagXgHTEwlraBLI0tTIVQeuAtefOllbryCDGtpibWzfmmaqmffBAEwScTcltX2kg-3DbgoRKbBVucAxZNHrStcSeWuYlLGGHuv3UiIKe60KUd4MEUe9fFui-gVuAhE0Kcj8lF4V_x2Xp4vjO77kyVTJbxfGcvalC7CFtWhhw_Gb0OWmZZWt4E0jbbrWWD34CpzKG3bjOSzlb5O7MaJ-DsF5pfWnRu_OIdkUVoT2iIoNc0UybEI-YdWxd1qpj5je-e-34tWa4QwWdLS058z9JYyudJ8snxtigoyes0zSrclSGUuDqD7DVPzEYrKCi_TSyQEScNpxGy3sqPqBlnKa8ScECWjA7QQe5Delu6h41jApEyqJ4BrQ2Wc2dUbigkhi-YDFlMTIBymkLXQNL9v8qkZiUMRu-hiCsMx9gv2YOdzQMk3RsswIoHSpTnxywtc_Gv27NZ3H_WkrQxn_dn1z_FN_X5x1kw3BKizeY9vee9drycjZOZ9Gs5RmkXzSpNhhSgGIPe_-tVWE2W26WowOqYHepgh0A17-G_RbmhdG-v7sUDsc73R1yjHSu6AdqaX9TcecWgfvXriztB60NKl0uaPfTqcuR-U7VRc_YWbRZxMW3NQiw4n_NrsLSEm-MKzQZWkNwFRlwlGNhtjsDe4WoQfcOnyZV3Uifdqy1x5rlwQ/https://www.amazon.com/dp/B0D318D8Q6/?_encoding=UTF8&pd_rd_i=B0D318D8Q6&pd_rd_i=B0D318D8Q6&ref_=sbx_be_s_sparkle_ssd_vid&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - generic "赞助视频，点击即可跳转至专题页面。"
+    - link "5标签6套活页夹分隔页，带标签的塑料索引页，彩色标签分隔页，适用于3孔活页夹（共30个）":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JPtogGVoLIiJniG7vUGMbKcAAAGhk31LAwEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDmI6AV/clv1c_ek-wwnXyFcbWTqnoA6reLWQKUGxCKIg1vJPi8Wu5Gts5-Q1iG1Z_J2qMRzCgkj23S1F_mAWqCS4a9xb8wkHtMprF-CEuW8yT3nVrkuLk4rLKgzeUJXQ6fVz44-R9HAyYgf6dCWWCmyKZN1lIgURi6ZR7odiOvmPprva08SfWVFZgbnDmjGQ0Z6xOR9O2Z3OMguLzgm-TEjMItf1fnwMAg9OpnOdHlgvgmtjUFl0uZFk8B_PkKJ1T7UE9fq3cf9E5pqZ2TR9bRJ2sbZ6xCmqssek5XvQ_tGgaoJR18AnEiUtO_X2dwKOVTafuRXAORfNyOjmgHmJgPz3MvTV7vqEPBzEKzC6nbSjnNNVSXk3ZQ-AhFkOVW2d82SrWNn4VCgpMQOBwvHglxP0TBTrK95FAeagXgHTEwlraBLI0tTIVQeuAtefOllbryCDGtpibWzfmmaqmffBAEwScTcltX2kg-3DbgoRKbBVucAxZNHrStcSeWuYlLGGHuv3UiIKe60KUd4MEUe9fFui-gVuAhE0Kcj8lF4V_x2Xp4vjO77kyVTJbxfGcvalC7CFtWhhw_Gb0OWmZZWt4E0jbbrWWD34CpzKG3bjOSzlb5O7MaJ-DsF5pfWnRu_OIdkUVoT2iIoNc0UybEI-YdWxd1qpj5je-e-34tWa4QwWdLS058z9JYyudJ8snxtigoyes0zSrclSGUuDqD7DVPzEYrKCi_TSyQEScNpxGy3sqPqBlnKa8ScECWjA7QQe5Delu6h41jApEyqJ4BrQ2Wc2dUbigkhi-YDFlMTIBymkLXQNL9v8qkZiUMRu-hiCsMx9gv2YOdzQMk3RsswIoHSpTnxywtc_Gv27NZ3H_WkrQxn_dn1z_FN_X5x1kw3BKizeY9vee9drycjZOZ9Gs5RmkXzSpNhhSgGIPe_-tVWE2W26WowOqYHepgh0A17-G_RbmhdG-v7sUDsc73R1yjHSu6AdqaX9TcecWgfvXriztB60NKl0uaPfTqcuR-U7VRc_YWbRZxMW3NQiw4n_NrsLSEm-MKzQZWkNwFRlwlGNhtjsDe4WoQfcOnyZV3Uifdqy1x5rlwQ/https://www.amazon.com/dp/B0D318D8Q6/?_encoding=UTF8&pd_rd_i=B0D318D8Q6&pd_rd_i=B0D318D8Q6&ref_=sbx_be_s_sparkle_ssd_img&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - img "5标签6套活页夹分隔页，带标签的塑料索引页，彩色标签分隔页，适用于3孔活页夹（共30个）"
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JPtogGVoLIiJniG7vUGMbKcAAAGhk31LAwEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDmI6AV/clv1c_ek-wwnXyFcbWTqnoA6reLWQKUGxCKIg1vJPi8Wu5Gts5-Q1iG1Z_J2qMRzCgkj23S1F_mAWqCS4a9xb8wkHtMprF-CEuW8yT3nVrkuLk4rLKgzeUJXQ6fVz44-R9HAyYgf6dCWWCmyKZN1lIgURi6ZR7odiOvmPprva08SfWVFZgbnDmjGQ0Z6xOR9O2Z3OMguLzgm-TEjMItf1fnwMAg9OpnOdHlgvgmtjUFl0uZFk8B_PkKJ1T7UE9fq3cf9E5pqZ2TR9bRJ2sbZ6xCmqssek5XvQ_tGgaoJR18AnEiUtO_X2dwKOVTafuRXAORfNyOjmgHmJgPz3MvTV7vqEPBzEKzC6nbSjnNNVSXk3ZQ-AhFkOVW2d82SrWNn4VCgpMQOBwvHglxP0TBTrK95FAeagXgHTEwlraBLI0tTIVQeuAtefOllbryCDGtpibWzfmmaqmffBAEwScTcltX2kg-3DbgoRKbBVucAxZNHrStcSeWuYlLGGHuv3UiIKe60KUd4MEUe9fFui-gVuAhE0Kcj8lF4V_x2Xp4vjO77kyVTJbxfGcvalC7CFtWhhw_Gb0OWmZZWt4E0jbbrWWD34CpzKG3bjOSzlb5O7MaJ-DsF5pfWnRu_OIdkUVoT2iIoNc0UybEI-YdWxd1qpj5je-e-34tWa4QwWdLS058z9JYyudJ8snxtigoyes0zSrclSGUuDqD7DVPzEYrKCi_TSyQEScNpxGy3sqPqBlnKa8ScECWjA7QQe5Delu6h41jApEyqJ4BrQ2Wc2dUbigkhi-YDFlMTIBymkLXQNL9v8qkZiUMRu-hiCsMx9gv2YOdzQMk3RsswIoHSpTnxywtc_Gv27NZ3H_WkrQxn_dn1z_FN_X5x1kw3BKizeY9vee9drycjZOZ9Gs5RmkXzSpNhhSgGIPe_-tVWE2W26WowOqYHepgh0A17-G_RbmhdG-v7sUDsc73R1yjHSu6AdqaX9TcecWgfvXriztB60NKl0uaPfTqcuR-U7VRc_YWbRZxMW3NQiw4n_NrsLSEm-MKzQZWkNwFRlwlGNhtjsDe4WoQfcOnyZV3Uifdqy1x5rlwQ/https://www.amazon.com/dp/B0D318D8Q6/?_encoding=UTF8&pd_rd_i=B0D318D8Q6&pd_rd_i=B0D318D8Q6&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JPtogGVoLIiJniG7vUGMbKcAAAGhk31LAwEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDmI6AV/clv1c_ek-wwnXyFcbWTqnoA6reLWQKUGxCKIg1vJPi8Wu5Gts5-Q1iG1Z_J2qMRzCgkj23S1F_mAWqCS4a9xb8wkHtMprF-CEuW8yT3nVrkuLk4rLKgzeUJXQ6fVz44-R9HAyYgf6dCWWCmyKZN1lIgURi6ZR7odiOvmPprva08SfWVFZgbnDmjGQ0Z6xOR9O2Z3OMguLzgm-TEjMItf1fnwMAg9OpnOdHlgvgmtjUFl0uZFk8B_PkKJ1T7UE9fq3cf9E5pqZ2TR9bRJ2sbZ6xCmqssek5XvQ_tGgaoJR18AnEiUtO_X2dwKOVTafuRXAORfNyOjmgHmJgPz3MvTV7vqEPBzEKzC6nbSjnNNVSXk3ZQ-AhFkOVW2d82SrWNn4VCgpMQOBwvHglxP0TBTrK95FAeagXgHTEwlraBLI0tTIVQeuAtefOllbryCDGtpibWzfmmaqmffBAEwScTcltX2kg-3DbgoRKbBVucAxZNHrStcSeWuYlLGGHuv3UiIKe60KUd4MEUe9fFui-gVuAhE0Kcj8lF4V_x2Xp4vjO77kyVTJbxfGcvalC7CFtWhhw_Gb0OWmZZWt4E0jbbrWWD34CpzKG3bjOSzlb5O7MaJ-DsF5pfWnRu_OIdkUVoT2iIoNc0UybEI-YdWxd1qpj5je-e-34tWa4QwWdLS058z9JYyudJ8snxtigoyes0zSrclSGUuDqD7DVPzEYrKCi_TSyQEScNpxGy3sqPqBlnKa8ScECWjA7QQe5Delu6h41jApEyqJ4BrQ2Wc2dUbigkhi-YDFlMTIBymkLXQNL9v8qkZiUMRu-hiCsMx9gv2YOdzQMk3RsswIoHSpTnxywtc_Gv27NZ3H_WkrQxn_dn1z_FN_X5x1kw3BKizeY9vee9drycjZOZ9Gs5RmkXzSpNhhSgGIPe_-tVWE2W26WowOqYHepgh0A17-G_RbmhdG-v7sUDsc73R1yjHSu6AdqaX9TcecWgfvXriztB60NKl0uaPfTqcuR-U7VRc_YWbRZxMW3NQiw4n_NrsLSEm-MKzQZWkNwFRlwlGNhtjsDe4WoQfcOnyZV3Uifdqy1x5rlwQ/https://www.amazon.com/dp/B0D318D8Q6/?_encoding=UTF8&pd_rd_i=B0D318D8Q6&pd_rd_i=B0D318D8Q6&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+    - link "5-tabs 6 Set Binder Dividers with Tabs,Plastic Index with Label,Colored Tab Dividers for 3 Ring Binder (Total 30 Pcs)":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JPtogGVoLIiJniG7vUGMbKcAAAGhk31LAwEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDmI6AV/clv1c_ek-wwnXyFcbWTqnoA6reLWQKUGxCKIg1vJPi8Wu5Gts5-Q1iG1Z_J2qMRzCgkj23S1F_mAWqCS4a9xb8wkHtMprF-CEuW8yT3nVrkuLk4rLKgzeUJXQ6fVz44-R9HAyYgf6dCWWCmyKZN1lIgURi6ZR7odiOvmPprva08SfWVFZgbnDmjGQ0Z6xOR9O2Z3OMguLzgm-TEjMItf1fnwMAg9OpnOdHlgvgmtjUFl0uZFk8B_PkKJ1T7UE9fq3cf9E5pqZ2TR9bRJ2sbZ6xCmqssek5XvQ_tGgaoJR18AnEiUtO_X2dwKOVTafuRXAORfNyOjmgHmJgPz3MvTV7vqEPBzEKzC6nbSjnNNVSXk3ZQ-AhFkOVW2d82SrWNn4VCgpMQOBwvHglxP0TBTrK95FAeagXgHTEwlraBLI0tTIVQeuAtefOllbryCDGtpibWzfmmaqmffBAEwScTcltX2kg-3DbgoRKbBVucAxZNHrStcSeWuYlLGGHuv3UiIKe60KUd4MEUe9fFui-gVuAhE0Kcj8lF4V_x2Xp4vjO77kyVTJbxfGcvalC7CFtWhhw_Gb0OWmZZWt4E0jbbrWWD34CpzKG3bjOSzlb5O7MaJ-DsF5pfWnRu_OIdkUVoT2iIoNc0UybEI-YdWxd1qpj5je-e-34tWa4QwWdLS058z9JYyudJ8snxtigoyes0zSrclSGUuDqD7DVPzEYrKCi_TSyQEScNpxGy3sqPqBlnKa8ScECWjA7QQe5Delu6h41jApEyqJ4BrQ2Wc2dUbigkhi-YDFlMTIBymkLXQNL9v8qkZiUMRu-hiCsMx9gv2YOdzQMk3RsswIoHSpTnxywtc_Gv27NZ3H_WkrQxn_dn1z_FN_X5x1kw3BKizeY9vee9drycjZOZ9Gs5RmkXzSpNhhSgGIPe_-tVWE2W26WowOqYHepgh0A17-G_RbmhdG-v7sUDsc73R1yjHSu6AdqaX9TcecWgfvXriztB60NKl0uaPfTqcuR-U7VRc_YWbRZxMW3NQiw4n_NrsLSEm-MKzQZWkNwFRlwlGNhtjsDe4WoQfcOnyZV3Uifdqy1x5rlwQ/https://www.amazon.com/dp/B0D318D8Q6/?_encoding=UTF8&pd_rd_i=B0D318D8Q6&pd_rd_i=B0D318D8Q6&ref_=sbx_be_s_sparkle_ssd_tt&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+    - link "根据 272 条评论，评分为 4.6 星（满分 5 星）。":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JPtogGVoLIiJniG7vUGMbKcAAAGhk31LAwEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDmI6AV/clv1c_ek-wwnXyFcbWTqnoA6reLWQKUGxCKIg1vJPi8Wu5Gts5-Q1iG1Z_J2qMRzCgkj23S1F_mAWqCS4a9xb8wkHtMprF-CEuW8yT3nVrkuLk4rLKgzeUJXQ6fVz44-R9HAyYgf6dCWWCmyKZN1lIgURi6ZR7odiOvmPprva08SfWVFZgbnDmjGQ0Z6xOR9O2Z3OMguLzgm-TEjMItf1fnwMAg9OpnOdHlgvgmtjUFl0uZFk8B_PkKJ1T7UE9fq3cf9E5pqZ2TR9bRJ2sbZ6xCmqssek5XvQ_tGgaoJR18AnEiUtO_X2dwKOVTafuRXAORfNyOjmgHmJgPz3MvTV7vqEPBzEKzC6nbSjnNNVSXk3ZQ-AhFkOVW2d82SrWNn4VCgpMQOBwvHglxP0TBTrK95FAeagXgHTEwlraBLI0tTIVQeuAtefOllbryCDGtpibWzfmmaqmffBAEwScTcltX2kg-3DbgoRKbBVucAxZNHrStcSeWuYlLGGHuv3UiIKe60KUd4MEUe9fFui-gVuAhE0Kcj8lF4V_x2Xp4vjO77kyVTJbxfGcvalC7CFtWhhw_Gb0OWmZZWt4E0jbbrWWD34CpzKG3bjOSzlb5O7MaJ-DsF5pfWnRu_OIdkUVoT2iIoNc0UybEI-YdWxd1qpj5je-e-34tWa4QwWdLS058z9JYyudJ8snxtigoyes0zSrclSGUuDqD7DVPzEYrKCi_TSyQEScNpxGy3sqPqBlnKa8ScECWjA7QQe5Delu6h41jApEyqJ4BrQ2Wc2dUbigkhi-YDFlMTIBymkLXQNL9v8qkZiUMRu-hiCsMx9gv2YOdzQMk3RsswIoHSpTnxywtc_Gv27NZ3H_WkrQxn_dn1z_FN_X5x1kw3BKizeY9vee9drycjZOZ9Gs5RmkXzSpNhhSgGIPe_-tVWE2W26WowOqYHepgh0A17-G_RbmhdG-v7sUDsc73R1yjHSu6AdqaX9TcecWgfvXriztB60NKl0uaPfTqcuR-U7VRc_YWbRZxMW3NQiw4n_NrsLSEm-MKzQZWkNwFRlwlGNhtjsDe4WoQfcOnyZV3Uifdqy1x5rlwQ/https://www.amazon.com/dp/B0D318D8Q6/?_encoding=UTF8&pd_rd_i=B0D318D8Q6&pd_rd_i=B0D318D8Q6&ref_=sbx_be_s_sparkle_ssd_rev&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - text: "4.6"
+      - generic: 4.6 out of 5 stars
+      - text: "272"
+    - 'link "$13.89 Typical: $14.99"':
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JPtogGVoLIiJniG7vUGMbKcAAAGhk31LAwEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDmI6AV/clv1c_ek-wwnXyFcbWTqnoA6reLWQKUGxCKIg1vJPi8Wu5Gts5-Q1iG1Z_J2qMRzCgkj23S1F_mAWqCS4a9xb8wkHtMprF-CEuW8yT3nVrkuLk4rLKgzeUJXQ6fVz44-R9HAyYgf6dCWWCmyKZN1lIgURi6ZR7odiOvmPprva08SfWVFZgbnDmjGQ0Z6xOR9O2Z3OMguLzgm-TEjMItf1fnwMAg9OpnOdHlgvgmtjUFl0uZFk8B_PkKJ1T7UE9fq3cf9E5pqZ2TR9bRJ2sbZ6xCmqssek5XvQ_tGgaoJR18AnEiUtO_X2dwKOVTafuRXAORfNyOjmgHmJgPz3MvTV7vqEPBzEKzC6nbSjnNNVSXk3ZQ-AhFkOVW2d82SrWNn4VCgpMQOBwvHglxP0TBTrK95FAeagXgHTEwlraBLI0tTIVQeuAtefOllbryCDGtpibWzfmmaqmffBAEwScTcltX2kg-3DbgoRKbBVucAxZNHrStcSeWuYlLGGHuv3UiIKe60KUd4MEUe9fFui-gVuAhE0Kcj8lF4V_x2Xp4vjO77kyVTJbxfGcvalC7CFtWhhw_Gb0OWmZZWt4E0jbbrWWD34CpzKG3bjOSzlb5O7MaJ-DsF5pfWnRu_OIdkUVoT2iIoNc0UybEI-YdWxd1qpj5je-e-34tWa4QwWdLS058z9JYyudJ8snxtigoyes0zSrclSGUuDqD7DVPzEYrKCi_TSyQEScNpxGy3sqPqBlnKa8ScECWjA7QQe5Delu6h41jApEyqJ4BrQ2Wc2dUbigkhi-YDFlMTIBymkLXQNL9v8qkZiUMRu-hiCsMx9gv2YOdzQMk3RsswIoHSpTnxywtc_Gv27NZ3H_WkrQxn_dn1z_FN_X5x1kw3BKizeY9vee9drycjZOZ9Gs5RmkXzSpNhhSgGIPe_-tVWE2W26WowOqYHepgh0A17-G_RbmhdG-v7sUDsc73R1yjHSu6AdqaX9TcecWgfvXriztB60NKl0uaPfTqcuR-U7VRc_YWbRZxMW3NQiw4n_NrsLSEm-MKzQZWkNwFRlwlGNhtjsDe4WoQfcOnyZV3Uifdqy1x5rlwQ/https://www.amazon.com/dp/B0D318D8Q6/?_encoding=UTF8&pd_rd_i=B0D318D8Q6&pd_rd_i=B0D318D8Q6&ref_=sbx_be_s_sparkle_ssd_pce&pd_rd_w=0HrLH&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=XJ21ZBX7EYN6GYX1K744&pd_rd_wg=mAvn2&pd_rd_w=0HrLH&pd_rd_r=2503b882-df63-44b6-8ac1-3aef04612420
+      - generic: $13.89
+      - text: $
+      - generic: "13."
+      - text: "89"
+      - text: "Typical:"
+      - generic: $14.99
+      - text: $14.99
+  - generic "热门评论":
+    - heading "Customer reviews" [level=2]
+    - generic: 4.5 out of 5 stars
+    - generic: 4.5 out of 5
+    - generic: 83 global ratings
+    - list:
+      - link "74% 的评价为五星。":
+        - /url: /portal/customer-reviews/B07RP8FX7N/ref=acr_dp_hist_5?ie=UTF8&filterByStar=five_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 5 star
+        - progressbar
+        - generic: 74%
+      - link "13% 的评论获得了 4 星评价。":
+        - /url: /portal/customer-reviews/B07RP8FX7N/ref=acr_dp_hist_4?ie=UTF8&filterByStar=four_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 4 star
+        - progressbar
+        - generic: 13%
+      - link "5% 的评价为 3 星。":
+        - /url: /portal/customer-reviews/B07RP8FX7N/ref=acr_dp_hist_3?ie=UTF8&filterByStar=three_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 3 star
+        - progressbar
+        - generic: 5%
+      - link "8% 的评论为两星。":
+        - /url: /portal/customer-reviews/B07RP8FX7N/ref=acr_dp_hist_2?ie=UTF8&filterByStar=two_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 2 star
+        - progressbar
+        - generic: 8%
+      - generic "0% 的评论为 1 星。":
+        - generic: 1 star
+        - progressbar
+        - generic: 0%
+    - button "How customer reviews and ratings work": How customer reviews and ratings work
+    - heading "Top reviews from the United States" [level=3]
+    - list:
+      - link "Sharon McCauley":
+        - /url: /gp/profile/amzn1.account.AGQVFF3EY4N6KQCZY2WMQ7AXGHBA?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Sharon McCauley
+      - generic: 5 out of 5 stars
+      - link "File tabs":
+        - /url: /portal/customer-reviews/srp/-/R1F7DNCT831R36/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "File tabs" [level=5]
+      - generic: Reviewed in the United States on September 14, 2025
+      - 'link "Color: Transparent Writable Size: Standard Size (Pack 17)"':
+        - /url: /portal/customer-reviews/B07RP9K6KV/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+        - generic: "Color: Transparent Writable"
+        - text: "Size: Standard Size (Pack 17)"
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: Worked exactly what it was ordered for.
+      - button "Helpful"
+      - generic: Helpful
+      - button "报告审核": Report
+      - link "00LoLa":
+        - /url: /gp/profile/amzn1.account.AH43K5X4VLVWUZNJ5JEEHMT37L6Q?ref=cm_cr_dp_d_bdcrb_top
+        - generic: 00LoLa
+      - generic: 5 out of 5 stars
+      - link "Multi-Use Flags":
+        - /url: /portal/customer-reviews/srp/-/R2K0KWX5L09P3E/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "Multi-Use Flags" [level=5]
+      - generic: Reviewed in the United States on April 25, 2020
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: I love to use these flags to keep the documents in my files orderly, as a bookmark for favorite recipes, poems, and study guides, etc., (a good use of different color flags). The color flag is large enough to write notes on such as, “financial report”, “chicken w/pasta”, “historic definitions”... I like the bright and varied colors, too!
+      - button "Helpful"
+      - generic: Helpful
+      - button "报告审核": Report
+      - link "Debbie Harald":
+        - /url: /gp/profile/amzn1.account.AEDHS4VPBMDFNHOHHRE44QDHVJ3Q?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Debbie Harald
+      - generic: 5 out of 5 stars
+      - link "WORKS GREAT!!":
+        - /url: /portal/customer-reviews/srp/-/R1XGGNFUV7GVG4/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "WORKS GREAT!!" [level=5]
+      - generic: Reviewed in the United States on November 5, 2024
+      - 'link "Color: Transparent Writable Size: Standard Size (Pack 22)"':
+        - /url: /portal/customer-reviews/B0CCDCTBBV/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+        - generic: "Color: Transparent Writable"
+        - text: "Size: Standard Size (Pack 22)"
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: good product
+      - button "Helpful"
+      - generic: Helpful
+      - button "报告审核": Report
+      - link "Bigbayer123":
+        - /url: /gp/profile/amzn1.account.AF5YD2D772AQ7XIBED4IU3UBGMEQ?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Bigbayer123
+      - generic: 4 out of 5 stars
+      - link "Good product":
+        - /url: /portal/customer-reviews/srp/-/R3CLH35P236A3I/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "Good product" [level=5]
+      - generic: Reviewed in the United States on January 15, 2020
+      - 'link "Color: Neon Assorted Size: Standard Size (Pack 15)"':
+        - /url: /portal/customer-reviews/B07T7PTYQ2/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+        - generic: "Color: Neon Assorted"
+        - text: "Size: Standard Size (Pack 15)"
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - img "|"
+      - link "Early Reviewer Rewards":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: Good colors and stick well. They are translucent so don’t expect to write on them.
+      - button "Helpful"
+      - generic: Helpful
+      - button "报告审核": Report
+      - link "craftingforfun":
+        - /url: /gp/profile/amzn1.account.AHCPA5W4Q7R5GFD52DWD6KJLPXTQ?ref=cm_cr_dp_d_bdcrb_top
+        - generic: craftingforfun
+      - generic: 5 out of 5 stars
+      - link "Good quality Reasonable cost":
+        - /url: /portal/customer-reviews/srp/-/R1OOIP8HCEJ37Z/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "Good quality Reasonable cost" [level=5]
+      - generic: Reviewed in the United States on January 3, 2020
+      - 'link "Color: Neon Assorted Size: Standard Size (Pack 15)"':
+        - /url: /portal/customer-reviews/B07T7PTYQ2/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+        - generic: "Color: Neon Assorted"
+        - text: "Size: Standard Size (Pack 15)"
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - img "|"
+      - link "Early Reviewer Rewards":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: A wide variety to choose from for a reasonable price! They ate great for planners, studying, and annotating books. They also have a good adhesive so they will stick to most surfaces well.
+      - button "Helpful"
+      - generic: Helpful
+      - button "报告审核": Report
+      - link "Maudie M. Briggs":
+        - /url: /gp/profile/amzn1.account.AHZSSXFZNW7OXGDYE5U2AMHNWLSQ?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Maudie M. Briggs
+      - generic: 5 out of 5 stars
+      - link "Find the recipes you want to try!":
+        - /url: /portal/customer-reviews/srp/-/R3BH2CGWL2GZHU/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "Find the recipes you want to try!" [level=5]
+      - generic: Reviewed in the United States on December 22, 2019
+      - 'link "Color: Neon Assorted Size: Standard Size (Pack 16)"':
+        - /url: /portal/customer-reviews/B07RP8FX7N/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+        - generic: "Color: Neon Assorted"
+        - text: "Size: Standard Size (Pack 16)"
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: I read a lot of recipes and these tabs help me remember the recipes I want to try as I read my recipe books.
+      - button "Helpful"
+      - generic: Helpful
+      - button "报告审核": Report
+      - link "TK":
+        - /url: /gp/profile/amzn1.account.AEDTU2PY2EB7PI73XKWOSCE5IS6Q?ref=cm_cr_dp_d_bdcrb_top
+        - generic: TK
+      - generic: 2 out of 5 stars
+      - link "Didn’t stick well like it competing brand":
+        - /url: /portal/customer-reviews/srp/-/R346ZF8S5BSK5U/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "Didn’t stick well like it competing brand" [level=5]
+      - generic: Reviewed in the United States on September 24, 2025
+      - 'link "Color: Transparent Writable Size: Standard Size (Pack 17)"':
+        - /url: /portal/customer-reviews/B07RP9K6KV/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+        - generic: "Color: Transparent Writable"
+        - text: "Size: Standard Size (Pack 17)"
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: I was hoping it would have better tackiness to the stick
+      - button "Helpful"
+      - generic: Helpful
+      - button "报告审核": Report
+      - link "Amazon Customer":
+        - /url: /gp/profile/amzn1.account.AHK7GWN4N3VU46OPT36PRS4BNNSA?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Amazon Customer
+      - generic: 5 out of 5 stars
+      - link "Just what I needed!":
+        - /url: /portal/customer-reviews/srp/-/R3O3BXWMY3J61X/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "Just what I needed!" [level=5]
+      - generic: Reviewed in the United States on February 8, 2020
+      - 'link "Color: Neon Assorted Size: Standard Size (Pack 15)"':
+        - /url: /portal/customer-reviews/B07T7PTYQ2/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+        - generic: "Color: Neon Assorted"
+        - text: "Size: Standard Size (Pack 15)"
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - img "|"
+      - link "Early Reviewer Rewards":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: I live where a product of that quality is not available, so I order it. Thanks!
+      - button "Helpful"
+      - generic: Helpful
+      - button "报告审核": Report
+    - link "See more reviews":
+      - /url: /portal/customer-reviews/B07RP8FX7N/ref=cm_cr_dp_d_show_all_top?_encoding=UTF8&ie=UTF8&reviewerType=all_reviews
+      - generic: See more reviews
+- complementary "您最近浏览过的商品和推荐商品"
+- button "返回顶部":
+  - generic: Back to top
+- heading "Get to Know Us" [level=6]
+- list:
+  - link "Careers":
+    - /url: https://www.amazon.jobs
+  - link "Amazon Newsletter":
+    - /url: https://www.aboutamazon.com/subscribe?utm_source=amazon_com&utm_medium=amazonfooter&utm_campaign=newslettersubscribers&utm_term=amazonnewssignup
+  - link "About Amazon":
+    - /url: https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about
+  - link "Accessibility":
+    - /url: https://www.amazon.com/b?node=15701038011&ie=UTF8
+  - link "Sustainability":
+    - /url: https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer
+  - link "Press Center":
+    - /url: https://www.amazon.com/pr
+  - link "Investor Relations":
+    - /url: https://www.amazon.com/ir
+  - link "Amazon Devices":
+    - /url: /gp/browse.html?node=2102313011&ref_=footer_devices
+  - link "Amazon Science":
+    - /url: https://www.amazon.science
+- heading "Make Money with Us" [level=6]
+- list:
+  - link "Sell on Amazon":
+    - /url: https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa
+  - link "Sell apps on Amazon":
+    - /url: https://developer.amazon.com
+  - link "Supply to Amazon":
+    - /url: https://supply.amazon.com
+  - link "Protect & Build Your Brand":
+    - /url: https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT
+  - link "Become an Affiliate":
+    - /url: https://affiliate-program.amazon.com/
+  - link "Become a Delivery Driver":
+    - /url: https://dspjobhub.com/
+  - link "Start a Package Delivery Business":
+    - /url: https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home
+  - link "Advertise Your Products":
+    - /url: https://advertising.amazon.com/?ref=ext_amzn_ftr
+  - link "Self-Publish with Us":
+    - /url: /gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing
+  - link "Become an Amazon Hub Partner":
+    - /url: https://www.amazon.com/b?node=216188543011
+  - text: ›
+  - link "See More Ways to Make Money":
+    - /url: /b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore
+- heading "Amazon Payment Products" [level=6]
+- list:
+  - link "Amazon Visa":
+    - /url: /iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc
+  - link "Amazon Store Card":
+    - /url: /credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc
+  - link "Amazon Secured Card":
+    - /url: /dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB
+  - link "Amazon Business Card":
+    - /url: /dp/B0DVBL912R?plattr=ACOMFO&ie=UTF-8
+  - link "Shop with Points":
+    - /url: https://www.amazon.com/hp/shopwithpoints/servicing
+  - link "Credit Card Marketplace":
+    - /url: /gp/browse.html?node=3561432011&ref_=footer_ccmp
+  - link "Reload Your Balance":
+    - /url: /gp/browse.html?node=10232440011&ref_=footer_reload_us
+  - link "Gift Cards":
+    - /url: https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop
+  - link "Amazon Currency Converter":
+    - /url: /gp/browse.html?node=388305011&ref_=footer_tfx
+- heading "Let Us Help You" [level=6]
+- list:
+  - link "Your Account":
+    - /url: https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya
+  - link "Your Orders":
+    - /url: https://www.amazon.com/gp/css/order-history?ref_=footer_yo
+  - link "Shipping Rates & Policies":
+    - /url: /gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates
+  - link "Amazon Prime":
+    - /url: /gp/prime?ref_=footer_prime
+  - link "Returns & Replacements":
+    - /url: /gp/css/returns/homepage.html?ref_=footer_hy_f_4
+  - link "Manage Your Content and Devices":
+    - /url: /hz/mycd/myx?ref_=footer_myk
+  - link "召回和产品安全警报":
+    - /url: https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa
+    - generic: 召回和产品安全警报
+  - link "产品安全提示":
+    - /url: /gp/browse.html?node=119071507011&ref_=footer_us_ps
+    - generic: 产品安全提示
+  - link "注册和礼物清单":
+    - /url: /registries?ref_=nav_footer_registry_giftlist_desktop
+    - generic: 注册和礼物清单
+  - link "客户服务":
+    - /url: /hz/contact-us/foresight/hubgateway?ref_=footer_gw_m_b_he
+    - generic: 客户服务
+- link "亚马逊美国首页":
+  - /url: /?ref_=footer_logo
+- link "选择购物语言。当前选项为英语。":
+  - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang
+  - generic: 英语
+- button "展开以更改语言或国家/地区"
+- button "请选择购物国家/地区。当前选项为美国。":
+  - generic: 美国
+- navigation "亚马逊上还有更多内容":
+  - generic "亚马逊上还有更多内容":
+    - list:
+      - link "亚马逊音乐 播放数百万 首歌曲":
+        - /url: https://music.amazon.com?ref=dm_aff_amz_com
+        - heading "亚马逊音乐" [level=5]:
+          - generic: 亚马逊音乐
+        - generic: 播放数百万
+        - generic: 首歌曲
+      - link "亚马逊广告 无论客户身 在何处，都能触达 他们。":
+        - /url: https://advertising.amazon.com/?ref=footer_advtsing_amzn_com
+        - heading "亚马逊广告" [level=5]:
+          - generic: 亚马逊广告
+        - generic: 无论客户身
+        - generic: 在何处，都能触达
+        - generic: 他们。
+      - link "下午6点 时尚品牌优惠多多":
+        - /url: https://www.6pm.com
+        - heading "下午6点" [level=5]:
+          - generic: 下午6点
+        - generic: 时尚品牌优惠多多
+      - link "AbeBooks 书籍、艺术品 和收藏品":
+        - /url: https://www.abebooks.com
+        - heading "AbeBooks" [level=5]:
+          - generic: AbeBooks
+        - generic: 书籍、艺术品
+        - generic: 和收藏品
+      - link "ACX 轻松出版有声书":
+        - /url: https://www.acx.com/
+        - heading "ACX" [level=5]:
+          - generic: ACX
+        - generic: 轻松出版有声书
+      - link "在亚马逊上销售 开设销售账户":
+        - /url: https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell
+        - heading "在亚马逊上销售" [level=5]:
+          - generic: 在亚马逊上销售
+        - generic: 开设销售账户
+      - link "维科 物流软件 库存管理":
+        - /url: https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer
+        - heading "维科" [level=5]:
+          - generic: 维科
+        - generic: 物流软件
+        - generic: 库存管理
+    - list:
+      - link "亚马逊企业购 一切与 您业务相关":
+        - /url: /business?ref_=footer_retail_b2b
+        - heading "亚马逊企业购" [level=5]:
+          - generic: 亚马逊企业购
+        - generic: 一切与
+        - generic: 您业务相关
+      - link "亚马逊的食品杂货 食品杂货及其他商品 直接送到您家门口":
+        - /url: /fmc/grocery-gateway?almBrandId=fe16aGPfFs46S&ref_=footer_groceries
+        - heading "亚马逊的食品杂货" [level=5]:
+          - generic: 亚马逊的食品杂货
+        - generic: 食品杂货及其他商品
+        - generic: 直接送到您家门口
+      - link "亚马逊全球 国际订单发货":
+        - /url: /gp/browse.html?node=20338496011&ref_=footer_amazonglobal
+        - heading "亚马逊全球" [level=5]:
+          - generic: 亚马逊全球
+        - generic: 国际订单发货
+      - link "家庭服务 经验丰富的专业人士，为您 带来幸福保障":
+        - /url: /services?ref_=footer_services
+        - heading "家庭服务" [level=5]:
+          - generic: 家庭服务
+        - generic: 经验丰富的专业人士，为您
+        - generic: 带来幸福保障
+      - link "亚马逊网络服务 可扩展云 计算服务":
+        - /url: https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter
+        - heading "亚马逊网络服务" [level=5]:
+          - generic: 亚马逊网络服务
+        - generic: 可扩展云
+        - generic: 计算服务
+      - link "有声读物 聆听有声读物和原创 音频表演":
+        - /url: https://www.audible.com
+        - heading "有声读物" [level=5]:
+          - generic: 有声读物
+        - generic: 聆听有声读物和原创
+        - generic: 音频表演
+      - link "Box Office Mojo 查找电影 票房数据":
+        - /url: https://www.boxofficemojo.com/?ref_=amzn_nav_ftr
+        - heading "Box Office Mojo" [level=5]:
+          - generic: Box Office Mojo
+        - generic: 查找电影
+        - generic: 票房数据
+    - list:
+      - link "Goodreads 书评 与推荐":
+        - /url: https://www.goodreads.com
+        - heading "Goodreads" [level=5]:
+          - generic: Goodreads
+        - generic: 书评
+        - generic: 与推荐
+      - link "IMDb 电影、电视 和名人":
+        - /url: https://www.imdb.com
+        - heading "IMDb" [level=5]:
+          - generic: IMDb
+        - generic: 电影、电视
+        - generic: 和名人
+      - link "IMDbPro 获取娱乐行业 专业人士所需信息":
+        - /url: https://pro.imdb.com?ref_=amzn_nav_ftr
+        - heading "IMDbPro" [level=5]:
+          - generic: IMDbPro
+        - generic: 获取娱乐行业
+        - generic: 专业人士所需信息
+      - link "Kindle直接出版 轻松实现 独立数字和印刷出版":
+        - /url: https://kdp.amazon.com
+        - heading "Kindle直接出版" [level=5]:
+          - generic: Kindle直接出版
+        - generic: 轻松实现 独立数字和印刷出版
+      - link "亚马逊照片 Prime会员可享无限量免费照片存储空间。":
+        - /url: /gp/browse.html?node=13234696011&ref_=_gno_p_foot
+        - heading "亚马逊照片" [level=5]:
+          - generic: 亚马逊照片
+        - generic: Prime会员可享无限量免费照片存储空间。
+      - link "Prime Video Direct 视频分发 变得轻松":
+        - /url: https://videodirect.amazon.com/home/landing
+        - heading "Prime Video Direct" [level=5]:
+          - generic: Prime Video Direct
+        - generic: 视频分发
+        - generic: 变得轻松
+      - link "Shopbop 设计师 时尚品牌":
+        - /url: https://www.shopbop.com
+        - heading "Shopbop" [level=5]:
+          - generic: Shopbop
+        - generic: 设计师
+        - generic: 时尚品牌
+    - list:
+      - link "亚马逊二手商品 优质二手商品超值优惠":
+        - /url: /gp/browse.html?node=10158976011&ref_=footer_wrhsdls
+        - heading "亚马逊二手商品" [level=5]:
+          - generic: 亚马逊二手商品
+        - generic: 优质二手商品超值优惠
+      - link "全食超市 美国最健康的 杂货店":
+        - /url: https://www.wholefoodsmarket.com
+        - heading "全食超市" [level=5]:
+          - generic: 全食超市
+        - generic: 美国最健康的
+        - generic: 杂货店
+      - link "哇！ 交易和 骗局":
+        - /url: https://www.woot.com/
+        - heading "哇！" [level=5]:
+          - generic: 哇！
+        - generic: 交易和
+        - generic: 骗局
+      - link "Zappos 鞋履及 服装":
+        - /url: https://www.zappos.com
+        - heading "Zappos" [level=5]:
+          - generic: Zappos
+        - generic: 鞋履及
+        - generic: 服装
+      - link "戒指 智能家居 安防系统":
+        - /url: https://ring.com
+        - heading "戒指" [level=5]:
+          - generic: 戒指
+        - generic: 智能家居
+        - generic: 安防系统
+      - link "eero WiFi 在每个房间播放 4K 视频":
+        - /url: https://eero.com/
+        - heading "eero WiFi" [level=5]:
+          - generic: eero WiFi
+        - generic: 在每个房间播放 4K 视频
+      - link "眨 智能安防 ，家家有 保障":
+        - /url: https://blinkforhome.com/?ref=nav_footer
+        - heading "眨" [level=5]:
+          - generic: 眨
+        - generic: 智能安防
+        - generic: ，家家有 保障
+    - list:
+      - link "邻居应用 实时犯罪 与安全警报":
+        - /url: https://shop.ring.com/pages/neighbors-app
+        - heading "邻居应用" [level=5]:
+          - generic: 邻居应用
+        - generic: 实时犯罪
+        - generic: 与安全警报
+      - link "药盒 简化药房":
+        - /url: https://www.pillpack.com
+        - heading "药盒" [level=5]:
+          - generic: 药盒
+        - generic: 简化药房
+      - link "亚马逊翻新产品 值得信赖的翻新技术":
+        - /url: /gp/browse.html?node=12653393011&ref_=footer_usrenew
+        - heading "亚马逊翻新产品" [level=5]:
+          - generic: 亚马逊翻新产品
+        - generic: 值得信赖的翻新技术
+      - link "亚马逊月亮 无需游戏主机，即可畅玩云端游戏":
+        - /url: https://www.amazon.com/luna/landing-page?ref_=tmp_retail_footer
+        - heading "亚马逊月亮" [level=5]:
+          - generic: 亚马逊月亮
+        - generic: 无需游戏主机，即可畅玩云端游戏
+- list:
+  - link "使用条款":
+    - /url: /gp/help/customer/display.html?nodeId=508088&ref_=footer_cou
+    - generic: 使用条款
+  - link "隐私声明":
+    - /url: /gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ&ref_=footer_privacy
+    - generic: 隐私声明
+  - link "消费者健康数据隐私披露":
+    - /url: /gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy
+    - generic: 消费者健康数据隐私披露
+  - link "您的广告隐私设置":
+    - /url: /privacyprefs?ref_=footer_iba
+    - generic: 您的广告隐私设置
+- generic: © 1996-2026，亚马逊公司或其关联公司
+- iframe [id="DAsis"]
+- generic: 测试：amzn-nv-flyout-healthy-choice
+- generic: 测试：nav-rufus-disc-txt
+- generic: 测试：a-truncate-cut
+- generic: 测试：sp-cc-wrapper
+- generic: 测试：.mo-wp
+- generic: 测试：.a-image-container
+- generic: 测试：sp-cc
+- generic: 测试：.amzn-box-inner
+- generic: 测试：.js-order-card
+- generic: 测试：pldn-deep-link
+- generic: 测试：添加到购物车按钮
+- generic: 测试：amzn-nav-app-banner-container
+- generic: 测试：.sparkle-container

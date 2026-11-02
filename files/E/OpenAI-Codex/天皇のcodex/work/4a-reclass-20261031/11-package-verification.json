@@ -1,0 +1,41 @@
+{
+  "file": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261031-urgent-fixes\\11-remaining-three-five-bullets-only.xlsm",
+  "sha256": "d36f875821c0c24c0d5de12c4223f9d7c27f3fd93ef4e10e173e94dec4d80fd6",
+  "rows": 3,
+  "asins": 3,
+  "bullets": 15,
+  "identities": [
+    {
+      "sku": "4A 404SL-15",
+      "asin": "B07RQ69Q1Q"
+    },
+    {
+      "sku": "4A 406SL-10",
+      "asin": "B07RP85C2P"
+    },
+    {
+      "sku": "4A 6032x5",
+      "asin": "B07RQ5MBBB"
+    }
+  ],
+  "populated_columns": [
+    "C",
+    "D",
+    "E",
+    "L",
+    "M",
+    "AS",
+    "AT",
+    "AU",
+    "AV",
+    "AW"
+  ],
+  "all_columns_checked": true,
+  "non_target_fields": 0,
+  "price_stock_color_pack_relationship_fields_written": false,
+  "changed_zip_parts": [
+    "xl/worksheets/sheet5.xml"
+  ],
+  "headers_macros_other_tabs_unchanged": true,
+  "uploaded": false
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "key": "PSS32x6_01_v2",
+    "parent": "PSS32x6_01",
+    "refs": [
+      "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-69e8c4a3-c740-483b-add6-889788e0224d.png"
+    ],
+    "transparent": true,
+    "prompt": "Use case: background-extraction. Edit THIS exact image, removing ONLY the off-white background and background paper grain. Return a genuinely transparent RGBA background, including white spaces between products. Keep every product, its color, geometry, existing position, quantity and fine paper/plastic texture unchanged. Do not redraw, add or remove any products. Keep a very faint natural contact shadow in alpha where possible, but the empty background MUST be fully transparent. Make output square 1:1 with generous safe margin, center the intact product group, never crop a product. No text, no props. Quantity must remain exactly six dispensers.",
+    "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-b982ee8f-95b2-4537-a196-4e480f8ed4b7.png"
+  },
+  {
+    "key": "5084NL_01_v2",
+    "parent": "5084NL_01",
+    "refs": [
+      "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-d91fd8a5-754e-4c0c-9443-170fbe2adba5.png"
+    ],
+    "transparent": true,
+    "prompt": "Use case: background-extraction. Edit THIS exact image, removing ONLY the off-white background and background paper grain. Return a genuinely transparent RGBA background, including white spaces between products. Keep every product, its color, geometry, existing position, quantity and fine paper/plastic texture unchanged. Do not redraw, add or remove any products. Keep a very faint natural contact shadow in alpha where possible, but the empty background MUST be fully transparent. Make output square 1:1 with generous safe margin, center the intact product group, never crop a product. No text, no props. Quantity must remain exactly four lined pads.",
+    "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-16d34a94-b28e-4b69-8782-baa45d8c655e.png"
+  },
+  {
+    "key": "301x12_01_v2",
+    "parent": "301x12_01",
+    "refs": [
+      "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-bbbb55f2-d06c-47ab-bccd-8538dda4827c.png"
+    ],
+    "transparent": true,
+    "prompt": "Use case: background-extraction. Edit THIS exact image, removing ONLY the off-white background and background paper grain. Return a genuinely transparent RGBA background, including white spaces between products. Keep every product, its color, geometry, existing position, quantity and fine paper/plastic texture unchanged. Do not redraw, add or remove any products. Keep a very faint natural contact shadow in alpha where possible, but the empty background MUST be fully transparent. Make output square 1:1 with generous safe margin, center the intact product group, never crop a product. No text, no props. Quantity must remain exactly twelve yellow mini pads.",
+    "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-efa0c196-274e-4621-aca1-a96e3da78b1d.png"
+  },
+  {
+    "key": "5084NL_02_v2",
+    "parent": "5084NL_02",
+    "refs": [
+      "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-727838cd-840b-47f9-abde-7c2964d10f77.png"
+    ],
+    "transparent": false,
+    "prompt": "Precisely edit this single size-comparison graphic; keep all wording, colors, typography, overall premium minimalist style. Correct the two paper shapes to accurately share one physical scale. In this 1254 x 1254 design: BLUE rectangle MUST be exactly x=192,y=266,width=472,height=755 pixels (ratio 5:8). Gray square MUST be exactly width=283,height=283, located x=780,y=738 to bottom-align at y=1021. This makes 3 inch exactly 60% of 5 inch. Adjust dimension arrows to these edges; move gray '3 in' top arrow lower accordingly. Blue remains lined. Gray should be blank. No perspective, flat straight edges, accurate same-scale geometry is essential. Preserve headline 'Room for the details', 'Compare the sheet area', numeric area captions and footer 'About 4.44× the sheet area'. Return square.",
+    "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-675a502d-14a9-4d6c-a1fd-e87edc8c2f71.png"
+  },
+  {
+    "key": "301x12_03_v2",
+    "parent": "301x12_03",
+    "refs": [
+      "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-91f424d1-8210-42c9-a1b5-7dc347a66c1a.png"
+    ],
+    "transparent": false,
+    "prompt": "Edit this exact ecommerce image with one change only: the yellow Sign Here object is mistakenly a thick PAD. Make it ONE paper-thin yellow sticky note sheet attached flat to the agreement page, edge thickness less than 0.1 mm and virtually invisible, no stack or pad beneath it, subtle flat contact shadow only, no curled corner. Preserve handwritten Sign Here and arrow exactly, all other text, pen, sample agreement, composition, color, lighting. Product is 1.5 x 2 inch blank note with handwritten example, not a printed label. Return square same composition.",
+    "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-0cc76e00-ba1c-421d-81cd-c88f67909dec.png"
+  }
+]

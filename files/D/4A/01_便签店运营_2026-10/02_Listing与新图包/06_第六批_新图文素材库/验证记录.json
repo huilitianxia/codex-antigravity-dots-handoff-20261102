@@ -1,0 +1,374 @@
+{
+  "date": "2026-10-31",
+  "count": 15,
+  "errors": [],
+  "main_checks": [
+    {
+      "id": "HOLDER303_01",
+      "background_rgb": [
+        255,
+        255,
+        255
+      ],
+      "border60": {
+        "checked_pixels": 465600,
+        "exact_white_pixels": 465600,
+        "pass": true
+      },
+      "safety_margins_including_shadow": [
+        87,
+        93,
+        88,
+        93
+      ],
+      "margin_pass": true,
+      "product_longest_span_percent": 89.45,
+      "occupancy_pass": true,
+      "occupancy_definition": "alpha>230近似实体外接框最长边/2000，非面积占比；透明壳和阴影另行目视检查。",
+      "jpg_border60": {
+        "checked_pixels": 465600,
+        "exact_white_pixels": 465600,
+        "pass": true
+      }
+    },
+    {
+      "id": "BP1111_01",
+      "background_rgb": [
+        255,
+        255,
+        255
+      ],
+      "border60": {
+        "checked_pixels": 465600,
+        "exact_white_pixels": 465600,
+        "pass": true
+      },
+      "safety_margins_including_shadow": [
+        67,
+        73,
+        67,
+        73
+      ],
+      "margin_pass": true,
+      "product_longest_span_percent": 89.5,
+      "occupancy_pass": true,
+      "occupancy_definition": "alpha>230近似实体外接框最长边/2000，非面积占比；透明壳和阴影另行目视检查。",
+      "jpg_border60": {
+        "checked_pixels": 465600,
+        "exact_white_pixels": 465600,
+        "pass": true
+      }
+    },
+    {
+      "id": "608NL210_01",
+      "background_rgb": [
+        255,
+        255,
+        255
+      ],
+      "border60": {
+        "checked_pixels": 465600,
+        "exact_white_pixels": 465600,
+        "pass": true
+      },
+      "safety_margins_including_shadow": [
+        76,
+        306,
+        76,
+        306
+      ],
+      "margin_pass": true,
+      "product_longest_span_percent": 89.5,
+      "occupancy_pass": true,
+      "occupancy_definition": "alpha>230近似实体外接框最长边/2000，非面积占比；透明壳和阴影另行目视检查。",
+      "jpg_border60": {
+        "checked_pixels": 465600,
+        "exact_white_pixels": 465600,
+        "pass": true
+      }
+    }
+  ],
+  "visual_review": "已目视检查15张总预览、两张新规格图、最终HOLDER303_05返修图及浏览器总览全页。颜色与规格已校正；生成壳体、纸层和比例仍须实物核样。",
+  "limitations": "仅技术和设计检查，不等于实物核样或Amazon审核通过。",
+  "browser_review": {
+    "cards": 15,
+    "images_loaded": 15,
+    "viewport_width": 1365,
+    "document_scroll_width": 1365,
+    "horizontal_overflow": false,
+    "screenshot": "_核验依据/审稿总览渲染检查.png"
+  },
+  "file_checks": [
+    {
+      "id": "HOLDER303_01",
+      "format": "PNG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "HOLDER303_01",
+      "format": "JPG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "HOLDER303_02",
+      "format": "PNG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "HOLDER303_02",
+      "format": "JPG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "HOLDER303_03",
+      "format": "PNG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "HOLDER303_03",
+      "format": "JPG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "HOLDER303_04",
+      "format": "PNG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "HOLDER303_04",
+      "format": "JPG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "HOLDER303_05",
+      "format": "PNG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "HOLDER303_05",
+      "format": "JPG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "BP1111_01",
+      "format": "PNG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "BP1111_01",
+      "format": "JPG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "BP1111_02",
+      "format": "PNG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "BP1111_02",
+      "format": "JPG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "BP1111_03",
+      "format": "PNG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "BP1111_03",
+      "format": "JPG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "BP1111_04",
+      "format": "PNG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "BP1111_04",
+      "format": "JPG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "BP1111_05",
+      "format": "PNG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "BP1111_05",
+      "format": "JPG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "608NL210_01",
+      "format": "PNG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "608NL210_01",
+      "format": "JPG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "608NL210_02",
+      "format": "PNG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "608NL210_02",
+      "format": "JPG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "608NL210_03",
+      "format": "PNG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "608NL210_03",
+      "format": "JPG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "608NL210_04",
+      "format": "PNG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "608NL210_04",
+      "format": "JPG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "608NL210_05",
+      "format": "PNG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    },
+    {
+      "id": "608NL210_05",
+      "format": "JPG",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256_match": true
+    }
+  ],
+  "local_links_valid": true
+}

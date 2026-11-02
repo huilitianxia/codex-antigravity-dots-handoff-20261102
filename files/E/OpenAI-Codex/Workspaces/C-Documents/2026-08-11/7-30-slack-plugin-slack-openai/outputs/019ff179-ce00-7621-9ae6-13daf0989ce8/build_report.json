@@ -1,0 +1,63 @@
+{
+  "outputs": {
+    "cleanupPath": "outputs\\019ff179-ce00-7621-9ae6-13daf0989ce8\\WooCommerce_商品异常清理清单_2026-08-20.xlsx",
+    "testCsvPath": "outputs\\019ff179-ce00-7621-9ae6-13daf0989ce8\\WooCommerce_测试改价_5_SKUs_2026-08-20.csv",
+    "fullCsvPath": "outputs\\019ff179-ce00-7621-9ae6-13daf0989ce8\\WooCommerce_完整改价_163_SKUs_复核后上传_2026-08-20.csv"
+  },
+  "counts": {
+    "siteRows": 314,
+    "publishedNoSku": 12,
+    "draftNoSku": 6,
+    "duplicateSkuGroups": 1,
+    "duplicateSkuRows": 3,
+    "missingMaster": 36,
+    "websiteOnly": 130,
+    "safeRows": 163,
+    "testRows": 5,
+    "priceOutliers": 25
+  },
+  "testSkus": [
+    {
+      "id": "135",
+      "sku": "4A 301x12-N",
+      "currentRegular": 4.99,
+      "newRegular": 6.99,
+      "newSale": 5.99
+    },
+    {
+      "id": "145",
+      "sku": "4A 303x12-N",
+      "currentRegular": 10.99,
+      "newRegular": 12.99,
+      "newSale": 9.99
+    },
+    {
+      "id": "185",
+      "sku": "4A 305x6-N",
+      "currentRegular": 8.99,
+      "newRegular": 8.99,
+      "newSale": 7.49
+    },
+    {
+      "id": "195",
+      "sku": "4A 404x6-N-L",
+      "currentRegular": 12.99,
+      "newRegular": 11.49,
+      "newSale": 10.49
+    },
+    {
+      "id": "183",
+      "sku": "4A 305x6",
+      "currentRegular": 6.99,
+      "newRegular": 7.99,
+      "newSale": 6.99
+    }
+  ],
+  "inspections": {
+    "summary": "{\"kind\":\"table\",\"sheet\":\"总览\",\"address\":\"A1:H21\",\"rows\":21,\"cols\":8,\"values\":[[\"WooCommerce 商品目录与价格更新检查\",null,null,null,null,null,null,null],[null,null,null,null,null,null,null,null],[\"依据网站导出 CSV 与《亚马逊供应商和开店总表-2026 (3)》生成｜2026-08-20\",null,null,null,null,null,null,null],[null,null,null,null,null,null,null,null],[\"指标\",\"数量\",null,\"结论与操作顺序\",null,null,null,null],[\"安全改价 SKU\",163,null,\"1. 先处理“已发布无SKU重复”：确认保留有 SKU 的原商品，将无 SKU 副本转为草稿或删除。\",null,null,null,null],[\"价格表未匹配\",36,null,\"2. 处理 4A 8089：建议保留 ID 511；ID 1401、1402 名称为“简体中文”，先核查后转草稿。\",null,null,null,null],[\"已发布无 SKU 重复\",12,null,\"3. 上传测试 CSV，并勾选“更新现有商品”。确认 5 个商品的原价、优惠价和前台显示。\",null,null,null,null],[\"重复 SKU 涉及商品\",3,null,\"4. 测试成功后再上传 163 个 SKU 的完整安全文件。\",null,null,null,null],[\"网站额外 SKU\",130,null,\"5. 36 个未匹配 SKU 与 130 个网站额外 SKU 不会被批量文件改动。\",null,null,null,null],[\"无 SKU 草稿\",6,null,\"注意：完整文件包含 12 个已有规范 SKU 的主商品，因此应先下架对应的无 SKU 重复副本。\",null,null,null,null],[\"测试文件 SKU\",5,null,\"风险复核：有 25 个商品的新原价相对网站当前原价变动达到或超过 50%，已在“安全改价163”中标红。\",null,null,null,null],[\"原价变化≥50%\",25,null,null,null,null,null,null],[null,null,null,null,null,null,null,null],[\"输出文件\",null,null,null,null,null,null,null],[\"WooCommerce_测试改价_5_SKUs_2026-08-20.csv\",null,null,null,null,null,null,null],[\"WooCommerce_完整改价_163_SKUs_复核后上传_2026-08-20.csv\",null,null,null,null,null,null,null],[\"WooCommerce_商品异常清理清单_2026-08-20.xlsx\",null,null,null,null,null,null,null],[null,null,null,null,null,null,null,null],[\"CSV 来源：D:/下载文件/wc-product-export-20-8-2026-1787217563104.csv\",null,null,null,null,null,null,null],[\"价格来源：C:/Users/24243/Downloads/亚马逊供应商和开店总表-2026 (3).xlsx\",null,null,null,null,null,null,null]]}",
+    "safe": "{\"kind\":\"table\",\"sheet\":\"安全改价163\",\"address\":\"A1:I164\",\"rows\":164,\"cols\":9,\"values\":[[\"商品ID\",\"SKU\",\"商品名称\",\"当前原价\",\"当前优惠价\",\"新原价\",\"新优惠价\",\"更新内容\",\"风险标记\"],[\"560\",\"4A 124418\",\"4A Page Maker 1/2x1 3/4 Inches,Neon Assorted,16 Colors,50 sheets/Pad,16 Pads/...\",8.99,null,8.99,6.99,\"仅增加优惠价\",0],[\"3893\",\"4A 501516\",\"4A Sticky Notes, 0.6 x 2 Inches, Small Size,16 Different Colors, Self-Stick N...\",9.99,null,9.99,7.49,\"仅增加优惠价\",0],[\"10081\",\"4A 501521\",\"4A Sticky Notes, 50x15mm, Small Size,21 colors, Self-Stick Notes, 100 Sheets/...\",13.99,null,13.99,11.99,\"仅增加优惠价\",0],[\"10084\",\"4A 752516\",\"4A Sticky Notes,75x25mm,Small Size,Self-Stick Notes,16 Colors,100 Sheets/Pad,...\",9.49,null,9.99,8.99,\"更新原价并增加优惠价\",0],[\"137\",\"4A 301x12-Y\",\"4A Sticky Notes, 1 1/2 x 2-Inches,Canary Yellow,100 sheets,12 pads/pack, 4A 3...\",3.85,null,5.99,4.99,\"⚠ 原价变化≥50%，上传前复核\",1],[\"135\",\"4A 301x12-N\",\"4A Sticky Notes,1 1/2 x 2-Inches,Neon Assorted Collection, 100 sheets,12 pads...\",4.99,null,6.99,5.99,\"更新原价并增加优惠价\",0],[\"141\",\"4A 301x24-Y\",\"4A Sticky notes,1 1/2 x 2-Inches, Canary Yellow,100 sheets,24 pads/box,  4A 3...\",7.69,null,9.99,8.49,\"更新原价并增加优惠价\",0]],\"valuesTruncated\":true,\"valuesPreviewRows\":8,\"valuesPreviewCols\":9,\"valuesPreviewAddress\":\"A1:I8\"}",
+    "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+    "testCsv": "{\"kind\":\"table\",\"sheet\":\"TestUpload\",\"address\":\"A1:D6\",\"rows\":6,\"cols\":4,\"values\":[[\"ID\",\"SKU\",\"Regular price\",\"Sale price\"],[\"135\",\"4A 301x12-N\",\"6.99\",\"5.99\"],[\"145\",\"4A 303x12-N\",\"12.99\",\"9.99\"],[\"185\",\"4A 305x6-N\",\"8.99\",\"7.49\"],[\"195\",\"4A 404x6-N-L\",\"11.49\",\"10.49\"],[\"183\",\"4A 305x6\",\"7.99\",\"6.99\"]]}",
+    "fullCsv": "{\"kind\":\"table\",\"sheet\":\"FullUpload\",\"address\":\"A1:D164\",\"rows\":164,\"cols\":4,\"values\":[[\"ID\",\"SKU\",\"Regular price\",\"Sale price\"],[\"560\",\"4A 124418\",\"8.99\",\"6.99\"],[\"3893\",\"4A 501516\",\"9.99\",\"7.49\"],[\"10081\",\"4A 501521\",\"13.99\",\"11.99\"],[\"10084\",\"4A 752516\",\"9.99\",\"8.99\"],[\"137\",\"4A 301x12-Y\",\"5.99\",\"4.99\"],[\"135\",\"4A 301x12-N\",\"6.99\",\"5.99\"],[\"141\",\"4A 301x24-Y\",\"9.99\",\"8.49\"]],\"valuesTruncated\":true,\"valuesPreviewRows\":8,\"valuesPreviewCols\":4,\"valuesPreviewAddress\":\"A1:D8\"}"
+  }
+}

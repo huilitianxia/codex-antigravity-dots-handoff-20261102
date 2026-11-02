@@ -1,0 +1,321 @@
+{
+  "basis": "Historical US/USD non-cancelled business orders through 10/31 06:50 PDT; SKU-level intersections; groups overlap; not causal proof",
+  "all_b2b_orders": 179,
+  "all_b2b_revenue": 4838.8,
+  "summary": {
+    "incident37": {
+      "orders": 8,
+      "units": 9,
+      "revenue": 111.4,
+      "matching_skus": [
+        "4A 032",
+        "4A 5082-Y-L-GM",
+        "4A PSS 9-5 Refill",
+        "4A SCPSS 7",
+        "AAAA 4A 608-N-L-210"
+      ]
+    },
+    "v1_business29": {
+      "orders": 3,
+      "units": 3,
+      "revenue": 38.96,
+      "matching_skus": [
+        "4A 5082-Y-L-GM",
+        "4A PSS 9-5 Refill"
+      ]
+    },
+    "v4price16": {
+      "orders": 48,
+      "units": 80,
+      "revenue": 1177.84,
+      "matching_skus": [
+        "4A 302-Full Adhesive-400",
+        "4A 305-Full Adhesive",
+        "4A 305-Full Adhesive-300",
+        "4A PSS 9-3 Refill",
+        "AAAA 4A 304-Full Glue"
+      ]
+    },
+    "temp_min4": {
+      "orders": 1,
+      "units": 1,
+      "revenue": 14.99,
+      "matching_skus": [
+        "AAAA 4A 608-N-L-210"
+      ]
+    }
+  },
+  "by_sku": [
+    {
+      "sku": "4A 303-Full Adhesive-400",
+      "asin": "B07QXJYTZ7",
+      "orders": 65,
+      "units": 92,
+      "revenue": 1988.8,
+      "price_groups": []
+    },
+    {
+      "sku": "4A 5082-Y-Lx2",
+      "asin": "B0F9L5G6XQ",
+      "orders": 13,
+      "units": 37,
+      "revenue": 514.41,
+      "price_groups": []
+    },
+    {
+      "sku": "4A 302-Full Adhesive-400",
+      "asin": "B0F2TKL2P5",
+      "orders": 22,
+      "units": 26,
+      "revenue": 453.76,
+      "price_groups": [
+        "v4price16"
+      ]
+    },
+    {
+      "sku": "4A 305-Full Adhesive",
+      "asin": "B0FBG138ND",
+      "orders": 16,
+      "units": 32,
+      "revenue": 299.58,
+      "price_groups": [
+        "v4price16"
+      ]
+    },
+    {
+      "sku": "4A PSS 9-3 Refill",
+      "asin": "B0DY12Y8FK",
+      "orders": 2,
+      "units": 9,
+      "revenue": 233.91,
+      "price_groups": [
+        "v4price16"
+      ]
+    },
+    {
+      "sku": "4A PSS 9-1 Refill",
+      "asin": "B07QVKPZXX",
+      "orders": 2,
+      "units": 7,
+      "revenue": 132.93,
+      "price_groups": []
+    },
+    {
+      "sku": "AAAA 4A 304-Full Glue",
+      "asin": "B07FK975YB",
+      "orders": 8,
+      "units": 9,
+      "revenue": 116.91,
+      "price_groups": [
+        "v4price16"
+      ]
+    },
+    {
+      "sku": "AAAA 4A 40609",
+      "asin": "B07FKBHTDG",
+      "orders": 7,
+      "units": 10,
+      "revenue": 109.9,
+      "price_groups": []
+    },
+    {
+      "sku": "AAAA 4A SMC 434",
+      "asin": "B07FKHNTRK",
+      "orders": 6,
+      "units": 6,
+      "revenue": 89.94,
+      "price_groups": []
+    },
+    {
+      "sku": "4A 304-Full Adhesive-400",
+      "asin": "B07QXJWDPL",
+      "orders": 3,
+      "units": 4,
+      "revenue": 82.3,
+      "price_groups": []
+    },
+    {
+      "sku": "AAAA 4A 406x6",
+      "asin": "B07FKL263W",
+      "orders": 4,
+      "units": 6,
+      "revenue": 80.94,
+      "price_groups": []
+    },
+    {
+      "sku": "AAAA 4A MC 434",
+      "asin": "B07FKGDMPS",
+      "orders": 5,
+      "units": 5,
+      "revenue": 75.95,
+      "price_groups": []
+    },
+    {
+      "sku": "4A 304 Full Glue",
+      "asin": "B00SMEFFRE",
+      "orders": 6,
+      "units": 8,
+      "revenue": 74.51,
+      "price_groups": []
+    },
+    {
+      "sku": "4A 305-Full Adhesive-300",
+      "asin": "B07QXJZKHC",
+      "orders": 2,
+      "units": 4,
+      "revenue": 73.68,
+      "price_groups": [
+        "v4price16"
+      ]
+    },
+    {
+      "sku": "4A SN301x12-N",
+      "asin": "B07KPF9PFX",
+      "orders": 1,
+      "units": 8,
+      "revenue": 55.92,
+      "price_groups": []
+    },
+    {
+      "sku": "4A SCPSS 32x6",
+      "asin": "B08DKJ2K3T",
+      "orders": 4,
+      "units": 4,
+      "revenue": 53.16,
+      "price_groups": []
+    },
+    {
+      "sku": "4A 5020x3",
+      "asin": "B07RN7WQ81",
+      "orders": 2,
+      "units": 2,
+      "revenue": 49.98,
+      "price_groups": []
+    },
+    {
+      "sku": "4A 40612",
+      "asin": "B07RVJB9DL",
+      "orders": 1,
+      "units": 2,
+      "revenue": 45.98,
+      "price_groups": []
+    },
+    {
+      "sku": "EP-T1V0-IBUZ",
+      "asin": "B01MDJCWVH",
+      "orders": 1,
+      "units": 3,
+      "revenue": 44.97,
+      "price_groups": []
+    },
+    {
+      "sku": "4A 032",
+      "asin": "B01N0RJSTU",
+      "orders": 2,
+      "units": 3,
+      "revenue": 31.47,
+      "price_groups": [
+        "incident37"
+      ]
+    },
+    {
+      "sku": "4A 5021X2",
+      "asin": "B07VGYQXCC",
+      "orders": 1,
+      "units": 3,
+      "revenue": 31.26,
+      "price_groups": []
+    },
+    {
+      "sku": "4A SCPSS 7",
+      "asin": "B0821LD25K",
+      "orders": 2,
+      "units": 2,
+      "revenue": 25.98,
+      "price_groups": [
+        "incident37"
+      ]
+    },
+    {
+      "sku": "4A PSS 9-5 NANBx2",
+      "asin": "B07QXJYKJN",
+      "orders": 1,
+      "units": 1,
+      "revenue": 24.99,
+      "price_groups": []
+    },
+    {
+      "sku": "4A 5084-N-L",
+      "asin": "B07F2B49BL",
+      "orders": 2,
+      "units": 2,
+      "revenue": 24.68,
+      "price_groups": []
+    },
+    {
+      "sku": "4A 5088-N-L",
+      "asin": "B07RP9MB7Y",
+      "orders": 1,
+      "units": 1,
+      "revenue": 19.99,
+      "price_groups": []
+    },
+    {
+      "sku": "4A PSS 9-5 Refill",
+      "asin": "B07QXJX2BV",
+      "orders": 1,
+      "units": 1,
+      "revenue": 19.98,
+      "price_groups": [
+        "incident37",
+        "v1_business29"
+      ]
+    },
+    {
+      "sku": "AAAA 4A 5084-N-L",
+      "asin": "B07FKJM2LX",
+      "orders": 1,
+      "units": 1,
+      "revenue": 19.98,
+      "price_groups": []
+    },
+    {
+      "sku": "AAAA 4A PSS 9-5 NB",
+      "asin": "B07QXJX2BV",
+      "orders": 1,
+      "units": 1,
+      "revenue": 19.98,
+      "price_groups": []
+    },
+    {
+      "sku": "4A 5082-Y-L-GM",
+      "asin": "B07F2BHFJH",
+      "orders": 2,
+      "units": 2,
+      "revenue": 18.98,
+      "price_groups": [
+        "incident37",
+        "v1_business29"
+      ]
+    },
+    {
+      "sku": "AAAA 4A 608-N-L-210",
+      "asin": "B07B8RBCKT",
+      "orders": 1,
+      "units": 1,
+      "revenue": 14.99,
+      "price_groups": [
+        "incident37",
+        "temp_min4"
+      ]
+    },
+    {
+      "sku": "4A BS 1802",
+      "asin": "B07K8JQ9JW",
+      "orders": 1,
+      "units": 1,
+      "revenue": 8.99,
+      "price_groups": []
+    }
+  ]
+}

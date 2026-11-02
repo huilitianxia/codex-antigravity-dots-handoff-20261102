@@ -1,0 +1,23 @@
+{
+  "file": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261031-urgent-fixes\\09-073-business-only.xlsm",
+  "sha256": "6d6547b0175a24cfd803fbb60c402f4b47a7b8f0ebea4a8934fa4876cf75f6f1",
+  "rows": 1,
+  "authorized_cells": {
+    "A7": "4A073",
+    "P7": 9.49,
+    "U7": "Percent",
+    "V7": 3,
+    "W7": 2,
+    "X7": 5,
+    "Y7": 3,
+    "Z7": 10,
+    "AA7": 5
+  },
+  "changed_parts": [
+    "xl/worksheets/sheet5.xml"
+  ],
+  "all_other_parts_preserved": true,
+  "ordinary_sale_stock_min_max_shipping_blank": true,
+  "old_tier_replacement": "Old sole level 1 was 10 units / 8 percent. File overwrites level 1 with 3 / 2, adds level 2 = 5 / 3 and level 3 = 10 / 5. No delete token or duplicate SKU rows. Live readback must show exactly these 3 levels before Coupon enrollment.",
+  "status": "FILE_VERIFIED_NOT_UPLOADED"
+}

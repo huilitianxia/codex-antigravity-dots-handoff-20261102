@@ -1,0 +1,289 @@
+{
+  "sku": "4A 608-N-L-210",
+  "asin": "B07HDVVZ1B",
+  "spec": "6 × 8 in · 1 lined pad · 7 colors × 30 sheets · 210 sheets",
+  "correction": "按Amazon标题、五点及包装：6×8英寸，横向8英寸长边上胶，1本210张，7色×30张；不是4×6英寸。",
+  "date": "2026-10-30 Asia/Shanghai",
+  "status_definitions": {
+    "final_candidate": "本轮设计检查完成，待实物核样和最终采用",
+    "needs_claim_or_structure_check": "有明确结构或性能待核项，先审稿",
+    "approved": "审核通过后才可进入已批准目录；本轮未设置"
+  },
+  "approved_files": [],
+  "images": [
+    {
+      "id": "608NL210_01",
+      "sku": "4A 608-N-L-210",
+      "asin": "B07HDVVZ1B",
+      "order": 1,
+      "role": "main",
+      "title": "主图｜210张七色厚本",
+      "file": "交付候选_2000px/608NL210_01.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "generation_method": "built_in_imagegen",
+      "generation_source": "生成源图/608NL210_01.png",
+      "generation_source_pixels": [
+        1448,
+        1086
+      ],
+      "processing": "内置imagegen透明底源图；按alpha外接框去除空白，Lanczos3等比插值；主体最长边约90%；合成RGB255白底；不恢复真实细节。",
+      "reference_sources": [
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B07HDVVZ1B_00.jpg",
+          "copy": "原图参考\\01_B07HDVVZ1B_00.jpg",
+          "sha256": "ae2a9b8fbccf276c33b4355c059c86af5ac7637dbc4e263655784c681efc5c6a"
+        },
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B07HDVVZ1B_01.jpg",
+          "copy": "原图参考\\02_B07HDVVZ1B_01.jpg",
+          "sha256": "07358b2473ed34359013e028f0f0ef93d1f116016f7e0a7dc3cdb18be217f1d0"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_Listing_AP_20261029/images/5082_03.png",
+          "copy": "原图参考\\03_5082_03.png",
+          "sha256": "590492275a4e88adef8c71ae4fd907486d75a7d6a993d7a7e51c24f691a8ce9c"
+        }
+      ],
+      "review_status": "final_candidate",
+      "design_check": "单一纸本，7个连续色层；黄色横线顶页。",
+      "pending_checks": [
+        "厚度、行距与批次色序须核样；图像不证明80GSM。",
+        "实际批次颜色、纸质与尺寸仍需实物核样；未获得发布批准。"
+      ],
+      "catalog_source": "https://www.amazon.com/dp/B07HDVVZ1B",
+      "approved_for_automation": false,
+      "approved_for_upload": false,
+      "physical_sample_verified": false,
+      "technical_checks": {
+        "pixel_dimensions": [
+          2000,
+          2000
+        ],
+        "safety_margins_including_shadow": [
+          71,
+          302,
+          71,
+          302
+        ],
+        "product_bbox_alpha230": {
+          "left": 109,
+          "top": 583,
+          "width": 1800,
+          "height": 896
+        },
+        "product_longest_span_percent": 90,
+        "occupancy_definition": "主体外接框最长边占2000px画幅的比例；不是面积占比。alpha>230近似实体产品。",
+        "background_rgb": [
+          255,
+          255,
+          255
+        ],
+        "border60_checked": 465600,
+        "border60_exact_white": 465600,
+        "white_background_pass": true,
+        "margin_pass": true,
+        "occupancy_pass": true
+      },
+      "sha256": "aaad829ef2cca7176775c6d881f4100f4a46785aac3e7d6f0cb8fc54c65f1a7b"
+    },
+    {
+      "id": "608NL210_02",
+      "sku": "4A 608-N-L-210",
+      "asin": "B07HDVVZ1B",
+      "order": 2,
+      "role": "secondary",
+      "title": "副图｜6×8尺寸与横线",
+      "file": "交付候选_2000px/608NL210_02.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "generation_method": "exact_vector_diagram",
+      "generation_source": "生成源图/608NL210_02_exact.svg",
+      "generation_source_pixels": [
+        2000,
+        2000
+      ],
+      "processing": "原生SVG精确比例绘制并直接渲染2000×2000，无放大；示意图不等于实物照片。",
+      "reference_sources": [
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B07HDVVZ1B_00.jpg",
+          "copy": "原图参考\\01_B07HDVVZ1B_00.jpg",
+          "sha256": "ae2a9b8fbccf276c33b4355c059c86af5ac7637dbc4e263655784c681efc5c6a"
+        },
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B07HDVVZ1B_01.jpg",
+          "copy": "原图参考\\02_B07HDVVZ1B_01.jpg",
+          "sha256": "07358b2473ed34359013e028f0f0ef93d1f116016f7e0a7dc3cdb18be217f1d0"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_Listing_AP_20261029/images/5082_03.png",
+          "copy": "原图参考\\03_5082_03.png",
+          "sha256": "590492275a4e88adef8c71ae4fd907486d75a7d6a993d7a7e51c24f691a8ce9c"
+        }
+      ],
+      "review_status": "final_candidate",
+      "design_check": "原生SVG 8:6横向比例；横线平行等距；8英寸长边方向正确。",
+      "pending_checks": [
+        "横线是版式示意，不宣称毫米行距或精确实物行数。",
+        "实际批次颜色、纸质与尺寸仍需实物核样；未获得发布批准。"
+      ],
+      "catalog_source": "https://www.amazon.com/dp/B07HDVVZ1B",
+      "approved_for_automation": false,
+      "approved_for_upload": false,
+      "physical_sample_verified": false,
+      "technical_checks": null,
+      "sha256": "f8271c53128f7be4abfd006e34085df12b1a3d16192af0e838d63ab1a8ccbb12"
+    },
+    {
+      "id": "608NL210_03",
+      "sku": "4A 608-N-L-210",
+      "asin": "B07HDVVZ1B",
+      "order": 3,
+      "role": "secondary",
+      "title": "副图｜Smooth Writing",
+      "file": "交付候选_2000px/608NL210_03.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "generation_method": "built_in_imagegen",
+      "generation_source": "生成源图/608NL210_03_v2.png",
+      "generation_source_pixels": [
+        1254,
+        1254
+      ],
+      "processing": "内置imagegen；Lanczos3等比插值至2000×2000；源图留存；不是原生2000像素细节或AI超分。",
+      "reference_sources": [
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B07HDVVZ1B_00.jpg",
+          "copy": "原图参考\\01_B07HDVVZ1B_00.jpg",
+          "sha256": "ae2a9b8fbccf276c33b4355c059c86af5ac7637dbc4e263655784c681efc5c6a"
+        },
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B07HDVVZ1B_01.jpg",
+          "copy": "原图参考\\02_B07HDVVZ1B_01.jpg",
+          "sha256": "07358b2473ed34359013e028f0f0ef93d1f116016f7e0a7dc3cdb18be217f1d0"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_Listing_AP_20261029/images/5082_03.png",
+          "copy": "原图参考\\03_5082_03.png",
+          "sha256": "590492275a4e88adef8c71ae4fd907486d75a7d6a993d7a7e51c24f691a8ce9c"
+        }
+      ],
+      "review_status": "final_candidate",
+      "design_check": "色序已返修；钢笔/中性笔书写场景；未写No bleed。",
+      "pending_checks": [
+        "Smooth Writing为书写场景，不作为不透墨测试；纸厚与色序须核样。",
+        "实际批次颜色、纸质与尺寸仍需实物核样；未获得发布批准。"
+      ],
+      "catalog_source": "https://www.amazon.com/dp/B07HDVVZ1B",
+      "approved_for_automation": false,
+      "approved_for_upload": false,
+      "physical_sample_verified": false,
+      "technical_checks": null,
+      "sha256": "ebeaa11089f09261f1485f889da704c8833fb20eba6bd19583c590d8b475c12a"
+    },
+    {
+      "id": "608NL210_04",
+      "sku": "4A 608-N-L-210",
+      "asin": "B07HDVVZ1B",
+      "order": 4,
+      "role": "secondary",
+      "title": "副图｜清单与会议备忘",
+      "file": "交付候选_2000px/608NL210_04.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "generation_method": "built_in_imagegen",
+      "generation_source": "生成源图/608NL210_04_v2.png",
+      "generation_source_pixels": [
+        1254,
+        1254
+      ],
+      "processing": "内置imagegen；Lanczos3等比插值至2000×2000；源图留存；不是原生2000像素细节或AI超分。",
+      "reference_sources": [
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B07HDVVZ1B_00.jpg",
+          "copy": "原图参考\\01_B07HDVVZ1B_00.jpg",
+          "sha256": "ae2a9b8fbccf276c33b4355c059c86af5ac7637dbc4e263655784c681efc5c6a"
+        },
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B07HDVVZ1B_01.jpg",
+          "copy": "原图参考\\02_B07HDVVZ1B_01.jpg",
+          "sha256": "07358b2473ed34359013e028f0f0ef93d1f116016f7e0a7dc3cdb18be217f1d0"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_Listing_AP_20261029/images/5082_03.png",
+          "copy": "原图参考\\03_5082_03.png",
+          "sha256": "590492275a4e88adef8c71ae4fd907486d75a7d6a993d7a7e51c24f691a8ce9c"
+        }
+      ],
+      "review_status": "final_candidate",
+      "design_check": "已返修为两张薄纸；横向清单与会议纪要示例。",
+      "pending_checks": [
+        "手写为用途展示；非预印清单；实际纸色和行距须核样。",
+        "实际批次颜色、纸质与尺寸仍需实物核样；未获得发布批准。"
+      ],
+      "catalog_source": "https://www.amazon.com/dp/B07HDVVZ1B",
+      "approved_for_automation": false,
+      "approved_for_upload": false,
+      "physical_sample_verified": false,
+      "technical_checks": null,
+      "sha256": "004fc23ea800d5660cd196e31763704b02dc6362856b41c0efba55f894c713b2"
+    },
+    {
+      "id": "608NL210_05",
+      "sku": "4A 608-N-L-210",
+      "asin": "B07HDVVZ1B",
+      "order": 5,
+      "role": "secondary",
+      "title": "副图｜七色与210张规格",
+      "file": "交付候选_2000px/608NL210_05.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "generation_method": "built_in_imagegen",
+      "generation_source": "生成源图/608NL210_05.png",
+      "generation_source_pixels": [
+        1254,
+        1254
+      ],
+      "processing": "内置imagegen；Lanczos3等比插值至2000×2000；源图留存；不是原生2000像素细节或AI超分。",
+      "reference_sources": [
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B07HDVVZ1B_00.jpg",
+          "copy": "原图参考\\01_B07HDVVZ1B_00.jpg",
+          "sha256": "ae2a9b8fbccf276c33b4355c059c86af5ac7637dbc4e263655784c681efc5c6a"
+        },
+        {
+          "original": "E:/Desktop/待上架_新图文素材库_第二批/_核验依据/B07HDVVZ1B_01.jpg",
+          "copy": "原图参考\\02_B07HDVVZ1B_01.jpg",
+          "sha256": "07358b2473ed34359013e028f0f0ef93d1f116016f7e0a7dc3cdb18be217f1d0"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_Listing_AP_20261029/images/5082_03.png",
+          "copy": "原图参考\\03_5082_03.png",
+          "sha256": "590492275a4e88adef8c71ae4fd907486d75a7d6a993d7a7e51c24f691a8ce9c"
+        }
+      ],
+      "review_status": "final_candidate",
+      "design_check": "单本7色×30张=210；页面和包装支持规格。",
+      "pending_checks": [
+        "实际纸厚、行距与批次色序须核样。",
+        "实际批次颜色、纸质与尺寸仍需实物核样；未获得发布批准。"
+      ],
+      "catalog_source": "https://www.amazon.com/dp/B07HDVVZ1B",
+      "approved_for_automation": false,
+      "approved_for_upload": false,
+      "physical_sample_verified": false,
+      "technical_checks": null,
+      "sha256": "df532a5e85c3970597b0b1b6bfcb2a259445e4a7b236f7f83e699b1db9613c63"
+    }
+  ]
+}

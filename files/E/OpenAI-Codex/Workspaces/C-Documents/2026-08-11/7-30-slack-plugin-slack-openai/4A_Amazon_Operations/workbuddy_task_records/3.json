@@ -1,0 +1,9 @@
+{
+  "subject": "生成整理结果Excel并呈现",
+  "description": "输出一份整理表：允许跟卖清单(含是否重复)、不允许跟卖清单(含是否重复，供逐个写case)，present_files 呈现。",
+  "activeForm": "生成整理结果Excel并呈现",
+  "status": "completed",
+  "id": "3",
+  "createdAt": 1786429844191,
+  "updatedAt": 1786430481343
+}

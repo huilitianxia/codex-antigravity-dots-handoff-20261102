@@ -1,0 +1,24 @@
+[
+  {
+    "key": "40609_02_v2",
+    "parent": "40609_02",
+    "refs": [
+      "E:/Desktop/待上架_新图文素材库_第三批/40609/生成源图/40609_02.png",
+      "E:/Desktop/待上架_新图文素材库_第三批/_核验依据/B07FKBHTDG_01.jpg"
+    ],
+    "prompt": "Edit image1 to correct product geometry using image2 as exact product reference. Keep premium binder photography, headline 'Find your section. Fast.' and subtitle. IMPORTANT replace four short wide rectangular notes on SAME binder page with ONLY TWO nearly square notes on the visible page: cyan at upper right and lime at lower right. Each complete note including side tab must be only slightly wider than tall, width:height approximately 1.08:1. White writing body itself is taller than wide, seven horizontal colored lines, exactly the shape in reference2. Put brief handwriting on three of the seven lines. Broad right tab is colored; white sheet has curved notched shoulders. Arrange so each note's colored tab extends beyond right PAGE edge; tab should be a functional index. Peach and yellow tabs peeking from deeper pages at different vertical positions can remain, showing four subject divisions. Single thin sheets, not stacks. All attached notes flat, no curl. Keep title typography, realistic soft light and neutral binder, no new branding. Square output.",
+    "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-4f5369c9-c9b9-40c5-a82d-1ccd9f281fbb.png",
+    "transparent": false
+  },
+  {
+    "key": "40609_03_v2",
+    "parent": "40609_03",
+    "refs": [
+      "E:/Desktop/待上架_新图文素材库_第三批/40609/生成源图/40609_03.png",
+      "E:/Desktop/待上架_新图文素材库_第三批/_核验依据/B07FKBHTDG_01.jpg"
+    ],
+    "prompt": "Edit image1 precisely. Keep its typography 'Write clearly. Stay organized.' and subtitle, hand and pen, cyan-tab main sheet with seven ruled lines and handwritten words, paper texture, camera and light. REMOVE every rear spare sheet and rear lime/peach/yellow tab. Only ONE cyan-tab note should remain on clean desk. Correct overall note geometry if necessary: reference2 exact product shape, nearly square overall, broad cyan tab on RIGHT; white writing area is taller than wide. Preserve gentle rounded corners and curved shoulders. Single thin sheet, no thick pad. Do not change words or add graphics. Square premium image.",
+    "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-5924c5da-d8bb-4c52-9c5b-f0dc880bf0e4.png",
+    "transparent": false
+  }
+]

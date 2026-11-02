@@ -1,0 +1,190 @@
+{
+  "coupon_id": "6de47649-9a49-4c38-9310-5261c67f26ee",
+  "percent": 5,
+  "budget_usd": 100,
+  "dates": [
+    "2026-10-31",
+    "2026-11-29"
+  ],
+  "preserve_existing_asins": [
+    "B01LVTWP7Q",
+    "B07F2B49BL",
+    "B07FKG29KB",
+    "B08DKJ2K3T"
+  ],
+  "add_asins": [
+    "B07QVKPZXX",
+    "B07FKHNTRK",
+    "B07F2BHFJH",
+    "B07QXJYKJN"
+  ],
+  "not_added": [
+    "B00SMEFFRE"
+  ],
+  "rows": [
+    {
+      "asin": "B07QVKPZXX",
+      "sku": "4A PSS 9-1 Refill",
+      "price": 18.99,
+      "units_current": 67,
+      "sales_units_ui": 4,
+      "b2b": null,
+      "fba_fee": 4.36,
+      "total_fee": 7.21,
+      "sale_visible": null,
+      "minimum": 15.99,
+      "units30_fba": 9,
+      "age365plus": 0,
+      "catalog_label_issues": [
+        {
+          "sku": "4A GMPSS 9-1 Refill",
+          "size": "Standard Size (Pack 4)",
+          "parent": "PARENT-4A-PSS-ROLL-TAPE"
+        },
+        {
+          "sku": "4A PSS 9-1 Refill",
+          "size": "Standard Size (Pack 6)",
+          "parent": "PARENT-4A-PSS-ROLL-TAPE"
+        }
+      ],
+      "coupon_percent": 5,
+      "tiers": [],
+      "deepest_coupon_stacked_unit": 18.04,
+      "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 10.5,
+      "regular_coupon_price": 18.04
+    },
+    {
+      "asin": "B07FKHNTRK",
+      "sku": "AAAA 4A SMC 434",
+      "price": 15.99,
+      "units_current": 26,
+      "sales_units_ui": 19,
+      "b2b": 14.99,
+      "fba_fee": 4.36,
+      "total_fee": 6.76,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 19,
+      "age365plus": 0,
+      "catalog_label_issues": [
+        {
+          "sku": "4A GMSMC 434",
+          "size": "Standard Size (Pack 8)",
+          "parent": "PARENT-4A-MEMO-NOTE-CUBES"
+        },
+        {
+          "sku": "AAAA 4A SMC 434",
+          "size": "Standard Size (Pack 10)",
+          "parent": "PARENT-4A-MEMO-NOTE-CUBES"
+        }
+      ],
+      "coupon_percent": 5,
+      "tiers": [],
+      "deepest_coupon_stacked_unit": 14.24,
+      "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 7.34,
+      "regular_coupon_price": 15.19
+    },
+    {
+      "asin": "B07F2BHFJH",
+      "sku": "4A 5082-Y-L-GM",
+      "price": 11.99,
+      "units_current": 61,
+      "sales_units_ui": 17,
+      "b2b": 9.49,
+      "fba_fee": 3.82,
+      "total_fee": 5.62,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 16,
+      "age365plus": 0,
+      "catalog_label_issues": [
+        {
+          "sku": "4A 5082-Y-L",
+          "size": "2 Pads Pack (Pack 2)",
+          "parent": "PARENT-4A-508-LARGE-5X8"
+        }
+      ],
+      "live_evidence": "audit2-live-B07F2BHFJH.txt",
+      "tiers": [
+        [
+          2,
+          2.0
+        ]
+      ],
+      "tier_evidence": "audit2-tiers-B07F2BHFJH.txt",
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 11.39,
+          "deepest_coupon_stacked_unit": 8.84,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 3.39
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 10.19,
+          "deepest_coupon_stacked_unit": 7.91,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 2.6
+        }
+      ],
+      "suggested_coupon_percent": 5,
+      "suggested_reason": "Continue sales with mild coupon; preserve restored regular price",
+      "notes": "Use restored11.99/business9.49/FBA3.82, not old accident5.99/5.99/FBA2.91. Can-sell61, total stock71, reserved38 differ.",
+      "selected_scenario": {
+        "coupon_percent": 5,
+        "regular_coupon_price": 11.39,
+        "deepest_coupon_stacked_unit": 8.84,
+        "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 3.39
+      }
+    },
+    {
+      "asin": "B07QXJYKJN",
+      "sku": "4A PSS 9-5 NANBx2",
+      "price": 24.99,
+      "units_current": 33,
+      "sales_units_ui": 7,
+      "b2b": null,
+      "fba_fee": 4.64,
+      "total_fee": 8.39,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 6,
+      "age365plus": 0,
+      "catalog_label_issues": [
+        {
+          "sku": "4A PSS 9-5 NANBx2",
+          "size": "Standard Size (Pack 3)",
+          "parent": "PARENT-4A-PSS-ROLL-TAPE"
+        }
+      ],
+      "live_evidence": "audit2-live-B07QXJYKJN.txt",
+      "tiers": [],
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 23.74,
+          "deepest_coupon_stacked_unit": 23.74,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 14.91
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 21.24,
+          "deepest_coupon_stacked_unit": 21.24,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 12.79
+        }
+      ],
+      "suggested_coupon_percent": 5,
+      "suggested_reason": "Continue sales with mild coupon; preserve restored regular price",
+      "selected_scenario": {
+        "coupon_percent": 5,
+        "regular_coupon_price": 23.74,
+        "deepest_coupon_stacked_unit": 23.74,
+        "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 14.91
+      }
+    }
+  ],
+  "added_fba_units": 187,
+  "execution_status": "NOT_EDITED_BROWSER_CONNECTION_CLOSED",
+  "final_terms_confirmation": "Review concrete final draft with parent before submit"
+}

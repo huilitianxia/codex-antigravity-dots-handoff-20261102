@@ -1,0 +1,36 @@
+{
+  "sku": "AAAA 4A 6032",
+  "asin": "B07FK81CQ7",
+  "template_column": "I",
+  "receipt_column": "L",
+  "official_enum": "Delete Minimum Seller Allowed Price (Sell on Amazon, US)",
+  "official_alias": "amzn1.volt.cv.delete_ump_top_level_field",
+  "receipt_status": "4 SUCCESS / 0 errors / 0 warnings",
+  "actions": [
+    "SKU Central minimum-only blank-save once; display reverted to24.99",
+    "US source-offer minimum-only clear; one edit shown; submitted once"
+  ],
+  "latest_readback": {
+    "page": "SKU Central",
+    "updated": "2026/11/1 13:17",
+    "regular": 24.99,
+    "minimum": 24.99,
+    "maximum": null,
+    "automated_pricing": "not enrolled"
+  },
+  "result": "submitted, not verified cleared",
+  "propagation_message": "if approved, changes reflected within24hours",
+  "remaining_skus_untouched": [
+    "AAAA 4A 303-AC-holder",
+    "AAAA 4A 608-N-L-210",
+    "303-AC-holder"
+  ],
+  "evidence": [
+    "05-min-pilot-source-offer-modal.txt",
+    "05-min-pilot-source-clear-draft.txt",
+    "05-min-pilot-after-modal-save.txt",
+    "05-min-pilot-submit-result.txt",
+    "05-min-pilot-submitted.png",
+    "05-min-pilot-skucentral-readback.txt"
+  ]
+}

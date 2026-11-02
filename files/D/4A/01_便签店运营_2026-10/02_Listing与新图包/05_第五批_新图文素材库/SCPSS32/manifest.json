@@ -1,0 +1,224 @@
+{
+  "sku": "4A SCPSS 32x6",
+  "asin": "B08DKJ2K3T",
+  "spec": "6 individual dispensers · 0.6 × 393 in per roll · 6 colors",
+  "checked_at": "2026-10-31 Asia/Shanghai",
+  "catalog_url": "https://www.amazon.com/dp/B08DKJ2K3T",
+  "catalog_correction": "该SC ASIN与第一批VC ASIN B08CVLH794在总表第110行对应同款PSS32x6；实际是6个独立窄卷分配器，不是2英寸宽大卷。复用3张已有成图/源稿，补修2张。无亚克力/ABS材质、防尘、零浪费或2英寸兼容承诺。",
+  "workbook_source": {
+    "file": "C:/Users/24243/Documents/Codex/2026-08-11/7-30-slack-plugin-slack-openai/4A_Amazon_Operations/source_workbooks/亚马逊供应商和开店总表-2026 (1).xlsx",
+    "sheet": "Sheet1",
+    "range": "A110:G110"
+  },
+  "reference_files": [
+    {
+      "original": "E:/Desktop/待上架_新图文素材库/PSS32x6/审稿待核_2000px/PSS32x6_02.png",
+      "copy": "原图参考/01_PSS32x6_02.png",
+      "sha256": "eff2d978cf7d0ac2e15124289b4ce1772aa914735c7c46e0c69832472a6e6af5"
+    },
+    {
+      "original": "D:/4A/印刷用图片/电商/亚马逊图片-2021/8-----4A Roll Sticky Notes/4A PSS 32/pss 32x6-3.jpg",
+      "copy": "原图参考/02_pss 32x6-3.jpg",
+      "sha256": "66fe92207f985273dff8069271b1738ae075e659eecd29afea8ef606b991a81e"
+    },
+    {
+      "original": "E:/Desktop/待上架_新图文素材库/PSS32x6/审稿待核_2000px/PSS32x6_03.png",
+      "copy": "原图参考/03_PSS32x6_03.png",
+      "sha256": "b50ac1f3e824dafd821d5a06f72cb7fa5d7f3d246269e792c3c2118727b91dc2"
+    },
+    {
+      "original": "E:/Desktop/待上架_新图文素材库_第五批/_核验依据/B08DKJ2K3T_MAIN.jpg",
+      "copy": "原图参考/04_B08DKJ2K3T_MAIN.jpg",
+      "sha256": "76c97b76bbea7f8b4b2be72212f9b2bac44894a024b082d3e8e426ef54b33e61"
+    }
+  ],
+  "images": [
+    {
+      "id": "SCPSS32_01",
+      "title": "主图｜六个独立分配器",
+      "type": "main",
+      "order": 1,
+      "sku": "4A SCPSS 32x6",
+      "asin": "B08DKJ2K3T",
+      "file": "交付候选_2000px/SCPSS32_01.png",
+      "jpg": "ASIN命名JPG_交付候选/B08DKJ2K3T.MAIN.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/SCPSS32_01.png",
+      "original_source": "E:/Desktop/待上架_新图文素材库/PSS32x6/生成源图/PSS32x6_01_v2.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "reuse",
+      "processing": "透明源稿按alpha居中，Lanczos3等比缩放，合成RGB255白底",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "复用第一批主图透明源稿，六盒可数，重新调整白底边距与占比。",
+      "remaining_checks": "同款身份由总表C110/E110/G110及当前商品规格核对；齿形、壳体和色值需核样。",
+      "technical": {
+        "background_rgb": [
+          255,
+          255,
+          255
+        ],
+        "border60": {
+          "checked_pixels": 465600,
+          "exact_white_pixels": 465600,
+          "pass": true
+        },
+        "safety_margins_including_shadow": [
+          88,
+          100,
+          89,
+          101
+        ],
+        "margin_pass": true,
+        "product_longest_span_percent": 89.55,
+        "occupancy_pass": true,
+        "occupancy_definition": "alpha>230近似实体外接框最长边/2000，非面积占比；透明壳和阴影另行目视检查。",
+        "jpg_border60": {
+          "checked_pixels": 465600,
+          "exact_white_pixels": 465600,
+          "pass": true
+        }
+      },
+      "png_sha256": "c2e6b0c419288c89749a7faf3c7da1cf6ca16185e251056e742eb8673b9abdc1",
+      "jpg_sha256": "ad5d7cd3b0a2ff89ec32b1f7d04249f95dd440c116b507a22c3d78f46669fc51"
+    },
+    {
+      "id": "SCPSS32_02",
+      "title": "拉出与裁后标签",
+      "type": "secondary",
+      "order": 2,
+      "sku": "4A SCPSS 32x6",
+      "asin": "B08DKJ2K3T",
+      "file": "审稿待核_2000px/SCPSS32_02.png",
+      "jpg": "ASIN命名JPG_审稿待核/B08DKJ2K3T.PT01.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/SCPSS32_02.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-b4fbd066-2926-4601-9918-5beecb3e9b4a.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "targeted_revision",
+      "processing": "内置imagegen生成/返修稿等比插值至2000px，未声称恢复实拍细节",
+      "status": "needs_product_check",
+      "status_zh": "审稿待核",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "局部返修：第二格改为明确已裁下的标签，避免两格均为拉出姿势。",
+      "remaining_checks": "仍为生成动作示意，实际裁切角度、纸路和齿形需实物确认；列待核稿。",
+      "technical": {},
+      "png_sha256": "f1acf746e11f855bb6cee51428670c3e68fd52bd550849627a53cd5538a2a883",
+      "jpg_sha256": "dad9e9f075aafb759ab21d02d62a832d0d417884901241c2d8b8571b40d915d1"
+    },
+    {
+      "id": "SCPSS32_03",
+      "title": "书写与全胶贴附",
+      "type": "secondary",
+      "order": 3,
+      "sku": "4A SCPSS 32x6",
+      "asin": "B08DKJ2K3T",
+      "file": "交付候选_2000px/SCPSS32_03.png",
+      "jpg": "ASIN命名JPG_交付候选/B08DKJ2K3T.PT02.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/SCPSS32_03.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-e5e5dea0-7641-4f08-bdc6-d2cb85bc82bd.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "targeted_revision",
+      "processing": "内置imagegen生成/返修稿等比插值至2000px，未声称恢复实拍细节",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "局部返修：纸尾平放且同色正面朝上，去掉浅色翻背的疑点。",
+      "remaining_checks": "不作为胶层结构测试；表面适配、纸色与纸厚仍需核样。",
+      "technical": {},
+      "png_sha256": "b28dd7c82f19efae537ab9705fa86c8a44d08b69cef84dcfe8ed3102b1f82d8c",
+      "jpg_sha256": "2150ed3d042282cba03a09ba2eccc35d83b1404521f99db58e11f66e03c65ebe"
+    },
+    {
+      "id": "SCPSS32_04",
+      "title": "文件与收纳分类",
+      "type": "secondary",
+      "order": 4,
+      "sku": "4A SCPSS 32x6",
+      "asin": "B08DKJ2K3T",
+      "file": "交付候选_2000px/SCPSS32_04.png",
+      "jpg": "ASIN命名JPG_交付候选/B08DKJ2K3T.PT03.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/SCPSS32_04.png",
+      "original_source": "E:/Desktop/待上架_新图文素材库/PSS32x6/交付候选_2000px/PSS32x6_04.png",
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "kind": "reuse",
+      "processing": "原样复用第一批2000px PNG；像素不变，仅更新本批ASIN归档",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "复用第一批分类图，无耐热、绝缘或医学性能承诺。",
+      "remaining_checks": "场景道具及标签尺度是用途示意；道具不包含在产品内。",
+      "technical": {},
+      "png_sha256": "34a9d1aa9403b4a612cdefc374992cf42e8356ecd1ba242d0fac2aab591377e9",
+      "jpg_sha256": "228e0b1e51eeb7b914f4e3c8b564d5a82c03b576a83b2a62da398b01067a6051"
+    },
+    {
+      "id": "SCPSS32_05",
+      "title": "六色与卷长规格",
+      "type": "secondary",
+      "order": 5,
+      "sku": "4A SCPSS 32x6",
+      "asin": "B08DKJ2K3T",
+      "file": "交付候选_2000px/SCPSS32_05.png",
+      "jpg": "ASIN命名JPG_交付候选/B08DKJ2K3T.PT04.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/SCPSS32_05.png",
+      "original_source": "E:/Desktop/待上架_新图文素材库/PSS32x6/交付候选_2000px/PSS32x6_05.png",
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "kind": "reuse",
+      "processing": "原样复用第一批2000px PNG；像素不变，仅更新本批ASIN归档",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "复用第一批六盒与0.6×393英寸规格图，未混成2英寸宽卷。",
+      "remaining_checks": "当前SC ASIN归档；产品色值、壳体与实际批次仍需核样。",
+      "technical": {},
+      "png_sha256": "0c8e6504b7e7aa9cda82712c3925a2f3e9406145b1089fbe88fb20f2dc57142d",
+      "jpg_sha256": "9fe0ba60ca9c287c808b3f59ae219bca3be20a211ce042d1361eb48627479de5"
+    }
+  ],
+  "note": "设计检查不等于实物核样或Amazon批准。原始素材及前四批不改动。"
+}

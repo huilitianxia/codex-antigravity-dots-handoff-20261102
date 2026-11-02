@@ -1,0 +1,657 @@
+{
+  "date": "2026-10-31",
+  "count": 15,
+  "png": 15,
+  "jpg": 15,
+  "candidates": 15,
+  "needs_product_check": 0,
+  "approved": 0,
+  "images": [
+    {
+      "id": "HOLDER303_01",
+      "title": "主图｜一体便签收纳座",
+      "type": "main",
+      "order": 1,
+      "sku": "4A 303-AC-holder",
+      "asin": "B07FKHHTYG",
+      "file": "交付候选_2000px/HOLDER303_01.png",
+      "jpg": "ASIN命名JPG_交付候选/B07FKHHTYG.MAIN.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/HOLDER303_01_v2.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-43953bc9-7579-4a5d-9b48-5acc86b17c3e.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "targeted_revision",
+      "processing": "透明源稿按alpha居中，Lanczos3等比缩放，合成RGB255白底",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "返修已移除左侧多余黄签；八层便签、两侧标签与三个空笔槽可见。",
+      "remaining_checks": "透明壳的模具细节、标签印刷面及批次颜色仍需实物核样。",
+      "technical": {
+        "background_rgb": [
+          255,
+          255,
+          255
+        ],
+        "border60": {
+          "checked_pixels": 465600,
+          "exact_white_pixels": 465600,
+          "pass": true
+        },
+        "safety_margins_including_shadow": [
+          87,
+          93,
+          88,
+          93
+        ],
+        "margin_pass": true,
+        "product_longest_span_percent": 89.45,
+        "occupancy_pass": true,
+        "occupancy_definition": "alpha>230近似实体外接框最长边/2000，非面积占比；透明壳和阴影另行目视检查。",
+        "jpg_border60": {
+          "checked_pixels": 465600,
+          "exact_white_pixels": 465600,
+          "pass": true
+        }
+      },
+      "png_sha256": "252e4661ab8c1e32475be6fa6f112955be48253945b4ed5fc598e9ca194b280e",
+      "jpg_sha256": "0cd4b5e09cee6459a141d820f639da7a89ea5b9834baf3da56da1d24eb965bf7",
+      "folder": "HOLDER303",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第六批/HOLDER303/交付候选_2000px/HOLDER303_01.png",
+      "absolute_jpg": "E:/Desktop/待上架_新图文素材库_第六批/HOLDER303/ASIN命名JPG_交付候选/B07FKHHTYG.MAIN.jpg"
+    },
+    {
+      "id": "HOLDER303_02",
+      "title": "500张便签与标签拆分",
+      "type": "secondary",
+      "order": 2,
+      "sku": "4A 303-AC-holder",
+      "asin": "B07FKHHTYG",
+      "file": "交付候选_2000px/HOLDER303_02.png",
+      "jpg": "ASIN命名JPG_交付候选/B07FKHHTYG.PT01.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/HOLDER303_02_exact.svg",
+      "original_source": null,
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "kind": "svg",
+      "processing": "原生2000×2000 SVG生成PNG；规格/胶面示意，保留可编辑SVG",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "SVG纸面3:3，标签1:1.75，8×50+2×50=500；未填未经核实的盒体尺寸。",
+      "remaining_checks": "标签尺寸参照同型号总表与原始产品资料；纸色为示意。",
+      "technical": {
+        "paper_scale_px_per_in": 220,
+        "note_px": [
+          660,
+          660
+        ],
+        "note_in": [
+          3,
+          3
+        ],
+        "tab_px": [
+          220,
+          385
+        ],
+        "tab_in": [
+          1,
+          1.75
+        ],
+        "notes": 400,
+        "flags": 100,
+        "total": 500,
+        "holder_dimensions_not_asserted": true
+      },
+      "png_sha256": "fea0b0d40742c3ab6329a1698743856ade2a9c7452916f561ac4fd4b50a86433",
+      "jpg_sha256": "f980a7ab82b839afe0ae1c8cd46b1d588a65a3b23161ea08d74366ebdb21b42d",
+      "folder": "HOLDER303",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第六批/HOLDER303/交付候选_2000px/HOLDER303_02.png",
+      "absolute_jpg": "E:/Desktop/待上架_新图文素材库_第六批/HOLDER303/ASIN命名JPG_交付候选/B07FKHHTYG.PT01.jpg"
+    },
+    {
+      "id": "HOLDER303_03",
+      "title": "取纸口、双侧标签槽与笔槽",
+      "type": "secondary",
+      "order": 3,
+      "sku": "4A 303-AC-holder",
+      "asin": "B07FKHHTYG",
+      "file": "交付候选_2000px/HOLDER303_03.png",
+      "jpg": "ASIN命名JPG_交付候选/B07FKHHTYG.PT02.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/HOLDER303_03.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-354dbcf7-dfec-43eb-948d-71666fc368f1.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "new_imagegen",
+      "processing": "内置imagegen生成/返修稿等比插值至2000px，未声称恢复实拍细节",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "三视角说明实拍可见取纸口、两侧标签槽、三个笔槽；未虚构防滑底座。",
+      "remaining_checks": "生成局部不能代替精确模具图，需核对真实槽位与印刷细节。",
+      "technical": {},
+      "png_sha256": "43ecfee4d06480427adebdf79d167539f3e523144aed9873146ae9ccf9be2d17",
+      "jpg_sha256": "d9075ae9fc134fdbade2f0e2bb10801d87066119d66ee1f398af1b019236c767",
+      "folder": "HOLDER303",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第六批/HOLDER303/交付候选_2000px/HOLDER303_03.png",
+      "absolute_jpg": "E:/Desktop/待上架_新图文素材库_第六批/HOLDER303/ASIN命名JPG_交付候选/B07FKHHTYG.PT02.jpg"
+    },
+    {
+      "id": "HOLDER303_04",
+      "title": "办公桌面与取纸场景",
+      "type": "secondary",
+      "order": 4,
+      "sku": "4A 303-AC-holder",
+      "asin": "B07FKHHTYG",
+      "file": "交付候选_2000px/HOLDER303_04.png",
+      "jpg": "ASIN命名JPG_交付候选/B07FKHHTYG.PT03.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/HOLDER303_04.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-9a3a3786-fd59-44d9-9c83-b4c1e5d74cb8.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "new_imagegen",
+      "processing": "内置imagegen生成/返修稿等比插值至2000px，未声称恢复实拍细节",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "八色纸叠与双侧标签，两个笔作为使用道具且已注明不包含。",
+      "remaining_checks": "取纸手势、标签背面朝向与透明壳细节仍需核样；不证明底座固定性能。",
+      "technical": {},
+      "png_sha256": "8272b35e52c6407f339307ba91c2c353c51d24f9474178886558d72f8737d14b",
+      "jpg_sha256": "ba83ad6b8d81f1c727cbe8f43929ea15d0e96ef01a1bca4edea9f5878b5f2c87",
+      "folder": "HOLDER303",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第六批/HOLDER303/交付候选_2000px/HOLDER303_04.png",
+      "absolute_jpg": "E:/Desktop/待上架_新图文素材库_第六批/HOLDER303/ASIN命名JPG_交付候选/B07FKHHTYG.PT03.jpg"
+    },
+    {
+      "id": "HOLDER303_05",
+      "title": "桌面整理前后示意",
+      "type": "secondary",
+      "order": 5,
+      "sku": "4A 303-AC-holder",
+      "asin": "B07FKHHTYG",
+      "file": "交付候选_2000px/HOLDER303_05.png",
+      "jpg": "ASIN命名JPG_交付候选/B07FKHHTYG.PT04.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/HOLDER303_05_v3.png",
+      "original_source": "E:/OpenAI-Codex/CodexHome/generated_images/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/exec-6b2e7c79-cc5c-454e-a4c8-5a8d684f7ff5.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "targeted_revision",
+      "processing": "内置imagegen生成/返修稿等比插值至2000px，未声称恢复实拍细节",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "两次局部返修后左右便签均显示八色，保留蓝、紫两层；两叠标签与笔不包含的说明清楚。",
+      "remaining_checks": "整理场景仅为示意，分层厚度和标签印刷需核样；不承诺节省面积或质量保证。",
+      "technical": {},
+      "png_sha256": "927238786d7a11ae0e1bcadf9fd195ffb0b40ef9e965002965d96b239d7f60b3",
+      "jpg_sha256": "d35e821bf57cf3dd81960b090468c1d5fa2d53618a60f82c625bc4a906e64836",
+      "folder": "HOLDER303",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第六批/HOLDER303/交付候选_2000px/HOLDER303_05.png",
+      "absolute_jpg": "E:/Desktop/待上架_新图文素材库_第六批/HOLDER303/ASIN命名JPG_交付候选/B07FKHHTYG.PT04.jpg"
+    },
+    {
+      "id": "BP1111_01",
+      "title": "主图｜四本11×11粉彩便签",
+      "type": "main",
+      "order": 1,
+      "sku": "4A BP 1111-Px4",
+      "asin": "B07QZR9Z3P",
+      "file": "交付候选_2000px/BP1111_01.png",
+      "jpg": "ASIN命名JPG_交付候选/B07QZR9Z3P.MAIN.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/BP1111_01.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-c15ee73b-1c2c-4122-be64-c871bcf0ed75.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "new_imagegen",
+      "processing": "透明源稿按alpha居中，Lanczos3等比缩放，合成RGB255白底",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "四本粉彩大正方形便签，30张的薄本层次，无额外道具。",
+      "remaining_checks": "纸厚和实际色值需核样；画面没有标称80GSM。",
+      "technical": {
+        "background_rgb": [
+          255,
+          255,
+          255
+        ],
+        "border60": {
+          "checked_pixels": 465600,
+          "exact_white_pixels": 465600,
+          "pass": true
+        },
+        "safety_margins_including_shadow": [
+          67,
+          73,
+          67,
+          73
+        ],
+        "margin_pass": true,
+        "product_longest_span_percent": 89.5,
+        "occupancy_pass": true,
+        "occupancy_definition": "alpha>230近似实体外接框最长边/2000，非面积占比；透明壳和阴影另行目视检查。",
+        "jpg_border60": {
+          "checked_pixels": 465600,
+          "exact_white_pixels": 465600,
+          "pass": true
+        }
+      },
+      "png_sha256": "c4c5bb7f843c33b083009c82ee91171f6efcc27aa543ea3635a929fb2daa3e88",
+      "jpg_sha256": "a0eafe4b0eadfa4103ce81cd10fd8d1a5636bb1c2843a9b0c92817a0ccae6d3f",
+      "folder": "BP1111",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第六批/BP1111/交付候选_2000px/BP1111_01.png",
+      "absolute_jpg": "E:/Desktop/待上架_新图文素材库_第六批/BP1111/ASIN命名JPG_交付候选/B07QZR9Z3P.MAIN.jpg"
+    },
+    {
+      "id": "BP1111_02",
+      "title": "精确尺寸与13.4倍面积对比",
+      "type": "secondary",
+      "order": 2,
+      "sku": "4A BP 1111-Px4",
+      "asin": "B07QZR9Z3P",
+      "file": "交付候选_2000px/BP1111_02.png",
+      "jpg": "ASIN命名JPG_交付候选/B07QZR9Z3P.PT01.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/BP1111_02_exact.svg",
+      "original_source": null,
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "kind": "svg",
+      "processing": "原生2000×2000 SVG生成PNG；规格/胶面示意，保留可编辑SVG",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "1100px与300px正方形同用100px/in；121÷9≈13.44，标约13.4倍纸面面积。",
+      "remaining_checks": "3×3仅作对比并注明不包含；不是边长或张数倍数。",
+      "technical": {
+        "paper_scale_px_per_in": 100,
+        "large_px": [
+          1100,
+          1100
+        ],
+        "reference_px": [
+          300,
+          300
+        ],
+        "large_in": [
+          11,
+          11
+        ],
+        "reference_in": [
+          3,
+          3
+        ],
+        "area_ratio": 13.444444444444445,
+        "pads": 4,
+        "total_sheets": 120
+      },
+      "png_sha256": "4eb9e560ab55beaef1dc050ba929e43b479791abe94c1f5285b447d7189de976",
+      "jpg_sha256": "10f21c2f8b77e6edaea379f8ce53bf8fac28cd3e6572dfb51371dbd0e4a2b080",
+      "folder": "BP1111",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第六批/BP1111/交付候选_2000px/BP1111_02.png",
+      "absolute_jpg": "E:/Desktop/待上架_新图文素材库_第六批/BP1111/ASIN命名JPG_交付候选/B07QZR9Z3P.PT01.jpg"
+    },
+    {
+      "id": "BP1111_03",
+      "title": "贴板与大纸面书写",
+      "type": "secondary",
+      "order": 3,
+      "sku": "4A BP 1111-Px4",
+      "asin": "B07QZR9Z3P",
+      "file": "交付候选_2000px/BP1111_03.png",
+      "jpg": "ASIN命名JPG_交付候选/B07QZR9Z3P.PT02.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/BP1111_03.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-1e00d3a2-e32d-4dc1-9e54-6f04b4849ffc.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "new_imagegen",
+      "processing": "内置imagegen生成/返修稿等比插值至2000px，未声称恢复实拍细节",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "单张贴板与大纸面书写，无零透墨或无残胶测试宣称。",
+      "remaining_checks": "相对手部尺度及实际表面适配须核样。",
+      "technical": {},
+      "png_sha256": "25d0be2c11e15b41329d012d8cc23794d17ea8a14a64e8fc3db67e96081af985",
+      "jpg_sha256": "0e3915b79a12a6301f6355ef20df0d500cbdb1571abbb84fcb4dfc50a4bc0ad8",
+      "folder": "BP1111",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第六批/BP1111/交付候选_2000px/BP1111_03.png",
+      "absolute_jpg": "E:/Desktop/待上架_新图文素材库_第六批/BP1111/ASIN命名JPG_交付候选/B07QZR9Z3P.PT02.jpg"
+    },
+    {
+      "id": "BP1111_04",
+      "title": "团队看板与头脑风暴",
+      "type": "secondary",
+      "order": 4,
+      "sku": "4A BP 1111-Px4",
+      "asin": "B07QZR9Z3P",
+      "file": "交付候选_2000px/BP1111_04.png",
+      "jpg": "ASIN命名JPG_交付候选/B07QZR9Z3P.PT03.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/BP1111_04.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-d5b979bc-bc90-4a93-ae99-a57d490171af.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "new_imagegen",
+      "processing": "内置imagegen生成/返修稿等比插值至2000px，未声称恢复实拍细节",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "六张单纸组成看板，粉彩与11×11大幅面一致，无整本贴墙。",
+      "remaining_checks": "手写为用途示例；场景大小不是测量证明。",
+      "technical": {},
+      "png_sha256": "fe73ee004c792178644eb812cf7af6ff847760a2be9c8f0554dbb61ab1a7adfb",
+      "jpg_sha256": "2e35c7c40d77a1fa1cedecd9235345d461ce60aa55174a0470fbd1c3fbc10fcc",
+      "folder": "BP1111",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第六批/BP1111/交付候选_2000px/BP1111_04.png",
+      "absolute_jpg": "E:/Desktop/待上架_新图文素材库_第六批/BP1111/ASIN命名JPG_交付候选/B07QZR9Z3P.PT03.jpg"
+    },
+    {
+      "id": "BP1111_05",
+      "title": "四种用途与120张容量",
+      "type": "secondary",
+      "order": 5,
+      "sku": "4A BP 1111-Px4",
+      "asin": "B07QZR9Z3P",
+      "file": "交付候选_2000px/BP1111_05.png",
+      "jpg": "ASIN命名JPG_交付候选/B07QZR9Z3P.PT04.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/BP1111_05.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-2dc04852-190f-4c7f-9d09-0aa79d2cb856.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "new_imagegen",
+      "processing": "内置imagegen生成/返修稿等比插值至2000px，未声称恢复实拍细节",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "四种场景与4本×30=120张文案清楚；没有耐水或环保认证徽标。",
+      "remaining_checks": "无透墨、重复粘性或各种表面贴附实测保证。",
+      "technical": {},
+      "png_sha256": "cf0425ab35c7282311f56254800554b1161f3d8358efbc4ceca7dac9200bf823",
+      "jpg_sha256": "7d2c7791c823495598fd435d544b8b464d1478623d931d7e6e347f22bbb551a3",
+      "folder": "BP1111",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第六批/BP1111/交付候选_2000px/BP1111_05.png",
+      "absolute_jpg": "E:/Desktop/待上架_新图文素材库_第六批/BP1111/ASIN命名JPG_交付候选/B07QZR9Z3P.PT04.jpg"
+    },
+    {
+      "id": "608NL210_01",
+      "title": "主图｜单本七色210张",
+      "type": "main",
+      "order": 1,
+      "sku": "4A 608-N-L-210",
+      "asin": "B07B8RBCKT",
+      "file": "交付候选_2000px/608NL210_01.png",
+      "jpg": "ASIN命名JPG_交付候选/B07B8RBCKT.MAIN.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/608NL210_01.png",
+      "original_source": "E:\\Desktop\\待上架_新图文素材库_第二批\\608NL210\\生成源图\\608NL210_01.png",
+      "source_pixels": [
+        1448,
+        1086
+      ],
+      "kind": "reuse",
+      "processing": "透明源稿按alpha居中，Lanczos3等比缩放，合成RGB255白底",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "复用第二批单本七色210张主图源稿，保留横向与黄色横线顶页。",
+      "remaining_checks": "纸厚、行距与批次色序须核样；不证明80GSM。",
+      "technical": {
+        "background_rgb": [
+          255,
+          255,
+          255
+        ],
+        "border60": {
+          "checked_pixels": 465600,
+          "exact_white_pixels": 465600,
+          "pass": true
+        },
+        "safety_margins_including_shadow": [
+          76,
+          306,
+          76,
+          306
+        ],
+        "margin_pass": true,
+        "product_longest_span_percent": 89.5,
+        "occupancy_pass": true,
+        "occupancy_definition": "alpha>230近似实体外接框最长边/2000，非面积占比；透明壳和阴影另行目视检查。",
+        "jpg_border60": {
+          "checked_pixels": 465600,
+          "exact_white_pixels": 465600,
+          "pass": true
+        }
+      },
+      "png_sha256": "e70ea50c5f3a347ea01ce9a6be513cc5b584a0b112c00096b590dc2e8edacd14",
+      "jpg_sha256": "833316c3676f478971cb09001ef3a0e38f74f53b83de838e11c95e8fbcfb4d55",
+      "folder": "608NL210",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第六批/608NL210/交付候选_2000px/608NL210_01.png",
+      "absolute_jpg": "E:/Desktop/待上架_新图文素材库_第六批/608NL210/ASIN命名JPG_交付候选/B07B8RBCKT.MAIN.jpg"
+    },
+    {
+      "id": "608NL210_02",
+      "title": "横向6×8尺寸与横线",
+      "type": "secondary",
+      "order": 2,
+      "sku": "4A 608-N-L-210",
+      "asin": "B07B8RBCKT",
+      "file": "交付候选_2000px/608NL210_02.png",
+      "jpg": "ASIN命名JPG_交付候选/B07B8RBCKT.PT01.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/608NL210_02.png",
+      "original_source": "E:\\Desktop\\待上架_新图文素材库_第二批\\608NL210\\交付候选_2000px\\608NL210_02.png",
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "kind": "reuse",
+      "processing": "原样复用第二批2000px PNG；像素不变，仅更新本批ASIN归档",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "复用第二批原生SVG规格图，8:6横向比例、8英寸长边上胶方向正确。",
+      "remaining_checks": "横线为版式示意，不宣称精确行数或毫米行距。",
+      "technical": {},
+      "png_sha256": "f8271c53128f7be4abfd006e34085df12b1a3d16192af0e838d63ab1a8ccbb12",
+      "jpg_sha256": "cd7383a75510e04991fb8e67209bdc8ae007d56d2e7a4252d440e1b24d964a57",
+      "folder": "608NL210",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第六批/608NL210/交付候选_2000px/608NL210_02.png",
+      "absolute_jpg": "E:/Desktop/待上架_新图文素材库_第六批/608NL210/ASIN命名JPG_交付候选/B07B8RBCKT.PT01.jpg"
+    },
+    {
+      "id": "608NL210_03",
+      "title": "书写与纸面",
+      "type": "secondary",
+      "order": 3,
+      "sku": "4A 608-N-L-210",
+      "asin": "B07B8RBCKT",
+      "file": "交付候选_2000px/608NL210_03.png",
+      "jpg": "ASIN命名JPG_交付候选/B07B8RBCKT.PT02.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/608NL210_03.png",
+      "original_source": "E:\\Desktop\\待上架_新图文素材库_第二批\\608NL210\\交付候选_2000px\\608NL210_03.png",
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "kind": "reuse",
+      "processing": "原样复用第二批2000px PNG；像素不变，仅更新本批ASIN归档",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "复用已返修的书写稿，实际包装七色顺序已对照，无No Bleed描述。",
+      "remaining_checks": "日常书写场景不作为墨水渗透测试。",
+      "technical": {},
+      "png_sha256": "ebeaa11089f09261f1485f889da704c8833fb20eba6bd19583c590d8b475c12a",
+      "jpg_sha256": "587d4366f5e8e7a9856605969bb7b16a99502d6934435397751ac783f5afa81c",
+      "folder": "608NL210",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第六批/608NL210/交付候选_2000px/608NL210_03.png",
+      "absolute_jpg": "E:/Desktop/待上架_新图文素材库_第六批/608NL210/ASIN命名JPG_交付候选/B07B8RBCKT.PT02.jpg"
+    },
+    {
+      "id": "608NL210_04",
+      "title": "清单与会议记录",
+      "type": "secondary",
+      "order": 4,
+      "sku": "4A 608-N-L-210",
+      "asin": "B07B8RBCKT",
+      "file": "交付候选_2000px/608NL210_04.png",
+      "jpg": "ASIN命名JPG_交付候选/B07B8RBCKT.PT03.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/608NL210_04.png",
+      "original_source": "E:\\Desktop\\待上架_新图文素材库_第二批\\608NL210\\交付候选_2000px\\608NL210_04.png",
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "kind": "reuse",
+      "processing": "原样复用第二批2000px PNG；像素不变，仅更新本批ASIN归档",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "复用两张薄纸的清单/会议纪要，横向比例与图文清楚。",
+      "remaining_checks": "手写清单非预印；具体纸色与行距仍需核样。",
+      "technical": {},
+      "png_sha256": "004fc23ea800d5660cd196e31763704b02dc6362856b41c0efba55f894c713b2",
+      "jpg_sha256": "27990a9332ab535ca0e4ab3c0d55807c172c35c0eb30322221bbd4f372f7fb51",
+      "folder": "608NL210",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第六批/608NL210/交付候选_2000px/608NL210_04.png",
+      "absolute_jpg": "E:/Desktop/待上架_新图文素材库_第六批/608NL210/ASIN命名JPG_交付候选/B07B8RBCKT.PT03.jpg"
+    },
+    {
+      "id": "608NL210_05",
+      "title": "七色与210张容量",
+      "type": "secondary",
+      "order": 5,
+      "sku": "4A 608-N-L-210",
+      "asin": "B07B8RBCKT",
+      "file": "交付候选_2000px/608NL210_05.png",
+      "jpg": "ASIN命名JPG_交付候选/B07B8RBCKT.PT04.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/608NL210_05.png",
+      "original_source": "E:\\Desktop\\待上架_新图文素材库_第二批\\608NL210\\交付候选_2000px\\608NL210_05.png",
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "kind": "reuse",
+      "processing": "原样复用第二批2000px PNG；像素不变，仅更新本批ASIN归档",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "复用单本7色×30=210规格图，未改成七本散装。",
+      "remaining_checks": "色序、纸厚与胶位需实物批次核样。",
+      "technical": {},
+      "png_sha256": "df532a5e85c3970597b0b1b6bfcb2a259445e4a7b236f7f83e699b1db9613c63",
+      "jpg_sha256": "81dab0166e07eeb636ca0925f836c59a6ebe265c3e62512b181c756d93c1c7b5",
+      "folder": "608NL210",
+      "absolute_file": "E:/Desktop/待上架_新图文素材库_第六批/608NL210/交付候选_2000px/608NL210_05.png",
+      "absolute_jpg": "E:/Desktop/待上架_新图文素材库_第六批/608NL210/ASIN命名JPG_交付候选/B07B8RBCKT.PT04.jpg"
+    }
+  ]
+}

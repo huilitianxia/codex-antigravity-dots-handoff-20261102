@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2026-11-01T04:11:52.443Z",
+  "mutations": 0,
+  "mg30312": {
+    "sku": "4A MG30312-Z",
+    "asin": "B01JGGQ4WQ",
+    "ordinary": 18.25,
+    "stock": 0,
+    "business": 11.99,
+    "tiers": [
+      {
+        "quantity": 10,
+        "percent": 12,
+        "unitPrice": 10.55
+      }
+    ],
+    "extraTiers": "none shown"
+  },
+  "pss": {
+    "sku": "4A PSS 9-3 2 Sets",
+    "asin": "B0DYNL5SMR",
+    "ordinary": 23.99,
+    "sale": 20.39,
+    "minimum": 19.19,
+    "business": 19.99,
+    "stock": 33,
+    "tiers": [
+      {
+        "quantity": 3,
+        "percent": 2,
+        "unitPrice": 19.59
+      },
+      {
+        "quantity": 5,
+        "percent": 4,
+        "unitPrice": 19.19
+      }
+    ],
+    "tier3": null,
+    "tier4": null,
+    "tier5": null,
+    "minVsDeepest": "equal 19.19; passes",
+    "saveButton": "disabled; no edits"
+  }
+}

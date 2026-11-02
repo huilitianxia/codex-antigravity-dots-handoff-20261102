@@ -1,0 +1,6 @@
+Full-frame warm daylight photography. Neutral ivory white and charcoal typography. Product colors lead; no invented colored panels. Segoe UI light/regular/semibold local fonts. Gentle 0.38s text entrance and clean action cuts. Display 4A and full series identification from opening. Protect notes from overlays. Keep real source actions intact. End with actual product photo and factual specs. Existing ambient music, moderate volume, fades. No motion decorations or synthetic hand footage.
+
+2026-10-21 brand revision: prepend 2.5 seconds of the authentic color 4A crown logo, rendered from the supplied Illustrator master. White background, restrained scale/opacity entrance and “Color your everyday.” line. Both music variants remain. Product scenes, repaired office_v2 screen and color treatments are retained. Total 34.6667 s, 832 frames.
+
+
+2026-10-22 v4: existing footage only, 30 seconds / 720 frames. Crown opener 1.75 s; crown and matching tagline on closing card. Remove duplicated s07 color spread; shorten lifestyle scenes; keep complete s05 re-stick action. Conservative live-footage white balance/shadow correction plus lighter lower shading. A music for review; previous outputs retained.

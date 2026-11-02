@@ -1,0 +1,35 @@
+DRAFT ONLY - NOT SENT
+Subject: Active MFN offer unavailable to NY10001; inventory shipping shows $1,000,001 - SKU4A GM406SL-10
+
+Amazon.com US / 4A (USA) LIMITED
+Affected SKU:4A GM406SL-10; ASIN:B07RP85C2P
+Latest read-only recheck:2026-11-01T16:08:17+08:00
+
+Please investigate why this active MFN offer cannot obtain a usable shipping quote and is unavailable to a buyer in New York10001.
+
+Current observations:
+- Manage All Inventory:Active, MFN,466 units, item price$17.49, shipping+$1,000,001.00; Featured Offer/lowest price/estimated fee all blank.
+- Buyer detail page, existing destination New York10001:Currently unavailable / currently out of stock. This is a buyability failure; we are not claiming that a buyer is actually charged$1,000,001.
+- Current Offer editor:New condition, Heavy delivery, no Sale price, no minimum/maximum price, no restock date, no future release date (2019-05-22). Catalog package weight1.066kg, dimensions15.494 x10.414 x10.668cm (H/L/W). Seller weight/dimension contributions and handling-time input are blank.
+- Same-template control, freshly checked:SKU4A GM608SL-5 / ASINB07RN7W756, Active MFN106units, item$18.99, shipping$26.35. Same New condition, same blank seller weight/dimensions/handling input, same release date, and no Sale/min/max/restock restriction. Catalog package weight1.061kg.
+- Both inventory rows link to the exact same Heavy delivery template ID9f2cd5aa-5103-4b7b-bdba-becbf955256d. Saved template evidence shows mainland standard$9.99/order +$6.99/lb with New York covered and SSA enabled. The normal control's$26.35 matches approximately2.34lb at this rate.
+
+Earlier same-day checks retained:
+- SKU Central displayed shipping --.
+- Manage Seller-Fulfilled Inventory showed466 in FBM Inventory(default), handling time1day, no restock date. This is the effective handling value; the Offer editor's seller input is blank.
+- A single same-value re-save of this SKU's Heavy delivery association was already submitted; immediate readback did not fix the quote. No shared rates, prices, quantities or weights were changed.
+
+Requested technical response:
+1. Provide the MFN offer buyability/suppression reason and shipping-quote failure code for New York10001.
+2. Confirm the resolved shipping-template association, default-origin/SSA route and package weight actually used by the quote service for the affected SKU, compared with the control.
+3. Confirm whether1000001 is an internal fallback value for an unavailable quote; identify the exact attribute or association needing correction.
+Please diagnose before requesting rate/weight changes. The same-template control has blank seller weight inputs too, so a blank input alone does not establish the cause.
+
+Minimal evidence attachments:
+1. mfn-p0-current-target-inventory.png - current Active466/$17.49/$1,000,001 display.
+2. mfn-p0-current-buyer.png - current NY10001 buyer page unavailable.
+3. mfn-p0-current-target-offer.txt - current affected offer fields.
+4. mfn-p0-current-control-inventory.txt and mfn-p0-current-control-offer.txt - current normal same-template comparison.
+5. mfn8-heavy-template-live.txt - saved same-day Heavy rate/coverage evidence.
+
+No support case has been opened and this draft has not been sent. No further changes were performed during this recheck.

@@ -1,0 +1,9 @@
+{
+  "subject": "交叉比对找重复并区分允许/不允许跟卖",
+  "description": "把24个候选ASIN与订单文件、Search文件比对，标记哪些是已售/重复、哪些是新增；按允许跟卖与不允许跟卖分组整理，不允许的单独列清单供后续写case。",
+  "activeForm": "交叉比对并分组整理",
+  "status": "completed",
+  "id": "2",
+  "createdAt": 1786429844187,
+  "updatedAt": 1786430481339
+}

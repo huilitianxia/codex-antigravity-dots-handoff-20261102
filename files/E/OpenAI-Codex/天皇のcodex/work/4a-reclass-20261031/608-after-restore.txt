@@ -1,0 +1,1626 @@
+- navigation:
+  - button "菜单":
+  - generic: 菜单
+  - button:
+  - navigation:
+    - searchbox
+    - link:
+      - /url: /amazonsell/business
+      - generic: 我的业务
+    - button:
+      - generic: 商品
+    - link:
+      - /url: /amazonsell/listings
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/manage-products
+      - text: 管理商品
+      - button:
+    - link:
+      - /url: /pricing/health
+      - text: 管理定价
+      - button:
+    - link:
+      - /url: /product-search
+      - text: 添加商品
+      - button:
+    - link:
+      - /url: /feedback-manager/index.html
+      - text: 分析评论
+      - button:
+    - link:
+      - /url: /new-product-guidance
+      - text: 研究商品
+      - button:
+    - link:
+      - /url: /gex
+      - text: 全球开店
+      - button:
+    - link:
+      - /url: /listing/reports
+      - text: 商品报告
+      - button:
+    - button:
+      - generic: 供应链
+    - link:
+      - /url: /amazonsell/inventory
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/fba-inventory
+      - text: 管理亚马逊库存
+      - button:
+    - link:
+      - /url: /global-store
+      - text: 管理海外购
+      - button:
+    - link:
+      - /url: /seller-fulfilled-product/analytics
+      - text: 管理卖家自配送库存
+      - button:
+    - link:
+      - /url: /manage/shipments
+      - text: 管理货件
+      - button:
+    - link:
+      - /url: /fba/sendtoamazon
+      - text: Send to Amazon
+      - button:
+    - link:
+      - /url: /channel-manager
+      - text: 管理渠道目的地
+      - button:
+    - link:
+      - /url: https://supplychain.amazon.com/scp/login?utm_source=ngs_persistence_link
+      - text: 供应链控制面板
+      - button:
+    - link:
+      - /url: /reportcentral/WelcomePage
+      - text: 供应链报告
+      - button:
+    - button:
+      - generic: 订单
+    - link:
+      - /url: /amazonsell/orders
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/orders/mfn
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /amazonsell/orders/fba
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /business/manage-quotes
+      - text: 管理报价
+      - button:
+    - link:
+      - /url: /manage/returns/mfn
+      - text: 管理退货
+      - button:
+    - link:
+      - /url: /gp/chargebacks/home.html
+      - text: 管理索赔
+      - button:
+    - link:
+      - /url: /order-reports-and-feeds/reports
+      - text: 订单报告
+      - button:
+    - button:
+      - generic: 营销推广
+    - link:
+      - /url: /amazonsell/marketing
+      - text: 工作区
+    - link:
+      - /url: /promotion-central/dashboard
+      - text: 管理促销和特惠
+      - button:
+    - link:
+      - /url: /brand-analytics
+      - text: 品牌分析
+      - button:
+    - link:
+      - /url: /cm?source=ngs
+      - text: 广告控制台
+      - button:
+    - link:
+      - /url: /vine
+      - text: Vine
+      - button:
+    - button:
+      - generic: 财务人员
+    - link:
+      - /url: /amazonsell/payments
+      - text: 工作区
+    - link:
+      - /url: /manage/finance/transactions
+      - text: 管理交易
+      - button:
+    - link:
+      - /url: /managetaxes/global-transaction-reports
+      - text: 管理税费
+      - button:
+    - link:
+      - /url: /economics
+      - text: 利润分析
+      - button:
+    - link:
+      - /url: /manage/finance/reports
+      - text: 财务报告
+      - button:
+    - button:
+      - generic: 账户状况
+    - link:
+      - /url: /performance/dashboard
+      - text: 管理账户状况
+      - button:
+    - button:
+      - generic: 计划和应用程序
+    - link:
+      - /url: /recommended-programs
+      - text: 了解计划
+      - button:
+    - link:
+      - /url: /selling-partner-appstore
+      - text: 销售伙伴应用商店
+      - button:
+    - link:
+      - /url: /tsba
+      - text: 浏览服务
+      - button:
+  - link:
+    - /url: /sitemap
+    - text: 站点地图
+  - link:
+    - /url: /home?ngs_do_not_redirect_flag=1
+    - text: 传统卖家平台
+  - link "Amazon":
+    - /url: /amazonsell
+  - button "4A (USA) LIMITED 美国":
+    - generic: 4A (USA) LIMITED
+    - generic: 美国
+  - button "账户状况":
+    - generic: 账户状况
+    - generic: 存在风险
+  - textbox "搜索任何内容"
+  - button "询问卖家助手":
+    - generic: 卖家助手
+  - link "新增内容":
+    - /url: /featurereleases
+  - link "消息":
+    - /url: /messaging/inbox-v3?fi=responseNeeded&&
+  - button "帮助":
+  - button "设置":
+- navigation:
+  - button:
+  - link "管理交易":
+    - /url: /manage/finance/transactions
+    - generic: 管理交易
+  - link "卖家大学":
+    - /url: /su/learn
+    - generic: 卖家大学
+  - link "管理商品":
+    - /url: /amazonsell/manage-products
+    - generic: 管理商品
+  - link "广告控制台":
+    - /url: /cm?source=ngs
+    - generic: 广告控制台
+  - link "管理货件":
+    - /url: /manage/shipments
+    - generic: 管理货件
+  - link "商品商机探测器":
+    - /url: /new-product-guidance
+    - generic: 商品商机探测器
+  - link "品牌分析":
+    - /url: /brand-analytics
+    - generic: 品牌分析
+  - link "A+ 商品描述管理器":
+    - /url: /enhanced-content/ref=xx_ebc_favb_xx
+    - generic: A+ 商品描述管理器
+  - link "业务报告":
+    - /url: /business-reports#/dashboard
+    - generic: 业务报告
+  - link "亚马逊物流库存报告":
+    - /url: /reportcentral/WelcomePage
+    - generic: 亚马逊物流库存报告
+  - link "商品报告":
+    - /url: /listing/reports
+    - generic: 商品报告
+  - link "绩效通知":
+    - /url: /performance/notifications
+    - generic: 绩效通知
+  - link "管理账户状况":
+    - /url: /performance/dashboard
+    - generic: 管理账户状况
+  - button:
+- list:
+  - link "管理商品":
+    - /url: /amazonsell/manage-products
+  - link "管理 A+ 商品描述":
+    - /url: /enhanced-content/content-manager
+  - link "管理图片":
+    - /url: /imaging/manage
+  - link "管理视频":
+    - /url: /creatorhub/video/library
+  - link "管理试验":
+    - /url: /experiments/dashboard
+  - link "查看销售申请":
+    - /url: /hz/myqdashboard
+- button "✕"
+- navigation "面包屑":
+  - list:
+    - link "商品":
+      - /url: /amazonsell/listings
+    - generic: 管理商品
+- generic: 管理所有库存
+- link "了解更多信息":
+  - /url: /learn/courses?moduleId=1d80536d-d066-49dc-883f-0f8c578d1cb0&ref_=myp_lm
+  - generic: 了解更多信息
+- link "查看商品演示":
+  - /url: javascript:void(0);
+  - generic: 查看商品演示
+- link "提供反馈":
+  - /url: javascript:void(0);
+  - generic: 提供反馈
+- button "添加一个变体":
+  - generic: 添加一个变体
+- button "添加新商品":
+  - generic: 添加新商品
+- text: 所有商品
+- generic: "897"
+- text: 补全草稿
+- generic: "101"
+- text: 启售商品
+- generic: "360"
+- text: 改善商品信息
+- generic: "2"
+- generic "spacer"
+- generic "发表评论":
+  - generic: 您对此页面上的功能的满意度如何？
+  - generic: 请选择一个主题
+- generic: 快速筛选：
+- generic: 全部 (897)
+- generic: Variations (31)
+- generic: "|"
+- generic: 显示：
+- generic: 收藏
+- generic: 经常查看
+- generic: 建议使用亚马逊物流
+- generic: 搜索
+- generic "所有":
+  - generic: 所有
+  - generic: 
+- textbox "搜索 SKU、商品名称/关键词、FNSKU、ASIN、UPC/EAN": AAAA 4A 608-N-L-210
+- generic: 
+- generic: 商品状态
+- generic "全部 (897)":
+  - generic: 全部 (897)
+  - generic: 
+- generic: 全部 (897)
+- generic: 在售 (310)
+- generic: 在搜索结果中禁止显示 (5)
+- generic: 改善商品信息 (2)
+- generic: 不可售 (355)
+- generic: 详情页面已删除 (7)
+- generic: 缺货 (271)
+- generic: 缺少报价 (98)
+- generic: 需要批准 (1)
+- generic: 已停售 (76)
+- generic: 商品信息草稿
+- generic: 缺少的信息 (100)
+- generic: 订单配送方
+- generic "全部":
+  - generic: 全部
+  - generic: 
+- button "所有筛选条件":
+  - generic: 
+  - generic: 所有筛选条件
+- button:
+  - generic: 
+- generic: 1 - 25 共 239
+- generic: "排序依据 :"
+- generic "创建日期： 从新到旧":
+  - generic: 创建日期： 从新到旧
+  - generic: 
+- checkbox
+- generic: 商品状态
+- generic: 商品状态
+- generic: 下一步
+- generic: 商品详情
+- generic: 商品详情
+- generic: 图片、商品名称、ASIN 和 SKU
+- generic: 绩效
+- generic: 绩效
+- generic: 
+- generic: 最近 30 天
+- generic: 库存
+- generic: 库存
+- generic: 配送方和数量
+- generic: 价格和运费
+- generic: 价格和运费
+- generic: 定价详情
+- generic: 预计费用
+- generic: 预计费用
+- generic: 按每件售出商品收费
+- checkbox
+- generic "0 星级":
+- generic: 变体 (97)
+- img "商品图片"
+- generic: "变体系列:"
+- generic: "变体系列:"
+- link "4A Novelty Shaped Sticky Notes, Cute Die-Cut Colorful Self-Stick Memo Pads":
+  - /url: https://www.amazon.com/dp/B0HPTQF7MJ
+- generic: "Parent ASIN:"
+- generic: B0HPTQF7MJ
+- generic: 父 SKU：
+- link "PARENT-4A-SHAPED-NOVELTY-PADS":
+  - /url: /skucentral?mSku=PARENT-4A-SHAPED-NOVELTY-PADS&condition=New&ref_=myp_skuc
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 变体 (8)
+- img "商品图片"
+- generic: "变体系列:"
+- generic: "变体系列:"
+- link "4A Acrylic Sticky Note Dispenser & Pen Holder Sets, Desk Organizer Accessories":
+  - /url: https://www.amazon.com/dp/B0HPTFSXF5
+- generic: "Parent ASIN:"
+- generic: B0HPTFSXF5
+- generic: 父 SKU：
+- link "PARENT-4A-ACRYLIC-DESK-ORGANIZERS":
+  - /url: /skucentral?mSku=PARENT-4A-ACRYLIC-DESK-ORGANIZERS&condition=New&ref_=myp_skuc
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 变体 (66)
+- img "商品图片"
+- generic: "变体系列:"
+- generic: "变体系列:"
+- link "4A Transparent Writable Sticky Index Tabs & Book Flags, Waterproof Page Markers with Ruler":
+  - /url: https://www.amazon.com/dp/B0HPTPPTR6
+- generic: "Parent ASIN:"
+- generic: B0HPTPPTR6
+- generic: 父 SKU：
+- link "PARENT-4A-TRANSPARENT-PET-TABS":
+  - /url: /skucentral?mSku=PARENT-4A-TRANSPARENT-PET-TABS&condition=New&ref_=myp_skuc
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 变体 (15)
+- img "商品图片"
+- generic: "变体系列:"
+- generic: "变体系列:"
+- link "4A Paper Page Markers & Divider Sticky Tabs, Colored Narrow Book Index Strips":
+  - /url: https://www.amazon.com/dp/B0HPTSBMBH
+- generic: "Parent ASIN:"
+- generic: B0HPTSBMBH
+- generic: 父 SKU：
+- link "PARENT-4A-PAPER-PAGE-MARKERS":
+  - /url: /skucentral?mSku=PARENT-4A-PAPER-PAGE-MARKERS&condition=New&ref_=myp_skuc
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 变体 (24)
+- img "商品图片"
+- generic: "变体系列:"
+- generic: "变体系列:"
+- link "4A Printed Memo Note Cubes 3 x 3 Inches, 400 & 500 Sheets Thick Desk Note Block":
+  - /url: https://www.amazon.com/dp/B0HPTDMBSS
+- generic: "Parent ASIN:"
+- generic: B0HPTDMBSS
+- generic: 父 SKU：
+- link "PARENT-4A-MEMO-NOTE-CUBES":
+  - /url: /skucentral?mSku=PARENT-4A-MEMO-NOTE-CUBES&condition=New&ref_=myp_skuc
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 变体 (9)
+- img "商品图片"
+- generic: "变体系列:"
+- generic: "变体系列:"
+- link "4A Color Coding Circle Dot Stickers & Reusable Chalkboard Labels with Gold Border":
+  - /url: https://www.amazon.com/dp/B0HPTHNYRT
+- generic: "Parent ASIN:"
+- generic: B0HPTHNYRT
+- generic: 父 SKU：
+- link "PARENT-4A-LABEL-STICKERS":
+  - /url: /skucentral?mSku=PARENT-4A-LABEL-STICKERS&condition=New&ref_=myp_skuc
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 变体 (2)
+- img "商品图片"
+- generic: "变体系列:"
+- generic: "变体系列:"
+- link "4A Desktop Weekly & Daily Planner Sticky Notes, Schedule Checklist Memo Pads":
+  - /url: https://www.amazon.com/dp/B0HPTT856V
+- generic: "Parent ASIN:"
+- generic: B0HPTT856V
+- generic: 父 SKU：
+- link "PARENT-4A-DESK-PLANNERS":
+  - /url: /skucentral?mSku=PARENT-4A-DESK-PLANNERS&condition=New&ref_=myp_skuc
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 变体 (35)
+- img "商品图片"
+- generic: "变体系列:"
+- generic: "变体系列:"
+- link "4A Sticky Big Pad":
+  - /url: https://www.amazon.com/dp/B07CXS2GT7
+- generic: "Parent ASIN:"
+- generic: B07CXS2GT7
+- generic: 父 SKU：
+- link "PARENT-4A-BIGPAD-MEETING-EASEL":
+  - /url: /skucentral?mSku=PARENT-4A-BIGPAD-MEETING-EASEL&condition=New&ref_=myp_skuc
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 缺货
+- generic: 缺货
+- link "补货":
+  - /url: /gp/ssof/workflow/sendinventory.html?mSku.0=4A+8079&action=send&ref_=myp_sendtoamz
+- generic: 2026年10月30日 09:52
+- generic: 2026年10月30日 08:55
+- img "商品图片"
+- link "4A 3D Shape Printed Sticky Notes Memo Pad, Squirrel Print, 3.75 x 4.13 Inches, Cute Sticky Notes for Note Taking Reminders Office Home School Supplies, 100 Sheets/Pad":
+  - /url: https://www.amazon.com/dp/B077Q9ZBBG
+  - generic: 4A
+  - generic: 3D
+  - generic: Shape
+  - generic: Printed
+  - generic: Sticky
+  - generic: Notes
+  - generic: Memo
+  - generic: Pad,
+  - generic: Squirrel
+  - generic: Print,
+  - generic: "3.75"
+  - generic: x
+  - generic: "4.13"
+  - generic: Inches,
+  - generic: Cute
+  - generic: Sticky
+  - generic: Notes
+  - generic: for
+  - generic: Note
+  - generic: Taking
+  - generic: Reminders
+  - generic: Office
+  - generic: Home
+  - generic: School
+  - generic: Supplies,
+  - generic: "100"
+  - generic: Sheets/Pad
+- generic: ASIN
+- generic: B077Q9ZBBG
+- generic: SKU
+- link "4A 8079":
+  - /url: /skucentral?mSku=4A+8079&condition=New&ref_=myp_skuc
+- generic: FNSKU
+- generic: X005ECDDO5
+- generic: 状况
+- generic: 新品
+- generic: 销售额
+- generic: 销售额
+- generic: "--"
+- generic: "--"
+- generic: 售出件数
+- generic: "--"
+- generic: 页面浏览量
+- generic: "--"
+- generic: 销售排名
+- generic: 146,854
+- text: (Office Products)
+- generic: 现货（亚马逊物流）
+- generic: 现货（亚马逊物流）
+- generic: "0"
+- generic: 可售
+- generic: "0"
+- generic: 入库
+- generic: "0"
+- generic: 不可售
+- generic: "0"
+- generic: 预留
+- generic: "0"
+- generic: 价格
+- generic: USD
+- generic: USD
+- textbox: "5.99"
+- generic: 运费
+- generic: + $5.84
+- generic: 最低价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 最高价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 
+- generic: 推荐报价
+- generic: $5.99 + $5.84
+- generic: 有竞争力的价格
+- generic: "--"
+- generic: 
+- generic: 最低价
+- generic: $5.99 + $5.84
+- 'note "Info: 设置企业商品价格以优化商品信息，促进企业买家销售。"':
+  - generic: 
+- generic: 企业商品价格
+- generic: 设置
+- generic: 查看参考价
+- generic: 查看参考价
+- generic: 总费用
+- generic: 总费用
+- generic: $3.67
+- generic: $3.67
+- generic: 亚马逊物流费用
+- generic: $2.77
+- link "计算收入":
+  - /url: javascript:void(0);
+  - generic: 计算收入
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 缺货
+- generic: 缺货
+- link "补货":
+  - /url: /gp/ssof/workflow/sendinventory.html?mSku.0=4A+8077&action=send&ref_=myp_sendtoamz
+- generic: 2026年10月30日 09:58
+- generic: 2026年10月30日 08:55
+- img "商品图片"
+- link "4A 3D Shape Printed Sticky Notes Memo Pad, Fennec Fox Print, 3.75 x 4.13 Inches, Cute Sticky Notes for Note Taking Reminders Office Home School Supplies, 100 Sheets/Pad,4A 8077":
+  - /url: https://www.amazon.com/dp/B077QLHHVH
+  - generic: 4A
+  - generic: 3D
+  - generic: Shape
+  - generic: Printed
+  - generic: Sticky
+  - generic: Notes
+  - generic: Memo
+  - generic: Pad,
+  - generic: Fennec
+  - generic: Fox
+  - generic: Print,
+  - generic: "3.75"
+  - generic: x
+  - generic: "4.13"
+  - generic: Inches,
+  - generic: Cute
+  - generic: Sticky
+  - generic: Notes
+  - generic: for
+  - generic: Note
+  - generic: Taking
+  - generic: Reminders
+  - generic: Office
+  - generic: Home
+  - generic: School
+  - generic: Supplies,
+  - generic: "100"
+  - generic: Sheets/Pad,4A
+  - generic: "8077"
+- generic: ASIN
+- generic: B077QLHHVH
+- generic: SKU
+- link "4A 8077":
+  - /url: /skucentral?mSku=4A+8077&condition=New&ref_=myp_skuc
+- generic: FNSKU
+- generic: X005EC9OC5
+- generic: 状况
+- generic: 新品
+- generic: 销售额
+- generic: 销售额
+- generic: "--"
+- generic: "--"
+- generic: 售出件数
+- generic: "--"
+- generic: 页面浏览量
+- generic: "--"
+- generic: 销售排名
+- generic: 144,316
+- text: (Office Products)
+- generic: 现货（亚马逊物流）
+- generic: 现货（亚马逊物流）
+- generic: "0"
+- generic: 可售
+- generic: "0"
+- generic: 入库
+- generic: "0"
+- generic: 不可售
+- generic: "0"
+- generic: 预留
+- generic: "0"
+- generic: 价格
+- generic: USD
+- generic: USD
+- textbox: "5.99"
+- generic: 运费
+- generic: + $5.84
+- generic: 最低价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 最高价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 
+- generic: 推荐报价
+- generic: $5.99 + $0.00
+- generic: 匹配
+- generic: 有竞争力的价格
+- generic: "--"
+- generic: 
+- generic: 最低价
+- generic: $5.99 + $0.00
+- generic: 匹配
+- 'note "Info: 设置企业商品价格以优化商品信息，促进企业买家销售。"':
+  - generic: 
+- generic: 企业商品价格
+- generic: 设置
+- generic: 查看参考价
+- generic: 查看参考价
+- generic: 总费用
+- generic: 总费用
+- generic: $3.67
+- generic: $3.67
+- generic: 亚马逊物流费用
+- generic: $2.77
+- link "计算收入":
+  - /url: javascript:void(0);
+  - generic: 计算收入
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 缺货
+- generic: 缺货
+- link "补货":
+  - /url: /gp/ssof/workflow/sendinventory.html?mSku.0=4A+8075&action=send&ref_=myp_sendtoamz
+- generic: 2026年10月30日 10:00
+- generic: 2026年10月30日 08:55
+- img "商品图片"
+- link "4A 3D Shape Printed Sticky Notes Memo Pad, Bottlenose Dolphin Print, 3.35 x 3.75 Inches, Cute Sticky Notes for Note Taking Reminders Office Home School Supplies, 100 Sheets/Pad,4A 8075":
+  - /url: https://www.amazon.com/dp/B077QBSSR3
+  - generic: 4A
+  - generic: 3D
+  - generic: Shape
+  - generic: Printed
+  - generic: Sticky
+  - generic: Notes
+  - generic: Memo
+  - generic: Pad,
+  - generic: Bottlenose
+  - generic: Dolphin
+  - generic: Print,
+  - generic: "3.35"
+  - generic: x
+  - generic: "3.75"
+  - generic: Inches,
+  - generic: Cute
+  - generic: Sticky
+  - generic: Notes
+  - generic: for
+  - generic: Note
+  - generic: Taking
+  - generic: Reminders
+  - generic: Office
+  - generic: Home
+  - generic: School
+  - generic: Supplies,
+  - generic: "100"
+  - generic: Sheets/Pad,4A
+  - generic: "8075"
+- generic: ASIN
+- generic: B077QBSSR3
+- generic: SKU
+- link "4A 8075":
+  - /url: /skucentral?mSku=4A+8075&condition=New&ref_=myp_skuc
+- generic: FNSKU
+- generic: X005EC8QQ5
+- generic: 状况
+- generic: 新品
+- generic: 销售额
+- generic: 销售额
+- generic: "--"
+- generic: "--"
+- generic: 售出件数
+- generic: "--"
+- generic: 页面浏览量
+- generic: "--"
+- generic: 销售排名
+- generic: 146,854
+- text: (Office Products)
+- generic: 现货（亚马逊物流）
+- generic: 现货（亚马逊物流）
+- generic: "0"
+- generic: 可售
+- generic: "0"
+- generic: 入库
+- generic: "0"
+- generic: 不可售
+- generic: "0"
+- generic: 预留
+- generic: "0"
+- generic: 价格
+- generic: USD
+- generic: USD
+- textbox: "5.99"
+- generic: 运费
+- generic: + $5.64
+- generic: 最低价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 最高价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 
+- generic: 推荐报价
+- generic: $5.99 + $5.64
+- generic: 有竞争力的价格
+- generic: "--"
+- generic: 
+- generic: 最低价
+- generic: $5.99 + $5.64
+- 'note "Info: 设置企业商品价格以优化商品信息，促进企业买家销售。"':
+  - generic: 
+- generic: 企业商品价格
+- generic: 设置
+- generic: 查看参考价
+- generic: 查看参考价
+- generic: 总费用
+- generic: 总费用
+- generic: $3.67
+- generic: $3.67
+- generic: 亚马逊物流费用
+- generic: $2.77
+- link "计算收入":
+  - /url: javascript:void(0);
+  - generic: 计算收入
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 缺货
+- generic: 缺货
+- link "补货":
+  - /url: /gp/ssof/workflow/sendinventory.html?mSku.0=4A+8074&action=send&ref_=myp_sendtoamz
+- generic: 2026年10月30日 10:24
+- generic: 2026年10月30日 08:55
+- img "商品图片"
+- link "4A 3D Shape Printed Sticky Notes Memo Pad, Pyrenean Mountain Dog Print, 3.35 x 3.75 Inches, Cute Sticky Notes for Note Taking Reminders Office Home School Supplies, 100 Sheets/Pad,4A 8074":
+  - /url: https://www.amazon.com/dp/B077QNBY8S
+  - generic: 4A
+  - generic: 3D
+  - generic: Shape
+  - generic: Printed
+  - generic: Sticky
+  - generic: Notes
+  - generic: Memo
+  - generic: Pad,
+  - generic: Pyrenean
+  - generic: Mountain
+  - generic: Dog
+  - generic: Print,
+  - generic: "3.35"
+  - generic: x
+  - generic: "3.75"
+  - generic: Inches,
+  - generic: Cute
+  - generic: Sticky
+  - generic: Notes
+  - generic: for
+  - generic: Note
+  - generic: Taking
+  - generic: Reminders
+  - generic: Office
+  - generic: Home
+  - generic: School
+  - generic: Supplies,
+  - generic: "100"
+  - generic: Sheets/Pad,4A
+  - generic: "8074"
+- generic: ASIN
+- generic: B077QNBY8S
+- generic: SKU
+- link "4A 8074":
+  - /url: /skucentral?mSku=4A+8074&condition=New&ref_=myp_skuc
+- generic: FNSKU
+- generic: X005EC74L3
+- generic: 状况
+- generic: 新品
+- generic: 销售额
+- generic: 销售额
+- generic: "--"
+- generic: "--"
+- generic: 售出件数
+- generic: "--"
+- generic: 页面浏览量
+- generic: "--"
+- generic: 销售排名
+- generic: "--"
+- generic: 现货（亚马逊物流）
+- generic: 现货（亚马逊物流）
+- generic: "0"
+- generic: 可售
+- generic: "0"
+- generic: 入库
+- generic: "0"
+- generic: 不可售
+- generic: "0"
+- generic: 预留
+- generic: "0"
+- generic: 价格
+- generic: USD
+- generic: USD
+- textbox: "5.99"
+- generic: 运费
+- generic: + $5.64
+- generic: 最低价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 最高价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 
+- generic: 推荐报价
+- generic: $5.99 + $5.64
+- generic: 有竞争力的价格
+- generic: "--"
+- generic: 
+- generic: 最低价
+- generic: $5.99 + $5.64
+- 'note "Info: 设置企业商品价格以优化商品信息，促进企业买家销售。"':
+  - generic: 
+- generic: 企业商品价格
+- generic: 设置
+- generic: 查看参考价
+- generic: 查看参考价
+- generic: 总费用
+- generic: 总费用
+- generic: $3.67
+- generic: $3.67
+- generic: 亚马逊物流费用
+- generic: $2.77
+- link "计算收入":
+  - /url: javascript:void(0);
+  - generic: 计算收入
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 缺货
+- generic: 缺货
+- link "补货":
+  - /url: /gp/ssof/workflow/sendinventory.html?mSku.0=4A+8073&action=send&ref_=myp_sendtoamz
+- generic: 2026年10月30日 10:26
+- generic: 2026年10月30日 08:55
+- img "商品图片"
+- link "4A 3D Shape Printed Sticky Notes,Cute Designs,Printed with American Wirehair,Self-Stick Notes,3.35 x 3.75 Inches,100 Sheets/Pad,1 Pad/Pack,4A 8073":
+  - /url: https://www.amazon.com/dp/B078BPL7R7
+  - generic: 4A
+  - generic: 3D
+  - generic: Shape
+  - generic: Printed
+  - generic: Sticky
+  - generic: Notes,Cute
+  - generic: Designs,Printed
+  - generic: with
+  - generic: American
+  - generic: Wirehair,Self-Stick
+  - generic: Notes,3.35
+  - generic: x
+  - generic: "3.75"
+  - generic: Inches,100
+  - generic: Sheets/Pad,1
+  - generic: Pad/Pack,4A
+  - generic: "8073"
+- generic: ASIN
+- generic: B078BPL7R7
+- generic: SKU
+- link "4A 8073":
+  - /url: /skucentral?mSku=4A+8073&condition=New&ref_=myp_skuc
+- generic: FNSKU
+- generic: X005EC1QZD
+- generic: 状况
+- generic: 新品
+- generic: 销售额
+- generic: 销售额
+- generic: "--"
+- generic: "--"
+- generic: 售出件数
+- generic: "--"
+- generic: 页面浏览量
+- generic: "--"
+- generic: 销售排名
+- generic: "--"
+- generic: 现货（亚马逊物流）
+- generic: 现货（亚马逊物流）
+- generic: "0"
+- generic: 可售
+- generic: "0"
+- generic: 入库
+- generic: "0"
+- generic: 不可售
+- generic: "0"
+- generic: 预留
+- generic: "0"
+- generic: 价格
+- generic: USD
+- generic: USD
+- textbox: "5.99"
+- generic: 运费
+- generic: + $5.64
+- generic: 最低价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 最高价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 
+- generic: 推荐报价
+- generic: $5.99 + $5.64
+- generic: 有竞争力的价格
+- generic: "--"
+- generic: 
+- generic: 最低价
+- generic: $5.99 + $5.64
+- 'note "Info: 设置企业商品价格以优化商品信息，促进企业买家销售。"':
+  - generic: 
+- generic: 企业商品价格
+- generic: 设置
+- generic: 查看参考价
+- generic: 查看参考价
+- generic: 总费用
+- generic: 总费用
+- generic: $3.67
+- generic: $3.67
+- generic: 亚马逊物流费用
+- generic: $2.77
+- link "计算收入":
+  - /url: javascript:void(0);
+  - generic: 计算收入
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 缺货
+- generic: 缺货
+- link "补货":
+  - /url: /gp/ssof/workflow/sendinventory.html?mSku.0=4A+8072&action=send&ref_=myp_sendtoamz
+- generic: 2026年10月30日 10:28
+- generic: 2026年10月30日 08:55
+- img "商品图片"
+- link "4A 3D Shape Printed Sticky Notes Memo Pad,Samoyed Print,3.35 x 3.75 Inches,Cute Sticky Notes for Note Taking Reminders Office Home School Supplies,100 Sheets/Pad,4A 8072":
+  - /url: https://www.amazon.com/dp/B077QNBPR9
+  - generic: 4A
+  - generic: 3D
+  - generic: Shape
+  - generic: Printed
+  - generic: Sticky
+  - generic: Notes
+  - generic: Memo
+  - generic: Pad,Samoyed
+  - generic: Print,3.35
+  - generic: x
+  - generic: "3.75"
+  - generic: Inches,Cute
+  - generic: Sticky
+  - generic: Notes
+  - generic: for
+  - generic: Note
+  - generic: Taking
+  - generic: Reminders
+  - generic: Office
+  - generic: Home
+  - generic: School
+  - generic: Supplies,100
+  - generic: Sheets/Pad,4A
+  - generic: "8072"
+- generic: ASIN
+- generic: B077QNBPR9
+- generic: SKU
+- link "4A 8072":
+  - /url: /skucentral?mSku=4A+8072&condition=New&ref_=myp_skuc
+- generic: FNSKU
+- generic: X005EC8IKJ
+- generic: 状况
+- generic: 新品
+- generic: 销售额
+- generic: 销售额
+- generic: "--"
+- generic: "--"
+- generic: 售出件数
+- generic: "--"
+- generic: 页面浏览量
+- generic: "--"
+- generic: 销售排名
+- generic: "--"
+- generic: 现货（亚马逊物流）
+- generic: 现货（亚马逊物流）
+- generic: "0"
+- generic: 可售
+- generic: "0"
+- generic: 入库
+- generic: "0"
+- generic: 不可售
+- generic: "0"
+- generic: 预留
+- generic: "0"
+- generic: 价格
+- generic: USD
+- generic: USD
+- textbox: "5.99"
+- generic: 运费
+- generic: + $5.64
+- generic: 最低价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 最高价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 
+- generic: 推荐报价
+- generic: $5.99 + $5.64
+- generic: 有竞争力的价格
+- generic: "--"
+- generic: 
+- generic: 最低价
+- generic: $5.99 + $5.64
+- 'note "Info: 设置企业商品价格以优化商品信息，促进企业买家销售。"':
+  - generic: 
+- generic: 企业商品价格
+- generic: 设置
+- generic: 查看参考价
+- generic: 查看参考价
+- generic: 总费用
+- generic: 总费用
+- generic: $3.67
+- generic: $3.67
+- generic: 亚马逊物流费用
+- generic: $2.77
+- link "计算收入":
+  - /url: javascript:void(0);
+  - generic: 计算收入
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 缺货
+- generic: 缺货
+- link "补货":
+  - /url: /gp/ssof/workflow/sendinventory.html?mSku.0=4A+8068&action=send&ref_=myp_sendtoamz
+- generic: 2026年10月30日 09:58
+- generic: 2026年10月30日 08:55
+- img "商品图片"
+- link "4A 3D Shape Printed Sticky Notes,Cute Designs,Printed with Lion,Self-Stick Notes,3.35 x 3.75 Inches,100 Sheets/Pad,1 Pad/Pack,4A 8068":
+  - /url: https://www.amazon.com/dp/B077QN985Q
+  - generic: 4A
+  - generic: 3D
+  - generic: Shape
+  - generic: Printed
+  - generic: Sticky
+  - generic: Notes,Cute
+  - generic: Designs,Printed
+  - generic: with
+  - generic: Lion,Self-Stick
+  - generic: Notes,3.35
+  - generic: x
+  - generic: "3.75"
+  - generic: Inches,100
+  - generic: Sheets/Pad,1
+  - generic: Pad/Pack,4A
+  - generic: "8068"
+- generic: ASIN
+- generic: B077QN985Q
+- generic: SKU
+- link "4A 8068":
+  - /url: /skucentral?mSku=4A+8068&condition=New&ref_=myp_skuc
+- generic: FNSKU
+- generic: X005ECA82Z
+- generic: 状况
+- generic: 新品
+- generic: 销售额
+- generic: 销售额
+- generic: "--"
+- generic: "--"
+- generic: 售出件数
+- generic: "--"
+- generic: 页面浏览量
+- generic: "--"
+- generic: 销售排名
+- generic: 146,854
+- text: (Office Products)
+- generic: 现货（亚马逊物流）
+- generic: 现货（亚马逊物流）
+- generic: "0"
+- generic: 可售
+- generic: "0"
+- generic: 入库
+- generic: "0"
+- generic: 不可售
+- generic: "0"
+- generic: 预留
+- generic: "0"
+- generic: 价格
+- generic: USD
+- generic: USD
+- textbox: "5.99"
+- generic: 运费
+- generic: + $5.64
+- generic: 最低价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 最高价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 
+- generic: 推荐报价
+- generic: $5.99 + $5.64
+- generic: 有竞争力的价格
+- generic: "--"
+- generic: 
+- generic: 最低价
+- generic: $5.99 + $5.64
+- 'note "Info: 设置企业商品价格以优化商品信息，促进企业买家销售。"':
+  - generic: 
+- generic: 企业商品价格
+- generic: 设置
+- generic: 查看参考价
+- generic: 查看参考价
+- generic: 总费用
+- generic: 总费用
+- generic: $3.67
+- generic: $3.67
+- generic: 亚马逊物流费用
+- generic: $2.77
+- link "计算收入":
+  - /url: javascript:void(0);
+  - generic: 计算收入
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 变体 (62)
+- img "商品图片"
+- generic: "变体系列:"
+- generic: "变体系列:"
+- link "4A Medium Sticky Notes 4 x 6 & 3 x 5 Inches, Ruled Lined & Blank Memo Pads":
+  - /url: https://www.amazon.com/dp/B0HPTBGH3F
+- generic: "Parent ASIN:"
+- generic: B0HPTBGH3F
+- generic: 父 SKU：
+- link "PARENT-4A-406-MEDIUM-PADS":
+  - /url: /skucentral?mSku=PARENT-4A-406-MEDIUM-PADS&condition=New&ref_=myp_skuc
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 变体 (10)
+- img "商品图片"
+- generic: "变体系列:"
+- generic: "变体系列:"
+- link "4A Square Sticky Notes 4 x 4 Inches, Medium Colorful Self-Stick Note Pads":
+  - /url: https://www.amazon.com/dp/B0HPTNPMLQ
+- generic: "Parent ASIN:"
+- generic: B0HPTNPMLQ
+- generic: 父 SKU：
+- link "PARENT-4A-404-SQUARE-4X4":
+  - /url: /skucentral?mSku=PARENT-4A-404-SQUARE-4X4&condition=New&ref_=myp_skuc
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 变体 (15)
+- img "商品图片"
+- generic: "变体系列:"
+- generic: "变体系列:"
+- link "4A Color-Cycling Magic Sticky Notes 3 x 3 Inches, Multi-Layer Color Changing Note Pads":
+  - /url: https://www.amazon.com/dp/B0HPTPS18L
+- generic: "Parent ASIN:"
+- generic: B0HPTPS18L
+- generic: 父 SKU：
+- link "PARENT-4A-303M-MAGIC-CYCLING":
+  - /url: /skucentral?mSku=PARENT-4A-303M-MAGIC-CYCLING&condition=New&ref_=myp_skuc
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 变体 (3)
+- img "商品图片"
+- generic: "变体系列:"
+- generic: "变体系列:"
+- link "4A 15-Color Rainbow Sticky Notes 3 x 3 Inches, 15 Pads Colorful Assorted Value Pack":
+  - /url: https://www.amazon.com/dp/B0HPTH12P8
+- generic: "Parent ASIN:"
+- generic: B0HPTH12P8
+- generic: 父 SKU：
+- link "PARENT-4A-30315-RAINBOW-15":
+  - /url: /skucentral?mSku=PARENT-4A-30315-RAINBOW-15&condition=New&ref_=myp_skuc
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 变体 (82)
+- img "商品图片"
+- generic: "变体系列:"
+- generic: "变体系列:"
+- link "4A Classic Square Sticky Notes 3 x 3 Inches, Standard & Lined Self-Stick Note Pads":
+  - /url: https://www.amazon.com/dp/B0HPTWS3G2
+- generic: "Parent ASIN:"
+- generic: B0HPTWS3G2
+- generic: 父 SKU：
+- link "PARENT-4A-303-CLASSIC-SQUARE":
+  - /url: /skucentral?mSku=PARENT-4A-303-CLASSIC-SQUARE&condition=New&ref_=myp_skuc
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 变体 (37)
+- img "商品图片"
+- generic: "变体系列:"
+- generic: "变体系列:"
+- link "4A Mini Sticky Notes 1.5 x 2 & 2 x 2 Inches, Small Colorful Self-Stick Note Pads":
+  - /url: https://www.amazon.com/dp/B0HPTS61KJ
+- generic: "Parent ASIN:"
+- generic: B0HPTS61KJ
+- generic: 父 SKU：
+- link "PARENT-4A-301-MINI-PADS":
+  - /url: /skucentral?mSku=PARENT-4A-301-MINI-PADS&condition=New&ref_=myp_skuc
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 在售
+- generic: 在售
+- generic: 2026年10月30日 08:55
+- generic: 2026年10月30日 06:50
+- img "商品图片"
+- link "4A 3D Shape Printed Sticky Notes Memo Pad, Fraser's Dolphin Print, 3.75 x 4.13 Inches, Cute Sticky Notes for Note Taking Reminders Office Home School Supplies, 100 Sheets/Pad":
+  - /url: https://www.amazon.com/dp/B077QGRH89
+  - generic: 4A
+  - generic: 3D
+  - generic: Shape
+  - generic: Printed
+  - generic: Sticky
+  - generic: Notes
+  - generic: Memo
+  - generic: Pad,
+  - generic: Fraser's
+  - generic: Dolphin
+  - generic: Print,
+  - generic: "3.75"
+  - generic: x
+  - generic: "4.13"
+  - generic: Inches,
+  - generic: Cute
+  - generic: Sticky
+  - generic: Notes
+  - generic: for
+  - generic: Note
+  - generic: Taking
+  - generic: Reminders
+  - generic: Office
+  - generic: Home
+  - generic: School
+  - generic: Supplies,
+  - generic: "100"
+  - generic: Sheets/Pad
+- generic: ASIN
+- generic: B077QGRH89
+- generic: SKU
+- link "4A 8087":
+  - /url: /skucentral?mSku=4A+8087&condition=New&ref_=myp_skuc
+- generic: 状况
+- generic: 新品
+- generic: 销售额
+- generic: 销售额
+- generic: "--"
+- generic: "--"
+- generic: 售出件数
+- generic: "--"
+- generic: 页面浏览量
+- generic: "--"
+- generic: 销售排名
+- generic: 790,672
+- text: (Office Products)
+- generic: 有货（卖家自配送）
+- generic: 有货（卖家自配送）
+- textbox: "20"
+- generic: 配送模板
+- link "Migrated Template":
+  - /url: /sbr?ref=myi_shiptemplate_sbr#legacy-template-id
+- generic: 价格
+- generic: USD
+- generic: USD
+- textbox: "5.99"
+- generic: 运费
+- generic: + $5.84
+- generic: 最低价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 最高价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 
+- generic: 推荐报价
+- generic: $7.99 + $0.00
+- generic: 匹配
+- generic: 有竞争力的价格
+- generic: "--"
+- generic: 
+- generic: 最低价
+- generic: $7.99 + $0.00
+- generic: 匹配
+- 'note "Info: 设置企业商品价格以优化商品信息，促进企业买家销售。"':
+  - generic: 
+- generic: 企业商品价格
+- generic: 设置
+- generic: 查看参考价
+- generic: 查看参考价
+- generic: 总费用
+- generic: 总费用
+- generic: $1.77
+- generic: $1.77
+- link "计算收入":
+  - /url: javascript:void(0);
+  - generic: 计算收入
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 在售
+- generic: 在售
+- generic: 2026年10月30日 08:55
+- generic: 2026年10月30日 06:50
+- img "商品图片"
+- link "4A 3D Shape Printed Sticky Notes,Cute Designs,Printed with Emperor Penguin,Self-Stick Notes,3.75 x 4.13 Inches,100 Sheets/Pad,1 Pad/Pack,4A 8085":
+  - /url: https://www.amazon.com/dp/B077QBYDFN
+  - generic: 4A
+  - generic: 3D
+  - generic: Shape
+  - generic: Printed
+  - generic: Sticky
+  - generic: Notes,Cute
+  - generic: Designs,Printed
+  - generic: with
+  - generic: Emperor
+  - generic: Penguin,Self-Stick
+  - generic: Notes,3.75
+  - generic: x
+  - generic: "4.13"
+  - generic: Inches,100
+  - generic: Sheets/Pad,1
+  - generic: Pad/Pack,4A
+  - generic: "8085"
+- generic: ASIN
+- generic: B077QBYDFN
+- generic: SKU
+- link "4A 8085":
+  - /url: /skucentral?mSku=4A+8085&condition=New&ref_=myp_skuc
+- generic: 状况
+- generic: 新品
+- generic: 销售额
+- generic: 销售额
+- generic: "--"
+- generic: "--"
+- generic: 售出件数
+- generic: "--"
+- generic: 页面浏览量
+- generic: "--"
+- generic: 销售排名
+- generic: 146,854
+- text: (Office Products)
+- generic: 有货（卖家自配送）
+- generic: 有货（卖家自配送）
+- textbox: "20"
+- generic: 配送模板
+- link "Migrated Template":
+  - /url: /sbr?ref=myi_shiptemplate_sbr#legacy-template-id
+- generic: 价格
+- generic: USD
+- generic: USD
+- textbox: "5.99"
+- generic: 运费
+- generic: + $5.74
+- generic: 最低价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 最高价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 
+- generic: 推荐报价
+- generic: $5.99 + $5.74
+- generic: 有竞争力的价格
+- generic: "--"
+- generic: 
+- generic: 最低价
+- generic: $5.99 + $5.74
+- 'note "Info: 设置企业商品价格以优化商品信息，促进企业买家销售。"':
+  - generic: 
+- generic: 企业商品价格
+- generic: 设置
+- generic: 查看参考价
+- generic: 查看参考价
+- generic: 总费用
+- generic: 总费用
+- generic: $1.76
+- generic: $1.76
+- link "计算收入":
+  - /url: javascript:void(0);
+  - generic: 计算收入
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 在售
+- generic: 在售
+- generic: 2026年10月30日 08:55
+- generic: 2026年10月30日 06:50
+- img "商品图片"
+- link "4A 3D Shape Printed Sticky Notes Memo Pad, South African Lion Print, 3.75 x 4.13 Inches, Cute Sticky Notes for Note Taking Reminders Office Home School Supplies, 100 Sheets/Pad":
+  - /url: https://www.amazon.com/dp/B0784GJB8W
+  - generic: 4A
+  - generic: 3D
+  - generic: Shape
+  - generic: Printed
+  - generic: Sticky
+  - generic: Notes
+  - generic: Memo
+  - generic: Pad,
+  - generic: South
+  - generic: African
+  - generic: Lion
+  - generic: Print,
+  - generic: "3.75"
+  - generic: x
+  - generic: "4.13"
+  - generic: Inches,
+  - generic: Cute
+  - generic: Sticky
+  - generic: Notes
+  - generic: for
+  - generic: Note
+  - generic: Taking
+  - generic: Reminders
+  - generic: Office
+  - generic: Home
+  - generic: School
+  - generic: Supplies,
+  - generic: "100"
+  - generic: Sheets/Pad
+- generic: ASIN
+- generic: B0784GJB8W
+- generic: SKU
+- link "4A 8084":
+  - /url: /skucentral?mSku=4A+8084&condition=New&ref_=myp_skuc
+- generic: 状况
+- generic: 新品
+- generic: 销售额
+- generic: 销售额
+- generic: "--"
+- generic: "--"
+- generic: 售出件数
+- generic: "--"
+- generic: 页面浏览量
+- generic: "--"
+- generic: 销售排名
+- generic: 144,263
+- text: (Office Products)
+- generic: 有货（卖家自配送）
+- generic: 有货（卖家自配送）
+- textbox: "20"
+- generic: 配送模板
+- link "Migrated Template":
+  - /url: /sbr?ref=myi_shiptemplate_sbr#legacy-template-id
+- generic: 价格
+- generic: USD
+- generic: USD
+- textbox: "5.99"
+- generic: 运费
+- generic: + $5.84
+- generic: 最低价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 最高价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 
+- generic: 推荐报价
+- generic: $5.99 + $5.84
+- generic: 有竞争力的价格
+- generic: "--"
+- generic: 
+- generic: 最低价
+- generic: $5.99 + $5.84
+- 'note "Info: 设置企业商品价格以优化商品信息，促进企业买家销售。"':
+  - generic: 
+- generic: 企业商品价格
+- generic: 设置
+- generic: 查看参考价
+- generic: 查看参考价
+- generic: 总费用
+- generic: 总费用
+- generic: $1.77
+- generic: $1.77
+- link "计算收入":
+  - /url: javascript:void(0);
+  - generic: 计算收入
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 变体 (2)
+- img "商品图片"
+- generic: "变体系列:"
+- generic: "变体系列:"
+- link "4A 24-Color Rainbow Spectrum Sticky Notes 3 x 3 Inches, Ultra Color Gradient Note Pads":
+  - /url: https://www.amazon.com/dp/B07JQH6N9G
+- generic: "Parent ASIN:"
+- generic: B07JQH6N9G
+- generic: 父 SKU：
+- link "PARENT-4A-8065-8088-SPECTRUM-24":
+  - /url: /skucentral?mSku=PARENT-4A-8065-8088-SPECTRUM-24&condition=New&ref_=myp_skuc
+- button "打开下拉菜单":
+  - generic: 
+- generic: 页面
+- generic: 页面
+- spinbutton: "1"
+- generic: 共 10 页
+- generic: 共 10 页
+- button "前往" [disabled]:
+  - generic: 前往
+- navigation "分页":
+  - generic "向后导航":
+    - generic: 
+  - list:
+    - generic "页面 1": "1"
+    - generic "页面 2": "2"
+    - generic "页面 3": "3"
+    - generic "页面 4": "4"
+    - generic "页面 5": "5"
+    - generic: ...
+    - generic "页面 10": "10"
+  - generic "向前导航":
+    - generic: 
+- generic "每页 25 个搜索结果":
+  - generic: 每页 25 个搜索结果
+  - generic: 
+- generic "发表评论":
+  - generic: 您对此页面上的功能的满意度如何？
+  - generic: 请选择一个主题
+- link "站点地图":
+  - /url: /sitemap
+- link "计划政策":
+  - /url: /help/hub/reference/521
+- generic: © 1999-2026，Amazon.com, Inc. 或其附属公司
+- link "反馈":
+  - /url: "#"

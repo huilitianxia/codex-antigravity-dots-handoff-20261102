@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-30",
+  "count": 15,
+  "errors": [],
+  "main_checks": [
+    {
+      "id": "4012_01",
+      "background_rgb": [
+        255,
+        255,
+        255
+      ],
+      "border60_checked": 465600,
+      "border60_white": 465600,
+      "white_background_pass": true,
+      "safety_margins_including_shadow": [
+        87,
+        100,
+        88,
+        100
+      ],
+      "margin_pass": true,
+      "product_bbox_alpha230": {
+        "left": 114,
+        "top": 442,
+        "width": 1790,
+        "height": 1227
+      },
+      "product_longest_span_percent": 89.5,
+      "occupancy_pass": true,
+      "occupancy_definition": "alpha>230实体近似外接框最长边/2000；不是画幅面积占比。"
+    },
+    {
+      "id": "303M_01",
+      "background_rgb": [
+        255,
+        255,
+        255
+      ],
+      "border60_checked": 465600,
+      "border60_white": 465600,
+      "white_background_pass": true,
+      "safety_margins_including_shadow": [
+        66,
+        78,
+        66,
+        78
+      ],
+      "margin_pass": true,
+      "product_bbox_alpha230": {
+        "left": 111,
+        "top": 403,
+        "width": 1791,
+        "height": 1299
+      },
+      "product_longest_span_percent": 89.55,
+      "occupancy_pass": true,
+      "occupancy_definition": "alpha>230实体近似外接框最长边/2000；不是画幅面积占比。"
+    },
+    {
+      "id": "124418_01",
+      "background_rgb": [
+        255,
+        255,
+        255
+      ],
+      "border60_checked": 465600,
+      "border60_white": 465600,
+      "white_background_pass": true,
+      "safety_margins_including_shadow": [
+        61,
+        105,
+        61,
+        105
+      ],
+      "margin_pass": true,
+      "product_bbox_alpha230": {
+        "left": 160,
+        "top": 139,
+        "width": 1779,
+        "height": 1730
+      },
+      "product_longest_span_percent": 88.95,
+      "occupancy_pass": true,
+      "occupancy_definition": "alpha>230实体近似外接框最长边/2000；不是画幅面积占比。"
+    }
+  ],
+  "visual_review": "12张摄影图及5张返修图已检查；最终3张SVG规格图与15张总预览已目视检查。浏览器总览图片加载及布局尺寸已通过DOM检查。",
+  "limitations": "仅技术及设计检查，不等于实物核样或Amazon审核通过。",
+  "file_check": {
+    "images": 15,
+    "expected_pixels": [
+      2000,
+      2000
+    ],
+    "rgb": true,
+    "sha256_verified": true,
+    "local_links_checked": true,
+    "preserved_source_copies_checked": true,
+    "errors": []
+  },
+  "html_review": {
+    "page_title": "4A 第四批｜15张主副图审稿",
+    "viewport": [
+      1365,
+      900
+    ],
+    "loaded_images": 15,
+    "broken_images": 0,
+    "horizontal_overflow": false
+  }
+}

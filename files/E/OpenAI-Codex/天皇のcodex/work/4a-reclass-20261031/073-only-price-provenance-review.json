@@ -1,0 +1,126 @@
+{
+  "asin": "B00SMEEVKQ",
+  "scope": "073 only, offline provenance review; no live changes",
+  "reports": [
+    {
+      "file": "所有商品报告_09-03-2026.txt",
+      "sku": "4A 40607",
+      "channel": "DEFAULT",
+      "ordinary": "4.99",
+      "business_price_field_present": false
+    },
+    {
+      "file": "所有商品报告_09-03-2026.txt",
+      "sku": "4A073",
+      "channel": "AMAZON_NA",
+      "ordinary": "10.99",
+      "business_price_field_present": false
+    },
+    {
+      "file": "所有商品报告_10-31-2026.txt",
+      "sku": "4A 40607",
+      "channel": "DEFAULT",
+      "ordinary": "4.99",
+      "business_price_field_present": false
+    },
+    {
+      "file": "所有商品报告_10-31-2026.txt",
+      "sku": "4A073",
+      "channel": "AMAZON_NA",
+      "ordinary": "10.99",
+      "business_price_field_present": false
+    },
+    {
+      "file": "所有商品报告_11-01-2026.txt",
+      "sku": "4A 40607",
+      "channel": "DEFAULT",
+      "ordinary": "4.99",
+      "business_price_field_present": false
+    },
+    {
+      "file": "所有商品报告_11-01-2026.txt",
+      "sku": "4A073",
+      "channel": "AMAZON_NA",
+      "ordinary": "10.99",
+      "business_price_field_present": false
+    }
+  ],
+  "master_excel": {
+    "sheet": "Sheet1",
+    "row": 91,
+    "sku": "4A 40607",
+    "VC_ASIN": "B00SMEEVKQ",
+    "SC_ASIN": "B01N7M9YNN",
+    "L_list": 4.99,
+    "M_sale": 4.99,
+    "H_shipping_code": "N",
+    "H_header": "物流N4.99/B9.99/H11.99/2H22.99",
+    "J_FOB": 1.12,
+    "business_price_column": null,
+    "interpretation": "Base item4.99 plus N4.99 shipping notation implies9.98 in that workbook pricing model; not proof current Amazon shipping is4.99, not FBA total-price directive."
+  },
+  "pre_manual_UI": {
+    "source": "pricing-expanded.txt",
+    "ordinary": 10.99,
+    "shipping": 0,
+    "business": 4.49
+  },
+  "manual_then_recovery": {
+    "source": [
+      "other-price-operations-audit.json",
+      "root-price-recovery-log.json"
+    ],
+    "ordinary_sequence": [
+      10.99,
+      4.99,
+      10.99
+    ],
+    "business_sequence": [
+      4.49,
+      4.49,
+      4.49
+    ],
+    "agent2_log_contains_073": false,
+    "recovery_owner": "root"
+  },
+  "category_report10_31": {
+    "source": "D:/下载文件/分类商品报告_10-31-2026.xlsm",
+    "ordinary_MJ": 4.99,
+    "business_MS": 4.49,
+    "tiers_MY_MZ": [
+      [
+        10,
+        8
+      ]
+    ],
+    "interpretation": "Captures intermediate ordinary4.99; does not contradict earlier/later all-listings10.99 snapshots; same date is not same capture time."
+  },
+  "09_new_proposal": {
+    "business": 9.49,
+    "tiers": [
+      [
+        3,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        10,
+        5
+      ]
+    ],
+    "scope": "Only business base/tiers; ordinary10.99 unchanged; no Sale/stock/shipping/minmax",
+    "meaning": "New FBA business pricing proposal to avoid very deep enterprise-plus-Coupon cash compression; not Excel restoration or proof old price was erroneous",
+    "authorization_basis": "Root reviewed concrete proposal, delivered09 to user and user uploaded; distinguish approval to implement proposal from factual claim original4.49 was wrong. User now questions premise; no further live price work in this review.",
+    "receipt": "1 SKU successful with other errors,0 failed;100476 old title/highlights error; receipt alone not propagation proof",
+    "last_saved_readback": "09-073-final-independent-tiers.txt still4.49 and10qty8%; do not claim new price live"
+  },
+  "conclusions": [
+    "10.99 FBA ordinary is historical at least since09-03, not inferred from Excel.",
+    "4.49 business existed before first manual ordinary reduction; earliest setter, date and intention unknown. Cannot label as current-session error.",
+    "Excel contains no business-price authority;4.49 is numerically about10percent below4.99 but intent is unproven.",
+    "9.49 new business would be111.36percent above4.49, so frame plainly as a new increase, not restoring historic enterprise pricing."
+  ]
+}

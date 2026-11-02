@@ -1,0 +1,708 @@
+- navigation:
+  - button "菜单":
+  - generic: 菜单
+  - button:
+  - navigation:
+    - searchbox
+    - link:
+      - /url: /amazonsell/business
+      - generic: 我的业务
+    - button:
+      - generic: 商品
+    - link:
+      - /url: /amazonsell/listings
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/manage-products
+      - text: 管理商品
+      - button:
+    - link:
+      - /url: /pricing/health
+      - text: 管理定价
+      - button:
+    - link:
+      - /url: /product-search
+      - text: 添加商品
+      - button:
+    - link:
+      - /url: /feedback-manager/index.html
+      - text: 分析评论
+      - button:
+    - link:
+      - /url: /new-product-guidance
+      - text: 研究商品
+      - button:
+    - link:
+      - /url: /gex
+      - text: 全球开店
+      - button:
+    - link:
+      - /url: /listing/reports
+      - text: 商品报告
+      - button:
+    - button:
+      - generic: 供应链
+    - link:
+      - /url: /amazonsell/inventory
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/fba-inventory
+      - text: 管理亚马逊库存
+      - button:
+    - link:
+      - /url: /global-store
+      - text: 管理海外购
+      - button:
+    - link:
+      - /url: /seller-fulfilled-product/analytics
+      - text: 管理卖家自配送库存
+      - button:
+    - link:
+      - /url: /manage/shipments
+      - text: 管理货件
+      - button:
+    - link:
+      - /url: /fba/sendtoamazon
+      - text: Send to Amazon
+      - button:
+    - link:
+      - /url: /channel-manager
+      - text: 管理渠道目的地
+      - button:
+    - link:
+      - /url: https://supplychain.amazon.com/scp/login?utm_source=ngs_persistence_link
+      - text: 供应链控制面板
+      - button:
+    - link:
+      - /url: /reportcentral/WelcomePage
+      - text: 供应链报告
+      - button:
+    - button:
+      - generic: 订单
+    - link:
+      - /url: /amazonsell/orders
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/orders/mfn
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /amazonsell/orders/fba
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /business/manage-quotes
+      - text: 管理报价
+      - button:
+    - link:
+      - /url: /manage/returns/mfn
+      - text: 管理退货
+      - button:
+    - link:
+      - /url: /gp/chargebacks/home.html
+      - text: 管理索赔
+      - button:
+    - link:
+      - /url: /order-reports-and-feeds/reports
+      - text: 订单报告
+      - button:
+    - button:
+      - generic: 营销推广
+    - link:
+      - /url: /amazonsell/marketing
+      - text: 工作区
+    - link:
+      - /url: /promotion-central/dashboard
+      - text: 管理促销和特惠
+      - button:
+    - link:
+      - /url: /brand-analytics
+      - text: 品牌分析
+      - button:
+    - link:
+      - /url: /cm?source=ngs
+      - text: 广告控制台
+      - button:
+    - link:
+      - /url: /vine
+      - text: Vine
+      - button:
+    - button:
+      - generic: 财务人员
+    - link:
+      - /url: /amazonsell/payments
+      - text: 工作区
+    - link:
+      - /url: /manage/finance/transactions
+      - text: 管理交易
+      - button:
+    - link:
+      - /url: /managetaxes/global-transaction-reports
+      - text: 管理税费
+      - button:
+    - link:
+      - /url: /economics
+      - text: 利润分析
+      - button:
+    - link:
+      - /url: /manage/finance/reports
+      - text: 财务报告
+      - button:
+    - button:
+      - generic: 账户状况
+    - link:
+      - /url: /performance/dashboard
+      - text: 管理账户状况
+      - button:
+    - button:
+      - generic: 计划和应用程序
+    - link:
+      - /url: /recommended-programs
+      - text: 了解计划
+      - button:
+    - link:
+      - /url: /selling-partner-appstore
+      - text: 销售伙伴应用商店
+      - button:
+    - link:
+      - /url: /tsba
+      - text: 浏览服务
+      - button:
+  - link:
+    - /url: /sitemap
+    - text: 站点地图
+  - link:
+    - /url: /home?ngs_do_not_redirect_flag=1
+    - text: 传统卖家平台
+  - link "Amazon":
+    - /url: /amazonsell
+  - button "4A (USA) LIMITED 美国":
+    - generic: 4A (USA) LIMITED
+    - generic: 美国
+  - button "账户状况":
+    - generic: 账户状况
+    - generic: 存在风险
+  - textbox "搜索任何内容"
+  - button "询问卖家助手":
+    - generic: 卖家助手
+  - link "新增内容":
+    - /url: /featurereleases
+  - link "消息":
+    - /url: /messaging/inbox-v3?fi=responseNeeded&&
+  - button "帮助":
+  - button "设置":
+- navigation:
+  - button:
+  - link "管理交易":
+    - /url: /manage/finance/transactions
+    - generic: 管理交易
+  - link "卖家大学":
+    - /url: /su/learn
+    - generic: 卖家大学
+  - link "管理商品":
+    - /url: /amazonsell/manage-products
+    - generic: 管理商品
+  - link "广告控制台":
+    - /url: /cm?source=ngs
+    - generic: 广告控制台
+  - link "管理货件":
+    - /url: /manage/shipments
+    - generic: 管理货件
+  - link "商品商机探测器":
+    - /url: /new-product-guidance
+    - generic: 商品商机探测器
+  - link "品牌分析":
+    - /url: /brand-analytics
+    - generic: 品牌分析
+  - link "A+ 商品描述管理器":
+    - /url: /enhanced-content/ref=xx_ebc_favb_xx
+    - generic: A+ 商品描述管理器
+  - link "业务报告":
+    - /url: /business-reports#/dashboard
+    - generic: 业务报告
+  - link "亚马逊物流库存报告":
+    - /url: /reportcentral/WelcomePage
+    - generic: 亚马逊物流库存报告
+  - link "商品报告":
+    - /url: /listing/reports
+    - generic: 商品报告
+  - link "绩效通知":
+    - /url: /performance/notifications
+    - generic: 绩效通知
+  - link "管理账户状况":
+    - /url: /performance/dashboard
+    - generic: 管理账户状况
+  - button:
+- heading "编辑优惠券" [level=2]
+- generic: 3 of 4 steps completed · 75%
+- navigation:
+  - button "店铺和商品 ✓":
+    - heading "店铺和商品" [level=3]
+    - generic: ✓
+  - button "优惠券设置 ✓":
+    - heading "优惠券设置" [level=3]
+    - generic: ✓
+  - button "更多详情 ✓":
+    - heading "更多详情" [level=3]
+    - generic: ✓
+  - button "检查并确认":
+    - heading "检查并确认" [level=3]
+- heading "检查并确认" [level=1]
+- button "店铺和商品" [expanded]:
+  - generic: 店铺和商品
+- link "编辑 店铺和商品":
+  - /url: /workflow/coupons/edit/8484057b-7449-41d7-ac34-b40ffec63395/step/1
+  - text: 编辑
+- group "店铺和商品":
+  - strong: 店铺
+  - paragraph:
+    - generic: United States
+  - table "商品":
+    - rowgroup:
+      - row "商品 ASIN 当前价格 有货":
+        - columnheader "商品":
+          - generic: 商品
+        - columnheader "ASIN":
+          - generic: ASIN
+        - columnheader "当前价格":
+          - generic: 当前价格
+        - columnheader "有货":
+          - generic: 有货
+    - rowgroup:
+      - row "4A 卷便签带分配器,全粘性,宽 x 长 0.6 x 393 英寸,6 种不同霓虹色,自粘便条,6 卷/包,4A PSS… B08DKJ2K3T - 871 件数":
+        - cell "4A 卷便签带分配器,全粘性,宽 x 长 0.6 x 393 英寸,6 种不同霓虹色,自粘便条,6 卷/包,4A PSS…":
+          - generic: 4A 卷便签带分配器,全粘性,宽 x 长 0.6 x 393 英寸,6 种不同霓虹色,自粘便条,6 卷/包,4A PSS…
+        - cell "B08DKJ2K3T":
+          - generic: B08DKJ2K3T
+        - cell "-":
+          - generic: "-"
+        - cell "871 件数":
+          - generic: 871 件数
+      - row "4A 便利贴,1 1/2 x 2 英寸,小号,短边胶粘,霓虹色分类,自粘便签,100 张/垫,12 片/包,4A 301… B01LVTWP7Q - 18 件数":
+        - cell "4A 便利贴,1 1/2 x 2 英寸,小号,短边胶粘,霓虹色分类,自粘便签,100 张/垫,12 片/包,4A 301…":
+          - generic: 4A 便利贴,1 1/2 x 2 英寸,小号,短边胶粘,霓虹色分类,自粘便签,100 张/垫,12 片/包,4A 301…
+        - cell "B01LVTWP7Q":
+          - generic: B01LVTWP7Q
+        - cell "-":
+          - generic: "-"
+        - cell "18 件数":
+          - generic: 18 件数
+      - row "4A 4 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Yellow… B0F9L5G6XQ - 291 件数":
+        - cell "4A 4 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Yellow…":
+          - generic: 4A 4 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Yellow…
+        - cell "B0F9L5G6XQ":
+          - generic: B0F9L5G6XQ
+        - cell "-":
+          - generic: "-"
+        - cell "291 件数":
+          - generic: 291 件数
+      - row "4A 4 垫内衬便利贴 5 x 8 英寸(约 12.7 x 20.3 厘米),色彩鲜艳,带线条自粘便条,适用于家庭办公室… B07F2B49BL - 146 件数":
+        - cell "4A 4 垫内衬便利贴 5 x 8 英寸(约 12.7 x 20.3 厘米),色彩鲜艳,带线条自粘便条,适用于家庭办公室…":
+          - generic: 4A 4 垫内衬便利贴 5 x 8 英寸(约 12.7 x 20.3 厘米),色彩鲜艳,带线条自粘便条,适用于家庭办公室…
+        - cell "B07F2B49BL":
+          - generic: B07F2B49BL
+        - cell "-":
+          - generic: "-"
+        - cell "146 件数":
+          - generic: 146 件数
+      - row "4A Full Adhesive Sticky Notes, 4 Refill Sticky Rolls, 2 x 31… B07QVKPZXX $17.99 408 件数":
+        - cell "4A Full Adhesive Sticky Notes, 4 Refill Sticky Rolls, 2 x 31…":
+          - generic: 4A Full Adhesive Sticky Notes, 4 Refill Sticky Rolls, 2 x 31…
+        - cell "B07QVKPZXX":
+          - generic: B07QVKPZXX
+        - cell "$17.99":
+          - generic: $17.99
+        - cell "408 件数":
+          - generic: 408 件数
+      - row "4A Printed Sticky Note Cube, 2.5 x 2.5 in B07FKHNTRK $12.99 979 件数":
+        - cell "4A Printed Sticky Note Cube, 2.5 x 2.5 in":
+          - generic: 4A Printed Sticky Note Cube, 2.5 x 2.5 in
+        - cell "B07FKHNTRK":
+          - generic: B07FKHNTRK
+        - cell "$12.99":
+          - generic: $12.99
+        - cell "979 件数":
+          - generic: 979 件数
+      - row "4A Lined Sticky Notes, 5 x 8 in, 2 Pads, Pastel Yellow B07F2BHFJH $11.99 62 件数":
+        - cell "4A Lined Sticky Notes, 5 x 8 in, 2 Pads, Pastel Yellow":
+          - generic: 4A Lined Sticky Notes, 5 x 8 in, 2 Pads, Pastel Yellow
+        - cell "B07F2BHFJH":
+          - generic: B07F2BHFJH
+        - cell "$11.99":
+          - generic: $11.99
+        - cell "62 件数":
+          - generic: 62 件数
+      - row "4A Roll Sticky Notes, 2 Full Adhesive Sticky Rolls with Disp… B07QXJYKJN $24.99 33 件数":
+        - cell "4A Roll Sticky Notes, 2 Full Adhesive Sticky Rolls with Disp…":
+          - generic: 4A Roll Sticky Notes, 2 Full Adhesive Sticky Rolls with Disp…
+        - cell "B07QXJYKJN":
+          - generic: B07QXJYKJN
+        - cell "$24.99":
+          - generic: $24.99
+        - cell "33 件数":
+          - generic: 33 件数
+      - row "4A Sticky Note Rolls with Dispensers, 0.6 x 315 in, Neon Col… B01MZ4FDN5 $9.90 2463 件数":
+        - cell "4A Sticky Note Rolls with Dispensers, 0.6 x 315 in, Neon Col…":
+          - generic: 4A Sticky Note Rolls with Dispensers, 0.6 x 315 in, Neon Col…
+        - cell "B01MZ4FDN5":
+          - generic: B01MZ4FDN5
+        - cell "$9.90":
+          - generic: $9.90
+        - cell "2463 件数":
+          - generic: 2463 件数
+      - row "4A Sticky Notes, 4 x 6 in, 6 Pads, Yellow B01N0RJSTU $11.49 12 件数":
+        - cell "4A Sticky Notes, 4 x 6 in, 6 Pads, Yellow":
+          - generic: 4A Sticky Notes, 4 x 6 in, 6 Pads, Yellow
+        - cell "B01N0RJSTU":
+          - generic: B01N0RJSTU
+        - cell "$11.49":
+          - generic: $11.49
+        - cell "12 件数":
+          - generic: 12 件数
+      - row "4A Sticky Note Cube 2.87 x 2.87 Inches, 580 Sheets, Cute Dog… B07F298JNC $12.99 10 件数":
+        - cell "4A Sticky Note Cube 2.87 x 2.87 Inches, 580 Sheets, Cute Dog…":
+          - generic: 4A Sticky Note Cube 2.87 x 2.87 Inches, 580 Sheets, Cute Dog…
+        - cell "B07F298JNC":
+          - generic: B07F298JNC
+        - cell "$12.99":
+          - generic: $12.99
+        - cell "10 件数":
+          - generic: 10 件数
+      - row "4A 6 Pads Sticky Notes 4 x 6 Inches, Pastel Colors, Large Se… B07FKL263W $13.49 7 件数":
+        - cell "4A 6 Pads Sticky Notes 4 x 6 Inches, Pastel Colors, Large Se…":
+          - generic: 4A 6 Pads Sticky Notes 4 x 6 Inches, Pastel Colors, Large Se…
+        - cell "B07FKL263W":
+          - generic: B07FKL263W
+        - cell "$13.49":
+          - generic: $13.49
+        - cell "7 件数":
+          - generic: 7 件数
+      - row "4A Pop-Up Note Dispenser, Black, Work with Sticky Pop-Up Not… B0821LD25K $11.99 1155 件数":
+        - cell "4A Pop-Up Note Dispenser, Black, Work with Sticky Pop-Up Not…":
+          - generic: 4A Pop-Up Note Dispenser, Black, Work with Sticky Pop-Up Not…
+        - cell "B0821LD25K":
+          - generic: B0821LD25K
+        - cell "$11.99":
+          - generic: $11.99
+        - cell "1155 件数":
+          - generic: 1155 件数
+      - row "4A Self-Stick Notes, Classic Assorted, 650 Sheets, MG-ET8D-J… B00SMEE5HU $13.99 5 件数":
+        - cell "4A Self-Stick Notes, Classic Assorted, 650 Sheets, MG-ET8D-J…":
+          - generic: 4A Self-Stick Notes, Classic Assorted, 650 Sheets, MG-ET8D-J…
+        - cell "B00SMEE5HU":
+          - generic: B00SMEE5HU
+        - cell "$13.99":
+          - generic: $13.99
+        - cell "5 件数":
+          - generic: 5 件数
+      - row "4A 3 Pads Divider Sticky Notes Tabs 3 3/8 x 2 3/4 Inches,Whi… B07FK8CJ76 $9.49 145 件数":
+        - cell "4A 3 Pads Divider Sticky Notes Tabs 3 3/8 x 2 3/4 Inches,Whi…":
+          - generic: 4A 3 Pads Divider Sticky Notes Tabs 3 3/8 x 2 3/4 Inches,Whi…
+        - cell "B07FK8CJ76":
+          - generic: B07FK8CJ76
+        - cell "$9.49":
+          - generic: $9.49
+        - cell "145 件数":
+          - generic: 145 件数
+      - row "4A Arrow Shaped Sticky Notes, 2.72 x 2.56 in, 1 Pad, Neon Co… B00SMEEV4C $7.20 5 件数":
+        - cell "4A Arrow Shaped Sticky Notes, 2.72 x 2.56 in, 1 Pad, Neon Co…":
+          - generic: 4A Arrow Shaped Sticky Notes, 2.72 x 2.56 in, 1 Pad, Neon Co…
+        - cell "B00SMEEV4C":
+          - generic: B00SMEEV4C
+        - cell "$7.20":
+          - generic: $7.20
+        - cell "5 件数":
+          - generic: 5 件数
+      - row "4A Back to School Sticky Notes Value Pack, Neon Assorted The… B07T55QCRY $15.99 5 件数":
+        - cell "4A Back to School Sticky Notes Value Pack, Neon Assorted The…":
+          - generic: 4A Back to School Sticky Notes Value Pack, Neon Assorted The…
+        - cell "B07T55QCRY":
+          - generic: B07T55QCRY
+        - cell "$15.99":
+          - generic: $15.99
+        - cell "5 件数":
+          - generic: 5 件数
+      - row "4A Self-Stick Notes, Classic Assorted, 4A SMC 435-FBA B07DLM2QP1 $13.99 5 件数":
+        - cell "4A Self-Stick Notes, Classic Assorted, 4A SMC 435-FBA":
+          - generic: 4A Self-Stick Notes, Classic Assorted, 4A SMC 435-FBA
+        - cell "B07DLM2QP1":
+          - generic: B07DLM2QP1
+        - cell "$13.99":
+          - generic: $13.99
+        - cell "5 件数":
+          - generic: 5 件数
+      - row "4A Sticky Note Bundle Set, Colored Rectangular Notes and Ind… B07J6Q5TTR $12.99 5 件数":
+        - cell "4A Sticky Note Bundle Set, Colored Rectangular Notes and Ind…":
+          - generic: 4A Sticky Note Bundle Set, Colored Rectangular Notes and Ind…
+        - cell "B07J6Q5TTR":
+          - generic: B07J6Q5TTR
+        - cell "$12.99":
+          - generic: $12.99
+        - cell "5 件数":
+          - generic: 5 件数
+      - row "4A Super Sticky,6 x 8 Inches,Extra Bright Color Assorted,Lin… B073VPHSJ9 $13.99 5 件数":
+        - cell "4A Super Sticky,6 x 8 Inches,Extra Bright Color Assorted,Lin…":
+          - generic: 4A Super Sticky,6 x 8 Inches,Extra Bright Color Assorted,Lin…
+        - cell "B073VPHSJ9":
+          - generic: B073VPHSJ9
+        - cell "$13.99":
+          - generic: $13.99
+        - cell "5 件数":
+          - generic: 5 件数
+      - row "4A 8 Pads Lined Sticky Notes with Lines 5 x 8 in, Bright Col… B07RP9MB7Y $19.99 582 件数":
+        - cell "4A 8 Pads Lined Sticky Notes with Lines 5 x 8 in, Bright Col…":
+          - generic: 4A 8 Pads Lined Sticky Notes with Lines 5 x 8 in, Bright Col…
+        - cell "B07RP9MB7Y":
+          - generic: B07RP9MB7Y
+        - cell "$19.99":
+          - generic: $19.99
+        - cell "582 件数":
+          - generic: 582 件数
+      - row "4A Leaf Shaped Sticky Notes, 2.83 x 2.83 in, 1 Pad, Neon Col… B00SMEEN40 $7.20 5 件数":
+        - cell "4A Leaf Shaped Sticky Notes, 2.83 x 2.83 in, 1 Pad, Neon Col…":
+          - generic: 4A Leaf Shaped Sticky Notes, 2.83 x 2.83 in, 1 Pad, Neon Col…
+        - cell "B00SMEEN40":
+          - generic: B00SMEEN40
+        - cell "$7.20":
+          - generic: $7.20
+        - cell "5 件数":
+          - generic: 5 件数
+      - row "4A Shapes Sticky Notes,Heart Shape,3 x 3 Inches,Fluorescent… B00SMEEVC4 $7.20 5 件数":
+        - cell "4A Shapes Sticky Notes,Heart Shape,3 x 3 Inches,Fluorescent…":
+          - generic: 4A Shapes Sticky Notes,Heart Shape,3 x 3 Inches,Fluorescent…
+        - cell "B00SMEEVC4":
+          - generic: B00SMEEVC4
+        - cell "$7.20":
+          - generic: $7.20
+        - cell "5 件数":
+          - generic: 5 件数
+      - row "4A Shapes Sticky Notes,Puzzle,2 7/8 x 2 4/7 Inches,Neon Asso… B07T79KGWF $25.99 5 件数":
+        - cell "4A Shapes Sticky Notes,Puzzle,2 7/8 x 2 4/7 Inches,Neon Asso…":
+          - generic: 4A Shapes Sticky Notes,Puzzle,2 7/8 x 2 4/7 Inches,Neon Asso…
+        - cell "B07T79KGWF":
+          - generic: B07T79KGWF
+        - cell "$25.99":
+          - generic: $25.99
+        - cell "5 件数":
+          - generic: 5 件数
+      - row "4A Sticky Notes, 0.6 x 2 Inches, Small Size,16 Colors, Self-… B07T42J6FY $7.49 5 件数":
+        - cell "4A Sticky Notes, 0.6 x 2 Inches, Small Size,16 Colors, Self-…":
+          - generic: 4A Sticky Notes, 0.6 x 2 Inches, Small Size,16 Colors, Self-…
+        - cell "B07T42J6FY":
+          - generic: B07T42J6FY
+        - cell "$7.49":
+          - generic: $7.49
+        - cell "5 件数":
+          - generic: 5 件数
+      - row "4A Sticky Notes, 1 7/8 x 1 7/8 inches, Small Size, Neon Asso… B07DJG1W71 $9.99 5 件数":
+        - cell "4A Sticky Notes, 1 7/8 x 1 7/8 inches, Small Size, Neon Asso…":
+          - generic: 4A Sticky Notes, 1 7/8 x 1 7/8 inches, Small Size, Neon Asso…
+        - cell "B07DJG1W71":
+          - generic: B07DJG1W71
+        - cell "$9.99":
+          - generic: $9.99
+        - cell "5 件数":
+          - generic: 5 件数
+      - row "4A Super Sticky,4 x 4 Inches,Neon Assorted,Lined,Self-Stick… B073VPFBL6 $14.99 5 件数":
+        - cell "4A Super Sticky,4 x 4 Inches,Neon Assorted,Lined,Self-Stick…":
+          - generic: 4A Super Sticky,4 x 4 Inches,Neon Assorted,Lined,Self-Stick…
+        - cell "B073VPFBL6":
+          - generic: B073VPFBL6
+        - cell "$14.99":
+          - generic: $14.99
+        - cell "5 件数":
+          - generic: 5 件数
+      - row "4A Self-Stick Notes, Neon Assorted, 4A 404-AC-Holder B07Z2555TN $15.99 5 件数":
+        - cell "4A Self-Stick Notes, Neon Assorted, 4A 404-AC-Holder":
+          - generic: 4A Self-Stick Notes, Neon Assorted, 4A 404-AC-Holder
+        - cell "B07Z2555TN":
+          - generic: B07Z2555TN
+        - cell "$15.99":
+          - generic: $15.99
+        - cell "5 件数":
+          - generic: 5 件数
+      - row "4A 3D Shape Printed Sticky Notes Memo Pad, Fennec Fox Print,… B077QLHHVH $5.99 5 件数":
+        - cell "4A 3D Shape Printed Sticky Notes Memo Pad, Fennec Fox Print,…":
+          - generic: 4A 3D Shape Printed Sticky Notes Memo Pad, Fennec Fox Print,…
+        - cell "B077QLHHVH":
+          - generic: B077QLHHVH
+        - cell "$5.99":
+          - generic: $5.99
+        - cell "5 件数":
+          - generic: 5 件数
+      - row "4A Dry Erase White Board Sheet 2.5 x 2.7 FT, Large White Boa… B07FKJGDJR $15.99 536 件数":
+        - cell "4A Dry Erase White Board Sheet 2.5 x 2.7 FT, Large White Boa…":
+          - generic: 4A Dry Erase White Board Sheet 2.5 x 2.7 FT, Large White Boa…
+        - cell "B07FKJGDJR":
+          - generic: B07FKJGDJR
+        - cell "$15.99":
+          - generic: $15.99
+        - cell "536 件数":
+          - generic: 536 件数
+      - row "4A 120 Pcs Pop Up Sticky Tabs 1 x 1.5 in, Writable and Repos… B01N2YL12Y $4.49 12 件数":
+        - cell "4A 120 Pcs Pop Up Sticky Tabs 1 x 1.5 in, Writable and Repos…":
+          - generic: 4A 120 Pcs Pop Up Sticky Tabs 1 x 1.5 in, Writable and Repos…
+        - cell "B01N2YL12Y":
+          - generic: B01N2YL12Y
+        - cell "$4.49":
+          - generic: $4.49
+        - cell "12 件数":
+          - generic: 12 件数
+      - row "4A Sticky Notes, 6 x 8 Inches, 7 Neon color Assorted, Lined,… B07HDVVZ1B $11.99 3 件数":
+        - cell "4A Sticky Notes, 6 x 8 Inches, 7 Neon color Assorted, Lined,…":
+          - generic: 4A Sticky Notes, 6 x 8 Inches, 7 Neon color Assorted, Lined,…
+        - cell "B07HDVVZ1B":
+          - generic: B07HDVVZ1B
+        - cell "$11.99":
+          - generic: $11.99
+        - cell "3 件数":
+          - generic: 3 件数
+      - row "4A Durable File Tabs,Divider Tabs,Page Marker Index Label Fl… B01M986R0Y $8.99 3 件数":
+        - cell "4A Durable File Tabs,Divider Tabs,Page Marker Index Label Fl…":
+          - generic: 4A Durable File Tabs,Divider Tabs,Page Marker Index Label Fl…
+        - cell "B01M986R0Y":
+          - generic: B01M986R0Y
+        - cell "$8.99":
+          - generic: $8.99
+        - cell "3 件数":
+          - generic: 3 件数
+      - row "4A Sticky Notes, 4 x 6 in, 12 Pads, Bright Colors B07RVJB9DL $21.99 109 件数":
+        - cell "4A Sticky Notes, 4 x 6 in, 12 Pads, Bright Colors":
+          - generic: 4A Sticky Notes, 4 x 6 in, 12 Pads, Bright Colors
+        - cell "B07RVJB9DL":
+          - generic: B07RVJB9DL
+        - cell "$21.99":
+          - generic: $21.99
+        - cell "109 件数":
+          - generic: 109 件数
+      - row "4A Sticky Notes Value Pack,Assorted The Most Commonly Used S… B01M3N310M $12.99 3 件数":
+        - cell "4A Sticky Notes Value Pack,Assorted The Most Commonly Used S…":
+          - generic: 4A Sticky Notes Value Pack,Assorted The Most Commonly Used S…
+        - cell "B01M3N310M":
+          - generic: B01M3N310M
+        - cell "$12.99":
+          - generic: $12.99
+        - cell "3 件数":
+          - generic: 3 件数
+      - row "4A 3D Shape Printed Sticky Notes Memo Pad, Ocean World of Th… B0784GHSVJ $5.99 3 件数":
+        - cell "4A 3D Shape Printed Sticky Notes Memo Pad, Ocean World of Th…":
+          - generic: 4A 3D Shape Printed Sticky Notes Memo Pad, Ocean World of Th…
+        - cell "B0784GHSVJ":
+          - generic: B0784GHSVJ
+        - cell "$5.99":
+          - generic: $5.99
+        - cell "3 件数":
+          - generic: 3 件数
+      - row "4A Sticky Note Dispenser Pen Holder Set, Self-Stick Notes, 8… B07DJP6SNG $11.60 3 件数":
+        - cell "4A Sticky Note Dispenser Pen Holder Set, Self-Stick Notes, 8…":
+          - generic: 4A Sticky Note Dispenser Pen Holder Set, Self-Stick Notes, 8…
+        - cell "B07DJP6SNG":
+          - generic: B07DJP6SNG
+        - cell "$11.60":
+          - generic: $11.60
+        - cell "3 件数":
+          - generic: 3 件数
+      - row "4A Sticky Notes Flags Set,Neon Color Index Label, Transparen… B01M2UDADZ $6.99 719 件数":
+        - cell "4A Sticky Notes Flags Set,Neon Color Index Label, Transparen…":
+          - generic: 4A Sticky Notes Flags Set,Neon Color Index Label, Transparen…
+        - cell "B01M2UDADZ":
+          - generic: B01M2UDADZ
+        - cell "$6.99":
+          - generic: $6.99
+        - cell "719 件数":
+          - generic: 719 件数
+      - row "4A Self-Stick Notes, 16 Colors Assorted, 4A 354832-FBA B07T42DXZ1 $14.99 2 件数":
+        - cell "4A Self-Stick Notes, 16 Colors Assorted, 4A 354832-FBA":
+          - generic: 4A Self-Stick Notes, 16 Colors Assorted, 4A 354832-FBA
+        - cell "B07T42DXZ1":
+          - generic: B07T42DXZ1
+        - cell "$14.99":
+          - generic: $14.99
+        - cell "2 件数":
+          - generic: 2 件数
+      - row "4A Sticky Note Cube, 2.87 x 2.87 in, Cat Printed on 4 Sides,… B07FKJDBFT $12.99 534 件数":
+        - cell "4A Sticky Note Cube, 2.87 x 2.87 in, Cat Printed on 4 Sides,…":
+          - generic: 4A Sticky Note Cube, 2.87 x 2.87 in, Cat Printed on 4 Sides,…
+        - cell "B07FKJDBFT":
+          - generic: B07FKJDBFT
+        - cell "$12.99":
+          - generic: $12.99
+        - cell "534 件数":
+          - generic: 534 件数
+      - row "4A Chalkboard Labels, 2.5 x 3.5 in, Black B0821GTX3C $9.99 297 件数":
+        - cell "4A Chalkboard Labels, 2.5 x 3.5 in, Black":
+          - generic: 4A Chalkboard Labels, 2.5 x 3.5 in, Black
+        - cell "B0821GTX3C":
+          - generic: B0821GTX3C
+        - cell "$9.99":
+          - generic: $9.99
+        - cell "297 件数":
+          - generic: 297 件数
+      - row "4A Weekly Planner/Monthly Planner Sticky Pads,Self-Stick Not… B01LPKL5IE $13.99 1 件数":
+        - cell "4A Weekly Planner/Monthly Planner Sticky Pads,Self-Stick Not…":
+          - generic: 4A Weekly Planner/Monthly Planner Sticky Pads,Self-Stick Not…
+        - cell "B01LPKL5IE":
+          - generic: B01LPKL5IE
+        - cell "$13.99":
+          - generic: $13.99
+        - cell "1 件数":
+          - generic: 1 件数
+- button "优惠券设置" [expanded]:
+  - generic: 优惠券设置
+- link "编辑 优惠券设置":
+  - /url: /workflow/coupons/edit/8484057b-7449-41d7-ac34-b40ffec63395/step/2
+  - text: 编辑
+- group "优惠券设置":
+  - strong: 优惠券类型
+  - paragraph: 标准尺寸
+  - strong: 消费群体类型
+  - paragraph: 所有买家
+  - strong: 折扣类型
+  - paragraph: 百分比折扣
+  - strong: 折扣
+  - paragraph: 5折扣 %
+  - strong: 限制每位买家只能兑换一次
+  - paragraph: 否
+- button "更多详情" [expanded]:
+  - generic: 更多详情
+- link "编辑 更多详情":
+  - /url: /workflow/coupons/edit/8484057b-7449-41d7-ac34-b40ffec63395/step/3
+  - text: 编辑
+- group "更多详情":
+  - strong: 起止日期
+  - paragraph: 10月31日 - 11月29日
+  - strong: 预算
+  - paragraph: $100
+  - strong: 优惠券名称
+  - paragraph: 4A Sticky Notes Essentials
+  - strong: 叠加使用的促销
+  - paragraph: 否
+- generic: 预计总费用
+- generic: "|"
+- link "了解有关预计费用的更多信息":
+  - /url: /help/hub/reference/external/GM2HYLSWFBZ267BB
+  - text: 了解更多信息
+- heading "$5.00+" [level=1]
+- paragraph: 2.5占销售额的 %
+- paragraph:
+  - strong: 每件选定商品
+- paragraph: 预付费用
+- paragraph: 可变费用
+- generic: $2,000 帽子
+- paragraph: $5.00
+- paragraph: 2.5占销售额的 %
+- text: 提交此优惠券即表示您接受
+- link "亚马逊优惠券条款和条件":
+  - /url: /help/hub/reference/external/GJ6T3TD3ULSDP9KV
+  - text: 亚马逊优惠券条款和条件
+- button "返回":
+  - text: 返回
+- button "提交" [active]
+- button "Light/dark mode toggle (new)":
+- link "站点地图":
+  - /url: /sitemap
+- link "计划政策":
+  - /url: /help/hub/reference/521
+- generic: © 1999-2026，Amazon.com, Inc. 或其附属公司
+- link "反馈":
+  - /url: "#"

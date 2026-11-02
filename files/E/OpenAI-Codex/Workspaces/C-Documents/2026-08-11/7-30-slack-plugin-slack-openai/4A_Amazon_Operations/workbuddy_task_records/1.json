@@ -1,0 +1,9 @@
+{
+  "subject": "读取跟卖检测文件提取24个候选ASIN",
+  "description": "打开 4A_VC可跟卖检测_2026-08-11.xlsx，提取已确认可跟卖(2款)与待验证(24款)的 VC-ASIN/SL-ASIN 及状态，作为交叉比对基准。",
+  "activeForm": "读取跟卖检测文件提取候选ASIN",
+  "status": "completed",
+  "id": "1",
+  "createdAt": 1786429844180,
+  "updatedAt": 1786430481333
+}

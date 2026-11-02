@@ -1,0 +1,530 @@
+{
+  "version": "2026-10-29 · 图文首版／上传前核样",
+  "intro": "本包依据执行包、爸爸原始 Word 的 22 条意见，以及 E:/QQ文件/1-----4A Stiky notes 中的实物及参考素材制作。英文销售正文与内部核验说明分开；没有修改 Seller Central，也没有覆盖原图。AI 图片为基于实物参考生成的设计审稿，不是实物拍摄或性能测试证据。",
+  "decisions": [
+    "用户已确认实际为22条，不存在缺失的第23—25条。原始Word已重新核对。",
+    "5082-Y-L：包装可见5×8英寸、2本、50张/本、100张总计及横线；旧x2/IMG_1.jpg视觉却出现四本，本版改为两本。现有FBA库存不在本次核验范围。",
+    "406x6三款：包装均可见4×6英寸、6本、100张/本、600张总计。单页为无横线长方形，不能沿用5082的横线纸。",
+    "5×8纸面40平方英寸，3×3纸面9平方英寸，面积比约4.44；4×6纸面24平方英寸，面积比约2.67。对外只写准确面积，不把整个纸面面积等同于有效可写行数。",
+    "406x6-Y原包装写PASTEL YELLOW；执行包建议Classic Canary Yellow。为避免色名与实物冲突，英文Listing和三色图均统一为Yellow。5082亦采用Yellow；没有篡改真实包装原字。",
+    "80 GSM、所有笔类均不渗墨、强力不脱落、无残胶及不卷边均未取得测试资料：不写成绝对保证。保留Smooth Writing Paper与Self-Adhesive等基本描述，实际纸张克重、胶带宽度和适用表面待工厂确认。",
+    "100%满意度保证不放入A+；环保包装、微晶胶技术与可完全替代法律信纸本均不作为已证实卖点。A+与主图遵循Amazon官方规范核查，不以300DPI标签代替实际像素质量。",
+    "三款406x6均是单独销售的6本装；展示三个色款不是一包18本。A+采用同一布局，但不能把Pastel描述不加区别应用于所有子体。"
+  ],
+  "listings": [
+    {
+      "sku": "4A 5082-Y-L",
+      "title": "4A Lined Sticky Notes, 5 x 8 Inches, Yellow, 2 Pads, 50 Sheets per Pad, 100 Sheets Total, Large Self-Stick Notes for Lists, Work and Study",
+      "bullets": [
+        [
+          "Room for the whole list",
+          "The 5 x 8 inch format gives you space for meeting notes, daily tasks and longer reminders on one sheet. Keep the details together instead of spreading a list across several small notes."
+        ],
+        [
+          "Lines that keep thoughts in order",
+          "Ruled pages help you organize checklists, action items and class notes. The yellow background makes handwritten reminders easy to spot among everyday paperwork."
+        ],
+        [
+          "Write, peel and place",
+          "Self-stick sheets let you place a reminder where you will see it. Apply to a clean, dry, smooth surface and press the adhesive area firmly; test delicate surfaces first."
+        ],
+        [
+          "Two pads for your routine",
+          "Includes 2 pads with 50 sheets each, for 100 sheets total. Keep one at your desk and another in your study or household planning area."
+        ],
+        [
+          "For work, home and study",
+          "Use the large lined pages for project steps, study summaries, household lists and daily priorities. A straightforward paper tool for keeping your next task in view."
+        ]
+      ],
+      "description": "Give longer reminders room to breathe. 4A 5082-Y-L combines a large 5 x 8 inch sheet with printed lines for lists, meeting notes and everyday plans. Write down the details, peel off a sheet and place it on a suitable smooth surface. The pack includes two yellow pads, with 50 sheets per pad and 100 sheets in total. Pens, computers and other scene accessories are not included.",
+      "keywords": "large memo pads ruled reminders meeting checklist school study planning household tasks desk organizer self stick writing paper",
+      "note": "按真实2本装编写；标题不称super sticky、不写80GSM或no bleed。主图必须二次核对原纸黄度、横线数量、胶位与厚度。"
+    },
+    {
+      "sku": "4A 406x6 · Pastel",
+      "title": "4A Large Sticky Notes, 4 x 6 Inches, Pastel Colors, 6 Pads, 100 Sheets per Pad, 600 Sheets Total, Unlined Self-Stick Notes for Work and Study",
+      "bullets": [
+        [
+          "Space for the details",
+          "Each 4 x 6 inch sheet offers a roomy rectangular format for meeting notes, project steps and longer reminders. Keep related ideas together on one note."
+        ],
+        [
+          "Smooth writing paper",
+          "Unlined pages leave room for handwritten notes, quick sketches and your own checklist layout. Organize your thoughts without a printed grid or fixed format."
+        ],
+        [
+          "Self-stick convenience",
+          "Place notes on suitable clean, dry, smooth surfaces to keep priorities visible. Press the adhesive area firmly and test delicate surfaces before use."
+        ],
+        [
+          "Pastel Color Set",
+          "Soft assorted colors help you separate projects, subjects or daily priorities. Bring a calmer color palette to your desk, study space or planning board."
+        ],
+        [
+          "Six pads, 600 sheets",
+          "Each pack contains 6 pads with 100 sheets per pad. A practical supply for workers, students and anyone who needs to stay organized."
+        ]
+      ],
+      "description": "Make room for a little more detail. 4A 406x6 large sticky notes pair a 4 x 6 inch unlined page with a soft pastel palette. Use different colors for projects or subjects, jot down a meeting summary, or keep the next step in sight. Each pack includes six pads with 100 sheets each, for 600 sheets total. Color appearance may vary with lighting and display settings. Other color options and scene accessories are sold separately.",
+      "keywords": "large memo pads pastel reminders color coding desk organization school study meeting planning self stick paper unruled",
+      "note": "颜色排列以工厂批次为准；不将参考照片中的每一色阶写成永久固定六色。"
+    },
+    {
+      "sku": "4A 406x6-N · Neon",
+      "title": "4A Large Sticky Notes, 4 x 6 Inches, Neon Colors, 6 Pads, 100 Sheets per Pad, 600 Sheets Total, Unlined Self-Stick Notes for Work and Study",
+      "bullets": [
+        [
+          "Space for the details",
+          "Each 4 x 6 inch sheet offers a roomy rectangular format for meeting notes, project steps and longer reminders. Keep related ideas together on one note."
+        ],
+        [
+          "Smooth writing paper",
+          "Unlined pages leave room for handwritten notes, quick sketches and your own checklist layout. Organize your thoughts without a printed grid or fixed format."
+        ],
+        [
+          "Self-stick convenience",
+          "Place notes on suitable clean, dry, smooth surfaces to keep priorities visible. Press the adhesive area firmly and test delicate surfaces before use."
+        ],
+        [
+          "Neon Color Set",
+          "Bright assorted colors make it easy to distinguish tasks, categories and subjects at a glance. Use color to bring attention to the priorities you want to remember."
+        ],
+        [
+          "Six pads, 600 sheets",
+          "Each pack contains 6 pads with 100 sheets per pad. A practical supply for workers, students and anyone who needs to stay organized."
+        ]
+      ],
+      "description": "Give your plans a brighter place to land. 4A 406x6-N large sticky notes provide a 4 x 6 inch unlined page in assorted neon colors. Color-code projects, capture ideas or leave a clear reminder where it is needed. Each pack includes six pads with 100 sheets each, for 600 sheets total. Other color options and scene accessories are sold separately.",
+      "keywords": "bright memo pads neon reminders color coding project planning classroom meeting tasks self stick paper unruled",
+      "note": "与Pastel/Yellow保持相同尺寸和数量；不要宣称每一批次色值完全一致。"
+    },
+    {
+      "sku": "4A 406x6-Y · Yellow",
+      "title": "4A Large Sticky Notes, 4 x 6 Inches, Yellow, 6 Pads, 100 Sheets per Pad, 600 Sheets Total, Unlined Self-Stick Notes for Work, Home and Study",
+      "bullets": [
+        [
+          "Space for the details",
+          "Each 4 x 6 inch sheet offers a roomy rectangular format for meeting notes, project steps and longer reminders. Keep related ideas together on one note."
+        ],
+        [
+          "Smooth writing paper",
+          "Unlined pages leave room for handwritten notes, quick sketches and your own checklist layout. Organize your thoughts without a printed grid or fixed format."
+        ],
+        [
+          "Self-stick convenience",
+          "Place notes on suitable clean, dry, smooth surfaces to keep priorities visible. Press the adhesive area firmly and test delicate surfaces before use."
+        ],
+        [
+          "An everyday yellow",
+          "A familiar yellow background keeps your notes visually consistent. Use it for office reminders, household lists and study notes without switching between colors."
+        ],
+        [
+          "Six pads, 600 sheets",
+          "Each pack contains 6 pads with 100 sheets per pad. A practical supply for workers, students and anyone who needs to stay organized."
+        ]
+      ],
+      "description": "Keep everyday notes simple and easy to find. 4A 406x6-Y large sticky notes offer a 4 x 6 inch unlined page in yellow for lists, project details and study reminders. Each pack contains six pads with 100 sheets per pad, for 600 sheets total. Apply notes to appropriate smooth surfaces and test delicate finishes first. Scene accessories are not included.",
+      "keywords": "yellow memo pads large reminders desk organization meeting notes checklist school study planning unruled self stick paper",
+      "note": "最终色名用Yellow。确认后台及实物名称之后才统一为Classic Canary Yellow，不改动真实包装印刷。"
+    }
+  ],
+  "ap406": [
+    {
+      "id": "A1",
+      "headline": "Room for more than a reminder.",
+      "sub": "4 x 6 in large sticky notes for the details that matter.",
+      "image": "406_A1.png",
+      "cards": [
+        [
+          "Keep ideas together",
+          "Capture a meeting summary, project outline or next-step list on one roomy rectangular sheet."
+        ],
+        [
+          "Make it your own",
+          "The unlined format leaves space for lists, sketches and the way you prefer to plan."
+        ],
+        [
+          "Keep notes close",
+          "Six pads provide 600 sheets in total, ready for everyday work, study and household reminders."
+        ]
+      ],
+      "alt": "A six-pad pastel 4A sticky note pack on a light desk beside a pen.",
+      "layout": "首屏图＋三张文字卡。Pastel首屏不应在Yellow子体上暗示收到混色；共用A+时优先搭配A4三色选购图。"
+    },
+    {
+      "id": "A2",
+      "headline": "Comparison with Regular Sizes",
+      "sub": "24 sq in of sheet area, compared with 9 sq in for a 3 x 3 in note.",
+      "image": "406_A2.png",
+      "cards": [
+        [
+          "4 x 6 in",
+          "A portrait rectangle with room for longer reminders and structured lists."
+        ],
+        [
+          "Same scale",
+          "The size comparison shows the two sheet formats at the same scale, without enlarging the smaller note."
+        ],
+        [
+          "Choose by the task",
+          "Use a larger sheet when a short reminder needs more context, details or next steps."
+        ]
+      ],
+      "alt": "A four by six inch rectangular note compared at the same scale with a three by three inch square note.",
+      "layout": "尺寸图＋三卡。数字指整张纸面积，非书写效率、胶面积或行数。尺寸仅英制。"
+    },
+    {
+      "id": "A3",
+      "headline": "Smooth Writing Paper",
+      "sub": "A simple place to write, plan and keep your next step in view.",
+      "image": "406_A3.png",
+      "cards": [
+        [
+          "Write your way",
+          "Use the open, unlined page for notes, lists and small sketches."
+        ],
+        [
+          "Self-adhesive backing",
+          "Position a reminder on a suitable clean, dry, smooth surface and press the adhesive area firmly."
+        ],
+        [
+          "Choose the right surface",
+          "Test delicate finishes first. Adhesion and removal can vary with the surface and conditions of use."
+        ]
+      ],
+      "alt": "A pen writing on pastel paper beside a schematic view of the adhesive area on the back of a sheet.",
+      "layout": "细节图＋三卡。胶层仅结构示意，不宣称具体胶配方；顶部胶位需实物核验。不能把示意图当显微证据。"
+    },
+    {
+      "id": "A4",
+      "headline": "Find your everyday color.",
+      "sub": "The same 4 x 6 in format in three color options. Each option sold separately.",
+      "image": "406_A4.png",
+      "cards": [
+        [
+          "Pastel Color Set",
+          "Soft assorted colors for a calmer-looking desk and color-coded projects."
+        ],
+        [
+          "Neon Color Set",
+          "Bright assorted colors for separating subjects, categories and daily priorities."
+        ],
+        [
+          "Yellow",
+          "A consistent, familiar yellow for everyday notes at work, home or school."
+        ]
+      ],
+      "alt": "Pastel, neon and yellow 4A six-pad packs displayed side by side at a similar scale.",
+      "layout": "三色选购图＋三卡。已返修为Yellow并移除右侧笔记本。每款独立6本装；AI包装小字仍需核验。"
+    }
+  ],
+  "ap5082": [
+    {
+      "headline": "Room for the whole list",
+      "sub": "Large 5 x 8 in lined sticky notes, made for the details.",
+      "image": "5082_02.png",
+      "cards": [
+        [
+          "Plan the day",
+          "Keep daily tasks and next steps together on one page."
+        ],
+        [
+          "Capture the details",
+          "Use a larger format for meeting summaries and study notes."
+        ],
+        [
+          "Keep it readable",
+          "Printed lines guide handwritten lists and reminders."
+        ]
+      ]
+    },
+    {
+      "headline": "A little structure for your thoughts",
+      "sub": "Lined pages for lists, notes and next steps.",
+      "image": "5082_03.png",
+      "cards": [
+        [
+          "List it",
+          "Create a checklist in the order that works for you."
+        ],
+        [
+          "Write it",
+          "Leave enough room to add the context behind each task."
+        ],
+        [
+          "Review it",
+          "Keep your notes easy to revisit during the day."
+        ]
+      ]
+    },
+    {
+      "headline": "Keep everyday reminders in view",
+      "sub": "For suitable smooth surfaces at work, home and in your study space.",
+      "image": "5082_05.png",
+      "cards": [
+        [
+          "Office",
+          "Keep the next meeting action close to your workspace."
+        ],
+        [
+          "Home",
+          "Write a household list or an everyday reminder."
+        ],
+        [
+          "Study",
+          "Group key points and next steps as you work through a topic."
+        ]
+      ]
+    },
+    {
+      "headline": "Two pads. One hundred sheets.",
+      "sub": "2 pads × 50 sheets per pad. Each sheet measures 5 x 8 in.",
+      "image": "5082_06.png",
+      "cards": [
+        [
+          "One for the desk",
+          "Keep a pad close when an idea or task comes up."
+        ],
+        [
+          "One for another space",
+          "Place the second pad in your study or household planning area."
+        ],
+        [
+          "A simple daily tool",
+          "Yellow lined paper for lists, notes and reminders."
+        ]
+      ]
+    }
+  ],
+  "images": [
+    [
+      "5082_01.png",
+      "5082｜01 主图",
+      "纯白背景、仅两本；无宣传文字和道具。核对行数、纸色、胶位、真实厚度后才可作为主图上传。",
+      "Two yellow lined sticky note pads on a white background."
+    ],
+    [
+      "5082_02.png",
+      "5082｜02 尺寸对比",
+      "正确纸面面积40对9；去掉错误2X及160%。生成式几何需按标注二次校准。",
+      "A five by eight inch lined note beside a three by three inch note."
+    ],
+    [
+      "5082_03.png",
+      "5082｜03 书写细节",
+      "不使用80GSM、No Ink Bleed-Through绝对表述。",
+      "A pen beside a handwritten daily task list on yellow lined paper."
+    ],
+    [
+      "5082_04.png",
+      "5082｜04 使用方法",
+      "撕取中的弯曲不等于贴附后翘角；实际胶位与侧撕动作仍需工厂核验。",
+      "A sheet being peeled from a pad and placed on a smooth whiteboard."
+    ],
+    [
+      "5082_05.png",
+      "5082｜05 多场景",
+      "Office / Home / Study。生成场景不作为耐久黏性实测。",
+      "Yellow lined reminders used in office, home and study settings."
+    ],
+    [
+      "5082_06.png",
+      "5082｜06 规格数量",
+      "两本、50张/本、100张；不伪造环保包装。",
+      "Two lined pads with their pack quantity and sheet counts."
+    ],
+    [
+      "5082_07.png",
+      "5082｜07 品牌场景",
+      "使用两句批准口号；不放100%满意度保证。",
+      "Yellow lined pads on a desk with the 4A stationery brand message."
+    ],
+    [
+      "406_A1.png",
+      "406x6｜A1 首屏",
+      "实物包装参考；生成的细小封面字、条码不视为可生产原稿。",
+      "A pastel six-pad pack on a clean desk."
+    ],
+    [
+      "406_A2.png",
+      "406x6｜A2 尺寸",
+      "仅4×6与3×3英制；保留真实2:3矩形。",
+      "A four by six inch note compared with a three by three inch note."
+    ],
+    [
+      "406_A3.png",
+      "406x6｜A3 纸张与背胶",
+      "Smooth Writing Paper；薄胶示意，非微晶技术或性能测试。",
+      "Writing paper and a schematic adhesive detail."
+    ],
+    [
+      "406_A4.png",
+      "406x6｜A4 三色选购",
+      "等大等宽；每色独立销售。Yellow色名及包装文字需确认。",
+      "Three separately sold six-pad color options at equal scale."
+    ],
+    [
+      "406_A5.png",
+      "406x6｜补充场景",
+      "用于落实爸爸第6、14、15条，可替换A1或作为第五模块；最终图片槽位以后台为准。",
+      "Flat rectangular sticky notes used around an office, home and study space."
+    ]
+  ],
+  "checklist": [
+    [
+      1,
+      "Assorted字距",
+      "正文采用清晰无衬线字体；Pastel主标不再塞入Assorted。",
+      "文案完成；字距由成图目视核验"
+    ],
+    [
+      2,
+      "Inch字母i缺失",
+      "统一4 x 6 in Large Sticky Notes，避免旧图缺字。",
+      "文案完成"
+    ],
+    [
+      3,
+      "Assorted与Pastel加斜杠",
+      "与第12条按位置区分：旧通用行可用Assorted / Pastel；最终Pastel主标优先第12条。",
+      "冲突已解释，不混用三款"
+    ],
+    [
+      4,
+      "删除Our product，下移尺寸",
+      "A2去掉Our product，尺寸标签与对应纸张分组。",
+      "新构图执行；非原图像素级修复"
+    ],
+    [
+      5,
+      "Regular Sizes",
+      "A2使用Comparison with Regular Sizes。",
+      "已采用"
+    ],
+    [
+      6,
+      "去掉Forgetful People",
+      "五点使用完整正向人群；场景图用自然英文For workers, students and anyone who needs to stay organized。",
+      "已采用，无负面标签"
+    ],
+    [
+      7,
+      "调整尺寸畸变",
+      "生成约束锁定4:6，需用原图比对视觉比例。",
+      "有约束；最终几何需核样"
+    ],
+    [
+      8,
+      "正面用自家底卡",
+      "A1/A4引用自家三色真实封面。",
+      "参考已绑定；细小字需实图回贴或重拍"
+    ],
+    [
+      9,
+      "真实4x6尺寸",
+      "A2仅4 x 6 in；方形便签不替代矩形。",
+      "文案完成；几何见审稿提示"
+    ],
+    [
+      10,
+      "各本堆叠平整",
+      "要求6本齐边、无缝隙，避免虚构厚度。",
+      "需逐图确认层数与缝隙"
+    ],
+    [
+      11,
+      "字体清晰同色",
+      "正文独立可复制，不依赖旧截图；PNG仍是栅格文字。",
+      "不冒充矢量或300DPI印刷源文件"
+    ],
+    [
+      12,
+      "Pastel Color Set",
+      "统一Pastel对应主标。",
+      "已采用"
+    ],
+    [
+      13,
+      "Y与N等尺寸",
+      "A4三列并列等大，同为6本装。",
+      "已要求；透视厚度待核样"
+    ],
+    [
+      14,
+      "墙上纸为4x6",
+      "补充A5场景要求2:3矩形、平整贴附。",
+      "场景审稿"
+    ],
+    [
+      15,
+      "Everywhere清晰",
+      "补充A5写Stay Organized Everywhere。",
+      "已采用"
+    ],
+    [
+      16,
+      "Smooth Writing Paper",
+      "A3及406五点统一此用词。",
+      "已采用"
+    ],
+    [
+      17,
+      "胶层轻薄",
+      "改薄层示意；不沿用执行包无依据的微晶胶术语。",
+      "实际胶位宽度待确认"
+    ],
+    [
+      18,
+      "浅灰阴影",
+      "全套要求柔和浅灰接触阴影。",
+      "新图审稿；非逐像素rgba保证"
+    ],
+    [
+      19,
+      "更换两句品牌口号",
+      "5082品牌图和全套文案采用两句指定英文。",
+      "已采用；406可在A+文本栏放置"
+    ],
+    [
+      20,
+      "换成更小自家产品",
+      "本版先删除抢镜大笔记本；不把未核对的小文具当作套装赠品。",
+      "移除已执行；配入另一自家型号待确认"
+    ],
+    [
+      21,
+      "中间卡片不变形、齐边",
+      "A1/A4强调包装比例及层边对齐。",
+      "AI封面小字仍需复核，不标记完全修复"
+    ],
+    [
+      22,
+      "去厘米并居中",
+      "新增尺寸文案全部英制；保留真实包装原印刷，不擅自篡改实物底卡上的公制字样。",
+      "新标注已采用；包装原字保留"
+    ]
+  ],
+  "sources": [
+    [
+      "执行包",
+      "E:/Desktop/4A_图片与A+优化方案_GPT直接执行包.md"
+    ],
+    [
+      "爸爸原始22条意见",
+      "E:/QQ文件/1-----4A Stiky notes/Variation Family-406x6系列/A+/套1（细节已修改）/406x6系列A+修改想法.docx"
+    ],
+    [
+      "实物与参考图片根目录",
+      "E:/QQ文件/1-----4A Stiky notes"
+    ],
+    [
+      "Amazon Product image requirements",
+      "https://sellercentral.amazon.com/help/hub/reference/external/G1881?locale=en_us"
+    ],
+    [
+      "Amazon A+ Content guidelines",
+      "https://sellercentral.amazon.com/gp/help/external/help.html?itemID=GW8U76SSNTRTBX7&language=en_US"
+    ]
+  ]
+}

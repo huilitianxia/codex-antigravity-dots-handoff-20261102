@@ -1,0 +1,235 @@
+{
+  "sku": "4A 303M-PNx12",
+  "asin": "B07B7JF9LB",
+  "spec": "3 × 3 in · 12 pads × 100 sheets · 1,200 sheets · Color-cycling pages",
+  "checked_at": "2026-10-30 Asia/Shanghai",
+  "catalog_url": "https://www.amazon.com/dp/B07B7JF9LB",
+  "catalog_evidence": "../_核验依据/Amazon_catalog_20261030.json",
+  "catalog_correction": "对应Magic cyclic款，每本内部四种纸色循环，不是四种纯色各三本。现有图有混合霓虹及粉彩组合，未固定承诺各色数量。未采用普通pop-up分配器兼容承诺。",
+  "workbook_source": {
+    "file": "C:/Users/24243/Documents/Codex/2026-08-11/7-30-slack-plugin-slack-openai/4A_Amazon_Operations/source_workbooks/亚马逊供应商和开店总表-2026 (1).xlsx",
+    "sheet": "Sheet1",
+    "identity": "A220:G220",
+    "note": "本行物流数值存在列位偏移，未用其O:Q推算产品尺寸。3×3采用标题、包装与当前五点一致字段。"
+  },
+  "reference_files": [
+    {
+      "original": "E:/Desktop/待上架_新图文素材库_第四批/_核验依据/B07B7JF9LB_02.jpg",
+      "copy": "原图参考/01_B07B7JF9LB_02.jpg",
+      "sha256": "e79cee446cb6e9276ab855c885d9e4f34b5216765231e616bcc0710adee6aff9"
+    },
+    {
+      "original": "E:/Desktop/待上架_新图文素材库_第四批/_核验依据/B07B7JF9LB_03.jpg",
+      "copy": "原图参考/02_B07B7JF9LB_03.jpg",
+      "sha256": "46d448d0429a4d3ee52b9f3c3194cb2388856aa17668e3aa03a5b93023c85297"
+    },
+    {
+      "original": "D:/4A/印刷用图片/电商/亚马逊图片-2021/13----4A Magic Sticky Notes/303M-PNX12/303M-PNX12-7.jpg",
+      "copy": "原图参考/03_303M-PNX12-7.jpg",
+      "sha256": "10a4b84cb3e110973ada26f84e61fc12233d1ab5624003fc4a7d296d6d6eb2f3"
+    }
+  ],
+  "images": [
+    {
+      "id": "303M_01",
+      "title": "主图｜12本循环色",
+      "type": "main",
+      "order": 1,
+      "sku": "4A 303M-PNx12",
+      "asin": "B07B7JF9LB",
+      "file": "交付候选_2000px/303M_01.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-6d880428-443c-480b-bd8c-521cc087422b.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/303M_01.png",
+      "resize_method": "透明生成源图按alpha裁切，Lanczos3等比缩放，居中合成RGB255白底",
+      "reference_files": [
+        "原图参考/01_B07B7JF9LB_02.jpg",
+        "原图参考/02_B07B7JF9LB_03.jpg",
+        "原图参考/03_303M-PNX12-7.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "十二本可数，翻页呈现同本颜色变化；未画成四种纯色各三本。",
+      "remaining_checks": "每本真实色序、循环细节、批次组合与纸厚需核样；非pop-up款。",
+      "technical": {
+        "background_rgb": [
+          255,
+          255,
+          255
+        ],
+        "border60_checked": 465600,
+        "border60_white": 465600,
+        "white_background_pass": true,
+        "safety_margins_including_shadow": [
+          66,
+          78,
+          66,
+          78
+        ],
+        "margin_pass": true,
+        "product_bbox_alpha230": {
+          "left": 111,
+          "top": 403,
+          "width": 1791,
+          "height": 1299
+        },
+        "product_longest_span_percent": 89.55,
+        "occupancy_pass": true,
+        "occupancy_definition": "alpha>230实体近似外接框最长边/2000；不是画幅面积占比。"
+      },
+      "sha256": "1682aec69661b7324118430c74b85c686ee0e9b290415d8bfecc12c82f25e160"
+    },
+    {
+      "id": "303M_02",
+      "title": "3×3尺寸与1200张",
+      "type": "secondary",
+      "order": 2,
+      "sku": "4A 303M-PNx12",
+      "asin": "B07B7JF9LB",
+      "file": "交付候选_2000px/303M_02.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:/Desktop/待上架_新图文素材库_第四批/303M/生成源图/303M_02_exact.svg",
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "source_copy": "生成源图/303M_02_exact.svg",
+      "resize_method": "原生2000×2000 SVG规格图；纸面按精确比例绘制后渲染PNG",
+      "reference_files": [
+        "原图参考/01_B07B7JF9LB_02.jpg",
+        "原图参考/02_B07B7JF9LB_03.jpg",
+        "原图参考/03_303M-PNX12-7.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "原生3:3 SVG；12×100=1200；四页换色仅为机制示意。",
+      "remaining_checks": "不承诺四色各三本、不声明通用分配器兼容，也不把PNG叫原生8K。",
+      "technical": {
+        "square_px": [
+          690,
+          690
+        ],
+        "square_inches": [
+          3,
+          3
+        ],
+        "total_sheets": 1200
+      },
+      "sha256": "8b92d4656471b6c40591c73d36ebd33903c5be88882a78dde3b50f2087ba347b"
+    },
+    {
+      "id": "303M_03",
+      "title": "撕取换色与贴附",
+      "type": "secondary",
+      "order": 3,
+      "sku": "4A 303M-PNx12",
+      "asin": "B07B7JF9LB",
+      "file": "交付候选_2000px/303M_03.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-3f84c9dd-6d39-4229-80b6-d1668d1c1938.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/303M_03_v2.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07B7JF9LB_02.jpg",
+        "原图参考/02_B07B7JF9LB_03.jpg",
+        "原图参考/03_303M-PNX12-7.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "已返修为细密循环色纸边；玻璃面三张单纸平贴；无劣质竞品虚构对比。",
+      "remaining_checks": "具体纸色顺序、实际胶位及反复贴附性能仍需实物核验。",
+      "technical": {},
+      "sha256": "114584c67666e94de741196d89f58230884105f22595d040862beb41d9c28ae8"
+    },
+    {
+      "id": "303M_04",
+      "title": "团队Kanban看板",
+      "type": "secondary",
+      "order": 4,
+      "sku": "4A 303M-PNx12",
+      "asin": "B07B7JF9LB",
+      "file": "交付候选_2000px/303M_04.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-e9fc8b57-6e1e-463f-a886-b2d7c00c6b5e.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/303M_04_v2.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07B7JF9LB_02.jpg",
+        "原图参考/02_B07B7JF9LB_03.jpg",
+        "原图参考/03_303M-PNX12-7.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "已返修：看板六张单纸，无整本贴墙；标题和任务清楚。",
+      "remaining_checks": "场景比例与实物批次色值需核样；未作效率或成果保证。",
+      "technical": {},
+      "sha256": "d48ebadc85a000dc45a51fbd9d8bd2cbfb66a4c54542d1d5b16e5924140bf7c2"
+    },
+    {
+      "id": "303M_05",
+      "title": "日常书写",
+      "type": "secondary",
+      "order": 5,
+      "sku": "4A 303M-PNx12",
+      "asin": "B07B7JF9LB",
+      "file": "交付候选_2000px/303M_05.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-195b2f43-5313-4929-9cbe-7388d485c603.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/303M_05_v2.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07B7JF9LB_02.jpg",
+        "原图参考/02_B07B7JF9LB_03.jpg",
+        "原图参考/03_303M-PNX12-7.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "已返修为单张粉纸日常书写，删除错误厚色块；1200张规格正确。",
+      "remaining_checks": "未把生成画面称为透墨测试，不使用80GSM或20%更厚数据。",
+      "technical": {},
+      "sha256": "274d0b541ad60bbef67061c1270db21a89c1bcf5fdc8e79baa0647de0c199415"
+    }
+  ],
+  "global_note": "本地设计交付，不等于实物核样或Amazon上架批准。未加入缺乏证据的80 GSM承诺。原始素材保留。"
+}

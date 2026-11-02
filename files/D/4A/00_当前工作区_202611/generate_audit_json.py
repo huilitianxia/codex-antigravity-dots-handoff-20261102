@@ -1,0 +1,817 @@
+import json
+
+audit_data = [
+    {
+        "sku": "4A092",
+        "asin": "B00SMEDUWQ",
+        "exact_mfn_declared_quantity": 6.0,
+        "listing_status": "Active",
+        "conflicting_fields": ["color"],
+        "error_codes": ["8541", "101265"],
+        "error_messages": {
+            "8541": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B00SMEDUWQ, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"Colors-s434\", en_SG: \"Colors-s434\", en_IE: \"Colors-s434\" and 34 other variant(s)]).",
+            "101265": "552.0 USD sales forecast on FBA conversion for this offer in the next 90 days."
+        },
+        "merchant_conflicting_value": "Classic Assorted",
+        "amazon_catalog_conflicting_value": "Colors-s434",
+        "category_report_snapshot": {
+            "template_row_index": 675,
+            "title": "4A Sticky Memo Cube,2 1/2 Inches,Bubble Patterned Printed On The Four Sides,Self-Stick Notes Cube,About 500 Sheets/Cube,1 Cube/Pack,4A SMC 434",
+            "color": "Classic Assorted",
+            "color_map": None,
+            "manufacturer": "4A（USA）LIMITED",
+            "model_number": None,
+            "product_type": "SELF_STICK_NOTE",
+            "parent_sku": "PARENT-4A-MEMO-NOTE-CUBES",
+            "product_id": "B00SMEDUWQ",
+            "product_id_type": "ASIN"
+        },
+        "master_sheet_evidence": {
+            "sheet": "Sheet1",
+            "row_index": 125,
+            "master_sku": "4A SMC 434",
+            "vc_upc": "702877124000",
+            "sl_upc": "702877119617",
+            "vc_asin": "B00SMEDUWQ",
+            "sl_asin": "B01N5K2S2V",
+            "master_title": "4A Sticky Memo Cube,2 1/2 Inches,Bubble Patterned Printed On The Four Sides,Self-Stick Notes Cube,About 500 Sheets/Cube,1 Cube/Pack,4A SMC 434"
+        },
+        "physical_photo_evidence": {
+            "matched_folders": [
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\9-----4A Memo Cube\\4A SMC 434",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\9-----4A Memo Cube\\4A SMC 434",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\9-----4A Memo Cube\\SMC 434"
+            ],
+            "inspected_image_files": [
+                "702877124000.pt01.jpg",
+                "702877124000.main.png",
+                "4A SMC 434.JPG"
+            ],
+            "key_packaging_image": "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\9-----4A Memo Cube\\4A SMC 434\\702877124000.pt01.jpg",
+            "physical_visual_description": "White memo note cube featuring vibrant multicolored circular bubble pattern printed on all 4 vertical outer sides. Matches model SMC 434."
+        },
+        "audit_classification": "SAFE_CATALOG_MATCH_PROVEN",
+        "classification_justification": "Physical photos, listing title, and Master Sheet confirm product is model SMC 434 with 4-side bubble pattern. Amazon catalog variation color value 'Colors-s434' is genuinely accurate for this model under parent PARENT-4A-MEMO-NOTE-CUBES. The seller's submitted value 'Classic Assorted' was an unverified blanket overwrite (the sheets are not assorted colors)."
+    },
+    {
+        "sku": "4A PSS 9-5 NB",
+        "asin": "B00V9Z5PS2",
+        "exact_mfn_declared_quantity": 45.0,
+        "listing_status": "Active",
+        "conflicting_fields": ["standard_product_id"],
+        "error_codes": ["8541", "101265"],
+        "error_messages": {
+            "8541": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B00V9Z5PS2, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'standard_product_id' (Merchant [\"00702877119600\"] / Amazon [\"00702877123140\"]).",
+            "101265": "261.0 USD sales forecast on FBA conversion for this offer in the next 90 days."
+        },
+        "merchant_conflicting_value": "00702877119600",
+        "amazon_catalog_conflicting_value": "00702877123140",
+        "category_report_snapshot": {
+            "template_row_index": 566,
+            "title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 0.4 x 315 Inches,Neon Pink/Orange/Green/Blue/Purple,Self-Stick Notes,5 Color/Roll,1 Roll/Pack,4A PSS 9-5 NB",
+            "color": "Neon Assorted",
+            "color_map": None,
+            "manufacturer": "4A（USA）LIMITED",
+            "model_number": None,
+            "product_type": "SELF_STICK_NOTE",
+            "parent_sku": "PARENT-4A-PSS-ROLL-TAPE",
+            "product_id": "B00V9Z5PS2",
+            "product_id_type": "ASIN"
+        },
+        "master_sheet_evidence": {
+            "sheet": "Sheet1",
+            "row_index": 121,
+            "master_sku": "4A PSS 9-3 BGR / 4A PSS 9-5 series",
+            "vc_upc": "702877123140 (as seen on physical packaging)",
+            "sl_upc": "702877119600 (seller internal SL-UPC)",
+            "vc_asin": "B00V9Z5PS2",
+            "sl_asin": "B00V9Z5PS2",
+            "master_title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 0.4 x 315 Inches,Neon Assorted..."
+        },
+        "physical_photo_evidence": {
+            "matched_folders": [
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\8-----4A Roll Sticky Notes\\4A PSS 9-5 NB",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\8-----4A Roll Sticky Notes\\PSS 9-5 NB"
+            ],
+            "inspected_image_files": [
+                "702877123140.MAIN.jpg",
+                "702877123140.PT01.jpg",
+                "702877123140-1.jpg"
+            ],
+            "key_packaging_image": "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\8-----4A Roll Sticky Notes\\4A PSS 9-5 NB\\702877123140.MAIN.jpg",
+            "physical_visual_description": "Clear plastic box packaging with round printed product label reading '4A(USA) LIMITED', 'Item No: 4A PSS 9-5 NB', 'Size: 2/5 x 315 in; 5 rolls', and printed barcode clearly displaying number 7 02877 12314 0."
+        },
+        "audit_classification": "SAFE_CATALOG_MATCH_PROVEN",
+        "classification_justification": "The physical packaging label directly prints barcode 702877123140. Amazon catalog's standard_product_id value '00702877123140' is 100% genuine and verified by primary packaging evidence. Merchant's submitted value '00702877119600' was an unverified overwrite."
+    },
+    {
+        "sku": "4A 0153",
+        "asin": "B077QFD8G7",
+        "exact_mfn_declared_quantity": 3.0,
+        "listing_status": "Active",
+        "conflicting_fields": ["color"],
+        "error_codes": ["8541"],
+        "error_messages": {
+            "8541": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B077QFD8G7, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"White-tiger\", en_GB: \"White-tiger\", en_CA: \"South China Tiger\" and 6 other variant(s)])."
+        },
+        "merchant_conflicting_value": "Classic Assorted",
+        "amazon_catalog_conflicting_value": "White-tiger",
+        "category_report_snapshot": {
+            "template_row_index": 81,
+            "title": "4A 3D Shape Printed Sticky Notes Memo Pad, Tiger Print, 3.35 x 3.75 Inches, Cute Sticky Notes for Note Taking Reminders Office Home School Supplies, 100 Sheets/Pad",
+            "color": "Classic Assorted",
+            "color_map": None,
+            "manufacturer": "China",
+            "model_number": "4A 0153",
+            "product_type": "SELF_STICK_NOTE",
+            "parent_sku": "PARENT-4A-SHAPED-NOVELTY-PADS",
+            "product_id": "B077QFD8G7",
+            "product_id_type": "ASIN"
+        },
+        "master_sheet_evidence": {
+            "sheet": "Sheet1",
+            "row_index": 190,
+            "master_sku": "4A 8065",
+            "vc_upc": "702877118474",
+            "sl_upc": "702877120675",
+            "vc_asin": "B01MT8EUXS",
+            "sl_asin": "B077QFD8G7",
+            "master_title": "4A 3D Shape Printed Sticky Notes,Cute Designs,Printed With Tiger Pattern,Self-Stick Notes,100 Sheets/Pad,1 Pad/Pack,4A 8065"
+        },
+        "physical_photo_evidence": {
+            "matched_folders": [
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\19----3D Printed Sticky Notes\\8065",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\19----3D printed sticky notes\\8065"
+            ],
+            "inspected_image_files": [
+                "4A-8065-1.jpg",
+                "702877118474.MAIN.jpg",
+                "4A-8065-2.JPG"
+            ],
+            "key_packaging_image": "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\19----3D Printed Sticky Notes\\8065\\4A-8065-1.jpg",
+            "physical_visual_description": "3D shaped die-cut memo pad with tiger face illustration printed on white base paper with scalloped edge. Matches model 8065 / 4A 0153."
+        },
+        "audit_classification": "SAFE_CATALOG_MATCH_PROVEN",
+        "classification_justification": "Physical photo, Master Sheet, and listing title confirm the product is a Tiger print memo pad. Amazon catalog's variation color value 'White-tiger' genuinely describes this design variant under parent PARENT-4A-SHAPED-NOVELTY-PADS. Merchant value 'Classic Assorted' was an unverified blanket overwrite."
+    },
+    {
+        "sku": "4A 0154",
+        "asin": "B078BQ7G72",
+        "exact_mfn_declared_quantity": 12.0,
+        "listing_status": "Active",
+        "conflicting_fields": ["color"],
+        "error_codes": ["8541"],
+        "error_messages": {
+            "8541": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B078BQ7G72, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"White-havana Dog\", en_GB: \"White-havana Dog\", en_CA: \"White-havana Dog\" and 4 other variant(s)])."
+        },
+        "merchant_conflicting_value": "Classic Assorted",
+        "amazon_catalog_conflicting_value": "White-havana Dog",
+        "category_report_snapshot": {
+            "template_row_index": 82,
+            "title": "4A 3D Shape Printed Sticky Notes Memo Pad, Havana Dog Print, 3.35 x 3.75 Inches, Cute Sticky Notes for Note Taking Reminders Office Home School Supplies, 100 Sheets/Pad",
+            "color": "Classic Assorted",
+            "color_map": None,
+            "manufacturer": "China",
+            "model_number": "4A 0154",
+            "product_type": "SELF_STICK_NOTE",
+            "parent_sku": "PARENT-4A-SHAPED-NOVELTY-PADS",
+            "product_id": "B078BQ7G72",
+            "product_id_type": "ASIN"
+        },
+        "master_sheet_evidence": {
+            "sheet": "Sheet1",
+            "row_index": 191,
+            "master_sku": "4A 8066",
+            "vc_upc": "702877118467",
+            "sl_upc": "702877120682",
+            "vc_asin": "B01N5OOZ39",
+            "sl_asin": "B078BQ7G72",
+            "master_title": "4A 3D Shape Printed Sticky Notes,Cute Designs,Printed With Havana Dog Pattern,Self-Stick Notes,100 Sheets/Pad,1 Pad/Pack,4A 8066"
+        },
+        "physical_photo_evidence": {
+            "matched_folders": [
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\19----3D Printed Sticky Notes\\8066",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\19----3D printed sticky notes\\8066"
+            ],
+            "inspected_image_files": [
+                "4A-8066-1.jpg",
+                "702877118467.main.jpg",
+                "4A-8066-2.jpg"
+            ],
+            "key_packaging_image": "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\19----3D Printed Sticky Notes\\8066\\4A-8066-1.jpg",
+            "physical_visual_description": "3D shaped die-cut memo pad with Havana dog face printed on white paper. Matches model 8066 / 4A 0154."
+        },
+        "audit_classification": "SAFE_CATALOG_MATCH_PROVEN",
+        "classification_justification": "Physical photo, Master Sheet, and listing title confirm product is a Havana Dog print memo pad. Amazon catalog's variation color value 'White-havana Dog' genuinely describes this design variant under parent PARENT-4A-SHAPED-NOVELTY-PADS. Merchant value 'Classic Assorted' was an unverified blanket overwrite."
+    },
+    {
+        "sku": "4A 0155",
+        "asin": "B0784GDSY2",
+        "exact_mfn_declared_quantity": 12.0,
+        "listing_status": "Active",
+        "conflicting_fields": ["color"],
+        "error_codes": ["8541", "101265"],
+        "error_messages": {
+            "8541": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B0784GDSY2, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"White-berman Cat\", en_GB: \"White-berman Cat\", en_CA: \"White-berman Cat\" and 6 other variant(s)]).",
+            "101265": "150.0 USD sales forecast on FBA conversion for this offer in the next 90 days."
+        },
+        "merchant_conflicting_value": "Classic Assorted",
+        "amazon_catalog_conflicting_value": "White-berman Cat",
+        "category_report_snapshot": {
+            "template_row_index": 83,
+            "title": "4A 3D Shape Printed Sticky Notes Memo Pad, Birman Cat Print, 3.35 x 3.75 Inches, Cute Sticky Notes for Note Taking Reminders Office Home School Supplies, 100 Sheets/Pad",
+            "color": "Classic Assorted",
+            "color_map": None,
+            "manufacturer": "China",
+            "model_number": "4A 0155",
+            "product_type": "SELF_STICK_NOTE",
+            "parent_sku": "PARENT-4A-SHAPED-NOVELTY-PADS",
+            "product_id": "B0784GDSY2",
+            "product_id_type": "ASIN"
+        },
+        "master_sheet_evidence": {
+            "sheet": "Sheet1",
+            "row_index": 192,
+            "master_sku": "4A 8067",
+            "vc_upc": "702877118450",
+            "sl_upc": "702877120699",
+            "vc_asin": "B01NASGTK0",
+            "sl_asin": "B0784GDSY2",
+            "master_title": "4A 3D Shape Printed Sticky Notes,Cute Designs,Printed With Birman Cat Pattern,Self-Stick Notes,100 Sheets/Pad,1 Pad/Pack,4A 8067"
+        },
+        "physical_photo_evidence": {
+            "matched_folders": [
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\19----3D Printed Sticky Notes\\8067",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\19----3D printed sticky notes\\8067"
+            ],
+            "inspected_image_files": [
+                "4A-8067-1.jpg",
+                "702877118450.main.jpg",
+                "4A-8067-2.jpg"
+            ],
+            "key_packaging_image": "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\19----3D Printed Sticky Notes\\8067\\4A-8067-1.jpg",
+            "physical_visual_description": "3D shaped die-cut memo pad with Birman cat face printed on white paper. Matches model 8067 / 4A 0155."
+        },
+        "audit_classification": "SAFE_CATALOG_MATCH_PROVEN",
+        "classification_justification": "Physical photo, Master Sheet, and listing title confirm product is a Birman Cat print memo pad. Amazon catalog's variation color value 'White-berman Cat' genuinely describes this design variant under parent PARENT-4A-SHAPED-NOVELTY-PADS. Merchant value 'Classic Assorted' was an unverified blanket overwrite."
+    },
+    {
+        "sku": "4A 0168",
+        "asin": "B077Q9W8CW",
+        "exact_mfn_declared_quantity": 9.0,
+        "listing_status": "Active",
+        "conflicting_fields": ["color"],
+        "error_codes": ["8541"],
+        "error_messages": {
+            "8541": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B077Q9W8CW, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"White-risso's Dolphin\", en_GB: \"White-risso's Dolphin\", en_CA: \"Risso's Dolphin\" and 7 other variant(s)])."
+        },
+        "merchant_conflicting_value": "Classic Assorted",
+        "amazon_catalog_conflicting_value": "White-risso's Dolphin",
+        "category_report_snapshot": {
+            "template_row_index": 96,
+            "title": "4A 3D Shape Printed Sticky Notes Memo Pad, Risso's Dolphin Print, 3.75 x 4.13 Inches, Cute Sticky Notes for Note Taking Reminders Office Home School Supplies, 100 Sheets/Pad",
+            "color": "Classic Assorted",
+            "color_map": None,
+            "manufacturer": "China",
+            "model_number": "4A 0168",
+            "product_type": "SELF_STICK_NOTE",
+            "parent_sku": "PARENT-4A-SHAPED-NOVELTY-PADS",
+            "product_id": "B077Q9W8CW",
+            "product_id_type": "ASIN"
+        },
+        "master_sheet_evidence": {
+            "sheet": "Sheet1",
+            "row_index": 205,
+            "master_sku": "4A 8080",
+            "vc_upc": "702877118351",
+            "sl_upc": "702877120828",
+            "vc_asin": "B01N33US35",
+            "sl_asin": "B077Q9W8CW",
+            "master_title": "4A 3D Shape Printed Sticky Notes,Cute Designs,Printed With Risso's Dolphin Pattern,Self-Stick Notes,100 Sheets/Pad,1 Pad/Pack,4A 8080"
+        },
+        "physical_photo_evidence": {
+            "matched_folders": [
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\19----3D Printed Sticky Notes\\8080",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\19----3D printed sticky notes\\8080"
+            ],
+            "inspected_image_files": [
+                "4A-8080-1.jpg",
+                "702877118351.main.jpg",
+                "4A-8080-2.jpg"
+            ],
+            "key_packaging_image": "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\19----3D Printed Sticky Notes\\8080\\4A-8080-1.jpg",
+            "physical_visual_description": "3D shaped die-cut memo pad with Risso's dolphin swimming illustration printed on white paper. Matches model 8080 / 4A 0168."
+        },
+        "audit_classification": "SAFE_CATALOG_MATCH_PROVEN",
+        "classification_justification": "Physical photo, Master Sheet, and listing title confirm product is a Risso's Dolphin print memo pad. Amazon catalog's variation color value 'White-risso's Dolphin' genuinely describes this design variant under parent PARENT-4A-SHAPED-NOVELTY-PADS. Merchant value 'Classic Assorted' was an unverified blanket overwrite."
+    },
+    {
+        "sku": "4A 0169",
+        "asin": "B077QB3SK9",
+        "exact_mfn_declared_quantity": 12.0,
+        "listing_status": "Active",
+        "conflicting_fields": ["color"],
+        "error_codes": ["8541"],
+        "error_messages": {
+            "8541": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B077QB3SK9, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"White-japanese Bobtail\", en_CA: \"Japanese bobtail\", en_GB: \"White-japanese Bobtail\" and 11 other variant(s)])."
+        },
+        "merchant_conflicting_value": "Classic Assorted",
+        "amazon_catalog_conflicting_value": "White-japanese Bobtail",
+        "category_report_snapshot": {
+            "template_row_index": 97,
+            "title": "4A 3D Shape Printed Sticky Notes Memo Pad, Japanese Bobtail Print, 3.75 x 4.13 Inches, Cute Sticky Notes for Note Taking Reminders Office Home School Supplies, 100 Sheets/Pad",
+            "color": "Classic Assorted",
+            "color_map": None,
+            "manufacturer": "China",
+            "model_number": "4A 0169",
+            "product_type": "SELF_STICK_NOTE",
+            "parent_sku": "PARENT-4A-SHAPED-NOVELTY-PADS",
+            "product_id": "B077QB3SK9",
+            "product_id_type": "ASIN"
+        },
+        "master_sheet_evidence": {
+            "sheet": "Sheet1",
+            "row_index": 206,
+            "master_sku": "4A 8081",
+            "vc_upc": "702877118368",
+            "sl_upc": "702877120835",
+            "vc_asin": "B01N4NHIF1",
+            "sl_asin": "B077QB3SK9",
+            "master_title": "4A 3D Shape Printed Sticky Notes,Cute Designs,Printed With Japanese Bobtail Pattern,Self-Stick Notes,100 Sheets/Pad,1 Pad/Pack,4A 8081"
+        },
+        "physical_photo_evidence": {
+            "matched_folders": [
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\19----3D Printed Sticky Notes\\8081",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\19----3D printed sticky notes\\8081"
+            ],
+            "inspected_image_files": [
+                "4A-8081-1.jpg",
+                "702877118368.main.jpg",
+                "4A-8081-2.jpg"
+            ],
+            "key_packaging_image": "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\19----3D Printed Sticky Notes\\8081\\4A-8081-1.jpg",
+            "physical_visual_description": "3D shaped die-cut memo pad with Japanese Bobtail cat printed on white paper. Matches model 8081 / 4A 0169."
+        },
+        "audit_classification": "SAFE_CATALOG_MATCH_PROVEN",
+        "classification_justification": "Physical photo, Master Sheet, and listing title confirm product is a Japanese Bobtail cat print memo pad. Amazon catalog's variation color value 'White-japanese Bobtail' genuinely describes this design variant under parent PARENT-4A-SHAPED-NOVELTY-PADS. Merchant value 'Classic Assorted' was an unverified blanket overwrite."
+    },
+    {
+        "sku": "4A 0171",
+        "asin": "B078BPPCXR",
+        "exact_mfn_declared_quantity": 9.0,
+        "listing_status": "Active",
+        "conflicting_fields": ["color"],
+        "error_codes": ["8541"],
+        "error_messages": {
+            "8541": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B078BPPCXR, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"White-polar Bear\", en_CA: \"White-polar Bear\", fr_FR: \"White-polar Bear\" and 4 other variant(s)])."
+        },
+        "merchant_conflicting_value": "Classic Assorted",
+        "amazon_catalog_conflicting_value": "White-polar Bear",
+        "category_report_snapshot": {
+            "template_row_index": 100,
+            "title": "4A 3D Shape Printed Sticky Notes Memo Pad, Polar Bear Print, 3.35 x 3.75 Inches, Cute Sticky Notes for Note Taking Reminders Office Home School Supplies, 100 Sheets/Pad",
+            "color": "Classic Assorted",
+            "color_map": None,
+            "manufacturer": "China",
+            "model_number": "4A 0171",
+            "product_type": "SELF_STICK_NOTE",
+            "parent_sku": "PARENT-4A-SHAPED-NOVELTY-PADS",
+            "product_id": "B078BPPCXR",
+            "product_id_type": "ASIN"
+        },
+        "master_sheet_evidence": {
+            "sheet": "Sheet1",
+            "row_index": 208,
+            "master_sku": "4A 8083",
+            "vc_upc": "702877118382",
+            "sl_upc": "702877120859",
+            "vc_asin": "B01N7S41UN",
+            "sl_asin": "B078BPPCXR",
+            "master_title": "4A 3D Shape Printed Sticky Notes,Cute Designs,Printed With Polar Bear Pattern,Self-Stick Notes,100 Sheets/Pad,1 Pad/Pack,4A 8083"
+        },
+        "physical_photo_evidence": {
+            "matched_folders": [
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\19----3D Printed Sticky Notes\\8083",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\19----3D printed sticky notes\\8083"
+            ],
+            "inspected_image_files": [
+                "4A-8083-1.jpg",
+                "702877118382.main.jpg",
+                "4A-8083-2.jpg"
+            ],
+            "key_packaging_image": "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\19----3D Printed Sticky Notes\\8083\\4A-8083-1.jpg",
+            "physical_visual_description": "3D shaped die-cut memo pad with Polar Bear face printed on white paper. Matches model 8083 / 4A 0171."
+        },
+        "audit_classification": "SAFE_CATALOG_MATCH_PROVEN",
+        "classification_justification": "Physical photo, Master Sheet, and listing title confirm product is a Polar Bear print memo pad. Amazon catalog's variation color value 'White-polar Bear' genuinely describes this design variant under parent PARENT-4A-SHAPED-NOVELTY-PADS. Merchant value 'Classic Assorted' was an unverified blanket overwrite."
+    },
+    {
+        "sku": "4A 186",
+        "asin": "B07B8FGS9G",
+        "exact_mfn_declared_quantity": None,
+        "listing_status": "Inactive",
+        "conflicting_fields": ["color"],
+        "error_codes": ["8541"],
+        "error_messages": {
+            "8541": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07B8FGS9G, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Bright Ultra Colors\"] / Amazon [en_US: \"Extra Colors 4 X 6-3 Pads\", en_CA: \"Extra Colors 4 X 6-3 Pads\", en_AE: \"Extra Colors 4 X 6-3 Pads\" and 9 other variant(s)])."
+        },
+        "merchant_conflicting_value": "Bright Ultra Colors",
+        "amazon_catalog_conflicting_value": "Extra Colors 4 X 6-3 Pads",
+        "category_report_snapshot": {
+            "template_row_index": 131,
+            "title": "4A 9 Pads Super Sticky Notes with Lines 4 x 6 in, Bright Colors, Colorful Lined Sticky Notes Self-Stick Note Pads for Office School Supplies, 100 Sheets/Pad, 9 Pads, 900 Sheets Total, 4A 406S-Linex3x3",
+            "color": "Bright Ultra Colors",
+            "color_map": None,
+            "manufacturer": "China",
+            "model_number": None,
+            "product_type": "SELF_STICK_NOTE",
+            "parent_sku": "PARENT-4A-406-MEDIUM-PADS",
+            "product_id": "B07B8FGS9G",
+            "product_id_type": "ASIN"
+        },
+        "master_sheet_evidence": {
+            "sheet": "Sheet1",
+            "row_index": 64,
+            "master_sku": "4A 406S-Linex3",
+            "vc_upc": "702877118573",
+            "sl_upc": "702877121139",
+            "vc_asin": "B073VP5M5P",
+            "sl_asin": "B07B8FGS9G",
+            "master_title": "4A Super Sticky Notes,4 x 6 Inches,Large Size,Neon Assorted,Lined,100 Sheets/Pad,3 Pads/Pack,300 Sheets Total,4A 406S-Linex3"
+        },
+        "physical_photo_evidence": {
+            "matched_folders": [
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\3-----4A Super sticky notes\\4A 406S-LineX3",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\3-----4A Super sticky notes\\4A 406S-LineX3"
+            ],
+            "inspected_image_files": [
+                "702877118573.main.JPG",
+                "702877118573.pt01.jpg",
+                "406S-L.png"
+            ],
+            "key_packaging_image": "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\3-----4A Super sticky notes\\4A 406S-LineX3\\702877118573.main.JPG",
+            "physical_visual_description": "3-pack of 4 x 6 inch lined super sticky notes in bright neon fluorescent colors (yellow, green, pink/orange)."
+        },
+        "audit_classification": "APPEAL_CATALOG_WRONG",
+        "classification_justification": "Physical photos and Master Sheet prove the actual product color is Bright Ultra Colors / Neon Assorted. The Amazon catalog attribute value 'Extra Colors 4 X 6-3 Pads' is an improper catalog pollution where dimensions ('4 X 6') and packaging count ('3 Pads') were mashed into the 'color' attribute. Adopting this invalid string would corrupt product attributes. Seller must initiate an appeal or catalog update to correct this attribute."
+    },
+    {
+        "sku": "4A 187",
+        "asin": "B07B8CP97S",
+        "exact_mfn_declared_quantity": None,
+        "listing_status": "Inactive",
+        "conflicting_fields": ["color"],
+        "error_codes": ["8541"],
+        "error_messages": {
+            "8541": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07B8CP97S, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Bright Ultra Colors\"] / Amazon [en_US: \"Extra Colors 4 X 6-5 Pads\", en_AE: \"Extra Colors 4 X 6-5 Pads\", en_AU: \"Extra Colors 4 X 6-5 Pads\" and 9 other variant(s)])."
+        },
+        "merchant_conflicting_value": "Bright Ultra Colors",
+        "amazon_catalog_conflicting_value": "Extra Colors 4 X 6-5 Pads",
+        "category_report_snapshot": {
+            "template_row_index": 132,
+            "title": "4A 15 Pads Super Sticky Notes with Lines 4 x 6 in, Bright Colors, Lined Sticky Notes Self-Stick Note Pads for Office School Supplies, 100 Sheets/Pad, 15 Pads, 1500 Sheets Total, 4A 406S-Linex5x3",
+            "color": "Bright Ultra Colors",
+            "color_map": None,
+            "manufacturer": "China",
+            "model_number": None,
+            "product_type": "SELF_STICK_NOTE",
+            "parent_sku": "PARENT-4A-406-MEDIUM-PADS",
+            "product_id": "B07B8CP97S",
+            "product_id_type": "ASIN"
+        },
+        "master_sheet_evidence": {
+            "sheet": "Sheet1",
+            "row_index": 65,
+            "master_sku": "4A 406S-Linex5",
+            "vc_upc": "702877120200",
+            "sl_upc": "702877121146",
+            "vc_asin": "B073TWRJ1V",
+            "sl_asin": "B07B8CP97S",
+            "master_title": "4A Super Sticky Notes,4 x 6 Inches,Large Size,Neon Assorted,Lined,100 Sheets/Pad,5 Pads/Pack,500 Sheets Total,4A 406S-Linex5"
+        },
+        "physical_photo_evidence": {
+            "matched_folders": [
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\3-----4A Super sticky notes\\4A 406S-LineX5",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\3-----4A Super sticky notes\\4A 406S-LineX5"
+            ],
+            "inspected_image_files": [
+                "702877120200.main.jpg",
+                "702877120200.pt01.JPG",
+                "406S-L.jpg"
+            ],
+            "key_packaging_image": "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\3-----4A Super sticky notes\\4A 406S-LineX5\\702877120200.main.jpg",
+            "physical_visual_description": "5-pack of 4 x 6 inch lined super sticky notes in 5 bright neon fluorescent colors."
+        },
+        "audit_classification": "APPEAL_CATALOG_WRONG",
+        "classification_justification": "Physical photos and Master Sheet prove the actual product color is Bright Ultra Colors / Neon Assorted. The Amazon catalog attribute value 'Extra Colors 4 X 6-5 Pads' is an improper catalog pollution where dimensions ('4 X 6') and packaging count ('5 Pads') were mashed into the 'color' attribute. Adopting this invalid string would corrupt product attributes. Seller must initiate an appeal or catalog update to correct this attribute."
+    },
+    {
+        "sku": "4A 40606",
+        "asin": "B00SMEEWUA",
+        "exact_mfn_declared_quantity": 278.0,
+        "listing_status": "Active",
+        "conflicting_fields": ["standard_product_id"],
+        "error_codes": ["8541"],
+        "error_messages": {
+            "8541": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B00SMEEWUA, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'standard_product_id' (Merchant [\"00702877119419\"] / Amazon [\"00702877120040\"])."
+        },
+        "merchant_conflicting_value": "00702877119419",
+        "amazon_catalog_conflicting_value": "00702877120040",
+        "category_report_snapshot": {
+            "template_row_index": 230,
+            "title": "4A Divider Sticky Notes,Note Tabs,3 3/8 x 2 3/4 Inches,Neon Assorted,15 Sheets/Divider,4 Divders/Pack,Self-Stick Notes,60 Sheets Total,4A 40606",
+            "color": "Neon Assorted",
+            "color_map": None,
+            "manufacturer": "China",
+            "model_number": None,
+            "product_type": "SELF_STICK_NOTE",
+            "parent_sku": "PARENT-4A-406-MEDIUM-PADS",
+            "product_id": "B00SMEEWUA",
+            "product_id_type": "ASIN"
+        },
+        "master_sheet_evidence": {
+            "sheet": "Sheet1",
+            "row_index": 90,
+            "master_sku": "4A 40606",
+            "vc_upc": "702877120040",
+            "sl_upc": "702877119419",
+            "vc_asin": "B00SMEEWUA",
+            "sl_asin": "B01N6KX8DW",
+            "master_title": "4A Divider Sticky Notes,Note Tabs,3 3/8 x 2 3/4 Inches,Neon Assorted,15 Sheets/Divider,4 Divders/Pack,Self-Stick Notes,60 Sheets Total,4A 40606"
+        },
+        "physical_photo_evidence": {
+            "matched_folders": [
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\7-----4A Divider Sticky Notes\\4A 40606",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\7-----4A Divider Sticky Notes\\4A 40606",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\7-----4A Divider Sticky Notes\\40606"
+            ],
+            "inspected_image_files": [
+                "702877120040.MAIN.jpg",
+                "702877120040.PT01.jpg",
+                "40606-1.jpg"
+            ],
+            "key_packaging_image": "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\7-----4A Divider Sticky Notes\\4A 40606\\702877120040.MAIN.jpg",
+            "physical_visual_description": "Hanging card blister packaging reading 'Item No: 4A 40606', 'Size: 2 3/4 x 3 3/8 in', '4 colors x 15 sheets = 60 Sheets'. Image assets are named after VC barcode 702877120040."
+        },
+        "audit_classification": "SAFE_CATALOG_MATCH_PROVEN",
+        "classification_justification": "ASIN B00SMEEWUA is the original Vendor Central ASIN registered under UPC 702877120040 (as evidenced by Master Sheet Row 90 and all image asset filenames). Seller submitted SL-UPC 00702877119419 against VC ASIN B00SMEEWUA. Amazon catalog's value '00702877120040' is genuinely accurate for this catalog ASIN."
+    },
+    {
+        "sku": "4A 5036",
+        "asin": "B01N6IT5IG",
+        "exact_mfn_declared_quantity": 1404.0,
+        "listing_status": "Active",
+        "conflicting_fields": ["color"],
+        "error_codes": ["8541"],
+        "error_messages": {
+            "8541": "The Listing data provided is different from what's already in the Amazon catalog. The ean, ean provided matches ASIN B01N6IT5IG, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Bright Ultra Colors\"] / Amazon [en_US: \"Colors-heart\", en_AE: \"Colors-heart\", en_CA: \"Colors-heart\" and 10 other variant(s)])."
+        },
+        "merchant_conflicting_value": "Bright Ultra Colors",
+        "amazon_catalog_conflicting_value": "Colors-heart",
+        "category_report_snapshot": {
+            "template_row_index": 274,
+            "title": "4A Heart Sticky Notes 3 x 3 Inches, 5 Bright Colors, Colorful Heart Shaped Sticky Notes Memo Pads for Office, School, Home, 200 Sheets Total, 4A 5036",
+            "color": "Bright Ultra Colors",
+            "color_map": None,
+            "manufacturer": "China",
+            "model_number": "4A 5036",
+            "product_type": "SELF_STICK_NOTE",
+            "parent_sku": "PARENT-4A-SHAPED-NOVELTY-PADS",
+            "product_id": "B01N6IT5IG",
+            "product_id_type": "ASIN"
+        },
+        "master_sheet_evidence": {
+            "sheet": "Sheet1",
+            "row_index": 75,
+            "master_sku": "4A 5036",
+            "vc_upc": "702877120088",
+            "sl_upc": "702877119211",
+            "vc_asin": "B00SMEEVC4",
+            "sl_asin": "B01N6IT5IG",
+            "master_title": "4A Shapes Sticky Notes,Heart Shape,3 x 3 Inches,Fluorescent Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5036"
+        },
+        "physical_photo_evidence": {
+            "matched_folders": [
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\5-----4A Shapes Sticky Notes\\4A 5036",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\5-----4A Shapes Sticky Notes\\4A 5036",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\5-----4A Shapes Sticky Notes\\5036"
+            ],
+            "inspected_image_files": [
+                "4A 5036-1.JPG",
+                "5036-3.jpg",
+                "702877120088.main.jpg"
+            ],
+            "key_packaging_image": "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\5-----4A Shapes Sticky Notes\\4A 5036\\4A 5036-1.JPG",
+            "physical_visual_description": "Heart-shaped die-cut memo pad with 5 layered fluorescent bright colors, 200 sheets, labeled 4A 5036."
+        },
+        "audit_classification": "SAFE_CATALOG_MATCH_PROVEN",
+        "classification_justification": "Physical photos, Master Sheet, and title prove product is a Heart Shape sticky note pad. Under parent PARENT-4A-SHAPED-NOVELTY-PADS, each shape variant is differentiated by its shape-name color attribute (Colors-heart). Amazon catalog value 'Colors-heart' genuinely identifies this variant. Merchant's submitted value 'Bright Ultra Colors' was an unverified overwrite."
+    },
+    {
+        "sku": "4A 60238",
+        "asin": "B01MATR9TE",
+        "exact_mfn_declared_quantity": None,
+        "listing_status": "Inactive",
+        "conflicting_fields": ["manufacturer"],
+        "error_codes": ["8541"],
+        "error_messages": {
+            "8541": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01MATR9TE, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'manufacturer' (Merchant [en_CA: \"China\", en_US: \"China\", es_MX: \"China\"] / Amazon [en_CA: \"4A（USA）LIMITED\", en_US: \"4A（USA）LIMITED\", es_MX: \"4A（USA）LIMITED\" and 16 other variant(s)])."
+        },
+        "merchant_conflicting_value": "China",
+        "amazon_catalog_conflicting_value": "4A（USA）LIMITED",
+        "category_report_snapshot": {
+            "template_row_index": 333,
+            "title": "4A Sticky Notes Flags With PP Rule,Neon Color Page Marker Fluorescent Color Index Label,Transparent Tabs Flags Stickers,Text Highlighter Strips Writable Labels Bookmarks,2 Pads/set,4A 60238",
+            "color": "Neon Assorted",
+            "color_map": None,
+            "manufacturer": "China",
+            "model_number": None,
+            "product_type": "SELF_STICK_NOTE",
+            "parent_sku": "PARENT-4A-TRANSPARENT-PET-TABS",
+            "product_id": "B01MATR9TE",
+            "product_id_type": "ASIN"
+        },
+        "master_sheet_evidence": {
+            "sheet": "Sheet1",
+            "row_index": 135,
+            "master_sku": "4A 60238",
+            "vc_upc": "702877121030",
+            "sl_upc": "702877121030",
+            "vc_asin": "B01MATR9TE",
+            "sl_asin": "B01MATR9TE",
+            "master_title": "4A Sticky Notes Flags With PP Rule,Neon Color Page Marker Fluorescent Color Index Label,Transparent Tabs Flags Stickers,Text Highlighter Strips Writable Labels Bookmarks,2 Pads/set,4A 60238"
+        },
+        "physical_photo_evidence": {
+            "matched_folders": [
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\10----4A Film Flags\\4A 60238",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\10----4A Film Flags\\4A 60238"
+            ],
+            "inspected_image_files": [
+                "702877121030.main.JPG",
+                "60238.JPG"
+            ],
+            "key_packaging_image": "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\10----4A Film Flags\\4A 60238\\702877121030.main.JPG",
+            "physical_visual_description": "Clear plastic ruler with transparent neon color index flags, branded with 4A logo; official company name is 4A (USA) LIMITED."
+        },
+        "audit_classification": "SAFE_CATALOG_MATCH_PROVEN",
+        "classification_justification": "4A（USA）LIMITED is the authentic manufacturer and trademark owner across all 4A store products. Merchant's value 'China' was an erroneous input confusing Country of Origin with Manufacturer. Amazon catalog value '4A（USA）LIMITED' is 100% genuine and accurate."
+    },
+    {
+        "sku": "4A GM40624*2",
+        "asin": "B07FK8CRM9",
+        "exact_mfn_declared_quantity": 747.0,
+        "listing_status": "Active",
+        "conflicting_fields": ["color"],
+        "error_codes": ["99022"],
+        "error_messages": {
+            "99022": "Based on the data from '[color#?.value]', the field '\"standardized_values\"' for the attribute 'Color' does not have enough values. The required minimum is '1' value(s). Please provide a valid value. / Based on the data from '[color#?.standardized_values]', the field '\"value\"' for the attribute 'Color' does not have enough values."
+        },
+        "merchant_conflicting_value": "White (with missing Color Map)",
+        "amazon_catalog_conflicting_value": None,
+        "category_report_snapshot": {
+            "template_row_index": 444,
+            "title": "4A Divider Sticky Notes,4 x 6 Inches,White Paper,Lined,10 Sheets/Divider,6 Divders/Pack,2 Packs/Set,120 Sheets Total,4A 40624x2",
+            "color": "White",
+            "color_map": None,
+            "manufacturer": None,
+            "model_number": None,
+            "product_type": "SELF_STICK_NOTE",
+            "parent_sku": "PARENT-4A-406-MEDIUM-PADS",
+            "product_id": "B07FK8CRM9",
+            "product_id_type": "ASIN"
+        },
+        "master_sheet_evidence": {
+            "sheet": "Sheet1",
+            "row_index": 89,
+            "master_sku": "4A 40624",
+            "vc_upc": "702877120033",
+            "sl_upc": "702877119402",
+            "vc_asin": "B00SMEF4WK",
+            "sl_asin": "B01MY2AYET",
+            "master_title": "4A Divider Sticky Notes,4 x 6 Inches,Large Size,White Paper,Lined,10 Sheets/Divider,6 Divders/Pack,Self-Stick Notes,60 Sheets Total,4A 40624"
+        },
+        "physical_photo_evidence": {
+            "matched_folders": [
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\7-----4A Divider Sticky Notes\\4A 40624",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\7-----4A Divider Sticky Notes\\4A 40624",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\7-----4A Divider Sticky Notes\\40624"
+            ],
+            "inspected_image_files": [
+                "702877120033.main.jpg",
+                "40624.jpg"
+            ],
+            "key_packaging_image": "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\7-----4A Divider Sticky Notes\\4A 40624\\702877120033.main.jpg",
+            "physical_visual_description": "4x6 inch white paper lined divider sticky note tabs."
+        },
+        "audit_classification": "DEFERRED_FAMILY_OR_BLOCKED",
+        "classification_justification": "This SKU does not have an 8541 catalog conflict. It has error 99022 caused by a missing Color Map (standardized_values is empty while Color is 'White'). Because there is no Amazon catalog attribute conflict value to match or appeal, and it is blocked by a family schema validation defect under PARENT-4A-406-MEDIUM-PADS, it is classified as DEFERRED_FAMILY_OR_BLOCKED."
+    },
+    {
+        "sku": "4A SF-60238",
+        "asin": "B01MATR9TE",
+        "exact_mfn_declared_quantity": 381.0,
+        "listing_status": "Active",
+        "conflicting_fields": ["manufacturer"],
+        "error_codes": ["8541"],
+        "error_messages": {
+            "8541": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01MATR9TE, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'manufacturer' (Merchant [en_US: \"China\"] / Amazon [en_US: \"4A（USA）LIMITED\", en_AU: \"4A（USA）LIMITED\", en_SG: \"4A（USA）LIMITED\" and 16 other variant(s)])."
+        },
+        "merchant_conflicting_value": "China",
+        "amazon_catalog_conflicting_value": "4A（USA）LIMITED",
+        "category_report_snapshot": {
+            "template_row_index": 593,
+            "title": "4A Sticky Notes Flags With PP Rule,Neon Color Page Marker Fluorescent Color Index Label,Transparent Tabs Flags Stickers,Text Highlighter Strips Writable Labels Bookmarks,2 Pads/set,4A 60238",
+            "color": "Neon Assorted",
+            "color_map": None,
+            "manufacturer": "China",
+            "model_number": None,
+            "product_type": "SELF_STICK_NOTE",
+            "parent_sku": "PARENT-4A-TRANSPARENT-PET-TABS",
+            "product_id": "B01MATR9TE",
+            "product_id_type": "ASIN"
+        },
+        "master_sheet_evidence": {
+            "sheet": "Sheet1",
+            "row_index": 135,
+            "master_sku": "4A 60238",
+            "vc_upc": "702877121030",
+            "sl_upc": "702877121030",
+            "vc_asin": "B01MATR9TE",
+            "sl_asin": "B01MATR9TE",
+            "master_title": "4A Sticky Notes Flags With PP Rule,Neon Color Page Marker Fluorescent Color Index Label,Transparent Tabs Flags Stickers,Text Highlighter Strips Writable Labels Bookmarks,2 Pads/set,4A 60238"
+        },
+        "physical_photo_evidence": {
+            "matched_folders": [
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\10----4A Film Flags\\4A 60238",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\10----4A Film Flags\\4A 60238"
+            ],
+            "inspected_image_files": [
+                "702877121030.main.JPG",
+                "60238.JPG"
+            ],
+            "key_packaging_image": "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\10----4A Film Flags\\4A 60238\\702877121030.main.JPG",
+            "physical_visual_description": "Same physical product as Row 13 (SKU 4A 60238). Transparent index tabs with PP ruler; manufacturer is 4A (USA) LIMITED."
+        },
+        "audit_classification": "SAFE_CATALOG_MATCH_PROVEN",
+        "classification_justification": "Identical product and ASIN B01MATR9TE as SKU 4A 60238. 4A（USA）LIMITED is the authentic manufacturer and trademark owner across all 4A store products. Merchant's value 'China' was an erroneous input confusing Country of Origin with Manufacturer. Amazon catalog value '4A（USA）LIMITED' is 100% genuine and accurate."
+    },
+    {
+        "sku": "4A093",
+        "asin": "B01N0VHWSL",
+        "exact_mfn_declared_quantity": 419.0,
+        "listing_status": "Active",
+        "conflicting_fields": ["color"],
+        "error_codes": ["8541", "101265"],
+        "error_messages": {
+            "8541": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01N0VHWSL, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"Wave\", en_CA: \"Wave\", zh_CN: \"波浪\" and 4 other variant(s)]).",
+            "101265": "131.0 USD sales forecast on FBA conversion for this offer in the next 90 days."
+        },
+        "merchant_conflicting_value": "Classic Assorted",
+        "amazon_catalog_conflicting_value": "Wave",
+        "category_report_snapshot": {
+            "template_row_index": 39,
+            "title": "4A 650 Sheets Memo Cube Non-Sticky Notes, 3 1/4 x 3 1/4 Inches,Wave Patterned On 4 Sides, Non Sticky Memo Padsfor Office, School,4A MC 434",
+            "color": "Classic Assorted",
+            "color_map": None,
+            "manufacturer": "AAAA 4A",
+            "model_number": None,
+            "product_type": "OFFICE_PRODUCTS",
+            "parent_sku": "PARENT-4A-MEMO-NOTE-CUBES",
+            "product_id": "B01N0VHWSL",
+            "product_id_type": "ASIN"
+        },
+        "master_sheet_evidence": {
+            "sheet": "Sheet1",
+            "row_index": 130,
+            "master_sku": "4A MC 434",
+            "vc_upc": "702877124017",
+            "sl_upc": "702877119624",
+            "vc_asin": "B00SMEE5HU",
+            "sl_asin": "B01N0VHWSL",
+            "master_title": "4A Memo Cube,3 1/4 Inches,Wave Patterned Printed On The Four Sides,About 650 Sheets/Cube,1 Cube/Pack,4A MC 434"
+        },
+        "physical_photo_evidence": {
+            "matched_folders": [
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\9-----4A Memo Cube\\4A MC 434",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\9-----4A Memo Cube\\4A MC 434",
+                "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2018\\9-----4A Memo Cube\\MC 434"
+            ],
+            "inspected_image_files": [
+                "702877124017.main.jpg",
+                "4A MC 434.jpg",
+                "702877124017.PT01.JPG"
+            ],
+            "key_packaging_image": "D:\\4A\\印刷用图片\\电商\\亚马逊图片-2021\\9-----4A Memo Cube\\4A MC 434\\702877124017.main.jpg",
+            "physical_visual_description": "White memo note cube featuring colorful chevron / wave pattern printed on all 4 vertical outer sides; labeled MC 434."
+        },
+        "audit_classification": "SAFE_CATALOG_MATCH_PROVEN",
+        "classification_justification": "Physical photos, Master Sheet, and title explicitly state product has a Wave Pattern printed on four sides. Amazon catalog's variation color value 'Wave' (zh_CN: 波浪) is 100% genuinely accurate for this product under PARENT-4A-MEMO-NOTE-CUBES. Seller's current value 'Classic Assorted' was an unverified blanket overwrite."
+    }
+]
+
+# Write JSON output
+json_out_path = r'D:\4A\00_当前工作区_202611\residual_mfn16_evidence_audit.json'
+with open(json_out_path, 'w', encoding='utf-8') as f:
+    json.dump(audit_data, f, indent=2, ensure_ascii=False)
+
+print(f"Saved audit JSON to {json_out_path}")

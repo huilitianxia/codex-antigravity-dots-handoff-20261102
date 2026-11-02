@@ -1,0 +1,2074 @@
+{
+  "source": "D:\\下载文件\\Competitor-US-Last-30-days-863876.xlsx",
+  "fills": [
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"none\" /></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"gray125\" /></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor rgb=\"FFE98A00\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor rgb=\"FFFFFFCC\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor rgb=\"FFFFCC99\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor rgb=\"FFF2F2F2\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor rgb=\"FFA5A5A5\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor rgb=\"FFC6EFCE\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor rgb=\"FFFFC7CE\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor rgb=\"FFFFEB9C\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"4\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"4\" tint=\"0.799981688894314\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"4\" tint=\"0.599993896298105\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"4\" tint=\"0.399975585192419\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"5\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"5\" tint=\"0.799981688894314\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"5\" tint=\"0.599993896298105\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"5\" tint=\"0.399975585192419\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"6\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"6\" tint=\"0.799981688894314\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"6\" tint=\"0.599993896298105\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"6\" tint=\"0.399975585192419\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"7\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"7\" tint=\"0.799981688894314\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"7\" tint=\"0.599993896298105\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"7\" tint=\"0.399975585192419\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"8\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"8\" tint=\"0.799981688894314\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"8\" tint=\"0.599993896298105\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"8\" tint=\"0.399975585192419\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"9\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"9\" tint=\"0.799981688894314\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"9\" tint=\"0.599993896298105\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor theme=\"9\" tint=\"0.399975585192419\" /><bgColor indexed=\"64\" /></patternFill></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\" /></fill>",
+    "<fill xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><patternFill patternType=\"solid\"><fgColor indexed=\"22\" /></patternFill></fill>"
+  ],
+  "fonts": [
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><sz val=\"11\" /><color indexed=\"8\" /><name val=\"宋体\" /><charset val=\"134\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><sz val=\"12\" /><color indexed=\"8\" /><name val=\"微软雅黑\" /><charset val=\"134\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><sz val=\"12\" /><color indexed=\"10\" /><name val=\"微软雅黑\" /><charset val=\"134\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><sz val=\"15\" /><color indexed=\"9\" /><name val=\"微软雅黑\" /><charset val=\"134\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><sz val=\"10\" /><color theme=\"4\" tint=\"-0.5\" /><name val=\"等线\" /><charset val=\"134\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><sz val=\"10\" /><color indexed=\"8\" /><name val=\"等线\" /><charset val=\"134\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><sz val=\"10\" /><color indexed=\"9\" /><name val=\"等线\" /><charset val=\"134\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><sz val=\"10\" /><color rgb=\"FFFFFFFF\" /><name val=\"等线\" /><charset val=\"134\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><sz val=\"10\" /><name val=\"等线\" /><charset val=\"134\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><sz val=\"11\" /><color theme=\"1\" /><name val=\"宋体\" /><charset val=\"134\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><u /><sz val=\"11\" /><color rgb=\"FF0000FF\" /><name val=\"宋体\" /><charset val=\"0\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><u /><sz val=\"11\" /><color rgb=\"FF800080\" /><name val=\"宋体\" /><charset val=\"0\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><sz val=\"11\" /><color rgb=\"FFFF0000\" /><name val=\"宋体\" /><charset val=\"0\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><b /><sz val=\"18\" /><color theme=\"3\" /><name val=\"宋体\" /><charset val=\"134\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><i /><sz val=\"11\" /><color rgb=\"FF7F7F7F\" /><name val=\"宋体\" /><charset val=\"0\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><b /><sz val=\"15\" /><color theme=\"3\" /><name val=\"宋体\" /><charset val=\"134\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><b /><sz val=\"13\" /><color theme=\"3\" /><name val=\"宋体\" /><charset val=\"134\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><b /><sz val=\"11\" /><color theme=\"3\" /><name val=\"宋体\" /><charset val=\"134\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><sz val=\"11\" /><color rgb=\"FF3F3F76\" /><name val=\"宋体\" /><charset val=\"0\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><b /><sz val=\"11\" /><color rgb=\"FF3F3F3F\" /><name val=\"宋体\" /><charset val=\"0\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><b /><sz val=\"11\" /><color rgb=\"FFFA7D00\" /><name val=\"宋体\" /><charset val=\"0\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><b /><sz val=\"11\" /><color rgb=\"FFFFFFFF\" /><name val=\"宋体\" /><charset val=\"0\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><sz val=\"11\" /><color rgb=\"FFFA7D00\" /><name val=\"宋体\" /><charset val=\"0\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><b /><sz val=\"11\" /><color theme=\"1\" /><name val=\"宋体\" /><charset val=\"0\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><sz val=\"11\" /><color rgb=\"FF006100\" /><name val=\"宋体\" /><charset val=\"0\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><sz val=\"11\" /><color rgb=\"FF9C0006\" /><name val=\"宋体\" /><charset val=\"0\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><sz val=\"11\" /><color rgb=\"FF9C6500\" /><name val=\"宋体\" /><charset val=\"0\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><sz val=\"11\" /><color theme=\"0\" /><name val=\"宋体\" /><charset val=\"0\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><sz val=\"11\" /><color theme=\"1\" /><name val=\"宋体\" /><charset val=\"0\" /><scheme val=\"minor\" /></font>",
+    "<font xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\"><name val=\"宋体\" /><sz val=\"14.0\" /><b val=\"true\" /></font>"
+  ],
+  "styles": [
+    {
+      "fillId": 0,
+      "fontId": 0,
+      "numFmtId": 0
+    },
+    {
+      "fillId": 0,
+      "fontId": 1,
+      "numFmtId": 0
+    },
+    {
+      "fillId": 0,
+      "fontId": 2,
+      "numFmtId": 0
+    },
+    {
+      "fillId": 2,
+      "fontId": 3,
+      "numFmtId": 0
+    },
+    {
+      "fillId": 0,
+      "fontId": 4,
+      "numFmtId": 0
+    },
+    {
+      "fillId": 0,
+      "fontId": 5,
+      "numFmtId": 0
+    },
+    {
+      "fillId": 0,
+      "fontId": 5,
+      "numFmtId": 176
+    },
+    {
+      "fillId": 0,
+      "fontId": 5,
+      "numFmtId": 177
+    },
+    {
+      "fillId": 0,
+      "fontId": 5,
+      "numFmtId": 176
+    },
+    {
+      "fillId": 0,
+      "fontId": 5,
+      "numFmtId": 4
+    },
+    {
+      "fillId": 0,
+      "fontId": 5,
+      "numFmtId": 0
+    },
+    {
+      "fillId": 0,
+      "fontId": 4,
+      "numFmtId": 0
+    },
+    {
+      "fillId": 0,
+      "fontId": 5,
+      "numFmtId": 0
+    },
+    {
+      "fillId": 0,
+      "fontId": 5,
+      "numFmtId": 49
+    },
+    {
+      "fillId": 2,
+      "fontId": 6,
+      "numFmtId": 0
+    },
+    {
+      "fillId": 2,
+      "fontId": 7,
+      "numFmtId": 0
+    },
+    {
+      "fillId": 2,
+      "fontId": 7,
+      "numFmtId": 176
+    },
+    {
+      "fillId": 2,
+      "fontId": 6,
+      "numFmtId": 177
+    },
+    {
+      "fillId": 2,
+      "fontId": 6,
+      "numFmtId": 176
+    },
+    {
+      "fillId": 2,
+      "fontId": 7,
+      "numFmtId": 0
+    },
+    {
+      "fillId": 2,
+      "fontId": 6,
+      "numFmtId": 49
+    },
+    {
+      "fillId": 0,
+      "fontId": 8,
+      "numFmtId": 0
+    },
+    {
+      "fillId": 0,
+      "fontId": 8,
+      "numFmtId": 3
+    },
+    {
+      "fillId": 0,
+      "fontId": 8,
+      "numFmtId": 178
+    },
+    {
+      "fillId": 0,
+      "fontId": 8,
+      "numFmtId": 0
+    },
+    {
+      "fillId": 0,
+      "fontId": 8,
+      "numFmtId": 0
+    },
+    {
+      "fillId": 0,
+      "fontId": 8,
+      "numFmtId": 179
+    },
+    {
+      "fillId": 0,
+      "fontId": 8,
+      "numFmtId": 176
+    },
+    {
+      "fillId": 0,
+      "fontId": 8,
+      "numFmtId": 4
+    },
+    {
+      "fillId": 0,
+      "fontId": 8,
+      "numFmtId": 177
+    },
+    {
+      "fillId": 0,
+      "fontId": 8,
+      "numFmtId": 0
+    },
+    {
+      "fillId": 0,
+      "fontId": 8,
+      "numFmtId": 176
+    },
+    {
+      "fillId": 0,
+      "fontId": 8,
+      "numFmtId": 3
+    },
+    {
+      "fillId": 0,
+      "fontId": 8,
+      "numFmtId": 0
+    },
+    {
+      "fillId": 0,
+      "fontId": 8,
+      "numFmtId": 49
+    },
+    {
+      "fillId": 35,
+      "fontId": 29,
+      "numFmtId": 0
+    }
+  ],
+  "sheets": [
+    {
+      "name": "Competitor-US-B01M107ZK7-Last1",
+      "range": "A1:BM50",
+      "rows": [
+        {
+          "row": 1,
+          "cells": [
+            {
+              "ref": "A1",
+              "value": "ASIN",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "B1",
+              "value": "SKU",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "C1",
+              "value": "详细参数",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "D1",
+              "value": "品牌",
+              "type": "s",
+              "style": 15,
+              "formula": ""
+            },
+            {
+              "ref": "E1",
+              "value": "品牌链接",
+              "type": "s",
+              "style": 15,
+              "formula": ""
+            },
+            {
+              "ref": "F1",
+              "value": "商品标题",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "G1",
+              "value": "商品详情页链接",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "H1",
+              "value": "商品主图",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "I1",
+              "value": "父ASIN",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "J1",
+              "value": "类目路径",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "K1",
+              "value": "大类目",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "L1",
+              "value": "大类BSR",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "M1",
+              "value": "大类BSR增长数",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "N1",
+              "value": "大类BSR增长率",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "O1",
+              "value": "小类目",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "P1",
+              "value": "小类BSR",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "Q1",
+              "value": "月销量",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "R1",
+              "value": "销量环比增长率",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "S1",
+              "value": "销量同比增长率",
+              "type": "s",
+              "style": 15,
+              "formula": ""
+            },
+            {
+              "ref": "T1",
+              "value": "月销售额($)",
+              "type": "s",
+              "style": 15,
+              "formula": ""
+            },
+            {
+              "ref": "U1",
+              "value": "子体销量",
+              "type": "s",
+              "style": 16,
+              "formula": ""
+            },
+            {
+              "ref": "V1",
+              "value": "子体销售额($)",
+              "type": "s",
+              "style": 16,
+              "formula": ""
+            },
+            {
+              "ref": "W1",
+              "value": "变体数",
+              "type": "s",
+              "style": 16,
+              "formula": ""
+            },
+            {
+              "ref": "X1",
+              "value": "价格($)",
+              "type": "s",
+              "style": 15,
+              "formula": ""
+            },
+            {
+              "ref": "Y1",
+              "value": "prime价格($)",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "Z1",
+              "value": "Coupon",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AA1",
+              "value": "Q&A",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AB1",
+              "value": "评分数",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AC1",
+              "value": "月新增评分数",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AD1",
+              "value": "评分",
+              "type": "s",
+              "style": 17,
+              "formula": ""
+            },
+            {
+              "ref": "AE1",
+              "value": "留评率",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AF1",
+              "value": "FBA($)",
+              "type": "s",
+              "style": 15,
+              "formula": ""
+            },
+            {
+              "ref": "AG1",
+              "value": "毛利率",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AH1",
+              "value": "评级",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AI1",
+              "value": "上架时间",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AJ1",
+              "value": "上架天数",
+              "type": "s",
+              "style": 18,
+              "formula": ""
+            },
+            {
+              "ref": "AK1",
+              "value": "配送方式",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AL1",
+              "value": "买家运费($)",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AM1",
+              "value": "LQS",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AN1",
+              "value": "卖家数",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AO1",
+              "value": "BuyBox卖家",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AP1",
+              "value": "BuyBox类型",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AQ1",
+              "value": "卖家所属地",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AR1",
+              "value": "卖家信息",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AS1",
+              "value": "卖家首页",
+              "type": "s",
+              "style": 19,
+              "formula": ""
+            },
+            {
+              "ref": "AT1",
+              "value": "Best Seller标识",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AU1",
+              "value": "Amazon's Choice",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AV1",
+              "value": "New Release标识",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AW1",
+              "value": "A+页面",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AX1",
+              "value": "视频介绍",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AY1",
+              "value": "SP广告",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "AZ1",
+              "value": "品牌故事",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "BA1",
+              "value": "品牌广告",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "BB1",
+              "value": "秒杀",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "BC1",
+              "value": "AC关键词",
+              "type": "s",
+              "style": 15,
+              "formula": ""
+            },
+            {
+              "ref": "BD1",
+              "value": "商品重量",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "BE1",
+              "value": "商品重量（单位换算）",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "BF1",
+              "value": "商品尺寸",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "BG1",
+              "value": "商品尺寸（单位换算）",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "BH1",
+              "value": "包装重量",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "BI1",
+              "value": "包装重量（单位换算）",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "BJ1",
+              "value": "包装尺寸",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "BK1",
+              "value": "包装尺寸（单位换算）",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "BL1",
+              "value": "包装尺寸分段",
+              "type": "s",
+              "style": 14,
+              "formula": ""
+            },
+            {
+              "ref": "BM1",
+              "value": "标签",
+              "type": "s",
+              "style": 20,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 2,
+          "cells": [
+            {
+              "ref": "A2",
+              "value": "B01M107ZK7",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E2",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G2",
+              "value": "https://www.amazon.com/dp/B01M107ZK7",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 3,
+          "cells": [
+            {
+              "ref": "A3",
+              "value": "B01MSWFA0B",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E3",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G3",
+              "value": "https://www.amazon.com/dp/B01MSWFA0B",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "ref": "A4",
+              "value": "B01M0W4F3B",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E4",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G4",
+              "value": "https://www.amazon.com/dp/B01M0W4F3B",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 5,
+          "cells": [
+            {
+              "ref": "A5",
+              "value": "B07BBSLKL7",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E5",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G5",
+              "value": "https://www.amazon.com/dp/B07BBSLKL7",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "ref": "A6",
+              "value": "B00SMEIEVI",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E6",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G6",
+              "value": "https://www.amazon.com/dp/B00SMEIEVI",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 7,
+          "cells": [
+            {
+              "ref": "A7",
+              "value": "B00SMEI5BM",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E7",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G7",
+              "value": "https://www.amazon.com/dp/B00SMEI5BM",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "ref": "A8",
+              "value": "B00UKXYHQ0",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E8",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G8",
+              "value": "https://www.amazon.com/dp/B00UKXYHQ0",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "ref": "A9",
+              "value": "B01N1Q4ULL",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E9",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G9",
+              "value": "https://www.amazon.com/dp/B01N1Q4ULL",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "ref": "A10",
+              "value": "B00V9Z5PBO",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E10",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G10",
+              "value": "https://www.amazon.com/dp/B00V9Z5PBO",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "ref": "A11",
+              "value": "B00V9Z5PI2",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E11",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G11",
+              "value": "https://www.amazon.com/dp/B00V9Z5PI2",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "ref": "A12",
+              "value": "B00V9Z5JFG",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E12",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G12",
+              "value": "https://www.amazon.com/dp/B00V9Z5JFG",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 13,
+          "cells": [
+            {
+              "ref": "A13",
+              "value": "B00V9Z5KPA",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E13",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G13",
+              "value": "https://www.amazon.com/dp/B00V9Z5KPA",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "ref": "A14",
+              "value": "B00V9Z5UAK",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E14",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G14",
+              "value": "https://www.amazon.com/dp/B00V9Z5UAK",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "ref": "A15",
+              "value": "B00V9Z5PRS",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E15",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G15",
+              "value": "https://www.amazon.com/dp/B00V9Z5PRS",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "ref": "A16",
+              "value": "B00SMEDWBA",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E16",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G16",
+              "value": "https://www.amazon.com/dp/B00SMEDWBA",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "ref": "A17",
+              "value": "B00SMEDM06",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E17",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G17",
+              "value": "https://www.amazon.com/dp/B00SMEDM06",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "ref": "A18",
+              "value": "B07GWWVNNH",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E18",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G18",
+              "value": "https://www.amazon.com/dp/B07GWWVNNH",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "ref": "A19",
+              "value": "B00V9Z5P64",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E19",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G19",
+              "value": "https://www.amazon.com/dp/B00V9Z5P64",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "ref": "A20",
+              "value": "B07GWX6VKZ",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E20",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G20",
+              "value": "https://www.amazon.com/dp/B07GWX6VKZ",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "ref": "A21",
+              "value": "B07BBVMLTN",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E21",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G21",
+              "value": "https://www.amazon.com/dp/B07BBVMLTN",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "ref": "A22",
+              "value": "B00SMEH3MY",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E22",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G22",
+              "value": "https://www.amazon.com/dp/B00SMEH3MY",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "ref": "A23",
+              "value": "B06Y64XNFQ",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E23",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G23",
+              "value": "https://www.amazon.com/dp/B06Y64XNFQ",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "ref": "A24",
+              "value": "B00SMEGTF6",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E24",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G24",
+              "value": "https://www.amazon.com/dp/B00SMEGTF6",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "ref": "A25",
+              "value": "B00SMEIE7C",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E25",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G25",
+              "value": "https://www.amazon.com/dp/B00SMEIE7C",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "ref": "A26",
+              "value": "B07DG34N5C",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E26",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G26",
+              "value": "https://www.amazon.com/dp/B07DG34N5C",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "ref": "A27",
+              "value": "B00V9Z5JHO",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E27",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G27",
+              "value": "https://www.amazon.com/dp/B00V9Z5JHO",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "ref": "A28",
+              "value": "B00V9Z5F1E",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E28",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G28",
+              "value": "https://www.amazon.com/dp/B00V9Z5F1E",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "ref": "A29",
+              "value": "B01MTYFPYG",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E29",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G29",
+              "value": "https://www.amazon.com/dp/B01MTYFPYG",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "ref": "A30",
+              "value": "B07GX2GXZT",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E30",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G30",
+              "value": "https://www.amazon.com/dp/B07GX2GXZT",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "ref": "A31",
+              "value": "B01M58HPVK",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E31",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G31",
+              "value": "https://www.amazon.com/dp/B01M58HPVK",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "ref": "A32",
+              "value": "B07GWY4XPH",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E32",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G32",
+              "value": "https://www.amazon.com/dp/B07GWY4XPH",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "ref": "A33",
+              "value": "B00SMEDVIE",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E33",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G33",
+              "value": "https://www.amazon.com/dp/B00SMEDVIE",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "ref": "A34",
+              "value": "B00SMEEE3K",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E34",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G34",
+              "value": "https://www.amazon.com/dp/B00SMEEE3K",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "ref": "A35",
+              "value": "B00SMEDV98",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E35",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G35",
+              "value": "https://www.amazon.com/dp/B00SMEDV98",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "ref": "A36",
+              "value": "B00SMEFEG6",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E36",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G36",
+              "value": "https://www.amazon.com/dp/B00SMEFEG6",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "ref": "A37",
+              "value": "B00SMEDV66",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E37",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G37",
+              "value": "https://www.amazon.com/dp/B00SMEDV66",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "ref": "A38",
+              "value": "B00SMEGTK6",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E38",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G38",
+              "value": "https://www.amazon.com/dp/B00SMEGTK6",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "ref": "A39",
+              "value": "B07GX2M7ZY",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E39",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G39",
+              "value": "https://www.amazon.com/dp/B07GX2M7ZY",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "ref": "A40",
+              "value": "B07BBWVBW4",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E40",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G40",
+              "value": "https://www.amazon.com/dp/B07BBWVBW4",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 41,
+          "cells": [
+            {
+              "ref": "A41",
+              "value": "B07QFVTDWK",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E41",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G41",
+              "value": "https://www.amazon.com/dp/B07QFVTDWK",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 42,
+          "cells": [
+            {
+              "ref": "A42",
+              "value": "B00SMEIEQI",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E42",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G42",
+              "value": "https://www.amazon.com/dp/B00SMEIEQI",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 43,
+          "cells": [
+            {
+              "ref": "A43",
+              "value": "B01N4DTTO6",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E43",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G43",
+              "value": "https://www.amazon.com/dp/B01N4DTTO6",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 44,
+          "cells": [
+            {
+              "ref": "A44",
+              "value": "B00V9Z5JEC",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E44",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G44",
+              "value": "https://www.amazon.com/dp/B00V9Z5JEC",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 45,
+          "cells": [
+            {
+              "ref": "A45",
+              "value": "B00V9Z5PDC",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E45",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G45",
+              "value": "https://www.amazon.com/dp/B00V9Z5PDC",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 46,
+          "cells": [
+            {
+              "ref": "A46",
+              "value": "B01MYXK5KF",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E46",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G46",
+              "value": "https://www.amazon.com/dp/B01MYXK5KF",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 47,
+          "cells": [
+            {
+              "ref": "A47",
+              "value": "B01MSWVUK7",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E47",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G47",
+              "value": "https://www.amazon.com/dp/B01MSWVUK7",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 48,
+          "cells": [
+            {
+              "ref": "A48",
+              "value": "B00V9Z5JDI",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E48",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G48",
+              "value": "https://www.amazon.com/dp/B00V9Z5JDI",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 49,
+          "cells": [
+            {
+              "ref": "A49",
+              "value": "B00V9Z5F6O",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E49",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G49",
+              "value": "https://www.amazon.com/dp/B00V9Z5F6O",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 50,
+          "cells": [
+            {
+              "ref": "A50",
+              "value": "B00V9Z5JDS",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "E50",
+              "value": "https://www.amazon.com/s?k=null",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            },
+            {
+              "ref": "G50",
+              "value": "https://www.amazon.com/dp/B00V9Z5JDS",
+              "type": "s",
+              "style": 11,
+              "formula": ""
+            }
+          ]
+        }
+      ],
+      "conditionalFormatting": [
+        null
+      ],
+      "autoFilter": ""
+    },
+    {
+      "name": "Notes",
+      "range": "A1:A5",
+      "rows": [
+        {
+          "row": 1,
+          "cells": [
+            {
+              "ref": "A1",
+              "value": "卖家精灵官网：https://www.sellersprite.com",
+              "type": "s",
+              "style": 1,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 2,
+          "cells": [
+            {
+              "ref": "A2",
+              "value": "客服电话：139-8227-0926(谭先生)",
+              "type": "s",
+              "style": 1,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 3,
+          "cells": [
+            {
+              "ref": "A3",
+              "value": "微信客服：",
+              "type": "s",
+              "style": 1,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "ref": "A4",
+              "value": "备注：评分，评论，问答，变体，卖家等数据都是取的“最近更新”当日的数字。",
+              "type": "s",
+              "style": 2,
+              "formula": ""
+            }
+          ]
+        },
+        {
+          "row": 5,
+          "cells": [
+            {
+              "ref": "A5",
+              "value": "选 词 选 品 选 市 场，就 上 卖 家 精 灵",
+              "type": "s",
+              "style": 3,
+              "formula": ""
+            }
+          ]
+        }
+      ],
+      "conditionalFormatting": [
+        null
+      ],
+      "autoFilter": ""
+    }
+  ],
+  "definedNames": [
+    null
+  ]
+}

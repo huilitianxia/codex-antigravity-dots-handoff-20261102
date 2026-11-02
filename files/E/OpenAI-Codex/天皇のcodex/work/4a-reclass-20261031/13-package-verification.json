@@ -1,0 +1,20 @@
+{
+  "file": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261031-urgent-fixes\\13-0146-office-only.xlsm",
+  "sha256": "496f9daed5abe6d62a72ecbf56e5ff92cd3182a52556022d68d491a61cc18fa8",
+  "rows": 1,
+  "populated_cells": {
+    "C": "4A 0146",
+    "D": "WRITING_BOARD",
+    "E": "Edit (Partial Update)",
+    "L": "ASIN",
+    "M": "B0778HMZ9W",
+    "GD": "Office"
+  },
+  "all_other_data_cells_blank": true,
+  "changed_zip_parts": [
+    "xl/worksheets/sheet5.xml"
+  ],
+  "headers_macros_other_tabs_unchanged": true,
+  "valid_value_evidence": "Valid Values!B124 WRITING_BOARD / L124 Office",
+  "uploaded": false
+}

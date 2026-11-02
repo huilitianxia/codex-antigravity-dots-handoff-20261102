@@ -1,0 +1,177 @@
+周六销售本地只读分析
+结论：本店已有明显周末回落。4个完整周六均额$308.59，中位$245.81；21个工作日均额$538.86，中位$553.17，周六均额低42.73%。周六订单均数低42.44%，每单商品额$21.28与工作日$21.39几乎相同，历史差异主要来自订单数。
+企业采购订单日均：工作日7.57、周六2.50、周日0.75；普通订单也回落，不能只归因企业客户。
+口径：美国/USD/非取消订单；含Pending；按PDT日历日；商品额不含运费税费，未扣退款费用。
+数据最新购买时间：2026-10-31T06:50:16-07:00；文件最后修改（本机）：2026-10-31T23:21:49.744553
+完整日对比：10/02—10/30；10/01导出边界不明保守排除，10/31未完整且旧快照排除。
+{
+  "weekday": {
+    "days": 21,
+    "dates": [
+      "2026-10-02",
+      "2026-10-05",
+      "2026-10-06",
+      "2026-10-07",
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14",
+      "2026-10-15",
+      "2026-10-16",
+      "2026-10-19",
+      "2026-10-20",
+      "2026-10-21",
+      "2026-10-22",
+      "2026-10-23",
+      "2026-10-26",
+      "2026-10-27",
+      "2026-10-28",
+      "2026-10-29",
+      "2026-10-30"
+    ],
+    "orders_total": 529,
+    "orders_daily_mean": 25.19,
+    "orders_daily_median": 25,
+    "orders_min": 16,
+    "orders_max": 34,
+    "units_total": 693,
+    "units_daily_mean": 33,
+    "units_daily_median": 34,
+    "units_min": 19,
+    "units_max": 48,
+    "item_amount_total": 11315.96,
+    "item_amount_daily_mean": 538.86,
+    "item_amount_daily_median": 553.17,
+    "item_amount_min": 296.0,
+    "item_amount_max": 831.88,
+    "business": {
+      "orders_daily_mean": 7.57,
+      "units_daily_mean": 11.95,
+      "item_amount_daily_mean": 201.56
+    },
+    "nonbusiness": {
+      "orders_daily_mean": 17.62,
+      "units_daily_mean": 21.05,
+      "item_amount_daily_mean": 337.3
+    },
+    "fba": {
+      "orders_daily_mean": 24.62,
+      "units_daily_mean": 32,
+      "item_amount_daily_mean": 529.64
+    },
+    "business_amount_share": 0.374,
+    "amount_per_order": 21.39
+  },
+  "saturday": {
+    "days": 4,
+    "dates": [
+      "2026-10-03",
+      "2026-10-10",
+      "2026-10-17",
+      "2026-10-24"
+    ],
+    "orders_total": 58,
+    "orders_daily_mean": 14.5,
+    "orders_daily_median": 14.0,
+    "orders_min": 11,
+    "orders_max": 19,
+    "units_total": 83,
+    "units_daily_mean": 20.75,
+    "units_daily_median": 15.5,
+    "units_min": 13,
+    "units_max": 39,
+    "item_amount_total": 1234.34,
+    "item_amount_daily_mean": 308.59,
+    "item_amount_daily_median": 245.81,
+    "item_amount_min": 188.29,
+    "item_amount_max": 554.44,
+    "business": {
+      "orders_daily_mean": 2.5,
+      "units_daily_mean": 7.25,
+      "item_amount_daily_mean": 103.47
+    },
+    "nonbusiness": {
+      "orders_daily_mean": 12,
+      "units_daily_mean": 13.5,
+      "item_amount_daily_mean": 205.12
+    },
+    "fba": {
+      "orders_daily_mean": 14.25,
+      "units_daily_mean": 20.25,
+      "item_amount_daily_mean": 302.59
+    },
+    "business_amount_share": 0.3353,
+    "amount_per_order": 21.28,
+    "change_vs_weekday_pct": {
+      "orders": -42.44,
+      "units": -37.12,
+      "item_amount": -42.73
+    }
+  },
+  "sunday": {
+    "days": 4,
+    "dates": [
+      "2026-10-04",
+      "2026-10-11",
+      "2026-10-18",
+      "2026-10-25"
+    ],
+    "orders_total": 52,
+    "orders_daily_mean": 13,
+    "orders_daily_median": 13.0,
+    "orders_min": 9,
+    "orders_max": 17,
+    "units_total": 57,
+    "units_daily_mean": 14.25,
+    "units_daily_median": 14.0,
+    "units_min": 12,
+    "units_max": 17,
+    "item_amount_total": 956.47,
+    "item_amount_daily_mean": 239.12,
+    "item_amount_daily_median": 238.35,
+    "item_amount_min": 195.48,
+    "item_amount_max": 284.28,
+    "business": {
+      "orders_daily_mean": 0.75,
+      "units_daily_mean": 1,
+      "item_amount_daily_mean": 17.62
+    },
+    "nonbusiness": {
+      "orders_daily_mean": 12.25,
+      "units_daily_mean": 13.25,
+      "item_amount_daily_mean": 221.49
+    },
+    "fba": {
+      "orders_daily_mean": 12.75,
+      "units_daily_mean": 14,
+      "item_amount_daily_mean": 237.62
+    },
+    "business_amount_share": 0.0737,
+    "amount_per_order": 18.39,
+    "change_vs_weekday_pct": {
+      "orders": -48.39,
+      "units": -56.82,
+      "item_amount": -55.62
+    }
+  }
+}
+完整周末每日：
+{"date": "2026-10-03", "weekday": "Saturday", "orders": 12, "lines": 12, "units": 13, "item_amount": 211.37, "item_promotion_discount": 0.0, "after_item_promotion": 211.37, "business": {"orders": 1, "lines": 1, "units": 1, "item_amount": 9.49, "item_promotion_discount": 0.0, "after_item_promotion": 9.49}, "nonbusiness": {"orders": 11, "lines": 11, "units": 12, "item_amount": 201.88, "item_promotion_discount": 0.0, "after_item_promotion": 201.88}, "fba": {"orders": 12, "lines": 12, "units": 13, "item_amount": 211.37, "item_promotion_discount": 0.0, "after_item_promotion": 211.37}}
+{"date": "2026-10-04", "weekday": "Sunday", "orders": 12, "lines": 12, "units": 12, "item_amount": 201.88, "item_promotion_discount": 0.9, "after_item_promotion": 200.98, "business": {"orders": 0, "lines": 0, "units": 0, "item_amount": 0.0, "item_promotion_discount": 0.0, "after_item_promotion": 0.0}, "nonbusiness": {"orders": 12, "lines": 12, "units": 12, "item_amount": 201.88, "item_promotion_discount": 0.9, "after_item_promotion": 200.98}, "fba": {"orders": 12, "lines": 12, "units": 12, "item_amount": 201.88, "item_promotion_discount": 0.9, "after_item_promotion": 200.98}}
+{"date": "2026-10-10", "weekday": "Saturday", "orders": 19, "lines": 19, "units": 39, "item_amount": 554.44, "item_promotion_discount": 0.0, "after_item_promotion": 554.44, "business": {"orders": 3, "lines": 3, "units": 20, "item_amount": 275.63, "item_promotion_discount": 0.0, "after_item_promotion": 275.63}, "nonbusiness": {"orders": 16, "lines": 16, "units": 19, "item_amount": 278.81, "item_promotion_discount": 0.0, "after_item_promotion": 278.81}, "fba": {"orders": 19, "lines": 19, "units": 39, "item_amount": 554.44, "item_promotion_discount": 0.0, "after_item_promotion": 554.44}}
+{"date": "2026-10-11", "weekday": "Sunday", "orders": 14, "lines": 14, "units": 16, "item_amount": 284.28, "item_promotion_discount": 0.0, "after_item_promotion": 284.28, "business": {"orders": 1, "lines": 1, "units": 2, "item_amount": 34.42, "item_promotion_discount": 0.0, "after_item_promotion": 34.42}, "nonbusiness": {"orders": 13, "lines": 13, "units": 14, "item_amount": 249.86, "item_promotion_discount": 0.0, "after_item_promotion": 249.86}, "fba": {"orders": 14, "lines": 14, "units": 16, "item_amount": 284.28, "item_promotion_discount": 0.0, "after_item_promotion": 284.28}}
+{"date": "2026-10-17", "weekday": "Saturday", "orders": 11, "lines": 12, "units": 13, "item_amount": 188.29, "item_promotion_discount": 0.0, "after_item_promotion": 188.29, "business": {"orders": 3, "lines": 4, "units": 4, "item_amount": 67.38, "item_promotion_discount": 0.0, "after_item_promotion": 67.38}, "nonbusiness": {"orders": 8, "lines": 8, "units": 9, "item_amount": 120.91, "item_promotion_discount": 0.0, "after_item_promotion": 120.91}, "fba": {"orders": 10, "lines": 11, "units": 11, "item_amount": 164.31, "item_promotion_discount": 0.0, "after_item_promotion": 164.31}}
+{"date": "2026-10-18", "weekday": "Sunday", "orders": 9, "lines": 9, "units": 12, "item_amount": 195.48, "item_promotion_discount": 0.0, "after_item_promotion": 195.48, "business": {"orders": 2, "lines": 2, "units": 2, "item_amount": 36.08, "item_promotion_discount": 0.0, "after_item_promotion": 36.08}, "nonbusiness": {"orders": 7, "lines": 7, "units": 10, "item_amount": 159.4, "item_promotion_discount": 0.0, "after_item_promotion": 159.4}, "fba": {"orders": 9, "lines": 9, "units": 12, "item_amount": 195.48, "item_promotion_discount": 0.0, "after_item_promotion": 195.48}}
+{"date": "2026-10-24", "weekday": "Saturday", "orders": 16, "lines": 16, "units": 18, "item_amount": 280.24, "item_promotion_discount": 0.0, "after_item_promotion": 280.24, "business": {"orders": 3, "lines": 3, "units": 4, "item_amount": 61.38, "item_promotion_discount": 0.0, "after_item_promotion": 61.38}, "nonbusiness": {"orders": 13, "lines": 13, "units": 14, "item_amount": 218.86, "item_promotion_discount": 0.0, "after_item_promotion": 218.86}, "fba": {"orders": 16, "lines": 16, "units": 18, "item_amount": 280.24, "item_promotion_discount": 0.0, "after_item_promotion": 280.24}}
+{"date": "2026-10-25", "weekday": "Sunday", "orders": 17, "lines": 17, "units": 17, "item_amount": 274.83, "item_promotion_discount": 0.0, "after_item_promotion": 274.83, "business": {"orders": 0, "lines": 0, "units": 0, "item_amount": 0.0, "item_promotion_discount": 0.0, "after_item_promotion": 0.0}, "nonbusiness": {"orders": 17, "lines": 17, "units": 17, "item_amount": 274.83, "item_promotion_discount": 0.0, "after_item_promotion": 274.83}, "fba": {"orders": 16, "lines": 16, "units": 16, "item_amount": 268.84, "item_promotion_discount": 0.0, "after_item_promotion": 268.84}}
+10/31旧快照：
+{"date": "2026-10-31", "weekday": "Saturday", "orders": 4, "lines": 4, "units": 4, "item_amount": 54.96, "item_promotion_discount": 0.0, "after_item_promotion": 54.96, "business": {"orders": 0, "lines": 0, "units": 0, "item_amount": 0.0, "item_promotion_discount": 0.0, "after_item_promotion": 0.0}, "nonbusiness": {"orders": 4, "lines": 4, "units": 4, "item_amount": 54.96, "item_promotion_discount": 0.0, "after_item_promotion": 54.96}, "fba": {"orders": 4, "lines": 4, "units": 4, "item_amount": 54.96, "item_promotion_discount": 0.0, "after_item_promotion": 54.96}}
+已保存同小时业务报表（指标原名为订单商品总数）：
+{"source": "sales-20261031-same-hour.txt", "cutoff_PDT": "07:00", "current_date": "2026-10-31", "current": {"orders": 4, "units": 4, "item_amount": 54.96}, "previous_saturday": {"orders": 3, "units": 3, "item_amount": 56.97}, "amount_change_pct": -3.53}
+已知5082错误价$5.99订单（来自较晚UI快照，可能不在订单导出）：
+[{"date": "2026-10-31", "time_PDT": "11:55", "order_suffix": "1601839", "units": 2, "item_amount": 11.98, "in_order_source": false}, {"date": "2026-10-31", "time_PDT": "10:18", "order_suffix": "2110602", "units": 1, "item_amount": 5.99, "in_order_source": false}, {"date": "2026-10-31", "time_PDT": "09:32", "order_suffix": "5844256", "units": 2, "item_amount": 11.98, "in_order_source": false}]
+导出中错误价匹配：
+[]
+正常价还原金额未知：导出没有逐订单可靠正常价字段，不能随意扣除5单或按5件重估。
+局限：仅一个月和四个完整周六；不能证明全市场普遍，也不能区分流量下降与转化下降。

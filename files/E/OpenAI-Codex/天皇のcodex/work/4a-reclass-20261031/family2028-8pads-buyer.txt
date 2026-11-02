@@ -1,0 +1,1585 @@
+- generic: 卖家精灵
+- navigation "快捷菜单":
+  - heading "跳至" [level=2]:
+    - generic: 跳至
+  - list "跳至":
+    - link "主要内容":
+      - /url: "#skippedLink"
+      - generic: 主要内容
+    - link "关于此商品":
+      - /url: "#featurebullets_feature_div"
+      - generic: 关于此商品
+    - link "购买选项":
+      - /url: "#buybox"
+      - generic: 购买选项
+    - link "视频":
+      - /url: "#va-related-videos-widget_feature_div"
+      - generic: 视频
+    - link "评论":
+      - /url: "#customerReviews"
+      - generic: 评论
+  - separator
+  - heading "键盘快捷键" [level=2]:
+    - generic: 键盘快捷键
+  - list "键盘快捷键":
+    - link "搜索键、Alt键、正斜杠":
+      - /url: javascript:void(0)
+      - generic: 搜索
+      - generic: 备选
+      - generic: +
+      - generic: /
+    - link "购物车、Shift、Alt、C":
+      - /url: javascript:void(0)
+      - generic: 大车
+      - generic: 转移
+      - generic: +
+      - generic: 备选
+      - generic: +
+      - generic: C
+    - link "Home、Shift、Alt、H":
+      - /url: javascript:void(0)
+      - generic: 家
+      - generic: 转移
+      - generic: +
+      - generic: 备选
+      - generic: +
+      - generic: H
+    - link "您的订单、Shift、Alt、o":
+      - /url: javascript:void(0)
+      - generic: 订单
+      - generic: 转移
+      - generic: +
+      - generic: 备选
+      - generic: +
+      - generic: 哦
+    - link "要前往独立生活商店，请按 Shift、Alt、I 键。":
+      - /url: javascript:void(0)
+      - generic: 独立生活商店
+      - generic: 转移
+      - generic: +
+      - generic: 备选
+      - generic: +
+      - generic: 我
+    - button "加入购物车，Shift，Alt，K":
+      - generic: 添加到购物车
+      - generic: 转移
+      - generic: +
+      - generic: 备选
+      - generic: +
+      - generic: K
+    - button "产品摘要、Shift、Alt、D":
+      - generic: 产品概述
+      - generic: 转移
+      - generic: +
+      - generic: 备选
+      - generic: +
+      - generic: D
+    - button "显示/隐藏快捷键、Shift、Alt、Z":
+      - generic: 显示/隐藏快捷方式
+      - generic: 转移
+      - generic: +
+      - generic: 备选
+      - generic: +
+      - generic: Z
+  - generic: 要在项目之间移动，请使用键盘上的向上或向下箭头键。
+- banner:
+  - navigation "基本的":
+    - link "亚马逊":
+      - /url: /ref=nav_logo
+    - button "送至 纽约 10001":
+      - generic: 送至
+      - generic: 纽约 10001
+    - search:
+      - generic: 办公用品
+      - combobox "选择您要搜索的部门":
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option [selected]
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+        - option
+      - searchbox "搜索亚马逊"
+      - generic "去":
+        - button "去"
+    - link "选择您在亚马逊美国站购物的语言。当前选项为英语（EN）。":
+      - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang
+      - img "美国"
+      - generic: EN
+    - button "展开以更改语言或国家/地区"
+    - link "你好，安迪 账户和列表":
+      - /url: https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn
+      - generic: 你好，安迪
+      - generic: 账户和列表
+    - button "展开帐户和列表"
+    - link "返回 订单":
+      - /url: /gp/css/order-history?ref_=nav_orders_first
+      - generic: 返回
+      - generic: 订单
+    - link "购物车内有 99 件以上商品":
+      - /url: /gp/cart/view.html?ref_=nav_cart
+      - generic: 99+
+      - generic: 大车
+    - button "打开所有类别菜单":
+      - generic: 全部
+    - button "打开 Alexa 面板"
+    - button "加入 Prime 会员":
+      - generic: 加入 Prime 会员
+    - list:
+      - link "节日礼物":
+        - /url: https://www.amazon.com/b/?node=221346714011&enabledRefinements=%5B%7B%22rid%22%3A%22p_n_condition-type%22%2C%22value%22%3A%226461716011%22%2C%22ridType%22%3A%22SEARCH_SHORT_ID%22%2C%22type%22%3A%22BROWSE_NODE%22%7D%2C%7B%22rid%22%3A%22p_n_availability%22%2C%22value%22%3A%222661600011%22%2C%22ridType%22%3A%22SEARCH_SHORT_ID%22%2C%22type%22%3A%22BROWSE_NODE%22%7D%5D&ref_=nav_cs_discobar_hg2026#dossier-asin-grid
+        - generic: 节日礼物
+      - link "浏览历史记录":
+        - /url: /gp/history?ref_=nav_cs_timeline
+        - generic: 浏览历史记录
+      - button "浏览历史记录详情"
+      - link "礼品卡":
+        - /url: /gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc
+        - generic: 礼品卡
+      - button "礼品卡详情"
+      - link "畅销书":
+        - /url: /gp/bestsellers/?ref_=nav_cs_bestsellers
+        - generic: 畅销书
+      - link "今日特惠":
+        - /url: /deals?ref_=nav_cs_gb
+        - generic: 今日特惠
+      - link "优惠券":
+        - /url: /coupons?ref_=nav_cs_coupons
+        - generic: 优惠券
+      - link "家庭音响及影院":
+        - /url: /Home-Audio-Electronics/b/?ie=UTF8&node=667846011&ref_=nav_cs_home_audio
+        - generic: 家庭音响及影院
+      - link "Prime Video":
+        - /url: /gp/video/storefront?ref_=nav_cs_prime_video
+        - generic: Prime Video
+      - link "新品发布":
+        - /url: /gp/new-releases/?ref_=nav_cs_newreleases
+        - generic: 新品发布
+      - link "再次购买":
+        - /url: /gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again
+        - generic: 再次购买
+      - link "卖":
+        - /url: /b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell
+        - generic: 卖
+      - link "注册表":
+        - /url: /gp/browse.html?node=16115931011&ref_=nav_cs_registry
+        - generic: 注册表
+      - link "宠物用品":
+        - /url: /pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets
+        - generic: 宠物用品
+      - button "宠物用品详情"
+      - link "家居装修":
+        - /url: /Tools-and-Home-Improvement/b/?ie=UTF8&node=228013&ref_=nav_cs_hi
+        - generic: 家居装修
+      - button "家居装修详情"
+      - link "每天":
+        - /url: /everyday-essentials?ref_=nav_cs_ee
+        - generic: 每天
+      - link "家居、健康与婴儿护理":
+        - /url: /health-personal-care-nutrition-fitness/b/?ie=UTF8&node=3760901&ref_=nav_cs_hpc
+        - generic: 家居、健康与婴儿护理
+      - link "Kindle电子书":
+        - /url: /Kindle-eBooks/b/?ie=UTF8&node=154606011&ref_=nav_cs_kindle_books
+        - generic: Kindle电子书
+      - link "图书":
+        - /url: /books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books
+        - generic: 图书
+      - link "客户服务":
+        - /url: /hz/contact-us/foresight/hubgateway?ref_=nav_cs_fs_hybridhub_navbar_c
+        - generic: 客户服务
+      - link "玩具和游戏":
+        - /url: /toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys
+        - generic: 玩具和游戏
+      - button "玩具和游戏详情"
+      - link "杂货":
+        - /url: /fmc/grocery-gateway?gsc=fe16aGPfFs46S&ref_=nav_cs_groceries
+        - generic: 杂货
+      - link "定制产品":
+        - /url: /Amazon-Custom/b/?ie=UTF8&node=11032013011&ref_=nav_cs_custom
+        - generic: 定制产品
+      - button "定制产品详情"
+      - link "电视和视频":
+        - /url: /tvs/b/?ie=UTF8&node=172659&ref_=nav_cs_tv
+        - generic: 电视和视频
+      - link "药店":
+        - /url: https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy
+        - generic: 药店
+      - link "亚马逊购物分享":
+        - /url: /haul/store?ref_=nav_cs_hul_disb
+        - generic: 亚马逊购物分享
+      - link "亚马逊基础款":
+        - /url: /Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics
+        - generic: 亚马逊基础款
+      - link "医疗保健":
+        - /url: https://health.amazon.com/?ref_=nav_cs_medical_care_health_home
+        - generic: 医疗保健
+      - button "医疗护理详情"
+      - link "全食超市":
+        - /url: /alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=nav_cs_whole_foods
+        - generic: 全食超市
+      - link "计算机":
+        - /url: /computer-pc-hardware-accessories-add-ons/b/?ie=UTF8&node=541966&ref_=nav_cs_pc
+        - generic: 计算机
+      - link "当日送达":
+        - /url: /fmc/ssd-storefront?gsc=fe16aGPfFs46S&ref_=nav_cs_SSD_nav_storefront
+        - generic: 当日送达
+    - link "办公用品":
+      - /url: /Office-Products/b/?ie=UTF8&node=1064954&ref_=topnav_storetab_op
+      - generic: 办公用品
+    - link "办公用品交易":
+      - /url: /b/?ie=UTF8&node=1086186&ref_=sv_op_1
+      - generic: 办公用品交易
+    - link "学校用品，您当前位于下拉菜单中。要打开此下拉菜单，请按回车键。":
+      - /url: /Office-Supplies/b/?ie=UTF8&node=1069242&ref_=sv_op_2
+      - generic: 学校用品
+    - link "打印机、墨水和碳粉":
+      - /url: /Printers/b/?ie=UTF8&node=172635&ref_=sv_op_3
+      - generic: 打印机、墨水和碳粉
+    - link "投影仪":
+      - /url: /projectors/b/?ie=UTF8&node=300334&ref_=sv_op_4
+      - generic: 投影仪
+    - link "亚马逊企业购":
+      - /url: /business/register/org/landing/?_encoding=UTF8&ref=b2b_reg_subnav_office&ref_=sv_op_5
+      - generic: 亚马逊企业购
+    - dialog:
+      - heading "小计" [level=1]:
+        - generic: 小计
+      - heading "11,990.00 美元" [level=2]:
+        - generic: 11,990.00 美元
+      - link "前往购物车":
+        - /url: /cart?ref_=ox_ewc_ret_gtc_dsk_us
+        - generic: 前往购物车
+      - list:
+        - link "4A 带横线的便利贴，6 x 8 英寸，亮色 | 共 210 张，可用于记笔记和备忘录":
+          - /url: /gp/product/B07B8RBCKT/ref=ewc_pr_img_1?smid=A2O6EHY2KJ4BXE&psc=1
+          - img "4A 带横线的便利贴，6 x 8 英寸，亮色 | 共 210 张，可用于记笔记和备忘录"
+        - generic: 11.99美元
+        - generic: 数量：
+        - spinbutton "4A 型带横线便利贴，6 x 8 英寸，亮色 | 共 210 张，可用于记笔记和备忘录": "1000"
+- heading "产品概要介绍关键产品信息 键盘快捷 键 Shift + Alt + D" [level=1]:
+  - button "产品概要介绍关键产品信息":
+    - generic: 产品概要介绍关键产品信息
+  - separator
+  - generic: 键盘快捷
+  - generic: 键 Shift
+  - generic: +
+  - generic: Alt
+  - generic: +
+  - generic: D
+- main:
+  - list:
+    - link "办公用品":
+      - /url: /Office-Products/b/ref=dp_bc_1?ie=UTF8&node=1064954
+      - generic: 办公用品
+    - generic: ›
+    - link "办公及学习用品":
+      - /url: /Office-Supplies/b/ref=dp_bc_2?ie=UTF8&node=1069242
+      - generic: 办公及学习用品
+    - generic: ›
+    - link "纸":
+      - /url: /paper/b/ref=dp_bc_3?ie=UTF8&node=1069664
+      - generic: 纸
+    - generic: ›
+    - link "笔记本和便笺簿":
+      - /url: /Notebook/b/ref=dp_bc_4?ie=UTF8&node=1069756
+      - generic: 笔记本和便笺簿
+    - generic: ›
+    - link "自粘便签":
+      - /url: /Self-Stick-Note-Pads/b/ref=dp_bc_5?ie=UTF8&node=1297017011
+      - generic: 自粘便签
+  - generic: v5.0.6（数据来源：卖家精灵）
+  - generic: 质量得分
+  - generic: "7.6"
+  - generic: 近30天销量(父体)
+  - generic: "****"
+  - generic: 上市销售额
+  - generic: "****"
+  - generic: 均价
+  - generic: "****"
+  - generic: 巴西国家铁路
+  - generic: 840,876
+  - generic: FBA费用
+  - generic: "****"
+  - generic: 变体数
+  - generic: "4"
+  - generic: 1688找货源
+  - generic: 查外观专利
+  - generic "视频+图文教程":
+  - generic "设置":
+  - generic: 变体对比
+  - generic: (4)
+  - generic: Keepa 插件替代
+  - generic: 流量分析
+  - generic: 人工智能评论分析
+  - generic: 全站点售卖
+  - generic: 反查出单词
+  - generic: 变体流量对比
+  - generic: 收起
+  - generic: 主人！插件需要登录才能使用哦~
+  - generic: 立即登录
+  - link:
+    - /url: javascript:void(0)
+  - heading "卖家精灵-库存监控" [level=4]:
+    - generic: 卖家精灵-库存监控
+  - switch [checked]
+  - generic: 剩余库存
+  - generic: "4"
+  - generic: 5.02美元
+  - link "亚马逊":
+    - /url: https://www.amazon.com/gp/offer-listing/B07DJXC4PJ/ref=dp_olp_new_mbc?ie=UTF8&amp;condition=new
+    - generic: 亚马逊
+  - generic: "4"
+  - generic: 8.99美元
+  - link "4A（美国）有限公司":
+    - /url: https://www.amazon.com/gp/offer-listing/B07DJXC4PJ/ref=dp_olp_new_mbc?ie=UTF8&amp;condition=new
+    - generic: 4A（美国）有限公司
+  - generic: "3"
+  - generic: 查看详细
+  - img "亚马逊Prime标志"
+  - generic: 享受快速免费送货、独家优惠以及屡获殊荣的电影和电视节目。
+  - button "加入 Prime 会员":
+    - generic: 加入 Prime 会员
+  - generic: 5.02美元
+  - generic: "5"
+  - generic: 美元
+  - generic: 。
+  - generic: "02"
+  - generic: 每件0.63美元
+  - generic: （
+  - generic: 0.63美元
+  - text: 每件
+  - generic: 0.63美元）
+  - button "价格历史"
+  - generic: 价格历史
+  - generic: 11月6日星期五，
+  - generic: 亚马逊配送的订单满35美元即可享受免费送货服务。
+  - button "送货至纽约 10001":
+    - generic: 送货至
+    - generic: 纽约 10001
+  - generic: 仅剩4件库存 - 欲购从速。
+  - generic: 数量：
+  - combobox "数量：":
+    - option [selected]
+    - option
+    - option
+    - option
+    - option
+  - generic: 数量：
+  - generic: "1"
+  - button "添加到购物车"
+  - generic: 添加到购物车
+  - button "加入产品库":
+    - generic: 加入产品库
+  - generic: 主人～为了避免购物车被清空，建议您使用
+  - generic: “加入商品库”
+  - generic: 功能，这样可以永久收藏商品，还能批量分析。
+  - button "立即购买"
+  - generic: 立即购买
+  - group "卖家、运费和购买选项详情":
+    - heading "发货人/卖家" [level=4]:
+      - generic: 发货人/卖家
+    - generic: 亚马逊网站
+    - heading "返回" [level=4]:
+      - generic: 返回
+    - button "30天免费退款/换货":
+      - generic: 30天免费退款/换货
+    - heading "支付" [level=4]:
+      - generic: 支付
+    - button "安全交易":
+      - generic: 安全交易
+  - button "查看更多":
+    - generic: 查看更多
+  - link "加入自动购买":
+    - /url: /buying-rules/ref=rsi_ye_brh_yed&action=dyn-create-br&source=dpx_ye&asin=B07DJXC4PJ&existingRuleRedirectView=edit&existingRuleTerminatedRedirectView=edit&minFormActions=true
+    - generic: 加入自动购买
+  - separator
+  - button "添加到列表"
+  - generic: 添加到列表
+  - generic: 亚马逊上的其他卖家
+  - separator
+  - button "来自新 (2) 5.02美元 &亚马逊配送订单满 35 美元免运费。":
+    - generic: 来自新 (2)
+    - generic: 5.02美元
+    - generic: "5"
+    - generic: 美元
+    - generic: 。
+    - generic: "02"
+    - generic: "&"
+    - generic: 亚马逊配送订单满 35 美元
+    - strong: 免运费。
+    - strong
+  - button "分享":
+    - button "分享"
+  - button "点赞即可将商品保存到您的列表中":
+    - img "点赞即可将商品保存到您的列表中"
+  - radiogroup "图片缩略图":
+    - radio "产品图片":
+      - img "产品图片"
+    - radio "产品图片":
+      - img "产品图片"
+    - radio "产品图片":
+      - img "产品图片"
+  - list
+  - list:
+    - button "4A 2028-N 便利贴，2 x 2 英寸，小号，自粘便签，每本 100 张，每包 8 本，荧光色":
+      - img "4A 2028-N 便利贴，2 x 2 英寸，小号，自粘便签，每本 100 张，每包 8 本，荧光色"
+  - link "点击查看完整图片":
+    - /url: "#"
+    - generic: 点击查看完整图片
+  - heading "问问 Alexa 下载 Alexa 数据" [level=5]:
+    - generic: 问问 Alexa
+    - button "下载 Alexa 数据":
+      - generic: 下载 Alexa 数据
+  - list:
+    - button "这些容易移除吗？":
+      - generic: 这些容易移除吗？
+    - button "它们是用回收材料制成的吗？":
+      - generic: 它们是用回收材料制成的吗？
+    - button "它们可以用于织物吗？":
+      - generic: 它们可以用于织物吗？
+    - button "你可能喜欢这个的原因":
+      - generic: 你可能喜欢这个的原因
+    - button "与类似产品比较":
+      - generic: 与类似产品比较
+    - button "问问别的问题":
+      - generic: 问问别的问题
+  - button
+  - link:
+    - list
+  - generic: ASIN：
+  - generic: B07DJXC4PJ
+  - generic: 收起
+  - generic: "品牌:"
+  - generic: 4A
+  - generic: "卖家:"
+  - generic: 亚马逊
+  - generic: 商品名称： AMZ
+  - link "卖家：2":
+    - /url: https://www.amazon.com/gp/offer-listing/B07DJXC4PJ/ref=dp_olp_new_mbc?ie=UTF8&amp;condition=new
+    - generic: 卖家：2
+  - generic: 加入产品库
+  - paragraph:
+    - generic: "#840,876"
+    - generic: 办公
+    - generic: 用品
+  - paragraph:
+    - generic: "#12,123"
+    - generic: 自粘
+    - generic: 便签本
+  - generic: "近30天销量(父体):"
+  - generic: "****"
+  - generic: "近30天销量(子体):"
+  - generic: "****"
+  - generic: 单位：
+  - generic: "****"
+  - generic: FBA费用：
+  - generic: "****"
+  - generic: 毛利率：
+  - generic: "****"
+  - generic: 变体数：
+  - generic: "4"
+  - generic: 价格：
+  - generic: 5.02 美元
+  - generic: 评分（评分数）：
+  - generic: "4.1"
+  - generic: (323)
+  - generic: "商品时长:"
+  - generic: 6天
+  - generic: 颜色：
+  - generic: 荧光色
+  - generic: 尺寸：
+  - generic: 4英寸 x 2.1英寸
+  - generic: "全部流量词:"
+  - generic: "****"
+  - generic: 搜索推荐词：
+  - generic: "****"
+  - generic: 自然搜索词：
+  - generic: "****"
+  - generic: 广告流量词：
+  - generic: "****"
+  - generic: 关键词反查
+  - generic: 广告分析
+  - generic: 关联流量
+  - generic: 市场分析
+  - generic: 列表生成器
+  - generic: 1688找货源
+  - generic: 阿里巴巴
+  - generic: 销量历史
+  - generic: 产品卖点
+  - generic: 产品概要
+  - generic: 优麦云
+  - generic: 抖音达人
+  - generic: MCP服务
+  - generic: 品牌检测
+  - generic: 人工智能评论分析
+  - generic: 评论下载
+  - generic: 主图下载
+  - generic: A+图片下载
+  - generic: 评论图片下载
+  - generic: 卖家精灵
+  - heading "2028-N 便利贴，2 x 2 英寸，小号，自粘便签，每本 100 张，每包 8 本，荧光色" [level=1]:
+    - generic: 2028-N 便利贴，2 x 2 英寸，小号，自粘便签，每本 100 张，每包 8 本，荧光色
+  - link "前往 4A 商店":
+    - /url: /stores/4A/page/4E42DF11-6189-40AB-8685-6F3D9C788997?lp_asin=B07DJXC4PJ&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto
+    - generic: 前往 4A 商店
+  - generic "4.1 星（满分 5 星）":
+    - button "4.1 星（满分 5 星）":
+      - generic: "4.1"
+      - generic: 4.1 星（满分 5 星）
+  - link "323 条评论":
+    - /url: "#averageCustomerReviewsAnchor"
+    - generic "323 条评论":
+      - generic: （323）
+  - generic: "|"
+  - link "搜索此页面":
+    - /url: "#"
+    - generic: 搜索此页面
+  - separator
+  - generic: 30天最低价
+  - generic: 5.02美元
+  - generic: "5"
+  - generic: 美元
+  - generic: 。
+  - generic: "02"
+  - generic: 每件0.63美元
+  - generic: （
+  - generic: 0.63美元
+  - text: 每件
+  - generic: 0.63美元）
+  - button "价格历史"
+  - generic: 价格历史
+  - link "感谢您成为亚马逊顾客。立享50美元优惠： 亚马逊Visa卡获批后，只需支付0.00美元（实际支付5.02美元） 。":
+    - /url: /dp/product/B007URFTYI?pr=con321&inc=782e2c62-97d6-449f-9b98-51014cd1a3b3&ts=2x5woc0ww3j18xz6fb2sp4ycewzqzti&place=priceblock&plattr=math&imp=0ca27d3c-e363-4e15-b5ed-c40a51a72478&dasin=B07DJXC4PJ&mru=%2Fdp%2Fproduct%2FB07DJXC4PJ
+    - strong:
+      - generic: 感谢您成为亚马逊顾客。立享
+      - generic: 50美元
+      - generic: 优惠：
+    - text: 亚马逊Visa卡获批后，只需支付
+    - strong:
+      - generic: 0.00美元（实际支付
+    - strong:
+      - generic: 5.02美元） 。
+  - generic "免费退货":
+    - button "免费退货":
+      - generic: 免费退货
+  - table
+  - generic: 主要流量词
+  - generic: 收起
+  - generic: 主人！插件需要登录才能使用哦~
+  - generic: 立即登录
+  - generic "当前选中的颜色是荧光色。点击即可收起。":
+    - generic: 颜色：
+    - generic: 荧光色
+  - generic "有3个选择。":
+    - group "Make a Color selection":
+      - radiogroup:
+        - radio "霓虹色 5.02美元 5.02美元 每件0.63美元 （ 0.63美元 每件0.63美元） Only 4 left in stock - order soon. 11月6日，星期五" [checked]
+        - separator
+        - generic: 5.02美元
+        - generic: 5.02美元
+        - generic: 每件0.63美元
+        - generic: （
+        - generic: 0.63美元
+        - text: 每件
+        - generic: 0.63美元）
+        - generic: 11月6日，星期五
+      - navigation
+  - generic "选定尺寸为 4 英寸 x 2.1 英寸。点击即可折叠。":
+    - generic: 尺寸：
+    - generic: 4英寸 x 2.1英寸
+  - generic "共有 4 个选项。":
+    - group "Make a Size selection":
+      - radiogroup:
+        - radio "4英寸 x 2.1英寸" [checked]
+        - generic: 4英寸 x 2.1英寸
+        - radio "4英寸 x 2.1英寸（2个装）"
+        - generic: 4英寸 x 2.1英寸（2个装）
+        - radio "5.7英寸 x 2英寸"
+        - generic: 5.7英寸 x 2英寸
+        - radio "小号（2 件装）"
+        - generic: 小号（2 件装）
+  - list:
+    - rowgroup:
+      - generic: 颜色
+      - generic: 霓虹色
+      - generic: 尺寸
+      - generic: 4英寸 x 2.1英寸
+      - generic: 品牌
+      - generic: 4A
+      - generic: 单位数量
+      - generic: 8个装
+      - generic: 形状
+      - generic: 正方形
+  - separator
+  - heading "关于此商品 违规检测 列表优化" [level=2]:
+    - generic: 关于此商品
+    - button "违规检测":
+      - generic: 违规检测
+    - button "列表优化":
+      - generic: 列表优化
+  - list:
+    - generic: 【颜色和尺寸】2 英寸 x 2 英寸，8 种霓虹色混装，每本 100 张，每包 8 本
+    - generic: 【产品特点】优质纸张，易于使用和剥离，不留残胶，可保持清洁整齐。
+    - generic: "[应用] 非常适合快速记录信息和头脑风暴会议，方便捕捉想法。"
+    - generic: 【可回收】4A 便利贴可回收
+    - generic: 【4A品牌】品质优良，价格实惠！
+  - generic: 查看
+  - link "更多产品详情":
+    - /url: "#productDetails"
+    - generic: 更多产品详情
+  - separator
+  - heading "更多详情" [level=1]:
+    - generic: 更多详情
+  - generic: 小型企业
+  - generic: 本产品来自一家小型企业品牌。请支持小型企业。
+  - link "了解更多":
+    - /url: "#"
+    - generic: 了解更多
+  - generic: 本产品来自一家小型企业品牌。请支持小型企业。
+  - link:
+    - /url: "#"
+    - generic: 了解更多
+  - link "报告此产品或卖家的问题":
+    - /url: javascript:void(0)
+    - generic: 报告此产品或卖家的问题
+  - separator
+  - heading "类似商品，发货迅速" [level=4]:
+    - generic: 类似商品，发货迅速
+  - link:
+    - /url: /dp/B07VKMGTV6/ref=vp_d_fuw_pd?_encoding=UTF8&pf_rd_p=8e8fc6f3-7347-41ce-acb0-dd5d2946be3f&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=Zvb4O&pd_rd_i=B07VKMGTV6&pd_rd_w=NUymy&content-id=amzn1.sym.8e8fc6f3-7347-41ce-acb0-dd5d2946be3f&pd_rd_r=74bbdfba-0f37-47de-955e-57746dbead1c&psc=1
+  - link "Early Buy 便利贴 2x2英寸，6种亮色，12本，每本100张 | 12本自粘便利贴，每本100张，可重复粘贴，非常适合日常提醒和办公使用":
+    - /url: /dp/B07VKMGTV6/ref=vp_d_fuw_pd?_encoding=UTF8&pf_rd_p=8e8fc6f3-7347-41ce-acb0-dd5d2946be3f&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=Zvb4O&pd_rd_i=B07VKMGTV6&pd_rd_w=NUymy&content-id=amzn1.sym.8e8fc6f3-7347-41ce-acb0-dd5d2946be3f&pd_rd_r=74bbdfba-0f37-47de-955e-57746dbead1c&psc=1
+    - generic: Early Buy 便利贴 2x2英寸，6种亮色，12本，每本100张 | 12本自粘便利贴，每本100张，可重复粘贴，非常适合日常提醒和办公使用
+  - generic: 4.2 星（满分 5 星）
+  - link "2050 条评价":
+    - /url: /product-reviews/B07VKMGTV6/ref=vp_d_fuw_rv?_encoding=UTF8&pf_rd_p=8e8fc6f3-7347-41ce-acb0-dd5d2946be3f&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=Zvb4O&pd_rd_i=B07VKMGTV6&pd_rd_w=NUymy&content-id=amzn1.sym.8e8fc6f3-7347-41ce-acb0-dd5d2946be3f&pd_rd_r=74bbdfba-0f37-47de-955e-57746dbead1c?showViewpoints=1
+    - generic: （2050年）
+  - generic: 6.99 美元
+  - generic: （每件 0.01 美元）
+  - img "亚马逊Prime会员"
+  - separator
+  - heading "快速获取类似商品" [level=2]:
+    - generic: 快速获取类似商品
+  - button "对特定商品不感兴趣"
+  - list:
+    - link:
+      - /url: /Sticky-self-stick-repositionable-adhesive-reminders/dp/B07VKMGTV6/ref=dp-upsell-widget_d_sccl_1_1/138-3162330-3945130?pd_rd_w=RrpFQ&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07VKMGTV6&psc=1
+    - link "Early Buy 便利贴 2x2英寸，6种亮色，12本，每本100张 | 12本自粘便利贴，每本100张，可重复粘贴，非常适合日常提醒和办公使用":
+      - /url: /Sticky-self-stick-repositionable-adhesive-reminders/dp/B07VKMGTV6/ref=dp-upsell-widget_d_sccl_1_1/138-3162330-3945130?pd_rd_w=RrpFQ&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07VKMGTV6&psc=1
+      - generic: Early Buy 便利贴 2x2英寸，6种亮色，12本，每本100张 | 12本自粘便利贴，每本100张，可重复粘贴，非常适合日常提醒和办公使用
+    - link "评分 4.2 星（满分 5 星），2050 条评价":
+      - /url: /product-reviews/B07VKMGTV6/ref=dp-upsell-widget_d_sccl_1_1_cr/138-3162330-3945130?pd_rd_w=RrpFQ&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07VKMGTV6
+      - generic: 4.2 星（满分 5 星）
+      - generic: 2,050
+    - link "6.99美元":
+      - /url: /Sticky-self-stick-repositionable-adhesive-reminders/dp/B07VKMGTV6/ref=dp-upsell-widget_d_sccl_1_1/138-3162330-3945130?pd_rd_w=RrpFQ&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07VKMGTV6&psc=1
+      - generic: 6.99美元
+      - generic: "6"
+      - generic: 美元
+      - generic: 。
+      - generic: "99"
+    - link "（每件0.01美元）":
+      - /url: /Sticky-self-stick-repositionable-adhesive-reminders/dp/B07VKMGTV6/ref=dp-upsell-widget_d_sccl_1_1/138-3162330-3945130?pd_rd_w=RrpFQ&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07VKMGTV6&psc=1
+      - generic: （每件0.01美元）
+    - generic: 最快
+    - generic: 11月6日星期五即可收到。
+    - generic: 亚马逊配送，订单满 35 美元免运费
+  - separator
+  - heading "顾客还浏览了这些产品" [level=2]:
+    - generic: 顾客还浏览了这些产品
+  - button "对特定商品不感兴趣"
+  - list:
+    - link:
+      - /url: /Post-Supplies-Products-Supernova-Collection/dp/B01D8F5AWG/ref=pd_day0_d_sccl_2_1/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B01D8F5AWG&psc=1
+    - link "Post-it 超强粘性便签纸，1.88 x 1.88 英寸，超新星霓虹色，8 本装 | 学校用品和办公用品，粘性是普通便签纸的两倍":
+      - /url: /Post-Supplies-Products-Supernova-Collection/dp/B01D8F5AWG/ref=pd_day0_d_sccl_2_1/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B01D8F5AWG&psc=1
+      - generic: Post-it 超强粘性便签纸，1.88 x 1.88 英寸，超新星霓虹色，8 本装 | 学校用品和办公用品，粘性是普通便签纸的两倍
+    - link "4.8 星（满分 5 星），1397 条评价":
+      - /url: /product-reviews/B01D8F5AWG/ref=pd_day0_d_sccl_2_1_cr/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B01D8F5AWG
+      - generic: 4.8 星（满分 5 星）
+      - generic: 1,397
+    - link "-6%":
+      - /url: /Post-Supplies-Products-Supernova-Collection/dp/B01D8F5AWG/ref=pd_day0_d_sccl_2_1/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B01D8F5AWG&psc=1
+      - generic: "-6%"
+    - link "9.35美元":
+      - /url: /Post-Supplies-Products-Supernova-Collection/dp/B01D8F5AWG/ref=pd_day0_d_sccl_2_1/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B01D8F5AWG&psc=1
+      - generic: 9.35美元
+      - generic: "9"
+      - generic: 美元
+      - generic: 。
+      - generic: "35"
+    - link "（每件 1.17 美元）":
+      - /url: /Post-Supplies-Products-Supernova-Collection/dp/B01D8F5AWG/ref=pd_day0_d_sccl_2_1/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B01D8F5AWG&psc=1
+      - generic: （每件 1.17 美元）
+    - link "定价： 9.99美元":
+      - /url: /Post-Supplies-Products-Supernova-Collection/dp/B01D8F5AWG/ref=pd_day0_d_sccl_2_1/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B01D8F5AWG&psc=1
+      - generic: 定价：
+      - generic: 9.99美元
+    - generic: 最快
+    - generic: 11月6日星期五即可收到。
+    - generic: 亚马逊配送，订单满 35 美元免运费
+    - link:
+      - /url: /Early-Buy-Sticky-Bright-Self-Stick/dp/B07VKL99H5/ref=pd_day0_d_sccl_2_2/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07VKL99H5&psc=1
+    - link "早鸟优惠便利贴，4x4英寸，6种鲜艳颜色，6本，每本70张":
+      - /url: /Early-Buy-Sticky-Bright-Self-Stick/dp/B07VKL99H5/ref=pd_day0_d_sccl_2_2/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07VKL99H5&psc=1
+      - generic: 早鸟优惠便利贴，4x4英寸，6种鲜艳颜色，6本，每本70张
+    - link "评分 4.2 星（满分 5 星），2050 条评价":
+      - /url: /product-reviews/B07VKL99H5/ref=pd_day0_d_sccl_2_2_cr/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07VKL99H5
+      - generic: 4.2 星（满分 5 星）
+      - generic: 2,050
+    - link "6.99美元":
+      - /url: /Early-Buy-Sticky-Bright-Self-Stick/dp/B07VKL99H5/ref=pd_day0_d_sccl_2_2/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07VKL99H5&psc=1
+      - generic: 6.99美元
+      - generic: "6"
+      - generic: 美元
+      - generic: 。
+      - generic: "99"
+    - generic: 最快
+    - generic: 11月6日星期五即可收到。
+    - generic: 亚马逊配送，订单满 35 美元免运费
+    - link:
+      - /url: /Sticky-Bright-Colors-Self-Stick-Sheets/dp/B07V29X6YJ/ref=pd_day0_d_sccl_2_3/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07V29X6YJ&psc=1
+    - link "8x6英寸便利贴，8本装，亮色自粘便签本，共280张 | 大尺寸自粘便签本":
+      - /url: /Sticky-Bright-Colors-Self-Stick-Sheets/dp/B07V29X6YJ/ref=pd_day0_d_sccl_2_3/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07V29X6YJ&psc=1
+      - generic: 8x6英寸便利贴，8本装，亮色自粘便签本，共280张 | 大尺寸自粘便签本
+    - link "评分 4.2 星（满分 5 星），1,848 条评价":
+      - /url: /product-reviews/B07V29X6YJ/ref=pd_day0_d_sccl_2_3_cr/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07V29X6YJ
+      - generic: 4.2 星（满分 5 星）
+      - generic: 1,848
+    - link "14.99美元":
+      - /url: /Sticky-Bright-Colors-Self-Stick-Sheets/dp/B07V29X6YJ/ref=pd_day0_d_sccl_2_3/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07V29X6YJ&psc=1
+      - generic: 14.99美元
+      - generic: "14"
+      - generic: 美元
+      - generic: 。
+      - generic: "99"
+    - link "（每件0.05美元）":
+      - /url: /Sticky-Bright-Colors-Self-Stick-Sheets/dp/B07V29X6YJ/ref=pd_day0_d_sccl_2_3/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07V29X6YJ&psc=1
+      - generic: （每件0.05美元）
+    - generic: 最快
+    - generic: 11月6日星期五即可收到。
+    - generic: 亚马逊配送，订单满 35 美元免运费
+    - link:
+      - /url: /4A-Dispenser-Adhesive-Different-Self-Stick/dp/B08DKJ2K3T/ref=pd_day0_d_sccl_2_4/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B08DKJ2K3T&psc=1
+    - link "4A 卷装便签纸，带分配器，全粘性，宽 x 长 0.6 x 393 英寸，6 种不同的荧光色，自粘便签纸，6 卷/包，4A PSS 32x6":
+      - /url: /4A-Dispenser-Adhesive-Different-Self-Stick/dp/B08DKJ2K3T/ref=pd_day0_d_sccl_2_4/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B08DKJ2K3T&psc=1
+      - generic: 4A 卷装便签纸，带分配器，全粘性，宽 x 长 0.6 x 393 英寸，6 种不同的荧光色，自粘便签纸，6 卷/包，4A PSS 32x6
+    - link "评分 3.8 星（满分 5 星），223 条评价":
+      - /url: /product-reviews/B08DKJ2K3T/ref=pd_day0_d_sccl_2_4_cr/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B08DKJ2K3T
+      - generic: 3.8 星（满分 5 星）
+      - generic: "223"
+    - link "13.99美元":
+      - /url: /4A-Dispenser-Adhesive-Different-Self-Stick/dp/B08DKJ2K3T/ref=pd_day0_d_sccl_2_4/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B08DKJ2K3T&psc=1
+      - generic: 13.99美元
+      - generic: "13"
+      - generic: 美元
+      - generic: 。
+      - generic: "99"
+    - link "（每件 2.33 美元）":
+      - /url: /4A-Dispenser-Adhesive-Different-Self-Stick/dp/B08DKJ2K3T/ref=pd_day0_d_sccl_2_4/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B08DKJ2K3T&psc=1
+      - generic: （每件 2.33 美元）
+    - generic: 最快
+    - generic: 11月6日星期五即可收到。
+    - generic: 亚马逊配送，订单满 35 美元免运费
+    - link:
+      - /url: /Sticky-Bright-Colors-Self-Stick-Sheets/dp/B07V7JRKHY/ref=pd_day0_d_sccl_2_5/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07V7JRKHY&psc=1
+    - link "1.5x2英寸彩色自粘便签本，8本装，每本100张 | 适用于家庭、办公室、笔记本和学校":
+      - /url: /Sticky-Bright-Colors-Self-Stick-Sheets/dp/B07V7JRKHY/ref=pd_day0_d_sccl_2_5/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07V7JRKHY&psc=1
+      - generic: 1.5x2英寸彩色自粘便签本，8本装，每本100张 | 适用于家庭、办公室、笔记本和学校
+    - link "评分 4.3 星（满分 5 星），7250 条评价":
+      - /url: /product-reviews/B07V7JRKHY/ref=pd_day0_d_sccl_2_5_cr/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07V7JRKHY
+      - generic: 4.3 星（满分 5 星）
+      - generic: 7,250
+    - generic: 亚马逊之选
+    - link "4.74美元":
+      - /url: /Sticky-Bright-Colors-Self-Stick-Sheets/dp/B07V7JRKHY/ref=pd_day0_d_sccl_2_5/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07V7JRKHY&psc=1
+      - generic: 4.74美元
+      - generic: "4"
+      - generic: 美元
+      - generic: 。
+      - generic: "74"
+    - link "（每件 0.01 美元）":
+      - /url: /Sticky-Bright-Colors-Self-Stick-Sheets/dp/B07V7JRKHY/ref=pd_day0_d_sccl_2_5/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07V7JRKHY&psc=1
+      - generic: （每件 0.01 美元）
+    - generic: 最快
+    - generic: 11月6日星期五即可收到。
+    - generic: 亚马逊配送，订单满 35 美元免运费
+    - link:
+      - /url: /Post-Americas-Favorite-Sticky-Poptimistic/dp/B07PHGSQHC/ref=pd_day0_d_sccl_2_6/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07PHGSQHC&psc=1
+    - link "便利贴，1.38 x 1.88 英寸，Poptimistic 系列，24 本 | 学校用品和办公用品":
+      - /url: /Post-Americas-Favorite-Sticky-Poptimistic/dp/B07PHGSQHC/ref=pd_day0_d_sccl_2_6/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07PHGSQHC&psc=1
+      - generic: 便利贴，1.38 x 1.88 英寸，Poptimistic 系列，24 本 | 学校用品和办公用品
+    - link "评分 4.7 星（满分 5 星），3162 条评价":
+      - /url: /product-reviews/B07PHGSQHC/ref=pd_day0_d_sccl_2_6_cr/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07PHGSQHC
+      - generic: 4.7 星（满分 5 星）
+      - generic: 3,162
+    - link "16.17美元":
+      - /url: /Post-Americas-Favorite-Sticky-Poptimistic/dp/B07PHGSQHC/ref=pd_day0_d_sccl_2_6/138-3162330-3945130?pd_rd_w=utkcq&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=B79BTNF4BXQ7MY8X2VWR&pd_rd_wg=1IkzB&pd_rd_r=0542ab1c-5ce1-4d40-b1b1-26d819ac6f13&pd_rd_i=B07PHGSQHC&psc=1
+      - generic: 16.17美元
+      - generic: "16"
+      - generic: 美元
+      - generic: 。
+      - generic: "17"
+    - generic: 最快
+    - generic: 11月6日星期五即可收到。
+    - generic: 亚马逊配送，订单满 35 美元免运费
+  - navigation:
+    - navigation "在产品详情页面内导航":
+      - navigation "返回顶部 跳转链接":
+        - generic: 顶部
+      - navigation "关于此项目小部件跳转链接":
+        - generic: 关于此商品
+      - navigation "类似小部件跳转链接":
+        - generic: 相似的
+      - navigation "产品信息小部件跳转链接":
+        - generic: 产品信息
+      - navigation "从品牌小部件跳转链接":
+        - generic: 来自品牌
+      - navigation "问题小部件跳转链接":
+        - generic: 问题
+      - navigation "客户评论小部件跳转链接":
+        - generic: 评论
+    - navigation "返回顶部 图片跳转链接":
+      - img "4A 2028-N 便利贴，2 x 2 英寸，小号，自粘便签，每本 100 张，每包 8 本，荧光色"
+    - navigation "返回顶部标题跳转链接":
+      - generic: 2028-N 便利贴，2 x 2 英寸，小号，自粘便签，每本 100 张，每包 8 本，荧光色
+  - separator
+  - heading "来自制造商" [level=2]:
+    - generic: 来自制造商
+  - paragraph:
+  - heading [level=4]
+  - paragraph:
+    - generic: 便签纸
+  - paragraph:
+  - heading [level=4]
+  - paragraph:
+    - generic: 粘性大垫
+  - paragraph:
+  - heading [level=4]
+  - paragraph:
+    - generic: 便签旗
+  - paragraph:
+  - heading [level=4]
+  - paragraph:
+    - generic: 超强粘性桌面干擦垫
+  - table:
+    - rowgroup:
+      - row "全粘性便签 带横格的便利贴 带横格的便利贴 弹出式旗帜套装 粘性大号卫生巾 卷式便利贴":
+        - cell
+        - columnheader "全粘性便签":
+          - link "全粘性便签":
+            - /url: /dp/B07T55RL8M?ref=emc_s_m_5_i_atc
+            - generic: 全粘性便签
+        - columnheader "带横格的便利贴":
+          - link "带横格的便利贴":
+            - /url: /dp/B07T429N23?ref=emc_s_m_5_i_atc
+            - generic: 带横格的便利贴
+        - columnheader "带横格的便利贴":
+          - link "带横格的便利贴":
+            - /url: /dp/B07T79KGSF?ref=emc_s_m_5_i_atc
+            - generic: 带横格的便利贴
+        - columnheader "弹出式旗帜套装":
+          - link "弹出式旗帜套装":
+            - /url: /dp/B07VDRQNCP?ref=emc_s_m_5_i_atc
+            - generic: 弹出式旗帜套装
+        - columnheader "粘性大号卫生巾":
+          - link "粘性大号卫生巾":
+            - /url: /dp/B07T79M4MD?ref=emc_s_m_5_i_atc
+            - generic: 粘性大号卫生巾
+        - columnheader "卷式便利贴":
+          - link "卷式便利贴":
+            - /url: /dp/B07T2ZR129?ref=emc_s_m_5_i_atc
+            - generic: 卷式便利贴
+      - row "购买选项 购买选项 购买选项 购买选项 购买选项 购买选项":
+        - cell
+        - cell "购买选项":
+          - link "购买选项":
+            - /url: /dp/B07T55RL8M?ref=emc_s_m_5_i_atc
+            - generic: 购买选项
+        - cell "购买选项":
+          - link "购买选项":
+            - /url: /dp/B07T429N23?ref=emc_s_m_5_i_atc
+            - generic: 购买选项
+        - cell "购买选项":
+          - link "购买选项":
+            - /url: /dp/B07T79KGSF?ref=emc_s_m_5_i_atc
+            - generic: 购买选项
+        - cell "购买选项":
+          - link "购买选项":
+            - /url: /dp/B07VDRQNCP?ref=emc_s_m_5_i_atc
+            - generic: 购买选项
+        - cell "购买选项":
+          - link "购买选项":
+            - /url: /dp/B07T79M4MD?ref=emc_s_m_5_i_atc
+            - generic: 购买选项
+        - cell "购买选项":
+          - link "购买选项":
+            - /url: /dp/B07T2ZR129?ref=emc_s_m_5_i_atc
+            - generic: 购买选项
+      - row "用户评价 3.0 分（满分 5 分） 41 4.2 星（满分 5 星） 56 4.4 星（满分 5 星） 4 4.5 星（满分 5 星） 83 3.5 星（满分 5 星） 45 4.4 星（满分 5 星） 7":
+        - rowheader "用户评价":
+          - generic: 用户评价
+        - cell "3.0 分（满分 5 分） 41":
+          - generic: 3.0 分（满分 5 分）
+          - generic: "41"
+        - cell "4.2 星（满分 5 星） 56":
+          - generic: 4.2 星（满分 5 星）
+          - generic: "56"
+        - cell "4.4 星（满分 5 星） 4":
+          - generic: 4.4 星（满分 5 星）
+          - generic: "4"
+        - cell "4.5 星（满分 5 星） 83":
+          - generic: 4.5 星（满分 5 星）
+          - generic: "83"
+        - cell "3.5 星（满分 5 星） 45":
+          - generic: 3.5 星（满分 5 星）
+          - generic: "45"
+        - cell "4.4 星（满分 5 星） 7":
+          - generic: 4.4 星（满分 5 星）
+          - generic: "7"
+      - row "粘贴并重新粘贴 ✓ ✓ ✓ ✓ ✓ ✓":
+        - rowheader "粘贴并重新粘贴":
+          - generic: 粘贴并重新粘贴
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+      - row "Removes cleanly ✓ ✓ ✓ ✓ ✓ ✓":
+        - rowheader "Removes cleanly"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+      - row "Made with unique adhesive designed for paper ✓ ✓ ✓ ✓ ✓ ✓":
+        - rowheader "Made with unique adhesive designed for paper"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+  - separator
+  - heading "Product information" [level=1]
+  - button "Item details":
+    - heading "Item details" [level=5]
+  - heading "Warranty & Support" [level=3]
+  - text: "Amazon.com Return Policy:"
+  - text: "Amazon.com Voluntary 30-Day Return Guarantee: You can return many items you have purchased within 30 days following delivery of the item to you. Our Voluntary 30-Day Return Guarantee does not affect your legal right of withdrawal in any way. You can find out more about the exceptions and conditions"
+  - link "here":
+    - /url: /gp/help/customer/display.html/ref=orc_hp_s_retpol?ie=UTF8&nodeId=201819200
+  - text: .
+  - heading "Feedback" [level=3]
+  - text: Would you like to
+  - button "tell us about a lower price?": tell us about a lower price?
+  - button "Measurements":
+    - heading "Measurements" [level=5]
+  - button "Style":
+    - heading "Style" [level=5]
+  - heading "Product Description" [level=2]
+  - paragraph: 4A, brand, High Quality, Good price! 4a, professional sticky notes manufactures, started to research and develop on sticky notes from 2000, and took 7 years making a significant in researching technical difficulties. From 2007, We do OEM for many famous brand. Now 4A is one of best sticky notes manufactures in the world. 4a strive in producing the best quality sticky notes with smooth adhesive, stick longer, remove cleanly, no curved. 4A sticky notes have a unique adhesive technology to stick again and again on any smooth surface. 4a have several series of sticky notes, including creative design products, also accept OEM orders. Search 4A in you will find professional sticky you want and will be satisfied with our products.
+  - separator
+  - heading "Alexa AI Looking for specific info?" [level=3]:
+    - generic: Alexa AI
+    - text: Looking for specific info?
+  - textbox "想查找特定信息？":
+    - /placeholder: 询问 Alexa 或搜索评论和问答
+  - button "提交":
+    - img "提交"
+  - list:
+    - button "Can these be removed easily?"
+    - generic: Can these be removed easily?
+    - button "Are they made from recycled materials?"
+    - generic: Are they made from recycled materials?
+    - button "Can they be used on fabric?"
+    - generic: Can they be used on fabric?
+    - button "Are the notes repositionable?"
+    - generic: Are the notes repositionable?
+  - heading "视频" [level=2]: Videos
+  - generic: Help others learn more about this product by uploading a video!
+  - link "Upload your video":
+    - /url: /creatorhub/video/upload?productASIN=B07DJXC4PJ&referringURL=ZHAvQjA3REpYQzRQSg%3D%3D&ref=RVSW
+  - separator
+  - heading "WARNING:" [level=4]
+  - generic: CHOKING HAZARD -- Small parts. Not for children under 3 yrs.
+  - separator
+  - heading "What's in the box" [level=2]
+  - listitem: 1x2028-N
+  - generic "热门评论":
+    - heading "Customer reviews" [level=2]
+    - generic: 4.1 out of 5 stars
+    - generic: 4.1 out of 5
+    - generic: 323 global ratings
+    - list:
+      - link "62% 的评论给了五星好评。":
+        - /url: /portal/customer-reviews/B07DJXC4PJ/ref=acr_dp_hist_5?ie=UTF8&filterByStar=five_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 5 star
+        - progressbar
+        - generic: 62%
+      - link "14% 的评论获得了 4 星评价。":
+        - /url: /portal/customer-reviews/B07DJXC4PJ/ref=acr_dp_hist_4?ie=UTF8&filterByStar=four_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 4 star
+        - progressbar
+        - generic: 14%
+      - link "9% 的评价为 3 星":
+        - /url: /portal/customer-reviews/B07DJXC4PJ/ref=acr_dp_hist_3?ie=UTF8&filterByStar=three_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 3 star
+        - progressbar
+        - generic: 9%
+      - link "4% 的评论给了两星。":
+        - /url: /portal/customer-reviews/B07DJXC4PJ/ref=acr_dp_hist_2?ie=UTF8&filterByStar=two_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 2 star
+        - progressbar
+        - generic: 4%
+      - link "11% 的评论为一星。":
+        - /url: /portal/customer-reviews/B07DJXC4PJ/ref=acr_dp_hist_1?ie=UTF8&filterByStar=one_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 1 star
+        - progressbar
+        - generic: 11%
+    - button "How customer reviews and ratings work": How customer reviews and ratings work
+    - heading "Top reviews from the United States" [level=3]
+    - list:
+      - link "IMK":
+        - /url: /gp/profile/amzn1.account.AGF2HDZ5NDID2VW3GORUNHM2VVTQ?ref=cm_cr_dp_d_bdcrb_top
+        - generic: IMK
+      - generic: 5 out of 5 stars
+      - link "smaller than picture":
+        - /url: /portal/customer-reviews/srp/-/R1AO2HTECNLRU8/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "smaller than picture" [level=5]
+      - generic: Reviewed in the United States on August 8, 2020
+      - 'link "Color: Neon Assorted Size: 5.7\" x 2\""':
+        - /url: /portal/customer-reviews/B07DJG1W71/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+        - generic: "Color: Neon Assorted"
+        - text: "Size: 5.7\" x 2\""
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: When I bought them I assumed they would be your standard sticky note size but they're smaller compared to the normal square. Overall they stick well to surfaces, the colors are just like the pictures and there is enough writing space for dates, times, phone numbers, emails and stuff like that. Pretty good for the price I bought them for.
+      - button "Helpful"
+      - generic: Helpful
+      - button "报告审核": Report
+      - link "Brooke":
+        - /url: /gp/profile/amzn1.account.AHZJTOYCIWORUB2DSF6CFF6H6DKA?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Brooke
+      - generic: 5 out of 5 stars
+      - link "Nice":
+        - /url: /portal/customer-reviews/srp/-/R2I9X5G5XKSNRU/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "Nice" [level=5]
+      - generic: Reviewed in the United States on February 27, 2019
+      - 'link "Color: Neon Color Size: 4\" x 2.1\""':
+        - /url: /portal/customer-reviews/B07DJXC4PJ/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+        - generic: "Color: Neon Color"
+        - text: "Size: 4\" x 2.1\""
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: I mean, it’s what I expect from sticky notes. Great quality, unlike other cheap brands, they stick pretty well. Sometimes have a weird curve they stick too if you peel them quickly
+      - button "Helpful"
+      - generic: Helpful
+      - button "报告审核": Report
+      - link "Amazon Customer":
+        - /url: /gp/profile/amzn1.account.AHEO6AMO6PJJDDI6IE47RS3BDU4Q?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Amazon Customer
+      - generic: 4 out of 5 stars
+      - link "Easa of use":
+        - /url: /portal/customer-reviews/srp/-/R1XTQB83YZ2KF0/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "Easa of use" [level=5]
+      - generic: Reviewed in the United States on July 15, 2019
+      - 'link "Color: Neon Assorted Size: 5.7\" x 2\""':
+        - /url: /portal/customer-reviews/B07DJG1W71/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+        - generic: "Color: Neon Assorted"
+        - text: "Size: 5.7\" x 2\""
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: Use these in my plan book...makes it easy to change up assignments or move to next day if students are missing (small school; two to three students per subject matter)
+      - button "Helpful"
+      - generic: Helpful
+      - button "报告审核": Report
+      - link "Emma":
+        - /url: /gp/profile/amzn1.account.AHENDAJUI6AHPSDMCJGMKVHD7VUA?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Emma
+      - generic: 5 out of 5 stars
+      - link "really nice color but a little small":
+        - /url: /portal/customer-reviews/srp/-/RMQV80MO2997X/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "really nice color but a little small" [level=5]
+      - generic: Reviewed in the United States on June 9, 2021
+      - 'link "Color: Neon Color Size: 4\" x 2.1\""':
+        - /url: /portal/customer-reviews/B07DJXC4PJ/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+        - generic: "Color: Neon Color"
+        - text: "Size: 4\" x 2.1\""
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: really nice color but a little small
+      - button "Helpful"
+      - generic: Helpful
+      - button "报告审核": Report
+      - link "Amazon Customer":
+        - /url: /gp/profile/amzn1.account.AGAJB5SUT5VLEMPARANJUTWZXQMQ?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Amazon Customer
+      - generic: 1 out of 5 stars
+      - link "They don't stick very well":
+        - /url: /portal/customer-reviews/srp/-/R2E15VJWH1GWYB/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "They don't stick very well" [level=5]
+      - generic: Reviewed in the United States on August 13, 2019
+      - 'link "Color: Neon Color Size: 4\" x 2.1\""':
+        - /url: /portal/customer-reviews/B07DJXC4PJ/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+        - generic: "Color: Neon Color"
+        - text: "Size: 4\" x 2.1\""
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: Bought these for the fun colors, however, they don't actually stick to anything well at all. The adhesive covers half of the sticky note instead of just the top quarter like the brand name. They stick very strongly to each other, and when you peel one off the top, it permanently bends and doesn't actually stick to anything else then. If I do get one to stick, it curls up again and eventually falls off. I've tried multiple different ways of peeling a note off to minimize the bending, with no luck. Won't buy again, sticking to the brand name from now on for sure.
+      - generic: 2 people found this helpful
+      - button "Helpful"
+      - generic: Helpful
+      - button "报告审核": Report
+      - link "Ras B":
+        - /url: /gp/profile/amzn1.account.AE2Z6USIX3QPNRHQDQUFPMWKFZQQ?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Ras B
+      - generic: 3 out of 5 stars
+      - link "They're not sticky pads":
+        - /url: /portal/customer-reviews/srp/-/R3GT70BBE9RC0T/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "They're not sticky pads" [level=5]
+      - generic: Reviewed in the United States on August 30, 2019
+      - 'link "Color: Neon Assorted Size: 5.7\" x 2\""':
+        - /url: /portal/customer-reviews/B07DJG1W71/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+        - generic: "Color: Neon Assorted"
+        - text: "Size: 5.7\" x 2\""
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: I ordered them because of their size and color. However, they're not sticky and the quality is cheap. I"ll keep them but most likely will not order again.
+      - button "Helpful"
+      - generic: Helpful
+      - button "报告审核": Report
+      - link "Nikie Sloan":
+        - /url: /gp/profile/amzn1.account.AHKM5VCUSOCIFG4TOYDLWJ4BCQOA?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Nikie Sloan
+      - generic: 5 out of 5 stars
+      - link "Works Great":
+        - /url: /portal/customer-reviews/srp/-/R3OS0ZMAYVG3ZF/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "Works Great" [level=5]
+      - generic: Reviewed in the United States on December 20, 2021
+      - 'link "Color: Neon Color Size: 4\" x 2.1\""':
+        - /url: /portal/customer-reviews/B07DJXC4PJ/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+        - generic: "Color: Neon Color"
+        - text: "Size: 4\" x 2.1\""
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: Works Great
+      - button "Helpful"
+      - generic: Helpful
+      - button "报告审核": Report
+      - link "MizzDee":
+        - /url: /gp/profile/amzn1.account.AHNZLVESVONKI7RVM7LYMI233JTQ?ref=cm_cr_dp_d_bdcrb_top
+        - generic: MizzDee
+      - generic: 5 out of 5 stars
+      - link "Post me!":
+        - /url: /portal/customer-reviews/srp/-/R21IWJ2Q3C29P9/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "Post me!" [level=5]
+      - generic: Reviewed in the United States on October 23, 2019
+      - 'link "Color: Neon Color Size: 4\" x 2.1\""':
+        - /url: /portal/customer-reviews/B07DJXC4PJ/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+        - generic: "Color: Neon Color"
+        - text: "Size: 4\" x 2.1\""
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: Love post it notes. These are bright and happy and useful.
+      - button "Helpful"
+      - generic: Helpful
+      - button "报告审核": Report
+    - link "See more reviews":
+      - /url: /portal/customer-reviews/B07DJXC4PJ/ref=cm_cr_dp_d_show_all_top?_encoding=UTF8&ie=UTF8&reviewerType=all_reviews
+      - generic: See more reviews
+    - heading "Top reviews from other countries" [level=3]
+    - list:
+      - generic: dessaraine
+      - generic: 3 out of 5 stars
+      - heading "Does the job" [level=5]
+      - generic: Reviewed in Canada on March 23, 2024
+      - 'link "Color: Neon Color Size: 4\" x 2.1\""':
+        - /url: /portal/customer-reviews/B07DJXC4PJ/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+        - generic: "Color: Neon Color"
+        - text: "Size: 4\" x 2.1\""
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: Very sticky, very tiny but suits the purpose 😁
+      - button "报告审核": Report
+      - generic: market use
+      - generic: 1 out of 5 stars
+      - heading "do not stick" [level=5]
+      - generic: Reviewed in Canada on June 27, 2023
+      - 'link "Color: Neon Color Size: 4\" x 2.1\""':
+        - /url: /portal/customer-reviews/B07DJXC4PJ/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+        - generic: "Color: Neon Color"
+        - text: "Size: 4\" x 2.1\""
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: these were terrible
+      - button "报告审核": Report
+    - link "See more reviews":
+      - /url: /portal/customer-reviews/B07DJXC4PJ/ref=cm_cr_dp_d_show_all_top?_encoding=UTF8&ie=UTF8&reviewerType=all_reviews
+      - generic: See more reviews
+- complementary "您最近浏览过的商品和推荐商品"
+- button "返回顶部":
+  - generic: Back to top
+- heading "Get to Know Us" [level=6]
+- list:
+  - link "Careers":
+    - /url: https://www.amazon.jobs
+  - link "Amazon Newsletter":
+    - /url: https://www.aboutamazon.com/subscribe?utm_source=amazon_com&utm_medium=amazonfooter&utm_campaign=newslettersubscribers&utm_term=amazonnewssignup
+  - link "About Amazon":
+    - /url: https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about
+  - link "Accessibility":
+    - /url: https://www.amazon.com/b?node=15701038011&ie=UTF8
+  - link "Sustainability":
+    - /url: https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer
+  - link "Press Center":
+    - /url: https://www.amazon.com/pr
+  - link "Investor Relations":
+    - /url: https://www.amazon.com/ir
+  - link "Amazon Devices":
+    - /url: /gp/browse.html?node=2102313011&ref_=footer_devices
+  - link "Amazon Science":
+    - /url: https://www.amazon.science
+- heading "Make Money with Us" [level=6]
+- list:
+  - link "Sell on Amazon":
+    - /url: https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa
+  - link "Sell apps on Amazon":
+    - /url: https://developer.amazon.com
+  - link "Supply to Amazon":
+    - /url: https://supply.amazon.com
+  - link "Protect & Build Your Brand":
+    - /url: https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT
+  - link "Become an Affiliate":
+    - /url: https://affiliate-program.amazon.com/
+  - link "Become a Delivery Driver":
+    - /url: https://dspjobhub.com/
+  - link "Start a Package Delivery Business":
+    - /url: https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home
+  - link "Advertise Your Products":
+    - /url: https://advertising.amazon.com/?ref=ext_amzn_ftr
+  - link "Self-Publish with Us":
+    - /url: /gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing
+  - link "Become an Amazon Hub Partner":
+    - /url: https://www.amazon.com/b?node=216188543011
+  - text: ›
+  - link "See More Ways to Make Money":
+    - /url: /b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore
+- heading "Amazon Payment Products" [level=6]
+- list:
+  - link "Amazon Visa":
+    - /url: /iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc
+  - link "Amazon Store Card":
+    - /url: /credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc
+  - link "Amazon Secured Card":
+    - /url: /dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB
+  - link "Amazon Business Card":
+    - /url: /dp/B0DVBL912R?plattr=ACOMFO&ie=UTF-8
+  - link "Shop with Points":
+    - /url: https://www.amazon.com/hp/shopwithpoints/servicing
+  - link "Credit Card Marketplace":
+    - /url: /gp/browse.html?node=3561432011&ref_=footer_ccmp
+  - link "Reload Your Balance":
+    - /url: /gp/browse.html?node=10232440011&ref_=footer_reload_us
+  - link "Gift Cards":
+    - /url: https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop
+  - link "Amazon Currency Converter":
+    - /url: /gp/browse.html?node=388305011&ref_=footer_tfx
+- heading "Let Us Help You" [level=6]
+- list:
+  - link "Your Account":
+    - /url: https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya
+  - link "Your Orders":
+    - /url: https://www.amazon.com/gp/css/order-history?ref_=footer_yo
+  - link "Shipping Rates & Policies":
+    - /url: /gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates
+  - link "Amazon Prime":
+    - /url: /gp/prime?ref_=footer_prime
+  - link "Returns & Replacements":
+    - /url: /gp/css/returns/homepage.html?ref_=footer_hy_f_4
+  - link "Manage Your Content and Devices":
+    - /url: /hz/mycd/myx?ref_=footer_myk
+  - link "Recalls and Product Safety Alerts":
+    - /url: https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa
+  - link "Product Safety Tips":
+    - /url: /gp/browse.html?node=119071507011&ref_=footer_us_ps
+  - link "Registry & Gift List":
+    - /url: /registries?ref_=nav_footer_registry_giftlist_desktop
+  - link "Customer Service":
+    - /url: /hz/contact-us/foresight/hubgateway?ref_=footer_gw_m_b_he
+- link "亚马逊美国首页":
+  - /url: /?ref_=footer_logo
+- link "选择购物语言。当前选项为英语。":
+  - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang
+  - generic: English
+- button "展开以更改语言或国家/地区"
+- button "请选择购物国家/地区。当前选项为美国。":
+  - generic: United States
+- navigation "亚马逊上还有更多内容":
+  - generic "亚马逊上还有更多内容":
+    - list:
+      - link "Amazon Music Stream millions of songs":
+        - /url: https://music.amazon.com?ref=dm_aff_amz_com
+        - heading "Amazon Music" [level=5]
+        - text: Stream millions
+        - text: of songs
+      - link "Amazon Ads Reach customers wherever they spend their time":
+        - /url: https://advertising.amazon.com/?ref=footer_advtsing_amzn_com
+        - heading "Amazon Ads" [level=5]
+        - text: Reach customers
+        - text: wherever they
+        - text: spend their time
+      - link "6pm Score deals on fashion brands":
+        - /url: https://www.6pm.com
+        - heading "6pm" [level=5]
+        - text: Score deals
+        - text: on fashion brands
+      - link "AbeBooks Books, art & collectibles":
+        - /url: https://www.abebooks.com
+        - heading "AbeBooks" [level=5]
+        - text: Books, art
+        - text: "& collectibles"
+      - link "ACX Audiobook Publishing Made Easy":
+        - /url: https://www.acx.com/
+        - heading "ACX" [level=5]
+        - text: Audiobook Publishing
+        - text: Made Easy
+      - link "Sell on Amazon Start a Selling Account":
+        - /url: https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell
+        - heading "Sell on Amazon" [level=5]
+        - generic: Start a Selling Account
+      - link "Veeqo 物流软件 库存管理":
+        - /url: https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer
+        - heading "Veeqo" [level=5]
+        - generic: 物流软件
+        - generic: 库存管理
+    - list:
+      - link "亚马逊企业购 一切与 您业务相关":
+        - /url: /business?ref_=footer_retail_b2b
+        - heading "亚马逊企业购" [level=5]:
+          - generic: 亚马逊企业购
+        - generic: 一切与
+        - generic: 您业务相关
+      - link "亚马逊的食品杂货 食品杂货及其他商品 直接送到您家门口":
+        - /url: /fmc/grocery-gateway?almBrandId=fe16aGPfFs46S&ref_=footer_groceries
+        - heading "亚马逊的食品杂货" [level=5]:
+          - generic: 亚马逊的食品杂货
+        - generic: 食品杂货及其他商品
+        - generic: 直接送到您家门口
+      - link "亚马逊全球 国际订单发货":
+        - /url: /gp/browse.html?node=20338496011&ref_=footer_amazonglobal
+        - heading "亚马逊全球" [level=5]:
+          - generic: 亚马逊全球
+        - generic: 国际订单发货
+      - link "家庭服务 经验丰富的专业人士，为您 带来幸福保障":
+        - /url: /services?ref_=footer_services
+        - heading "家庭服务" [level=5]:
+          - generic: 家庭服务
+        - generic: 经验丰富的专业人士，为您
+        - generic: 带来幸福保障
+      - link "亚马逊网络服务 可扩展云 计算服务":
+        - /url: https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter
+        - heading "亚马逊网络服务" [level=5]:
+          - generic: 亚马逊网络服务
+        - generic: 可扩展云
+        - generic: 计算服务
+      - link "有声读物 聆听有声读物和原创 音频表演":
+        - /url: https://www.audible.com
+        - heading "有声读物" [level=5]:
+          - generic: 有声读物
+        - generic: 聆听有声读物和原创
+        - generic: 音频表演
+      - link "Box Office Mojo 查找电影 票房数据":
+        - /url: https://www.boxofficemojo.com/?ref_=amzn_nav_ftr
+        - heading "Box Office Mojo" [level=5]:
+          - generic: Box Office Mojo
+        - generic: 查找电影
+        - generic: 票房数据
+    - list:
+      - link "Goodreads 书评 与推荐":
+        - /url: https://www.goodreads.com
+        - heading "Goodreads" [level=5]:
+          - generic: Goodreads
+        - generic: 书评
+        - generic: 与推荐
+      - link "IMDb 电影、电视 和名人":
+        - /url: https://www.imdb.com
+        - heading "IMDb" [level=5]:
+          - generic: IMDb
+        - generic: 电影、电视
+        - generic: 和名人
+      - link "IMDbPro 获取娱乐行业 专业人士所需信息":
+        - /url: https://pro.imdb.com?ref_=amzn_nav_ftr
+        - heading "IMDbPro" [level=5]:
+          - generic: IMDbPro
+        - generic: 获取娱乐行业
+        - generic: 专业人士所需信息
+      - link "Kindle直接出版 轻松实现 独立数字和印刷出版":
+        - /url: https://kdp.amazon.com
+        - heading "Kindle直接出版" [level=5]:
+          - generic: Kindle直接出版
+        - generic: 轻松实现 独立数字和印刷出版
+      - link "亚马逊照片 Prime会员享无限照片存储空间":
+        - /url: /gp/browse.html?node=13234696011&ref_=_gno_p_foot
+        - heading "亚马逊照片" [level=5]:
+          - generic: 亚马逊照片
+        - generic: Prime会员享无限照片存储空间
+      - link "Prime Video Direct 视频分发 变得轻松":
+        - /url: https://videodirect.amazon.com/home/landing
+        - heading "Prime Video Direct" [level=5]:
+          - generic: Prime Video Direct
+        - generic: 视频分发
+        - generic: 变得轻松
+      - link "Shopbop 设计师 时尚品牌":
+        - /url: https://www.shopbop.com
+        - heading "Shopbop" [level=5]:
+          - generic: Shopbop
+        - generic: 设计师
+        - generic: 时尚品牌
+    - list:
+      - link "亚马逊二手商品 优质二手商品超值优惠":
+        - /url: /gp/browse.html?node=10158976011&ref_=footer_wrhsdls
+        - heading "亚马逊二手商品" [level=5]:
+          - generic: 亚马逊二手商品
+        - generic: 优质二手商品超值优惠
+      - link "全食超市 美国最健康的 杂货店":
+        - /url: https://www.wholefoodsmarket.com
+        - heading "全食超市" [level=5]:
+          - generic: 全食超市
+        - generic: 美国最健康的
+        - generic: 杂货店
+      - link "哇！ 交易和 骗局":
+        - /url: https://www.woot.com/
+        - heading "哇！" [level=5]:
+          - generic: 哇！
+        - generic: 交易和
+        - generic: 骗局
+      - link "Zappos 鞋履及 服装":
+        - /url: https://www.zappos.com
+        - heading "Zappos" [level=5]:
+          - generic: Zappos
+        - generic: 鞋履及
+        - generic: 服装
+      - link "戒指 智能家居 安防系统":
+        - /url: https://ring.com
+        - heading "戒指" [level=5]:
+          - generic: 戒指
+        - generic: 智能家居
+        - generic: 安防系统
+      - link "eero WiFi 在每个房间播放 4K 视频":
+        - /url: https://eero.com/
+        - heading "eero WiFi" [level=5]:
+          - generic: eero WiFi
+        - generic: 在每个房间播放 4K 视频
+      - link "眨 智能安防 ，家家有 保障":
+        - /url: https://blinkforhome.com/?ref=nav_footer
+        - heading "眨" [level=5]:
+          - generic: 眨
+        - generic: 智能安防
+        - generic: ，家家有 保障
+    - list:
+      - link "邻居应用 实时犯罪 与安全警报":
+        - /url: https://shop.ring.com/pages/neighbors-app
+        - heading "邻居应用" [level=5]:
+          - generic: 邻居应用
+        - generic: 实时犯罪
+        - generic: 与安全警报
+      - link "药盒 简化药房":
+        - /url: https://www.pillpack.com
+        - heading "药盒" [level=5]:
+          - generic: 药盒
+        - generic: 简化药房
+      - link "亚马逊翻新产品 值得信赖的翻新技术":
+        - /url: /gp/browse.html?node=12653393011&ref_=footer_usrenew
+        - heading "亚马逊翻新产品" [level=5]:
+          - generic: 亚马逊翻新产品
+        - generic: 值得信赖的翻新技术
+      - link "亚马逊月亮 无需游戏主机，即可畅玩云端游戏":
+        - /url: https://www.amazon.com/luna/landing-page?ref_=tmp_retail_footer
+        - heading "亚马逊月亮" [level=5]:
+          - generic: 亚马逊月亮
+        - generic: 无需游戏主机，即可畅玩云端游戏
+- list:
+  - link "使用条款":
+    - /url: /gp/help/customer/display.html?nodeId=508088&ref_=footer_cou
+    - generic: 使用条款
+  - link "隐私声明":
+    - /url: /gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ&ref_=footer_privacy
+    - generic: 隐私声明
+  - link "消费者健康数据隐私披露":
+    - /url: /gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy
+    - generic: 消费者健康数据隐私披露
+  - link "您的广告隐私设置":
+    - /url: /privacyprefs?ref_=footer_iba
+    - generic: 您的广告隐私设置
+- generic: © 1996-2026，亚马逊公司或其关联公司
+- iframe [id="DAsis"]
+- generic: 测试：amzn-nv-flyout-healthy-choice
+- generic: 测试：nav-rufus-disc-txt
+- generic: 测试：a-truncate-cut
+- generic: 测试：sp-cc-wrapper
+- generic: 测试：.mo-wp
+- generic: 测试：.a-image-container
+- generic: 测试：sp-cc
+- generic: 测试：.amzn-box-inner
+- generic: 测试：.js-order-card
+- generic: 测试：pldn-deep-link
+- generic: 测试：添加到购物车按钮
+- generic: 测试：amzn-nav-app-banner-container
+- generic: 测试：.sparkle-container

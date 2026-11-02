@@ -1,0 +1,4397 @@
+{
+  "source_template": "D:/下载文件/分类商品报告_10-31-2026.xlsm",
+  "receipt": "D:\\下载文件\\01-price-title-fixes-processing-summary.xlsm",
+  "stats": {
+    "rows": 164,
+    "asins": 89,
+    "title_rows": 164,
+    "color_rows": 8,
+    "manufacturer_rows": 4,
+    "ui_reserved_asins": [
+      "B01N6J0VZO",
+      "B07F2CWVQ7",
+      "B07F2FCHLK",
+      "B07FK8ML41",
+      "B07FKJNNHP",
+      "B07FKL115P"
+    ],
+    "holds": 0
+  },
+  "operations": [
+    {
+      "sku": "4A GMSCLB 1902",
+      "asin": "B0821GTX3C",
+      "product_type": "LABEL",
+      "cells": {
+        "C": "4A GMSCLB 1902",
+        "D": "LABEL",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B0821GTX3C",
+        "I": "4A Chalkboard Labels, 2.5 x 3.5 in, Black",
+        "J": "Label and organize everyday items"
+      },
+      "before": {
+        "I": "4A Stickers, Black Chalkboard Labels, 2.5x3.5 Inches, 96 Chalkboard Stickers, Waterproof Reuseable and Remove Cleanly, for Jars, Glass, Cups, Organize Your Kitchen, 4A LB 1902",
+        "J": "B0821GTX3C"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行228",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Stickers, Black Chalkboard Labels, 2.5x3.5 Inches, 96 Chalkboard Stickers, Waterproof Reuseable and Remove Cleanly, for Jars, Glass, Cups, Organize Your Kitchen, 4A LB 1902"
+    },
+    {
+      "sku": "4A LB 1902",
+      "asin": "B0821GTX3C",
+      "product_type": "LABEL",
+      "cells": {
+        "C": "4A LB 1902",
+        "D": "LABEL",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B0821GTX3C",
+        "I": "4A Chalkboard Labels, 2.5 x 3.5 in, Black",
+        "J": "Label and organize everyday items"
+      },
+      "before": {
+        "I": "4A Self-Stick Notes, Classic Assorted, 4A LB 1902",
+        "J": "B0821GTX3C"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行228",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Stickers, Black Chalkboard Labels, 2.5x3.5 Inches, 96 Chalkboard Stickers, Waterproof Reuseable and Remove Cleanly, for Jars, Glass, Cups, Organize Your Kitchen, 4A LB 1902"
+    },
+    {
+      "sku": "4A SCLB 1902",
+      "asin": "B0821GTX3C",
+      "product_type": "LABEL",
+      "cells": {
+        "C": "4A SCLB 1902",
+        "D": "LABEL",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B0821GTX3C",
+        "I": "4A Chalkboard Labels, 2.5 x 3.5 in, Black",
+        "J": "Label and organize everyday items"
+      },
+      "before": {
+        "I": "4A Stickers, Black Chalkboard Labels, 2.5x3.5 Inches, 96 Chalkboard Stickers, Waterproof Reuseable and Remove Cleanly, for Jars, Glass, Cups, Organize Your Kitchen, 4A LB 1902",
+        "J": "B0821GTX3C"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行228",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Stickers, Black Chalkboard Labels, 2.5x3.5 Inches, 96 Chalkboard Stickers, Waterproof Reuseable and Remove Cleanly, for Jars, Glass, Cups, Organize Your Kitchen, 4A LB 1902"
+    },
+    {
+      "sku": "4A 6043-FBA",
+      "asin": "B01M986R0Y",
+      "product_type": "PAPER_PRODUCT",
+      "cells": {
+        "C": "4A 6043-FBA",
+        "D": "PAPER_PRODUCT",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01M986R0Y",
+        "I": "4A Binder Index Tabs",
+        "J": "Mark and organize pages for easy reference"
+      },
+      "before": {
+        "I": "4A Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Stickers, Writable Labels,Bookmarks,Repositionable,Great Labeling,Flaging,with Hole Fit for Binder,2 Pads/Set,4A 6043",
+        "J": "B01M986R0Y"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行107",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Stickers, Writable Labels,Bookmarks,Repositionable,Great Labeling,Flaging,with Hole Fit for Binder,2 Pads/Set,4A 6043"
+    },
+    {
+      "sku": "4A GMVC6043",
+      "asin": "B01M986R0Y",
+      "product_type": "PAPER_PRODUCT",
+      "cells": {
+        "C": "4A GMVC6043",
+        "D": "PAPER_PRODUCT",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01M986R0Y",
+        "I": "4A Binder Index Tabs",
+        "J": "Mark and organize pages for easy reference"
+      },
+      "before": {
+        "I": "4A Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Stickers, Writable Labels,Bookmarks,Repositionable,Great Labeling,Flaging,with Hole Fit for Binder,2 Pads/Set,4A 6043",
+        "J": "B01M986R0Y"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行107",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Stickers, Writable Labels,Bookmarks,Repositionable,Great Labeling,Flaging,with Hole Fit for Binder,2 Pads/Set,4A 6043"
+    },
+    {
+      "sku": "4A 6533",
+      "asin": "B07548QLN8",
+      "product_type": "PLANNER",
+      "cells": {
+        "C": "4A 6533",
+        "D": "PLANNER",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07548QLN8",
+        "I": "4A Weekly Planner Notes, 11 x 10 in",
+        "J": "52 sheets total for notes and reminders",
+        "BG": "Colors-1"
+      },
+      "before": {
+        "I": "4A Weekly Planner Sticky Notepad 11 x 10 in, Large Weekly Calendar Undated Planner to-Do List for Tasks, Goals, Schedules, Time Management Planners for Office, School, Work, 52 Sheets Total, 4A 6533",
+        "J": "B07548QLN8",
+        "BG": "Classic Assorted"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点",
+        "按8541回执明确的Amazon en_US目录值修复color"
+      ],
+      "sources": [
+        "01-price-title-fixes-processing-summary.xlsm 的目录冲突明细",
+        "10-31报告行112",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Weekly Planner Sticky Notepad 11 x 10 in, Large Weekly Calendar Undated Planner to-Do List for Tasks, Goals, Schedules, Time Management Planners for Office, School, Work, 52 Sheets Total, 4A 6533"
+    },
+    {
+      "sku": "303-AC-holder",
+      "asin": "B07DJP6SNG",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "303-AC-holder",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07DJP6SNG",
+        "I": "4A Pen Holder Set with Sticky Notes and Flags, Neon Colors",
+        "J": "Keep notes organized on your desk"
+      },
+      "before": {
+        "I": "4A Sticky Note Dispenser Pen Holder Set, Self-Stick Notes, 8 Ultra Colors 3x3 Inches 400 Neon Sheets Sticky Notes and 1 * 1 3/4 Inches 2x50 Sheets.100 Flags, 303-AC-holder",
+        "J": "B07DJP6SNG"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行2",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Note Dispenser Pen Holder Set, Self-Stick Notes, 8 Ultra Colors 3x3 Inches 400 Neon Sheets Sticky Notes and 1 * 1 3/4 Inches 2x50 Sheets.100 Flags, 303-AC-holder"
+    },
+    {
+      "sku": "4A 004",
+      "asin": "B01LVXOCU2",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 004",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01LVXOCU2",
+        "I": "4A Sticky Notes, 1.5 x 2 in, 24 Pads, Neon Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24",
+        "J": "B01LVXOCU2"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行3",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24"
+    },
+    {
+      "sku": "4A 011",
+      "asin": "B01MQW96JR",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 011",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MQW96JR",
+        "I": "4A Pop-up Sticky Notes, 3 x 3 in, 6 Pads, Yellow",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Pop Up Sticky Notes 3 x 3 Inches, 6 Pads Yellow Self-Stick Note Pads, 100 Sheets/Pad, 4A 303x6-Y-Z",
+        "J": "B01MQW96JR"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行314",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Pop Up Sticky Notes 3 x 3 Inches, 6 Pads Yellow Self-Stick Note Pads, 100 Sheets/Pad, 4A 303x6-Y-Z"
+    },
+    {
+      "sku": "4A 0126",
+      "asin": "B07568HKLZ",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 0126",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07568HKLZ",
+        "I": "4A Printed Sticky Notes Set, 8.5 x 6 in, 7 Pads",
+        "J": "50 sheets per pad"
+      },
+      "before": {
+        "I": "4A Printed Sticky Note Set, 8 1/2 x 6 Inches, Country's Symbol Print, Self-Stick Note Pads, 50 Sheets/Pad, 7 Pads/Pack, 4A 8663",
+        "J": "B07568HKLZ"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行5",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Printed Sticky Note Set, 8 1/2 x 6 Inches, Country's Symbol Print, Self-Stick Note Pads, 50 Sheets/Pad, 7 Pads/Pack, 4A 8663"
+    },
+    {
+      "sku": "4A 0136",
+      "asin": "B07B65PV21",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 0136",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07B65PV21",
+        "I": "4A Magnetic Notepad with Pen, 6 x 4.3 in",
+        "J": "Keep plans and reminders in view"
+      },
+      "before": {
+        "I": "4A Magnetic Note Pad for Fridge with Pen, 50 Sheets, 6 x 4.3 Inches, Have A Good Day Printed, Magnetic Notepads for Refrigerator, 4A 6411",
+        "J": "B07B65PV21"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行324",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Magnetic Note Pad for Fridge with Pen, 50 Sheets, 6 x 4.3 Inches, Have A Good Day Printed, Magnetic Notepads for Refrigerator, 4A 6411"
+    },
+    {
+      "sku": "4A 0137",
+      "asin": "B07B68TZ84",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 0137",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07B68TZ84",
+        "I": "4A Magnetic Notepad with Pen, 6 x 3.5 in",
+        "J": "Keep plans and reminders in view"
+      },
+      "before": {
+        "I": "4A Magnetic Note Pad for Fridge with Pen, 50 Sheets, 6 x 3.5 Inches, Magnetic to Do List for Refrigerator, 4A 6412",
+        "J": "B07B68TZ84"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行325",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Magnetic Note Pad for Fridge with Pen, 50 Sheets, 6 x 3.5 Inches, Magnetic to Do List for Refrigerator, 4A 6412"
+    },
+    {
+      "sku": "4A 0138",
+      "asin": "B07B5YYGRL",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 0138",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07B5YYGRL",
+        "I": "4A Magnetic Notepad with Pen, 5.5 x 3.5 in, 1 Pad",
+        "J": "50 sheets per pad",
+        "BG": "White-5.5 X 3.5"
+      },
+      "before": {
+        "I": "4A Magnet Sticky Notes with Pen Set, Have A Good Day,Lined, Magnet+Pen+Hardboard,Self-Stick Notes,5.5 x 3.5 Inches,50 Sheets/Pad,1 Pad/Pack,4A 6413",
+        "J": "B07B5YYGRL",
+        "BG": "Classic Assorted"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点",
+        "按8541回执明确的Amazon en_US目录值修复color"
+      ],
+      "sources": [
+        "01-price-title-fixes-processing-summary.xlsm 的目录冲突明细",
+        "10-31报告行326",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Magnet Sticky Notes with Pen Set, Have A Good Day,Lined, Magnet+Pen+Hardboard,Self-Stick Notes,5.5 x 3.5 Inches,50 Sheets/Pad,1 Pad/Pack,4A 6413"
+    },
+    {
+      "sku": "4A 0139",
+      "asin": "B07B63WC97",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 0139",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07B63WC97",
+        "I": "4A Magnetic Notepad with Pen, 5.5 x 1.7 in",
+        "J": "Keep plans and reminders in view"
+      },
+      "before": {
+        "I": "4A Grocery List Magnet Note Pad for Fridge with Pen, 50 Sheets, 5.5 x 1.7 Inches, Shopping List Magnetic Notepads for Refrigerator, 4A 6414",
+        "J": "B07B63WC97"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行327",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Grocery List Magnet Note Pad for Fridge with Pen, 50 Sheets, 5.5 x 1.7 Inches, Shopping List Magnetic Notepads for Refrigerator, 4A 6414"
+    },
+    {
+      "sku": "4A 0140",
+      "asin": "B07B6438D1",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 0140",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07B6438D1",
+        "I": "4A Magnetic Notepad with Pen, 6 x 3 in, 1 Pad",
+        "J": "50 sheets per pad",
+        "BG": "Brown-6 X 3"
+      },
+      "before": {
+        "I": "4A Magnet Sticky Notes with Pen Set, Good IDEA,Lined, Magnet+Pen+Hardboard,Self-Stick Notes,6 x 3 Inches,50 Sheets/Pad,1 Pad/Pack,4A 6415",
+        "J": "B07B6438D1",
+        "BG": "Classic Assorted"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点",
+        "按8541回执明确的Amazon en_US目录值修复color"
+      ],
+      "sources": [
+        "01-price-title-fixes-processing-summary.xlsm 的目录冲突明细",
+        "10-31报告行329",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Magnet Sticky Notes with Pen Set, Good IDEA,Lined, Magnet+Pen+Hardboard,Self-Stick Notes,6 x 3 Inches,50 Sheets/Pad,1 Pad/Pack,4A 6415"
+    },
+    {
+      "sku": "4A 0141",
+      "asin": "B07B5V29BQ",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 0141",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07B5V29BQ",
+        "I": "4A Magnetic Notepad with Pen, 5.5 x 2.5 in",
+        "J": "Keep plans and reminders in view"
+      },
+      "before": {
+        "I": "4A Magnetic Note Pad for Fridge with Pen, 50 Sheets Lined Sticky Notes with Pen Set, Good Job, Magnetic Notepads for Refrigerator, 5.5 x 2.5 Inches, 4A 6416",
+        "J": "B07B5V29BQ"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行330",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Magnetic Note Pad for Fridge with Pen, 50 Sheets Lined Sticky Notes with Pen Set, Good Job, Magnetic Notepads for Refrigerator, 5.5 x 2.5 Inches, 4A 6416"
+    },
+    {
+      "sku": "4A 0142",
+      "asin": "B07B63Q29Z",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 0142",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07B63Q29Z",
+        "I": "4A Magnetic Notepad with Pen, 5.5 x 3 in",
+        "J": "Keep plans and reminders in view"
+      },
+      "before": {
+        "I": "4A Magnetic Note Pad for Fridge with Pen 50 Sheets, 5.5 x 3 Inches, FINE, Magnetic Notepads for Refrigerator, 4A 6417",
+        "J": "B07B63Q29Z"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行331",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Magnetic Note Pad for Fridge with Pen 50 Sheets, 5.5 x 3 Inches, FINE, Magnetic Notepads for Refrigerator, 4A 6417"
+    },
+    {
+      "sku": "4A 0143",
+      "asin": "B07B64GTPF",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 0143",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07B64GTPF",
+        "I": "4A Magnetic Notepad with Pen, 5.5 x 3 in",
+        "J": "Keep plans and reminders in view"
+      },
+      "before": {
+        "I": "4A Magnetic Note Pad for Fridge with Pen 50 Sheets, 5.5 x 3 Inches, Magnetic to Do List for Refrigerator, 4A 6418",
+        "J": "B07B64GTPF"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行332",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Magnetic Note Pad for Fridge with Pen 50 Sheets, 5.5 x 3 Inches, Magnetic to Do List for Refrigerator, 4A 6418"
+    },
+    {
+      "sku": "4A 0144",
+      "asin": "B07B5W21KL",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 0144",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07B5W21KL",
+        "I": "4A Magnetic Notepad with Pen, 6 x 3 in",
+        "J": "Keep plans and reminders in view"
+      },
+      "before": {
+        "I": "4A Magnetic Note Pad for Fridge with Pen 50 Sheets, 6 x 3 Inches, Magnetic to Do List for Refrigerator, 4A 6419",
+        "J": "B07B5W21KL"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行333",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Magnetic Note Pad for Fridge with Pen 50 Sheets, 6 x 3 Inches, Magnetic to Do List for Refrigerator, 4A 6419"
+    },
+    {
+      "sku": "4A 0157",
+      "asin": "B078BQV25Y",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 0157",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B078BQV25Y",
+        "I": "4A 3D White Tiger Sticky Notes, 3.35 x 3.75 in",
+        "J": "For everyday notes and reminders"
+      },
+      "before": {
+        "I": "4A 3D Shape Printed Sticky Notes Memo Pad, White Tiger Print, 3.35 x 3.75 Inches, Cute Sticky Notes for Note Taking Reminders Office Home School Supplies, 100 Sheets/Pad",
+        "J": "B078BQV25Y"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行336",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 3D Shape Printed Sticky Notes Memo Pad, White Tiger Print, 3.35 x 3.75 Inches, Cute Sticky Notes for Note Taking Reminders Office Home School Supplies, 100 Sheets/Pad"
+    },
+    {
+      "sku": "4A 016",
+      "asin": "B01LWA44KM",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 016",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01LWA44KM",
+        "I": "4A Sticky Notes, 3 x 3 in, 12 Pads, Neon Colors",
+        "J": "100 sheets per pad",
+        "BG": "Neon Assorted-12 Pads"
+      },
+      "before": {
+        "I": "4A Sticky Notes,3 x 3 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 303x12-N",
+        "J": "B01LWA44KM",
+        "BG": "15-Color Rainbow",
+        "T": "4A（USA）LIMITED"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点",
+        "按8541回执明确的Amazon en_US目录值修复color",
+        "按8541回执明确的Amazon en_US目录值修复manufacturer"
+      ],
+      "sources": [
+        "01-price-title-fixes-processing-summary.xlsm 的目录冲突明细",
+        "10-31报告行337",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes,3 x 3 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 303x12-N"
+    },
+    {
+      "sku": "4A 017",
+      "asin": "B01NAJHE5O",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 017",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01NAJHE5O",
+        "I": "4A Pop-up Sticky Notes, 3 x 3 in, 12 Pads, Yellow",
+        "J": "100 sheets per pad, 1200 sheets total"
+      },
+      "before": {
+        "I": "4A 12 Pads Pop Up Sticky Notes 3 x 3 in,Yellow Accordion Sticky Notes for Office,School,Home,100 Sheets/Pad,1200 Sheets Total,4A 303X12-Y-Z",
+        "J": "B01NAJHE5O"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行339",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 12 Pads Pop Up Sticky Notes 3 x 3 in,Yellow Accordion Sticky Notes for Office,School,Home,100 Sheets/Pad,1200 Sheets Total,4A 303X12-Y-Z"
+    },
+    {
+      "sku": "4A 0174",
+      "asin": "B077QC33J2",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 0174",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B077QC33J2",
+        "I": "4A 3D Panda Sticky Notes, 3.75 x 4.13 in, 1 Pad",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A 3D Shape Printed Sticky Notes,Cute Designs,Printed with Panda,Self-Stick Notes,3.75 x 4.13 Inches,100 Sheets/Pad,1 Pad/Pack,4A 8086",
+        "J": "B077QC33J2"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行342",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 3D Shape Printed Sticky Notes,Cute Designs,Printed with Panda,Self-Stick Notes,3.75 x 4.13 Inches,100 Sheets/Pad,1 Pad/Pack,4A 8086"
+    },
+    {
+      "sku": "4A 0185",
+      "asin": "B07B7G1DKQ",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 0185",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07B7G1DKQ",
+        "I": "4A Color-Cycling Sticky Notes, 1.5 x 2 in, 24 Pads",
+        "J": "2400 sheets total for notes and reminders"
+      },
+      "before": {
+        "I": "4A 24 Pads Sticky Notes 1.5 x 2 in,Color-Cycling,Colored Small Sticky Notes for Office Home School Supplies,301100 Sheets/Pad,2400 Sheets Total,4A 301Mx24",
+        "J": "B07B7G1DKQ"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行345",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 24 Pads Sticky Notes 1.5 x 2 in,Color-Cycling,Colored Small Sticky Notes for Office Home School Supplies,301100 Sheets/Pad,2400 Sheets Total,4A 301Mx24"
+    },
+    {
+      "sku": "4A 021",
+      "asin": "B01MA0ZWWR",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 021",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MA0ZWWR",
+        "I": "4A Sticky Notes, 3 x 3 in, 18 Pads, Pastel Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Sticky Notes,3 x 3 Inches, Pastel Assorted,Self-Stick Notes,100 Sheets/Pad,18 Pads/Box,4A 303x18",
+        "J": "B01MA0ZWWR"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行347",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes,3 x 3 Inches, Pastel Assorted,Self-Stick Notes,100 Sheets/Pad,18 Pads/Box,4A 303x18"
+    },
+    {
+      "sku": "4A 022",
+      "asin": "B01M6181P0",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 022",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01M6181P0",
+        "I": "4A Sticky Notes, 3 x 3 in, 18 Pads, Neon Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Sticky Notes,3 x 3 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,18 Pads/Box,4A 303x18-N",
+        "J": "B01M6181P0"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行348",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes,3 x 3 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,18 Pads/Box,4A 303x18-N"
+    },
+    {
+      "sku": "4A 027",
+      "asin": "B01MXYR202",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 027",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MXYR202",
+        "I": "4A Sticky Notes, 3 x 5 in, 6 Pads, Neon Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A 6 Pads Sticky Notes 3 x 5 Inches, Neon Assorted, Self-Stick Note Pads for Office School, 100 Sheets/Pad, 4A 305x6-N",
+        "J": "B01MXYR202"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行352",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 6 Pads Sticky Notes 3 x 5 Inches, Neon Assorted, Self-Stick Note Pads for Office School, 100 Sheets/Pad, 4A 305x6-N"
+    },
+    {
+      "sku": "4A 028",
+      "asin": "B01M3N33QH",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 028",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01M3N33QH",
+        "I": "4A Lined Sticky Notes, 3 x 5 in, 6 Pads, Neon Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Sticky Notes, 3 x 5 inches, Neon Assorted, Lined, Self-Stick Notes, 100 Sheets/Pad, 6 Pads/Pack, 4A 305x6-N-L",
+        "J": "B01M3N33QH"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行353",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes, 3 x 5 inches, Neon Assorted, Lined, Self-Stick Notes, 100 Sheets/Pad, 6 Pads/Pack, 4A 305x6-N-L"
+    },
+    {
+      "sku": "4A 032",
+      "asin": "B01N0RJSTU",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 032",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01N0RJSTU",
+        "I": "4A Sticky Notes, 4 x 6 in, 6 Pads, Yellow",
+        "J": "100 sheets per pad, 600 sheets total"
+      },
+      "before": {
+        "I": "4A 6 Pads Sticky Notes 4x6 in, Yellow Sticky Notes Self-Stick Note Pads, Large Memo Pads for Office Back to School Supplies,100 Sheets/Pad, 600 Sheets Total, 4A 406x6-Y",
+        "J": "B01N0RJSTU"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行30",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 6 Pads Sticky Notes 4x6 in, Yellow Sticky Notes Self-Stick Note Pads, Large Memo Pads for Office Back to School Supplies,100 Sheets/Pad, 600 Sheets Total, 4A 406x6-Y"
+    },
+    {
+      "sku": "4A 033",
+      "asin": "B01MSZS7M3",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 033",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MSZS7M3",
+        "I": "4A Sticky Notes, 4 x 6 in, 6 Pads, Pastel Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Sticky Notes 4 x 6 in, Pastel Colors Sticky Note Pads, Large Memo Pads Aesthetic Self-Stick Note Pads, 6 Pads, 100 Sheets/Pad",
+        "J": "B01MSZS7M3"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行31",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes 4 x 6 in, Pastel Colors Sticky Note Pads, Large Memo Pads Aesthetic Self-Stick Note Pads, 6 Pads, 100 Sheets/Pad"
+    },
+    {
+      "sku": "4A 034",
+      "asin": "B01MSZSEBW",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 034",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MSZSEBW",
+        "I": "4A Sticky Notes, 4 x 6 in, 6 Pads, Bright Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Sticky Notes 4 x 6 in, 6 Bright Colors Sticky Note Pads, Large Memo Pads Aesthetic Self-Stick Note Pads, 6 Pads, 100 Sheets/Pad",
+        "J": "B01MSZSEBW"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行32",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes 4 x 6 in, 6 Bright Colors Sticky Note Pads, Large Memo Pads Aesthetic Self-Stick Note Pads, 6 Pads, 100 Sheets/Pad"
+    },
+    {
+      "sku": "4A 190",
+      "asin": "B00SMEEE6M",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 190",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B00SMEEE6M",
+        "I": "4A Sign Here Flags",
+        "J": "Mark places that need a signature"
+      },
+      "before": {
+        "I": "4A Pop-up Flags: 100pcs Transparent Writable Tabs, Fluorescent Sign Here Page Markers & Arrow Labels for Annotating Books, Documents, Office & Study",
+        "J": "B00SMEEE6M"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行36",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Pop-up Flags: 100pcs Transparent Writable Tabs, Fluorescent Sign Here Page Markers & Arrow Labels for Annotating Books, Documents, Office & Study"
+    },
+    {
+      "sku": "4A 20232",
+      "asin": "B07RP9MSSG",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 20232",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP9MSSG",
+        "I": "4A Sticky Notes, 2 x 2 in, 32 Pads",
+        "J": "100 sheets per pad, 3200 sheets total"
+      },
+      "before": {
+        "I": "4A 32 Pads Sticky Notes 2 x 2 in, 16 Colors, Small Sticky Notes Pads for Home, Office, Notebook, 100 Sheets/Pad, 3200 Sheets Total",
+        "J": "B07RP9MSSG"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行37",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 32 Pads Sticky Notes 2 x 2 in, 16 Colors, Small Sticky Notes Pads for Home, Office, Notebook, 100 Sheets/Pad, 3200 Sheets Total"
+    },
+    {
+      "sku": "4A 301M32",
+      "asin": "B07RQ7G57D",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 301M32",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RQ7G57D",
+        "I": "4A Color-Cycling Sticky Notes, 1.5 x 2 in, 32 Pads",
+        "J": "100 sheets per pad, 3200 sheets total"
+      },
+      "before": {
+        "I": "4A 32 Pads Sticky Notes 1.5 x 2 in,Color-Cycling,Colorful Small Sticky Notes for Office Home School Supplies,100 Sheets/Pad,3200 Sheets Total,4A 301M32",
+        "J": "B07RQ7G57D"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行41",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 32 Pads Sticky Notes 1.5 x 2 in,Color-Cycling,Colorful Small Sticky Notes for Office Home School Supplies,100 Sheets/Pad,3200 Sheets Total,4A 301M32"
+    },
+    {
+      "sku": "4A 301Mx24",
+      "asin": "B07B7G1DKQ",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 301Mx24",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07B7G1DKQ",
+        "I": "4A Color-Cycling Sticky Notes, 1.5 x 2 in, 24 Pads",
+        "J": "2400 sheets total for notes and reminders"
+      },
+      "before": {
+        "I": "4A Self-Stick Notes, Neon Assorted, 4A 301Mx24",
+        "J": "B07B7G1DKQ"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行345",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 24 Pads Sticky Notes 1.5 x 2 in,Color-Cycling,Colored Small Sticky Notes for Office Home School Supplies,301100 Sheets/Pad,2400 Sheets Total,4A 301Mx24"
+    },
+    {
+      "sku": "4A 301x12-N",
+      "asin": "B01LVTWP7Q",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 301x12-N",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01LVTWP7Q",
+        "I": "4A Sticky Notes, 1.5 x 2 in, 12 Pads, Neon Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 301x12-N, Neon Assorted-12 Pads",
+        "J": "B01LVTWP7Q"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行42",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 301x12-N, Neon Assorted-12 Pads"
+    },
+    {
+      "sku": "4A 303 x 6-Y-Z",
+      "asin": "B01MQW96JR",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 303 x 6-Y-Z",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MQW96JR",
+        "I": "4A Pop-up Sticky Notes, 3 x 3 in, 6 Pads, Yellow",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Pop Up Sticky Notes 3 x 3 Inches, 6 Pads Yellow Self-Stick Note Pads, 100 Sheets/Pad, 4A 303x6-Y-Z",
+        "J": "B01MQW96JR"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行314",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Pop Up Sticky Notes 3 x 3 Inches, 6 Pads Yellow Self-Stick Note Pads, 100 Sheets/Pad, 4A 303x6-Y-Z"
+    },
+    {
+      "sku": "4A 303 x12-N",
+      "asin": "B01LWA44KM",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 303 x12-N",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01LWA44KM",
+        "I": "4A Sticky Notes, 3 x 3 in, 12 Pads, Neon Colors",
+        "J": "100 sheets per pad",
+        "BG": "Neon Assorted-12 Pads",
+        "T": "4A（USA）LIMITED"
+      },
+      "before": {
+        "I": "4A Sticky Notes,3 x 3 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 303x12-N",
+        "J": "B01LWA44KM",
+        "BG": "Neon Assorted",
+        "T": "China"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点",
+        "按8541回执明确的Amazon en_US目录值修复color",
+        "按8541回执明确的Amazon en_US目录值修复manufacturer"
+      ],
+      "sources": [
+        "01-price-title-fixes-processing-summary.xlsm 的目录冲突明细",
+        "10-31报告行337",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes,3 x 3 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 303x12-N"
+    },
+    {
+      "sku": "4A 303 x12-Y-Z",
+      "asin": "B01NAJHE5O",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 303 x12-Y-Z",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01NAJHE5O",
+        "I": "4A Pop-up Sticky Notes, 3 x 3 in, 12 Pads, Yellow",
+        "J": "100 sheets per pad, 1200 sheets total"
+      },
+      "before": {
+        "I": "4A 12 Pads Pop Up Sticky Notes 3 x 3 in,Yellow Accordion Sticky Notes for Office,School,Home,100 Sheets/Pad,1200 Sheets Total,4A 303X12-Y-Z",
+        "J": "B01NAJHE5O"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行339",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 12 Pads Pop Up Sticky Notes 3 x 3 in,Yellow Accordion Sticky Notes for Office,School,Home,100 Sheets/Pad,1200 Sheets Total,4A 303X12-Y-Z"
+    },
+    {
+      "sku": "4A 303S-20",
+      "asin": "B07RP8HYCJ",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 303S-20",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP8HYCJ",
+        "I": "4A Super Sticky Notes, 3 x 3 in, 20 Pads, Bright Colors",
+        "J": "80 sheets per pad, 1600 sheets total"
+      },
+      "before": {
+        "I": "4A 20 Pads Super Sticky Notes 3 x 3 in, 5 Bright Colors, Colorful Sticky Notes Colored Note Pads for Office School Supplies, 80 Sheets/Pad, 1600 Sheets Total, 4A 303S-20",
+        "J": "B07RP8HYCJ"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行52",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 20 Pads Super Sticky Notes 3 x 3 in, 5 Bright Colors, Colorful Sticky Notes Colored Note Pads for Office School Supplies, 80 Sheets/Pad, 1600 Sheets Total, 4A 303S-20"
+    },
+    {
+      "sku": "4A 303x12-N",
+      "asin": "B01LWA44KM",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 303x12-N",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01LWA44KM",
+        "I": "4A Sticky Notes, 3 x 3 in, 12 Pads, Neon Colors",
+        "J": "100 sheets per pad",
+        "BG": "Neon Assorted-12 Pads",
+        "T": "4A（USA）LIMITED"
+      },
+      "before": {
+        "I": "4A Sticky Notes,3 x 3 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 303x12-N",
+        "J": "B01LWA44KM",
+        "BG": "Neon Assorted",
+        "T": "4A"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点",
+        "按8541回执明确的Amazon en_US目录值修复color",
+        "按8541回执明确的Amazon en_US目录值修复manufacturer"
+      ],
+      "sources": [
+        "01-price-title-fixes-processing-summary.xlsm 的目录冲突明细",
+        "10-31报告行337",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes,3 x 3 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 303x12-N"
+    },
+    {
+      "sku": "4A 303x12-Y-Z",
+      "asin": "B01NAJHE5O",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 303x12-Y-Z",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01NAJHE5O",
+        "I": "4A Pop-up Sticky Notes, 3 x 3 in, 12 Pads, Yellow",
+        "J": "100 sheets per pad, 1200 sheets total"
+      },
+      "before": {
+        "I": "4A Self-Stick Notes, Canary Yellow, 4A 303x12-Y-Z",
+        "J": "B01NAJHE5O"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行339",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 12 Pads Pop Up Sticky Notes 3 x 3 in,Yellow Accordion Sticky Notes for Office,School,Home,100 Sheets/Pad,1200 Sheets Total,4A 303X12-Y-Z"
+    },
+    {
+      "sku": "4A 303x18",
+      "asin": "B01MA0ZWWR",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 303x18",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MA0ZWWR",
+        "I": "4A Sticky Notes, 3 x 3 in, 18 Pads, Pastel Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Sticky Notes,3 x 3 Inches, Pastel Assorted,Self-Stick Notes,100 Sheets/Pad,18 Pads/Box,4A 303x18",
+        "J": "B01MA0ZWWR"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行347",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes,3 x 3 Inches, Pastel Assorted,Self-Stick Notes,100 Sheets/Pad,18 Pads/Box,4A 303x18"
+    },
+    {
+      "sku": "4A 303x18-N",
+      "asin": "B01M6181P0",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 303x18-N",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01M6181P0",
+        "I": "4A Sticky Notes, 3 x 3 in, 18 Pads, Neon Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Sticky Notes,3 x 3 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,18 Pads/Box,4A 303x18-N",
+        "J": "B01M6181P0"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行348",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes,3 x 3 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,18 Pads/Box,4A 303x18-N"
+    },
+    {
+      "sku": "4A 303x6-Y-Z",
+      "asin": "B01MQW96JR",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 303x6-Y-Z",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MQW96JR",
+        "I": "4A Pop-up Sticky Notes, 3 x 3 in, 6 Pads, Yellow",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Self-Stick Notes, Canary Yellow, 4A 303x6-Y-Z",
+        "J": "B01MQW96JR"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行314",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Pop Up Sticky Notes 3 x 3 Inches, 6 Pads Yellow Self-Stick Note Pads, 100 Sheets/Pad, 4A 303x6-Y-Z"
+    },
+    {
+      "sku": "4A 304-Full Adhesive-400",
+      "asin": "B07QXJWDPL",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 304-Full Adhesive-400",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07QXJWDPL",
+        "I": "4A Full Adhesive Sticky Notes, 3 x 4 in, 5 Pads, Bright Colors",
+        "J": "80 sheets per pad, 400 sheets total"
+      },
+      "before": {
+        "I": "4A 5 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 80 Sheets/Pad, 400 Sheets Total, 4A 304-Full Adhesive-400",
+        "J": "B07QXJWDPL"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行54",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 5 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 80 Sheets/Pad, 400 Sheets Total, 4A 304-Full Adhesive-400"
+    },
+    {
+      "sku": "4A 305 x 6-N",
+      "asin": "B01MXYR202",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 305 x 6-N",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MXYR202",
+        "I": "4A Sticky Notes, 3 x 5 in, 6 Pads, Neon Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A 6 Pads Sticky Notes 3 x 5 Inches, Neon Assorted, Self-Stick Note Pads for Office School, 100 Sheets/Pad, 4A 305x6-N",
+        "J": "B01MXYR202"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行352",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 6 Pads Sticky Notes 3 x 5 Inches, Neon Assorted, Self-Stick Note Pads for Office School, 100 Sheets/Pad, 4A 305x6-N"
+    },
+    {
+      "sku": "4A 305 x 6-N-L",
+      "asin": "B01M3N33QH",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 305 x 6-N-L",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01M3N33QH",
+        "I": "4A Lined Sticky Notes, 3 x 5 in, 6 Pads, Neon Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Sticky Notes, 3 x 5 inches, Neon Assorted, Lined, Self-Stick Notes, 100 Sheets/Pad, 6 Pads/Pack, 4A 305x6-N-L",
+        "J": "B01M3N33QH"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行353",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes, 3 x 5 inches, Neon Assorted, Lined, Self-Stick Notes, 100 Sheets/Pad, 6 Pads/Pack, 4A 305x6-N-L"
+    },
+    {
+      "sku": "4A 305 x 6-Y",
+      "asin": "B01N0R4QI8",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 305 x 6-Y",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01N0R4QI8",
+        "I": "4A Sticky Notes, 3 x 5 in, 6 Pads, Yellow",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Sticky Notes,3 x 5 Inches,Canary Yellow,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 305x6-Y",
+        "J": "B01N0R4QI8"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行408",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes,3 x 5 Inches,Canary Yellow,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 305x6-Y"
+    },
+    {
+      "sku": "4A 30512",
+      "asin": "B07RR9KFM5",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 30512",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RR9KFM5",
+        "I": "4A Sticky Notes, 3 x 5 in, 12 Pads, Bright Colors",
+        "J": "100 sheets per pad, 1200 sheets total"
+      },
+      "before": {
+        "I": "4A 12 Pads Sticky Notes 3 x 5 in, Bright Colors, Colorful Sticky Notes Pads for Office, School, Home, 100 Sheets/Pad, 1200 Sheets Total,4A 30512",
+        "J": "B07RR9KFM5"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行151",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 12 Pads Sticky Notes 3 x 5 in, Bright Colors, Colorful Sticky Notes Pads for Office, School, Home, 100 Sheets/Pad, 1200 Sheets Total,4A 30512"
+    },
+    {
+      "sku": "4A 305x6-N",
+      "asin": "B01MXYR202",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 305x6-N",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MXYR202",
+        "I": "4A Sticky Notes, 3 x 5 in, 6 Pads, Neon Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Self-Stick Notes, Neon Assorted, 4A 305x6-N",
+        "J": "B01MXYR202"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行352",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 6 Pads Sticky Notes 3 x 5 Inches, Neon Assorted, Self-Stick Note Pads for Office School, 100 Sheets/Pad, 4A 305x6-N"
+    },
+    {
+      "sku": "4A 305x6-Y",
+      "asin": "B01N0R4QI8",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 305x6-Y",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01N0R4QI8",
+        "I": "4A Sticky Notes, 3 x 5 in, 6 Pads, Yellow",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Sticky Notes,3 x 5 Inches,Canary Yellow,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 305x6-Y",
+        "J": "B01N0R4QI8"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行408",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes,3 x 5 Inches,Canary Yellow,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 305x6-Y"
+    },
+    {
+      "sku": "4A 354832",
+      "asin": "B07RP9LR73",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 354832",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP9LR73",
+        "I": "4A Sticky Notes, 1.375 x 1.875 in, 32 Pads",
+        "J": "100 sheets per pad, 3200 sheets total"
+      },
+      "before": {
+        "I": "4A 32 Pads Sticky Notes 1 3/8 x 1 7/8 in, 16 Colors, Adhesive On Long Side, Small Sticky Notes Pads for Home, Office, Notebook, 100 Sheets/pad, 3200 Sheets Total, 4A 354832",
+        "J": "B07RP9LR73"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行155",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 32 Pads Sticky Notes 1 3/8 x 1 7/8 in, 16 Colors, Adhesive On Long Side, Small Sticky Notes Pads for Home, Office, Notebook, 100 Sheets/pad, 3200 Sheets Total, 4A 354832"
+    },
+    {
+      "sku": "4A 4012-B07T-FBA",
+      "asin": "B01M3N310M",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 4012-B07T-FBA",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01M3N310M",
+        "I": "4A Sticky Notes Value Pack in Storage Box, 18 Pads",
+        "J": "1900 sheets total for notes and reminders"
+      },
+      "before": {
+        "I": "4A Sticky Notes Value Pack,Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4012",
+        "J": "B01M3N310M"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行62",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes Value Pack,Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4012"
+    },
+    {
+      "sku": "4A 4013",
+      "asin": "B07RQ6HLK3",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 4013",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RQ6HLK3",
+        "I": "4A Sticky Notes Value Pack in Storage Box, 18 Pads, Neon Colors",
+        "J": "1900 sheets total for notes and reminders"
+      },
+      "before": {
+        "I": "4A Sticky Notes Value Pack, Neon Assorted The Most Commonly Used Sizes in One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4013",
+        "J": "B07RQ6HLK3"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行158",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes Value Pack, Neon Assorted The Most Commonly Used Sizes in One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4013"
+    },
+    {
+      "sku": "4A 404-AC-holder",
+      "asin": "B07WK3JX6K",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 404-AC-holder",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07WK3JX6K",
+        "I": "4A Pen Holder with Lined Sticky Notes, 4 x 4 in, Neon Colors",
+        "J": "Keep notes organized on your desk"
+      },
+      "before": {
+        "I": "4A Self-Stick Notes, Neon Assorted, 4A 404-AC-holder",
+        "J": "B07WK3JX6K"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "上传处理报告的商品名称/亮点错误",
+        "产品总表2026 Sheet1行103"
+      ],
+      "evidence_title": "4A Sticky Note Dispenser Pen Holder Set, Self-Stick Notes, 8 Ultra Colors 4x4 Inches, Lined 400 Neon Sheets Sticky Notes, 4A 404-AC-Holder"
+    },
+    {
+      "sku": "4A 40412",
+      "asin": "B07RP8KWS8",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 40412",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP8KWS8",
+        "I": "4A Sticky Notes, 4 x 4 in, 12 Pads, Bright Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A 12 Pads Sticky Notes 4 x 4 in, 12 Bright Colors, Colorful Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 1200 Sheets",
+        "J": "B07RP8KWS8"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行159",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 12 Pads Sticky Notes 4 x 4 in, 12 Bright Colors, Colorful Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 1200 Sheets"
+    },
+    {
+      "sku": "4A 40412-L",
+      "asin": "B07RP8FC4D",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 40412-L",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP8FC4D",
+        "I": "4A Lined Sticky Notes, 4 x 4 in, 12 Pads, Bright Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A 12 Pads Lined Sticky Notes with Lines 4 x 4 in, 12 Bright Colors, Colorful Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 1200 Sheets, 4A 40412-L",
+        "J": "B07RP8FC4D"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行160",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 12 Pads Lined Sticky Notes with Lines 4 x 4 in, 12 Bright Colors, Colorful Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 1200 Sheets, 4A 40412-L"
+    },
+    {
+      "sku": "4A 404SL-15",
+      "asin": "B07RQ69Q1Q",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 404SL-15",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RQ69Q1Q",
+        "I": "4A Super Sticky Lined Notes, 4 x 4 in, 15 Pads, Bright Colors",
+        "J": "80 sheets per pad"
+      },
+      "before": {
+        "I": "4A Super Sticky Notes,4 x 4 Inches,Extra Bright Colors Assorted,Lined,5 Colors,80 Sheets/Pad,15 Pads/Pack,4A 404SL-15",
+        "J": "B07RQ69Q1Q"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行162",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Super Sticky Notes,4 x 4 Inches,Extra Bright Colors Assorted,Lined,5 Colors,80 Sheets/Pad,15 Pads/Pack,4A 404SL-15"
+    },
+    {
+      "sku": "4A 40612",
+      "asin": "B07RVJB9DL",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 40612",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RVJB9DL",
+        "I": "4A Sticky Notes, 4 x 6 in, 12 Pads, Bright Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A 12 Pads Sticky Notes 4 x 6 in, Bright Colors, Colorful Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 1200 Sheets, 4A 40612",
+        "J": "B07RVJB9DL"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行71",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 12 Pads Sticky Notes 4 x 6 in, Bright Colors, Colorful Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 1200 Sheets, 4A 40612"
+    },
+    {
+      "sku": "4A 40612-L",
+      "asin": "B07RT4GQJK",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 40612-L",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RT4GQJK",
+        "I": "4A Lined Sticky Notes, 4 x 6 in, 12 Pads, Neon Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Sticky Notes,4 x 6 Inches,Lined,Neon Assorted,12 Colors,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 40612-L",
+        "J": "B07RT4GQJK"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行169",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes,4 x 6 Inches,Lined,Neon Assorted,12 Colors,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 40612-L"
+    },
+    {
+      "sku": "4A 40621",
+      "asin": "B01NCQ6Q1T",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 40621",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01NCQ6Q1T",
+        "I": "4A Divider Sticky Notes, 4 x 6 in, Neon Colors",
+        "J": "Mark and organize pages for easy reference"
+      },
+      "before": {
+        "I": "4A Divider Sticky Notes,4 x 6 Inches,Large Size,Neon Assorted,Lined,20 Sheets/Divider,3 Divders/Pack,Self-Stick Notes for Office,School,Home,60 Ruled Notes,4A 40621",
+        "J": "B01NCQ6Q1T"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行428",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Divider Sticky Notes,4 x 6 Inches,Large Size,Neon Assorted,Lined,20 Sheets/Divider,3 Divders/Pack,Self-Stick Notes for Office,School,Home,60 Ruled Notes,4A 40621"
+    },
+    {
+      "sku": "4A 40622",
+      "asin": "B01N6KX7PE",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 40622",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01N6KX7PE",
+        "I": "4A Divider Sticky Notes, 4 x 6 in, White",
+        "J": "Mark and organize pages for easy reference"
+      },
+      "before": {
+        "I": "4A Divider Sticky Notes,4 x 6 Inches,Large Size,White Paper,Lined,20 Sheets/Divider,3 Divders/Pack,Self-Stick Notes for Office,Home,School,60 Ruled Notes,4A 40622",
+        "J": "B01N6KX7PE"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行284",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Divider Sticky Notes,4 x 6 Inches,Large Size,White Paper,Lined,20 Sheets/Divider,3 Divders/Pack,Self-Stick Notes for Office,Home,School,60 Ruled Notes,4A 40622"
+    },
+    {
+      "sku": "4A 40624",
+      "asin": "B01MY2AYET",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 40624",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MY2AYET",
+        "I": "4A Divider Sticky Notes, 4 x 6 in, White",
+        "J": "60 sheets total for notes and reminders"
+      },
+      "before": {
+        "I": "4A Divider Sticky Notes Tabs 4 x 6 Inches, White, Tabbed Self-Stick Lined Notepads for Notebooks, Office, School Supplies, 10 Sheets/Divider, 6 Dividers/Pack, 60 Sheets Total, 4A 40624",
+        "J": "B01MY2AYET"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行74",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Divider Sticky Notes Tabs 4 x 6 Inches, White, Tabbed Self-Stick Lined Notepads for Notebooks, Office, School Supplies, 10 Sheets/Divider, 6 Dividers/Pack, 60 Sheets Total, 4A 40624"
+    },
+    {
+      "sku": "4A 406SL-10",
+      "asin": "B07RP85C2P",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 406SL-10",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP85C2P",
+        "I": "4A Super Sticky Lined Notes, 4 x 6 in, 10 Pads, Bright Colors",
+        "J": "80 sheets per pad"
+      },
+      "before": {
+        "I": "4A Super Sticky Notes,4 x 6 Inches,Extra Bright Colors Assorted,Lined,5 Colors,80 Sheets/Pad,10 Pads/Pack,4A 406SL-10",
+        "J": "B07RP85C2P"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行175",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Super Sticky Notes,4 x 6 Inches,Extra Bright Colors Assorted,Lined,5 Colors,80 Sheets/Pad,10 Pads/Pack,4A 406SL-10"
+    },
+    {
+      "sku": "4A 406x6",
+      "asin": "B01MSZS7M3",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 406x6",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MSZS7M3",
+        "I": "4A Sticky Notes, 4 x 6 in, 6 Pads, Pastel Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Self-Stick Notes, Pastel Assorted, 4A 406x6",
+        "J": "B01MSZS7M3"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行31",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes 4 x 6 in, Pastel Colors Sticky Note Pads, Large Memo Pads Aesthetic Self-Stick Note Pads, 6 Pads, 100 Sheets/Pad"
+    },
+    {
+      "sku": "4A 406x6-N",
+      "asin": "B01MSZSEBW",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 406x6-N",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MSZSEBW",
+        "I": "4A Sticky Notes, 4 x 6 in, 6 Pads, Bright Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Self-Stick Notes, Neon Assorted, 4A 406x6-N",
+        "J": "B01MSZSEBW"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行32",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes 4 x 6 in, 6 Bright Colors Sticky Note Pads, Large Memo Pads Aesthetic Self-Stick Note Pads, 6 Pads, 100 Sheets/Pad"
+    },
+    {
+      "sku": "4A 406x6-Y",
+      "asin": "B01N0RJSTU",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 406x6-Y",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01N0RJSTU",
+        "I": "4A Sticky Notes, 4 x 6 in, 6 Pads, Yellow",
+        "J": "100 sheets per pad, 600 sheets total"
+      },
+      "before": {
+        "I": "4A Self-Stick Notes, Canary Yellow, 4A 406x6-Y",
+        "J": "B01N0RJSTU"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行30",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 6 Pads Sticky Notes 4x6 in, Yellow Sticky Notes Self-Stick Note Pads, Large Memo Pads for Office Back to School Supplies,100 Sheets/Pad, 600 Sheets Total, 4A 406x6-Y"
+    },
+    {
+      "sku": "4A 5013",
+      "asin": "B01N1U9USQ",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 5013",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01N1U9USQ",
+        "I": "4A Arrow Shaped Sticky Notes, 2.72 x 2.56 in, Bright Colors",
+        "J": "200 sheets total for notes and reminders"
+      },
+      "before": {
+        "I": "4A Arrow Shaped Sticky Notes, 2.72 x 2.56 Inches, 5 Bright Colors, Fun Sticky Notes Note Pads Memo Pads for Office, School, Home, 200 Sheets Total, 4A 5013",
+        "J": "B01N1U9USQ"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行281",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Arrow Shaped Sticky Notes, 2.72 x 2.56 Inches, 5 Bright Colors, Fun Sticky Notes Note Pads Memo Pads for Office, School, Home, 200 Sheets Total, 4A 5013"
+    },
+    {
+      "sku": "4A 5021X2",
+      "asin": "B07VGYQXCC",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 5021X2",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07VGYQXCC",
+        "I": "4A Door Hanger Sticky Notes, 2.84 x 7.09 in, 8 Pads, Neon Colors",
+        "J": "25 sheets per pad"
+      },
+      "before": {
+        "I": "4A Shapes Sticky Notes,Door Lock Sticky Notes,with Hole Can Hang in Door Lock,2.84 x 7.09 Inches,Large Size,Neon Assorted,Self-Stick Notes,25 Sheets/Pad,4 Pads/Pack,100 Sheets/Pack,2 Packs,4A 5021X2",
+        "J": "B07VGYQXCC"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行183",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Shapes Sticky Notes,Door Lock Sticky Notes,with Hole Can Hang in Door Lock,2.84 x 7.09 Inches,Large Size,Neon Assorted,Self-Stick Notes,25 Sheets/Pad,4 Pads/Pack,100 Sheets/Pack,2 Packs,4A 5021X2"
+    },
+    {
+      "sku": "4A 5037",
+      "asin": "B00SMEENOU",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 5037",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B00SMEENOU",
+        "I": "4A Tree Shaped Sticky Notes, 2.6 x 2.71 in, 1 Pad, Neon Colors",
+        "J": "200 sheets per pad"
+      },
+      "before": {
+        "I": "4A Shapes Sticky Note,Tree Shape,2.6 x 2.71 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5037",
+        "J": "B00SMEENOU"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行283",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Shapes Sticky Note,Tree Shape,2.6 x 2.71 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5037"
+    },
+    {
+      "sku": "4A 5047-B00SM-FBA",
+      "asin": "B00SMEEN8G",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 5047-B00SM-FBA",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B00SMEEN8G",
+        "I": "4A Hand Shaped Sticky Notes, 1 Pad, Neon Colors",
+        "J": "200 sheets per pad"
+      },
+      "before": {
+        "I": "4A Die-Cut Sticky Notes, Hand Shape, Neon Assorted, 200 Sheets/pad, 1 pad/Pack, 2.83\" x 2.83\" (4A 5047)",
+        "J": "B00SMEEN8G"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行447",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Die-Cut Sticky Notes, Hand Shape, Neon Assorted, 200 Sheets/pad, 1 pad/Pack, 2.83\" x 2.83\" (4A 5047)"
+    },
+    {
+      "sku": "4A 5059",
+      "asin": "B01MY06P05",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 5059",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MY06P05",
+        "I": "4A Speech Bubble Sticky Notes, 3.375 x 1.875 in, Bright Colors",
+        "J": "200 sheets total for notes and reminders"
+      },
+      "before": {
+        "I": "4A Bubble Shaped Sticky Notes, 3 3/8 x 1 7/8 Inches,5 Bright Colors,Cute Sticky Notes Memo Pads for Teachers, Office,School,Home,200 Sheets Total,4A 5059",
+        "J": "B01MY06P05"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行88",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Bubble Shaped Sticky Notes, 3 3/8 x 1 7/8 Inches,5 Bright Colors,Cute Sticky Notes Memo Pads for Teachers, Office,School,Home,200 Sheets Total,4A 5059"
+    },
+    {
+      "sku": "4A 5059-B00SM-FBA",
+      "asin": "B00SMEEVCO",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 5059-B00SM-FBA",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B00SMEEVCO",
+        "I": "4A Speech Bubble Sticky Notes, 3.375 x 1.875 in, 1 Pad, Neon Colors",
+        "J": "200 sheets per pad"
+      },
+      "before": {
+        "I": "4A Shapes Sticky Notes,Bubble Shape,3 3/8 x 1 7/8 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5059",
+        "J": "B00SMEEVCO"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行89",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Shapes Sticky Notes,Bubble Shape,3 3/8 x 1 7/8 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5059"
+    },
+    {
+      "sku": "4A 5061-B00SM-FBA",
+      "asin": "B00SMEEN40",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 5061-B00SM-FBA",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B00SMEEN40",
+        "I": "4A Leaf Shaped Sticky Notes, 2.83 x 2.83 in, 1 Pad, Neon Colors",
+        "J": "200 sheets per pad"
+      },
+      "before": {
+        "I": "4A Shapes Sticky Notes,Leaf Shape,2.83 x 2.83 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5061",
+        "J": "B00SMEEN40"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行90",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Shapes Sticky Notes,Leaf Shape,2.83 x 2.83 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5061"
+    },
+    {
+      "sku": "4A 5082-Y-L",
+      "asin": "B07F2BHFJH",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 5082-Y-L",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07F2BHFJH",
+        "I": "4A Lined Sticky Notes, 5 x 8 in, 2 Pads, Pastel Yellow",
+        "J": "50 sheets per pad, 100 sheets total"
+      },
+      "before": {
+        "I": "4A 2 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Large Sticky Notes with Lines, Yellow Sticky Note Pads for Home, Office, School, 50 Sheets/Pad, 100 Sheets Total, 4A 5082-Y-L",
+        "J": "B07F2BHFJH"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行92",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 2 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Large Sticky Notes with Lines, Yellow Sticky Note Pads for Home, Office, School, 50 Sheets/Pad, 100 Sheets Total, 4A 5082-Y-L"
+    },
+    {
+      "sku": "4A 5082-Y-L-GM",
+      "asin": "B07F2BHFJH",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 5082-Y-L-GM",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07F2BHFJH",
+        "I": "4A Lined Sticky Notes, 5 x 8 in, 2 Pads, Pastel Yellow",
+        "J": "50 sheets per pad, 100 sheets total"
+      },
+      "before": {
+        "I": "4A 2 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Large Sticky Notes with Lines, Yellow Sticky Note Pads for Home, Office, School, 50 Sheets/Pad, 100 Sheets Total, 4A 5082-Y-L",
+        "J": "B07F2BHFJH"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行92",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 2 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Large Sticky Notes with Lines, Yellow Sticky Note Pads for Home, Office, School, 50 Sheets/Pad, 100 Sheets Total, 4A 5082-Y-L"
+    },
+    {
+      "sku": "4A 60121-10x2",
+      "asin": "B07RP8FX7N",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 60121-10x2",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP8FX7N",
+        "I": "4A Transparent Page Flags, 0.5 x 1.75 in, Neon Colors",
+        "J": "Mark and organize pages for easy reference"
+      },
+      "before": {
+        "I": "4A Pop-up Flags in Dispensers Set,Neon Color Page Marker Index Label,Transparent Tabs Flags Stickers,Writable Labels Bookmarks,1/2 x 1 3/4 Inches,700 Flags Total,4A 60121-10x2",
+        "J": "B07RP8FX7N"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行186",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Pop-up Flags in Dispensers Set,Neon Color Page Marker Index Label,Transparent Tabs Flags Stickers,Writable Labels Bookmarks,1/2 x 1 3/4 Inches,700 Flags Total,4A 60121-10x2"
+    },
+    {
+      "sku": "4A 60171",
+      "asin": "B00SMEEE6M",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 60171",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B00SMEEE6M",
+        "I": "4A Sign Here Flags",
+        "J": "Mark places that need a signature"
+      },
+      "before": {
+        "I": "4A Pop-up Flags: 100pcs Transparent Writable Tabs, Fluorescent Sign Here Page Markers & Arrow Labels for Annotating Books, Documents, Office & Study",
+        "J": "B00SMEEE6M"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行36",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Pop-up Flags: 100pcs Transparent Writable Tabs, Fluorescent Sign Here Page Markers & Arrow Labels for Annotating Books, Documents, Office & Study"
+    },
+    {
+      "sku": "4A 60174-Sign Herex2",
+      "asin": "B07RP95GGF",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 60174-Sign Herex2",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP95GGF",
+        "I": "4A Sign Here Flags, Neon Colors",
+        "J": "Mark places that need a signature"
+      },
+      "before": {
+        "I": "4A Pop-up Flags Set,Neon Color Page Marker Index Label,Transparent Tabs Flags Stickers,Writable Labels Bookmarks,50 Flags/Dispenser,8 Dispensers/Pack,2 Packs,800 Flags Total,4A 60174-Sign Herex2",
+        "J": "B07RP95GGF"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行189",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Pop-up Flags Set,Neon Color Page Marker Index Label,Transparent Tabs Flags Stickers,Writable Labels Bookmarks,50 Flags/Dispenser,8 Dispensers/Pack,2 Packs,800 Flags Total,4A 60174-Sign Herex2"
+    },
+    {
+      "sku": "4A 60222",
+      "asin": "B07RR9CGXY",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 60222",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RR9CGXY",
+        "I": "4A Arrow Page Flags, Bright Colors",
+        "J": "Mark and organize pages for easy reference"
+      },
+      "before": {
+        "I": "4A 780 Pcs Transparent Sticky Tabs Page Markers, Bright Colors, Writable Arrow Sticky Flags Annotation Book Tabs for Annotating Books, Page Markers for Books, Notebooks, 4A 60222",
+        "J": "B07RR9CGXY"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行190",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 780 Pcs Transparent Sticky Tabs Page Markers, Bright Colors, Writable Arrow Sticky Flags Annotation Book Tabs for Annotating Books, Page Markers for Books, Notebooks, 4A 60222"
+    },
+    {
+      "sku": "4A 6031x4",
+      "asin": "B07RP9K6KV",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 6031x4",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP9K6KV",
+        "I": "4A Transparent Page Flags, 1.2 x 2 in",
+        "J": "Mark and organize pages for easy reference"
+      },
+      "before": {
+        "I": "4A 100 Pcs Divider Sticky Tabs 1.2 x 2 in, Transparent Sticky Index Tabs Flags Page Markers for Books Notebooks Office School Supplies, 25 Sheets/Pack, 4 Packs, 4A 6031x4",
+        "J": "B07RP9K6KV"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行102",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 100 Pcs Divider Sticky Tabs 1.2 x 2 in, Transparent Sticky Index Tabs Flags Page Markers for Books Notebooks Office School Supplies, 25 Sheets/Pack, 4 Packs, 4A 6031x4"
+    },
+    {
+      "sku": "4A 6032x5",
+      "asin": "B07RQ5MBBB",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 6032x5",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RQ5MBBB",
+        "I": "4A Durable File Tabs",
+        "J": "Mark and organize pages for easy reference"
+      },
+      "before": {
+        "I": "4A Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Stickers,Writable,Bookmarks,Repositionable,Great Labeling,Flaging,Retrieving Folders&Documents,24 Pads/Set,5 Sets,4A 6032x5",
+        "J": "B07RQ5MBBB"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行195",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Stickers,Writable,Bookmarks,Repositionable,Great Labeling,Flaging,Retrieving Folders&Documents,24 Pads/Set,5 Sets,4A 6032x5"
+    },
+    {
+      "sku": "4A 608-N-L-210",
+      "asin": "B07B8RBCKT",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 608-N-L-210",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07B8RBCKT",
+        "I": "4A Lined Sticky Notes, 6 x 8 in, Bright Colors",
+        "J": "210 sheets total for notes and reminders"
+      },
+      "before": {
+        "I": "4A Lined Sticky Notes 6 x 8 Inches,Mix 7 Bright Colors, Large Lined Self-Stick Note Pads for Office, School, 210 Sheets Total, 4A 608-N-L-210",
+        "J": "B07B8RBCKT"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行108",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Lined Sticky Notes 6 x 8 Inches,Mix 7 Bright Colors, Large Lined Self-Stick Note Pads for Office, School, 210 Sheets Total, 4A 608-N-L-210"
+    },
+    {
+      "sku": "4A 608-N-L-210-FBA",
+      "asin": "B07HDVVZ1B",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 608-N-L-210-FBA",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07HDVVZ1B",
+        "I": "4A Lined Sticky Notes, 6 x 8 in, 1 Pad, Neon Colors",
+        "J": "210 sheets per pad"
+      },
+      "before": {
+        "I": "4A Sticky Notes, 6 x 8 Inches, 7 Neon color Assorted, Lined, Self-Stick Notes, 210 Sheets/Pad, 1Pad/Pack, 4A 608-N-L-210",
+        "J": "B07HDVVZ1B"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行109",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes, 6 x 8 Inches, 7 Neon color Assorted, Lined, Self-Stick Notes, 210 Sheets/Pad, 1Pad/Pack, 4A 608-N-L-210"
+    },
+    {
+      "sku": "4A 608-NL-210",
+      "asin": "B07B8RBCKT",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 608-NL-210",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07B8RBCKT",
+        "I": "4A Lined Sticky Notes, 6 x 8 in, Bright Colors",
+        "J": "210 sheets total for notes and reminders"
+      },
+      "before": {
+        "I": "4A Self-Stick Notes, Neon Assorted, 4A 608-NL-210",
+        "J": "B07B8RBCKT"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行108",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Lined Sticky Notes 6 x 8 Inches,Mix 7 Bright Colors, Large Lined Self-Stick Note Pads for Office, School, 210 Sheets Total, 4A 608-N-L-210"
+    },
+    {
+      "sku": "4A 6084-NL",
+      "asin": "B07RR95YW7",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 6084-NL",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RR95YW7",
+        "I": "4A Lined Sticky Notes, 6 x 8 in, 4 Pads, Neon Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Sticky Notes,6 x 8 Inches,Large Size,4 Colors,Neon Blue,Red,Yellow and Green,Lined,Self-Stick Notes,100 Sheets/Pad,4 Pads/Pack,4A 6084-NL",
+        "J": "B07RR95YW7"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行201",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes,6 x 8 Inches,Large Size,4 Colors,Neon Blue,Red,Yellow and Green,Lined,Self-Stick Notes,100 Sheets/Pad,4 Pads/Pack,4A 6084-NL"
+    },
+    {
+      "sku": "4A 6087-NL-420",
+      "asin": "B07T77N118",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 6087-NL-420",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07T77N118",
+        "I": "4A Lined Sticky Notes, 6 x 8 in, 7 Pads, Neon Colors",
+        "J": "60 sheets per pad"
+      },
+      "before": {
+        "I": "4A Sticky Notes,6 x 8 Inches,Large Size,7 Different Neon Colors,Lined,Self-Stick Notes,60 Sheets/Pad,7 Pads/Pack,4A 6087-NL-420",
+        "J": "B07T77N118"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行110",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes,6 x 8 Inches,Large Size,7 Different Neon Colors,Lined,Self-Stick Notes,60 Sheets/Pad,7 Pads/Pack,4A 6087-NL-420"
+    },
+    {
+      "sku": "4A 608SL-5",
+      "asin": "B07RN7W756",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 608SL-5",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RN7W756",
+        "I": "4A Super Sticky Lined Notes, 6 x 8 in, 5 Pads, Bright Colors",
+        "J": "80 sheets per pad, 400 sheets total"
+      },
+      "before": {
+        "I": "4A 5 Pads Super Sticky Notes with Lines 6 x 8 in, Bright Colors, Colorful Lined Sticky Notes Large Note Pads for Office School Supplies, 80 Sheets/Pad, 400 Sheets Total, 4A 608SL-5",
+        "J": "B07RN7W756"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行205",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 5 Pads Super Sticky Notes with Lines 6 x 8 in, Bright Colors, Colorful Lined Sticky Notes Large Note Pads for Office School Supplies, 80 Sheets/Pad, 400 Sheets Total, 4A 608SL-5"
+    },
+    {
+      "sku": "4A 66113",
+      "asin": "B01MDJ91BV",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 66113",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MDJ91BV",
+        "I": "4A Transparent Page Flags, Neon Colors",
+        "J": "Mark and organize pages for easy reference",
+        "T": "4A（USA）LIMITED"
+      },
+      "before": {
+        "I": "4A 4A 66113 Sticky Notes Flags Set, Neon Fluorescent Color, Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Page Marker Bookmarks, 6 Pads/set, 1/2\" x 1 3/4\"",
+        "J": "B01MDJ91BV",
+        "T": "AAAA 4A"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点",
+        "按8541回执明确的Amazon en_US目录值修复manufacturer"
+      ],
+      "sources": [
+        "01-price-title-fixes-processing-summary.xlsm 的目录冲突明细",
+        "10-31报告行290",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 4A 66113 Sticky Notes Flags Set, Neon Fluorescent Color, Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Page Marker Bookmarks, 6 Pads/set, 1/2\" x 1 3/4\""
+    },
+    {
+      "sku": "4A 8069",
+      "asin": "B078BQV25Y",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 8069",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B078BQV25Y",
+        "I": "4A 3D White Tiger Sticky Notes, 3.35 x 3.75 in",
+        "J": "For everyday notes and reminders"
+      },
+      "before": {
+        "I": "4A Self-Stick Notes, White, 4A 8069",
+        "J": "B078BQV25Y"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行336",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 3D Shape Printed Sticky Notes Memo Pad, White Tiger Print, 3.35 x 3.75 Inches, Cute Sticky Notes for Note Taking Reminders Office Home School Supplies, 100 Sheets/Pad"
+    },
+    {
+      "sku": "4A 8086",
+      "asin": "B077QC33J2",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 8086",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B077QC33J2",
+        "I": "4A 3D Panda Sticky Notes, 3.75 x 4.13 in, 1 Pad",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A 3D Shape Printed Sticky Notes,Cute Designs,Printed with Panda,Self-Stick Notes,3.75 x 4.13 Inches,100 Sheets/Pad,1 Pad/Pack,4A 8086",
+        "J": "B077QC33J2"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行342",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 3D Shape Printed Sticky Notes,Cute Designs,Printed with Panda,Self-Stick Notes,3.75 x 4.13 Inches,100 Sheets/Pad,1 Pad/Pack,4A 8086"
+    },
+    {
+      "sku": "4A 8663",
+      "asin": "B07568HKLZ",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A 8663",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07568HKLZ",
+        "I": "4A Printed Sticky Notes Set, 8.5 x 6 in, 7 Pads",
+        "J": "50 sheets per pad"
+      },
+      "before": {
+        "I": "4A Self-Stick Notes, Classic Assorted, 4A 8663",
+        "J": "B07568HKLZ"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行5",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Printed Sticky Note Set, 8 1/2 x 6 Inches, Country's Symbol Print, Self-Stick Note Pads, 50 Sheets/Pad, 7 Pads/Pack, 4A 8663"
+    },
+    {
+      "sku": "4A BP 1111-Nx4",
+      "asin": "B07QWKYQV7",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A BP 1111-Nx4",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07QWKYQV7",
+        "I": "4A Big Sticky Notes, 11 x 11 in, 4 Pads, Bright Colors",
+        "J": "30 sheets per pad, 120 sheets total"
+      },
+      "before": {
+        "I": "4A 4 Pads Big Sticky Notes 11 x 11 Inches, Bright Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad, 120 Sheets Total, 4A BP 1111-Nx4",
+        "J": "B07QWKYQV7"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行122",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 4 Pads Big Sticky Notes 11 x 11 Inches, Bright Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad, 120 Sheets Total, 4A BP 1111-Nx4"
+    },
+    {
+      "sku": "4A BS 1804",
+      "asin": "B07WDQGB3G",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A BS 1804",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07WDQGB3G",
+        "I": "4A Desk Sticky Notes Organizer Set",
+        "J": "1180 sheets total for notes and reminders"
+      },
+      "before": {
+        "I": "4A Self-Stick Notes, Classic Assorted, 4A BS 1804",
+        "J": "B07WDQGB3G"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "上传处理报告的商品名称/亮点错误",
+        "物流库存10-30快照行109"
+      ],
+      "evidence_title": "4A Sticky Note Bundle Set, Colored Rectangular Notes and Pop-up Flags Index Flags Organizer, Gifts for Students and Teachers! 1180 Sheets Total, 4A BS 1804"
+    },
+    {
+      "sku": "4A GM-PSS 9-1 NYNRx2",
+      "asin": "B07QWKWWP2",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM-PSS 9-1 NYNRx2",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07QWKWWP2",
+        "I": "4A Sticky Note Rolls with Dispenser and Refills, 2 x 315 in, Neon Colors",
+        "J": "Cut notes to the length needed"
+      },
+      "before": {
+        "I": "4A Full Adhesive Sticky Notes, Sticky Rolls with Dispenser and 2 Refill Rolls, Neon Yellow and Rose Red, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home,4A PSS 9-1 NYNRx2",
+        "J": "B07QWKWWP2"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行132",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Full Adhesive Sticky Notes, Sticky Rolls with Dispenser and 2 Refill Rolls, Neon Yellow and Rose Red, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home,4A PSS 9-1 NYNRx2"
+    },
+    {
+      "sku": "4A GM-PSS 9-3 YOR",
+      "asin": "B01MZ4FDN5",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM-PSS 9-3 YOR",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MZ4FDN5",
+        "I": "4A Sticky Note Rolls with Dispensers, 0.6 x 315 in, Neon Colors",
+        "J": "Cut notes to the length needed"
+      },
+      "before": {
+        "I": "4A Sticky Notes, Full Adhesive Sticky Rolls with Dispenser, 0.6 x 315 Inches, Neon Yellow/Orange/Magenta, Colorful Sticky Roll Tape for Books, Notes, Office, Home,4A PSS 9-3 YOR",
+        "J": "B01MZ4FDN5"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行133",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes, Full Adhesive Sticky Rolls with Dispenser, 0.6 x 315 Inches, Neon Yellow/Orange/Magenta, Colorful Sticky Roll Tape for Books, Notes, Office, Home,4A PSS 9-3 YOR"
+    },
+    {
+      "sku": "4A GM20232",
+      "asin": "B07RP9MSSG",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM20232",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP9MSSG",
+        "I": "4A Sticky Notes, 2 x 2 in, 32 Pads",
+        "J": "100 sheets per pad, 3200 sheets total"
+      },
+      "before": {
+        "I": "4A 32 Pads Sticky Notes 2 x 2 in, 16 Colors, Small Sticky Notes Pads for Home, Office, Notebook, 100 Sheets/Pad, 3200 Sheets Total",
+        "J": "B07RP9MSSG"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行37",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 32 Pads Sticky Notes 2 x 2 in, 16 Colors, Small Sticky Notes Pads for Home, Office, Notebook, 100 Sheets/Pad, 3200 Sheets Total"
+    },
+    {
+      "sku": "4A GM301M32",
+      "asin": "B07RQ7G57D",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM301M32",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RQ7G57D",
+        "I": "4A Color-Cycling Sticky Notes, 1.5 x 2 in, 32 Pads",
+        "J": "100 sheets per pad, 3200 sheets total"
+      },
+      "before": {
+        "I": "4A 32 Pads Sticky Notes 1.5 x 2 in,Color-Cycling,Colorful Small Sticky Notes for Office Home School Supplies,100 Sheets/Pad,3200 Sheets Total,4A 301M32",
+        "J": "B07RQ7G57D"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行41",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 32 Pads Sticky Notes 1.5 x 2 in,Color-Cycling,Colorful Small Sticky Notes for Office Home School Supplies,100 Sheets/Pad,3200 Sheets Total,4A 301M32"
+    },
+    {
+      "sku": "4A GM303M-PN-Zx12",
+      "asin": "B01JGGQ4WQ",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM303M-PN-Zx12",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01JGGQ4WQ",
+        "I": "4A Color-Cycling Pop-up Notes, 3 x 3 in, 12 Pads, Neon Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Color Cyclic Pop-up Sticky Notes,4 Neon Color Assorted, Each Color Sheets Cyclic,Self-Stick Notes,3 x 3 Inches,100 Sheets/Pad,12 Pads/Box,4A 303M-PN-Zx12",
+        "J": "B01JGGQ4WQ"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行516",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Color Cyclic Pop-up Sticky Notes,4 Neon Color Assorted, Each Color Sheets Cyclic,Self-Stick Notes,3 x 3 Inches,100 Sheets/Pad,12 Pads/Box,4A 303M-PN-Zx12"
+    },
+    {
+      "sku": "4A GM303S-20",
+      "asin": "B07RP8HYCJ",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM303S-20",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP8HYCJ",
+        "I": "4A Super Sticky Notes, 3 x 3 in, 20 Pads, Bright Colors",
+        "J": "80 sheets per pad, 1600 sheets total"
+      },
+      "before": {
+        "I": "4A 20 Pads Super Sticky Notes 3 x 3 in, 5 Bright Colors, Colorful Sticky Notes Colored Note Pads for Office School Supplies, 80 Sheets/Pad, 1600 Sheets Total, 4A 303S-20",
+        "J": "B07RP8HYCJ"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行52",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 20 Pads Super Sticky Notes 3 x 3 in, 5 Bright Colors, Colorful Sticky Notes Colored Note Pads for Office School Supplies, 80 Sheets/Pad, 1600 Sheets Total, 4A 303S-20"
+    },
+    {
+      "sku": "4A GM304-Full Adhesive-400",
+      "asin": "B07QXJWDPL",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM304-Full Adhesive-400",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07QXJWDPL",
+        "I": "4A Full Adhesive Sticky Notes, 3 x 4 in, 5 Pads, Bright Colors",
+        "J": "80 sheets per pad, 400 sheets total"
+      },
+      "before": {
+        "I": "4A 5 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 80 Sheets/Pad, 400 Sheets Total, 4A 304-Full Adhesive-400",
+        "J": "B07QXJWDPL"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行54",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 5 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 80 Sheets/Pad, 400 Sheets Total, 4A 304-Full Adhesive-400"
+    },
+    {
+      "sku": "4A GM30512",
+      "asin": "B07RR9KFM5",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM30512",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RR9KFM5",
+        "I": "4A Sticky Notes, 3 x 5 in, 12 Pads, Bright Colors",
+        "J": "100 sheets per pad, 1200 sheets total"
+      },
+      "before": {
+        "I": "4A 12 Pads Sticky Notes 3 x 5 in, Bright Colors, Colorful Sticky Notes Pads for Office, School, Home, 100 Sheets/Pad, 1200 Sheets Total,4A 30512",
+        "J": "B07RR9KFM5"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行151",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 12 Pads Sticky Notes 3 x 5 in, Bright Colors, Colorful Sticky Notes Pads for Office, School, Home, 100 Sheets/Pad, 1200 Sheets Total,4A 30512"
+    },
+    {
+      "sku": "4A GM354832",
+      "asin": "B07RP9LR73",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM354832",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP9LR73",
+        "I": "4A Sticky Notes, 1.375 x 1.875 in, 32 Pads",
+        "J": "100 sheets per pad, 3200 sheets total"
+      },
+      "before": {
+        "I": "4A 32 Pads Sticky Notes 1 3/8 x 1 7/8 in, 16 Colors, Adhesive On Long Side, Small Sticky Notes Pads for Home, Office, Notebook, 100 Sheets/pad, 3200 Sheets Total, 4A 354832",
+        "J": "B07RP9LR73"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行155",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 32 Pads Sticky Notes 1 3/8 x 1 7/8 in, 16 Colors, Adhesive On Long Side, Small Sticky Notes Pads for Home, Office, Notebook, 100 Sheets/pad, 3200 Sheets Total, 4A 354832"
+    },
+    {
+      "sku": "4A GM4013",
+      "asin": "B07RQ6HLK3",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM4013",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RQ6HLK3",
+        "I": "4A Sticky Notes Value Pack in Storage Box, 18 Pads, Neon Colors",
+        "J": "1900 sheets total for notes and reminders"
+      },
+      "before": {
+        "I": "4A Sticky Notes Value Pack, Neon Assorted The Most Commonly Used Sizes in One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4013",
+        "J": "B07RQ6HLK3"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行158",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes Value Pack, Neon Assorted The Most Commonly Used Sizes in One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4013"
+    },
+    {
+      "sku": "4A GM40412",
+      "asin": "B07RP8KWS8",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM40412",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP8KWS8",
+        "I": "4A Sticky Notes, 4 x 4 in, 12 Pads, Bright Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A 12 Pads Sticky Notes 4 x 4 in, 12 Bright Colors, Colorful Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 1200 Sheets",
+        "J": "B07RP8KWS8"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行159",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 12 Pads Sticky Notes 4 x 4 in, 12 Bright Colors, Colorful Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 1200 Sheets"
+    },
+    {
+      "sku": "4A GM40412-L",
+      "asin": "B07RP8FC4D",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM40412-L",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP8FC4D",
+        "I": "4A Lined Sticky Notes, 4 x 4 in, 12 Pads, Bright Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A 12 Pads Lined Sticky Notes with Lines 4 x 4 in, 12 Bright Colors, Colorful Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 1200 Sheets, 4A 40412-L",
+        "J": "B07RP8FC4D"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行160",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 12 Pads Lined Sticky Notes with Lines 4 x 4 in, 12 Bright Colors, Colorful Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 1200 Sheets, 4A 40412-L"
+    },
+    {
+      "sku": "4A GM404SL-15",
+      "asin": "B07RQ69Q1Q",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM404SL-15",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RQ69Q1Q",
+        "I": "4A Super Sticky Lined Notes, 4 x 4 in, 15 Pads, Bright Colors",
+        "J": "80 sheets per pad"
+      },
+      "before": {
+        "I": "4A Super Sticky Notes,4 x 4 Inches,Extra Bright Colors Assorted,Lined,5 Colors,80 Sheets/Pad,15 Pads/Pack,4A 404SL-15",
+        "J": "B07RQ69Q1Q"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行162",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Super Sticky Notes,4 x 4 Inches,Extra Bright Colors Assorted,Lined,5 Colors,80 Sheets/Pad,15 Pads/Pack,4A 404SL-15"
+    },
+    {
+      "sku": "4A GM40612",
+      "asin": "B07RVJB9DL",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM40612",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RVJB9DL",
+        "I": "4A Sticky Notes, 4 x 6 in, 12 Pads, Bright Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A 12 Pads Sticky Notes 4 x 6 in, Bright Colors, Colorful Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 1200 Sheets, 4A 40612",
+        "J": "B07RVJB9DL"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行71",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 12 Pads Sticky Notes 4 x 6 in, Bright Colors, Colorful Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 1200 Sheets, 4A 40612"
+    },
+    {
+      "sku": "4A GM40612-L",
+      "asin": "B07RT4GQJK",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM40612-L",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RT4GQJK",
+        "I": "4A Lined Sticky Notes, 4 x 6 in, 12 Pads, Neon Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Sticky Notes,4 x 6 Inches,Lined,Neon Assorted,12 Colors,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 40612-L",
+        "J": "B07RT4GQJK"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行169",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes,4 x 6 Inches,Lined,Neon Assorted,12 Colors,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 40612-L"
+    },
+    {
+      "sku": "4A GM406SL-10",
+      "asin": "B07RP85C2P",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM406SL-10",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP85C2P",
+        "I": "4A Super Sticky Lined Notes, 4 x 6 in, 10 Pads, Bright Colors",
+        "J": "80 sheets per pad"
+      },
+      "before": {
+        "I": "4A Super Sticky Notes,4 x 6 Inches,Extra Bright Colors Assorted,Lined,5 Colors,80 Sheets/Pad,10 Pads/Pack,4A 406SL-10",
+        "J": "B07RP85C2P"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行175",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Super Sticky Notes,4 x 6 Inches,Extra Bright Colors Assorted,Lined,5 Colors,80 Sheets/Pad,10 Pads/Pack,4A 406SL-10"
+    },
+    {
+      "sku": "4A GM5021X2",
+      "asin": "B07VGYQXCC",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM5021X2",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07VGYQXCC",
+        "I": "4A Door Hanger Sticky Notes, 2.84 x 7.09 in, 8 Pads, Neon Colors",
+        "J": "25 sheets per pad"
+      },
+      "before": {
+        "I": "4A Shapes Sticky Notes,Door Lock Sticky Notes,with Hole Can Hang in Door Lock,2.84 x 7.09 Inches,Large Size,Neon Assorted,Self-Stick Notes,25 Sheets/Pad,4 Pads/Pack,100 Sheets/Pack,2 Packs,4A 5021X2",
+        "J": "B07VGYQXCC"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行183",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Shapes Sticky Notes,Door Lock Sticky Notes,with Hole Can Hang in Door Lock,2.84 x 7.09 Inches,Large Size,Neon Assorted,Self-Stick Notes,25 Sheets/Pad,4 Pads/Pack,100 Sheets/Pack,2 Packs,4A 5021X2"
+    },
+    {
+      "sku": "4A GM5084-N-L*2",
+      "asin": "B07FKJM2LX",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM5084-N-L*2",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07FKJM2LX",
+        "I": "4A Lined Sticky Notes, 5 x 8 in, 8 Pads, Bright Colors",
+        "J": "50 sheets per pad, 400 sheets total"
+      },
+      "before": {
+        "I": "4A 8 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 400 Sheets Total, 4A 5084-N-Lx2",
+        "J": "B07FKJM2LX"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行304",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 8 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 400 Sheets Total, 4A 5084-N-Lx2"
+    },
+    {
+      "sku": "4A GM60121-10x2",
+      "asin": "B07RP8FX7N",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM60121-10x2",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP8FX7N",
+        "I": "4A Transparent Page Flags, 0.5 x 1.75 in, Neon Colors",
+        "J": "Mark and organize pages for easy reference"
+      },
+      "before": {
+        "I": "4A Pop-up Flags in Dispensers Set,Neon Color Page Marker Index Label,Transparent Tabs Flags Stickers,Writable Labels Bookmarks,1/2 x 1 3/4 Inches,700 Flags Total,4A 60121-10x2",
+        "J": "B07RP8FX7N"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行186",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Pop-up Flags in Dispensers Set,Neon Color Page Marker Index Label,Transparent Tabs Flags Stickers,Writable Labels Bookmarks,1/2 x 1 3/4 Inches,700 Flags Total,4A 60121-10x2"
+    },
+    {
+      "sku": "4A GM60174-Sign Herex2",
+      "asin": "B07RP95GGF",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM60174-Sign Herex2",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP95GGF",
+        "I": "4A Sign Here Flags, Neon Colors",
+        "J": "Mark places that need a signature"
+      },
+      "before": {
+        "I": "4A Pop-up Flags Set,Neon Color Page Marker Index Label,Transparent Tabs Flags Stickers,Writable Labels Bookmarks,50 Flags/Dispenser,8 Dispensers/Pack,2 Packs,800 Flags Total,4A 60174-Sign Herex2",
+        "J": "B07RP95GGF"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行189",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Pop-up Flags Set,Neon Color Page Marker Index Label,Transparent Tabs Flags Stickers,Writable Labels Bookmarks,50 Flags/Dispenser,8 Dispensers/Pack,2 Packs,800 Flags Total,4A 60174-Sign Herex2"
+    },
+    {
+      "sku": "4A GM60222",
+      "asin": "B07RR9CGXY",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM60222",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RR9CGXY",
+        "I": "4A Arrow Page Flags, Bright Colors",
+        "J": "Mark and organize pages for easy reference"
+      },
+      "before": {
+        "I": "4A 780 Pcs Transparent Sticky Tabs Page Markers, Bright Colors, Writable Arrow Sticky Flags Annotation Book Tabs for Annotating Books, Page Markers for Books, Notebooks, 4A 60222",
+        "J": "B07RR9CGXY"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行190",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 780 Pcs Transparent Sticky Tabs Page Markers, Bright Colors, Writable Arrow Sticky Flags Annotation Book Tabs for Annotating Books, Page Markers for Books, Notebooks, 4A 60222"
+    },
+    {
+      "sku": "4A GM6031x4",
+      "asin": "B07RP9K6KV",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM6031x4",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP9K6KV",
+        "I": "4A Transparent Page Flags, 1.2 x 2 in",
+        "J": "Mark and organize pages for easy reference"
+      },
+      "before": {
+        "I": "4A 100 Pcs Divider Sticky Tabs 1.2 x 2 in, Transparent Sticky Index Tabs Flags Page Markers for Books Notebooks Office School Supplies, 25 Sheets/Pack, 4 Packs, 4A 6031x4",
+        "J": "B07RP9K6KV"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行102",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 100 Pcs Divider Sticky Tabs 1.2 x 2 in, Transparent Sticky Index Tabs Flags Page Markers for Books Notebooks Office School Supplies, 25 Sheets/Pack, 4 Packs, 4A 6031x4"
+    },
+    {
+      "sku": "4A GM6032x5",
+      "asin": "B07RQ5MBBB",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM6032x5",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RQ5MBBB",
+        "I": "4A Durable File Tabs",
+        "J": "Mark and organize pages for easy reference"
+      },
+      "before": {
+        "I": "4A Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Stickers,Writable,Bookmarks,Repositionable,Great Labeling,Flaging,Retrieving Folders&Documents,24 Pads/Set,5 Sets,4A 6032x5",
+        "J": "B07RQ5MBBB"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行195",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Stickers,Writable,Bookmarks,Repositionable,Great Labeling,Flaging,Retrieving Folders&Documents,24 Pads/Set,5 Sets,4A 6032x5"
+    },
+    {
+      "sku": "4A GM6084-NL",
+      "asin": "B07RR95YW7",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM6084-NL",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RR95YW7",
+        "I": "4A Lined Sticky Notes, 6 x 8 in, 4 Pads, Neon Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Sticky Notes,6 x 8 Inches,Large Size,4 Colors,Neon Blue,Red,Yellow and Green,Lined,Self-Stick Notes,100 Sheets/Pad,4 Pads/Pack,4A 6084-NL",
+        "J": "B07RR95YW7"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行201",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes,6 x 8 Inches,Large Size,4 Colors,Neon Blue,Red,Yellow and Green,Lined,Self-Stick Notes,100 Sheets/Pad,4 Pads/Pack,4A 6084-NL"
+    },
+    {
+      "sku": "4A GM6087-NL-420",
+      "asin": "B07T77N118",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM6087-NL-420",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07T77N118",
+        "I": "4A Lined Sticky Notes, 6 x 8 in, 7 Pads, Neon Colors",
+        "J": "60 sheets per pad"
+      },
+      "before": {
+        "I": "4A Sticky Notes,6 x 8 Inches,Large Size,7 Different Neon Colors,Lined,Self-Stick Notes,60 Sheets/Pad,7 Pads/Pack,4A 6087-NL-420",
+        "J": "B07T77N118"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行110",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes,6 x 8 Inches,Large Size,7 Different Neon Colors,Lined,Self-Stick Notes,60 Sheets/Pad,7 Pads/Pack,4A 6087-NL-420"
+    },
+    {
+      "sku": "4A GM608S-Linex4",
+      "asin": "B07FKPY2V6",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM608S-Linex4",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07FKPY2V6",
+        "I": "4A Super Sticky Lined Notes, 6 x 8 in, 4 Pads, Bright Colors",
+        "J": "50 sheets per pad, 200 sheets total"
+      },
+      "before": {
+        "I": "4A 4 Pads Super Sticky Lined Notes 6 x 8 Inches, Mix 5 Bright Colors, Large Lined Self-Stick Note Pads for Office, School, 50 Sheets/Pad, 200 Sheets Total, 4A 608S-Linex4",
+        "J": "B07FKPY2V6"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行203",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 4 Pads Super Sticky Lined Notes 6 x 8 Inches, Mix 5 Bright Colors, Large Lined Self-Stick Note Pads for Office, School, 50 Sheets/Pad, 200 Sheets Total, 4A 608S-Linex4"
+    },
+    {
+      "sku": "4A GM608SL-5",
+      "asin": "B07RN7W756",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GM608SL-5",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RN7W756",
+        "I": "4A Super Sticky Lined Notes, 6 x 8 in, 5 Pads, Bright Colors",
+        "J": "80 sheets per pad, 400 sheets total"
+      },
+      "before": {
+        "I": "4A 5 Pads Super Sticky Notes with Lines 6 x 8 in, Bright Colors, Colorful Lined Sticky Notes Large Note Pads for Office School Supplies, 80 Sheets/Pad, 400 Sheets Total, 4A 608SL-5",
+        "J": "B07RN7W756"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行205",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 5 Pads Super Sticky Notes with Lines 6 x 8 in, Bright Colors, Colorful Lined Sticky Notes Large Note Pads for Office School Supplies, 80 Sheets/Pad, 400 Sheets Total, 4A 608SL-5"
+    },
+    {
+      "sku": "4A GMBP 1111-Nx4",
+      "asin": "B07QWKYQV7",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GMBP 1111-Nx4",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07QWKYQV7",
+        "I": "4A Big Sticky Notes, 11 x 11 in, 4 Pads, Bright Colors",
+        "J": "30 sheets per pad, 120 sheets total"
+      },
+      "before": {
+        "I": "4A 4 Pads Big Sticky Notes 11 x 11 Inches, Bright Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad, 120 Sheets Total, 4A BP 1111-Nx4",
+        "J": "B07QWKYQV7"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行122",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 4 Pads Big Sticky Notes 11 x 11 Inches, Bright Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad, 120 Sheets Total, 4A BP 1111-Nx4"
+    },
+    {
+      "sku": "4A GMGR4066",
+      "asin": "B07RP9MSSL",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GMGR4066",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP9MSSL",
+        "I": "4A Grid Sticky Notes, 4 x 6 in, 6 Pads, White",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Grid Sticky Notes,4 in x 6 in,Large Size,The Adhesive On Shorter Side,White Paper with Black Grid,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A GR4066",
+        "J": "B07RP9MSSL"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行543",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Grid Sticky Notes,4 in x 6 in,Large Size,The Adhesive On Shorter Side,White Paper with Black Grid,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A GR4066"
+    },
+    {
+      "sku": "4A GMPSS 9-1 NGNOx2",
+      "asin": "B07QXJY3FH",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GMPSS 9-1 NGNOx2",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07QXJY3FH",
+        "I": "4A Sticky Note Rolls with Dispenser and Refills, 2 x 315 in, Neon Colors",
+        "J": "Cut notes to the length needed"
+      },
+      "before": {
+        "I": "4A Full Adhesive Sticky Notes, Sticky Rolls with Dispenser and 2 Refill Rolls, Neon Green and Orange, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home, 4A PSS 9-1 NGNOx2",
+        "J": "B07QXJY3FH"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行216",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Full Adhesive Sticky Notes, Sticky Rolls with Dispenser and 2 Refill Rolls, Neon Green and Orange, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home, 4A PSS 9-1 NGNOx2"
+    },
+    {
+      "sku": "4A GMPSS 9-1 NYRPOGRID",
+      "asin": "B07M854SFQ",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GMPSS 9-1 NYRPOGRID",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07M854SFQ",
+        "I": "4A Grid Sticky Note Rolls, 2 x 315 in, Neon Colors",
+        "J": "Cut notes to the length needed"
+      },
+      "before": {
+        "I": "4A Roll Sticky Notes,Full Adhesive,Width x Length 2 x 315 Inches,Neon Yellow,Red,Pink and Orange,Grid,Self-Stick Notes,4 Roll/Pack,4A PSS 9-1 NYRPOGRID",
+        "J": "B07M854SFQ"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行548",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 2 x 315 Inches,Neon Yellow,Red,Pink and Orange,Grid,Self-Stick Notes,4 Roll/Pack,4A PSS 9-1 NYRPOGRID"
+    },
+    {
+      "sku": "4A GMPSS 9-5 Refill",
+      "asin": "B07QXJX2BV",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GMPSS 9-5 Refill",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07QXJX2BV",
+        "I": "4A Sticky Note Rolls, 0.4 x 315 in",
+        "J": "Cut notes to the length needed"
+      },
+      "before": {
+        "I": "4A Sticky Notes, 4 Full Adhesive Sticky Rolls, 0.4 x 315 Inches, Colorful Sticky Roll Tape for Book, Notebook, Office, Home",
+        "J": "B07QXJX2BV"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行219",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes, 4 Full Adhesive Sticky Rolls, 0.4 x 315 Inches, Colorful Sticky Roll Tape for Book, Notebook, Office, Home"
+    },
+    {
+      "sku": "4A GMSC-MEETING-52x4",
+      "asin": "B07RBVWVY4",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GMSC-MEETING-52x4",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RBVWVY4",
+        "I": "4A Tabletop Easel Pad and Whiteboard, 20 x 23 in, 4 Pads, White",
+        "J": "25 sheets per pad"
+      },
+      "before": {
+        "I": "4A 2-in-1 Super Sticky Portable Tabletop Easel Pad+Dry Erase Panel,20 x 23 in,Anchor Chart Paper Flip Chart Paper for Virtual Teachers,Meeting,25Sheets/Pad,4 Pads,Built-in Stand,White,4A Meeting 52x4",
+        "J": "B07RBVWVY4"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行220",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 2-in-1 Super Sticky Portable Tabletop Easel Pad+Dry Erase Panel,20 x 23 in,Anchor Chart Paper Flip Chart Paper for Virtual Teachers,Meeting,25Sheets/Pad,4 Pads,Built-in Stand,White,4A Meeting 52x4"
+    },
+    {
+      "sku": "4A GMSC404-AC-holder",
+      "asin": "B07WK3JX6K",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GMSC404-AC-holder",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07WK3JX6K",
+        "I": "4A Pen Holder with Lined Sticky Notes, 4 x 4 in, Neon Colors",
+        "J": "Keep notes organized on your desk"
+      },
+      "before": {
+        "I": "4A Sticky Note Dispenser Pen Holder Set,Self-Stick Notes,8 Ultra Colors 4X4 Inches 400 Neon Sheets Sticky Notes, 4A 404-AC-holder",
+        "J": "B07WK3JX6K"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "上传处理报告的商品名称/亮点错误",
+        "产品总表2026 Sheet1行103"
+      ],
+      "evidence_title": "4A Sticky Note Dispenser Pen Holder Set, Self-Stick Notes, 8 Ultra Colors 4x4 Inches, Lined 400 Neon Sheets Sticky Notes, 4A 404-AC-Holder"
+    },
+    {
+      "sku": "4A GMSCBS 1804",
+      "asin": "B07WDQGB3G",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GMSCBS 1804",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07WDQGB3G",
+        "I": "4A Desk Sticky Notes Organizer Set",
+        "J": "1180 sheets total for notes and reminders"
+      },
+      "before": {
+        "I": "4A Sticky Note Bundle Set, Colored Rectangular Notes and Pop-up Flags Index Flags Organizer, Gifts for Students and Teachers! 1180 Sheets Total, 4A BS 1804",
+        "J": "B07WDQGB3G"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "上传处理报告的商品名称/亮点错误",
+        "物流库存10-30快照行109"
+      ],
+      "evidence_title": "4A Sticky Note Bundle Set, Colored Rectangular Notes and Pop-up Flags Index Flags Organizer, Gifts for Students and Teachers! 1180 Sheets Total, 4A BS 1804"
+    },
+    {
+      "sku": "4A GMSCPSS 7",
+      "asin": "B0821LD25K",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GMSCPSS 7",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B0821LD25K",
+        "I": "4A Pop-up Note Dispenser, Black",
+        "J": "Keep notes organized on your desk"
+      },
+      "before": {
+        "I": "4A Pop-Up Note Dispenser, Black, Work with Sticky Pop-Up Notes, for 100 Sheets 3x3 Notes, 1 Dispenser/Pack, 4A PSS 7",
+        "J": "B0821LD25K"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行232",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Pop-Up Note Dispenser, Black, Work with Sticky Pop-Up Notes, for 100 Sheets 3x3 Notes, 1 Dispenser/Pack, 4A PSS 7"
+    },
+    {
+      "sku": "4A GMSMC 434",
+      "asin": "B07FKHNTRK",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GMSMC 434",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07FKHNTRK",
+        "I": "4A Printed Sticky Note Cube, 2.5 x 2.5 in",
+        "J": "For everyday notes and reminders"
+      },
+      "before": {
+        "I": "4A Sticky Note Cube, 2.5 x 2.5 in, 500 Sheets, Bubble Printed on 4 Sides, Memo Cube Sticky Blocks Stick Note Pads for Office, Home, School, 4A SMC 434",
+        "J": "B07FKHNTRK"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行234",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Note Cube, 2.5 x 2.5 in, 500 Sheets, Bubble Printed on 4 Sides, Memo Cube Sticky Blocks Stick Note Pads for Office, Home, School, 4A SMC 434"
+    },
+    {
+      "sku": "4A GR 4066",
+      "asin": "B07RP9MSSL",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GR 4066",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP9MSSL",
+        "I": "4A Grid Sticky Notes, 4 x 6 in, 6 Pads, White",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Self-Stick Notes, White, 4A GR 4066",
+        "J": "B07RP9MSSL"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行543",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Grid Sticky Notes,4 in x 6 in,Large Size,The Adhesive On Shorter Side,White Paper with Black Grid,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A GR4066"
+    },
+    {
+      "sku": "4A GR4066",
+      "asin": "B07RP9MSSL",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A GR4066",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RP9MSSL",
+        "I": "4A Grid Sticky Notes, 4 x 6 in, 6 Pads, White",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Grid Sticky Notes,4 in x 6 in,Large Size,The Adhesive On Shorter Side,White Paper with Black Grid,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A GR4066",
+        "J": "B07RP9MSSL"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行543",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Grid Sticky Notes,4 in x 6 in,Large Size,The Adhesive On Shorter Side,White Paper with Black Grid,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A GR4066"
+    },
+    {
+      "sku": "4A MG30124",
+      "asin": "B01N9LOE7P",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A MG30124",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01N9LOE7P",
+        "I": "4A Color-Cycling Sticky Notes, 1.5 x 2 in, 24 Pads",
+        "J": "100 sheets per pad, 2400 sheets total"
+      },
+      "before": {
+        "I": "4A 24 Pads Sticky Notes 1.5 x 2 in, Color-Cycling, Colorful Small Sticky Notes for Office Home School Supplies, 100 Sheets/Pad, 2400 Sheets Total,4A 301M24",
+        "J": "B01N9LOE7P"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行237",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 24 Pads Sticky Notes 1.5 x 2 in, Color-Cycling, Colorful Small Sticky Notes for Office Home School Supplies, 100 Sheets/Pad, 2400 Sheets Total,4A 301M24"
+    },
+    {
+      "sku": "4A MG30312-Z",
+      "asin": "B01JGGQ4WQ",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A MG30312-Z",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01JGGQ4WQ",
+        "I": "4A Color-Cycling Pop-up Notes, 3 x 3 in, 12 Pads, Neon Colors",
+        "J": "100 sheets per pad"
+      },
+      "before": {
+        "I": "4A Color Cyclic Pop-up Sticky Notes,4 Neon Color Assorted, Each Color Sheets Cyclic,Self-Stick Notes,3 x 3 Inches,100 Sheets/Pad,12 Pads/Box,4A 303M-PN-Zx12",
+        "J": "B01JGGQ4WQ"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行516",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Color Cyclic Pop-up Sticky Notes,4 Neon Color Assorted, Each Color Sheets Cyclic,Self-Stick Notes,3 x 3 Inches,100 Sheets/Pad,12 Pads/Box,4A 303M-PN-Zx12"
+    },
+    {
+      "sku": "4A Meeting 52x4",
+      "asin": "B07RBVWVY4",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A Meeting 52x4",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07RBVWVY4",
+        "I": "4A Tabletop Easel Pad and Whiteboard, 20 x 23 in, 4 Pads, White",
+        "J": "25 sheets per pad"
+      },
+      "before": {
+        "I": "4A 2-in-1 Super Sticky Portable Tabletop Easel Pad+Dry Erase Panel,20 x 23 in,Anchor Chart Paper Flip Chart Paper for Virtual Teachers,Meeting,25Sheets/Pad,4 Pads,Built-in Stand,White,4A Meeting 52x4",
+        "J": "B07RBVWVY4"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行220",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 2-in-1 Super Sticky Portable Tabletop Easel Pad+Dry Erase Panel,20 x 23 in,Anchor Chart Paper Flip Chart Paper for Virtual Teachers,Meeting,25Sheets/Pad,4 Pads,Built-in Stand,White,4A Meeting 52x4"
+    },
+    {
+      "sku": "4A PSS 9-1 NGNOx2",
+      "asin": "B07QXJY3FH",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A PSS 9-1 NGNOx2",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07QXJY3FH",
+        "I": "4A Sticky Note Rolls with Dispenser and Refills, 2 x 315 in, Neon Colors",
+        "J": "Cut notes to the length needed"
+      },
+      "before": {
+        "I": "4A Full Adhesive Sticky Notes, Sticky Rolls with Dispenser and 2 Refill Rolls, Neon Green and Orange, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home, 4A PSS 9-1 NGNOx2",
+        "J": "B07QXJY3FH"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行216",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Full Adhesive Sticky Notes, Sticky Rolls with Dispenser and 2 Refill Rolls, Neon Green and Orange, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home, 4A PSS 9-1 NGNOx2"
+    },
+    {
+      "sku": "4A PSS 9-1 NYNRx2",
+      "asin": "B07QWKWWP2",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A PSS 9-1 NYNRx2",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07QWKWWP2",
+        "I": "4A Sticky Note Rolls with Dispenser and Refills, 2 x 315 in, Neon Colors",
+        "J": "Cut notes to the length needed"
+      },
+      "before": {
+        "I": "4A Full Adhesive Sticky Notes, Sticky Rolls with Dispenser and 2 Refill Rolls, Neon Yellow and Rose Red, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home,4A PSS 9-1 NYNRx2",
+        "J": "B07QWKWWP2"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行132",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Full Adhesive Sticky Notes, Sticky Rolls with Dispenser and 2 Refill Rolls, Neon Yellow and Rose Red, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home,4A PSS 9-1 NYNRx2"
+    },
+    {
+      "sku": "4A PSS 9-1 NYRPOGRID",
+      "asin": "B07M854SFQ",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A PSS 9-1 NYRPOGRID",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07M854SFQ",
+        "I": "4A Grid Sticky Note Rolls, 2 x 315 in, Neon Colors",
+        "J": "Cut notes to the length needed"
+      },
+      "before": {
+        "I": "4A Roll Sticky Notes,Full Adhesive,Width x Length 2 x 315 Inches,Neon Yellow,Red,Pink and Orange,Grid,Self-Stick Notes,4 Roll/Pack,4A PSS 9-1 NYRPOGRID",
+        "J": "B07M854SFQ"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行548",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 2 x 315 Inches,Neon Yellow,Red,Pink and Orange,Grid,Self-Stick Notes,4 Roll/Pack,4A PSS 9-1 NYRPOGRID"
+    },
+    {
+      "sku": "4A PSS 9-3 2 Sets",
+      "asin": "B0DYNL5SMR",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A PSS 9-3 2 Sets",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B0DYNL5SMR",
+        "I": "4A Sticky Note Rolls with Dispenser and Refills, 0.6 x 315 in",
+        "J": "Cut notes to the length needed"
+      },
+      "before": {
+        "I": "4A Sticky Rolls, 2 Full Adhesive Sticky Notes with Dispenser and 2 Refill Rolls, 0.6 x 315 Inches, Bright Colors, Colorful Sticky Roll Tape for Book, Notebook, Office, Home,4A PSS 9-3 2 Sets",
+        "J": "B0DYNL5SMR"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行250",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Rolls, 2 Full Adhesive Sticky Notes with Dispenser and 2 Refill Rolls, 0.6 x 315 Inches, Bright Colors, Colorful Sticky Roll Tape for Book, Notebook, Office, Home,4A PSS 9-3 2 Sets"
+    },
+    {
+      "sku": "4A PSS 9-3 BGR",
+      "asin": "B01N1WZFFL",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A PSS 9-3 BGR",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01N1WZFFL",
+        "I": "4A Sticky Note Rolls, 0.6 x 315 in, Neon Colors",
+        "J": "Cut notes to the length needed",
+        "BG": "Multicolor"
+      },
+      "before": {
+        "I": "4A Roll Sticky Notes,Full Adhesive,Width x Length 0.6 x 315 Inches,Neon Blue/Green/Red,Self-Stick Notes,3 Color/Roll,1 Roll/Pack,4A PSS 9-3 BGR",
+        "J": "B01N1WZFFL",
+        "BG": "Neon Assorted"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点",
+        "按8541回执明确的Amazon en_US目录值修复color"
+      ],
+      "sources": [
+        "01-price-title-fixes-processing-summary.xlsm 的目录冲突明细",
+        "10-31报告行585",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 0.6 x 315 Inches,Neon Blue/Green/Red,Self-Stick Notes,3 Color/Roll,1 Roll/Pack,4A PSS 9-3 BGR"
+    },
+    {
+      "sku": "4A PSS 9-3 BOG",
+      "asin": "B01N9M9OT4",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A PSS 9-3 BOG",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01N9M9OT4",
+        "I": "4A Sticky Note Rolls, 0.6 x 315 in, Neon Colors",
+        "J": "Cut notes to the length needed",
+        "BG": "Neon Blue, Orange, Green, Yellow"
+      },
+      "before": {
+        "I": "4A Roll Sticky Notes,Full Adhesive,Width x Length 0.6 x 315 Inches,Neon Blue/Orange/Green,Self-Stick Notes,3 Color/Roll,1 Roll/Pack,4A PSS 9-3 BOG",
+        "J": "B01N9M9OT4",
+        "BG": "Neon Assorted"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点",
+        "按8541回执明确的Amazon en_US目录值修复color"
+      ],
+      "sources": [
+        "01-price-title-fixes-processing-summary.xlsm 的目录冲突明细",
+        "10-31报告行586",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 0.6 x 315 Inches,Neon Blue/Orange/Green,Self-Stick Notes,3 Color/Roll,1 Roll/Pack,4A PSS 9-3 BOG"
+    },
+    {
+      "sku": "4A PSS 9-3 YOR",
+      "asin": "B01MZ4FDN5",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A PSS 9-3 YOR",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MZ4FDN5",
+        "I": "4A Sticky Note Rolls with Dispensers, 0.6 x 315 in, Neon Colors",
+        "J": "Cut notes to the length needed"
+      },
+      "before": {
+        "I": "4A Sticky Notes, Full Adhesive Sticky Rolls with Dispenser, 0.6 x 315 Inches, Neon Yellow/Orange/Magenta, Colorful Sticky Roll Tape for Books, Notes, Office, Home,4A PSS 9-3 YOR",
+        "J": "B01MZ4FDN5"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行133",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes, Full Adhesive Sticky Rolls with Dispenser, 0.6 x 315 Inches, Neon Yellow/Orange/Magenta, Colorful Sticky Roll Tape for Books, Notes, Office, Home,4A PSS 9-3 YOR"
+    },
+    {
+      "sku": "4A PSS 9-5 Refill",
+      "asin": "B07QXJX2BV",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A PSS 9-5 Refill",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07QXJX2BV",
+        "I": "4A Sticky Note Rolls, 0.4 x 315 in",
+        "J": "Cut notes to the length needed"
+      },
+      "before": {
+        "I": "4A Sticky Notes, 4 Full Adhesive Sticky Rolls, 0.4 x 315 Inches, Colorful Sticky Roll Tape for Book, Notebook, Office, Home",
+        "J": "B07QXJX2BV"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行219",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes, 4 Full Adhesive Sticky Rolls, 0.4 x 315 Inches, Colorful Sticky Roll Tape for Book, Notebook, Office, Home"
+    },
+    {
+      "sku": "4A SC404-AC-holder",
+      "asin": "B07WK3JX6K",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A SC404-AC-holder",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07WK3JX6K",
+        "I": "4A Pen Holder with Lined Sticky Notes, 4 x 4 in, Neon Colors",
+        "J": "Keep notes organized on your desk"
+      },
+      "before": {
+        "I": "4A Sticky Note Dispenser Pen Holder Set,Self-Stick Notes,8 Ultra Colors 4X4 Inches 400 Neon Sheets Sticky Notes, 4A 404-AC-holder",
+        "J": "B07WK3JX6K"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "上传处理报告的商品名称/亮点错误",
+        "产品总表2026 Sheet1行103"
+      ],
+      "evidence_title": "4A Sticky Note Dispenser Pen Holder Set, Self-Stick Notes, 8 Ultra Colors 4x4 Inches, Lined 400 Neon Sheets Sticky Notes, 4A 404-AC-Holder"
+    },
+    {
+      "sku": "4A SCBS 1804",
+      "asin": "B07WDQGB3G",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A SCBS 1804",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07WDQGB3G",
+        "I": "4A Desk Sticky Notes Organizer Set",
+        "J": "1180 sheets total for notes and reminders"
+      },
+      "before": {
+        "I": "4A Sticky Note Bundle Set, Colored Rectangular Notes and Pop-up Flags Index Flags Organizer, Gifts for Students and Teachers! 1180 Sheets Total, 4A BS 1804",
+        "J": "B07WDQGB3G"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "上传处理报告的商品名称/亮点错误",
+        "物流库存10-30快照行109"
+      ],
+      "evidence_title": "4A Sticky Note Bundle Set, Colored Rectangular Notes and Pop-up Flags Index Flags Organizer, Gifts for Students and Teachers! 1180 Sheets Total, 4A BS 1804"
+    },
+    {
+      "sku": "4A SCPSS 7",
+      "asin": "B0821LD25K",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A SCPSS 7",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B0821LD25K",
+        "I": "4A Pop-up Note Dispenser, Black",
+        "J": "Keep notes organized on your desk"
+      },
+      "before": {
+        "I": "4A Pop-Up Note Dispenser, Black, Work with Sticky Pop-Up Notes, for 100 Sheets 3x3 Notes, 1 Dispenser/Pack, 4A PSS 7",
+        "J": "B0821LD25K"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行232",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Pop-Up Note Dispenser, Black, Work with Sticky Pop-Up Notes, for 100 Sheets 3x3 Notes, 1 Dispenser/Pack, 4A PSS 7"
+    },
+    {
+      "sku": "4A SN301x12-N",
+      "asin": "B07KPF9PFX",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A SN301x12-N",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07KPF9PFX",
+        "I": "4A Sticky Notes, 1.5 x 2 in, 12 Pads, Neon Colors",
+        "J": "100 sheets per pad, 1200 sheets total"
+      },
+      "before": {
+        "I": "4A 12 Pads Sticky Notes 1.5 x 2 in, Neon Assorted, Adhesive On Short Side, Small Sticky Notes Self-Stick Note Pads for Office School Supplies, 100 Sheets/Pad, 12 Pads, 1200 Sheets Total, 4A 301x12-N",
+        "J": "B07KPF9PFX"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行273",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 12 Pads Sticky Notes 1.5 x 2 in, Neon Assorted, Adhesive On Short Side, Small Sticky Notes Self-Stick Note Pads for Office School Supplies, 100 Sheets/Pad, 12 Pads, 1200 Sheets Total, 4A 301x12-N"
+    },
+    {
+      "sku": "4A052",
+      "asin": "B01N1U9USQ",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A052",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01N1U9USQ",
+        "I": "4A Arrow Shaped Sticky Notes, 2.72 x 2.56 in, Bright Colors",
+        "J": "200 sheets total for notes and reminders"
+      },
+      "before": {
+        "I": "4A Arrow Shaped Sticky Notes, 2.72 x 2.56 Inches, 5 Bright Colors, Fun Sticky Notes Note Pads Memo Pads for Office, School, Home, 200 Sheets Total, 4A 5013",
+        "J": "B01N1U9USQ"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行281",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Arrow Shaped Sticky Notes, 2.72 x 2.56 Inches, 5 Bright Colors, Fun Sticky Notes Note Pads Memo Pads for Office, School, Home, 200 Sheets Total, 4A 5013"
+    },
+    {
+      "sku": "4A053",
+      "asin": "B01MY06P05",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A053",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MY06P05",
+        "I": "4A Speech Bubble Sticky Notes, 3.375 x 1.875 in, Bright Colors",
+        "J": "200 sheets total for notes and reminders"
+      },
+      "before": {
+        "I": "4A Bubble Shaped Sticky Notes, 3 3/8 x 1 7/8 Inches,5 Bright Colors,Cute Sticky Notes Memo Pads for Teachers, Office,School,Home,200 Sheets Total,4A 5059",
+        "J": "B01MY06P05"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行88",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Bubble Shaped Sticky Notes, 3 3/8 x 1 7/8 Inches,5 Bright Colors,Cute Sticky Notes Memo Pads for Teachers, Office,School,Home,200 Sheets Total,4A 5059"
+    },
+    {
+      "sku": "4A055",
+      "asin": "B00SMEENOU",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A055",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B00SMEENOU",
+        "I": "4A Tree Shaped Sticky Notes, 2.6 x 2.71 in, 1 Pad, Neon Colors",
+        "J": "200 sheets per pad"
+      },
+      "before": {
+        "I": "4A Shapes Sticky Note,Tree Shape,2.6 x 2.71 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5037",
+        "J": "B00SMEENOU"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行283",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Shapes Sticky Note,Tree Shape,2.6 x 2.71 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5037"
+    },
+    {
+      "sku": "4A068",
+      "asin": "B01NCQ6Q1T",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A068",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01NCQ6Q1T",
+        "I": "4A Divider Sticky Notes, 4 x 6 in, Neon Colors",
+        "J": "Mark and organize pages for easy reference"
+      },
+      "before": {
+        "I": "4A Divider Sticky Notes,4 x 6 Inches,Large Size,Neon Assorted,Lined,20 Sheets/Divider,3 Divders/Pack,Self-Stick Notes for Office,School,Home,60 Ruled Notes,4A 40621",
+        "J": "B01NCQ6Q1T"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行428",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Divider Sticky Notes,4 x 6 Inches,Large Size,Neon Assorted,Lined,20 Sheets/Divider,3 Divders/Pack,Self-Stick Notes for Office,School,Home,60 Ruled Notes,4A 40621"
+    },
+    {
+      "sku": "4A069",
+      "asin": "B01N6KX7PE",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A069",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01N6KX7PE",
+        "I": "4A Divider Sticky Notes, 4 x 6 in, White",
+        "J": "Mark and organize pages for easy reference"
+      },
+      "before": {
+        "I": "4A Divider Sticky Notes,4 x 6 Inches,Large Size,White Paper,Lined,20 Sheets/Divider,3 Divders/Pack,Self-Stick Notes for Office,Home,School,60 Ruled Notes,4A 40622",
+        "J": "B01N6KX7PE"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行284",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Divider Sticky Notes,4 x 6 Inches,Large Size,White Paper,Lined,20 Sheets/Divider,3 Divders/Pack,Self-Stick Notes for Office,Home,School,60 Ruled Notes,4A 40622"
+    },
+    {
+      "sku": "4A071",
+      "asin": "B01MY2AYET",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A071",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MY2AYET",
+        "I": "4A Divider Sticky Notes, 4 x 6 in, White",
+        "J": "60 sheets total for notes and reminders"
+      },
+      "before": {
+        "I": "4A Divider Sticky Notes Tabs 4 x 6 Inches, White, Tabbed Self-Stick Lined Notepads for Notebooks, Office, School Supplies, 10 Sheets/Divider, 6 Dividers/Pack, 60 Sheets Total, 4A 40624",
+        "J": "B01MY2AYET"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行74",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Divider Sticky Notes Tabs 4 x 6 Inches, White, Tabbed Self-Stick Lined Notepads for Notebooks, Office, School Supplies, 10 Sheets/Divider, 6 Dividers/Pack, 60 Sheets Total, 4A 40624"
+    },
+    {
+      "sku": "4A094",
+      "asin": "B01MDJ91BV",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A094",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01MDJ91BV",
+        "I": "4A Transparent Page Flags, Neon Colors",
+        "J": "Mark and organize pages for easy reference",
+        "T": "4A（USA）LIMITED"
+      },
+      "before": {
+        "I": "4A 4A 66113 Sticky Notes Flags Set, Neon Fluorescent Color, Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Page Marker Bookmarks, 6 Pads/set, 1/2\" x 1 3/4\"",
+        "J": "B01MDJ91BV",
+        "T": "China"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点",
+        "按8541回执明确的Amazon en_US目录值修复manufacturer"
+      ],
+      "sources": [
+        "01-price-title-fixes-processing-summary.xlsm 的目录冲突明细",
+        "10-31报告行290",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 4A 66113 Sticky Notes Flags Set, Neon Fluorescent Color, Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Page Marker Bookmarks, 6 Pads/set, 1/2\" x 1 3/4\""
+    },
+    {
+      "sku": "4A5013-B00SM-FBA",
+      "asin": "B00SMEEV4C",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4A5013-B00SM-FBA",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B00SMEEV4C",
+        "I": "4A Arrow Shaped Sticky Notes, 2.72 x 2.56 in, 1 Pad, Neon Colors",
+        "J": "200 sheets per pad"
+      },
+      "before": {
+        "I": "4A Shapes Sticky Notes,Arrow Shape,2.72 x 2.56 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5013",
+        "J": "B00SMEEV4C"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行296",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Shapes Sticky Notes,Arrow Shape,2.72 x 2.56 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5013"
+    },
+    {
+      "sku": "4AGM301MX24",
+      "asin": "B01N9LOE7P",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "4AGM301MX24",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B01N9LOE7P",
+        "I": "4A Color-Cycling Sticky Notes, 1.5 x 2 in, 24 Pads",
+        "J": "100 sheets per pad, 2400 sheets total"
+      },
+      "before": {
+        "I": "4A 24 Pads Sticky Notes 1.5 x 2 in, Color-Cycling, Colorful Small Sticky Notes for Office Home School Supplies, 100 Sheets/Pad, 2400 Sheets Total,4A 301M24",
+        "J": "B01N9LOE7P"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行237",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 24 Pads Sticky Notes 1.5 x 2 in, Color-Cycling, Colorful Small Sticky Notes for Office Home School Supplies, 100 Sheets/Pad, 2400 Sheets Total,4A 301M24"
+    },
+    {
+      "sku": "AAAA 4A 40608",
+      "asin": "B00SMEEVL0",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "AAAA 4A 40608",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B00SMEEVL0",
+        "I": "4A Divider Sticky Notes, Neon Colors",
+        "J": "60 sheets total for notes and reminders"
+      },
+      "before": {
+        "I": "4A Divider Sticky Notes,Note Tabs,2 2/3 x 2 7/8 Inches,Neon Assorted,15 Sheets/Divider,4 Divders/Pack,Self-Stick Notes,60 Sheets Total,4A 40608",
+        "J": "B00SMEEVL0"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行301",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Divider Sticky Notes,Note Tabs,2 2/3 x 2 7/8 Inches,Neon Assorted,15 Sheets/Divider,4 Divders/Pack,Self-Stick Notes,60 Sheets Total,4A 40608"
+    },
+    {
+      "sku": "AAAA 4A 5084-N-L",
+      "asin": "B07FKJM2LX",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "AAAA 4A 5084-N-L",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07FKJM2LX",
+        "I": "4A Lined Sticky Notes, 5 x 8 in, 8 Pads, Bright Colors",
+        "J": "50 sheets per pad, 400 sheets total"
+      },
+      "before": {
+        "I": "4A 8 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 400 Sheets Total, 4A 5084-N-Lx2",
+        "J": "B07FKJM2LX"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行304",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 8 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 400 Sheets Total, 4A 5084-N-Lx2"
+    },
+    {
+      "sku": "AAAA 4A 608-N-L-210",
+      "asin": "B07B8RBCKT",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "AAAA 4A 608-N-L-210",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07B8RBCKT",
+        "I": "4A Lined Sticky Notes, 6 x 8 in, Bright Colors",
+        "J": "210 sheets total for notes and reminders"
+      },
+      "before": {
+        "I": null,
+        "J": null
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行108",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Lined Sticky Notes 6 x 8 Inches,Mix 7 Bright Colors, Large Lined Self-Stick Note Pads for Office, School, 210 Sheets Total, 4A 608-N-L-210"
+    },
+    {
+      "sku": "AAAA 4A 608S-Linex4",
+      "asin": "B07FKPY2V6",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "AAAA 4A 608S-Linex4",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07FKPY2V6",
+        "I": "4A Super Sticky Lined Notes, 6 x 8 in, 4 Pads, Bright Colors",
+        "J": "50 sheets per pad, 200 sheets total"
+      },
+      "before": {
+        "I": null,
+        "J": null
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行203",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A 4 Pads Super Sticky Lined Notes 6 x 8 Inches, Mix 5 Bright Colors, Large Lined Self-Stick Note Pads for Office, School, 50 Sheets/Pad, 200 Sheets Total, 4A 608S-Linex4"
+    },
+    {
+      "sku": "AAAA 4A PSS 9-5 NB",
+      "asin": "B07QXJX2BV",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "AAAA 4A PSS 9-5 NB",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07QXJX2BV",
+        "I": "4A Sticky Note Rolls, 0.4 x 315 in",
+        "J": "Cut notes to the length needed"
+      },
+      "before": {
+        "I": null,
+        "J": null
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行219",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Notes, 4 Full Adhesive Sticky Rolls, 0.4 x 315 Inches, Colorful Sticky Roll Tape for Book, Notebook, Office, Home"
+    },
+    {
+      "sku": "AAAA 4A SMC 434",
+      "asin": "B07FKHNTRK",
+      "product_type": "SELF_STICK_NOTE",
+      "cells": {
+        "C": "AAAA 4A SMC 434",
+        "D": "SELF_STICK_NOTE",
+        "E": "Edit (Partial Update)",
+        "L": "ASIN",
+        "M": "B07FKHNTRK",
+        "I": "4A Printed Sticky Note Cube, 2.5 x 2.5 in",
+        "J": "For everyday notes and reminders"
+      },
+      "before": {
+        "I": "4A Sticky Note Cube, 2.5 x 2.5 in, 500 Sheets, Bubble Printed on 4 Sides, Memo Cube Sticky Blocks Stick Note Pads for Office, Home, School, 4A SMC 434",
+        "J": "B07FKHNTRK"
+      },
+      "reasons": [
+        "修复回执100476；同ASIN各SKU统一产品标题与真实亮点"
+      ],
+      "sources": [
+        "10-31报告行234",
+        "上传处理报告的商品名称/亮点错误"
+      ],
+      "evidence_title": "4A Sticky Note Cube, 2.5 x 2.5 in, 500 Sheets, Bubble Printed on 4 Sides, Memo Cube Sticky Blocks Stick Note Pads for Office, Home, School, 4A SMC 434"
+    }
+  ],
+  "holds": [],
+  "unresolved_receipt_errors": [
+    {
+      "sku": "4A 305 x 6-Y",
+      "asin": "B01N0R4QI8",
+      "cell": "B40",
+      "message": "ERROR : Trademark on Product Detail Page\n"
+    },
+    {
+      "sku": "4A GMPSS 9-5 Refill",
+      "asin": "B07QXJX2BV",
+      "cell": "BM82",
+      "message": "ERROR : Your child ASIN B07QXJX2BV cannot be added because another child ASIN [B07QVKPZXX] already shares the same [color.value, size.value] with parent ASIN B0HPTC18T2.\nERROR : Your child ASIN B07QXJX2BV cannot be added because another child ASIN [B07FK9S7S8] already shares the same [color.value] with parent ASIN B07JMSDCYQ.\n"
+    },
+    {
+      "sku": "4A GMPSS 9-5 Refill",
+      "asin": "B07QXJX2BV",
+      "cell": "BN82",
+      "message": "ERROR : Your child ASIN B07QXJX2BV cannot be added because another child ASIN [B07QVKPZXX] already shares the same [color.value, size.value] with parent ASIN B0HPTC18T2.\n"
+    },
+    {
+      "sku": "4A GMPSS 9-5 Refill",
+      "asin": "B07QXJX2BV",
+      "cell": "HN82",
+      "message": "ERROR : Your child ASIN B07QXJX2BV cannot be added because another child ASIN [B07QVKPZXX] already shares the same [color.value, size.value] with parent ASIN B0HPTC18T2.\nERROR : Your child ASIN B07QXJX2BV cannot be added because another child ASIN [B07FK9S7S8] already shares the same [color.value] with parent ASIN B07JMSDCYQ.\n"
+    },
+    {
+      "sku": "4A PSS 9-5 Refill",
+      "asin": "B07QXJX2BV",
+      "cell": "BM95",
+      "message": "ERROR : Your child ASIN B07QXJX2BV cannot be added because another child ASIN [B07QVKPZXX] already shares the same [color.value, size.value] with parent ASIN B0HPTC18T2.\nERROR : Your child ASIN B07QXJX2BV cannot be added because another child ASIN [B07FK9S7S8] already shares the same [color.value] with parent ASIN B07JMSDCYQ.\n"
+    },
+    {
+      "sku": "4A PSS 9-5 Refill",
+      "asin": "B07QXJX2BV",
+      "cell": "BN95",
+      "message": "ERROR : Your child ASIN B07QXJX2BV cannot be added because another child ASIN [B07QVKPZXX] already shares the same [color.value, size.value] with parent ASIN B0HPTC18T2.\n"
+    },
+    {
+      "sku": "4A PSS 9-5 Refill",
+      "asin": "B07QXJX2BV",
+      "cell": "HN95",
+      "message": "ERROR : Your child ASIN B07QXJX2BV cannot be added because another child ASIN [B07QVKPZXX] already shares the same [color.value, size.value] with parent ASIN B0HPTC18T2.\nERROR : Your child ASIN B07QXJX2BV cannot be added because another child ASIN [B07FK9S7S8] already shares the same [color.value] with parent ASIN B07JMSDCYQ.\n"
+    },
+    {
+      "sku": "4A 60122×6-N",
+      "asin": "B01M107ZK7",
+      "cell": "J110",
+      "message": "ERROR : Value for 'Title' is longer than the allowed maximum (203 characters).\n"
+    },
+    {
+      "sku": "4A GMSCCR 012",
+      "asin": "B0822QC8Z2",
+      "cell": "B111",
+      "message": "WARNING : In order to sell this product on the Amazon store, please refer to the Amazon policy at https://sellercentral.amazon.com/help/hub/reference/external/G55N3JF2WQS7RVNE\nERROR : In order to sell this product on the Amazon marketplace, you must provide documents related to ps_toys_dv_us. Failure to provide these documentations by 2026-02-26T02:27:06.249Z may result in suppression of this ASIN from the Amazon website.\n"
+    },
+    {
+      "sku": "4A SCCR 012",
+      "asin": "B0822QC8Z2",
+      "cell": "B112",
+      "message": "WARNING : In order to sell this product on the Amazon store, please refer to the Amazon policy at https://sellercentral.amazon.com/help/hub/reference/external/G55N3JF2WQS7RVNE\nERROR : In order to sell this product on the Amazon marketplace, you must provide documents related to ps_toys_dv_us. Failure to provide these documentations by 2026-02-26T02:27:06.249Z may result in suppression of this ASIN from the Amazon website.\n"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+- button:
+- link "Amazon":
+  - /url: /home
+- button "4A (USA) LIMITED 美国":
+  - generic: 4A (USA) LIMITED
+  - generic: 美国
+- textbox "搜索"
+- button "搜索":
+- link "新版卖家平台":
+  - /url: /amazonsell?ref=sc_trim_header&path=%2Fcu%2Fcase-dashboard%2Fview-case
+  - img "新版卖家平台"
+- link "新版卖家平台":
+  - /url: /amazonsell?ref=sc_trim_header&path=%2Fcu%2Fcase-dashboard%2Fview-case
+- generic "卖家助手":
+  - button:
+- link "消息":
+  - /url: /messaging/inbox
+- generic "设置":
+- generic "语言":
+  - text: ZH
+- generic "帮助":
+  - generic: 帮助
+- button:
+- link "付款":
+  - /url: /payments/dashboard/index.html/ref=xx_payments_favb_xx
+- link "卖家大学":
+  - /url: /learn?ref_=xx_su_favb_xx
+- link "管理所有库存":
+  - /url: /myinventory/inventory?ref_=xx_invmgr_favb_xx
+- link "广告活动管理":
+  - /url: /cm?ref_=xx_cmpmgr_favb_xx
+- link "货件":
+  - /url: /gp/ssof/shipping-queue.html/ref=xx_fbashipq_favb_xx
+- link "商机探测器":
+  - /url: /opportunity-explorer/ref=xx_ox_sc_favb_xx
+- link "品牌分析":
+  - /url: /brand-analytics?ref_=xx_aba_favb_xx
+- link "A+ 商品描述管理器":
+  - /url: /enhanced-content/ref=xx_ebc_favb_xx
+- link "业务报告":
+  - /url: /business-reports/ref=xx_sitemetric_favb_xx
+- link "配送":
+  - /url: /reportcentral/ref=xx_fbareports_favb_xx
+- link "库存报告":
+  - /url: /listing/reports/ref=xx_invreport_favb_xx
+- link "绩效通知":
+  - /url: /gp/customer-experience/perf-notifications.html/ref=xx_cxperform_favb_xx
+- link "账户状况":
+  - /url: /gp/seller-rating/pages/performance-summary.html/ref=xx_srsumprf_favb_xx
+- button "编辑"
+- link "查看您的案例和请求日志":
+  - /url: /cu/case-lobby?ref=caselog_cont_viewcase
+  - generic: 
+  - text: 查看您的案例和请求日志
+- generic: 将状态为 Active 的 ASIN B07FKG29KB 与状态为 Active 的 ASIN B07F295DPC 合并。
+- button "编辑":
+  - generic: 编辑
+- generic: 最新更新
+- button "回复":
+  - generic: 回复
+- button "关闭此案例":
+  - generic: 关闭此案例
+- generic: 
+- generic: 您操作
+- generic: 2026年11月01日
+- generic: GMT+8 17:14
+- text: "Subject: Review 4A 30315 specification mismatch and duplicate ASINs — previous case 22923307871 Please review the specification difference that prevented the merge in case 22923307871: - Source ASIN B07F295DPC: Standard Flat Pads (15 Pads). - Intended retained ASIN B07FKG29KB: Standard Flat Pads (15 Pads Value Pack). The manufacturer's product page identifies model 4A 30315 as 3 x 3-inch self-stick notes, 15 neon colors, 15 pads per pack, and 100 sheets per pad:"
+- link "https://4ausa.com/product/4a-sticky-notes3-x-3-inchesneon-assorted15-colorsself-stick-notes100-sheets-pad15-pads-pack4a-30315/":
+  - /url: https://4ausa.com/product/4a-sticky-notes3-x-3-inchesneon-assorted15-colorsself-stick-notes100-sheets-pad15-pads-pack4a-30315/
+- text: "Please assess whether the two size strings describe the same physical 15-pad product, and correct the size attribute if supported by this manufacturer evidence. There is an identifier discrepancy that needs review. Our 2026 product master maps B07FKG29KB to UPC 702877124116, which also appears on the source FBA offer. A historical target FBA SKU, AAAA 4A 30315, listed UPC 702877122860. The manufacturer page does not display a UPC. We are not asserting that these two UPCs are interchangeable. If Amazon confirms that the ASINs represent the identical physical product and are eligible, please review merging B07F295DPC into B07FKG29KB while preserving the existing FBA offers, FNSKUs and inventory associations. If the identifier discrepancy prevents this, please identify the exact ASIN/code requiring proof and the specific manufacturer or original-package evidence needed. This is a catalog correction and duplicate-product review. No variation-family, price, quantity, or SKU-to-ASIN reassignment is requested. Supporting evidence: manufacturer-page screenshot, previous case reply, and scoped product/offer identifier extracts. The internal extracts are supplementary, not substitutes for manufacturer evidence."
+- generic: 附件：
+- generic: 附件：
+- link "30315-prior-case-reply-attachment.txt":
+  - /url: https://ekko-1-attachments-us-east-1-prod.s3.dualstack.us-east-1.amazonaws.com/contact-attachment/email/d9eb5a5a-34c4-4963-ad42-2a39032cf6c7?X-Amz-Security-Token=FwoGZXIvYXdzEKz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDG7ri1YnND0jCrN%2B3CLEAfW7fytI8SeVVioF5XMqNYdpqbRAUaUAfIpr1kuOYWqz2h6%2BlSSVDV4Nn9N0EZcyV4DAarSw7ItSYd4gUV7w11pCgoLL%2FQhLwlCdc5WBUl0kthBJfIc4Ts%2BZ1YSLyIHXE8MQbrjbDHbettHRWTlyhhQK3BgvLZ6zjZjXXa%2BKxscPBvNZPuQufQdo6VdRzD5yueMJxEeEZu4HsMQRL%2BNAPcX7puJsbk81wS57tNKkoD26F3rLhUtdY%2FSHaHRzbWo7AYKxrtwo%2B6qc1wYyLcpiQCmZ88rPYxMzo0wgyJO%2B4akc2PBZGdBh1WAZOYZEi1fgEl2s2SABxCuhAA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20261101T103848Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Credential=[REDACTED_AWS_ACCESS_ID]%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b937c8eeb0ef7a9ca6743fcf2a4ae97b230c8ddf300ad8b06e9b334c0e5f78fc
+  - generic: 30315-prior-case-reply-attachment.txt
+- link "30315-scoped-identifiers-attachment.txt":
+  - /url: https://ekko-1-attachments-us-east-1-prod.s3.dualstack.us-east-1.amazonaws.com/contact-attachment/email/b6bb36d0-74df-4fdd-ab41-46466538cb34?X-Amz-Security-Token=FwoGZXIvYXdzEKz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDG7ri1YnND0jCrN%2B3CLEAfW7fytI8SeVVioF5XMqNYdpqbRAUaUAfIpr1kuOYWqz2h6%2BlSSVDV4Nn9N0EZcyV4DAarSw7ItSYd4gUV7w11pCgoLL%2FQhLwlCdc5WBUl0kthBJfIc4Ts%2BZ1YSLyIHXE8MQbrjbDHbettHRWTlyhhQK3BgvLZ6zjZjXXa%2BKxscPBvNZPuQufQdo6VdRzD5yueMJxEeEZu4HsMQRL%2BNAPcX7puJsbk81wS57tNKkoD26F3rLhUtdY%2FSHaHRzbWo7AYKxrtwo%2B6qc1wYyLcpiQCmZ88rPYxMzo0wgyJO%2B4akc2PBZGdBh1WAZOYZEi1fgEl2s2SABxCuhAA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20261101T103848Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Credential=[REDACTED_AWS_ACCESS_ID]%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4df75cc1a57d3b493746b9ff91bf75b8c569ad79cdfa1c79ed876f3d0f389899
+  - generic: 30315-scoped-identifiers-attachment.txt
+- link "30315-manufacturer-current.png":
+  - /url: https://ekko-1-attachments-us-east-1-prod.s3.dualstack.us-east-1.amazonaws.com/contact-attachment/email/e6305ba9-349f-4e41-8bb7-381f67274f48?X-Amz-Security-Token=FwoGZXIvYXdzEKz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDG7ri1YnND0jCrN%2B3CLEAfW7fytI8SeVVioF5XMqNYdpqbRAUaUAfIpr1kuOYWqz2h6%2BlSSVDV4Nn9N0EZcyV4DAarSw7ItSYd4gUV7w11pCgoLL%2FQhLwlCdc5WBUl0kthBJfIc4Ts%2BZ1YSLyIHXE8MQbrjbDHbettHRWTlyhhQK3BgvLZ6zjZjXXa%2BKxscPBvNZPuQufQdo6VdRzD5yueMJxEeEZu4HsMQRL%2BNAPcX7puJsbk81wS57tNKkoD26F3rLhUtdY%2FSHaHRzbWo7AYKxrtwo%2B6qc1wYyLcpiQCmZ88rPYxMzo0wgyJO%2B4akc2PBZGdBh1WAZOYZEi1fgEl2s2SABxCuhAA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20261101T103848Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Credential=[REDACTED_AWS_ACCESS_ID]%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=172682bcafb9cc74226f87d7e7c4750449ee16239dbc9412f3d865b22972174d
+  - generic: 30315-manufacturer-current.png
+- generic: 
+- generic: 亚马逊操作
+- text: "敬的卖家/供应商：您好！ 我们了解到您希望将 ASIN B07F295DPC 合并到 ASIN B07FKG29KB，因为您认为这两个商品页面可能是重复的，当前仔细核实调查如下： 经过核实，我们发现这两个 ASIN 目前无法完成合并，原因如下： 我们已审核您的请求，发现请求的 ASIN B07FKG29KB 和 B07F295DPC 不代表同一商品，因此不符合合并条件。 审查这些 ASIN 时，我们发现一个或多个商品属性不相同，这表明这些商品是唯一的。 这两个 ASIN 的商品尺寸/规格属性存在差异。 ASIN B07F295DPC 的规格为 \"Standard Flat Pads (15 Pads)\"，而 ASIN B07FKG29KB 的规格为 \"Standard Flat Pads (15 Pads Value Pack)\"。 根据亚马逊的目录管理政策，当两个 ASIN 的尺寸或规格属性不同时，系统会判定它们并非重复商品，因此无法执行合并操作。这一规则适用于所有卖家，旨在确保买家能够准确区分不同规格的商品，避免因合并导致商品信息混淆。 如果您认为任一 ASIN 的属性详情不正确，请提供以下信息新开案例联系我们，以进一步审核您的请求： - 制造商或出版商（图书类商品）网站，能够清楚显示建议的更改内容以及可见的商品编码，如 UPC、EAN、ISBN 等（如果有）。 - 高分辨率的商品图片和原包装中物品的高分辨率照片，可清晰显示建议的更改内容以及可见的商品编码，如 UPC、EAN、ISBN 等（如果有）。 针对您的情况，我们建议您参考以下方案： 如果这两个商品确实是同一产品（仅因录入差异导致规格名称不同），您可以先将两个 ASIN 的尺寸/规格属性更新为一致的描述，待属性统一后再重新提交合并请求。您可以通过卖家平台的\"管理库存\"页面编辑商品信息去更新。 如果这两个商品实际上是不同规格的产品（例如包装数量不同），则它们不属于重复商品，无需合并。您可以考虑将它们建立为同一父 ASIN 下的变体关系，方便买家在同一商品页面上选择不同规格。 或者尝试使用模板更新： 模板下载/更新路径:商品-添加商品--电子表格-下载空白模板 -更新商品详情-点击“了解更多信息“-选择”商品模板“-选择\"电子表格语言\"-搜索商品类型-选择”商城“-点击”生成电子表格。 然后填写模板中的必填项和需要更新的属性。 模板需要填写商品的必填项，如item name ，brand等属性。如何确认必填项：您可以下载模板之后，打开相关的电子表格-然后找到表格下方显示“数据定义（Data Definition）选项卡-查看相关的属性，在此板块的最后一列显示为必填项（required）的相关的属性都需要填写，然后在表格填写属性的板块去填写相关的属性和您想要更新的属性即可。且相关的属性在数据定义板块都存在示例和相关的定义说明，您可以自行查看具体的详情。 然后填写完整保存之后到您的后台-商品-添加商品--电子表格-上传文件 去上传您的电子表格。上传成功之后等待系统更新，最长需要等待48小时。 ⭐温馨提示⭐: 感谢您的信任与配合！如上所述，您在本案件中的疑问已按照标准流程处理完毕。在问题事实和情况未发生变化的前提下，重新打开此案件通常不会改变处理结果。 如您有新的疑问或需要其他帮助，建议您点击下方链接创建新案例，系统将自动分配至对应的专业团队，为您提供更快速、更精准的服务。"
+- link "https://sellercentral.amazon.com/help/center?redirectSource=HelpHub":
+  - /url: https://sellercentral.amazon.com/help/center?redirectSource=HelpHub
+- text: 欢迎向亚马逊提交反馈，从而帮助亚马逊改善您的开店体验。 您对我们提供的支持是否满意？
+- button "是":
+  - generic: 是
+- button "否":
+  - generic: 否
+- generic: Best regards, Zhubin [C] L. Amazon Brand Registry Support
+- generic: 2026年10月31日
+- generic: GMT+8 21:04
+- generic: 
+- generic: 您操作
+- generic: 亚马逊已代表您创建此问题单，以便销售伙伴支持团队员工进行调查。目前您无需执行其他操作。完成调查最长可能需要 3 天，我们将通过电子邮件告知您最新消息。
+- generic: 2026年10月31日
+- generic: GMT+8 18:22
+- generic: 问题一览
+- generic: "编号:"
+- generic: "22923307871"
+- generic: "状态:"
+- generic: 正在处理
+- generic: "主要电子邮箱:"
+- generic: seller@4ausa.com
+- generic: "抄送:"
+- generic: "已创建:"
+- generic: 2026年10月31日 GMT+8 18:22
+- button "编辑":
+  - generic: 编辑
+- link "反馈":
+  - /url: "#"
+- list:
+  - link "帮助":
+    - /url: /help/hub?ref=xx_contactus_foot_xx
+  - link "计划政策":
+    - /url: /gp/help/help.html/ref=xx_help_foot_xx?itemID=521
+  - combobox:
+    - option "English"
+    - option "中文(简体)" [selected]
+    - option "Deutsch"
+    - option "Español"
+    - option "Français"
+    - option "Italiano"
+    - option "日本語"
+    - option "한국어"
+    - option "ไทย"
+    - option "Tiếng Việt"
+    - option "हिंदी"
+    - option "தமிழ்"
+    - option "Português"
+    - option "中文(繁體)"
+  - link "下载“亚马逊卖家”移动应用":
+    - /url: /sellermobileapp?ref=xx_sellermobileapp_foot_xx
+- list:
+  - listitem: © 1999-2026，Amazon.com, Inc. 或其附属公司

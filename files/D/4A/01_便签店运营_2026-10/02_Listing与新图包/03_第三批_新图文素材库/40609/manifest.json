@@ -1,0 +1,219 @@
+{
+  "sku": "4A 40609x2",
+  "asin": "B07FKBHTDG",
+  "spec": "2 pads · 4 tabbed sections per pad · 15 sheets per section · 120 sheets",
+  "checked_at": "2026-10-30 Asia/Shanghai",
+  "catalog_url": "https://www.amazon.com/dp/B07FKBHTDG",
+  "catalog_evidence": "../_核验依据/Amazon_catalog_20261030.json",
+  "catalog_correction": "当前ASIN为40609x2，两本共120张，不是单本60张。横线水平时彩签在侧边。标题为2 2/3×2 7/8英寸，现有尺寸图片为2.68×2.83英寸，精确裁切尺寸仍需核样，本批不新增精确尺寸标注。",
+  "reference_files": [
+    {
+      "original": "E:/Desktop/待上架_新图文素材库_第三批/_核验依据/B07FKBHTDG_01.jpg",
+      "copy": "原图参考/01_B07FKBHTDG_01.jpg",
+      "sha256": "eb285b49f1c5692a80a32e0272e2e50c5945b61de396185f9003191cf326d96e"
+    },
+    {
+      "original": "E:/Desktop/待上架_新图文素材库_第三批/_核验依据/B07FKBHTDG_02.jpg",
+      "copy": "原图参考/02_B07FKBHTDG_02.jpg",
+      "sha256": "fda162def2e5bbbc3eb00e5603edcc2e314fa8aa1b7865bea11d180f79603664"
+    },
+    {
+      "original": "D:/4A/印刷用图片/电商/亚马逊图片-2021/7-----4A Divider Sticky Notes/4A 40609/702877120071.pt01.jpg",
+      "copy": "原图参考/03_702877120071.pt01.jpg",
+      "sha256": "a5a2ae704860dee2385f9154a8aa0b256ae1f3d952a3942588a804332a71f828"
+    }
+  ],
+  "images": [
+    {
+      "id": "40609_01",
+      "title": "主图｜两本四组彩签",
+      "type": "main",
+      "order": 1,
+      "sku": "4A 40609x2",
+      "asin": "B07FKBHTDG",
+      "file": "交付候选_2000px/40609_01.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:/OpenAI-Codex/CodexHome/generated_images/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/exec-5eede05d-3cf0-4339-a938-1c350a64c90b.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/40609_01.png",
+      "resize_method": "透明生成源图按alpha裁切，Lanczos3等比缩放，居中合成RGB255白底",
+      "reference_files": [
+        "原图参考/01_B07FKBHTDG_01.jpg",
+        "原图参考/02_B07FKBHTDG_02.jpg",
+        "原图参考/03_702877120071.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "两本可数，各四个彩色分组；水平横线配侧边宽彩签。",
+      "remaining_checks": "纸厚、模切轮廓、彩签色值与实物批次仍需核样。",
+      "technical": {
+        "background_rgb": [
+          255,
+          255,
+          255
+        ],
+        "border60_checked": 465600,
+        "border60_white": 465600,
+        "white_background_pass": true,
+        "safety_margins_including_shadow": [
+          74,
+          61,
+          74,
+          61
+        ],
+        "margin_pass": true,
+        "product_bbox_alpha230": {
+          "left": 121,
+          "top": 169,
+          "width": 1749,
+          "height": 1689
+        },
+        "product_longest_span_percent": 87.45,
+        "occupancy_pass": true,
+        "occupancy_definition": "alpha>230实体近似外接框最长边/2000；不是画幅面积占比。"
+      },
+      "sha256": "996e7a9b7b2b937576e0224431bd1b67f1422c3da33e5f78b3f83e5675854333"
+    },
+    {
+      "id": "40609_02",
+      "title": "章节索引",
+      "type": "secondary",
+      "order": 2,
+      "sku": "4A 40609x2",
+      "asin": "B07FKBHTDG",
+      "file": "交付候选_2000px/40609_02.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-4f5369c9-c9b9-40c5-a82d-1ccd9f281fbb.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/40609_02_v2.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07FKBHTDG_01.jpg",
+        "原图参考/02_B07FKBHTDG_02.jpg",
+        "原图参考/03_702877120071.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "已返修：可见页为两张七横线便签，另两色标签露出；没有将白纸画成狭长条。",
+      "remaining_checks": "透视下纸面长宽和书页比例仍需实物比对；场景为用途示意。",
+      "technical": {},
+      "sha256": "ec088093886a78ff320a338f81fbcfca8bad590617bf82eeb883f522ab4cb4c7"
+    },
+    {
+      "id": "40609_03",
+      "title": "横线书写",
+      "type": "secondary",
+      "order": 3,
+      "sku": "4A 40609x2",
+      "asin": "B07FKBHTDG",
+      "file": "交付候选_2000px/40609_03.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-5924c5da-d8bb-4c52-9c5b-f0dc880bf0e4.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/40609_03_v2.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07FKBHTDG_01.jpg",
+        "原图参考/02_B07FKBHTDG_02.jpg",
+        "原图参考/03_702877120071.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "已返修：单张便签，移除方向错误的后排彩签；七条横线与手写场景。",
+      "remaining_checks": "Smooth writing为用途演示，未加入不透墨与80 GSM实测承诺。",
+      "technical": {},
+      "sha256": "ca64450d109c1253086c84b4e2a1ab40fda202cb1d51c59a8c606cc372fc7ed5"
+    },
+    {
+      "id": "40609_04",
+      "title": "撕取与重新贴附",
+      "type": "secondary",
+      "order": 4,
+      "sku": "4A 40609x2",
+      "asin": "B07FKBHTDG",
+      "file": "交付候选_2000px/40609_04.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-a8a0b6d1-8e57-4465-9b96-868a7814517c.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/40609_04.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07FKBHTDG_01.jpg",
+        "原图参考/02_B07FKBHTDG_02.jpg",
+        "原图参考/03_702877120071.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "表现单张纸撕取；背景贴附纸平整；没有写无损纸保证。",
+      "remaining_checks": "动态弯曲、纸面比例和真实胶位需要核样；画面不等于移除测试。",
+      "technical": {},
+      "sha256": "64f8caad1b824a7bb10d2de30cf6443602529f75aa92460a022a1767757f6573"
+    },
+    {
+      "id": "40609_05",
+      "title": "学习与办公分类",
+      "type": "secondary",
+      "order": 5,
+      "sku": "4A 40609x2",
+      "asin": "B07FKBHTDG",
+      "file": "交付候选_2000px/40609_05.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-15fb3f4e-ea7b-49f1-a441-4dbbc9d5a31a.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/40609_05.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07FKBHTDG_01.jpg",
+        "原图参考/02_B07FKBHTDG_02.jpg",
+        "原图参考/03_702877120071.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "两本/八分组/120张文案对应当前ASIN；学习与规划场景。",
+      "remaining_checks": "手写内容仅作使用示例，非预印；道具不包含。",
+      "technical": {},
+      "sha256": "6016f30e180868f6c099f13dfc1820118dbebaed5835e06267e07a2f9d999ea8"
+    }
+  ],
+  "global_note": "本地设计交付，不等于实物核样或Amazon上架批准。未加入缺乏证据的80 GSM承诺。原始素材保留。"
+}

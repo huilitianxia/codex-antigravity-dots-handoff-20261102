@@ -1,0 +1,122 @@
+[
+  {
+    "sku": "4A 4012",
+    "rowIndex": 2,
+    "state": [
+      "- generic: 缺货",
+      "- generic: 缺货",
+      "generic: 有货（卖家自配送）",
+      "generic: 有货（卖家自配送）",
+      "- textbox: \"0\"",
+      "- textbox: \"10.99\"",
+      "- textbox",
+      "- textbox"
+    ],
+    "textboxPrefix": 10
+  },
+  {
+    "sku": "4A GM-SC-PSS 9-1 NYNRx2",
+    "rowIndex": 0,
+    "state": [
+      "- generic: 在售",
+      "- generic: 在售",
+      "generic: 有货（卖家自配送）",
+      "generic: 有货（卖家自配送）",
+      "- textbox: \"50\"",
+      "- textbox: \"19.99\"",
+      "- textbox: \"19.99\"",
+      "- textbox: \"25.99\""
+    ],
+    "textboxPrefix": 2
+  },
+  {
+    "sku": "4A 301x24",
+    "rowIndex": 0,
+    "state": [
+      "- generic: 在售",
+      "- generic: 在售",
+      "generic: 有货（卖家自配送）",
+      "generic: 有货（卖家自配送）",
+      "- textbox: \"50\"",
+      "- textbox: \"9.49\"",
+      "- textbox",
+      "- textbox"
+    ],
+    "textboxPrefix": 2
+  },
+  {
+    "sku": "4A GMVC6043",
+    "rowIndex": 0,
+    "state": [
+      "- generic: 在售",
+      "- generic: 在售",
+      "generic: 有货（卖家自配送）",
+      "generic: 有货（卖家自配送）",
+      "- textbox: \"50\"",
+      "- textbox: \"9.99\"",
+      "- textbox",
+      "- textbox"
+    ],
+    "textboxPrefix": 2
+  },
+  {
+    "sku": "4A 020",
+    "rowIndex": 1,
+    "state": [
+      "- generic: 在售",
+      "- generic: 在售",
+      "generic: 有货（卖家自配送）",
+      "generic: 有货（卖家自配送）",
+      "- textbox: \"50\"",
+      "- textbox: \"11.99\"",
+      "- textbox",
+      "- textbox"
+    ],
+    "textboxPrefix": 6
+  },
+  {
+    "sku": "4A 027",
+    "rowIndex": 1,
+    "state": [
+      "- generic: 缺货",
+      "- generic: 缺货",
+      "generic: 有货（卖家自配送）",
+      "generic: 有货（卖家自配送）",
+      "- textbox: \"0\"",
+      "- textbox: \"7.99\"",
+      "- textbox",
+      "- textbox"
+    ],
+    "textboxPrefix": 6
+  },
+  {
+    "sku": "4A 030",
+    "rowIndex": 1,
+    "state": [
+      "- generic: 缺货",
+      "- generic: 缺货",
+      "generic: 有货（卖家自配送）",
+      "generic: 有货（卖家自配送）",
+      "- textbox: \"0\"",
+      "- textbox: \"8.99\"",
+      "- textbox",
+      "- textbox"
+    ],
+    "textboxPrefix": 6
+  },
+  {
+    "sku": "4A-MEETING-52X4",
+    "rowIndex": 0,
+    "state": [
+      "- generic: 在售",
+      "- generic: 在售",
+      "generic: 有货（卖家自配送）",
+      "generic: 有货（卖家自配送）",
+      "- textbox: \"20\"",
+      "- textbox: \"69.99\"",
+      "- textbox",
+      "- textbox"
+    ],
+    "textboxPrefix": 2
+  }
+]

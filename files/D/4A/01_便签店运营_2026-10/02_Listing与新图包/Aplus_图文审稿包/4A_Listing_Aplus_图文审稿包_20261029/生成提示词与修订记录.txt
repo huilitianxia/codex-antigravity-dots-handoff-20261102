@@ -1,0 +1,99 @@
+Built-in image generation. Reference-guided draft images; not photographic proof.
+
+5082_01.png
+Initial prompt:
+Use case: product-mockup. Create ONE square Amazon main image for 4A 5082-Y-L. Input reference 1 is the real yellow lined paper surface and exact product shape; reference 2 is size reference only, do not reproduce its text/arrows. Photograph exactly TWO pads, each portrait 5:8 width:height, each 50 sheets, pastel canary yellow ruled paper matching reference hue and thin gray printed ruling with no red margin. One pad lies front, second behind shifted slightly right, elegant 15-degree shallow perspective. Flat crisp paper, even aligned edges, slim realistic 50-sheet thickness. Pure white RGB255 background, subtle light-gray contact shadow, product pair fills about85% of square frame, all edges visible. No packaging, no logo added, no labels, no annotations, no pen or props, no invented features, no extra third/fourth pads. Commercial studio photographic retouch quality. Output is a review draft based on real source photos.
+Repair prompt:
+
+Selected source file:
+E:\OpenAI-Codex\CodexHome\generated_images\01a044ca-5d4f-7e51-a92a-8d0467abb60e\exec-bc35591b-d830-4990-a7fe-d92432951e1d.png
+
+5082_02.png
+Initial prompt:
+Use case: ads-marketing. One finished square Amazon secondary image, crisp professional English sans-serif typography, warm ivory background, dark charcoal text, restrained yellow accent, premium stationery editorial style. Use the attached real product reference for yellow hue, thin grey horizontal ruling and portrait5:8 geometry of 4A5082-Y-L. No altered packaging, no seals, no guarantees, no GSM or no-bleed claim. No other brands. All paper lies flat unless actively being peeled. Create a precise flat-lay dimension comparison. Main large yellow lined sheet width500 height800 relative units beside small generic blank3x3 note width300 height300 same relative units. Correct relative scale, not two equal-size pads. Header EXACT "Room for the whole list". Large dimension labels EXACT "5 in" and "8 in"; small note label EXACT "3 x 3 in". Footer EXACT "40 sq in vs. 9 sq in of sheet area". Minimal arrow annotations, lots of white space. No laptop.
+Repair prompt:
+
+Selected source file:
+E:\OpenAI-Codex\CodexHome\generated_images\01a044ca-5d4f-7e51-a92a-8d0467abb60e\exec-20489876-126e-4ea0-b418-379e23fd53cb.png
+
+5082_03.png
+Initial prompt:
+Use case: ads-marketing. One finished square Amazon secondary image, crisp professional English sans-serif typography, warm ivory background, dark charcoal text, restrained yellow accent, premium stationery editorial style. Use the attached real product reference for yellow hue, thin grey horizontal ruling and portrait5:8 geometry of 4A5082-Y-L. No altered packaging, no seals, no guarantees, no GSM or no-bleed claim. No other brands. All paper lies flat unless actively being peeled. Close-up of a black gel pen tip on yellow lined pad, neatly handwritten exactly "TODAY", "Review notes", "Plan next steps" on separate ruled lines. Show realistic fine paper grain without fiber exaggeration; pen sits at a natural angle, no hand necessary. Main headline EXACT "Keep every line on track". Small subtitle EXACT "Lined pages for lists, notes and next steps". Do not claim tested ink performance.
+Repair prompt:
+
+Selected source file:
+E:\OpenAI-Codex\CodexHome\generated_images\01a044ca-5d4f-7e51-a92a-8d0467abb60e\exec-7fc02baa-d714-4753-8a96-b048e942b9cc.png
+
+5082_04.png
+Initial prompt:
+Use case: ads-marketing. One finished square Amazon secondary image, crisp professional English sans-serif typography, warm ivory background, dark charcoal text, restrained yellow accent, premium stationery editorial style. Use the attached real product reference for yellow hue, thin grey horizontal ruling and portrait5:8 geometry of 4A5082-Y-L. No altered packaging, no seals, no guarantees, no GSM or no-bleed claim. No other brands. All paper lies flat unless actively being peeled. Instructional two-panel photo sequence: left shows adult fingertips peeling one thin yellow lined5x8 sheet SIDEWAYS from the side of a pad; right shows it adhered by upper back edge to clean smooth whiteboard with all corners flat. Clean paper, no thick glue, no yellow liquid, no comparison with competitors. Header EXACT "Write it. Place it. Keep it in view." Small captions EXACT "Peel from the side" and "Press onto a clean, smooth surface". Tiny footer EXACT "Test delicate surfaces first." No residue guarantee.
+Repair prompt:
+
+Selected source file:
+E:\OpenAI-Codex\CodexHome\generated_images\01a044ca-5d4f-7e51-a92a-8d0467abb60e\exec-7f4a4db4-23a8-44fb-ac0e-e6b75114654d.png
+
+5082_05.png
+Initial prompt:
+Use case: ads-marketing. ONE square finished commercial image for4A5082-Y-L. Real source photos define yellow hue, fine grey horizontal ruling, portrait5:8 paper shape. Ivory white and warm wood, charcoal sans-serif lettering, restrained yellow accents, premium North American stationery visual style, soft light grey shadows. No metric units, no GSM, guarantees, no-bleed or environmental claims. Never invent packaging. Three equal photo panels in one coherent graphic, showing yellow lined5x8 sheets on a home-office smooth notice board NEXT to a monitor (not on screen), a meeting-room whiteboard, and a clean stainless kitchen fridge. All attached sheets are 5:8 rectangles, no curling. Brief handwritten tasks. Headline EXACT "One note. So many places." Three labels EXACT "Office" "Home" "Study". Footer EXACT "Keep everyday reminders where you need them." Do not include people.
+Repair prompt:
+Edit target: attached completed3panel5082ad. Remove ALL round magnets, pins, clips, tape and fasteners from every panel: the sticky note itself adheres by its invisible back adhesive, no accessories hold it up. Change firstpanel fabric corkboard to smooth paintedwhite noticeboard, maintainwoodframe. Keep all sheets flat, rectangular5:8, yellowlined, exactsamepositions. Change bottom scene labels left-to-right to 'Office', 'Study', 'Home' and make the central handwritten note studytasks and rightfridge handwritten note grocerylist. Preserve main headline, footer, overallcream/yellowdesign, threepanels, no otherchanges.
+
+Edit only the middle panel's BACKGROUND in this exact three-panel image. The middle label says Study but background incorrectly shows refrigerator. Replace ONLY that middle-panel stainless steel refrigerator surface and vertical handle with a clean smooth pale white study-room magnetic glass board WITH NO MAGNETS, NO PINS, NO HANDLES, NO CLIPS, a soft out-of-focus study desk edge below. Preserve the middle yellow note itself, all handwritten Study Tasks, its exact rectangular shape and flat attachment. Preserve left Office panel and right Home panel pixel-for-pixel, all other text and composition. Do not reorder panels. Three labels remain Office, Study, Home.
+Selected source file:
+E:\OpenAI-Codex\CodexHome\generated_images\01a044ca-5d4f-7e51-a92a-8d0467abb60e\exec-5fbe7164-b9f5-4e3e-8571-16c9eb4b9977.png
+
+5082_06.png
+Initial prompt:
+Use case: ads-marketing. ONE square finished commercial image for4A5082-Y-L. Real source photos define yellow hue, fine grey horizontal ruling, portrait5:8 paper shape. Ivory white and warm wood, charcoal sans-serif lettering, restrained yellow accents, premium North American stationery visual style, soft light grey shadows. No metric units, no GSM, guarantees, no-bleed or environmental claims. Never invent packaging. Precise pack-content infographic with exactly TWO separate yellow lined pads lying side by side on white, shallow15degree view, clearly slim50sheet pads. Not four pads, no packaging or paperbands. Header EXACT "Two pads. One hundred sheets." Three isolated readable spec callouts EXACT "2 pads" "50 sheets per pad" "100 sheets total". Footer EXACT "5 x 8 in | 4A 5082-Y-L".
+Repair prompt:
+
+Selected source file:
+E:\OpenAI-Codex\CodexHome\generated_images\01a044ca-5d4f-7e51-a92a-8d0467abb60e\exec-7eb7bbb0-28d3-41e1-968c-61b796b379d1.png
+
+5082_07.png
+Initial prompt:
+Use case: ads-marketing. ONE square finished commercial image for4A5082-Y-L. Real source photos define yellow hue, fine grey horizontal ruling, portrait5:8 paper shape. Ivory white and warm wood, charcoal sans-serif lettering, restrained yellow accents, premium North American stationery visual style, soft light grey shadows. No metric units, no GSM, guarantees, no-bleed or environmental claims. Never invent packaging. Brand lifestyle image, top-down light oak desk, main subject one yellow lined5x8 pad plus second pad subtly behind, small black pen and cup, cropped unbranded laptop corner secondary. On upper negative space elegant text exactly "Your Trusted Partner in Stationery" and subtitle exactly "Premium Stationery Designed for Daily Use". Small simple text "4A" at upper left (not invented crown logo). No warranty badge, no stars, no invented history, no satisfaction guarantee.
+Repair prompt:
+
+Selected source file:
+E:\OpenAI-Codex\CodexHome\generated_images\01a044ca-5d4f-7e51-a92a-8d0467abb60e\exec-b6b92108-8baf-4dc1-a96c-753ca7801392.png
+
+406_A1.png
+Initial prompt:
+Use case: ads-marketing. Create ONE finished wide landscape Amazon A+ banner, approximately2.43:1 aspectratio, high-resolution clean sans-serif English typography. White/ivory minimalist modern office aesthetic, gentle light grey shadows, professional editorial composition, spacious margins. Reference1 is actual4A406x6 pastel six-pad stack and actual printedcover identity; reference2 neon six-pad stack; reference3 yellow six-pad stack. Each pad physically4x6 inches portrait2:3 rectangle; all colors same dimensions. Not square pads; no rings/binding. Real paper, aligned edges, no gaps between stackedpads. No cm, no80GSM/no-bleed/no-residue/guarantees/environmentclaims. Do not generate human faces. Preserve supplied cover artwork when shown, do not substitute fictitious packaging. Primary hero banner: left third ivory negative space with EXACT heading "Room for more than a reminder." below EXACT "4 x 6 in Large Sticky Notes" and "6 pads | 100 sheets per pad | 600 sheets total". Right two thirds is the reference1 pastel six-pad stack on a clean pale wood desktop at gentle30degree angle, genuine printedcover visible, all edges aligned, accompanied by small black pen subordinate in size. Only one pack; no laptop or notebook dominating. Tiny simple4A text at top left.
+Repair prompt:
+
+Selected source file:
+E:\OpenAI-Codex\CodexHome\generated_images\01a044ca-5d4f-7e51-a92a-8d0467abb60e\exec-1e3013a8-a817-415b-9332-19f05ab2ea57.png
+
+406_A2.png
+Initial prompt:
+Use case: ads-marketing. Create ONE finished wide landscape Amazon A+ banner, approximately2.43:1 aspectratio, high-resolution clean sans-serif English typography. White/ivory minimalist modern office aesthetic, gentle light grey shadows, professional editorial composition, spacious margins. Reference1 is actual4A406x6 pastel six-pad stack and actual printedcover identity; reference2 neon six-pad stack; reference3 yellow six-pad stack. Each pad physically4x6 inches portrait2:3 rectangle; all colors same dimensions. Not square pads; no rings/binding. Real paper, aligned edges, no gaps between stackedpads. No cm, no80GSM/no-bleed/no-residue/guarantees/environmentclaims. Do not generate human faces. Preserve supplied cover artwork when shown, do not substitute fictitious packaging. Size comparison banner. Two flat accurate geometric sheets on white same plane, one soft blue4x6 note rectangle400x600 relative units and one generic pale cream3x3 note300x300 relativeunits. Physical aspectratio2:3 on large note, square smaller. Both bottom aligned. Heading EXACT "Comparison with Regular Sizes". Center labels EXACT "4 x 6 in" and "3 x 3 in". Subheading EXACT "24 sq in vs. 9 sq in of sheet area". No brand name on smallnote. Fine arrows notheavy. Do not stretch either sheet to fill space.
+Repair prompt:
+Create ONE professional flat dimension infographic, landscape2.43:1. No referencephotos, NOproductpacks, NOperspective, NOdesk, NObarcode. Plain warmwhite background and darkcharcoal sansserif. Top heading exactly "Comparison with Regular Sizes". Largeblueflatrectangularpaper LEFT, with proportional width4 units height6 units. Smallcreamflatsquare RIGHT with width3units height3units. IMPORTANT sameuniformunitscale: blue width320px height480px, smallsquare width240px height240px; alignbottomedges. Shape ratioaccurate, no visual optical scaling. Labelscenteredbeneath "4 x 6 in" and "3 x 3 in". Thinmeasurementarrows. Belowheading exactly "24 sq in vs. 9 sq in of sheet area". Minimal refineddesign, delicatelightgrayshadows, legiblelettering. Dimensionsreferpaperarea notusablewritingarea. Provide a clear wholegraphic with adequatemargins.
+Selected source file:
+E:\OpenAI-Codex\CodexHome\generated_images\01a044ca-5d4f-7e51-a92a-8d0467abb60e\exec-e40a2349-71bc-49fc-8075-69396b38a324.png
+
+406_A3.png
+Initial prompt:
+Use case: ads-marketing. Create ONE finished wide landscape Amazon A+ banner, approximately2.43:1 aspectratio, high-resolution clean sans-serif English typography. White/ivory minimalist modern office aesthetic, gentle light grey shadows, professional editorial composition, spacious margins. Reference1 is actual4A406x6 pastel six-pad stack and actual printedcover identity; reference2 neon six-pad stack; reference3 yellow six-pad stack. Each pad physically4x6 inches portrait2:3 rectangle; all colors same dimensions. Not square pads; no rings/binding. Real paper, aligned edges, no gaps between stackedpads. No cm, no80GSM/no-bleed/no-residue/guarantees/environmentclaims. Do not generate human faces. Preserve supplied cover artwork when shown, do not substitute fictitious packaging. Product detail banner with two large balanced photo panels. Left clean closeup of real pastelblue paper written with fine black pen "Meeting notes". Right view of ONE thin pastel sheet with slight edge lifted only for a schematic thin semi-transparent adhesive strip on the BACK TOP edge (not fullsheet coated, no liquid or crystals, no claim scientifically microcrystalline). Heading EXACT "Smooth Writing Paper". Panel labels EXACT "Space for your ideas" and "Self-adhesive backing". Footer small EXACT "Adhesive illustration is schematic." No exaggeration of coating thickness; attached paper never curled.
+Repair prompt:
+
+Selected source file:
+E:\OpenAI-Codex\CodexHome\generated_images\01a044ca-5d4f-7e51-a92a-8d0467abb60e\exec-d44f8bf3-d36b-4fae-84ec-893716ad65a5.png
+
+406_A4.png
+Initial prompt:
+Use case: ads-marketing. Create ONE finished wide landscape Amazon A+ banner, approximately2.43:1 aspectratio, high-resolution clean sans-serif English typography. White/ivory minimalist modern office aesthetic, gentle light grey shadows, professional editorial composition, spacious margins. Reference1 is actual4A406x6 pastel six-pad stack and actual printedcover identity; reference2 neon six-pad stack; reference3 yellow six-pad stack. Each pad physically4x6 inches portrait2:3 rectangle; all colors same dimensions. Not square pads; no rings/binding. Real paper, aligned edges, no gaps between stackedpads. No cm, no80GSM/no-bleed/no-residue/guarantees/environmentclaims. Do not generate human faces. Preserve supplied cover artwork when shown, do not substitute fictitious packaging. Family selection and brand banner, three equally spaced columns using actual reference1 pastel,reference2neon,reference3yellow sixpadpacks at SAME visual width andheight, 2:3 geometry, aligned lower edges, actual coverart fromrefs. Heading EXACT "Find your everyday color." Labels EXACT "Pastel Color Set" "Neon Color Set" "Classic Canary Yellow". Caption EXACT "Same 4 x 6 in size. Three color options." Bottom strip small EXACT "Your Trusted Partner in Stationery". Different variants sold separately; no implication all18pads are onepack. Tiny footnote EXACT "Each color option sold separately."
+Repair prompt:
+Edit target: attached406familybanner. Change only yellowpilltext 'Classic Canary Yellow' to 'Yellow', centered samefont. Remove distracting spiral notebook at far right and replacewithblank desk surface. Preserve all three referencepacks with exactsixlayers, samephysical4x6size, allotherheadings labels footnotes and palette; do not change printedpackagingart or smalltext.
+Selected source file:
+E:\OpenAI-Codex\CodexHome\generated_images\01a044ca-5d4f-7e51-a92a-8d0467abb60e\exec-f8b86e1e-cff5-401d-90bf-eea2841ad40f.png
+
+406_A5.png
+Initial prompt:
+Use case: ads-marketing. ONE wide landscape2.43:1 Amazon A+ lifestyle banner for4A406x6 sticky notes. Reference attached shows actual pastel paper colors; sheet shape must be4x6 inches portrait2:3, UNLINED, thinpaper and allcorners flat after adhesion. Refpack is only product identity reference, no need showpack. Three horizontal photographic scenes of an office planning whiteboard with softblue andpink notes, a home fridge with yellow note and a compact study area with mint note on smooth pinboard. No faces/hands. Do not put notes on screens. Product4x6 note prominent rather than large notebooks. Pale ivory, lightoak, soft grey shadows, crisp warm daylight. EXACT large headline "Stay Organized Everywhere". EXACT subheading "For workers, students and anyone who needs to stay organized". Three clean labels "Office" "Home" "Study". No cm, no claims about glue strength or ink, no badges. Restrained professional typography, realistic note scale in environments.
+Repair prompt:
+Edit target attached406scenario. Remove ALL pins/magnets/clips/tape in allthreepanels. Keep notes heldonlybyinvisiblebackadhesive, fullyflat. Replace greytexturedfabricboard inrightpanel with smoothpaintedivoryboard, retain studysetting. Remove large stackednotebooksrightbottom, make productnotestarfocus. Correct all colorednotes to same physical4x6size with2:3ratio; officeblueandpinknotesequalsize. Preserve headline,subtitle,labelsOfficeHomeStudy and all remainingdesign. No newclaims.
+Selected source file:
+E:\OpenAI-Codex\CodexHome\generated_images\01a044ca-5d4f-7e51-a92a-8d0467abb60e\exec-c85ac714-5d61-4ad9-a530-096aef2d02c0.png

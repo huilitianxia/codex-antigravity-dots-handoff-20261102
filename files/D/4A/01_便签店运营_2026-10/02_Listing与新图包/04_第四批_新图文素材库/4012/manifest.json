@@ -1,0 +1,251 @@
+{
+  "sku": "4A 4012",
+  "asin": "B01M3N310M",
+  "spec": "18-piece set · 1,900 sheets · Packed set: 6 × 3 × 2.35 in",
+  "checked_at": "2026-10-30 Asia/Shanghai",
+  "catalog_url": "https://www.amazon.com/dp/B01M3N310M",
+  "catalog_evidence": "../_核验依据/Amazon_catalog_20261030.json",
+  "catalog_correction": "原包装与当前图为无横线淡黄大便签、粉彩小便签及两组索引配件。18件按16本便签+1组四色索引本+1组五色箭头签计。盒子PP材质与包装尺寸有表格依据，盒体外观/开合结构未取得照片，本轮展示内容物；主图列待核。",
+  "workbook_source": {
+    "file": "C:/Users/24243/Documents/Codex/2026-08-11/7-30-slack-plugin-slack-openai/4A_Amazon_Operations/source_workbooks/亚马逊供应商和开店总表-2026 (1).xlsx",
+    "sheet": "Sheet1",
+    "identity": "A72:G72",
+    "packed_dimensions": "O72:Q72",
+    "dimension_header": "O1",
+    "size_in": [
+      6,
+      3,
+      2.35
+    ]
+  },
+  "reference_files": [
+    {
+      "original": "E:/Desktop/待上架_新图文素材库_第四批/_核验依据/B01M3N310M_01.jpg",
+      "copy": "原图参考/01_B01M3N310M_01.jpg",
+      "sha256": "b38919bff30a301214fdfa69b9258beb4d918b194510d4a8197806e4e4dacebc"
+    },
+    {
+      "original": "E:/Desktop/待上架_新图文素材库_第四批/_核验依据/B01M3N310M_03.jpg",
+      "copy": "原图参考/02_B01M3N310M_03.jpg",
+      "sha256": "4d1b7caa9fc3209d553ea1085f086dbc33ffd54ecf1b48ceca789a11030043ec"
+    },
+    {
+      "original": "E:/Desktop/待上架_新图文素材库_第四批/_核验依据/B01M3N310M_Amazon_main.jpg",
+      "copy": "原图参考/03_B01M3N310M_Amazon_main.jpg",
+      "sha256": "e2550fcda5c29f237a0d424edac440a0f4b71379e51e015f9a38638e545b8a79"
+    },
+    {
+      "original": "D:/4A/印刷用图片/电商/亚马逊图片-2021/4-----4A Sticky Notes Set in PP Box/4A 4012/702877117644.main.jpg",
+      "copy": "原图参考/04_702877117644.main.jpg",
+      "sha256": "3eda8ae653354dd80d05e90a0bfcf4dd96b48ee24fc5a7de79dac819177590b1"
+    }
+  ],
+  "images": [
+    {
+      "id": "4012_01",
+      "title": "主图｜套装内容物",
+      "type": "main",
+      "order": 1,
+      "sku": "4A 4012",
+      "asin": "B01M3N310M",
+      "file": "审稿待核_2000px/4012_01.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-bf6734fe-a1a5-4aec-81f0-31f4d62a3d61.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/4012_01_v2.png",
+      "resize_method": "透明生成源图按alpha裁切，Lanczos3等比缩放，居中合成RGB255白底",
+      "reference_files": [
+        "原图参考/01_B01M3N310M_01.jpg",
+        "原图参考/02_B01M3N310M_03.jpg",
+        "原图参考/03_B01M3N310M_Amazon_main.jpg",
+        "原图参考/04_702877117644.main.jpg"
+      ],
+      "status": "needs_product_check",
+      "status_zh": "审稿待核",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "返修后16本便签加两组索引配件，去除了多出的长条本；按现有图展示内容物。",
+      "remaining_checks": "PP盒外观、盖体/卡扣与完整包装展示仍缺实拍，不能称完整盒体主图；真实纸厚与比例需核样。",
+      "technical": {
+        "background_rgb": [
+          255,
+          255,
+          255
+        ],
+        "border60_checked": 465600,
+        "border60_white": 465600,
+        "white_background_pass": true,
+        "safety_margins_including_shadow": [
+          87,
+          100,
+          88,
+          100
+        ],
+        "margin_pass": true,
+        "product_bbox_alpha230": {
+          "left": 114,
+          "top": 442,
+          "width": 1790,
+          "height": 1227
+        },
+        "product_longest_span_percent": 89.5,
+        "occupancy_pass": true,
+        "occupancy_definition": "alpha>230实体近似外接框最长边/2000；不是画幅面积占比。"
+      },
+      "sha256": "a32a11642167e0743ae10e6df634811a744df1c8e07dc83b2a78cd31237f6e55"
+    },
+    {
+      "id": "4012_02",
+      "title": "容量拆分及包装尺寸",
+      "type": "secondary",
+      "order": 2,
+      "sku": "4A 4012",
+      "asin": "B01M3N310M",
+      "file": "交付候选_2000px/4012_02.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:/Desktop/待上架_新图文素材库_第四批/4012/生成源图/4012_02_exact.svg",
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "source_copy": "生成源图/4012_02_exact.svg",
+      "resize_method": "原生2000×2000 SVG规格图；纸面按精确比例绘制后渲染PNG",
+      "reference_files": [
+        "原图参考/01_B01M3N310M_01.jpg",
+        "原图参考/02_B01M3N310M_03.jpg",
+        "原图参考/03_B01M3N310M_Amazon_main.jpg",
+        "原图参考/04_702877117644.main.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "包装尺寸取Sheet1!O72:Q72；各便签尺寸与数量取原包装；总数1600+200+100=1900。",
+      "remaining_checks": "包装外接尺寸不代表盒内净尺寸；本图仅列包装尺寸，不推定盒体结构。",
+      "technical": {
+        "paper_scale_px_per_in": 38,
+        "packed_set_in": [
+          6,
+          3,
+          2.35
+        ],
+        "packed_source": "Sheet1!O72:Q72",
+        "sum_sheets": 1900,
+        "kit_pieces": 18
+      },
+      "sha256": "70d1bf04a62d4664c47d6b15b81a09bfd0bcc7f932bbeeceb0d850d901d1c14f"
+    },
+    {
+      "id": "4012_03",
+      "title": "桌面整理",
+      "type": "secondary",
+      "order": 3,
+      "sku": "4A 4012",
+      "asin": "B01M3N310M",
+      "file": "交付候选_2000px/4012_03.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-ca8c4c38-071c-407d-92af-947de9c3e16b.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/4012_03.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B01M3N310M_01.jpg",
+        "原图参考/02_B01M3N310M_03.jpg",
+        "原图参考/03_B01M3N310M_Amazon_main.jpg",
+        "原图参考/04_702877117644.main.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "16本和两组索引配件的桌面整理场景，无横线款正确。",
+      "remaining_checks": "当前以内容物整齐排布代替未核实盒盖，不宣称防尘、防卷或卡扣结构。",
+      "technical": {},
+      "sha256": "5b843f3bb939b0532fd3ca4fa9ed3db3c1223d56d49709225a83d735f935b173"
+    },
+    {
+      "id": "4012_04",
+      "title": "书写与多规格使用",
+      "type": "secondary",
+      "order": 4,
+      "sku": "4A 4012",
+      "asin": "B01M3N310M",
+      "file": "交付候选_2000px/4012_04.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-f54d197a-33bc-4658-b44b-514100e766ca.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/4012_04_v2.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B01M3N310M_01.jpg",
+        "原图参考/02_B01M3N310M_03.jpg",
+        "原图参考/03_B01M3N310M_Amazon_main.jpg",
+        "原图参考/04_702877117644.main.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "已返修无衬线标题；3×5无横线大便签书写，长条提醒与箭头页签。",
+      "remaining_checks": "手写仅用途示例；80GSM、零透墨、耐晕染和表面粘性未实测。",
+      "technical": {},
+      "sha256": "94ef2690dd8ffde68efb2565487cd7ea3d2c89f8b2f8cdd305c8b59a32144cd7"
+    },
+    {
+      "id": "4012_05",
+      "title": "礼赠场景",
+      "type": "secondary",
+      "order": 5,
+      "sku": "4A 4012",
+      "asin": "B01M3N310M",
+      "file": "交付候选_2000px/4012_05.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-88ed7644-5610-4477-9d51-877f34f6e1e3.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/4012_05.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B01M3N310M_01.jpg",
+        "原图参考/02_B01M3N310M_03.jpg",
+        "原图参考/03_B01M3N310M_Amazon_main.jpg",
+        "原图参考/04_702877117644.main.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "礼赠氛围使用独立卡片/丝带并注明不包含；未虚构礼盒包装。",
+      "remaining_checks": "PP盒本体待照片；实际颜色、材质与配件数量仍需核样。",
+      "technical": {},
+      "sha256": "76f5d567d42f04c640c465a3f600b7bd9e77834611387e8c88e3cb0be3791fe3"
+    }
+  ],
+  "global_note": "本地设计交付，不等于实物核样或Amazon上架批准。未加入缺乏证据的80 GSM承诺。原始素材保留。"
+}

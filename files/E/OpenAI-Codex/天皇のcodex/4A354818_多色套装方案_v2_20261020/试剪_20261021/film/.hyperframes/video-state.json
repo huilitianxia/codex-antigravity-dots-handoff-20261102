@@ -1,0 +1,1881 @@
+{
+  "version": 1,
+  "historyId": "8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29",
+  "currentRevision": "4fd1695f-6958-4577-a597-9c8ec061f14c",
+  "pendingChanges": false,
+  "files": {
+    "AGENTS.md": {
+      "hash": "1d4f0c8ca2507b94fd7c9df709fff01416adbd51a0f922b9d6ed2f40129147d5",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\1d\\1d4f0c8ca2507b94fd7c9df709fff01416adbd51a0f922b9d6ed2f40129147d5"
+    },
+    "CLAUDE.md": {
+      "hash": "1d4f0c8ca2507b94fd7c9df709fff01416adbd51a0f922b9d6ed2f40129147d5",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\1d\\1d4f0c8ca2507b94fd7c9df709fff01416adbd51a0f922b9d6ed2f40129147d5"
+    },
+    "hyperframes.json": {
+      "hash": "ad5dadeef78a520800a9e5cdd27a92ff5ac37f11b6a07f611b6b52b9f8c79a17",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\ad\\ad5dadeef78a520800a9e5cdd27a92ff5ac37f11b6a07f611b6b52b9f8c79a17"
+    },
+    "index.html": {
+      "hash": "89579013a2042806f4ffcb0c6a951c022270ecd8411844293bfe19f2ed4050ca",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\89\\89579013a2042806f4ffcb0c6a951c022270ecd8411844293bfe19f2ed4050ca"
+    },
+    "meta.json": {
+      "hash": "65b3e35dc87ef0125737ae9e848cd49b8b9e5ba6294b32b214cf5d3f5c58a999",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\65\\65b3e35dc87ef0125737ae9e848cd49b8b9e5ba6294b32b214cf5d3f5c58a999"
+    },
+    "package.json": {
+      "hash": "4d1ab2f52a155681c3b3f2410baaa21aa9edc046bc0f2ee72b27aeda96871e7e",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\4d\\4d1ab2f52a155681c3b3f2410baaa21aa9edc046bc0f2ee72b27aeda96871e7e"
+    },
+    "assets/colors_flat.mp4": {
+      "hash": "ef9e059450ab46d2696a82a6573b5ee11f3dcaad9de14a46998e76074f589763",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\ef\\ef9e059450ab46d2696a82a6573b5ee11f3dcaad9de14a46998e76074f589763"
+    },
+    "assets/colors_real.png": {
+      "hash": "df7b04fbc28ae9e90e4e8f1f9e8fcc089fbbb31d6a9936452d3dbdbc240f76e6",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\df\\df7b04fbc28ae9e90e4e8f1f9e8fcc089fbbb31d6a9936452d3dbdbc240f76e6"
+    },
+    "assets/colors.mp4": {
+      "hash": "0e03a47c6a5221aa2f5c6b0086866fc25f04545dd04149bef77b9102eabb4af0",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\0e\\0e03a47c6a5221aa2f5c6b0086866fc25f04545dd04149bef77b9102eabb4af0"
+    },
+    "assets/gsap.min.js": {
+      "hash": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\c1\\c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280"
+    },
+    "assets/hero.mp4": {
+      "hash": "89fb6aee925065d87839e5a25d700efbc14b1fe7c3c7d28eb31a62e0a9cd19f7",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\89\\89fb6aee925065d87839e5a25d700efbc14b1fe7c3c7d28eb31a62e0a9cd19f7"
+    },
+    "assets/move.mp4": {
+      "hash": "eff42c3978f7e0f3391c2b76380128f58622059eae5d787493c8321a1038691e",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\ef\\eff42c3978f7e0f3391c2b76380128f58622059eae5d787493c8321a1038691e"
+    },
+    "assets/music.mp3": {
+      "hash": "5a30d042dc51f517dc64b5d409e1ac0b9dba2a80241f8955f41257585e77890f",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\5a\\5a30d042dc51f517dc64b5d409e1ac0b9dba2a80241f8955f41257585e77890f"
+    },
+    "assets/notebook.mp4": {
+      "hash": "d68bce4f986e739a5af2e7b81d70f15bff37c3090b57e37d0c72d0f4b467c6e4",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\d6\\d68bce4f986e739a5af2e7b81d70f15bff37c3090b57e37d0c72d0f4b467c6e4"
+    },
+    "assets/office_screen.mp4": {
+      "hash": "e972253e4d1e906605baa4321663568d607f1acab255446ce527761b4e5ef8d1",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\e9\\e972253e4d1e906605baa4321663568d607f1acab255446ce527761b4e5ef8d1"
+    },
+    "assets/office.mp4": {
+      "hash": "c45db679832f40823b1b2487d3e3cf3a637d919e49aa1a8470dae4ef3fa82e9b",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\c4\\c45db679832f40823b1b2487d3e3cf3a637d919e49aa1a8470dae4ef3fa82e9b"
+    },
+    "assets/packshot.png": {
+      "hash": "a057e92b0557788942ca26493c7a7adf66f07c73954d212932e561aadfa04785",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\a0\\a057e92b0557788942ca26493c7a7adf66f07c73954d212932e561aadfa04785"
+    },
+    "assets/paper.mp4": {
+      "hash": "a8f3642ea5c7877a51310c90d5b649adcbdae7ed45850fddeb1a7d8916a4c1a5",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\a8\\a8f3642ea5c7877a51310c90d5b649adcbdae7ed45850fddeb1a7d8916a4c1a5"
+    },
+    "assets/segoeui.ttf": {
+      "hash": "704eada12961a27fd271f7d3b09e2066520e758390c1776744eff430fee30f6e",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\70\\704eada12961a27fd271f7d3b09e2066520e758390c1776744eff430fee30f6e"
+    },
+    "assets/segoeuil.ttf": {
+      "hash": "0dbddf9e20b2dc0facd568c877aa1155b3597c09a7ca41d00ca580af25d1cc51",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\0d\\0dbddf9e20b2dc0facd568c877aa1155b3597c09a7ca41d00ca580af25d1cc51"
+    },
+    "assets/seguisb.ttf": {
+      "hash": "6c3fd894b19950b10c34bf64069ef821eaf2f58f959146306fee5b367472e501",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\6c\\6c3fd894b19950b10c34bf64069ef821eaf2f58f959146306fee5b367472e501"
+    },
+    "assets/wall.mp4": {
+      "hash": "91eb4c002d3148e79ff91fcd2794f2aa7936c6ee865cf22e9c107a62fe48da6a",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\91\\91eb4c002d3148e79ff91fcd2794f2aa7936c6ee865cf22e9c107a62fe48da6a"
+    },
+    "assets/write.mp4": {
+      "hash": "29b00d0409fa5e4f3feeb54d5d89b5c4e3dbd9f0d07fea9e5ceb68dec3f0f6aa",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\29\\29b00d0409fa5e4f3feeb54d5d89b5c4e3dbd9f0d07fea9e5ceb68dec3f0f6aa"
+    },
+    "BRIEF.md": {
+      "hash": "83f4c235b46ad3f7931164125ff7f2edb33a3dfaa382d0d83a0f0815e75bf1c8",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\83\\83f4c235b46ad3f7931164125ff7f2edb33a3dfaa382d0d83a0f0815e75bf1c8"
+    },
+    "compositions/s01.html": {
+      "hash": "fcc48e7bab8b24289bf2fea8af436ac624f8b1df58ad662c3714d733c2cdd430",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\fc\\fcc48e7bab8b24289bf2fea8af436ac624f8b1df58ad662c3714d733c2cdd430"
+    },
+    "compositions/s02.html": {
+      "hash": "2c5358d3f162ae201da685feb31483fa32cfc74329530ec2df9a2f8df9f19516",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\2c\\2c5358d3f162ae201da685feb31483fa32cfc74329530ec2df9a2f8df9f19516"
+    },
+    "compositions/s03.html": {
+      "hash": "1becf8841b994dae0297ff10360a6ac21a5abb123b243e19da41746887e3eb38",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\1b\\1becf8841b994dae0297ff10360a6ac21a5abb123b243e19da41746887e3eb38"
+    },
+    "compositions/s04.html": {
+      "hash": "0779703bd54286c3c57e26e6e044b6756604076eafdd5ba3cdc296d1cf8b2661",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\07\\0779703bd54286c3c57e26e6e044b6756604076eafdd5ba3cdc296d1cf8b2661"
+    },
+    "compositions/s05.html": {
+      "hash": "22641d167209960f791024d719ea27e3c07949d71257b5e51a03f3cbdbcb6920",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\22\\22641d167209960f791024d719ea27e3c07949d71257b5e51a03f3cbdbcb6920"
+    },
+    "compositions/s06.html": {
+      "hash": "ea6b4ede4911d7c11607589262bf42906aaca0b0810497c47ec440a91dfdbb61",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\ea\\ea6b4ede4911d7c11607589262bf42906aaca0b0810497c47ec440a91dfdbb61"
+    },
+    "compositions/s07.html": {
+      "hash": "464af31ecf20336c17f885964d245527ee67f4ae60dc3fd6931587de4a5c76e6",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\46\\464af31ecf20336c17f885964d245527ee67f4ae60dc3fd6931587de4a5c76e6"
+    },
+    "compositions/s08.html": {
+      "hash": "4dd89b2c040d7477a9fdae175a7cc48e1cf7e10f10f076bd3770f29fd29ff23c",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\4d\\4dd89b2c040d7477a9fdae175a7cc48e1cf7e10f10f076bd3770f29fd29ff23c"
+    },
+    "compositions/s09.html": {
+      "hash": "650172c778fa6657fe6112889837ae453b771cbde7699d94f3441077af5ac25f",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\65\\650172c778fa6657fe6112889837ae453b771cbde7699d94f3441077af5ac25f"
+    },
+    "compositions/s10.html": {
+      "hash": "3138e5684c774c71b0188b948daafb67d2d38e12492fdd287728b23e4096ac54",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\31\\3138e5684c774c71b0188b948daafb67d2d38e12492fdd287728b23e4096ac54"
+    },
+    "design.md": {
+      "hash": "073b13156c306ecc86e45d5436ba756ac9df33b74cb850812d2a6c5e81dd5a4b",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\07\\073b13156c306ecc86e45d5436ba756ac9df33b74cb850812d2a6c5e81dd5a4b"
+    },
+    "edit_manifest.json": {
+      "hash": "faa35fc4984269466da10fc4d5037c343763cdc5ac966f956158766a64020b73",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\fa\\faa35fc4984269466da10fc4d5037c343763cdc5ac966f956158766a64020b73"
+    },
+    "MUSIC_LICENSE.md": {
+      "hash": "5c4a08d81b00a9ce01deeafc97b544a2a7c91dc91448a4e78993f53e2bb82838",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\5c\\5c4a08d81b00a9ce01deeafc97b544a2a7c91dc91448a4e78993f53e2bb82838"
+    },
+    ".media/manifest.jsonl": {
+      "hash": "be5a49dd7bc706bd258a8f55dbefb2624ac04b451608fad485b748209bd0927e",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\be\\be5a49dd7bc706bd258a8f55dbefb2624ac04b451608fad485b748209bd0927e"
+    },
+    "assets/office_screen_v2.mp4": {
+      "hash": "a86b0e49eb47f3c81c0138c83c7d6c135425eedd04a7a2f389a6c642329b2f85",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\a8\\a86b0e49eb47f3c81c0138c83c7d6c135425eedd04a7a2f389a6c642329b2f85"
+    },
+    "assets/office_v2.mp4": {
+      "hash": "8e3209403f62af9742b2329cb1842869d78bc566fa634b87b1a7b7d5bc94b288",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\8e\\8e3209403f62af9742b2329cb1842869d78bc566fa634b87b1a7b7d5bc94b288"
+    },
+    "assets/B_Curiosity.mp3": {
+      "hash": "181e91737f341ca61a1641b2955cc794fa6276ca0854d06266d55841d655a24b",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\18\\181e91737f341ca61a1641b2955cc794fa6276ca0854d06266d55841d655a24b"
+    },
+    "assets/A_Close_Up.mp3": {
+      "hash": "a7f05a29d07a84d38072ccd2b35204bca812db86e75b2a837e71cc144d3e739b",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\a7\\a7f05a29d07a84d38072ccd2b35204bca812db86e75b2a837e71cc144d3e739b"
+    },
+    "assets/A_Close_Up_32s.wav": {
+      "hash": "8640d4d3207ad3c177e3667441e41908a16d6e223202e8b79591261e89819f7a",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\86\\8640d4d3207ad3c177e3667441e41908a16d6e223202e8b79591261e89819f7a"
+    },
+    "assets/B_Curiosity_32s.wav": {
+      "hash": "5c9ef5effbe375f9370f5dd194617dbcf15a1471774a6c9908134a4aba931c7e",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\5c\\5c9ef5effbe375f9370f5dd194617dbcf15a1471774a6c9908134a4aba931c7e"
+    },
+    "MUSIC_LICENSE_V2.md": {
+      "hash": "b30895b5b1126f6624623b44f5801422654e3ed90b18b3d375be9ec11bcbae7c",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\b3\\b30895b5b1126f6624623b44f5801422654e3ed90b18b3d375be9ec11bcbae7c"
+    },
+    "music-b.html.template": {
+      "hash": "ae7aa17644da3729681432ba4817994ad526fc4f734fdf368551629cfd0b9093",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\ae\\ae7aa17644da3729681432ba4817994ad526fc4f734fdf368551629cfd0b9093"
+    },
+    "assets/4A_crown_master.png": {
+      "hash": "7323174929f699dbc2b804338642679f26bbc3ba4575294297ca2c1f52ec1405",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\73\\7323174929f699dbc2b804338642679f26bbc3ba4575294297ca2c1f52ec1405"
+    },
+    "compositions/brand-intro.html": {
+      "hash": "912f35129d1ecf18f26ecabf68421e1a1ea5bed65339febdc4c850eb33bc7f04",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\91\\912f35129d1ecf18f26ecabf68421e1a1ea5bed65339febdc4c850eb33bc7f04"
+    },
+    "assets/A_Close_Up_34s.wav": {
+      "hash": "45e9fb94e381ecec385502893db12abbbcc6563bc0f6519a39ff743fc271a08e",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\45\\45e9fb94e381ecec385502893db12abbbcc6563bc0f6519a39ff743fc271a08e"
+    },
+    "assets/B_Curiosity_34s.wav": {
+      "hash": "123751d057fec3dd51b2d18b237d7faf1b2b2453f1eeae06be52ebc9f2fe1429",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\12\\123751d057fec3dd51b2d18b237d7faf1b2b2453f1eeae06be52ebc9f2fe1429"
+    },
+    "assets/A_Close_Up_30s.wav": {
+      "hash": "e4fc6895a08824474be67cf3be3957029b0559985bc33fcae7b586244cf8c1a8",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\e4\\e4fc6895a08824474be67cf3be3957029b0559985bc33fcae7b586244cf8c1a8"
+    },
+    "assets/B_Curiosity_30s.wav": {
+      "hash": "0b6ef58195f1feb3f2009f158695f3682c20efc2918123abf59b86dbf605c7fd",
+      "content": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\0b\\0b6ef58195f1feb3f2009f158695f3682c20efc2918123abf59b86dbf605c7fd"
+    }
+  },
+  "revisions": {
+    "eb7dc231-c690-4f46-81fa-fc2fb38fc975": {
+      "actor": {
+        "kind": "agent",
+        "name": "codex"
+      },
+      "label": "Build 354818 first complete edit",
+      "startedAt": 1792585989018,
+      "endedAt": 1792586340867.7383,
+      "files": {
+        "assets/colors_flat.mp4": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\ef\\ef9e059450ab46d2696a82a6573b5ee11f3dcaad9de14a46998e76074f589763"
+        },
+        "assets/colors_real.png": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\df\\df7b04fbc28ae9e90e4e8f1f9e8fcc089fbbb31d6a9936452d3dbdbc240f76e6"
+        },
+        "assets/colors.mp4": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\61\\61094d396870c7ce93633d9ea7ba4531071b6110536beaab90a7460ae2a74fa1"
+        },
+        "assets/gsap.min.js": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\c1\\c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280"
+        },
+        "assets/hero.mp4": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\89\\89fb6aee925065d87839e5a25d700efbc14b1fe7c3c7d28eb31a62e0a9cd19f7"
+        },
+        "assets/move.mp4": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\ef\\eff42c3978f7e0f3391c2b76380128f58622059eae5d787493c8321a1038691e"
+        },
+        "assets/music.mp3": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\5a\\5a30d042dc51f517dc64b5d409e1ac0b9dba2a80241f8955f41257585e77890f"
+        },
+        "assets/notebook.mp4": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\d6\\d68bce4f986e739a5af2e7b81d70f15bff37c3090b57e37d0c72d0f4b467c6e4"
+        },
+        "assets/office_screen.mp4": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\e9\\e972253e4d1e906605baa4321663568d607f1acab255446ce527761b4e5ef8d1"
+        },
+        "assets/office.mp4": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\c4\\c45db679832f40823b1b2487d3e3cf3a637d919e49aa1a8470dae4ef3fa82e9b"
+        },
+        "assets/packshot.png": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\a0\\a057e92b0557788942ca26493c7a7adf66f07c73954d212932e561aadfa04785"
+        },
+        "assets/paper.mp4": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\a8\\a8f3642ea5c7877a51310c90d5b649adcbdae7ed45850fddeb1a7d8916a4c1a5"
+        },
+        "assets/segoeui.ttf": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\70\\704eada12961a27fd271f7d3b09e2066520e758390c1776744eff430fee30f6e"
+        },
+        "assets/segoeuil.ttf": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\0d\\0dbddf9e20b2dc0facd568c877aa1155b3597c09a7ca41d00ca580af25d1cc51"
+        },
+        "assets/seguisb.ttf": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\6c\\6c3fd894b19950b10c34bf64069ef821eaf2f58f959146306fee5b367472e501"
+        },
+        "assets/wall.mp4": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\91\\91eb4c002d3148e79ff91fcd2794f2aa7936c6ee865cf22e9c107a62fe48da6a"
+        },
+        "assets/write.mp4": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\29\\29b00d0409fa5e4f3feeb54d5d89b5c4e3dbd9f0d07fea9e5ceb68dec3f0f6aa"
+        },
+        "BRIEF.md": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\43\\43a264f15ee7f0f2664c96cae7ccc25f8bc4e3b858869d67e2bb86b265d0fad7"
+        },
+        "compositions/s01.html": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\3a\\3a29191af767ec511b1569d02939e640f25346b20cbb0a489bd8c67e791ec9b4"
+        },
+        "compositions/s02.html": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\c0\\c0e81fc2db2b532af116032c7b54e31bd1735ecb837f0981d71c9bb87f3aa448"
+        },
+        "compositions/s03.html": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\ed\\ed16edf443e8e801093d4d7c1430000883480f5bcd837e915e21680485a37ad4"
+        },
+        "compositions/s04.html": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\c4\\c4caea03587f8cf7aa1447b785bdec6ed48b8527ef2dfa9d227c37a4320842c7"
+        },
+        "compositions/s05.html": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\b3\\b3bdec7063408be86380c643e11eae0a807f326f1b1837252d80481577d8514a"
+        },
+        "compositions/s06.html": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\a3\\a3d67319f5e6d5cc4eb83261d5eb4923e6e813074720b12c2a7cf23a92c7d28d"
+        },
+        "compositions/s07.html": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\bc\\bc985cf3fc30212d7d324e92d21af0167fdcc6970d77bb9198d0c09d9be3ffe1"
+        },
+        "compositions/s08.html": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\97\\9785a5cd9fd311927c09719eed71af5238f0c6b6003e55ee986bdad5ca2eb50c"
+        },
+        "compositions/s09.html": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\9a\\9a20958f3dc4272fb58880255a24168f79e80311536a2e98c764b8a658b32250"
+        },
+        "compositions/s10.html": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\94\\9413c3dfae9d3d8bf5049f3b43bdfcf2388b1c61c13a08dd440d17f91e80a13b"
+        },
+        "design.md": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\13\\131f841c84a47b7f255f1a2ca5ac43f18e9b5a76e48ff07572153c76f2be0a3e"
+        },
+        "edit_manifest.json": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\fd\\fd0fa1730ccb7aa010dac9f15387c1fa763f50b46fc0c1b151dbe50efc279f03"
+        },
+        "index.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\1b\\1b8a7122c4208d02b152b6767bef6cac78f54e86f04895f00326e0e94cbfda17",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\58\\582993db58e9c0afd787f9752fd1b0b9b0e426e6346c9ae09820ebd4f8c0134c"
+        },
+        "MUSIC_LICENSE.md": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\5c\\5c4a08d81b00a9ce01deeafc97b544a2a7c91dc91448a4e78993f53e2bb82838"
+        }
+      }
+    },
+    "9d5d8d97-60e2-4b8a-be36-23113aac7700": {
+      "actor": {
+        "kind": "agent",
+        "name": "codex"
+      },
+      "label": "Build 354818 first complete edit",
+      "startedAt": 1792585989018,
+      "endedAt": 1792586457907.0034,
+      "files": {
+        "compositions/s01.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\3a\\3a29191af767ec511b1569d02939e640f25346b20cbb0a489bd8c67e791ec9b4",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\74\\74095fb84e65605e19ee0db0ae56a808b0e6eb24bfdabcd3e80ac96d67720813"
+        },
+        "compositions/s02.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\c0\\c0e81fc2db2b532af116032c7b54e31bd1735ecb837f0981d71c9bb87f3aa448",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\0d\\0d123a918da4c399f907d146e229fdee7145a42fbf1c556d3b4343e1b99bd635"
+        },
+        "compositions/s03.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\ed\\ed16edf443e8e801093d4d7c1430000883480f5bcd837e915e21680485a37ad4",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\35\\3541014e1ea39cdb7ac82a7f7ae06d3f2da98aae45971d6a5df3249f6a2e6c97"
+        },
+        "compositions/s04.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\c4\\c4caea03587f8cf7aa1447b785bdec6ed48b8527ef2dfa9d227c37a4320842c7",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\56\\56903173c3227f8523e3fa6fcf9d25614641ba698cf9dec11bedae606cc9e64b"
+        },
+        "compositions/s05.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\b3\\b3bdec7063408be86380c643e11eae0a807f326f1b1837252d80481577d8514a",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\26\\260ffdf01a56dd5a744df3437d453a1abdaff8aaf8d4707b0b7c71b477e4bde2"
+        },
+        "compositions/s06.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\a3\\a3d67319f5e6d5cc4eb83261d5eb4923e6e813074720b12c2a7cf23a92c7d28d",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\70\\70ddbc9bb7e5d682a88fae63b8da32323e384fb604939403e10d51ee11728550"
+        },
+        "compositions/s07.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\bc\\bc985cf3fc30212d7d324e92d21af0167fdcc6970d77bb9198d0c09d9be3ffe1",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\7b\\7b4bc33ac63619f9f3b0f804c6368b09e05b001c13f54f946cc77bf5c9c9355e"
+        },
+        "compositions/s08.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\97\\9785a5cd9fd311927c09719eed71af5238f0c6b6003e55ee986bdad5ca2eb50c",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\60\\606d5ab2d36d94a889a9167ab86d2d2de2d0adb686ffd8c108dedd851f0ed54a"
+        },
+        "compositions/s09.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\9a\\9a20958f3dc4272fb58880255a24168f79e80311536a2e98c764b8a658b32250",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\f7\\f76fedc7a1ebe2d344c8444bc0cf5fce6b2f07ad92e2cd22e265aef4e84d7569"
+        },
+        "compositions/s10.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\94\\9413c3dfae9d3d8bf5049f3b43bdfcf2388b1c61c13a08dd440d17f91e80a13b",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\80\\80774180fad34f7612e66ca6edb0f1aaf9ab7712d941030f4dded0aeebf00e1d"
+        }
+      }
+    },
+    "b73c7845-3edf-4660-a9f0-d826a9d82790": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1792586557154,
+      "endedAt": 1792586557236,
+      "files": {
+        "compositions/s01.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\74\\74095fb84e65605e19ee0db0ae56a808b0e6eb24bfdabcd3e80ac96d67720813",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\63\\63dd8fb31f9e0921233727fab49560ae8e3fde1b44c379dad70822760b62620b"
+        },
+        "compositions/s05.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\26\\260ffdf01a56dd5a744df3437d453a1abdaff8aaf8d4707b0b7c71b477e4bde2",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\0b\\0b0271ce90bbe096eccbb507c08c729bf97aa6b3cf44e698e68a5bd6cf729088"
+        },
+        "compositions/s07.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\7b\\7b4bc33ac63619f9f3b0f804c6368b09e05b001c13f54f946cc77bf5c9c9355e",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\0c\\0c386f7fd7da219086ee0dcb5166229c610e774a1586b040739e94fdafbe9816"
+        },
+        "compositions/s09.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\f7\\f76fedc7a1ebe2d344c8444bc0cf5fce6b2f07ad92e2cd22e265aef4e84d7569",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\4d\\4dc5dfec455847d0d94418fb591e2f3160f3ed20cd56c4595605b6eb10ed6fb8"
+        },
+        "compositions/s10.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\80\\80774180fad34f7612e66ca6edb0f1aaf9ab7712d941030f4dded0aeebf00e1d",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\31\\3138e5684c774c71b0188b948daafb67d2d38e12492fdd287728b23e4096ac54"
+        },
+        "index.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\58\\582993db58e9c0afd787f9752fd1b0b9b0e426e6346c9ae09820ebd4f8c0134c",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\1b\\1b32ef7fcbb0a6cd52444f332935e1071deb2a407d2c83797e57f204d695bc85"
+        }
+      }
+    },
+    "d03054d1-110a-4d97-a0d1-3333fe2b0a01": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1792586609360,
+      "endedAt": 1792586612809,
+      "files": {
+        "assets/colors.mp4": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\61\\61094d396870c7ce93633d9ea7ba4531071b6110536beaab90a7460ae2a74fa1",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\0e\\0e03a47c6a5221aa2f5c6b0086866fc25f04545dd04149bef77b9102eabb4af0"
+        },
+        "compositions/s01.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\63\\63dd8fb31f9e0921233727fab49560ae8e3fde1b44c379dad70822760b62620b",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\74\\74095fb84e65605e19ee0db0ae56a808b0e6eb24bfdabcd3e80ac96d67720813"
+        },
+        "compositions/s02.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\0d\\0d123a918da4c399f907d146e229fdee7145a42fbf1c556d3b4343e1b99bd635",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\39\\39d7360d4ab921f742793b77068e88e1c2543fd0f1dc3dc81fbf21d7ec1292ca"
+        },
+        "compositions/s03.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\35\\3541014e1ea39cdb7ac82a7f7ae06d3f2da98aae45971d6a5df3249f6a2e6c97",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\4b\\4b35fd1c85616a94a3c1ecce69777b61b01273a8e511b8e0e253d02b84b35b5e"
+        },
+        "compositions/s04.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\56\\56903173c3227f8523e3fa6fcf9d25614641ba698cf9dec11bedae606cc9e64b",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\ec\\ecac791fac4f32e907c4d66fe8c3cb4490ca1bdfe76fb7bfaea747d87be88859"
+        },
+        "compositions/s05.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\0b\\0b0271ce90bbe096eccbb507c08c729bf97aa6b3cf44e698e68a5bd6cf729088",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\d4\\d4d6057b686a56fd3dd333022a999ba4e43ddcc25c6ef04f2cc87a8f8df6d9cc"
+        },
+        "compositions/s06.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\70\\70ddbc9bb7e5d682a88fae63b8da32323e384fb604939403e10d51ee11728550",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\f4\\f48deaff2ebe3c2d88960d24a96860f4ec29103fddcfb420ef06f65f27a7f42b"
+        },
+        "compositions/s07.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\0c\\0c386f7fd7da219086ee0dcb5166229c610e774a1586b040739e94fdafbe9816",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\9c\\9c547253469940d98d9ea6a0d3cf8e000d2038e7b44e602b08f03619e58d55af"
+        },
+        "compositions/s08.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\60\\606d5ab2d36d94a889a9167ab86d2d2de2d0adb686ffd8c108dedd851f0ed54a",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\6f\\6f029bd5eae4dba40500fe4e5d79254d68c62df561a0a455e12814369d935d4f"
+        },
+        "compositions/s09.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\4d\\4dc5dfec455847d0d94418fb591e2f3160f3ed20cd56c4595605b6eb10ed6fb8",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\54\\54544a2697c27d5dc06b14eedea0040bab95f2488fc026e2a983e6c661fc16de"
+        },
+        "edit_manifest.json": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\fd\\fd0fa1730ccb7aa010dac9f15387c1fa763f50b46fc0c1b151dbe50efc279f03",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\a8\\a8bbf6b8f4a8e85e1ace274030c69a401c40cae811590921806d6ce736c80583"
+        },
+        "index.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\1b\\1b32ef7fcbb0a6cd52444f332935e1071deb2a407d2c83797e57f204d695bc85",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\4a\\4aa9b1d2ac6f272178b6f63aa567c1c85a2250a15a12dce2ffe19bc8fa8ae99c"
+        }
+      }
+    },
+    "dab08ce0-e5d9-431e-b24c-8f91aae91985": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1792586613034,
+      "endedAt": 1792586615045,
+      "files": {
+        "compositions/s02.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\39\\39d7360d4ab921f742793b77068e88e1c2543fd0f1dc3dc81fbf21d7ec1292ca",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\0d\\0d123a918da4c399f907d146e229fdee7145a42fbf1c556d3b4343e1b99bd635"
+        }
+      }
+    },
+    "5356903e-5888-4375-affe-1ed89c4dcbb6": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1792586615269,
+      "endedAt": 1792586617284,
+      "files": {
+        "compositions/s03.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\4b\\4b35fd1c85616a94a3c1ecce69777b61b01273a8e511b8e0e253d02b84b35b5e",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\4b\\4be0451e20362dc43a51c629ac1a628fa3f06dc03558e3e5abccf8042d247703"
+        }
+      }
+    },
+    "3988dbde-e08d-412f-b4dd-7dc0fde8afa9": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1792586617536,
+      "endedAt": 1792586619536,
+      "files": {
+        "compositions/s05.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\d4\\d4d6057b686a56fd3dd333022a999ba4e43ddcc25c6ef04f2cc87a8f8df6d9cc",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\54\\5457e54183593ef02a14dcefaa47da8f501974e5fe0ae92c4b39414240ec6c86"
+        }
+      }
+    },
+    "081bf1d2-42ad-4009-8c5a-20b9f0e8e167": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1792586619854,
+      "endedAt": 1792586621869,
+      "files": {
+        "compositions/s07.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\9c\\9c547253469940d98d9ea6a0d3cf8e000d2038e7b44e602b08f03619e58d55af",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\46\\464af31ecf20336c17f885964d245527ee67f4ae60dc3fd6931587de4a5c76e6"
+        }
+      }
+    },
+    "6ec671a6-48d2-435f-bb41-87db474d31d4": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1792586756660,
+      "endedAt": 1792586758661,
+      "files": {
+        ".media/manifest.jsonl": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\be\\be5a49dd7bc706bd258a8f55dbefb2624ac04b451608fad485b748209bd0927e"
+        }
+      }
+    },
+    "f2590305-282b-46fa-9346-8bfb015d3217": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1792586938556,
+      "endedAt": 1792586940777,
+      "files": {
+        "compositions/s01.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\74\\74095fb84e65605e19ee0db0ae56a808b0e6eb24bfdabcd3e80ac96d67720813",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\fc\\fcc48e7bab8b24289bf2fea8af436ac624f8b1df58ad662c3714d733c2cdd430"
+        },
+        "edit_manifest.json": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\a8\\a8bbf6b8f4a8e85e1ace274030c69a401c40cae811590921806d6ce736c80583",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\d5\\d50b1ad66f780c90d7c3604a126404c78cf111a29a2170cc7c442e071bd8cb5d"
+        }
+      }
+    },
+    "c9e9659b-7fb9-4732-8f42-47f01e4469c8": {
+      "actor": {
+        "kind": "agent",
+        "name": "codex"
+      },
+      "label": "Repair monitor composite and replace music",
+      "startedAt": 1792587307514,
+      "endedAt": 1792587889561,
+      "files": {
+        "assets/A_Close_Up_32s.wav": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\86\\8640d4d3207ad3c177e3667441e41908a16d6e223202e8b79591261e89819f7a"
+        },
+        "assets/A_Close_Up.mp3": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\a7\\a7f05a29d07a84d38072ccd2b35204bca812db86e75b2a837e71cc144d3e739b"
+        },
+        "assets/B_Curiosity_32s.wav": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\5c\\5c9ef5effbe375f9370f5dd194617dbcf15a1471774a6c9908134a4aba931c7e"
+        },
+        "assets/B_Curiosity.mp3": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\18\\181e91737f341ca61a1641b2955cc794fa6276ca0854d06266d55841d655a24b"
+        },
+        "assets/office_screen_v2.mp4": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\a8\\a86b0e49eb47f3c81c0138c83c7d6c135425eedd04a7a2f389a6c642329b2f85"
+        },
+        "assets/office_v2.mp4": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\8e\\8e3209403f62af9742b2329cb1842869d78bc566fa634b87b1a7b7d5bc94b288"
+        },
+        "compositions/s04.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\ec\\ecac791fac4f32e907c4d66fe8c3cb4490ca1bdfe76fb7bfaea747d87be88859",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\59\\59109f2b7c5c41372fa208c45458f63d212c1e8b4c970fb936bcd9a436183d8e"
+        },
+        "index.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\4a\\4aa9b1d2ac6f272178b6f63aa567c1c85a2250a15a12dce2ffe19bc8fa8ae99c",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\99\\9974b24b909040ce3c7be3ac11911cfcf00c1d0c598769c8fa9f06e6e4de5d8b"
+        },
+        "MUSIC_LICENSE_V2.md": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\b3\\b30895b5b1126f6624623b44f5801422654e3ed90b18b3d375be9ec11bcbae7c"
+        },
+        "music-b.html": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\63\\630b78540b0a9331a39705b0b6807f0f622e3ec57dbaef3ccc5022e0d2b2212c"
+        }
+      }
+    },
+    "13e8bd96-8e5c-4dc3-8869-a8f7adf9b7f3": {
+      "actor": {
+        "kind": "agent",
+        "name": "codex"
+      },
+      "label": "Repair monitor composite and replace music",
+      "startedAt": 1792587307514,
+      "endedAt": 1792587915962,
+      "files": {
+        "music-b.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\63\\630b78540b0a9331a39705b0b6807f0f622e3ec57dbaef3ccc5022e0d2b2212c",
+          "after": null
+        },
+        "music-b.html.template": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\63\\630b78540b0a9331a39705b0b6807f0f622e3ec57dbaef3ccc5022e0d2b2212c"
+        }
+      }
+    },
+    "374b0815-c170-405e-b3cb-96e6936644db": {
+      "actor": {
+        "kind": "agent",
+        "name": "codex"
+      },
+      "label": "Repair monitor composite and replace music",
+      "startedAt": 1792587307514,
+      "endedAt": 1792588191941.9148,
+      "files": {
+        "edit_manifest.json": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\d5\\d50b1ad66f780c90d7c3604a126404c78cf111a29a2170cc7c442e071bd8cb5d",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\3e\\3ea06f681008ce30dfe1da8dabe08560cc18495089a4a7561f31acc02aa2b8dc"
+        }
+      }
+    },
+    "da0a5511-acfc-48d2-b2b1-8d5d341b233a": {
+      "actor": {
+        "kind": "agent",
+        "name": "codex"
+      },
+      "label": "Add authentic 4A crown brand opening",
+      "startedAt": 1792597916648,
+      "endedAt": 1792598091489,
+      "files": {
+        "assets/4A_crown_master.png": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\73\\7323174929f699dbc2b804338642679f26bbc3ba4575294297ca2c1f52ec1405"
+        },
+        "assets/A_Close_Up_34s.wav": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\45\\45e9fb94e381ecec385502893db12abbbcc6563bc0f6519a39ff743fc271a08e"
+        },
+        "assets/B_Curiosity_34s.wav": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\12\\123751d057fec3dd51b2d18b237d7faf1b2b2453f1eeae06be52ebc9f2fe1429"
+        },
+        "BRIEF.md": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\43\\43a264f15ee7f0f2664c96cae7ccc25f8bc4e3b858869d67e2bb86b265d0fad7",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\26\\26096707d7c273796531f2e9b49866ca10dd90ae3485af8e9c1243edce34e483"
+        },
+        "compositions/brand-intro.html": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\ca\\ca7c06b2c4c8f06c26b8ac6e792ecda8ae260356e5eefa83d0f94a8a51bff049"
+        },
+        "design.md": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\13\\131f841c84a47b7f255f1a2ca5ac43f18e9b5a76e48ff07572153c76f2be0a3e",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\75\\75e34eb7412f28f966ab1174407ae7efc4e7b989bac15f57aaf32961a1b698a8"
+        },
+        "edit_manifest.json": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\3e\\3ea06f681008ce30dfe1da8dabe08560cc18495089a4a7561f31acc02aa2b8dc",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\e3\\e377f2f4cf715974909373f854ac605e487e62e8d53c9102e6f0524a73a499c1"
+        },
+        "index.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\99\\9974b24b909040ce3c7be3ac11911cfcf00c1d0c598769c8fa9f06e6e4de5d8b",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\32\\32d233099b5c8861f9663fc633cc9f8c25785fd927f8ef54a90d924819d9f4d1"
+        },
+        "music-b.html.template": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\63\\630b78540b0a9331a39705b0b6807f0f622e3ec57dbaef3ccc5022e0d2b2212c",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\6c\\6cc05bf2cdf72183030ade70de9a14c9c8de7938180e57c81e211acdf5958121"
+        }
+      }
+    },
+    "bc8d64aa-f548-4322-b3c9-d76c873e5537": {
+      "actor": {
+        "kind": "agent",
+        "name": "codex"
+      },
+      "label": "Unify live footage and tighten edit to 30 seconds",
+      "startedAt": 1792600134969,
+      "endedAt": 1792600191018,
+      "files": {
+        "package.json": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\a0\\a0c674031514b0e3dffa5c739ae09b421be90abd088145582bb89e082ca27f95",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\4d\\4d1ab2f52a155681c3b3f2410baaa21aa9edc046bc0f2ee72b27aeda96871e7e"
+        }
+      }
+    },
+    "4fd1695f-6958-4577-a597-9c8ec061f14c": {
+      "actor": {
+        "kind": "agent",
+        "name": "codex"
+      },
+      "label": "Unify live footage and tighten edit to 30 seconds",
+      "startedAt": 1792600134969,
+      "endedAt": 1792600344749,
+      "files": {
+        "assets/A_Close_Up_30s.wav": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\e4\\e4fc6895a08824474be67cf3be3957029b0559985bc33fcae7b586244cf8c1a8"
+        },
+        "assets/B_Curiosity_30s.wav": {
+          "before": null,
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\0b\\0b6ef58195f1feb3f2009f158695f3682c20efc2918123abf59b86dbf605c7fd"
+        },
+        "BRIEF.md": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\26\\26096707d7c273796531f2e9b49866ca10dd90ae3485af8e9c1243edce34e483",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\83\\83f4c235b46ad3f7931164125ff7f2edb33a3dfaa382d0d83a0f0815e75bf1c8"
+        },
+        "compositions/brand-intro.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\ca\\ca7c06b2c4c8f06c26b8ac6e792ecda8ae260356e5eefa83d0f94a8a51bff049",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\91\\912f35129d1ecf18f26ecabf68421e1a1ea5bed65339febdc4c850eb33bc7f04"
+        },
+        "compositions/s02.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\0d\\0d123a918da4c399f907d146e229fdee7145a42fbf1c556d3b4343e1b99bd635",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\2c\\2c5358d3f162ae201da685feb31483fa32cfc74329530ec2df9a2f8df9f19516"
+        },
+        "compositions/s03.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\4b\\4be0451e20362dc43a51c629ac1a628fa3f06dc03558e3e5abccf8042d247703",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\1b\\1becf8841b994dae0297ff10360a6ac21a5abb123b243e19da41746887e3eb38"
+        },
+        "compositions/s04.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\59\\59109f2b7c5c41372fa208c45458f63d212c1e8b4c970fb936bcd9a436183d8e",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\07\\0779703bd54286c3c57e26e6e044b6756604076eafdd5ba3cdc296d1cf8b2661"
+        },
+        "compositions/s05.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\54\\5457e54183593ef02a14dcefaa47da8f501974e5fe0ae92c4b39414240ec6c86",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\22\\22641d167209960f791024d719ea27e3c07949d71257b5e51a03f3cbdbcb6920"
+        },
+        "compositions/s06.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\f4\\f48deaff2ebe3c2d88960d24a96860f4ec29103fddcfb420ef06f65f27a7f42b",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\ea\\ea6b4ede4911d7c11607589262bf42906aaca0b0810497c47ec440a91dfdbb61"
+        },
+        "compositions/s08.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\6f\\6f029bd5eae4dba40500fe4e5d79254d68c62df561a0a455e12814369d935d4f",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\4d\\4dd89b2c040d7477a9fdae175a7cc48e1cf7e10f10f076bd3770f29fd29ff23c"
+        },
+        "compositions/s09.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\54\\54544a2697c27d5dc06b14eedea0040bab95f2488fc026e2a983e6c661fc16de",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\65\\650172c778fa6657fe6112889837ae453b771cbde7699d94f3441077af5ac25f"
+        },
+        "design.md": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\75\\75e34eb7412f28f966ab1174407ae7efc4e7b989bac15f57aaf32961a1b698a8",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\07\\073b13156c306ecc86e45d5436ba756ac9df33b74cb850812d2a6c5e81dd5a4b"
+        },
+        "edit_manifest.json": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\e3\\e377f2f4cf715974909373f854ac605e487e62e8d53c9102e6f0524a73a499c1",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\fa\\faa35fc4984269466da10fc4d5037c343763cdc5ac966f956158766a64020b73"
+        },
+        "index.html": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\32\\32d233099b5c8861f9663fc633cc9f8c25785fd927f8ef54a90d924819d9f4d1",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\89\\89579013a2042806f4ffcb0c6a951c022270ecd8411844293bfe19f2ed4050ca"
+        },
+        "music-b.html.template": {
+          "before": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\6c\\6cc05bf2cdf72183030ade70de9a14c9c8de7938180e57c81e211acdf5958121",
+          "after": "C:\\Users\\24243\\.cache\\hyperframes\\history\\8ed7e7d9-1b9f-4a22-b4c8-2631bc312a29\\blobs\\ae\\ae7aa17644da3729681432ba4817994ad526fc4f734fdf368551629cfd0b9093"
+        }
+      }
+    }
+  },
+  "checks": {
+    "latest": {
+      "revision": null,
+      "id": "a5762e36-b229-41f5-b39b-dca75ef96264"
+    },
+    "revisions": {
+      "eb7dc231-c690-4f46-81fa-fc2fb38fc975": [
+        {
+          "id": "961fa0bf-474b-4441-833f-d63fa2d0082e",
+          "scope": "project",
+          "metadata": {
+            "ok": true,
+            "browserSkipped": false,
+            "options": {
+              "samples": 9,
+              "atTransitions": false,
+              "maxIssues": 80,
+              "collapseStatic": true,
+              "tolerance": 2,
+              "timeout": 3000,
+              "contrast": true,
+              "strict": false,
+              "snapshots": true,
+              "browserGpuMode": "auto"
+            }
+          },
+          "createdAt": 1792586356789,
+          "contentHash": "42081b92c9c71c53fae45910283aa4acb0f483f2ab074b5cb32705b96a4a6559",
+          "revision": "eb7dc231-c690-4f46-81fa-fc2fb38fc975",
+          "inputFingerprint": "e99e869a54dcbe10295b956683afbd4877a2be353e027dce01a44bcbf007add5",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "a3523e18-84e6-466f-abaa-36174ae81aa1"
+        }
+      ],
+      "9d5d8d97-60e2-4b8a-be36-23113aac7700": [
+        {
+          "id": "e8d79536-48fd-410d-ab1f-7b7971d77cf3",
+          "scope": "project",
+          "metadata": {
+            "ok": true,
+            "browserSkipped": false,
+            "options": {
+              "samples": 9,
+              "atTransitions": false,
+              "maxIssues": 80,
+              "collapseStatic": true,
+              "tolerance": 2,
+              "timeout": 3000,
+              "contrast": true,
+              "strict": false,
+              "snapshots": true,
+              "browserGpuMode": "auto"
+            }
+          },
+          "createdAt": 1792586468427,
+          "contentHash": "7ed875e7fed5ef0db2b273f5cf411de9f4b81bd47e2d6aa57a4942a93af82a42",
+          "revision": "9d5d8d97-60e2-4b8a-be36-23113aac7700",
+          "inputFingerprint": "a5206a32c8687a1193b619059a07a93baac9b57bf47ad3c66462c0484a5cd86a",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "a3523e18-84e6-466f-abaa-36174ae81aa1"
+        }
+      ],
+      "081bf1d2-42ad-4009-8c5a-20b9f0e8e167": [
+        {
+          "id": "66c9c7de-d145-4ea2-8f50-e022cc6b0bfe",
+          "scope": "project",
+          "metadata": {
+            "ok": true,
+            "browserSkipped": false,
+            "options": {
+              "samples": 9,
+              "atTransitions": false,
+              "maxIssues": 80,
+              "collapseStatic": true,
+              "tolerance": 2,
+              "timeout": 3000,
+              "contrast": true,
+              "strict": false,
+              "snapshots": false,
+              "browserGpuMode": "auto"
+            }
+          },
+          "createdAt": 1792586629534,
+          "contentHash": "9610b532796692798bac073112ab07b81bc38a991616c7106ef51f534110a05b",
+          "revision": "081bf1d2-42ad-4009-8c5a-20b9f0e8e167",
+          "inputFingerprint": "e248a7da32303c2db7dc162c99d00607b23262f5d6b632b647bb331356caf216",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "a3523e18-84e6-466f-abaa-36174ae81aa1"
+        }
+      ],
+      "f2590305-282b-46fa-9346-8bfb015d3217": [
+        {
+          "id": "080e68fe-2bb7-46ad-a64a-d9f796ba273e",
+          "scope": "project",
+          "metadata": {
+            "ok": true,
+            "browserSkipped": false,
+            "options": {
+              "samples": 9,
+              "atTransitions": false,
+              "maxIssues": 80,
+              "collapseStatic": true,
+              "tolerance": 2,
+              "timeout": 3000,
+              "contrast": true,
+              "strict": false,
+              "snapshots": false,
+              "browserGpuMode": "auto"
+            }
+          },
+          "createdAt": 1792586946682,
+          "contentHash": "9610b532796692798bac073112ab07b81bc38a991616c7106ef51f534110a05b",
+          "revision": "f2590305-282b-46fa-9346-8bfb015d3217",
+          "inputFingerprint": "e9f758494f898886dc1ee21a17e672a6dda02137626ffa8fecca0d6aaca771ef",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "04369483-9dec-42ff-94b3-c154a412b006"
+        }
+      ],
+      "c9e9659b-7fb9-4732-8f42-47f01e4469c8": [
+        {
+          "id": "a81f8c5c-08ac-4194-ad94-c926391c6aae",
+          "scope": "project",
+          "metadata": {
+            "ok": false,
+            "browserSkipped": true,
+            "options": {
+              "samples": 9,
+              "atTransitions": false,
+              "maxIssues": 80,
+              "collapseStatic": true,
+              "tolerance": 2,
+              "timeout": 3000,
+              "contrast": true,
+              "strict": false,
+              "snapshots": false,
+              "browserGpuMode": "auto"
+            }
+          },
+          "createdAt": 1792587891790,
+          "contentHash": "9c88482e2b05c80c30beb54ab1b1ac4e7ac60c0e32b4a3fae71233c98a023e9b",
+          "revision": "c9e9659b-7fb9-4732-8f42-47f01e4469c8",
+          "inputFingerprint": "24a791b72d571f135a5ea3ccc7860731f8a6e2e7b9855052f865d8ef1b07acda",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "9313ecec-509a-4bad-b7c3-2c978150144c"
+        }
+      ],
+      "13e8bd96-8e5c-4dc3-8869-a8f7adf9b7f3": [
+        {
+          "id": "afaab75f-d0e7-4a41-9788-6b6a731407b5",
+          "scope": "project",
+          "metadata": {
+            "ok": true,
+            "browserSkipped": false,
+            "options": {
+              "samples": 9,
+              "atTransitions": false,
+              "maxIssues": 80,
+              "collapseStatic": true,
+              "tolerance": 2,
+              "timeout": 3000,
+              "contrast": true,
+              "strict": false,
+              "snapshots": false,
+              "browserGpuMode": "auto"
+            }
+          },
+          "createdAt": 1792587920852,
+          "contentHash": "9610b532796692798bac073112ab07b81bc38a991616c7106ef51f534110a05b",
+          "revision": "13e8bd96-8e5c-4dc3-8869-a8f7adf9b7f3",
+          "inputFingerprint": "5bb14995bf0d237b0987bb093f7d38507274fb8c94dcd0614787e3bd2fc9f179",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "81b84242-cefc-48d4-8402-9d745c5de940"
+        }
+      ],
+      "da0a5511-acfc-48d2-b2b1-8d5d341b233a": [
+        {
+          "id": "2c0e93f6-3e70-4b1a-b775-1139463c0f67",
+          "scope": "project",
+          "report": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\checks\\2c0e93f6-3e70-4b1a-b775-1139463c0f67.json",
+          "metadata": {
+            "ok": true,
+            "browserSkipped": false,
+            "options": {
+              "samples": 9,
+              "atTransitions": false,
+              "maxIssues": 80,
+              "collapseStatic": true,
+              "tolerance": 2,
+              "timeout": 3000,
+              "contrast": true,
+              "strict": false,
+              "snapshots": false,
+              "browserGpuMode": "auto"
+            }
+          },
+          "createdAt": 1792598096648,
+          "contentHash": "089b3d33472ecd70c66c14b33d1a25203cc947021632a40a90f5488830ef25ce",
+          "revision": "da0a5511-acfc-48d2-b2b1-8d5d341b233a",
+          "inputFingerprint": "ad05064ce07ed2640587bfc745fe3ed5606a74e5e7bb696a64e4ad05bdcfa3de",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        }
+      ],
+      "bc8d64aa-f548-4322-b3c9-d76c873e5537": [
+        {
+          "id": "c4d151fe-f8a1-4d07-a8ef-c1ade3c8624c",
+          "scope": "project",
+          "metadata": {
+            "ok": true,
+            "browserSkipped": false,
+            "options": {
+              "samples": 9,
+              "atTransitions": false,
+              "maxIssues": 80,
+              "collapseStatic": true,
+              "tolerance": 2,
+              "timeout": 3000,
+              "contrast": true,
+              "strict": false,
+              "snapshots": false,
+              "browserGpuMode": "auto"
+            }
+          },
+          "createdAt": 1792600195893,
+          "contentHash": "089b3d33472ecd70c66c14b33d1a25203cc947021632a40a90f5488830ef25ce",
+          "revision": "bc8d64aa-f548-4322-b3c9-d76c873e5537",
+          "inputFingerprint": "d1824ce982e09acc6a08616af23acc7b9c0692656d3018a9547f493f1f770ae5",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "81b84242-cefc-48d4-8402-9d745c5de940"
+        }
+      ]
+    },
+    "unversioned": [
+      {
+        "id": "a5762e36-b229-41f5-b39b-dca75ef96264",
+        "scope": "project",
+        "report": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\checks\\a5762e36-b229-41f5-b39b-dca75ef96264.json",
+        "metadata": {
+          "ok": true,
+          "browserSkipped": false,
+          "options": {
+            "samples": 9,
+            "atTransitions": false,
+            "maxIssues": 80,
+            "collapseStatic": true,
+            "tolerance": 2,
+            "timeout": 3000,
+            "contrast": true,
+            "strict": false,
+            "snapshots": false,
+            "browserGpuMode": "auto"
+          }
+        },
+        "createdAt": 1792600341620,
+        "contentHash": "11b8d5267742655d1bdd2d21f5dfd957c72f520789cbf6fccc5021c507b8b1e9",
+        "revision": null,
+        "inputFingerprint": "1c5fa8a776596eb79eb3904b43c239b709502bfc878b97ffc894f7e79186b226",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      }
+    ]
+  },
+  "snapshots": {
+    "latest": {
+      "revision": "4fd1695f-6958-4577-a597-9c8ec061f14c",
+      "id": "37cee320-599a-4b0e-b55f-133c97050c4f-9"
+    },
+    "revisions": {
+      "eb7dc231-c690-4f46-81fa-fc2fb38fc975": [
+        {
+          "id": "961fa0bf-474b-4441-833f-d63fa2d0082e-0",
+          "scope": "full",
+          "time": 1.861,
+          "metadata": {
+            "checkId": "961fa0bf-474b-4441-833f-d63fa2d0082e",
+            "width": 1920,
+            "height": 1080
+          },
+          "createdAt": 1792586356789,
+          "contentHash": "6b79fdf6a4d1a29011d4d06affa1357712aa4ae7a9a567e73ab02a3dde538c0e",
+          "revision": "eb7dc231-c690-4f46-81fa-fc2fb38fc975",
+          "inputFingerprint": "e99e869a54dcbe10295b956683afbd4877a2be353e027dce01a44bcbf007add5",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "a3523e18-84e6-466f-abaa-36174ae81aa1"
+        },
+        {
+          "id": "961fa0bf-474b-4441-833f-d63fa2d0082e-1",
+          "scope": "full",
+          "time": 9.306,
+          "metadata": {
+            "checkId": "961fa0bf-474b-4441-833f-d63fa2d0082e",
+            "width": 1920,
+            "height": 1080
+          },
+          "createdAt": 1792586356789,
+          "contentHash": "7ec3f14bb5e107e32e66e2dfee21bd18e28a5e020e219acb785931fdc2dccd3f",
+          "revision": "eb7dc231-c690-4f46-81fa-fc2fb38fc975",
+          "inputFingerprint": "e99e869a54dcbe10295b956683afbd4877a2be353e027dce01a44bcbf007add5",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "a3523e18-84e6-466f-abaa-36174ae81aa1"
+        },
+        {
+          "id": "961fa0bf-474b-4441-833f-d63fa2d0082e-2",
+          "scope": "full",
+          "time": 16.75,
+          "metadata": {
+            "checkId": "961fa0bf-474b-4441-833f-d63fa2d0082e",
+            "width": 1920,
+            "height": 1080
+          },
+          "createdAt": 1792586356789,
+          "contentHash": "fb90775f68ae69e29a3650a990216234fc6d38d941f9ba24959020e44244057d",
+          "revision": "eb7dc231-c690-4f46-81fa-fc2fb38fc975",
+          "inputFingerprint": "e99e869a54dcbe10295b956683afbd4877a2be353e027dce01a44bcbf007add5",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "a3523e18-84e6-466f-abaa-36174ae81aa1"
+        },
+        {
+          "id": "961fa0bf-474b-4441-833f-d63fa2d0082e-3",
+          "scope": "full",
+          "time": 24.194,
+          "metadata": {
+            "checkId": "961fa0bf-474b-4441-833f-d63fa2d0082e",
+            "width": 1920,
+            "height": 1080
+          },
+          "createdAt": 1792586356789,
+          "contentHash": "32a95ad9f639a069f73a2f19b475a462ea6f264cca9628370f65f91fa69e2b19",
+          "revision": "eb7dc231-c690-4f46-81fa-fc2fb38fc975",
+          "inputFingerprint": "e99e869a54dcbe10295b956683afbd4877a2be353e027dce01a44bcbf007add5",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "a3523e18-84e6-466f-abaa-36174ae81aa1"
+        },
+        {
+          "id": "961fa0bf-474b-4441-833f-d63fa2d0082e-4",
+          "scope": "full",
+          "time": 31.639,
+          "metadata": {
+            "checkId": "961fa0bf-474b-4441-833f-d63fa2d0082e",
+            "width": 1920,
+            "height": 1080
+          },
+          "createdAt": 1792586356790,
+          "contentHash": "bec83df6abac510ab5dd0898db7e81e66aeee4398e3ac5a068f205c572c21688",
+          "revision": "eb7dc231-c690-4f46-81fa-fc2fb38fc975",
+          "inputFingerprint": "e99e869a54dcbe10295b956683afbd4877a2be353e027dce01a44bcbf007add5",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "a3523e18-84e6-466f-abaa-36174ae81aa1"
+        }
+      ],
+      "9d5d8d97-60e2-4b8a-be36-23113aac7700": [
+        {
+          "id": "e8d79536-48fd-410d-ab1f-7b7971d77cf3-0",
+          "scope": "full",
+          "time": 1.861,
+          "metadata": {
+            "checkId": "e8d79536-48fd-410d-ab1f-7b7971d77cf3",
+            "width": 1920,
+            "height": 1080
+          },
+          "createdAt": 1792586468427,
+          "contentHash": "6b79fdf6a4d1a29011d4d06affa1357712aa4ae7a9a567e73ab02a3dde538c0e",
+          "revision": "9d5d8d97-60e2-4b8a-be36-23113aac7700",
+          "inputFingerprint": "a5206a32c8687a1193b619059a07a93baac9b57bf47ad3c66462c0484a5cd86a",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "a3523e18-84e6-466f-abaa-36174ae81aa1"
+        },
+        {
+          "id": "e8d79536-48fd-410d-ab1f-7b7971d77cf3-1",
+          "scope": "full",
+          "time": 9.306,
+          "metadata": {
+            "checkId": "e8d79536-48fd-410d-ab1f-7b7971d77cf3",
+            "width": 1920,
+            "height": 1080
+          },
+          "createdAt": 1792586468427,
+          "contentHash": "ea5ebbde55dfbc18ba99bb26d88d256598a3241c12a0350679d002528d452bda",
+          "revision": "9d5d8d97-60e2-4b8a-be36-23113aac7700",
+          "inputFingerprint": "a5206a32c8687a1193b619059a07a93baac9b57bf47ad3c66462c0484a5cd86a",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "a3523e18-84e6-466f-abaa-36174ae81aa1"
+        },
+        {
+          "id": "e8d79536-48fd-410d-ab1f-7b7971d77cf3-2",
+          "scope": "full",
+          "time": 16.75,
+          "metadata": {
+            "checkId": "e8d79536-48fd-410d-ab1f-7b7971d77cf3",
+            "width": 1920,
+            "height": 1080
+          },
+          "createdAt": 1792586468427,
+          "contentHash": "8014f10bc98054178b9d681ccc9ea11ce4e341a1a7113d90414dd6fded63f309",
+          "revision": "9d5d8d97-60e2-4b8a-be36-23113aac7700",
+          "inputFingerprint": "a5206a32c8687a1193b619059a07a93baac9b57bf47ad3c66462c0484a5cd86a",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "a3523e18-84e6-466f-abaa-36174ae81aa1"
+        },
+        {
+          "id": "e8d79536-48fd-410d-ab1f-7b7971d77cf3-3",
+          "scope": "full",
+          "time": 24.194,
+          "metadata": {
+            "checkId": "e8d79536-48fd-410d-ab1f-7b7971d77cf3",
+            "width": 1920,
+            "height": 1080
+          },
+          "createdAt": 1792586468428,
+          "contentHash": "5b3ffa90e30cd2370f218062a6a55d8a17d5fc6a7fe798098a60aaaa85a3b858",
+          "revision": "9d5d8d97-60e2-4b8a-be36-23113aac7700",
+          "inputFingerprint": "a5206a32c8687a1193b619059a07a93baac9b57bf47ad3c66462c0484a5cd86a",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "a3523e18-84e6-466f-abaa-36174ae81aa1"
+        },
+        {
+          "id": "e8d79536-48fd-410d-ab1f-7b7971d77cf3-4",
+          "scope": "full",
+          "time": 31.639,
+          "metadata": {
+            "checkId": "e8d79536-48fd-410d-ab1f-7b7971d77cf3",
+            "width": 1920,
+            "height": 1080
+          },
+          "createdAt": 1792586468428,
+          "contentHash": "bec83df6abac510ab5dd0898db7e81e66aeee4398e3ac5a068f205c572c21688",
+          "revision": "9d5d8d97-60e2-4b8a-be36-23113aac7700",
+          "inputFingerprint": "a5206a32c8687a1193b619059a07a93baac9b57bf47ad3c66462c0484a5cd86a",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "a3523e18-84e6-466f-abaa-36174ae81aa1"
+        },
+        {
+          "scope": "full",
+          "id": "d7b1d7da-2154-4519-822a-861bac8ddcf2-0",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\work\\midpoints\\frame-00-at-2s.png",
+          "time": 2,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792586514153,
+          "contentHash": "df7c49dc24c1f62c78552ab7abdd695fad43dafe7dc268bac8ed111386af24d0",
+          "revision": "9d5d8d97-60e2-4b8a-be36-23113aac7700",
+          "inputFingerprint": "a5206a32c8687a1193b619059a07a93baac9b57bf47ad3c66462c0484a5cd86a",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "d7b1d7da-2154-4519-822a-861bac8ddcf2-1",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\work\\midpoints\\frame-01-at-5.8s.png",
+          "time": 5.8,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792586514154,
+          "contentHash": "bae4239704fbe3efe9ece6339f1407efafa2a5a784a1369f7316de0da8b5e562",
+          "revision": "9d5d8d97-60e2-4b8a-be36-23113aac7700",
+          "inputFingerprint": "a5206a32c8687a1193b619059a07a93baac9b57bf47ad3c66462c0484a5cd86a",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "d7b1d7da-2154-4519-822a-861bac8ddcf2-2",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\work\\midpoints\\frame-02-at-8.2s.png",
+          "time": 8.2,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792586514154,
+          "contentHash": "3d6c22f0a22e0241ab1d8d5ba324ada366c08e62116d77127a9ecd785a74ea0b",
+          "revision": "9d5d8d97-60e2-4b8a-be36-23113aac7700",
+          "inputFingerprint": "a5206a32c8687a1193b619059a07a93baac9b57bf47ad3c66462c0484a5cd86a",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "d7b1d7da-2154-4519-822a-861bac8ddcf2-3",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\work\\midpoints\\frame-03-at-10.6s.png",
+          "time": 10.6,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792586514154,
+          "contentHash": "b1fe4778566c6ebb52536b7e9f5fb060a83c4239fb095a7409c997bf231776b7",
+          "revision": "9d5d8d97-60e2-4b8a-be36-23113aac7700",
+          "inputFingerprint": "a5206a32c8687a1193b619059a07a93baac9b57bf47ad3c66462c0484a5cd86a",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "d7b1d7da-2154-4519-822a-861bac8ddcf2-4",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\work\\midpoints\\frame-04-at-14.2s.png",
+          "time": 14.2,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792586514155,
+          "contentHash": "243ae5d6b97b7b93859514cc401cd270923e7c31ebaeeed409efd78acfb4c1ff",
+          "revision": "9d5d8d97-60e2-4b8a-be36-23113aac7700",
+          "inputFingerprint": "a5206a32c8687a1193b619059a07a93baac9b57bf47ad3c66462c0484a5cd86a",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "d7b1d7da-2154-4519-822a-861bac8ddcf2-5",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\work\\midpoints\\frame-05-at-18.1s.png",
+          "time": 18.1,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792586514155,
+          "contentHash": "c449bef468ed192cb61f1383883a88f812b945126b91e482ed7cbfb7575742d3",
+          "revision": "9d5d8d97-60e2-4b8a-be36-23113aac7700",
+          "inputFingerprint": "a5206a32c8687a1193b619059a07a93baac9b57bf47ad3c66462c0484a5cd86a",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "d7b1d7da-2154-4519-822a-861bac8ddcf2-6",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\work\\midpoints\\frame-06-at-21.6s.png",
+          "time": 21.6,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792586514156,
+          "contentHash": "640fa488600daa72a1e62bb73b1e73e4eb36430754f74d3af01d841a4ff0798e",
+          "revision": "9d5d8d97-60e2-4b8a-be36-23113aac7700",
+          "inputFingerprint": "a5206a32c8687a1193b619059a07a93baac9b57bf47ad3c66462c0484a5cd86a",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "d7b1d7da-2154-4519-822a-861bac8ddcf2-7",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\work\\midpoints\\frame-07-at-24.5s.png",
+          "time": 24.5,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792586514156,
+          "contentHash": "146c1a12941a1f76079c6f0fef5eaaeb78cd379ee30ce87821fc13ee40c28ea5",
+          "revision": "9d5d8d97-60e2-4b8a-be36-23113aac7700",
+          "inputFingerprint": "a5206a32c8687a1193b619059a07a93baac9b57bf47ad3c66462c0484a5cd86a",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "d7b1d7da-2154-4519-822a-861bac8ddcf2-8",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\work\\midpoints\\frame-08-at-26.9s.png",
+          "time": 26.9,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792586514156,
+          "contentHash": "3563c52fad6dc8a4f2fb1abad6ab775451e7bd1901d70ac387ba7d3846626c58",
+          "revision": "9d5d8d97-60e2-4b8a-be36-23113aac7700",
+          "inputFingerprint": "a5206a32c8687a1193b619059a07a93baac9b57bf47ad3c66462c0484a5cd86a",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "d7b1d7da-2154-4519-822a-861bac8ddcf2-9",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\work\\midpoints\\frame-09-at-31s.png",
+          "time": 31,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792586514157,
+          "contentHash": "bec83df6abac510ab5dd0898db7e81e66aeee4398e3ac5a068f205c572c21688",
+          "revision": "9d5d8d97-60e2-4b8a-be36-23113aac7700",
+          "inputFingerprint": "a5206a32c8687a1193b619059a07a93baac9b57bf47ad3c66462c0484a5cd86a",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "d7b1d7da-2154-4519-822a-861bac8ddcf2-10",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\work\\midpoints\\frame-10-at-32.495s.png",
+          "time": 32.495,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792586514157,
+          "contentHash": "bec83df6abac510ab5dd0898db7e81e66aeee4398e3ac5a068f205c572c21688",
+          "revision": "9d5d8d97-60e2-4b8a-be36-23113aac7700",
+          "inputFingerprint": "a5206a32c8687a1193b619059a07a93baac9b57bf47ad3c66462c0484a5cd86a",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        }
+      ],
+      "da0a5511-acfc-48d2-b2b1-8d5d341b233a": [
+        {
+          "scope": "full",
+          "id": "93c14259-93dd-4dda-92ae-3c0d733e9b84-0",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\snapshots\\452c2915-8d1d-40ba-a0ab-84aebdd736ca\\frame-00-at-1.25s.png",
+          "time": 1.25,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": true
+          },
+          "createdAt": 1792598111636,
+          "contentHash": "fea3e1386e7eced0712ea37a22c2bbe8df5609c8b8dc33a6cfed05a579735d67",
+          "revision": "da0a5511-acfc-48d2-b2b1-8d5d341b233a",
+          "inputFingerprint": "ad05064ce07ed2640587bfc745fe3ed5606a74e5e7bb696a64e4ad05bdcfa3de",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "93c14259-93dd-4dda-92ae-3c0d733e9b84-1",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\snapshots\\452c2915-8d1d-40ba-a0ab-84aebdd736ca\\frame-01-at-2.4s.png",
+          "time": 2.4,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": true
+          },
+          "createdAt": 1792598111636,
+          "contentHash": "fea3e1386e7eced0712ea37a22c2bbe8df5609c8b8dc33a6cfed05a579735d67",
+          "revision": "da0a5511-acfc-48d2-b2b1-8d5d341b233a",
+          "inputFingerprint": "ad05064ce07ed2640587bfc745fe3ed5606a74e5e7bb696a64e4ad05bdcfa3de",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "6d2cef3c-471f-499e-8166-34f1a6446137-0",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\snapshots\\f9678640-6573-4822-8481-b56457597846\\frame-00-at-1.25s.png",
+          "time": 1.25,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792598138050,
+          "contentHash": "fea3e1386e7eced0712ea37a22c2bbe8df5609c8b8dc33a6cfed05a579735d67",
+          "revision": "da0a5511-acfc-48d2-b2b1-8d5d341b233a",
+          "inputFingerprint": "ad05064ce07ed2640587bfc745fe3ed5606a74e5e7bb696a64e4ad05bdcfa3de",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "6d2cef3c-471f-499e-8166-34f1a6446137-1",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\snapshots\\f9678640-6573-4822-8481-b56457597846\\frame-01-at-2.4s.png",
+          "time": 2.4,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792598138050,
+          "contentHash": "fea3e1386e7eced0712ea37a22c2bbe8df5609c8b8dc33a6cfed05a579735d67",
+          "revision": "da0a5511-acfc-48d2-b2b1-8d5d341b233a",
+          "inputFingerprint": "ad05064ce07ed2640587bfc745fe3ed5606a74e5e7bb696a64e4ad05bdcfa3de",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "6d2cef3c-471f-499e-8166-34f1a6446137-2",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\snapshots\\f9678640-6573-4822-8481-b56457597846\\frame-02-at-2.6s.png",
+          "time": 2.6,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792598138051,
+          "contentHash": "57d0f5fc1df80d8b9aef543edecdf56aa870678a00ff6c37091beb8be2469a55",
+          "revision": "da0a5511-acfc-48d2-b2b1-8d5d341b233a",
+          "inputFingerprint": "ad05064ce07ed2640587bfc745fe3ed5606a74e5e7bb696a64e4ad05bdcfa3de",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "6d2cef3c-471f-499e-8166-34f1a6446137-3",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\snapshots\\f9678640-6573-4822-8481-b56457597846\\frame-03-at-6.4s.png",
+          "time": 6.4,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792598138051,
+          "contentHash": "4876859eaf383b9342e36c06108aaebc465ba715c4abd86c957b0044152915b0",
+          "revision": "da0a5511-acfc-48d2-b2b1-8d5d341b233a",
+          "inputFingerprint": "ad05064ce07ed2640587bfc745fe3ed5606a74e5e7bb696a64e4ad05bdcfa3de",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "6d2cef3c-471f-499e-8166-34f1a6446137-4",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\snapshots\\f9678640-6573-4822-8481-b56457597846\\frame-04-at-17.2s.png",
+          "time": 17.2,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792598138052,
+          "contentHash": "0c183a2f1200253b0309876674ced7907ce44886cee92f85c03b41097bb97cbd",
+          "revision": "da0a5511-acfc-48d2-b2b1-8d5d341b233a",
+          "inputFingerprint": "ad05064ce07ed2640587bfc745fe3ed5606a74e5e7bb696a64e4ad05bdcfa3de",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "6d2cef3c-471f-499e-8166-34f1a6446137-5",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\snapshots\\f9678640-6573-4822-8481-b56457597846\\frame-05-at-33.627s.png",
+          "time": 33.627,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792598138052,
+          "contentHash": "bec83df6abac510ab5dd0898db7e81e66aeee4398e3ac5a068f205c572c21688",
+          "revision": "da0a5511-acfc-48d2-b2b1-8d5d341b233a",
+          "inputFingerprint": "ad05064ce07ed2640587bfc745fe3ed5606a74e5e7bb696a64e4ad05bdcfa3de",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        }
+      ],
+      "4fd1695f-6958-4577-a597-9c8ec061f14c": [
+        {
+          "scope": "full",
+          "id": "37cee320-599a-4b0e-b55f-133c97050c4f-0",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\snapshots\\e2d0155d-00e7-4ef4-b0ce-7b1ff3414506\\frame-00-at-0.9s.png",
+          "time": 0.9,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792600355819,
+          "contentHash": "fea3e1386e7eced0712ea37a22c2bbe8df5609c8b8dc33a6cfed05a579735d67",
+          "revision": "4fd1695f-6958-4577-a597-9c8ec061f14c",
+          "inputFingerprint": "1c5fa8a776596eb79eb3904b43c239b709502bfc878b97ffc894f7e79186b226",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "37cee320-599a-4b0e-b55f-133c97050c4f-1",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\snapshots\\e2d0155d-00e7-4ef4-b0ce-7b1ff3414506\\frame-01-at-3.5s.png",
+          "time": 3.5,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792600355820,
+          "contentHash": "c0b1ff2268ea8f7770f4a687a6e9985164e869fbd832d35c0bf0f0d222b6758a",
+          "revision": "4fd1695f-6958-4577-a597-9c8ec061f14c",
+          "inputFingerprint": "1c5fa8a776596eb79eb3904b43c239b709502bfc878b97ffc894f7e79186b226",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "37cee320-599a-4b0e-b55f-133c97050c4f-2",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\snapshots\\e2d0155d-00e7-4ef4-b0ce-7b1ff3414506\\frame-02-at-7.5s.png",
+          "time": 7.5,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792600355820,
+          "contentHash": "20215d1dc23eb13990d1f8613306d5079e4358cf85cf12fb093e9c11b4b6816a",
+          "revision": "4fd1695f-6958-4577-a597-9c8ec061f14c",
+          "inputFingerprint": "1c5fa8a776596eb79eb3904b43c239b709502bfc878b97ffc894f7e79186b226",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "37cee320-599a-4b0e-b55f-133c97050c4f-3",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\snapshots\\e2d0155d-00e7-4ef4-b0ce-7b1ff3414506\\frame-03-at-11s.png",
+          "time": 11,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792600355821,
+          "contentHash": "3d477fe4a83dea0d76c6af5c2bacc044195e28020bed9ba7952723691c83a7f9",
+          "revision": "4fd1695f-6958-4577-a597-9c8ec061f14c",
+          "inputFingerprint": "1c5fa8a776596eb79eb3904b43c239b709502bfc878b97ffc894f7e79186b226",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "37cee320-599a-4b0e-b55f-133c97050c4f-4",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\snapshots\\e2d0155d-00e7-4ef4-b0ce-7b1ff3414506\\frame-04-at-14s.png",
+          "time": 14,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792600355821,
+          "contentHash": "8e777e3292ebf72af1a12216726a9c0152c9e07ba917e904d9761c6b8fe29199",
+          "revision": "4fd1695f-6958-4577-a597-9c8ec061f14c",
+          "inputFingerprint": "1c5fa8a776596eb79eb3904b43c239b709502bfc878b97ffc894f7e79186b226",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "37cee320-599a-4b0e-b55f-133c97050c4f-5",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\snapshots\\e2d0155d-00e7-4ef4-b0ce-7b1ff3414506\\frame-05-at-17.2s.png",
+          "time": 17.2,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792600355822,
+          "contentHash": "947684bb4e4a6d18b616bf65625058c149ea57294901967d0b0ff61bbd398c52",
+          "revision": "4fd1695f-6958-4577-a597-9c8ec061f14c",
+          "inputFingerprint": "1c5fa8a776596eb79eb3904b43c239b709502bfc878b97ffc894f7e79186b226",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "37cee320-599a-4b0e-b55f-133c97050c4f-6",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\snapshots\\e2d0155d-00e7-4ef4-b0ce-7b1ff3414506\\frame-06-at-20.7s.png",
+          "time": 20.7,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792600355823,
+          "contentHash": "1d99ccf9e49f1298ff7c90de52d2d542606d0b0a567638136ff260f078830920",
+          "revision": "4fd1695f-6958-4577-a597-9c8ec061f14c",
+          "inputFingerprint": "1c5fa8a776596eb79eb3904b43c239b709502bfc878b97ffc894f7e79186b226",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "37cee320-599a-4b0e-b55f-133c97050c4f-7",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\snapshots\\e2d0155d-00e7-4ef4-b0ce-7b1ff3414506\\frame-07-at-23.5s.png",
+          "time": 23.5,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792600355823,
+          "contentHash": "03d316a59244d3f8358075ce458db561078c1a63bdd2f8b693d70f1137a79bdc",
+          "revision": "4fd1695f-6958-4577-a597-9c8ec061f14c",
+          "inputFingerprint": "1c5fa8a776596eb79eb3904b43c239b709502bfc878b97ffc894f7e79186b226",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "37cee320-599a-4b0e-b55f-133c97050c4f-8",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\snapshots\\e2d0155d-00e7-4ef4-b0ce-7b1ff3414506\\frame-08-at-27.3s.png",
+          "time": 27.3,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792600355824,
+          "contentHash": "be48a20d29cd5fb4404aab75c7574a61c9ba23cc42312a8b2617c18dbbd64220",
+          "revision": "4fd1695f-6958-4577-a597-9c8ec061f14c",
+          "inputFingerprint": "1c5fa8a776596eb79eb3904b43c239b709502bfc878b97ffc894f7e79186b226",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "37cee320-599a-4b0e-b55f-133c97050c4f-9",
+          "image": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\film\\.hyperframes\\artifacts\\snapshots\\e2d0155d-00e7-4ef4-b0ce-7b1ff3414506\\frame-09-at-29.1s.png",
+          "time": 29.1,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1792600355824,
+          "contentHash": "be48a20d29cd5fb4404aab75c7574a61c9ba23cc42312a8b2617c18dbbd64220",
+          "revision": "4fd1695f-6958-4577-a597-9c8ec061f14c",
+          "inputFingerprint": "1c5fa8a776596eb79eb3904b43c239b709502bfc878b97ffc894f7e79186b226",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        }
+      ]
+    },
+    "unversioned": []
+  },
+  "renders": {
+    "latest": {
+      "id": "81b84242-cefc-48d4-8402-9d745c5de940",
+      "completedAt": 1792600537718,
+      "output": "E:\\OpenAI-Codex\\天皇のcodex\\4A354818_多色套装方案_v2_20261020\\试剪_20261021\\4A_354818_v4_精简优化_30秒.mp4",
+      "status": "completed",
+      "revision": "4fd1695f-6958-4577-a597-9c8ec061f14c"
+    },
+    "retainedRevisions": [
+      "4fd1695f-6958-4577-a597-9c8ec061f14c",
+      "da0a5511-acfc-48d2-b2b1-8d5d341b233a"
+    ]
+  },
+  "pendingArtifactCleanup": []
+}

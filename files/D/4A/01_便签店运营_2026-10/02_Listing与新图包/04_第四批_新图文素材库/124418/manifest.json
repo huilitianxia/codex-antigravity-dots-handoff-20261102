@@ -1,0 +1,226 @@
+{
+  "sku": "4A 124418",
+  "asin": "B07F2CWVQ7",
+  "spec": "1/2 × 1 3/4 in · 16 colors · 16 pads × 50 sheets · 800 sheets",
+  "checked_at": "2026-10-30 Asia/Shanghai",
+  "catalog_url": "https://www.amazon.com/dp/B07F2CWVQ7",
+  "catalog_evidence": "../_核验依据/Amazon_catalog_20261030.json",
+  "catalog_correction": "属于纸质页签，不是601薄膜旗标。16色包含深色、白色及金色，不能写8霓虹+8马卡龙固定分类；不采用半透明不遮字、瞬干、薄纸无损、2400张承诺。",
+  "workbook_source": {
+    "file": "C:/Users/24243/Documents/Codex/2026-08-11/7-30-slack-plugin-slack-openai/4A_Amazon_Operations/source_workbooks/亚马逊供应商和开店总表-2026 (1).xlsx",
+    "sheet": "Sheet1",
+    "identity": "A2:G2",
+    "note": "包装公制12×44mm与标称英制换算存在取整差异；本批仅用产品标称英制。"
+  },
+  "reference_files": [
+    {
+      "original": "E:/Desktop/待上架_新图文素材库_第四批/_核验依据/B07F2CWVQ7_Amazon_main.jpg",
+      "copy": "原图参考/01_B07F2CWVQ7_Amazon_main.jpg",
+      "sha256": "556576936904f60e494e15579e570c7e9c1819525d77365e685a522f4bd5725a"
+    },
+    {
+      "original": "D:/4A/印刷用图片/电商/亚马逊图片-2021/1-----4A Stiky notes/4A 124418/702877124819.pt01.jpg",
+      "copy": "原图参考/02_702877124819.pt01.jpg",
+      "sha256": "321c4667dd85cca6a237a7d88a74288ed2c4b35fe38acaf1c286a4f62a2ce799"
+    }
+  ],
+  "images": [
+    {
+      "id": "124418_01",
+      "title": "主图｜16色纸质页签",
+      "type": "main",
+      "order": 1,
+      "sku": "4A 124418",
+      "asin": "B07F2CWVQ7",
+      "file": "交付候选_2000px/124418_01.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-c8bbca68-896e-40ed-b2cb-885302c7128d.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/124418_01.png",
+      "resize_method": "透明生成源图按alpha裁切，Lanczos3等比缩放，居中合成RGB255白底",
+      "reference_files": [
+        "原图参考/01_B07F2CWVQ7_Amazon_main.jpg",
+        "原图参考/02_702877124819.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "两列各八条，共16本；保留黑/金/白等实际色系；无透明塑料效果。",
+      "remaining_checks": "实际色值、各条厚度、 backing card结构和精确模切仍需核样。",
+      "technical": {
+        "background_rgb": [
+          255,
+          255,
+          255
+        ],
+        "border60_checked": 465600,
+        "border60_white": 465600,
+        "white_background_pass": true,
+        "safety_margins_including_shadow": [
+          61,
+          105,
+          61,
+          105
+        ],
+        "margin_pass": true,
+        "product_bbox_alpha230": {
+          "left": 160,
+          "top": 139,
+          "width": 1779,
+          "height": 1730
+        },
+        "product_longest_span_percent": 88.95,
+        "occupancy_pass": true,
+        "occupancy_definition": "alpha>230实体近似外接框最长边/2000；不是画幅面积占比。"
+      },
+      "sha256": "fc668a9c2dcc977cb07853b74c26d806dad8654fc8f02bf3d73957bdfdf51b9c"
+    },
+    {
+      "id": "124418_02",
+      "title": "条签尺寸及16色",
+      "type": "secondary",
+      "order": 2,
+      "sku": "4A 124418",
+      "asin": "B07F2CWVQ7",
+      "file": "交付候选_2000px/124418_02.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:/Desktop/待上架_新图文素材库_第四批/124418/生成源图/124418_02_exact.svg",
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "source_copy": "生成源图/124418_02_exact.svg",
+      "resize_method": "原生2000×2000 SVG规格图；纸面按精确比例绘制后渲染PNG",
+      "reference_files": [
+        "原图参考/01_B07F2CWVQ7_Amazon_main.jpg",
+        "原图参考/02_702877124819.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "SVG按1.75:0.5=3.5:1绘制单条，16×50=800；颜色为参考示意。",
+      "remaining_checks": "不宣称精确Pantone或8+8分类；包装公制值有取整差异，本批仅标英制。",
+      "technical": {
+        "single_tab_px": [
+          700,
+          200
+        ],
+        "tab_inches": [
+          1.75,
+          0.5
+        ],
+        "aspect_ratio": 3.5,
+        "total_sheets": 800
+      },
+      "sha256": "73427bcfe0806ad434f5bd9749d1bacec8e73ad47d2103b70fcaf7e8eb18be06"
+    },
+    {
+      "id": "124418_03",
+      "title": "手写签字提示",
+      "type": "secondary",
+      "order": 3,
+      "sku": "4A 124418",
+      "asin": "B07F2CWVQ7",
+      "file": "交付候选_2000px/124418_03.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-f20657c9-2dfb-4e6f-af81-8806b9c6d730.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/124418_03.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07F2CWVQ7_Amazon_main.jpg",
+        "原图参考/02_702877124819.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "不透明纸签放在文档空白边缘，Sign here是手写使用示例，非预印。",
+      "remaining_checks": "没有半透明不遮字或瞬干保证；书写工具适配需实物确认。",
+      "technical": {},
+      "sha256": "b15c11225d628b891261e267dbe14766f2f927084f71ad787a2269a95a4ae32c"
+    },
+    {
+      "id": "124418_04",
+      "title": "文件及学习索引",
+      "type": "secondary",
+      "order": 4,
+      "sku": "4A 124418",
+      "asin": "B07F2CWVQ7",
+      "file": "交付候选_2000px/124418_04.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-de1098d7-9648-4fca-bb7d-893afa5d3192.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/124418_04.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07F2CWVQ7_Amazon_main.jpg",
+        "原图参考/02_702877124819.pt01.jpg"
+      ],
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "文件页边分色索引，薄纸页签形态，无箭头/薄膜混用。",
+      "remaining_checks": "实际伸出量、粘贴位置和纸面比例须核样。",
+      "technical": {},
+      "sha256": "b70312c5fea4faa0f05d137430976d51aa4481daea339affb789b2de6f280aaf"
+    },
+    {
+      "id": "124418_05",
+      "title": "移除与重新定位",
+      "type": "secondary",
+      "order": 5,
+      "sku": "4A 124418",
+      "asin": "B07F2CWVQ7",
+      "file": "审稿待核_2000px/124418_05.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-f810f193-bc0b-4108-98ac-edc54db5636f.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "source_copy": "生成源图/124418_05.png",
+      "resize_method": "原生成图等比Lanczos3插值至2000×2000；不声称恢复真实细节",
+      "reference_files": [
+        "原图参考/01_B07F2CWVQ7_Amazon_main.jpg",
+        "原图参考/02_702877124819.pt01.jpg"
+      ],
+      "status": "needs_product_check",
+      "status_zh": "审稿待核",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "design_review": "普通笔记纸上的单条移除示意，未使用圣经/档案薄纸安全表述。",
+      "remaining_checks": "重复贴附及移除性能尚未实测，列待核稿；不能作为无残胶或不伤纸测试证据。",
+      "technical": {},
+      "sha256": "825858831c3a671a722e7c9ea607b37d1761035ed84c7d2694c943bffad43731"
+    }
+  ],
+  "global_note": "本地设计交付，不等于实物核样或Amazon上架批准。未加入缺乏证据的80 GSM承诺。原始素材保留。"
+}

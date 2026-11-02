@@ -1,0 +1,36 @@
+354818家族安全重整准备，未修改线上，未制作可立即上传的08。
+
+范围：4个既有SKU、3个既有ASIN。18本B07DJKDB63，36本B07FK6867S，72本B07MGH2KWS。72本FBA SKU 4A 354818*4与FBM SKU 4A GM354818*4继续共用同一ASIN。
+
+实物属性依据：
+1. C盘2026产品总表Sheet1第13行：4A354818，18色，18本，每本100张，1 3/8 x 1 7/8英寸，长边胶。G列为完整旧标题，AF列18。匹配证据family08-master-2026-evidence.json。
+2. 2026-09-03旧全商品报告（本次修改之前）已记载18、36、72本相同长边胶产品。36本旧FBA UPC702877122754；72本UPC702877121566。相同ASIN标题在10/31及11/1报告连续一致。证据family08-historical-title-evidence.json。并非依据SKU后缀猜数量。
+3. 既有买家页标题/第一五点也分别为18本1800张、36本3600张、72本7200张。这些资料支持准备既有4A规格的数量变体；不要求用户预先新补照片。若Amazon Support要求原包装证据，再从现有图片/标签材料补充。
+4. 18本卖家制造商字段为4A（USA）LIMITED。72本历史manufacturer=China不是可靠制造商值，不复制到新记录。18本当前number=100、color=8、size=48这些被污染字段不作为实物证据。
+
+买家端与卖家贡献关系：
+2026-11-01公开Amazon B01LVTWP7Q页面显示3个颜色选项：B01LVTWP7Q Neon Assorted（301x12-N，短边胶12本），B07DJKDB63 Neon Assorted-18 Pads（354818长边胶18本），B01LVWFZVZ Yellow-12 Pads。公开商品页的变体链接与parentAsin为B07N1DX3D1。折叠视图仅显示2项，不能把真实家族说成仅2项。
+卖家当前四SKU贡献父为PARENT-4A-301-MINI-PADS / B0HPTS61KJ，主题COLOR/SIZE。与公开目录父不同。支持请求必须同时说明两个父层面，不能仅改seller parent就宣称买家重整成功。
+
+主题选择：COLOR/NUMBER_OF_ITEMS。
+官方10/31模板SELF_STICK_NOTE主题Dropdown Lists!K9支持该值；K17也支持NUMBER_OF_ITEMS。美国站Product variations overview明确多色商品的多件套按COLOR/NUMBER_OF_ITEMS分组，因此本组优先采用组合主题。
+拟新父SKU：PARENT-4A-354818-LONGEDGE，当前未创建。
+新父标题：4A Mini Sticky Notes, Adhesive on Long Side, 1 3/8 x 1 7/8 Inches。
+共同颜色：18 Colors Assorted。数量18/36/72。统一尺寸仅写1 3/8 x 1 7/8 in，避免把数量再次塞入尺寸或颜色。现有标题不改。Item Package Quantity暂不写，避免把销售单元内本数与外层包数混为一谈。
+
+有证据的最小序列：
+1. 保留四SKU当前ASIN、报价、库存、渠道以及关系/属性快照，保留301父其余全部成员。
+2. 准备但不发送Seller Support请求：请核实并移除这3个ASIN现有不相符的旧家族关系，保留全部ASIN/SKU/报价/FBA库存，不删除商品。18本请求同时核查公开B07N1DX3D1与卖家B0HPTS61KJ关系。
+3. 取得明确解绑确认，并用Manage Inventory及买家端复核。当前不能用空Parent SKU、Delete整条SKU或删除301父体替代此步骤。
+4. 取得独立状态后，按官方Add Products > Search / existing ASIN流程生成可用模板；创建非售卖新父，再将4既有SKU通过Partial Update挂到新父，3个ASIN形成18/36/72三款，72本双渠道不新建重复ASIN。
+5. 收回上传报告后检查父SKU、3子ASIN、4报价；普通价、企业价、促销、最低价、库存、渠道全部与前快照一致。官方关系传播24至48小时，前台未更新时不得宣称完成。
+
+挂新字段已准备于family08-attach-fields-prepared.json。它是支持确认后的字段规范，不是可上传文件。未准备解绑Delete指令；未修改或发送客服内容。
+
+美国站官方依据（页面均明确This article applies to selling in: United States）：
+https://sellercentral.amazon.com/help/hub/reference/external/GLQBFJDZ7ZDLXQW8
+Reassign a child ASIN to a new parent：先联系Selling Partner Support，说明为何现家族不适合；支持核实品牌、标题、图片，确认旧关系移除后，再加目标家族。家族主题建立后不能直接改变。
+https://sellercentral.amazon.com/help/hub/reference/external/GH3RMVV3ZDYRRQ5S
+多色多件套使用COLOR/NUMBER_OF_ITEMS，功能不同不应并为变体。
+https://sellercentral.amazon.com/gp/help/external/GEKYC26YEZX2VSHM
+新父不填价格/库存/报价；既有独立SKU通过Edit (Partial Update)加入现有家族。要求原厂多件套；本次保留旧已存在数量产品，不创建临时组合包。

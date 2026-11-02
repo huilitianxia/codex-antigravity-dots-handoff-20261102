@@ -1,0 +1,53 @@
+[
+  {
+    "key": "4012_01_v2",
+    "parent": "4012_01",
+    "refs": [
+      "E:/Desktop/待上架_新图文素材库_第四批/4012/生成源图/4012_03.png"
+    ],
+    "transparent": true,
+    "prompt": "Create a precise main-product cutout edit of image1. REMOVE every overlay word, desk, laptop, pen, plant, background. Keep ONLY the stationery contents, exactly as currently arranged and counted in image1:five pale yellow larger memo pads at back,seven slim pastel pads in row (yellow,pink,pink,blue,blue,mint,mint),four small pastel pads,two packs of flags (one4-color rectangular tab booklet,one5-color arrowflag card). Exactly18set pieces; preserve sizes and individual products with noaddedpaperpads. Reposition the full faithful group slightly tighter to fit centered in square canvas. No box or container. Modern studio softlighting, realisticfinepaperedges, restrained contact shadow, allproductedges clear. TRANSPARENTbackground with plenty edge margin. No text/logos/watermarks anywhere.",
+    "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-bf6734fe-a1a5-4aec-81f0-31f4d62a3d61.png"
+  },
+  {
+    "key": "4012_04_v2",
+    "parent": "4012_04",
+    "refs": [
+      "E:/Desktop/待上架_新图文素材库_第四批/4012/生成源图/4012_04.png"
+    ],
+    "transparent": false,
+    "prompt": "Edit ONLY the topheadline typography in image1: replace serif heading with clean bold modern SANS-SERIF Helvetica/Inter style. Keep exactheadline 'Write it down. Keep it close.' and allwords. Keep subtitle sansserif. Preserve productphotography,background,hand,writing,paper,colors,layout,everythingelseunchanged. Square.",
+    "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-f54d197a-33bc-4658-b44b-514100e766ca.png"
+  },
+  {
+    "key": "303M_03_v2",
+    "parent": "303M_03",
+    "refs": [
+      "E:/Desktop/待上架_新图文素材库_第四批/303M/生成源图/303M_03.png",
+      "E:/Desktop/待上架_新图文素材库_第四批/_核验依据/B07B7JF9LB_03.jpg"
+    ],
+    "transparent": false,
+    "prompt": "Correct image1 product details ONLY. Main left-hand pad is Magic cyclic paper. Replace the4thick colorbands on pad's visible cutedges with veryfine interleaved single-sheet colorlines, repeating blue,peach,lime,pink dozens oftimes likeactual paper edge in reference2. Edge should look finelystriped nearlyblended,not4solid layers. Keep peeledsheet and nextpinkpage. Inrightpanel ensure3adherednotes aretrue3x3SQUARE singlethin sheets (not tallrectangles):slightly widenblue,peach,pink sheets while retaininghandwriting. Keep alltitles,splitlayout,hand,board,lightingandcolorunchanged. Do not add badgesor anytext.",
+    "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-3f84c9dd-6d39-4229-80b6-d1668d1c1938.png"
+  },
+  {
+    "key": "303M_04_v2",
+    "parent": "303M_04",
+    "refs": [
+      "E:/Desktop/待上架_新图文素材库_第四批/303M/生成源图/303M_04.png"
+    ],
+    "transparent": false,
+    "prompt": "Edit image1. On theglassKanbanboard ALLSIXitems mustbe SINGLETHIN3x3squarepaper sheets adheredflat. REMOVEeverymulticolorstripalongtheleftedgeofeachboardnote. Each boardnote is ONE SOLIDCOLORpink/lime/peach/mint/lightblue/blue sheet,not thickpad. Keepallhandwritingandheadings exactly. Removeallfive thickmulticolorednotepadstacksfromforegrounddesk completely,leavingcleanwhitedesksurfacewithonlysubtlelaptopedgeandpenholder. Keeptitle,subtitle,glassboard,peoplebackground,lighting,compositionunchanged. Productinuseisthinsquaresinglepapers,withnoextracurlorfasteners.",
+    "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-e9fc8b57-6e1e-463f-a886-b2d7c00c6b5e.png"
+  },
+  {
+    "key": "303M_05_v2",
+    "parent": "303M_05",
+    "refs": [
+      "E:/Desktop/待上架_新图文素材库_第四批/303M/生成源图/303M_05.png"
+    ],
+    "transparent": false,
+    "prompt": "Edit image1 to correct paperthickness. Replace thelargecolor-stripedcube with exactly ONE SINGLETHINpink3x3squarepaper sheet lyingflatonthedesk,keepingallhandwriting intact. Removeallcoloredthicksidewalls; no padstack remains. Keepblackgelpen tip alignedtowriting,simplepencil,lightshadow,entireheadline,subtitle,andbottom '12 pads ·100 sheets per pad ·1,200 sheets' text exactly as inimage1 withproper spaces. Same squarecomposition,premiumsoftlighting and papertexture. Onlypaperthickness changes,not words.",
+    "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-195b2f43-5313-4929-9cbe-7388d485c603.png"
+  }
+]

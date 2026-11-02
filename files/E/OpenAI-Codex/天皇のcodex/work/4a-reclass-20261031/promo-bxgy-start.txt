@@ -1,0 +1,342 @@
+- navigation:
+  - button "菜单":
+  - generic: 菜单
+  - button:
+  - navigation:
+    - searchbox
+    - link:
+      - /url: /amazonsell/business
+      - generic: 我的业务
+    - button:
+      - generic: 商品
+    - link:
+      - /url: /amazonsell/listings
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/manage-products
+      - text: 管理商品
+      - button:
+    - link:
+      - /url: /pricing/health
+      - text: 管理定价
+      - button:
+    - link:
+      - /url: /product-search
+      - text: 添加商品
+      - button:
+    - link:
+      - /url: /feedback-manager/index.html
+      - text: 分析评论
+      - button:
+    - link:
+      - /url: /new-product-guidance
+      - text: 研究商品
+      - button:
+    - link:
+      - /url: /gex
+      - text: 全球开店
+      - button:
+    - link:
+      - /url: /listing/reports
+      - text: 商品报告
+      - button:
+    - button:
+      - generic: 供应链
+    - link:
+      - /url: /amazonsell/inventory
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/fba-inventory
+      - text: 管理亚马逊库存
+      - button:
+    - link:
+      - /url: /global-store
+      - text: 管理海外购
+      - button:
+    - link:
+      - /url: /seller-fulfilled-product/analytics
+      - text: 管理卖家自配送库存
+      - button:
+    - link:
+      - /url: /manage/shipments
+      - text: 管理货件
+      - button:
+    - link:
+      - /url: /fba/sendtoamazon
+      - text: Send to Amazon
+      - button:
+    - link:
+      - /url: /channel-manager
+      - text: 管理渠道目的地
+      - button:
+    - link:
+      - /url: https://supplychain.amazon.com/scp/login?utm_source=ngs_persistence_link
+      - text: 供应链控制面板
+      - button:
+    - link:
+      - /url: /reportcentral/WelcomePage
+      - text: 供应链报告
+      - button:
+    - button:
+      - generic: 订单
+    - link:
+      - /url: /amazonsell/orders
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/orders/mfn
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /amazonsell/orders/fba
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /business/manage-quotes
+      - text: 管理报价
+      - button:
+    - link:
+      - /url: /manage/returns/mfn
+      - text: 管理退货
+      - button:
+    - link:
+      - /url: /gp/chargebacks/home.html
+      - text: 管理索赔
+      - button:
+    - link:
+      - /url: /order-reports-and-feeds/reports
+      - text: 订单报告
+      - button:
+    - button:
+      - generic: 营销推广
+    - link:
+      - /url: /amazonsell/marketing
+      - text: 工作区
+    - link:
+      - /url: /promotion-central/dashboard
+      - text: 管理促销和特惠
+      - button:
+    - link:
+      - /url: /brand-analytics
+      - text: 品牌分析
+      - button:
+    - link:
+      - /url: /cm?source=ngs
+      - text: 广告控制台
+      - button:
+    - link:
+      - /url: /vine
+      - text: Vine
+      - button:
+    - button:
+      - generic: 财务人员
+    - link:
+      - /url: /amazonsell/payments
+      - text: 工作区
+    - link:
+      - /url: /manage/finance/transactions
+      - text: 管理交易
+      - button:
+    - link:
+      - /url: /managetaxes/global-transaction-reports
+      - text: 管理税费
+      - button:
+    - link:
+      - /url: /economics
+      - text: 利润分析
+      - button:
+    - link:
+      - /url: /manage/finance/reports
+      - text: 财务报告
+      - button:
+    - button:
+      - generic: 账户状况
+    - link:
+      - /url: /performance/dashboard
+      - text: 管理账户状况
+      - button:
+    - button:
+      - generic: 计划和应用程序
+    - link:
+      - /url: /recommended-programs
+      - text: 了解计划
+      - button:
+    - link:
+      - /url: /selling-partner-appstore
+      - text: 销售伙伴应用商店
+      - button:
+    - link:
+      - /url: /tsba
+      - text: 浏览服务
+      - button:
+  - link:
+    - /url: /sitemap
+    - text: 站点地图
+  - link:
+    - /url: /home?ngs_do_not_redirect_flag=1
+    - text: 传统卖家平台
+  - link "Amazon":
+    - /url: /amazonsell
+  - button "4A (USA) LIMITED 美国":
+    - generic: 4A (USA) LIMITED
+    - generic: 美国
+  - button "账户状况":
+    - generic: 账户状况
+    - generic: 存在风险
+  - textbox "搜索任何内容"
+  - button "询问卖家助手":
+    - generic: 卖家助手
+  - link "新增内容":
+    - /url: /featurereleases
+  - link "消息":
+    - /url: /messaging/inbox-v3?fi=responseNeeded&&
+  - button "帮助":
+  - button "设置":
+- navigation:
+  - button:
+  - link "管理交易":
+    - /url: /manage/finance/transactions
+    - generic: 管理交易
+  - link "卖家大学":
+    - /url: /su/learn
+    - generic: 卖家大学
+  - link "管理商品":
+    - /url: /amazonsell/manage-products
+    - generic: 管理商品
+  - link "广告控制台":
+    - /url: /cm?source=ngs
+    - generic: 广告控制台
+  - link "管理货件":
+    - /url: /manage/shipments
+    - generic: 管理货件
+  - link "商品商机探测器":
+    - /url: /new-product-guidance
+    - generic: 商品商机探测器
+  - link "品牌分析":
+    - /url: /brand-analytics
+    - generic: 品牌分析
+  - link "A+ 商品描述管理器":
+    - /url: /enhanced-content/ref=xx_ebc_favb_xx
+    - generic: A+ 商品描述管理器
+  - link "业务报告":
+    - /url: /business-reports#/dashboard
+    - generic: 业务报告
+  - link "亚马逊物流库存报告":
+    - /url: /reportcentral/WelcomePage
+    - generic: 亚马逊物流库存报告
+  - link "商品报告":
+    - /url: /listing/reports
+    - generic: 商品报告
+  - link "绩效通知":
+    - /url: /performance/notifications
+    - generic: 绩效通知
+  - link "管理账户状况":
+    - /url: /performance/dashboard
+    - generic: 管理账户状况
+  - button:
+- list
+- button "✕"
+- generic: 了解更多信息
+- main:
+  - heading "创建“买 X 赠 Y”促销" [level=1]
+  - main:
+    - generic: 
+    - generic: 第 1 步：促销详情
+    - generic: 
+    - generic: 第 2 步：购买与折扣
+    - generic: 
+    - generic: 第 3 步：促销配置
+    - generic: 
+    - generic: 第 4 步：汇总
+    - generic: 促销名称
+    - generic: 促销名称
+    - textbox "促销名称":
+      - /placeholder: 输入促销名称（最多 100 个字符）
+    - generic: 亚马逊商城
+    - generic: store_selector_label
+    - 'note "Info: 符合提交促销要求的亚马逊商城"':
+      - generic: 
+    - generic: 10 个国家/地区
+    - generic: 
+    - generic: 账户
+    - generic: label_account
+    - textbox "搜索卖家......"
+    - generic: 所选商城中没有可用的卖家。
+    - generic: 受众
+    - generic: label_audience
+    - 'note "Info: 选择符合“买 X 赠 Y”要求的目标消费群体。选择“所有买家”后，您的“买 X 赠 Y”促销活动将适用于所有亚马逊买家。 选择“Prime 买家”后，您的“买 X 赠 Y”促销活动将仅适用于 Prime 买家。"':
+      - generic: 
+    - radiogroup:
+      - radio "所有买家" [checked]
+      - generic: 所有买家
+      - generic: 所有买家
+      - radio "Prime 买家"
+      - generic: Prime 买家
+      - generic: Prime 买家
+    - generic: 促销类型
+    - generic: label_promotion_type
+    - radiogroup:
+      - radio "百分比折扣" [checked]
+      - generic: 百分比折扣
+      - generic: 百分比折扣
+      - generic: 买家在进行符合条件的购买时可享受一定比例的折扣（例如，10%）
+      - generic: 买家在进行符合条件的购买时可享受一定比例的折扣（例如，10%）
+      - radio "免费商品（原“买一赠一”）"
+      - generic: 免费商品（原“买一赠一”）
+      - generic: 免费商品（原“买一赠一”）
+      - generic: 买家进行符合条件的购买即可获赠免费商品
+      - generic: 买家进行符合条件的购买即可获赠免费商品
+      - radio "固定价格"
+      - generic: 固定价格
+      - generic: 固定价格
+      - generic: 买家支付您为符合条件的购买设置的确切商品价格 - 这是最终价格，而不是折扣金额
+      - generic: 买家支付您为符合条件的购买设置的确切商品价格 - 这是最终价格，而不是折扣金额
+    - generic: 预算(给定的总折扣 $)
+    - generic: section_budget_3p_total_discount_given
+    - 'note "Info: 当您的预算达到 80% 时，您的促销将不会在商品详情页面显示。 达到 95% 时，您的促销将被取消。 为了确保买家获得良好的体验，如果买家已处于购买流程中，我们将允许其继续完成兑换。 这意味着总支出可能超过您的预算。"':
+      - generic: 
+    - generic: 给定的总折扣（货币：$）
+    - generic: label_total_discount_given
+    - spinbutton
+    - generic: 追踪编码
+    - generic: section_tracking_id
+    - 'note "Info: 将显示在订单报告中的此促销的编号。 您可以对其进行自定义或保留默认设置。"':
+      - generic: 
+    - textbox: 百分比折扣 2026/11/01 13-2-9-566
+    - generic: 时间安排
+    - generic: section_schedule
+    - generic: 开始日期
+    - generic: 开始日期
+    - button "日历":
+      - generic: 
+    - textbox "开始日期":
+      - /placeholder: YYYY/MM/DD
+    - generic: 开始时间
+    - generic: 开始时间
+    - textbox "开始时间": 00:00:00
+    - generic: 结束日期
+    - generic: 结束日期
+    - button "日历":
+      - generic: 
+    - textbox "结束日期":
+      - /placeholder: YYYY/MM/DD
+    - generic: 结束时间
+    - generic: 结束时间
+    - textbox "结束时间": 23:59:59
+  - button "下一步":
+    - generic: 下一步
+  - button "控制面板":
+    - generic: 
+    - generic: 控制面板
+- link "站点地图":
+  - /url: /sitemap
+- link "计划政策":
+  - /url: /help/hub/reference/521
+- generic: © 1999-2026，Amazon.com, Inc. 或其附属公司
+- link "反馈":
+  - /url: "#"
+- alertdialog:
+  - heading "分步工作流程" [level=1]
+  - generic: 我们已将“买 X 赠 Y”促销的创建流程重新设计为分步式工作流程。 您需要执行的所有操作将分 4 个步骤完成。
+  - generic: 跳过
+  - button "下一步 (1/5)":
+    - generic: 下一步 (1/5)

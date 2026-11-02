@@ -1,0 +1,45 @@
+{
+  "checked_at": "2026-11-01 18:20 Asia/Shanghai",
+  "order_source": "D:/下载文件/175793876516020757.txt",
+  "complete_period": "2026-10-02 through 2026-10-30 PDT",
+  "orders_in_export": [
+    {
+      "asin": "B07K8L4K8K",
+      "sku": "4A BS 1801",
+      "date_pdt": "2026-10-21",
+      "status": "Shipped",
+      "quantity": 1,
+      "item_price_usd": 17.99
+    },
+    {
+      "asin": "B07JVSYNYV",
+      "sku": "4A BS 1801-FBA",
+      "date_pdt": "2026-10-31",
+      "status": "Cancelled",
+      "records": 2,
+      "quantity": 0
+    }
+  ],
+  "no_valid_orders_in_export": [
+    "B07JVSYNYV",
+    "B0F2TJZ8GM",
+    "B0FGJR49SW"
+  ],
+  "latest_after_export_ui_check": "delegated audit_previous_work; pending",
+  "page_relationships": {
+    "B07K8L4K8K": "Color swatches Neon Assorted / Classic Assorted / Multicolor Assorted; refill appears as recommendation and A+ link, not main choice",
+    "B07JVSYNYV": "Style selection BS1801 / BS1803 visible; no refill or bundle choice found",
+    "B0F2TJZ8GM": "Refill page: expandable Bundle with this item links to B0FGJR49SW USD25.99. Alternate Classic Assorted color button was clicked and led to PSS10 B07WHYRJ6H USD18.49, not BS1801",
+    "B0FGJR49SW": "Independent virtual bundle: main B07K8L4K8K plus refill B0F2TJZ8GM. Public price25.99 and stock1"
+  },
+  "all_three_in_single_variation_selector": false,
+  "family_changes_performed": false,
+  "evidence": [
+    "bs1801-switch-main.txt",
+    "bs1801-switch-alt.txt",
+    "bs1801-switch-refill.txt",
+    "bs1801-refill-bundle-expanded.txt",
+    "bs1801-refill-other-option.txt",
+    "bs1801-refill-bundle-entry.png"
+  ]
+}

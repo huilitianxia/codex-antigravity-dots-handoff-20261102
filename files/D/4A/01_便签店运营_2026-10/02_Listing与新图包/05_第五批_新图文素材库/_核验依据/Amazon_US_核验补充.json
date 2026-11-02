@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-31",
+  "asin": "B08DKJ2K3T",
+  "url": "https://www.amazon.com/dp/B08DKJ2K3T?language=en_US&th=1",
+  "source": "web读取Amazon美国站商品页的productOverview与feature-bullets",
+  "facts": {
+    "roll_count": 6,
+    "dispensers_included": true,
+    "width_in": 0.6,
+    "length_in_per_roll": 393,
+    "color_count": 6
+  },
+  "note": "Chrome访问美国站自动跳转日本站，另以web读取美国站核对；两站规格与本地总表一致。日本站素材仅作辅助对照。"
+}

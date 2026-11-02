@@ -1,0 +1,2856 @@
+{
+  "metadata": {
+    "generated_at": "2026-11-01T21:44:09.698632",
+    "author": "Argon Subagent (3.8 Flash Execution Worker)",
+    "execution_sop": "D:\\4A\\00_Codex交接给Gemini_20261101\\00_Argon主脑与3.8子代理执行铁律_SOP.md",
+    "data_sources": {
+      "fba_inventory": "D:\\下载文件\\284701020757.txt",
+      "all_listings": "D:\\4A\\00_Codex交接给Gemini_20261101\\05_源数据快照_按日期使用\\所有商品报告_11-01-2026.txt",
+      "october_orders": "D:\\下载文件\\175793876516020757.txt",
+      "category_listings_report": "D:\\4A\\00_Codex交接给Gemini_20261101\\05_源数据快照_按日期使用\\分类商品报告_10-31-2026.xlsm",
+      "coupon_fullscan": "D:\\4A\\00_Codex交接给Gemini_20261101\\03_验收与待办证据\\coupon-fullscan-parsed.json",
+      "active_coupon_15": "D:\\4A\\00_Codex交接给Gemini_20261101\\03_验收与待办证据\\coupon15-final22-product-acceptance.json",
+      "active_coupon_5": "D:\\4A\\00_Codex交接给Gemini_20261101\\03_验收与待办证据\\coupon5-final12-live-acceptance.json",
+      "master_pricing_sheet": "D:\\4A\\01_便签店运营_2026-10\\01_官方上传表格_核心在用\\【官方定价基准_终版】亚马逊供应商和开店总表-2026(3).xlsx"
+    }
+  },
+  "executive_summary": {
+    "store_october_sales_usd": 16169.17,
+    "store_october_valid_units": 901,
+    "store_october_valid_orders": 715,
+    "fba_high_stock_count": 24,
+    "fba_high_stock_total_available_units": 4482,
+    "fba_high_stock_october_sales_usd": 11347.88,
+    "fba_high_stock_october_units": 690,
+    "mfn_high_stock_count": 72,
+    "mfn_high_stock_total_declared_units": 78533,
+    "mfn_high_stock_october_sales_usd": 145.15,
+    "mfn_high_stock_october_units": 16,
+    "cash_cow_1": {
+      "sku": "4A 303-Full Adhesive-400",
+      "asin": "B07QXJYTZ7",
+      "october_sales_usd": 3988.93,
+      "october_valid_units": 179,
+      "store_revenue_percentage": "24.7%",
+      "fba_available": 57,
+      "fba_fc_transfer": 10,
+      "fba_inbound": 0,
+      "daily_run_rate_units": 5.77,
+      "days_of_supply_remaining": 9.9,
+      "mfn_sibling_sku": "4A GM303-Full Adhesive-400",
+      "mfn_sibling_status": "Inactive",
+      "mfn_sibling_quantity": 0,
+      "urgency": "CRITICAL P0 STOCKOUT EMERGENCY",
+      "action_required": "1. Create urgent FBA replenishment shipment; 2. Declare 50-100 units on MFN sibling 4A GM303-Full Adhesive-400 as buffer; 3. Keep price locked at $22.99."
+    }
+  },
+  "fba_high_stock_skus": [
+    {
+      "sku": "AAAA 4A 40609",
+      "asin": "B07FKBHTDG",
+      "product_name": "4A Divider Sticky Notes Tabs 2 2/3 x 2 7/8 Inches,White,Lined Sticky Notes with Lines for Notebooks,Books,Office,School Supplies,15 Sheets/Divider,4 Dividers/Pad,120 Sheets Total,4A 40609x2",
+      "available": 612,
+      "fc_transfer": 0,
+      "total_fba_units": 612,
+      "inbound_quantity": 0,
+      "price": 10.99,
+      "units_shipped_t30": 25,
+      "october_orders": 22,
+      "october_units": 26,
+      "october_sales": 285.74,
+      "daily_run_rate": 0.84,
+      "days_of_supply": 728.6,
+      "inventory_age": {
+        "0_90_days": 614,
+        "91_180_days": 0,
+        "181_270_days": 0,
+        "271_365_days": 0,
+        "366_455_days": 0,
+        "456_plus_days": 0,
+        "aged_181_plus": 0,
+        "aged_365_plus": 0
+      },
+      "est_storage_cost_next_month": 10.13,
+      "coupon_status": "Active 5%",
+      "coupon_selectable": true,
+      "coupon_blocker_reasons": [],
+      "mfn_siblings": [
+        {
+          "sku": "4A GM40609*2",
+          "declared_quantity": "337",
+          "price": 9.99,
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "category": "Active Coupon Liquidation",
+      "urgency": "Normal / Monitor",
+      "recommended_action": "Running Active 5% coupon normally. Oct sales=26 units. Continue monitoring sell-through pace."
+    },
+    {
+      "sku": "4A 304-Full Adhesive-400",
+      "asin": "B07QXJWDPL",
+      "product_name": "4A 5 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 80 Sheets/Pad, 400 Sheets Total, 4A 304-Full Adhesive-400",
+      "available": 533,
+      "fc_transfer": 0,
+      "total_fba_units": 533,
+      "inbound_quantity": 0,
+      "price": 21.99,
+      "units_shipped_t30": 11,
+      "october_orders": 8,
+      "october_units": 10,
+      "october_sales": 211.24,
+      "daily_run_rate": 0.32,
+      "days_of_supply": 1665.6,
+      "inventory_age": {
+        "0_90_days": 365,
+        "91_180_days": 170,
+        "181_270_days": 0,
+        "271_365_days": 0,
+        "366_455_days": 0,
+        "456_plus_days": 0,
+        "aged_181_plus": 0,
+        "aged_365_plus": 0
+      },
+      "est_storage_cost_next_month": 24.86,
+      "coupon_status": "None",
+      "coupon_selectable": false,
+      "coupon_blocker_reasons": [
+        "您的商品目前不符合此优惠券的要求，因为该 ASIN 的星级评分未达到最低反馈要求。"
+      ],
+      "mfn_siblings": [
+        {
+          "sku": "4A GM304-Full Adhesive-400",
+          "declared_quantity": "0",
+          "price": 21.99,
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "category": "Blocked by Star Rating (<3.0)",
+      "urgency": "Medium / Alternative Promo",
+      "recommended_action": "Blocked from Coupons due to low review star rating. Oct sales=10 units, Available=533 units. Immediate Action: Since Coupon is unavailable, use Seller Central 'Price Discounts' (Sale Price) or B2B enterprise quantity tier discounts to stimulate volume without coupon restrictions."
+    },
+    {
+      "sku": "4A 305-Full Adhesive",
+      "asin": "B0FBG138ND",
+      "product_name": "4A 5 Pads Full Adhesive Sticky Notes 3 x 5 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Home Office School Supplies, 20 Sheets/Pad, 100 Sheets Total, 4A 305-Full Adhesive",
+      "available": 428,
+      "fc_transfer": 1,
+      "total_fba_units": 429,
+      "inbound_quantity": 0,
+      "price": 10.99,
+      "units_shipped_t30": 128,
+      "october_orders": 93,
+      "october_units": 123,
+      "october_sales": 1299.67,
+      "daily_run_rate": 3.97,
+      "days_of_supply": 107.8,
+      "inventory_age": {
+        "0_90_days": 442,
+        "91_180_days": 0,
+        "181_270_days": 0,
+        "271_365_days": 0,
+        "366_455_days": 0,
+        "456_plus_days": 0,
+        "aged_181_plus": 0,
+        "aged_365_plus": 0
+      },
+      "est_storage_cost_next_month": 4.43,
+      "coupon_status": "None",
+      "coupon_selectable": false,
+      "coupon_blocker_reasons": [
+        "您的商品目前不符合此优惠券的要求，因为该 ASIN 的星级评分未达到最低反馈要求。"
+      ],
+      "mfn_siblings": [],
+      "category": "Blocked by Star Rating (<3.0)",
+      "urgency": "Medium / Alternative Promo",
+      "recommended_action": "Blocked from Coupons due to low review star rating. Oct sales=123 units, Available=428 units. Immediate Action: Since Coupon is unavailable, use Seller Central 'Price Discounts' (Sale Price) or B2B enterprise quantity tier discounts to stimulate volume without coupon restrictions."
+    },
+    {
+      "sku": "AAAA 4A 304-Full Glue",
+      "asin": "B07FK975YB",
+      "product_name": "4A 10 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 20 Sheets/Pad, 200 Sheets Total, 4A 304-Full Gluex2",
+      "available": 372,
+      "fc_transfer": 0,
+      "total_fba_units": 372,
+      "inbound_quantity": 0,
+      "price": 12.99,
+      "units_shipped_t30": 54,
+      "october_orders": 58,
+      "october_units": 63,
+      "october_sales": 945.86,
+      "daily_run_rate": 2.03,
+      "days_of_supply": 183.3,
+      "inventory_age": {
+        "0_90_days": 378,
+        "91_180_days": 0,
+        "181_270_days": 0,
+        "271_365_days": 0,
+        "366_455_days": 0,
+        "456_plus_days": 0,
+        "aged_181_plus": 0,
+        "aged_365_plus": 0
+      },
+      "est_storage_cost_next_month": 4.2,
+      "coupon_status": "None",
+      "coupon_selectable": false,
+      "coupon_blocker_reasons": [
+        "您的商品目前不符合此优惠券的要求，因为该 ASIN 的星级评分未达到最低反馈要求。"
+      ],
+      "mfn_siblings": [],
+      "category": "Blocked by Star Rating (<3.0)",
+      "urgency": "Medium / Alternative Promo",
+      "recommended_action": "Blocked from Coupons due to low review star rating. Oct sales=63 units, Available=372 units. Immediate Action: Since Coupon is unavailable, use Seller Central 'Price Discounts' (Sale Price) or B2B enterprise quantity tier discounts to stimulate volume without coupon restrictions."
+    },
+    {
+      "sku": "4A 302-Full Adhesive-400",
+      "asin": "B0F2TKL2P5",
+      "product_name": "4A Full Adhesive Sticky Notes 3 x 2 in, Bright Colors, Colorful Small Self-Stick Note Pads for Office, School Supplies, 80 Sheets/Color, 5 Colors/Pack, 400 Sheets Total,4A 302-Full Adhesive-400",
+      "available": 340,
+      "fc_transfer": 1,
+      "total_fba_units": 341,
+      "inbound_quantity": 0,
+      "price": 17.99,
+      "units_shipped_t30": 75,
+      "october_orders": 71,
+      "october_units": 76,
+      "october_sales": 1335.27,
+      "daily_run_rate": 2.45,
+      "days_of_supply": 138.8,
+      "inventory_age": {
+        "0_90_days": 159,
+        "91_180_days": 186,
+        "181_270_days": 0,
+        "271_365_days": 0,
+        "366_455_days": 0,
+        "456_plus_days": 0,
+        "aged_181_plus": 0,
+        "aged_365_plus": 0
+      },
+      "est_storage_cost_next_month": 5.19,
+      "coupon_status": "None",
+      "coupon_selectable": false,
+      "coupon_blocker_reasons": [
+        "您的商品目前不符合此优惠券的要求，因为该 ASIN 的星级评分未达到最低反馈要求。"
+      ],
+      "mfn_siblings": [],
+      "category": "Blocked by Star Rating (<3.0)",
+      "urgency": "Medium / Alternative Promo",
+      "recommended_action": "Blocked from Coupons due to low review star rating. Oct sales=76 units, Available=340 units. Immediate Action: Since Coupon is unavailable, use Seller Central 'Price Discounts' (Sale Price) or B2B enterprise quantity tier discounts to stimulate volume without coupon restrictions."
+    },
+    {
+      "sku": "4A 304 Full Glue",
+      "asin": "B00SMEFFRE",
+      "product_name": "4A Sticky Full Adhesive Notes,4 1/3 x 3 Inches,20 Sheets/Color,5 Colors/Pack,Self-Stick Notes,100 Sheets Total,4A 304 Full Glue",
+      "available": 333,
+      "fc_transfer": 0,
+      "total_fba_units": 333,
+      "inbound_quantity": 0,
+      "price": 9.99,
+      "units_shipped_t30": 73,
+      "october_orders": 62,
+      "october_units": 68,
+      "october_sales": 673.91,
+      "daily_run_rate": 2.19,
+      "days_of_supply": 152.1,
+      "inventory_age": {
+        "0_90_days": 339,
+        "91_180_days": 0,
+        "181_270_days": 0,
+        "271_365_days": 0,
+        "366_455_days": 0,
+        "456_plus_days": 0,
+        "aged_181_plus": 0,
+        "aged_365_plus": 0
+      },
+      "est_storage_cost_next_month": 2.5,
+      "coupon_status": "None",
+      "coupon_selectable": true,
+      "coupon_blocker_reasons": [],
+      "mfn_siblings": [],
+      "category": "Selectable Quick-Win (Missing Coupon)",
+      "urgency": "HIGH / P1",
+      "recommended_action": "Eligible and selectable in Amazon Coupon backend, but currently NOT enrolled in any coupon! Oct sales=68 units, Available=333 units. Immediate Action: Enroll in 10%-15% coupon or standard price discount to accelerate cashflow."
+    },
+    {
+      "sku": "4A 5082-Y-Lx2",
+      "asin": "B0F9L5G6XQ",
+      "product_name": "4A 4 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Yellow Sticky Notes with Lines Long Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5082-Y-Lx2",
+      "available": 292,
+      "fc_transfer": 0,
+      "total_fba_units": 292,
+      "inbound_quantity": 0,
+      "price": 19.99,
+      "units_shipped_t30": 62,
+      "october_orders": 37,
+      "october_units": 68,
+      "october_sales": 1134.1,
+      "daily_run_rate": 2.19,
+      "days_of_supply": 133.3,
+      "inventory_age": {
+        "0_90_days": 301,
+        "91_180_days": 0,
+        "181_270_days": 0,
+        "271_365_days": 0,
+        "366_455_days": 0,
+        "456_plus_days": 0,
+        "aged_181_plus": 0,
+        "aged_365_plus": 0
+      },
+      "est_storage_cost_next_month": 17.95,
+      "coupon_status": "Active 5%",
+      "coupon_selectable": true,
+      "coupon_blocker_reasons": [],
+      "mfn_siblings": [],
+      "category": "Active Coupon Liquidation",
+      "urgency": "Normal / Monitor",
+      "recommended_action": "Running Active 5% coupon normally. Oct sales=68 units. Continue monitoring sell-through pace."
+    },
+    {
+      "sku": "4A 305-Full Adhesive-300",
+      "asin": "B07QXJZKHC",
+      "product_name": "4A 5 Pads Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Sticky Notes Full Adhesive Back for Home Office School Supplies, 60 Sheets/Pad, 300 Sheets Total, 4A 305-Full Adhesive-300",
+      "available": 174,
+      "fc_transfer": 8,
+      "total_fba_units": 182,
+      "inbound_quantity": 0,
+      "price": 21.99,
+      "units_shipped_t30": 11,
+      "october_orders": 9,
+      "october_units": 11,
+      "october_sales": 227.61,
+      "daily_run_rate": 0.35,
+      "days_of_supply": 497.1,
+      "inventory_age": {
+        "0_90_days": 99,
+        "91_180_days": 3,
+        "181_270_days": 83,
+        "271_365_days": 0,
+        "366_455_days": 0,
+        "456_plus_days": 0,
+        "aged_181_plus": 83,
+        "aged_365_plus": 0
+      },
+      "est_storage_cost_next_month": 3.94,
+      "coupon_status": "None",
+      "coupon_selectable": false,
+      "coupon_blocker_reasons": [
+        "您的商品目前不符合此优惠券的要求，因为该 ASIN 的星级评分未达到最低反馈要求。"
+      ],
+      "mfn_siblings": [
+        {
+          "sku": "4A GM305-Full Adhesive-300",
+          "declared_quantity": "784",
+          "price": 21.99,
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "category": "Blocked by Star Rating (<3.0)",
+      "urgency": "Medium / Alternative Promo",
+      "recommended_action": "Blocked from Coupons due to low review star rating. Oct sales=11 units, Available=174 units. Immediate Action: Since Coupon is unavailable, use Seller Central 'Price Discounts' (Sale Price) or B2B enterprise quantity tier discounts to stimulate volume without coupon restrictions."
+    },
+    {
+      "sku": "4A PSS 9-1 NYNRx2",
+      "asin": "B07QWKWWP2",
+      "product_name": "4A Full Adhesive Sticky Notes, Sticky Rolls with Dispenser and 2 Refill Rolls, Neon Yellow and Rose Red, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home,4A PSS 9-1 NYNRx2",
+      "available": 162,
+      "fc_transfer": 0,
+      "total_fba_units": 162,
+      "inbound_quantity": 0,
+      "price": 22.99,
+      "units_shipped_t30": 2,
+      "october_orders": 2,
+      "october_units": 2,
+      "october_sales": 45.98,
+      "daily_run_rate": 0.06,
+      "days_of_supply": 2700.0,
+      "inventory_age": {
+        "0_90_days": 0,
+        "91_180_days": 0,
+        "181_270_days": 163,
+        "271_365_days": 0,
+        "366_455_days": 0,
+        "456_plus_days": 0,
+        "aged_181_plus": 163,
+        "aged_365_plus": 0
+      },
+      "est_storage_cost_next_month": 14.66,
+      "coupon_status": "Active 15%",
+      "coupon_selectable": true,
+      "coupon_blocker_reasons": [],
+      "mfn_siblings": [
+        {
+          "sku": "4A GM-PSS 9-1 NYNRx2",
+          "declared_quantity": "132",
+          "price": 19.99,
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "category": "Active Coupon Liquidation",
+      "urgency": "Normal / Monitor",
+      "recommended_action": "Running Active 15% coupon normally. Oct sales=2 units. Continue monitoring sell-through pace."
+    },
+    {
+      "sku": "4A055",
+      "asin": "B00SMEENOU",
+      "product_name": "4A Shapes Sticky Note,Tree Shape,2.6 x 2.71 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5037",
+      "available": 140,
+      "fc_transfer": 0,
+      "total_fba_units": 140,
+      "inbound_quantity": 0,
+      "price": 7.51,
+      "units_shipped_t30": 0,
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "daily_run_rate": 0.0,
+      "days_of_supply": 999.0,
+      "inventory_age": {
+        "0_90_days": 0,
+        "91_180_days": 1,
+        "181_270_days": 0,
+        "271_365_days": 1,
+        "366_455_days": 0,
+        "456_plus_days": 138,
+        "aged_181_plus": 139,
+        "aged_365_plus": 138
+      },
+      "est_storage_cost_next_month": 23.58,
+      "coupon_status": "Active 15%",
+      "coupon_selectable": true,
+      "coupon_blocker_reasons": [],
+      "mfn_siblings": [
+        {
+          "sku": "4A 5037",
+          "declared_quantity": "0",
+          "price": 6.99,
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "category": "Active Coupon Liquidation",
+      "urgency": "High / Aged Stock Risk",
+      "recommended_action": "Enrolled in Active 15%, but 138 units are aged >365 days. Oct sales=0. Storage surcharge imminent. If coupon velocity does not clear aged units within 30 days, execute batch removal or submit Prime Exclusive Discount."
+    },
+    {
+      "sku": "4A PSS 9-1 Grid-NYNGx2",
+      "asin": "B07R2KSW34",
+      "product_name": "4A Full Adhesive Roll Sticky Notes with Dispenser and 2 Refill Rolls, Neon Yellow and Green, Grid Lines, 2 x 315 Inches, Colorful Graph Sticky Notes for Notebook, Office, Home,4A PSS 9-1 Grid-NYNGx2",
+      "available": 130,
+      "fc_transfer": 0,
+      "total_fba_units": 130,
+      "inbound_quantity": 0,
+      "price": 22.99,
+      "units_shipped_t30": 1,
+      "october_orders": 1,
+      "october_units": 1,
+      "october_sales": 22.99,
+      "daily_run_rate": 0.03,
+      "days_of_supply": 4333.3,
+      "inventory_age": {
+        "0_90_days": 1,
+        "91_180_days": 0,
+        "181_270_days": 73,
+        "271_365_days": 56,
+        "366_455_days": 0,
+        "456_plus_days": 0,
+        "aged_181_plus": 129,
+        "aged_365_plus": 0
+      },
+      "est_storage_cost_next_month": 18.58,
+      "coupon_status": "Active 15%",
+      "coupon_selectable": true,
+      "coupon_blocker_reasons": [],
+      "mfn_siblings": [
+        {
+          "sku": "4A PSS 9-1 NGGrid",
+          "declared_quantity": "187",
+          "price": 22.99,
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "category": "Active Coupon Liquidation",
+      "urgency": "Normal / Monitor",
+      "recommended_action": "Running Active 15% coupon normally. Oct sales=1 units. Continue monitoring sell-through pace."
+    },
+    {
+      "sku": "AAAA 4A 5084-N-L",
+      "asin": "B07FKJM2LX",
+      "product_name": "4A 8 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 400 Sheets Total, 4A 5084-N-Lx2",
+      "available": 129,
+      "fc_transfer": 156,
+      "total_fba_units": 285,
+      "inbound_quantity": 0,
+      "price": 19.99,
+      "units_shipped_t30": 2,
+      "october_orders": 3,
+      "october_units": 3,
+      "october_sales": 59.96,
+      "daily_run_rate": 0.1,
+      "days_of_supply": 1290.0,
+      "inventory_age": {
+        "0_90_days": 285,
+        "91_180_days": 0,
+        "181_270_days": 0,
+        "271_365_days": 0,
+        "366_455_days": 0,
+        "456_plus_days": 0,
+        "aged_181_plus": 0,
+        "aged_365_plus": 0
+      },
+      "est_storage_cost_next_month": 14.47,
+      "coupon_status": "Active 5%",
+      "coupon_selectable": true,
+      "coupon_blocker_reasons": [],
+      "mfn_siblings": [
+        {
+          "sku": "4A GM5084-N-L*2",
+          "declared_quantity": "0",
+          "price": 18.98,
+          "status": "Inactive",
+          "shipping_template": "Big size delivery"
+        }
+      ],
+      "category": "Active Coupon Liquidation",
+      "urgency": "Normal / Monitor",
+      "recommended_action": "Running Active 5% coupon normally. Oct sales=3 units. Continue monitoring sell-through pace."
+    },
+    {
+      "sku": "4A 5084-N-L",
+      "asin": "B07F2B49BL",
+      "product_name": "4A 4 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5084-N-L",
+      "available": 129,
+      "fc_transfer": 81,
+      "total_fba_units": 210,
+      "inbound_quantity": 2,
+      "price": 15.99,
+      "units_shipped_t30": 5,
+      "october_orders": 7,
+      "october_units": 7,
+      "october_sales": 92.63,
+      "daily_run_rate": 0.23,
+      "days_of_supply": 560.9,
+      "inventory_age": {
+        "0_90_days": 213,
+        "91_180_days": 0,
+        "181_270_days": 0,
+        "271_365_days": 0,
+        "366_455_days": 0,
+        "456_plus_days": 0,
+        "aged_181_plus": 0,
+        "aged_365_plus": 0
+      },
+      "est_storage_cost_next_month": 8.85,
+      "coupon_status": "Active 5%",
+      "coupon_selectable": true,
+      "coupon_blocker_reasons": [],
+      "mfn_siblings": [
+        {
+          "sku": "4A GM5084-N-L",
+          "declared_quantity": "0",
+          "price": 10.39,
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "category": "Active Coupon Liquidation",
+      "urgency": "Normal / Monitor",
+      "recommended_action": "Running Active 5% coupon normally. Oct sales=7 units. Continue monitoring sell-through pace."
+    },
+    {
+      "sku": "AAAA 4A PSS 9-1 NGGrid",
+      "asin": "B07FK7PBHJ",
+      "product_name": "4A 2 Full Adhesive Roll Sticky Notes with Dispenser and 2 Refills, Neon Yellow and Rose Red, 2 x 315 Inches, Colorful Sticky Rolls for Book, Notebook, Office, Home, 4A PSS 9-1 NYNRx2",
+      "available": 98,
+      "fc_transfer": 0,
+      "total_fba_units": 98,
+      "inbound_quantity": 0,
+      "price": 19.99,
+      "units_shipped_t30": 0,
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "daily_run_rate": 0.0,
+      "days_of_supply": 999.0,
+      "inventory_age": {
+        "0_90_days": 0,
+        "91_180_days": 0,
+        "181_270_days": 98,
+        "271_365_days": 0,
+        "366_455_days": 0,
+        "456_plus_days": 0,
+        "aged_181_plus": 98,
+        "aged_365_plus": 0
+      },
+      "est_storage_cost_next_month": 3.37,
+      "coupon_status": "None",
+      "coupon_selectable": false,
+      "coupon_blocker_reasons": [
+        "您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。"
+      ],
+      "mfn_siblings": [
+        {
+          "sku": "4A GM-SC-PSS 9-1 NYNRx2",
+          "declared_quantity": "0",
+          "price": 19.99,
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "category": "Low Velocity / Ineligible",
+      "urgency": "Medium",
+      "recommended_action": "Blocked from coupon (['您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。']). Available=98. Evaluate listing conversion, fix bullets/images, and test Price Discount."
+    },
+    {
+      "sku": "4A 6031x4",
+      "asin": "B07RP9K6KV",
+      "product_name": "4A 100 Pcs Divider Sticky Tabs 1.2 x 2 in, Transparent Sticky Index Tabs Flags Page Markers for Books Notebooks Office School Supplies, 25 Sheets/Pack, 4 Packs, 4A 6031x4",
+      "available": 77,
+      "fc_transfer": 0,
+      "total_fba_units": 77,
+      "inbound_quantity": 0,
+      "price": 11.99,
+      "units_shipped_t30": 0,
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "daily_run_rate": 0.0,
+      "days_of_supply": 999.0,
+      "inventory_age": {
+        "0_90_days": 0,
+        "91_180_days": 0,
+        "181_270_days": 0,
+        "271_365_days": 0,
+        "366_455_days": 1,
+        "456_plus_days": 76,
+        "aged_181_plus": 77,
+        "aged_365_plus": 77
+      },
+      "est_storage_cost_next_month": 12.13,
+      "coupon_status": "Active 15%",
+      "coupon_selectable": true,
+      "coupon_blocker_reasons": [],
+      "mfn_siblings": [
+        {
+          "sku": "4A GM6031x4",
+          "declared_quantity": "288",
+          "price": 11.99,
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "category": "Active Coupon Liquidation",
+      "urgency": "High / Aged Stock Risk",
+      "recommended_action": "Enrolled in Active 15%, but 77 units are aged >365 days. Oct sales=0. Storage surcharge imminent. If coupon velocity does not clear aged units within 30 days, execute batch removal or submit Prime Exclusive Discount."
+    },
+    {
+      "sku": "4A PSS 9-1 Refill",
+      "asin": "B07QVKPZXX",
+      "product_name": "4A Full Adhesive Sticky Notes, 4 Refill Sticky Rolls, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home, 4A PSS 9-1 Refill",
+      "available": 67,
+      "fc_transfer": 4,
+      "total_fba_units": 71,
+      "inbound_quantity": 0,
+      "price": 18.99,
+      "units_shipped_t30": 3,
+      "october_orders": 4,
+      "october_units": 9,
+      "october_sales": 170.91,
+      "daily_run_rate": 0.29,
+      "days_of_supply": 231.0,
+      "inventory_age": {
+        "0_90_days": 38,
+        "91_180_days": 40,
+        "181_270_days": 0,
+        "271_365_days": 0,
+        "366_455_days": 0,
+        "456_plus_days": 0,
+        "aged_181_plus": 0,
+        "aged_365_plus": 0
+      },
+      "est_storage_cost_next_month": 2.29,
+      "coupon_status": "Active 5%",
+      "coupon_selectable": true,
+      "coupon_blocker_reasons": [],
+      "mfn_siblings": [
+        {
+          "sku": "4A GMPSS 9-1 Refill",
+          "declared_quantity": "408",
+          "price": 17.99,
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "category": "Active Coupon Liquidation",
+      "urgency": "Normal / Monitor",
+      "recommended_action": "Running Active 5% coupon normally. Oct sales=9 units. Continue monitoring sell-through pace."
+    },
+    {
+      "sku": "4A 5082-Y-L-GM",
+      "asin": "B07F2BHFJH",
+      "product_name": "4A 2 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Large Sticky Notes with Lines, Yellow Sticky Note Pads for Home, Office, School, 50 Sheets/Pad, 100 Sheets Total, 4A 5082-Y-L",
+      "available": 65,
+      "fc_transfer": 12,
+      "total_fba_units": 77,
+      "inbound_quantity": 0,
+      "price": 11.99,
+      "units_shipped_t30": 15,
+      "october_orders": 16,
+      "october_units": 17,
+      "october_sales": 208.35,
+      "daily_run_rate": 0.55,
+      "days_of_supply": 118.2,
+      "inventory_age": {
+        "0_90_days": 87,
+        "91_180_days": 2,
+        "181_270_days": 1,
+        "271_365_days": 23,
+        "366_455_days": 0,
+        "456_plus_days": 0,
+        "aged_181_plus": 24,
+        "aged_365_plus": 0
+      },
+      "est_storage_cost_next_month": 2.26,
+      "coupon_status": "None",
+      "coupon_selectable": true,
+      "coupon_blocker_reasons": [],
+      "mfn_siblings": [],
+      "category": "Selectable Quick-Win (Missing Coupon)",
+      "urgency": "HIGH / P1",
+      "recommended_action": "Eligible and selectable in Amazon Coupon backend, but currently NOT enrolled in any coupon! Oct sales=17 units, Available=65 units. Immediate Action: Enroll in 10%-15% coupon or standard price discount to accelerate cashflow."
+    },
+    {
+      "sku": "AAAA 4A PSS 9-1 NRGrid",
+      "asin": "B07FKF5V92",
+      "product_name": "4A Full Adhesive Sticky Notes, 4 Refill Sticky Rolls, Grid Lines, 2 x 315 Inches, Colorful Graph Sticky Notes for Notebook, Office, Home, 4A PSS 9-1 Grid Refill",
+      "available": 63,
+      "fc_transfer": 0,
+      "total_fba_units": 63,
+      "inbound_quantity": 0,
+      "price": 0.0,
+      "units_shipped_t30": 2,
+      "october_orders": 2,
+      "october_units": 2,
+      "october_sales": 39.98,
+      "daily_run_rate": 0.06,
+      "days_of_supply": 1050.0,
+      "inventory_age": {
+        "0_90_days": 36,
+        "91_180_days": 2,
+        "181_270_days": 25,
+        "271_365_days": 0,
+        "366_455_days": 0,
+        "456_plus_days": 0,
+        "aged_181_plus": 25,
+        "aged_365_plus": 0
+      },
+      "est_storage_cost_next_month": 1.6,
+      "coupon_status": "Active 15%",
+      "coupon_selectable": true,
+      "coupon_blocker_reasons": [],
+      "mfn_siblings": [
+        {
+          "sku": "4A GM-SC-PSS 9-1 Grid Refill",
+          "declared_quantity": "379",
+          "price": 17.39,
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "category": "Active Coupon Liquidation",
+      "urgency": "Normal / Monitor",
+      "recommended_action": "Running Active 15% coupon normally. Oct sales=2 units. Continue monitoring sell-through pace."
+    },
+    {
+      "sku": "AAAA 4A 305-Full Glue",
+      "asin": "B07FK9BYHW",
+      "product_name": "4A 2 Packs Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Full Sticky Back Sticky Notes for Home Office School Supplies, 20 Sheets/Color, 5 Colors/Pack, 200 Sheets Total, 4A 305-Full Gluex2",
+      "available": 60,
+      "fc_transfer": 0,
+      "total_fba_units": 60,
+      "inbound_quantity": 0,
+      "price": 0.0,
+      "units_shipped_t30": 2,
+      "october_orders": 2,
+      "october_units": 2,
+      "october_sales": 29.98,
+      "daily_run_rate": 0.06,
+      "days_of_supply": 1000.0,
+      "inventory_age": {
+        "0_90_days": 1,
+        "91_180_days": 0,
+        "181_270_days": 1,
+        "271_365_days": 2,
+        "366_455_days": 56,
+        "456_plus_days": 0,
+        "aged_181_plus": 59,
+        "aged_365_plus": 56
+      },
+      "est_storage_cost_next_month": 0.0,
+      "coupon_status": "None",
+      "coupon_selectable": false,
+      "coupon_blocker_reasons": [
+        "您的商品目前不符合此优惠券的要求，因为该 ASIN 的星级评分未达到最低反馈要求。"
+      ],
+      "mfn_siblings": [
+        {
+          "sku": "4A GMSC305-Full Glue",
+          "declared_quantity": "0",
+          "price": 14.99,
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "category": "Blocked by Star Rating (<3.0)",
+      "urgency": "Medium / Alternative Promo",
+      "recommended_action": "Blocked from Coupons due to low review star rating. Oct sales=2 units, Available=60 units. Immediate Action: Since Coupon is unavailable, use Seller Central 'Price Discounts' (Sale Price) or B2B enterprise quantity tier discounts to stimulate volume without coupon restrictions."
+    },
+    {
+      "sku": "4A073",
+      "asin": "B00SMEEVKQ",
+      "product_name": "4A Divider Sticky Notes,Note Tabs,3 3/8 x 2 3/4 Inches,160 Gsm White Paper,Lined,15 Sheets/Divider,4 Divders/Pack,Self-Stick Notes,60 Sheets Total,4A 40607",
+      "available": 60,
+      "fc_transfer": 0,
+      "total_fba_units": 60,
+      "inbound_quantity": 0,
+      "price": 10.99,
+      "units_shipped_t30": 0,
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "daily_run_rate": 0.0,
+      "days_of_supply": 999.0,
+      "inventory_age": {
+        "0_90_days": 0,
+        "91_180_days": 0,
+        "181_270_days": 0,
+        "271_365_days": 3,
+        "366_455_days": 0,
+        "456_plus_days": 58,
+        "aged_181_plus": 61,
+        "aged_365_plus": 58
+      },
+      "est_storage_cost_next_month": 9.67,
+      "coupon_status": "None",
+      "coupon_selectable": false,
+      "coupon_blocker_reasons": [
+        "您的商品价格过低，无法使用此优惠券。 为确保优惠券对买家有价值，参与优惠券的商品必须满足最低价格门槛。"
+      ],
+      "mfn_siblings": [
+        {
+          "sku": "4A 40607",
+          "declared_quantity": "346",
+          "price": 4.99,
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "category": "Aged Zombie Stock (>365 Days)",
+      "urgency": "HIGH / Cost Drainage",
+      "recommended_action": "58 units aged >365 days incur heavy aged inventory surcharges. Oct sales=0. Immediate Action: Clean listing errors, apply Price Discount or create FBA liquidation/removal order to eliminate recurring fees."
+    },
+    {
+      "sku": "4A 004",
+      "asin": "B01LVXOCU2",
+      "product_name": "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24",
+      "available": 59,
+      "fc_transfer": 0,
+      "total_fba_units": 59,
+      "inbound_quantity": 0,
+      "price": 9.49,
+      "units_shipped_t30": 0,
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "daily_run_rate": 0.0,
+      "days_of_supply": 999.0,
+      "inventory_age": {
+        "0_90_days": 0,
+        "91_180_days": 0,
+        "181_270_days": 0,
+        "271_365_days": 0,
+        "366_455_days": 0,
+        "456_plus_days": 59,
+        "aged_181_plus": 59,
+        "aged_365_plus": 59
+      },
+      "est_storage_cost_next_month": 12.61,
+      "coupon_status": "None",
+      "coupon_selectable": false,
+      "coupon_blocker_reasons": [
+        "您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。"
+      ],
+      "mfn_siblings": [
+        {
+          "sku": "4A 301x24",
+          "declared_quantity": "0",
+          "price": 9.49,
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "category": "Aged Zombie Stock (>365 Days)",
+      "urgency": "HIGH / Cost Drainage",
+      "recommended_action": "59 units aged >365 days incur heavy aged inventory surcharges. Oct sales=0. Immediate Action: Clean listing errors, apply Price Discount or create FBA liquidation/removal order to eliminate recurring fees."
+    },
+    {
+      "sku": "4A 303-Full Adhesive-400",
+      "asin": "B07QXJYTZ7",
+      "product_name": "4A Sticky Full Adhesive Notes,3 1/3 x 3 Inches,80 Sheets/Color,Self-Stick Notes,5 Colors/Pack,400 Sheets Total,4A 303-Full Adhesive-400",
+      "available": 57,
+      "fc_transfer": 10,
+      "total_fba_units": 67,
+      "inbound_quantity": 0,
+      "price": 22.99,
+      "units_shipped_t30": 177,
+      "october_orders": 138,
+      "october_units": 179,
+      "october_sales": 3988.93,
+      "daily_run_rate": 5.77,
+      "days_of_supply": 9.9,
+      "inventory_age": {
+        "0_90_days": 97,
+        "91_180_days": 0,
+        "181_270_days": 0,
+        "271_365_days": 0,
+        "366_455_days": 0,
+        "456_plus_days": 0,
+        "aged_181_plus": 0,
+        "aged_365_plus": 0
+      },
+      "est_storage_cost_next_month": 0.41,
+      "coupon_status": "None",
+      "coupon_selectable": false,
+      "coupon_blocker_reasons": [
+        "您的商品目前不符合此优惠券的要求，因为该 ASIN 的星级评分未达到最低反馈要求。"
+      ],
+      "mfn_siblings": [
+        {
+          "sku": "4A GM303-Full Adhesive-400",
+          "declared_quantity": "0",
+          "price": 22.99,
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "category": "Cash Cow #1 (Stockout Risk)",
+      "urgency": "CRITICAL / P0",
+      "recommended_action": "Available=57, Daily Run Rate=5.77 units/day. Remaining runway only 9.9 days! Sibling MFN is Inactive with 0 stock. Immediate Action: 1) Initiate urgent FBA replenishment; 2) Activate MFN sibling 4A GM303-Full Adhesive-400 with 50-100 units warehouse buffer to prevent zero-inventory delisting; 3) Maintain standard price $22.99 (no discount needed)."
+    },
+    {
+      "sku": "4A 5088-Rainbow",
+      "asin": "B0F2YHTD8T",
+      "product_name": "4A Rainbow Sticky Notes, Multi-Size, 8 Bright Colored Fun Sticky Notes for Office Home School Supplies, Gift, 10 Sheets/Color, 80 Sheets Total,4A Rbow",
+      "available": 52,
+      "fc_transfer": 0,
+      "total_fba_units": 52,
+      "inbound_quantity": 0,
+      "price": 12.99,
+      "units_shipped_t30": 0,
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "daily_run_rate": 0.0,
+      "days_of_supply": 999.0,
+      "inventory_age": {
+        "0_90_days": 0,
+        "91_180_days": 0,
+        "181_270_days": 0,
+        "271_365_days": 3,
+        "366_455_days": 0,
+        "456_plus_days": 49,
+        "aged_181_plus": 52,
+        "aged_365_plus": 49
+      },
+      "est_storage_cost_next_month": 7.93,
+      "coupon_status": "Active 15%",
+      "coupon_selectable": true,
+      "coupon_blocker_reasons": [],
+      "mfn_siblings": [],
+      "category": "Active Coupon Liquidation",
+      "urgency": "High / Aged Stock Risk",
+      "recommended_action": "Enrolled in Active 15%, but 49 units are aged >365 days. Oct sales=0. Storage surcharge imminent. If coupon velocity does not clear aged units within 30 days, execute batch removal or submit Prime Exclusive Discount."
+    },
+    {
+      "sku": "4A 5020x3",
+      "asin": "B07RN7WQ81",
+      "product_name": "4A 12 Pads Puzzle Shaped Sticky Notes 2 7/8 x 2 4/7 in, Cute Shaped Sticky Notes Colorful Self-Stick Note Pads Fun Memo Pads for Office School Supplies, 100 Sheets/Pad, 1200 Sheets Total, 4A 5020x3",
+      "available": 50,
+      "fc_transfer": 1,
+      "total_fba_units": 51,
+      "inbound_quantity": 0,
+      "price": 25.99,
+      "units_shipped_t30": 21,
+      "october_orders": 10,
+      "october_units": 23,
+      "october_sales": 574.77,
+      "daily_run_rate": 0.74,
+      "days_of_supply": 67.6,
+      "inventory_age": {
+        "0_90_days": 2,
+        "91_180_days": 2,
+        "181_270_days": 50,
+        "271_365_days": 0,
+        "366_455_days": 0,
+        "456_plus_days": 0,
+        "aged_181_plus": 50,
+        "aged_365_plus": 0
+      },
+      "est_storage_cost_next_month": 3.89,
+      "coupon_status": "None",
+      "coupon_selectable": true,
+      "coupon_blocker_reasons": [],
+      "mfn_siblings": [
+        {
+          "sku": "4A GM5020x3",
+          "declared_quantity": "1337",
+          "price": 25.99,
+          "status": "Active",
+          "shipping_template": "Cube delivery"
+        }
+      ],
+      "category": "Selectable Quick-Win (Missing Coupon)",
+      "urgency": "HIGH / P1",
+      "recommended_action": "Eligible and selectable in Amazon Coupon backend, but currently NOT enrolled in any coupon! Oct sales=23 units, Available=50 units. Immediate Action: Enroll in 10%-15% coupon or standard price discount to accelerate cashflow."
+    }
+  ],
+  "mfn_high_stock_skus": [
+    {
+      "sku": "4A SN301x12-N",
+      "asin": "B07KPF9PFX",
+      "item_name": "4A Sticky Notes, 1.5 x 2 in, 12 Pads, Neon Colors | 100 sheets per pad, 1200 sheets total",
+      "declared_quantity": 23263,
+      "price": 5.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 1,
+      "october_units": 8,
+      "october_sales": 55.92,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": null,
+      "blockers": [],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Actively generating MFN sales (8 units in Oct). Maintain stock and shipping speed."
+    },
+    {
+      "sku": "4A 301x24-Y",
+      "asin": "B01N9HHKRM",
+      "item_name": "4A 48 Packs Sticky Notes 1.5 x 2 in, Yellow, Adhesive On Short Side, Small Yellow Sticky Notes Pads for Home, Office, Notebook, 100 Sheets/pad, 24 Pads/Pack, 1152 Pads, 115200 Sheets Total",
+      "declared_quantity": 4229,
+      "price": 8.49,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": null,
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A PSS 9-3 YOR",
+      "asin": "B01MZ4FDN5",
+      "item_name": "4A Sticky Note Rolls with Dispensers, 0.6 x 315 in, Neon Colors | Cut notes to the length needed",
+      "declared_quantity": 2463,
+      "price": 9.9,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A GM-PSS 9-3 YOR",
+        "status": "Active",
+        "price": 11.99,
+        "fba_available": 13
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (4A GM-PSS 9-3 YOR, 13 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A GM301x12-N*12",
+      "asin": "B07Q1ZPL56",
+      "item_name": "4A 144 Pads Sticky Notes 1.5 x 2 in, Neon Assorted, Adhesive On Short Side, Small Sticky Notes Self-Stick Note Pads for Office School Supplies, 100 Sheets/Pad, 14400 Sheets Total, 4A 301x12-Nx12",
+      "declared_quantity": 1939,
+      "price": 44.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 301x12-N*12",
+        "status": "Inactive",
+        "price": 44.99,
+        "fba_available": 0
+      },
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A 5059",
+      "asin": "B01MY06P05",
+      "item_name": "4A Speech Bubble Sticky Notes, 3.375 x 1.875 in, Bright Colors | 200 sheets total for notes and reminders",
+      "declared_quantity": 1623,
+      "price": 6.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A053",
+        "status": "Inactive",
+        "price": 9.99,
+        "fba_available": 0
+      },
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A052",
+      "asin": "B01N1U9USQ",
+      "item_name": "4A Arrow Shaped Sticky Notes, 2.72 x 2.56 in, Bright Colors | 200 sheets total for notes and reminders",
+      "declared_quantity": 1609,
+      "price": 6.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 5013",
+        "status": "Inactive",
+        "price": 6.99,
+        "fba_available": 0
+      },
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A 608-N-L-210",
+      "asin": "B07B8RBCKT",
+      "item_name": "4A Lined Sticky Notes, 6 x 8 in, Bright Colors | 210 sheets total for notes and reminders",
+      "declared_quantity": 1518,
+      "price": 11.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "AAAA 4A 608-N-L-210",
+        "status": "Active",
+        "price": 14.99,
+        "fba_available": 24
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (AAAA 4A 608-N-L-210, 24 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A 2028-N",
+      "asin": "B07F295V3S",
+      "item_name": "4A 8 Pads Sticky Notes 2 x 2 in, 8 Colors, Small Sticky Notes Pads for Home, Office, Notebook, 100 Sheets/Pad, 800 Sheets Total",
+      "declared_quantity": 1473,
+      "price": 4.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": null,
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A 5036",
+      "asin": "B01N6IT5IG",
+      "item_name": "4A Heart Sticky Notes 3 x 3 Inches, 5 Bright Colors, Colorful Heart Shaped Sticky Notes Memo Pads for Office, School, Home, 200 Sheets Total, 4A 5036",
+      "declared_quantity": 1404,
+      "price": 6.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": null,
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A GM5020x3",
+      "asin": "B07RN7WQ81",
+      "item_name": "4A 12 Pads Puzzle Shaped Sticky Notes 2 7/8 x 2 4/7 in, Cute Shaped Sticky Notes Colorful Self-Stick Note Pads Fun Memo Pads for Office School Supplies, 100 Sheets/Pad, 1200 Sheets Total, 4A 5020x3",
+      "declared_quantity": 1337,
+      "price": 25.99,
+      "status": "Active",
+      "shipping_template": "Cube delivery",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 5020x3",
+        "status": "Active",
+        "price": 25.99,
+        "fba_available": 50
+      },
+      "blockers": [
+        "Weight-based shipping template (Cube delivery) missing package weight, triggering massive shipping calculation bug / buyer cart suppression"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "HIGH / P1",
+      "recommended_action": "Populate seller package weight & dimensions from Master Sheet or FBA sibling, or migrate shipping template to standard Migrated Template."
+    },
+    {
+      "sku": "4A GM303-AC-holder",
+      "asin": "B07FKHHTYG",
+      "item_name": "4A Sticky Note Holder Dispenser, Pen and Sticky Note Holder for Desk with 8 Bright Colored Sticky Notes 3 x 3 in, Sticky Tabs, Sign Here Tabs for Office Home Back to School Supplies, 4A 303-AC-holder",
+      "declared_quantity": 1196,
+      "price": 10.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "AAAA 4A 303-AC-holder",
+        "status": "Active",
+        "price": 17.99,
+        "fba_available": 44
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (AAAA 4A 303-AC-holder, 44 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A GMSCPSS 7",
+      "asin": "B0821LD25K",
+      "item_name": "4A Pop-Up Note Dispenser, Black, Work with Sticky Pop-Up Notes, for 100 Sheets 3x3 Notes, 1 Dispenser/Pack, 4A PSS 7",
+      "declared_quantity": 1155,
+      "price": 11.99,
+      "status": "Active",
+      "shipping_template": "Cube delivery",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A SCPSS 7",
+        "status": "Active",
+        "price": 12.99,
+        "fba_available": 7
+      },
+      "blockers": [
+        "Weight-based shipping template (Cube delivery) missing package weight, triggering massive shipping calculation bug / buyer cart suppression"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "HIGH / P1",
+      "recommended_action": "Populate seller package weight & dimensions from Master Sheet or FBA sibling, or migrate shipping template to standard Migrated Template."
+    },
+    {
+      "sku": "4A GM30315",
+      "asin": "B07FKG29KB",
+      "item_name": "4A 15 Pads Sticky Notes 3 x 3 in, Assorted Colors, Colorful Stick Notes Self-Stick Note Pads for Office, Home, School Supplies, 100 Sheets/Pad, 1500 Sheets Total, 4A 30315",
+      "declared_quantity": 1054,
+      "price": 15.99,
+      "status": "Active",
+      "shipping_template": "Cube delivery",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": null,
+      "blockers": [
+        "Weight-based shipping template (Cube delivery) missing package weight, triggering massive shipping calculation bug / buyer cart suppression"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "HIGH / P1",
+      "recommended_action": "Populate seller package weight & dimensions from Master Sheet or FBA sibling, or migrate shipping template to standard Migrated Template."
+    },
+    {
+      "sku": "4A GMBS 1801",
+      "asin": "B07K8L4K8K",
+      "item_name": "4A Sticky Notes and Index Flags Bundle Set,Neon Assorted,Self-Stick Notes,3.5x3.5 Inch,1.5x2.1 Inch,0.67X1.9 Inch 3 Pcs,1.3X3.5 Inch,100 Sheets/Pad,6 Pads/Set,600 Sheets/Set,4A BS 1801",
+      "declared_quantity": 1035,
+      "price": 17.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A BS 1801",
+        "status": "Active",
+        "price": 17.99,
+        "fba_available": 1
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (4A BS 1801, 1 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A 40623x6",
+      "asin": "B07T79KGWM",
+      "item_name": "4A Divider Sticky Notes,4 x 6 Inches,Large Size,Neon Assorted,Lined,10 Sheets/Divider,6 Divders/Pack,Self-Stick Notes,60 Sheets/Pack,6 Packs,4A 40623x6",
+      "declared_quantity": 1027,
+      "price": 20.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": null,
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A 40624x6",
+      "asin": "B07T42D4GL",
+      "item_name": "4A 6 Pads Divider Sticky Notes 4 x 6 Inches, White, Tabbed Self-Stick Lined Notepads for Office, School, 10 Sheets/Divider, 6 Divders/Pad, 600 Sheets Total, 4A 40624x6",
+      "declared_quantity": 1018,
+      "price": 20.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": null,
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A GMBP 1111-Px4",
+      "asin": "B07QZR9Z3P",
+      "item_name": "4A 4 Pads Big Sticky Notes 11 x 11 Inches, Pastel Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad, 4A BP 1111-Px4",
+      "declared_quantity": 1010,
+      "price": 29.99,
+      "status": "Active",
+      "shipping_template": "4A Parcel 7.99 plus 2.99 per lb",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A BP 1111-Px4",
+        "status": "Active",
+        "price": 29.99,
+        "fba_available": 28
+      },
+      "blockers": [
+        "Weight-based shipping template (4A Parcel 7.99 plus 2.99 per lb) missing package weight, triggering massive shipping calculation bug / buyer cart suppression"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "HIGH / P1",
+      "recommended_action": "Populate seller package weight & dimensions from Master Sheet or FBA sibling, or migrate shipping template to standard Migrated Template."
+    },
+    {
+      "sku": "4A 8667",
+      "asin": "B01LYXPGQH",
+      "item_name": "4A Printed Sticky Notes,Cute Designs, Self-Stick Notes,MERRY CHRISTMAS, Close Size: 4 1/2 x 6 Inches,50 Sheets/Pad,7 Pads/Pack,4A 8667",
+      "declared_quantity": 1009,
+      "price": 9.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": null,
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A GMSMC 434",
+      "asin": "B07FKHNTRK",
+      "item_name": "4A Printed Sticky Note Cube, 2.5 x 2.5 in | For everyday notes and reminders",
+      "declared_quantity": 979,
+      "price": 12.99,
+      "status": "Active",
+      "shipping_template": "Cube delivery",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "AAAA 4A SMC 434",
+        "status": "Active",
+        "price": 15.99,
+        "fba_available": 26
+      },
+      "blockers": [
+        "Weight-based shipping template (Cube delivery) missing package weight, triggering massive shipping calculation bug / buyer cart suppression"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "HIGH / P1",
+      "recommended_action": "Populate seller package weight & dimensions from Master Sheet or FBA sibling, or migrate shipping template to standard Migrated Template."
+    },
+    {
+      "sku": "4A 033",
+      "asin": "B01MSZS7M3",
+      "item_name": "4A Sticky Notes, 4 x 6 in, 6 Pads, Pastel Colors | 100 sheets per pad",
+      "declared_quantity": 957,
+      "price": 10.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 406x6",
+        "status": "Inactive",
+        "price": 10.99,
+        "fba_available": 0
+      },
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A SC501516*2",
+      "asin": "B07TSD57BD",
+      "item_name": "4A 2 Packs Sticky Note Tabs Flags 0.6 x 2 Inches, 16 Colors, Small Sticky Notes Page Markers Book Index Tabs for Office School Supplies, 100 Sheets/Pad, 16 Pads/Pack, 3200 Sheets Total, 4A 501516x2",
+      "declared_quantity": 873,
+      "price": 13.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A SC501516",
+        "status": "Active",
+        "price": 14.99,
+        "fba_available": 6
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (4A SC501516, 6 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A 019",
+      "asin": "B01LVZ0GV3",
+      "item_name": "4A Sticky Pop-up Notes,3 x 3 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 303x12-N-Z",
+      "declared_quantity": 858,
+      "price": 5.99,
+      "status": "Active",
+      "shipping_template": "Big size delivery",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 303 x12-N-Z",
+        "status": "Inactive",
+        "price": 8.39,
+        "fba_available": 0
+      },
+      "blockers": [
+        "Weight-based shipping template (Big size delivery) missing package weight, triggering massive shipping calculation bug / buyer cart suppression"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "HIGH / P1",
+      "recommended_action": "Populate seller package weight & dimensions from Master Sheet or FBA sibling, or migrate shipping template to standard Migrated Template."
+    },
+    {
+      "sku": "4A ST303X12NZ",
+      "asin": "B07FKL115P",
+      "item_name": "4A Pop-Up Sticky Notes, 3 x 3 in, Neon Colors, 12 Pads, 1200 Sheets | Pop-up notes for one-handed dispensing",
+      "declared_quantity": 858,
+      "price": 10.99,
+      "status": "Active",
+      "shipping_template": "Big size delivery",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": "2025-04-22T08:58:28.225Z",
+      "package_weight": null,
+      "fba_sibling": null,
+      "blockers": [
+        "Expired Stop Selling Date: 2025-04-22T08:58:28.225Z",
+        "Weight-based shipping template (Big size delivery) missing package weight, triggering massive shipping calculation bug / buyer cart suppression"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "HIGH / P1",
+      "recommended_action": "Expired 2025 stop-selling date completely blocks sales. Unblocked in Batch 15 by setting stop-date to 2099-12-31."
+    },
+    {
+      "sku": "4A GMBP 1111-Nx4",
+      "asin": "B07QWKYQV7",
+      "item_name": "4A Big Sticky Notes, 11 x 11 in, 4 Pads, Bright Colors | 30 sheets per pad, 120 sheets total",
+      "declared_quantity": 839,
+      "price": 27.39,
+      "status": "Active",
+      "shipping_template": "4A Parcel 7.99 plus 2.99 per lb",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A BP 1111-Nx4",
+        "status": "Active",
+        "price": 27.39,
+        "fba_available": 25
+      },
+      "blockers": [
+        "Weight-based shipping template (4A Parcel 7.99 plus 2.99 per lb) missing package weight, triggering massive shipping calculation bug / buyer cart suppression"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "HIGH / P1",
+      "recommended_action": "Populate seller package weight & dimensions from Master Sheet or FBA sibling, or migrate shipping template to standard Migrated Template."
+    },
+    {
+      "sku": "4A GM-SCPSS 32x6",
+      "asin": "B08DKJ2K3T",
+      "item_name": "4A Roll Sticky Notes with Dispenser,Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6",
+      "declared_quantity": 835,
+      "price": 13.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A SCPSS 32x6",
+        "status": "Active",
+        "price": 13.99,
+        "fba_available": 33
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (4A SCPSS 32x6, 33 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A GM305-Full Adhesive-300",
+      "asin": "B07QXJZKHC",
+      "item_name": "4A 5 Pads Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Sticky Notes Full Adhesive Back for Home Office School Supplies, 60 Sheets/Pad, 300 Sheets Total, 4A 305-Full Adhesive-300",
+      "declared_quantity": 784,
+      "price": 21.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 305-Full Adhesive-300",
+        "status": "Active",
+        "price": 21.99,
+        "fba_available": 174
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (4A 305-Full Adhesive-300, 174 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A GM4012",
+      "asin": "B07FKJLZNG",
+      "item_name": "4A Sticky Notes Value Pack,Assorted The Most Commonly Used Sizes in One PP Box,18 Pads/Box,1900 Sheets Total,4A 4012",
+      "declared_quantity": 780,
+      "price": 11.99,
+      "status": "Active",
+      "shipping_template": "Cube delivery",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "AAAA 4A 4012",
+        "status": "Active",
+        "price": 10.99,
+        "fba_available": 17
+      },
+      "blockers": [
+        "Weight-based shipping template (Cube delivery) missing package weight, triggering massive shipping calculation bug / buyer cart suppression"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "HIGH / P1",
+      "recommended_action": "Populate seller package weight & dimensions from Master Sheet or FBA sibling, or migrate shipping template to standard Migrated Template."
+    },
+    {
+      "sku": "4A GMSC404-AC-holder",
+      "asin": "B07WK3JX6K",
+      "item_name": "4A Pen Holder with Lined Sticky Notes, 4 x 4 in, Neon Colors | Keep notes organized on your desk",
+      "declared_quantity": 767,
+      "price": 14.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A SC404-AC-holder",
+        "status": "Inactive",
+        "price": 15.99,
+        "fba_available": 0
+      },
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "AAAA 4A 404S-Linex6",
+      "asin": "B07FKKY4XP",
+      "item_name": "4A 6 Pads Super Sticky Lined Notes 4 x 4 Inches, Neon Assorted, Sticky Notes with Lines for Office School Supplies, 100 Sheets/Pad, 600 Sheets Total,4A 404S-Linex6",
+      "declared_quantity": 753,
+      "price": 10.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": "1.02",
+      "fba_sibling": null,
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A GM40624*2",
+      "asin": "B07FK8CRM9",
+      "item_name": "4A Divider Sticky Notes,4 x 6 Inches,White Paper,Lined,10 Sheets/Divider,6 Divders/Pack,2 Packs/Set,120 Sheets Total,4A 40624x2",
+      "declared_quantity": 747,
+      "price": 5.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": null,
+      "blockers": [
+        "Error 99022 unbrandable listing addressed in Batch 14"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "HIGH / P1",
+      "recommended_action": "Repair error 99022 via Batch 14 catalog update with verified manufacturer/UPC."
+    },
+    {
+      "sku": "4A095",
+      "asin": "B01M2UDADZ",
+      "item_name": "4A Sticky Notes Flags Set,Neon Color Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Page Marker Bookmarks,Assorted Printed,5 Pads/set,4A 66114",
+      "declared_quantity": 719,
+      "price": 6.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 66114",
+        "status": "Active",
+        "price": 6.99,
+        "fba_available": 2
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (4A 66114, 2 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A094",
+      "asin": "B01MDJ91BV",
+      "item_name": "4A 4A 66113 Sticky Notes Flags Set, Neon Fluorescent Color, Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Page Marker Bookmarks, 6 Pads/set, 1/2\" x 1 3/4\"",
+      "declared_quantity": 663,
+      "price": 9.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 1,
+      "october_units": 1,
+      "october_sales": 11.39,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 66113",
+        "status": "Inactive",
+        "price": 9.99,
+        "fba_available": 0
+      },
+      "blockers": [],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Actively generating MFN sales (1 units in Oct). Maintain stock and shipping speed."
+    },
+    {
+      "sku": "4A GM40609x4",
+      "asin": "B07T2ZNTGK",
+      "item_name": "4A Divider Sticky Notes,Note Tabs,2 2/3 x 2 7/8 Inches,160 GSM White Paper,Lined,15 Sheets/Divider,4 Divders/Pack,Self-Stick Notes,60 Sheets/Pakcs,4 Packs,4A 40609x4",
+      "declared_quantity": 658,
+      "price": 18.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 40609x4",
+        "status": "Active",
+        "price": 18.99,
+        "fba_available": 7
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (4A 40609x4, 7 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A GMPSS 9-1 NGNOx2",
+      "asin": "B07QXJY3FH",
+      "item_name": "4A Sticky Note Rolls with Dispenser and Refills, 2 x 315 in, Neon Colors | Cut notes to the length needed",
+      "declared_quantity": 639,
+      "price": 19.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A PSS 9-1 NGNOx2",
+        "status": "Active",
+        "price": 22.99,
+        "fba_available": 27
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (4A PSS 9-1 NGNOx2, 27 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A GM301x24*2",
+      "asin": "B07FKD3DBJ",
+      "item_name": "4A 48 Pads Sticky Notes 1.5 x 2 in, Neon Assorted, Adhesive On Short Side, Small Sticky Notes Self-Stick Note Pads for Office School Supplies, 100 Sheets/Pad, 48 Pads, 4800 Sheets Total, 4A 301x24x2",
+      "declared_quantity": 618,
+      "price": 16.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": null,
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A GM-SC-PSS 9-5 NANBx2",
+      "asin": "B01N4IN5OP",
+      "item_name": "4A Full Adhesive Roll Sticky Notes, 0.4 x 315 Inches, 5 Bright Colors, 2 Sticky Rolls with Dispenser and 2 Refills, Colorful Sticky Roll Tape for Book, Notebook, Office, Home",
+      "declared_quantity": 591,
+      "price": 24.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": null,
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A GM5088-N-L",
+      "asin": "B07RP9MB7Y",
+      "item_name": "4A 8 Pads Lined Sticky Notes with Lines 5 x 8 in, Bright Colored Large Sticky Note Pads for Office, School, Home, 50 Sheets/Pad, 400 Sheets, 4A 5088-N-L",
+      "declared_quantity": 582,
+      "price": 19.99,
+      "status": "Active",
+      "shipping_template": "4A Parcel 7.99 plus 2.99 per lb",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 5088-N-L",
+        "status": "Active",
+        "price": 19.99,
+        "fba_available": 5
+      },
+      "blockers": [
+        "Weight-based shipping template (4A Parcel 7.99 plus 2.99 per lb) missing package weight, triggering massive shipping calculation bug / buyer cart suppression"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "HIGH / P1",
+      "recommended_action": "Populate seller package weight & dimensions from Master Sheet or FBA sibling, or migrate shipping template to standard Migrated Template."
+    },
+    {
+      "sku": "4A 60237x2",
+      "asin": "B07FKPPKYM",
+      "item_name": "4A Sticky Notes Flags with PP Rule,Neon Color Page Marker Fluorescent Color Index Label,Transparent Tabs Flags Stickers,Text Highlighter Strips Writable Bookmarks,1500 Flags Total,4A 60237",
+      "declared_quantity": 575,
+      "price": 13.98,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": null,
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A GMMeeting-6",
+      "asin": "B07FKJGDJR",
+      "item_name": "4A Dry Erase White Board Sheet 2.5 x 2.7 FT, Large White Board Sticker Whiteboard Wallpaper with 1 Cleaning Cloth for Office, School, Home, Meeting, 4A Meeting-6",
+      "declared_quantity": 536,
+      "price": 15.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "AAAA 4A Meeting-6",
+        "status": "Active",
+        "price": 18.99,
+        "fba_available": 3
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (AAAA 4A Meeting-6, 3 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A GMSCSMC 436",
+      "asin": "B07FKJDBFT",
+      "item_name": "4A Sticky Note Cube, 2.87 x 2.87 in, Cat Printed on 4 Sides, Sticky Cubes Blocks Memo Cube Sticky Note Pads for Office, Home, School, 580 Sheets,4A SMC 436",
+      "declared_quantity": 534,
+      "price": 12.99,
+      "status": "Active",
+      "shipping_template": "Cube delivery",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "AAAA 4A SMC 436",
+        "status": "Active",
+        "price": 12.99,
+        "fba_available": 1
+      },
+      "blockers": [
+        "Weight-based shipping template (Cube delivery) missing package weight, triggering massive shipping calculation bug / buyer cart suppression"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "HIGH / P1",
+      "recommended_action": "Populate seller package weight & dimensions from Master Sheet or FBA sibling, or migrate shipping template to standard Migrated Template."
+    },
+    {
+      "sku": "4A 190",
+      "asin": "B00SMEEE6M",
+      "item_name": "4A Sign Here Flags | Mark places that need a signature",
+      "declared_quantity": 530,
+      "price": 3.56,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 60171",
+        "status": "Inactive",
+        "price": 4.1,
+        "fba_available": 0
+      },
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A 034",
+      "asin": "B01MSZSEBW",
+      "item_name": "4A Sticky Notes, 4 x 6 in, 6 Pads, Bright Colors | 100 sheets per pad",
+      "declared_quantity": 521,
+      "price": 11.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 406x6-N",
+        "status": "Inactive",
+        "price": 11.99,
+        "fba_available": 0
+      },
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A GM406x6-N",
+      "asin": "B07FKHHTY4",
+      "item_name": "4A 6 Pads Sticky Notes 4 x 6 Inches, Bright Colors, Large Self-Stick Note Pads for Office, School, 100 Sheets/Pad, 600 Sheets Total, 4A 406x6-N",
+      "declared_quantity": 521,
+      "price": 13.99,
+      "status": "Active",
+      "shipping_template": "Heavy delivery",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "AAAA 4A 406x6-N",
+        "status": "Active",
+        "price": 11.99,
+        "fba_available": 20
+      },
+      "blockers": [
+        "Weight-based shipping template (Heavy delivery) missing package weight, triggering massive shipping calculation bug / buyer cart suppression"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "HIGH / P1",
+      "recommended_action": "Populate seller package weight & dimensions from Master Sheet or FBA sibling, or migrate shipping template to standard Migrated Template."
+    },
+    {
+      "sku": "4A GM484812-N*3",
+      "asin": "B07PWM2X8Y",
+      "item_name": "4A 3 Packs Sticky Notes 1 7/8 x 1 7/8 in, 12 Colors, Small Sticky Notes Pads for Home, Office, Notebook, 100 Sheets/Pad, 12 Pads/Pack, 36 Pads, 3600 Sheets Total, 4A 484812-N*3",
+      "declared_quantity": 507,
+      "price": 17.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 484812-N*3",
+        "status": "Inactive",
+        "price": 17.99,
+        "fba_available": 0
+      },
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A GM2028-N*3",
+      "asin": "B07FKGPCQM",
+      "item_name": "4A 24 Pads Sticky Notes 2 x 2 in, 8 Bright Colors, 2400 Sheets Colorful Small Sticky Notes Self-Stick Note Pads for Office School Supplies, 100 Sheets/Pad, 4A 2028-Nx3",
+      "declared_quantity": 491,
+      "price": 12.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "AAAA 4A 2028-N",
+        "status": "Active",
+        "price": 19.99,
+        "fba_available": 13
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (AAAA 4A 2028-N, 13 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A GM30132",
+      "asin": "B07RQ7JMV9",
+      "item_name": "4A 32 Pads Sticky Notes 1.5 x 2 in, Bright Colors, Colored Small Sticky Notes Pads for Home, Office, Notebook, 100 Sheets/pad, 3200 Sheets Total, 4A 30132",
+      "declared_quantity": 470,
+      "price": 12.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 30132",
+        "status": "Active",
+        "price": 12.99,
+        "fba_available": 16
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (4A 30132, 16 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A GM406SL-10",
+      "asin": "B07RP85C2P",
+      "item_name": "4A Super Sticky Lined Notes, 4 x 6 in, 10 Pads, Bright Colors | 80 sheets per pad",
+      "declared_quantity": 466,
+      "price": 17.49,
+      "status": "Active",
+      "shipping_template": "Heavy delivery",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 406SL-10",
+        "status": "Inactive",
+        "price": 17.49,
+        "fba_available": 0
+      },
+      "blockers": [
+        "Weight-based shipping template (Heavy delivery) missing package weight, triggering massive shipping calculation bug / buyer cart suppression"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "HIGH / P1",
+      "recommended_action": "Populate seller package weight & dimensions from Master Sheet or FBA sibling, or migrate shipping template to standard Migrated Template."
+    },
+    {
+      "sku": "4A GMBP 1515-Nx4",
+      "asin": "B07R1XLCP4",
+      "item_name": "4A 4 Pads Big Sticky Notes 15 x 15 Inches, Bright Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad",
+      "declared_quantity": 461,
+      "price": 59.99,
+      "status": "Active",
+      "shipping_template": "Biger size delivery-25",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A BP 1515-Nx4",
+        "status": "Inactive",
+        "price": 62.99,
+        "fba_available": 0
+      },
+      "blockers": [
+        "Weight-based shipping template (Biger size delivery-25) missing package weight, triggering massive shipping calculation bug / buyer cart suppression"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "HIGH / P1",
+      "recommended_action": "Populate seller package weight & dimensions from Master Sheet or FBA sibling, or migrate shipping template to standard Migrated Template."
+    },
+    {
+      "sku": "4A 305x6-Y",
+      "asin": "B01N0R4QI8",
+      "item_name": "4A Sticky Notes,3 x 5 Inches,Canary Yellow,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 305x6-Y",
+      "declared_quantity": 457,
+      "price": 5.99,
+      "status": "Inactive",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 305 x 6-Y",
+        "status": "Inactive",
+        "price": 11.99,
+        "fba_available": 0
+      },
+      "blockers": [],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": ""
+    },
+    {
+      "sku": "4A054",
+      "asin": "B01N9JKGO8",
+      "item_name": "4A Leaf Shaped Sticky Notes, 2.83 x 2.83 Inches, 5 Bright Colors, Colorful Cute Sticky Notes Memo Pads for Office, School, Home, 200 Sheets/Pad, 4A 5061",
+      "declared_quantity": 444,
+      "price": 6.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 5061",
+        "status": "Inactive",
+        "price": 6.99,
+        "fba_available": 0
+      },
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A GM354832",
+      "asin": "B07RP9LR73",
+      "item_name": "4A Sticky Notes, 1.375 x 1.875 in, 32 Pads | 100 sheets per pad, 3200 sheets total",
+      "declared_quantity": 435,
+      "price": 13.99,
+      "status": "Active",
+      "shipping_template": "Big size delivery",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 354832",
+        "status": "Inactive",
+        "price": 13.99,
+        "fba_available": 0
+      },
+      "blockers": [
+        "Weight-based shipping template (Big size delivery) missing package weight, triggering massive shipping calculation bug / buyer cart suppression"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "HIGH / P1",
+      "recommended_action": "Populate seller package weight & dimensions from Master Sheet or FBA sibling, or migrate shipping template to standard Migrated Template."
+    },
+    {
+      "sku": "4A GMSCLB 1903",
+      "asin": "B0821LGDKQ",
+      "item_name": "4A Gold Boarder Chalkboard Labels, Mixed Size, 168 Labels Chalkboard Stickers, Waterproof REUSEABLE and Remove Cleanly, for Jars, Glass, Cups, Organize Your Kitchen, 4A LB 1903",
+      "declared_quantity": 430,
+      "price": 13.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A SCLB 1903",
+        "status": "Inactive",
+        "price": 14.99,
+        "fba_available": 0
+      },
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A093",
+      "asin": "B01N0VHWSL",
+      "item_name": "4A 650 Sheets Memo Cube Non-Sticky Notes, 3 1/4 x 3 1/4 Inches,Wave Patterned On 4 Sides, Non Sticky Memo Padsfor Office, School,4A MC 434",
+      "declared_quantity": 419,
+      "price": 13.99,
+      "status": "Active",
+      "shipping_template": "Cube delivery",
+      "october_orders": 1,
+      "october_units": 1,
+      "october_sales": 15.99,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": null,
+      "blockers": [
+        "Weight-based shipping template (Cube delivery) missing package weight, triggering massive shipping calculation bug / buyer cart suppression"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "HIGH / P1",
+      "recommended_action": "Populate seller package weight & dimensions from Master Sheet or FBA sibling, or migrate shipping template to standard Migrated Template."
+    },
+    {
+      "sku": "4A GMPSS 9-5 Refill",
+      "asin": "B07QXJX2BV",
+      "item_name": "4A Sticky Note Rolls, 0.4 x 315 in | Cut notes to the length needed",
+      "declared_quantity": 413,
+      "price": 16.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A PSS 9-5 Refill",
+        "status": "Active",
+        "price": 19.99,
+        "fba_available": 10
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (4A PSS 9-5 Refill, 10 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A GMPSS 9-1 Refill",
+      "asin": "B07QVKPZXX",
+      "item_name": "4A Full Adhesive Sticky Notes, 4 Refill Sticky Rolls, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home, 4A PSS 9-1 Refill",
+      "declared_quantity": 408,
+      "price": 17.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A PSS 9-1 Refill",
+        "status": "Active",
+        "price": 18.99,
+        "fba_available": 67
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (4A PSS 9-1 Refill, 67 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A GMBP 2222-Nx4",
+      "asin": "B07RT4GTLZ",
+      "item_name": "4A 4 Pads Big Sticky Notes 22 x 22 Inches, Bright Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 20 Sheets/Pad",
+      "declared_quantity": 393,
+      "price": 59.99,
+      "status": "Active",
+      "shipping_template": "Biger size delivery-25",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A BP 2222-Nx4",
+        "status": "Active",
+        "price": 63.99,
+        "fba_available": 19
+      },
+      "blockers": [
+        "Weight-based shipping template (Biger size delivery-25) missing package weight, triggering massive shipping calculation bug / buyer cart suppression"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "HIGH / P1",
+      "recommended_action": "Populate seller package weight & dimensions from Master Sheet or FBA sibling, or migrate shipping template to standard Migrated Template."
+    },
+    {
+      "sku": "4A GM4012*2",
+      "asin": "B01MZ1PQQ8",
+      "item_name": "4A Self-Stick Notes, Multicolor Assorted, 4A 4012 | B01MZ1PQQ8",
+      "declared_quantity": 390,
+      "price": 23.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A050",
+        "status": "Inactive",
+        "price": 25.99,
+        "fba_available": 0
+      },
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A SF-60238",
+      "asin": "B01MATR9TE",
+      "item_name": "4A Sticky Notes Flags With PP Rule,Neon Color Page Marker Fluorescent Color Index Label,Transparent Tabs Flags Stickers,Text Highlighter Strips Writable Labels Bookmarks,2 Pads/set,4A 60238",
+      "declared_quantity": 381,
+      "price": 6.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 60238",
+        "status": "Inactive",
+        "price": 9.99,
+        "fba_available": 0
+      },
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A GM-SC-PSS 9-1 Grid Refill",
+      "asin": "B07FKF5V92",
+      "item_name": "4A Full Adhesive Sticky Notes, 4 Refill Sticky Rolls, Grid Lines, 2 x 315 Inches, Colorful Graph Sticky Notes for Notebook, Office, Home, 4A PSS 9-1 Grid Refill",
+      "declared_quantity": 379,
+      "price": 17.39,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "AAAA 4A PSS 9-1 NRGrid",
+        "status": "Active",
+        "price": 19.99,
+        "fba_available": 63
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (AAAA 4A PSS 9-1 NRGrid, 63 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A GM404S-Linex6*2",
+      "asin": "B07B8JFJZY",
+      "item_name": "4A Super Sticky Notes,4 x 4 Inches,Large Size,Neon Assorted,Lined,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,600 Sheets/Pack,2 Packs,4A 404S-Linex6",
+      "declared_quantity": 376,
+      "price": 23.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 185",
+        "status": "Inactive",
+        "price": 24.99,
+        "fba_available": 0
+      },
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A 6533",
+      "asin": "B07548QLN8",
+      "item_name": "4A Weekly Planner Notes, 11 x 10 in | 52 sheets total for notes and reminders",
+      "declared_quantity": 374,
+      "price": 10.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": null,
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A GMSC66114*2",
+      "asin": "B07FKCQ35X",
+      "item_name": "4A Sticky Notes Flags Set,Neon Color Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Bookmarks,Assorted Printed,10 Pads/Set,1000 Flags Total,4A 66114x2",
+      "declared_quantity": 360,
+      "price": 10.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": null,
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A GMPSS 9-1 Grid-NBNPx2",
+      "asin": "B07QWKYMGM",
+      "item_name": "4A Full Adhesive Sticky Notes, Sticky Rolls with Dispenser and 2 Refill Rolls,Neon Blue and Pink,Grid Lines,2x315 Inches, Colorful Graph Sticky Notes for Notebook, Office, Home,4A PSS 9-1 Grid-NBNPx2",
+      "declared_quantity": 358,
+      "price": 22.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A PSS 9-1 Grid-NBNPx2",
+        "status": "Active",
+        "price": 22.99,
+        "fba_available": 46
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (4A PSS 9-1 Grid-NBNPx2, 46 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A 6035x5",
+      "asin": "B07T55VHS6",
+      "item_name": "4A 300 Pcs Pop Up Sticky Tabs 1 x 1.5 in, Writable and Repositionable Book Tabs Flags Transparent Page Markers for Annotating Books, Notebooks, 4A 6035x5",
+      "declared_quantity": 353,
+      "price": 22.49,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": "0.15",
+      "fba_sibling": {
+        "sku": "4A GM6035x5",
+        "status": "Active",
+        "price": 18.99,
+        "fba_available": 12
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (4A GM6035x5, 12 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A GM608S-Linex4",
+      "asin": "B07FKPY2V6",
+      "item_name": "4A Super Sticky Lined Notes, 6 x 8 in, 4 Pads, Bright Colors | 50 sheets per pad, 200 sheets total",
+      "declared_quantity": 351,
+      "price": 10.39,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "AAAA 4A 608S-Linex4",
+        "status": "Active",
+        "price": 9.49,
+        "fba_available": 4
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (AAAA 4A 608S-Linex4, 4 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A 40607",
+      "asin": "B00SMEEVKQ",
+      "item_name": "4A Divider Sticky Notes,Note Tabs,3 3/8 x 2 3/4 Inches,160 Gsm White Paper,Lined,15 Sheets/Divider,4 Divders/Pack,Self-Stick Notes,60 Sheets Total,4A 40607",
+      "declared_quantity": 346,
+      "price": 4.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A073",
+        "status": "Active",
+        "price": 10.99,
+        "fba_available": 60
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (4A073, 60 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A GM6034*2",
+      "asin": "B07FK9XXN1",
+      "item_name": "4A Self-Stick Notes, Transparent Writable, 4A 6034x2 | B07FK9XXN1",
+      "declared_quantity": 344,
+      "price": 11.9,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 1,
+      "october_units": 1,
+      "october_sales": 11.9,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": null,
+      "blockers": [],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Actively generating MFN sales (1 units in Oct). Maintain stock and shipping speed."
+    },
+    {
+      "sku": "4A0102",
+      "asin": "B01MU5BGNQ",
+      "item_name": "4A Pop-up Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Tabs Stickers,Writable Labels,Bookmarks,Repositionable, Great Labeling,Flaging,4A 6034x2",
+      "declared_quantity": 341,
+      "price": 9.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 2,
+      "october_units": 4,
+      "october_sales": 39.96,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A 6034",
+        "status": "Inactive",
+        "price": 4.49,
+        "fba_available": 0
+      },
+      "blockers": [],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Actively generating MFN sales (4 units in Oct). Maintain stock and shipping speed."
+    },
+    {
+      "sku": "4A GM40609*2",
+      "asin": "B07FKBHTDG",
+      "item_name": "4A Divider Sticky Notes Tabs 2 2/3 x 2 7/8 Inches,White,Lined Sticky Notes with Lines for Notebooks,Books,Office,School Supplies,15 Sheets/Divider,4 Dividers/Pad,120 Sheets Total,4A 40609x2",
+      "declared_quantity": 337,
+      "price": 9.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": "3.84",
+      "fba_sibling": {
+        "sku": "AAAA 4A 40609",
+        "status": "Active",
+        "price": 10.99,
+        "fba_available": 612
+      },
+      "blockers": [
+        "Buy Box suppressed by active FBA sibling"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "MFN serves as dark backup to active FBA sibling (AAAA 4A 40609, 612 FBA units). Maintain inventory and price buffer."
+    },
+    {
+      "sku": "4A GM303x6-Y-L*3",
+      "asin": "B07FK8L1P2",
+      "item_name": "4A 18 Pads Lined Sticky Notes 3x3 in, Pastel Yellow, Yellow Sticky Notes with Lines Self-Stick Note Pads for Office School Home, 100 Sheets/Pad, 1800 Sheets Total, 4A 303x6-Y-Lx3",
+      "declared_quantity": 336,
+      "price": 14.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": null,
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A GMSC66113*2",
+      "asin": "B07FK9MJQF",
+      "item_name": "4A Sticky Notes Flags Set,Neon Color Page Marker Fluorescent Color Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Bookmarks,12 Pads/Set,1320 Flags Total, AAAA 4A 66113",
+      "declared_quantity": 334,
+      "price": 12.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 0,
+      "october_units": 0,
+      "october_sales": 0.0,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": null,
+      "blockers": [
+        "Dormant giant listing (0 sales despite Active status)"
+      ],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Audit buyer PDP visibility; verify physical warehouse stock; review pricing and search keywords."
+    },
+    {
+      "sku": "4A GMSCBS 1804",
+      "asin": "B07WDQGB3G",
+      "item_name": "4A Desk Sticky Notes Organizer Set | 1180 sheets total for notes and reminders",
+      "declared_quantity": 300,
+      "price": 9.99,
+      "status": "Active",
+      "shipping_template": "Migrated Template",
+      "october_orders": 1,
+      "october_units": 1,
+      "october_sales": 9.99,
+      "stop_selling_date": null,
+      "package_weight": null,
+      "fba_sibling": {
+        "sku": "4A SCBS 1804",
+        "status": "Inactive",
+        "price": 18.99,
+        "fba_available": 0
+      },
+      "blockers": [],
+      "batch14_target": false,
+      "batch15_target": false,
+      "urgency": "Normal",
+      "recommended_action": "Actively generating MFN sales (1 units in Oct). Maintain stock and shipping speed."
+    }
+  ]
+}

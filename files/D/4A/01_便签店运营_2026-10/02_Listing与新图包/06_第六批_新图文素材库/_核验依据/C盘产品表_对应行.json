@@ -1,0 +1,702 @@
+[
+  {
+    "file": "C:\\Users\\24243\\Documents\\Codex\\2026-08-11\\7-30-slack-plugin-slack-openai\\4A_Amazon_Operations\\source_workbooks\\亚马逊供应商和开店总表-2026 (1).xlsx",
+    "sheet": "Sheet1",
+    "rows": [
+      [
+        {
+          "cell": "A47",
+          "value": "4A 608-NL-210"
+        },
+        {
+          "cell": "B47",
+          "value": "702877124901"
+        },
+        {
+          "cell": "C47",
+          "value": "B07HDVVZ1B"
+        },
+        {
+          "cell": "D47",
+          "value": "702877121153"
+        },
+        {
+          "cell": "E47",
+          "value": "B07B8RBCKT"
+        },
+        {
+          "cell": "G47",
+          "value": "4A Sticky Notes,6 x 8 Inches,Large Size,7 Neon Color Assorted,Lined,Self-Stick Notes,210 Sheets/Pad,1Pad/Pack,4A 608-N-L-210"
+        },
+        {
+          "cell": "H47",
+          "value": "B"
+        },
+        {
+          "cell": "I47",
+          "value": "34"
+        },
+        {
+          "cell": "J47",
+          "value": "3.5"
+        },
+        {
+          "cell": "K47",
+          "value": "7"
+        },
+        {
+          "cell": "L47",
+          "value": "13.99"
+        },
+        {
+          "cell": "M47",
+          "value": "11.99"
+        },
+        {
+          "cell": "N47",
+          "value": "1"
+        },
+        {
+          "cell": "O47",
+          "value": "8"
+        },
+        {
+          "cell": "P47",
+          "value": "6"
+        },
+        {
+          "cell": "Q47",
+          "value": "0.7"
+        },
+        {
+          "cell": "R47",
+          "value": "0.01945570353213665"
+        },
+        {
+          "cell": "S47",
+          "value": "33.599999999999994"
+        },
+        {
+          "cell": "T47",
+          "value": "1"
+        },
+        {
+          "cell": "U47",
+          "value": "453.59"
+        },
+        {
+          "cell": "V47",
+          "value": "20.32"
+        },
+        {
+          "cell": "W47",
+          "value": "15.24"
+        },
+        {
+          "cell": "X47",
+          "value": "1.7779999999999998"
+        },
+        {
+          "cell": "Y47",
+          "value": "12.8346456692913"
+        },
+        {
+          "cell": "Z47",
+          "value": "9.92125984251969"
+        },
+        {
+          "cell": "AA47",
+          "value": "15.1574803149606"
+        },
+        {
+          "cell": "AB47",
+          "value": "Super Sticky Notes Lined,6x8,Neon Assorted,Super Sticky Notes,Self-Stick Notes,Post it,Sticky note pads,"
+        },
+        {
+          "cell": "AE47",
+          "value": "3.5"
+        },
+        {
+          "cell": "AF47",
+          "value": "1"
+        }
+      ],
+      [
+        {
+          "cell": "A101",
+          "value": "4A 303-AC-holder"
+        },
+        {
+          "cell": "B101",
+          "value": "702877124765"
+        },
+        {
+          "cell": "C101",
+          "value": "B07DJP6SNG"
+        },
+        {
+          "cell": "D101",
+          "value": "702877124123"
+        },
+        {
+          "cell": "E101",
+          "value": "B07F2FCHLK"
+        },
+        {
+          "cell": "G101",
+          "value": "4A Sticky Note Dispenser Pen Holder Set,Self-Stick Notes,8 Ultra Colors 3X3 Inches 400 Neon Sheets Sticky Notes and 1*1 3/4 Inches 2X50 Sheets.100 Flags,4A 303-AC-holder"
+        },
+        {
+          "cell": "H101",
+          "value": "N"
+        },
+        {
+          "cell": "I101",
+          "value": "48"
+        },
+        {
+          "cell": "J101",
+          "value": "3.25"
+        },
+        {
+          "cell": "K101",
+          "value": "6.5"
+        },
+        {
+          "cell": "L101",
+          "value": "12.99"
+        },
+        {
+          "cell": "M101",
+          "value": "10.99"
+        },
+        {
+          "cell": "N101",
+          "value": "0.56"
+        },
+        {
+          "cell": "O101",
+          "value": "3.78"
+        },
+        {
+          "cell": "P101",
+          "value": "3.7"
+        },
+        {
+          "cell": "Q101",
+          "value": "2.17"
+        },
+        {
+          "cell": "R101",
+          "value": "0.017573607411696585"
+        },
+        {
+          "cell": "S101",
+          "value": "30.34962"
+        },
+        {
+          "cell": "U101",
+          "value": "254.0104"
+        },
+        {
+          "cell": "V101",
+          "value": "9.6012"
+        },
+        {
+          "cell": "W101",
+          "value": "9.398000000000001"
+        },
+        {
+          "cell": "X101",
+          "value": "5.5118"
+        },
+        {
+          "cell": "Y101",
+          "value": "15.9448818897638"
+        },
+        {
+          "cell": "Z101",
+          "value": "12.2047244094488"
+        },
+        {
+          "cell": "AA101",
+          "value": "8.34645669291339"
+        },
+        {
+          "cell": "AB101",
+          "value": "Sticky notes,3x3,Dispenser Pen Holder,Set,Neon Assorted,Self-Stick Notes,Post it,Sticky note pads,"
+        },
+        {
+          "cell": "AC101",
+          "value": "15"
+        },
+        {
+          "cell": "AF101",
+          "value": "1"
+        }
+      ],
+      [
+        {
+          "cell": "A160",
+          "value": "4A BP 1111-Px4"
+        },
+        {
+          "cell": "B160",
+          "value": "702877124536"
+        },
+        {
+          "cell": "C160",
+          "value": "B07T55RL97"
+        },
+        {
+          "cell": "D160",
+          "value": "702877121894"
+        },
+        {
+          "cell": "E160",
+          "value": "B07QZR9Z3P"
+        },
+        {
+          "cell": "G160",
+          "value": "4A Sticky Big Pad,11 x 11 In,Large Size,Pastel Yellow,Blue,Pink,Green,Self-Stick Notes,30 Sheets/Pad,4 Pad/Pack,4A BP 1111-Px4"
+        },
+        {
+          "cell": "H160",
+          "value": "B"
+        },
+        {
+          "cell": "I160",
+          "value": "24"
+        },
+        {
+          "cell": "J160",
+          "value": "9"
+        },
+        {
+          "cell": "K160",
+          "value": "18"
+        },
+        {
+          "cell": "L160",
+          "value": "29.99"
+        },
+        {
+          "cell": "N160",
+          "value": "2"
+        },
+        {
+          "cell": "O160",
+          "value": "11"
+        },
+        {
+          "cell": "P160",
+          "value": "11"
+        },
+        {
+          "cell": "Q160",
+          "value": "0.48"
+        },
+        {
+          "cell": "R160",
+          "value": "0.033630573248407646"
+        },
+        {
+          "cell": "S160",
+          "value": "58.08"
+        },
+        {
+          "cell": "U160",
+          "value": "907.18"
+        },
+        {
+          "cell": "V160",
+          "value": "27.94"
+        },
+        {
+          "cell": "W160",
+          "value": "27.94"
+        },
+        {
+          "cell": "X160",
+          "value": "1.22"
+        },
+        {
+          "cell": "Y160",
+          "value": "11.8110236220472"
+        },
+        {
+          "cell": "Z160",
+          "value": "11.8110236220472"
+        },
+        {
+          "cell": "AA160",
+          "value": "15.3543307086614"
+        },
+        {
+          "cell": "AE160",
+          "value": "2.25"
+        },
+        {
+          "cell": "AF160",
+          "value": "4"
+        }
+      ]
+    ]
+  },
+  {
+    "file": "C:\\Users\\24243\\Documents\\Codex\\2026-08-11\\7-30-slack-plugin-slack-openai\\4A_Amazon_Operations\\source_workbooks\\亚马逊供应商和开店总表-2026 (1).xlsx",
+    "sheet": "变体",
+    "rows": [
+      [
+        {
+          "cell": "A46",
+          "value": "holder"
+        },
+        {
+          "cell": "B46",
+          "value": "4A 303-AC-HOLDER"
+        }
+      ]
+    ]
+  },
+  {
+    "file": "C:\\Users\\24243\\Documents\\Codex\\2026-08-11\\7-30-slack-plugin-slack-openai\\4A_Amazon_Operations\\source_workbooks\\亚马逊供应商和开店总表-2023.xlsx",
+    "sheet": "Sheet1",
+    "rows": [
+      [
+        {
+          "cell": "A45",
+          "value": "4A 608-NL-210"
+        },
+        {
+          "cell": "B45",
+          "value": "702877124901"
+        },
+        {
+          "cell": "C45",
+          "value": "B07HDVVZ1B"
+        },
+        {
+          "cell": "D45",
+          "value": "702877121153"
+        },
+        {
+          "cell": "E45",
+          "value": "B07B8RBCKT"
+        },
+        {
+          "cell": "G45",
+          "value": "4A Sticky Notes,6 x 8 Inches,Large Size,7 Neon Color Assorted,Lined,Self-Stick Notes,210 Sheets/Pad,1Pad/Pack,4A 608-N-L-210"
+        },
+        {
+          "cell": "H45",
+          "value": "34"
+        },
+        {
+          "cell": "I45",
+          "value": "2.5"
+        },
+        {
+          "cell": "J45",
+          "value": "7.5"
+        },
+        {
+          "cell": "K45",
+          "value": "9.99"
+        },
+        {
+          "cell": "L45",
+          "value": "1"
+        },
+        {
+          "cell": "M45",
+          "value": "8"
+        },
+        {
+          "cell": "N45",
+          "value": "6"
+        },
+        {
+          "cell": "O45",
+          "value": "0.7"
+        },
+        {
+          "cell": "P45",
+          "value": "0.01945570353213665"
+        },
+        {
+          "cell": "Q45",
+          "value": "33.599999999999994"
+        },
+        {
+          "cell": "R45",
+          "value": "1"
+        },
+        {
+          "cell": "S45",
+          "value": "453.59"
+        },
+        {
+          "cell": "T45",
+          "value": "20.32"
+        },
+        {
+          "cell": "U45",
+          "value": "15.24"
+        },
+        {
+          "cell": "V45",
+          "value": "1.7779999999999998"
+        },
+        {
+          "cell": "W45",
+          "value": "12.8346456692913"
+        },
+        {
+          "cell": "X45",
+          "value": "9.92125984251969"
+        },
+        {
+          "cell": "Y45",
+          "value": "15.1574803149606"
+        },
+        {
+          "cell": "Z45",
+          "value": "Super Sticky Notes Lined,6x8,Neon Assorted,Super Sticky Notes,Self-Stick Notes,Post it,Sticky note pads,"
+        },
+        {
+          "cell": "AD45",
+          "value": "2.5"
+        },
+        {
+          "cell": "AE45",
+          "value": "1"
+        }
+      ],
+      [
+        {
+          "cell": "A109",
+          "value": "4A 303-AC-holder"
+        },
+        {
+          "cell": "B109",
+          "value": "702877124765"
+        },
+        {
+          "cell": "C109",
+          "value": "B07DJP6SNG"
+        },
+        {
+          "cell": "D109",
+          "value": "702877124123"
+        },
+        {
+          "cell": "E109",
+          "value": "B07F2FCHLK"
+        },
+        {
+          "cell": "G109",
+          "value": "4A Sticky Note Dispenser Pen Holder Set,Self-Stick Notes,8 Ultra Colors 3X3 Inches 400 Neon Sheets Sticky Notes and 1*1 3/4 Inches 2X50 Sheets.100 Flags,4A 303-AC-holder"
+        },
+        {
+          "cell": "H109",
+          "value": "48"
+        },
+        {
+          "cell": "I109",
+          "value": "2.75"
+        },
+        {
+          "cell": "J109",
+          "value": "5.5"
+        },
+        {
+          "cell": "K109",
+          "value": "10.99"
+        },
+        {
+          "cell": "L109",
+          "value": "0.56"
+        },
+        {
+          "cell": "M109",
+          "value": "3.78"
+        },
+        {
+          "cell": "N109",
+          "value": "3.7"
+        },
+        {
+          "cell": "O109",
+          "value": "2.17"
+        },
+        {
+          "cell": "P109",
+          "value": "0.017573607411696585"
+        },
+        {
+          "cell": "Q109",
+          "value": "30.34962"
+        },
+        {
+          "cell": "S109",
+          "value": "254.0104"
+        },
+        {
+          "cell": "T109",
+          "value": "9.6012"
+        },
+        {
+          "cell": "U109",
+          "value": "9.398000000000001"
+        },
+        {
+          "cell": "V109",
+          "value": "5.5118"
+        },
+        {
+          "cell": "W109",
+          "value": "15.9448818897638"
+        },
+        {
+          "cell": "X109",
+          "value": "12.2047244094488"
+        },
+        {
+          "cell": "Y109",
+          "value": "8.34645669291339"
+        },
+        {
+          "cell": "Z109",
+          "value": "Sticky notes,3x3,Dispenser Pen Holder,Set,Neon Assorted,Self-Stick Notes,Post it,Sticky note pads,"
+        },
+        {
+          "cell": "AA109",
+          "value": "15"
+        },
+        {
+          "cell": "AE109",
+          "value": "1"
+        }
+      ],
+      [
+        {
+          "cell": "A167",
+          "value": "4A BP 1111-Px4"
+        },
+        {
+          "cell": "B167",
+          "value": "702877124536"
+        },
+        {
+          "cell": "C167",
+          "value": "B07T55RL97"
+        },
+        {
+          "cell": "D167",
+          "value": "702877121894"
+        },
+        {
+          "cell": "E167",
+          "value": "B07QZR9Z3P"
+        },
+        {
+          "cell": "G167",
+          "value": "4A Sticky Big Pad,11 x 11 In,Large Size,Pastel Yellow,Blue,Pink,Green,Self-Stick Notes,30 Sheets/Pad,4 Pad/Pack,4A BP 1111-Px4"
+        },
+        {
+          "cell": "H167",
+          "value": "24"
+        },
+        {
+          "cell": "I167",
+          "value": "9"
+        },
+        {
+          "cell": "J167",
+          "value": "18"
+        },
+        {
+          "cell": "K167",
+          "value": "35.99"
+        },
+        {
+          "cell": "L167",
+          "value": "2"
+        },
+        {
+          "cell": "M167",
+          "value": "11"
+        },
+        {
+          "cell": "N167",
+          "value": "11"
+        },
+        {
+          "cell": "O167",
+          "value": "0.48"
+        },
+        {
+          "cell": "P167",
+          "value": "0.033630573248407646"
+        },
+        {
+          "cell": "Q167",
+          "value": "58.08"
+        },
+        {
+          "cell": "S167",
+          "value": "907.18"
+        },
+        {
+          "cell": "T167",
+          "value": "27.94"
+        },
+        {
+          "cell": "U167",
+          "value": "27.94"
+        },
+        {
+          "cell": "V167",
+          "value": "1.22"
+        },
+        {
+          "cell": "W167",
+          "value": "11.8110236220472"
+        },
+        {
+          "cell": "X167",
+          "value": "11.8110236220472"
+        },
+        {
+          "cell": "Y167",
+          "value": "15.3543307086614"
+        },
+        {
+          "cell": "AD167",
+          "value": "2.25"
+        },
+        {
+          "cell": "AE167",
+          "value": "4"
+        }
+      ]
+    ]
+  },
+  {
+    "file": "C:\\Users\\24243\\Documents\\Codex\\2026-08-11\\7-30-slack-plugin-slack-openai\\4A_Amazon_Operations\\source_workbooks\\亚马逊供应商和开店总表-2023.xlsx",
+    "sheet": "变体",
+    "rows": [
+      [
+        {
+          "cell": "A46",
+          "value": "holder"
+        },
+        {
+          "cell": "B46",
+          "value": "4A 303-AC-HOLDER"
+        }
+      ]
+    ]
+  }
+]

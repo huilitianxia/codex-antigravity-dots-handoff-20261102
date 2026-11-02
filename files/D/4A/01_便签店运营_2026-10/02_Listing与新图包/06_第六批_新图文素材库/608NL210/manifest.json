@@ -1,0 +1,214 @@
+{
+  "sku": "4A 608-N-L-210",
+  "asin": "B07B8RBCKT",
+  "spec": "6 × 8 in landscape · 1 pad · 7 colors × 30 sheets · 210 sheets",
+  "checked_at": "2026-10-31 Asia/Shanghai",
+  "catalog_url": "https://www.amazon.com/dp/B07B8RBCKT",
+  "catalog_correction": "总表第47行把第二批B07HDVVZ1B与本批B07B8RBCKT对应同款。五张已完成稿复用，主图仅重新输出白底与边距，旧文件不变。实际为横向8英寸宽、6英寸高，横线及胶边沿长边；不是竖式或7本散装。包装所见色序优先，不盲套执行包的色序。",
+  "workbook_source": {
+    "file": "C:/Users/24243/Documents/Codex/2026-08-11/7-30-slack-plugin-slack-openai/4A_Amazon_Operations/source_workbooks/亚马逊供应商和开店总表-2026 (1).xlsx",
+    "sheet": "Sheet1",
+    "range": "A47:G47"
+  },
+  "reference_files": [
+    {
+      "original": "E:/Desktop/待上架_新图文素材库_第六批/_核验依据/B07B8RBCKT_MAIN.jpg",
+      "copy": "原图参考/01_B07B8RBCKT_MAIN.jpg",
+      "sha256": "89ca35feddac235e06c4ee269b61f33ffb167b8f9169f2aaa15fe2513cac5da6"
+    },
+    {
+      "original": "D:/4A/印刷用图片/电商/亚马逊图片-2021/1-----4A Stiky notes/4A 608-N-L-210/702877117514.main.jpg",
+      "copy": "原图参考/02_702877117514.main.jpg",
+      "sha256": "fd6d35ce39b32331d731ab8982e8e7a42fb3a7c246b00d6574e520cad574fcf4"
+    }
+  ],
+  "images": [
+    {
+      "id": "608NL210_01",
+      "title": "主图｜单本七色210张",
+      "type": "main",
+      "order": 1,
+      "sku": "4A 608-N-L-210",
+      "asin": "B07B8RBCKT",
+      "file": "交付候选_2000px/608NL210_01.png",
+      "jpg": "ASIN命名JPG_交付候选/B07B8RBCKT.MAIN.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/608NL210_01.png",
+      "original_source": "E:\\Desktop\\待上架_新图文素材库_第二批\\608NL210\\生成源图\\608NL210_01.png",
+      "source_pixels": [
+        1448,
+        1086
+      ],
+      "kind": "reuse",
+      "processing": "透明源稿按alpha居中，Lanczos3等比缩放，合成RGB255白底",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "复用第二批单本七色210张主图源稿，保留横向与黄色横线顶页。",
+      "remaining_checks": "纸厚、行距与批次色序须核样；不证明80GSM。",
+      "technical": {
+        "background_rgb": [
+          255,
+          255,
+          255
+        ],
+        "border60": {
+          "checked_pixels": 465600,
+          "exact_white_pixels": 465600,
+          "pass": true
+        },
+        "safety_margins_including_shadow": [
+          76,
+          306,
+          76,
+          306
+        ],
+        "margin_pass": true,
+        "product_longest_span_percent": 89.5,
+        "occupancy_pass": true,
+        "occupancy_definition": "alpha>230近似实体外接框最长边/2000，非面积占比；透明壳和阴影另行目视检查。",
+        "jpg_border60": {
+          "checked_pixels": 465600,
+          "exact_white_pixels": 465600,
+          "pass": true
+        }
+      },
+      "png_sha256": "e70ea50c5f3a347ea01ce9a6be513cc5b584a0b112c00096b590dc2e8edacd14",
+      "jpg_sha256": "833316c3676f478971cb09001ef3a0e38f74f53b83de838e11c95e8fbcfb4d55"
+    },
+    {
+      "id": "608NL210_02",
+      "title": "横向6×8尺寸与横线",
+      "type": "secondary",
+      "order": 2,
+      "sku": "4A 608-N-L-210",
+      "asin": "B07B8RBCKT",
+      "file": "交付候选_2000px/608NL210_02.png",
+      "jpg": "ASIN命名JPG_交付候选/B07B8RBCKT.PT01.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/608NL210_02.png",
+      "original_source": "E:\\Desktop\\待上架_新图文素材库_第二批\\608NL210\\交付候选_2000px\\608NL210_02.png",
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "kind": "reuse",
+      "processing": "原样复用第二批2000px PNG；像素不变，仅更新本批ASIN归档",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "复用第二批原生SVG规格图，8:6横向比例、8英寸长边上胶方向正确。",
+      "remaining_checks": "横线为版式示意，不宣称精确行数或毫米行距。",
+      "technical": {},
+      "png_sha256": "f8271c53128f7be4abfd006e34085df12b1a3d16192af0e838d63ab1a8ccbb12",
+      "jpg_sha256": "cd7383a75510e04991fb8e67209bdc8ae007d56d2e7a4252d440e1b24d964a57"
+    },
+    {
+      "id": "608NL210_03",
+      "title": "书写与纸面",
+      "type": "secondary",
+      "order": 3,
+      "sku": "4A 608-N-L-210",
+      "asin": "B07B8RBCKT",
+      "file": "交付候选_2000px/608NL210_03.png",
+      "jpg": "ASIN命名JPG_交付候选/B07B8RBCKT.PT02.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/608NL210_03.png",
+      "original_source": "E:\\Desktop\\待上架_新图文素材库_第二批\\608NL210\\交付候选_2000px\\608NL210_03.png",
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "kind": "reuse",
+      "processing": "原样复用第二批2000px PNG；像素不变，仅更新本批ASIN归档",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "复用已返修的书写稿，实际包装七色顺序已对照，无No Bleed描述。",
+      "remaining_checks": "日常书写场景不作为墨水渗透测试。",
+      "technical": {},
+      "png_sha256": "ebeaa11089f09261f1485f889da704c8833fb20eba6bd19583c590d8b475c12a",
+      "jpg_sha256": "587d4366f5e8e7a9856605969bb7b16a99502d6934435397751ac783f5afa81c"
+    },
+    {
+      "id": "608NL210_04",
+      "title": "清单与会议记录",
+      "type": "secondary",
+      "order": 4,
+      "sku": "4A 608-N-L-210",
+      "asin": "B07B8RBCKT",
+      "file": "交付候选_2000px/608NL210_04.png",
+      "jpg": "ASIN命名JPG_交付候选/B07B8RBCKT.PT03.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/608NL210_04.png",
+      "original_source": "E:\\Desktop\\待上架_新图文素材库_第二批\\608NL210\\交付候选_2000px\\608NL210_04.png",
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "kind": "reuse",
+      "processing": "原样复用第二批2000px PNG；像素不变，仅更新本批ASIN归档",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "复用两张薄纸的清单/会议纪要，横向比例与图文清楚。",
+      "remaining_checks": "手写清单非预印；具体纸色与行距仍需核样。",
+      "technical": {},
+      "png_sha256": "004fc23ea800d5660cd196e31763704b02dc6362856b41c0efba55f894c713b2",
+      "jpg_sha256": "27990a9332ab535ca0e4ab3c0d55807c172c35c0eb30322221bbd4f372f7fb51"
+    },
+    {
+      "id": "608NL210_05",
+      "title": "七色与210张容量",
+      "type": "secondary",
+      "order": 5,
+      "sku": "4A 608-N-L-210",
+      "asin": "B07B8RBCKT",
+      "file": "交付候选_2000px/608NL210_05.png",
+      "jpg": "ASIN命名JPG_交付候选/B07B8RBCKT.PT04.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/608NL210_05.png",
+      "original_source": "E:\\Desktop\\待上架_新图文素材库_第二批\\608NL210\\交付候选_2000px\\608NL210_05.png",
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "kind": "reuse",
+      "processing": "原样复用第二批2000px PNG；像素不变，仅更新本批ASIN归档",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "复用单本7色×30=210规格图，未改成七本散装。",
+      "remaining_checks": "色序、纸厚与胶位需实物批次核样。",
+      "technical": {},
+      "png_sha256": "df532a5e85c3970597b0b1b6bfcb2a259445e4a7b236f7f83e699b1db9613c63",
+      "jpg_sha256": "81dab0166e07eeb636ca0925f836c59a6ebe265c3e62512b181c756d93c1c7b5"
+    }
+  ],
+  "note": "设计检查不等于实物核样或Amazon批准。原始素材及前五批不改动。"
+}

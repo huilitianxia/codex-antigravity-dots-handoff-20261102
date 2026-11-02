@@ -1,0 +1,236 @@
+{
+  "sku": "4A PSS 9-3 YOR",
+  "asin": "B01MZ4FDN5",
+  "spec": "1 dispenser · 3 color strips · 0.6 × 315 in per color",
+  "checked_at": "2026-10-31 Asia/Shanghai",
+  "catalog_url": "https://www.amazon.com/dp/B01MZ4FDN5",
+  "catalog_correction": "当前Amazon、C盘总表与原始实拍为一个透明分配器内并排黄/橙/玫红窄条，单条0.6英寸宽×315英寸长。不是3卷1.8英寸宽替换芯；删除通用所有底座、30米、300本便签等错误表述。",
+  "workbook_source": {
+    "file": "C:/Users/24243/Documents/Codex/2026-08-11/7-30-slack-plugin-slack-openai/4A_Amazon_Operations/source_workbooks/亚马逊供应商和开店总表-2026 (1).xlsx",
+    "sheet": "Sheet1",
+    "range": "A120:G120"
+  },
+  "reference_files": [
+    {
+      "original": "E:/Desktop/待上架_新图文素材库_第五批/_核验依据/B01MZ4FDN5_MAIN.jpg",
+      "copy": "原图参考/01_B01MZ4FDN5_MAIN.jpg",
+      "sha256": "03d69cf8d551b9154fc69447e09640a803b76b17d7cffeb423a9c95d0efb490e"
+    },
+    {
+      "original": "D:/4A/印刷用图片/电商/亚马逊图片-2021/8-----4A Roll Sticky Notes/PSS 9-3 YOR/PSS-9-3-YOR-4.jpg",
+      "copy": "原图参考/02_PSS-9-3-YOR-4.jpg",
+      "sha256": "97708fda2d2213d2252be796085acdc36b2622f55d11a890cae458af35f8395a"
+    },
+    {
+      "original": "D:/4A/印刷用图片/电商/亚马逊图片-2021/8-----4A Roll Sticky Notes/PSS 9-3 YOR/702877123027.main.jpg",
+      "copy": "原图参考/03_702877123027.main.jpg",
+      "sha256": "4314b2def26abcf5afded688e169f0e6bfab09907e9f76bf8e34d1a5ff4a69e3"
+    },
+    {
+      "original": "E:/Desktop/待上架_新图文素材库_第五批/_核验依据/B01MZ4FDN5_PT06.jpg",
+      "copy": "原图参考/04_B01MZ4FDN5_PT06.jpg",
+      "sha256": "f0c77d4f4442ce942b63b39c9cb65ed931c8f39bf28996147a4056b4470ac1d8"
+    }
+  ],
+  "images": [
+    {
+      "id": "PSS93_01",
+      "title": "主图｜一器三色窄卷",
+      "type": "main",
+      "order": 1,
+      "sku": "4A PSS 9-3 YOR",
+      "asin": "B01MZ4FDN5",
+      "file": "交付候选_2000px/PSS93_01.png",
+      "jpg": "ASIN命名JPG_交付候选/B01MZ4FDN5.MAIN.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/PSS93_01.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-f9774bb3-83b9-4d32-a4df-ff8fe24d3b8c.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "new_imagegen",
+      "processing": "透明源稿按alpha居中，Lanczos3等比缩放，合成RGB255白底",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "一个透明分配器、三色窄条并排，保留实拍圆侧板与撕纸横条。",
+      "remaining_checks": "透明壳细节、纸路、齿形、纸厚及实际颜色仍需核样。",
+      "technical": {
+        "background_rgb": [
+          255,
+          255,
+          255
+        ],
+        "border60": {
+          "checked_pixels": 465600,
+          "exact_white_pixels": 465600,
+          "pass": true
+        },
+        "safety_margins_including_shadow": [
+          96,
+          189,
+          97,
+          190
+        ],
+        "margin_pass": true,
+        "product_longest_span_percent": 89.45,
+        "occupancy_pass": true,
+        "occupancy_definition": "alpha>230近似实体外接框最长边/2000，非面积占比；透明壳和阴影另行目视检查。",
+        "jpg_border60": {
+          "checked_pixels": 465600,
+          "exact_white_pixels": 465600,
+          "pass": true
+        }
+      },
+      "png_sha256": "9ab87139e577609117f70c9e699d8e1e77cffb268088fc5057245130abe0230d",
+      "jpg_sha256": "42c15305e574adc979e3bb93bd486e272df49ae190992cd1aca7eacaf9c06a64"
+    },
+    {
+      "id": "PSS93_02",
+      "title": "选色与自由裁长",
+      "type": "secondary",
+      "order": 2,
+      "sku": "4A PSS 9-3 YOR",
+      "asin": "B01MZ4FDN5",
+      "file": "审稿待核_2000px/PSS93_02.png",
+      "jpg": "ASIN命名JPG_审稿待核/B01MZ4FDN5.PT01.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/PSS93_02.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-1f2d91f3-8b74-4f7c-92b6-749103aecf0d.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "new_imagegen",
+      "processing": "内置imagegen生成/返修稿等比插值至2000px，未声称恢复实拍细节",
+      "status": "needs_product_check",
+      "status_zh": "审稿待核",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "用选色、裁长和已裁标签替换错误的通用替换芯兼容图。",
+      "remaining_checks": "纸带跨过撕纸横条的路径、抽纸方式与真实机械结构尚未实物验证；列待核稿。",
+      "technical": {},
+      "png_sha256": "36fe182d6ccb4d7ae86a175e611fd700f39e7389c129f48ef04049f410e2a2d5",
+      "jpg_sha256": "5e28df2f28e2dcd8f728e6772c03ae1a4321d733deadfc51e68d41c2fa047742"
+    },
+    {
+      "id": "PSS93_03",
+      "title": "窄条宽度与每色卷长",
+      "type": "secondary",
+      "order": 3,
+      "sku": "4A PSS 9-3 YOR",
+      "asin": "B01MZ4FDN5",
+      "file": "交付候选_2000px/PSS93_03.png",
+      "jpg": "ASIN命名JPG_交付候选/B01MZ4FDN5.PT02.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/PSS93_03_exact.svg",
+      "original_source": null,
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "kind": "svg",
+      "processing": "原生2000×2000 SVG生成PNG；规格/胶面示意，保留可编辑SVG",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "SVG窄条按统一比例，宽0.6英寸；每色长315英寸；1个分配器。",
+      "remaining_checks": "示例裁切长度不代表预裁规格；不使用30米总长或等同300本便签的错误推算。",
+      "technical": {
+        "cut_example_scale_px_per_in": 220,
+        "width_px": 132,
+        "width_in": 0.6,
+        "example_cut_lengths_in": [
+          2,
+          3,
+          5
+        ],
+        "length_per_color_in": 315,
+        "dispensers": 1,
+        "colors": 3
+      },
+      "png_sha256": "52957621ddea9afb1f6dd5ba598ca376a5ae96d3763b582a1e2ac40c7f516d58",
+      "jpg_sha256": "e85182de679b35f642088471c5de1034a7caf2f658f5957ed26a37a9feebb08d"
+    },
+    {
+      "id": "PSS93_04",
+      "title": "文件与学习索引",
+      "type": "secondary",
+      "order": 4,
+      "sku": "4A PSS 9-3 YOR",
+      "asin": "B01MZ4FDN5",
+      "file": "交付候选_2000px/PSS93_04.png",
+      "jpg": "ASIN命名JPG_交付候选/B01MZ4FDN5.PT03.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/PSS93_04.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-5af772b4-2082-40b5-b4ca-88177b498833.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "new_imagegen",
+      "processing": "内置imagegen生成/返修稿等比插值至2000px，未声称恢复实拍细节",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "三色窄纸条用于文件页边、书写标记和文件夹标签。",
+      "remaining_checks": "不声明档案级或薄纸无损；手写及场景道具为示意。",
+      "technical": {},
+      "png_sha256": "4c3fd99918f216fa253b0f12518f0ce3086de3c2114ce63ae75531139475c15b",
+      "jpg_sha256": "77b667abc349cca0784f6936740b0a3f8fdf1f9015cd414e0174367cc138219b"
+    },
+    {
+      "id": "PSS93_05",
+      "title": "家庭标签与收纳",
+      "type": "secondary",
+      "order": 5,
+      "sku": "4A PSS 9-3 YOR",
+      "asin": "B01MZ4FDN5",
+      "file": "交付候选_2000px/PSS93_05.png",
+      "jpg": "ASIN命名JPG_交付候选/B01MZ4FDN5.PT04.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/PSS93_05.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-1bbae8e1-cd30-47a5-9258-8d291c1aad20.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "new_imagegen",
+      "processing": "内置imagegen生成/返修稿等比插值至2000px，未声称恢复实拍细节",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "玻璃罐和收纳盒外部标签场景，保留一个三色分配器。",
+      "remaining_checks": "不宣称可水洗、防水或食品接触安全；实际表面适配需核样。",
+      "technical": {},
+      "png_sha256": "2347ffd2ac904e178198a45a3cde39c93c9007c52b7f396deb8a386523a72baf",
+      "jpg_sha256": "719fcc7502f588ca157674bfdd83f14963f8077049247e00a4bcf0fca19875a7"
+    }
+  ],
+  "note": "设计检查不等于实物核样或Amazon批准。原始素材及前四批不改动。"
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "group": "PSS32x6",
+    "directory": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\merge-support-packages\\pss32x6",
+    "files": [
+      {
+        "name": "identity-fields.txt",
+        "sha256": "1e7ae26393354bcab2d579605a8736c76dd992afe0742892cf270fe41ae71b9d",
+        "bytes": 1474
+      },
+      {
+        "name": "product-page-excerpts.txt",
+        "sha256": "6207be7619adfe0eff8c5e5f18ff4abd1f5684a08444ef5c6f04d265197433c6",
+        "bytes": 970
+      },
+      {
+        "name": "request.txt",
+        "sha256": "dd679ec12cbdac2c825113db4f5c1e10829b720e2be72b96b8d53e842e0632c9",
+        "bytes": 1231
+      }
+    ],
+    "image_files": 0,
+    "raw_workbooks": 0,
+    "unrelated_asin_allowed": false,
+    "external_sent": false
+  },
+  {
+    "group": "406x6 pastel",
+    "directory": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\merge-support-packages\\406-pastel",
+    "files": [
+      {
+        "name": "identity-fields.txt",
+        "sha256": "08c4a634a03df634cd296ff4fc3eb29a37342a1686f4edff168e77f19b1ec286",
+        "bytes": 1529
+      },
+      {
+        "name": "product-page-excerpts.txt",
+        "sha256": "96d3c021fdbd62dec56a82b7b2b1414fb2e750d963eedd4f8665d17a13b19d25",
+        "bytes": 1080
+      },
+      {
+        "name": "request.txt",
+        "sha256": "7ec8f466a7f252925db442b594327592fe3af8a68508c74d4bc904306285968e",
+        "bytes": 1155
+      }
+    ],
+    "image_files": 0,
+    "raw_workbooks": 0,
+    "unrelated_asin_allowed": false,
+    "external_sent": false
+  },
+  {
+    "group": "406x6 neon",
+    "directory": "E:\\OpenAI-Codex\\天皇のcodex\\work\\4a-reclass-20261031\\merge-support-packages\\406-neon",
+    "files": [
+      {
+        "name": "identity-fields.txt",
+        "sha256": "f86792590ff21466251d66df8f2d5df1d3a5c93d73eceb87366652f500507012",
+        "bytes": 1567
+      },
+      {
+        "name": "product-page-excerpts.txt",
+        "sha256": "35c300ba7653d3e2adbb7b3da07fe9e623b419133e9bf57c722df2f9fe03b06e",
+        "bytes": 1439
+      },
+      {
+        "name": "request.txt",
+        "sha256": "4365de57bcfd8fc297e29e68acec6fa5f18059d8d01a8a2a3ce1d6ff28c4b552",
+        "bytes": 1209
+      }
+    ],
+    "image_files": 0,
+    "raw_workbooks": 0,
+    "unrelated_asin_allowed": false,
+    "external_sent": false
+  }
+]

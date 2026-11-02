@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-30",
+  "count": 15,
+  "errors": [],
+  "main_checks": [
+    {
+      "id": "40609_01",
+      "background_rgb": [
+        255,
+        255,
+        255
+      ],
+      "border60_checked": 465600,
+      "border60_white": 465600,
+      "white_background_pass": true,
+      "safety_margins_including_shadow": [
+        74,
+        61,
+        74,
+        61
+      ],
+      "margin_pass": true,
+      "product_bbox_alpha230": {
+        "left": 121,
+        "top": 169,
+        "width": 1749,
+        "height": 1689
+      },
+      "product_longest_span_percent": 87.45,
+      "occupancy_pass": true,
+      "occupancy_definition": "alpha>230实体近似外接框最长边/2000；不是画幅面积占比。"
+    },
+    {
+      "id": "5088NL_01",
+      "background_rgb": [
+        255,
+        255,
+        255
+      ],
+      "border60_checked": 465600,
+      "border60_white": 465600,
+      "white_background_pass": true,
+      "safety_margins_including_shadow": [
+        61,
+        113,
+        61,
+        114
+      ],
+      "margin_pass": true,
+      "product_bbox_alpha230": {
+        "left": 128,
+        "top": 159,
+        "width": 1775,
+        "height": 1721
+      },
+      "product_longest_span_percent": 88.75,
+      "occupancy_pass": true,
+      "occupancy_definition": "alpha>230实体近似外接框最长边/2000；不是画幅面积占比。"
+    },
+    {
+      "id": "PSS91_01",
+      "background_rgb": [
+        255,
+        255,
+        255
+      ],
+      "border60_checked": 465600,
+      "border60_white": 465600,
+      "white_background_pass": true,
+      "safety_margins_including_shadow": [
+        82,
+        82,
+        83,
+        83
+      ],
+      "margin_pass": true,
+      "product_bbox_alpha230": {
+        "left": 102,
+        "top": 250,
+        "width": 1799,
+        "height": 1559
+      },
+      "product_longest_span_percent": 89.95,
+      "occupancy_pass": true,
+      "occupancy_definition": "alpha>230实体近似外接框最长边/2000；不是画幅面积占比。"
+    }
+  ],
+  "visual_review": "已逐图查看13张生成图、2张40609返修图、2张最终SVG尺寸图及15张总预览；检查数量、文字、结构、贴附平整与比例。PSS动作及换卷保留待核状态。",
+  "limitations": "仅技术及设计检查，不等于实物核样或Amazon审核通过。",
+  "file_checks": [
+    {
+      "id": "40609_01",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "mode": "RGB",
+      "sha256_match": true,
+      "local_source_copy": true
+    },
+    {
+      "id": "40609_02",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "mode": "RGB",
+      "sha256_match": true,
+      "local_source_copy": true
+    },
+    {
+      "id": "40609_03",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "mode": "RGB",
+      "sha256_match": true,
+      "local_source_copy": true
+    },
+    {
+      "id": "40609_04",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "mode": "RGB",
+      "sha256_match": true,
+      "local_source_copy": true
+    },
+    {
+      "id": "40609_05",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "mode": "RGB",
+      "sha256_match": true,
+      "local_source_copy": true
+    },
+    {
+      "id": "5088NL_01",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "mode": "RGB",
+      "sha256_match": true,
+      "local_source_copy": true
+    },
+    {
+      "id": "5088NL_02",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "mode": "RGB",
+      "sha256_match": true,
+      "local_source_copy": true
+    },
+    {
+      "id": "5088NL_03",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "mode": "RGB",
+      "sha256_match": true,
+      "local_source_copy": true
+    },
+    {
+      "id": "5088NL_04",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "mode": "RGB",
+      "sha256_match": true,
+      "local_source_copy": true
+    },
+    {
+      "id": "5088NL_05",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "mode": "RGB",
+      "sha256_match": true,
+      "local_source_copy": true
+    },
+    {
+      "id": "PSS91_01",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "mode": "RGB",
+      "sha256_match": true,
+      "local_source_copy": true
+    },
+    {
+      "id": "PSS91_02",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "mode": "RGB",
+      "sha256_match": true,
+      "local_source_copy": true
+    },
+    {
+      "id": "PSS91_03",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "mode": "RGB",
+      "sha256_match": true,
+      "local_source_copy": true
+    },
+    {
+      "id": "PSS91_04",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "mode": "RGB",
+      "sha256_match": true,
+      "local_source_copy": true
+    },
+    {
+      "id": "PSS91_05",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "mode": "RGB",
+      "sha256_match": true,
+      "local_source_copy": true
+    }
+  ],
+  "browser_check": {
+    "all_15_images_loaded_at_2000px": true,
+    "horizontal_overflow": false,
+    "checked_page": "审稿总览.html"
+  }
+}

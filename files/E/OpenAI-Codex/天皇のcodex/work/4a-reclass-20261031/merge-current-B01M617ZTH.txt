@@ -1,0 +1,1602 @@
+- generic: 卖家精灵
+- navigation "Shortcuts menu":
+  - heading "Skip to" [level=2]
+  - list "Skip to":
+    - link "main content":
+      - /url: "#skippedLink"
+      - text: Main content
+    - link "About this item":
+      - /url: "#featurebullets_feature_div"
+    - link "Buying options":
+      - /url: "#buybox"
+    - link "Videos":
+      - /url: "#va-related-videos-widget_feature_div"
+    - link "Reviews":
+      - /url: "#customerReviews"
+  - separator
+  - heading "Keyboard shortcuts" [level=2]
+  - list "Keyboard shortcuts":
+    - link "Search, alt, forward slash":
+      - /url: javascript:void(0)
+      - generic: Search
+      - generic: alt
+      - generic: +
+      - generic: /
+    - link "Cart, shift, alt, c":
+      - /url: javascript:void(0)
+      - generic: Cart
+      - generic: shift
+      - generic: +
+      - generic: alt
+      - generic: +
+      - generic: C
+    - link "Home, shift, alt, h":
+      - /url: javascript:void(0)
+      - generic: Home
+      - generic: shift
+      - generic: +
+      - generic: alt
+      - generic: +
+      - generic: H
+    - link "Your orders, shift, alt, o":
+      - /url: javascript:void(0)
+      - generic: Orders
+      - generic: shift
+      - generic: +
+      - generic: alt
+      - generic: +
+      - generic: O
+    - link "To go to the Independent Living Shop, press shift, alt, I":
+      - /url: javascript:void(0)
+      - generic: Independent Living Shop
+      - generic: shift
+      - generic: +
+      - generic: alt
+      - generic: +
+      - generic: I
+    - button "Add to cart, shift, alt, K":
+      - generic: Add to cart
+      - generic: shift
+      - generic: +
+      - generic: alt
+      - generic: +
+      - generic: K
+    - button "Product summary, shift, alt, d":
+      - generic: Product summary
+      - generic: shift
+      - generic: +
+      - generic: alt
+      - generic: +
+      - generic: D
+    - button "Show/hide shortcuts, shift, alt, z":
+      - generic: Show/Hide shortcuts
+      - generic: shift
+      - generic: +
+      - generic: alt
+      - generic: +
+      - generic: Z
+  - generic: To move between items, use your keyboard's up or down arrows.
+- banner:
+  - navigation "Primary":
+    - link "Amazon":
+      - /url: /ref=nav_logo
+    - button "Deliver to New York 10001‌":
+      - generic: Deliver to
+      - generic: New York 10001‌
+    - search:
+      - generic: Office Products
+      - combobox "Select the department you want to search in":
+        - option "All Departments"
+        - option "Alexa Skills"
+        - option "Amazon Autos"
+        - option "Amazon Devices"
+        - option "Amazon Fresh"
+        - option "Amazon Global Store"
+        - option "Amazon Haul"
+        - option "Amazon One Medical"
+        - option "Amazon Pharmacy"
+        - option "Amazon Resale"
+        - option "Appliances"
+        - option "Apps & Games"
+        - option "Arts, Crafts & Sewing"
+        - option "Audible Books & Originals"
+        - option "Automotive Parts & Accessories"
+        - option "Baby"
+        - option "Beauty & Personal Care"
+        - option "Books"
+        - option "CDs & Vinyl"
+        - option "Cell Phones & Accessories"
+        - option "Clothing, Shoes & Jewelry"
+        - option "Women's Clothing, Shoes & Jewelry"
+        - option "Men's Clothing, Shoes & Jewelry"
+        - option "Girl's Clothing, Shoes & Jewelry"
+        - option "Boy's Clothing, Shoes & Jewelry"
+        - option "Baby Clothing, Shoes & Jewelry"
+        - option "Collectibles & Fine Art"
+        - option "Computers"
+        - option "Credit and Payment Cards"
+        - option "Digital Music"
+        - option "Electronics"
+        - option "Garden & Outdoor"
+        - option "Gift Cards"
+        - option "Grocery & Gourmet Food"
+        - option "Handmade"
+        - option "Health, Household & Baby Care"
+        - option "Home & Business Services"
+        - option "Home & Kitchen"
+        - option "Industrial & Scientific"
+        - option "Just for Prime"
+        - option "Kindle Store"
+        - option "Luggage & Travel Gear"
+        - option "Luxury Stores"
+        - option "Magazine Subscriptions"
+        - option "Movies & TV"
+        - option "Musical Instruments"
+        - option "Office Products" [selected]
+        - option "Pet Supplies"
+        - option "Premium Beauty"
+        - option "Prime Video"
+        - option "Same-Day Store"
+        - option "Smart Home"
+        - option "Software"
+        - option "Sports & Outdoors"
+        - option "Subscribe & Save"
+        - option "Subscription Boxes"
+        - option "Tools & Home Improvement"
+        - option "Toys & Games"
+        - option "Under $10"
+        - option "Video Games"
+        - option "Whole Foods Market"
+      - searchbox "Search Amazon"
+      - generic "Go"
+    - link "Choose a language for shopping in Amazon United States. The current selection is English (EN).":
+      - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang
+      - img "United States"
+      - generic: EN
+    - button "Expand to Change Language or Country"
+    - link "Hello, Andy Account & Lists":
+      - /url: https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn
+      - generic: Hello, Andy
+      - generic: Account & Lists
+    - button "Expand Account and Lists"
+    - link "Returns & Orders":
+      - /url: /gp/css/order-history?ref_=nav_orders_first
+      - generic: Returns
+      - generic: "& Orders"
+    - link "99+ items in cart":
+      - /url: /gp/cart/view.html?ref_=nav_cart
+      - generic: 99+
+      - generic: Cart
+    - button "Open All Categories Menu":
+      - generic: All
+    - button "Open Alexa panel"
+    - button "Join Prime":
+      - generic: Join Prime
+    - list:
+      - link "Holiday Gifts":
+        - /url: https://www.amazon.com/b/?node=221346714011&enabledRefinements=%5B%7B%22rid%22%3A%22p_n_condition-type%22%2C%22value%22%3A%226461716011%22%2C%22ridType%22%3A%22SEARCH_SHORT_ID%22%2C%22type%22%3A%22BROWSE_NODE%22%7D%2C%7B%22rid%22%3A%22p_n_availability%22%2C%22value%22%3A%222661600011%22%2C%22ridType%22%3A%22SEARCH_SHORT_ID%22%2C%22type%22%3A%22BROWSE_NODE%22%7D%5D&ref_=nav_cs_discobar_hg2026#dossier-asin-grid
+      - link "Browsing History":
+        - /url: /gp/history?ref_=nav_cs_timeline
+      - button "Browsing History Details"
+      - link "Gift Cards":
+        - /url: /gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc
+      - button "Gift Cards Details"
+      - link "Best Sellers":
+        - /url: /gp/bestsellers/?ref_=nav_cs_bestsellers
+      - link "Today's Deals":
+        - /url: /deals?ref_=nav_cs_gb
+      - link "Coupons":
+        - /url: /coupons?ref_=nav_cs_coupons
+      - link "Home Audio & Theater":
+        - /url: /Home-Audio-Electronics/b/?ie=UTF8&node=667846011&ref_=nav_cs_home_audio
+      - link "Prime Video":
+        - /url: /gp/video/storefront?ref_=nav_cs_prime_video
+      - link "New Releases":
+        - /url: /gp/new-releases/?ref_=nav_cs_newreleases
+      - link "Buy Again":
+        - /url: /gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again
+      - link "Sell":
+        - /url: /b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell
+      - link "Registry":
+        - /url: /gp/browse.html?node=16115931011&ref_=nav_cs_registry
+      - link "Pet Supplies":
+        - /url: /pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets
+      - button "Pet Supplies Details"
+      - link "Home Improvement":
+        - /url: /Tools-and-Home-Improvement/b/?ie=UTF8&node=228013&ref_=nav_cs_hi
+      - button "Home Improvement Details"
+      - link "Everyday":
+        - /url: /everyday-essentials?ref_=nav_cs_ee
+      - link "Household, Health & Baby Care":
+        - /url: /health-personal-care-nutrition-fitness/b/?ie=UTF8&node=3760901&ref_=nav_cs_hpc
+      - link "Kindle Books":
+        - /url: /Kindle-eBooks/b/?ie=UTF8&node=154606011&ref_=nav_cs_kindle_books
+      - link "Books":
+        - /url: /books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books
+      - link "Customer Service":
+        - /url: /hz/contact-us/foresight/hubgateway?ref_=nav_cs_fs_hybridhub_navbar_c
+      - link "Toys & Games":
+        - /url: /toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys
+      - button "Toys & Games Details"
+      - link "Groceries":
+        - /url: /fmc/grocery-gateway?gsc=fe16aGPfFs46S&ref_=nav_cs_groceries
+      - link "Custom Products":
+        - /url: /Amazon-Custom/b/?ie=UTF8&node=11032013011&ref_=nav_cs_custom
+      - button "Custom Products Details"
+      - link "TV & Video":
+        - /url: /tvs/b/?ie=UTF8&node=172659&ref_=nav_cs_tv
+      - link "Pharmacy":
+        - /url: https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy
+      - link "Amazon Haul":
+        - /url: /haul/store?ref_=nav_cs_hul_disb
+      - link "Amazon Basics":
+        - /url: /Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics
+      - link "Medical Care":
+        - /url: https://health.amazon.com/?ref_=nav_cs_medical_care_health_home
+      - button "Medical Care Details"
+      - link "Whole Foods":
+        - /url: /alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=nav_cs_whole_foods
+      - link "Computers":
+        - /url: /computer-pc-hardware-accessories-add-ons/b/?ie=UTF8&node=541966&ref_=nav_cs_pc
+      - link "Same-Day Delivery":
+        - /url: /fmc/ssd-storefront?gsc=fe16aGPfFs46S&ref_=nav_cs_SSD_nav_storefront
+    - link "Office Products":
+      - /url: /Office-Products/b/?ie=UTF8&node=1064954&ref_=topnav_storetab_op
+    - link "Office Deals":
+      - /url: /b/?ie=UTF8&node=1086186&ref_=sv_op_1
+    - link "School Supplies, You are currently on a drop-down. To open this drop-down, Press Enter.":
+      - /url: /Office-Supplies/b/?ie=UTF8&node=1069242&ref_=sv_op_2
+      - text: School Supplies
+    - link "Printers, Ink & Toner":
+      - /url: /Printers/b/?ie=UTF8&node=172635&ref_=sv_op_3
+    - link "Projectors":
+      - /url: /projectors/b/?ie=UTF8&node=300334&ref_=sv_op_4
+    - link "Amazon Business":
+      - /url: /business/register/org/landing/?_encoding=UTF8&ref=b2b_reg_subnav_office&ref_=sv_op_5
+    - dialog:
+      - heading "Subtotal" [level=1]
+      - heading "$2,366.52" [level=2]
+      - generic: Your order qualifies for FREE delivery. Choose this option at checkout.
+      - link "Go to Cart":
+        - /url: /cart?ref_=ox_ewc_ret_gtc_dsk_us
+      - list:
+        - link "4A 4 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5084-N-L":
+          - /url: /gp/product/B07F2B49BL/ref=ewc_pr_img_1?smid=A2O6EHY2KJ4BXE&psc=1
+          - img "4A 4 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5084-N-L"
+        - generic: $15.99
+        - generic: "Qty:"
+        - spinbutton "Quantity 4A 4 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5084-N-L": "148"
+- heading "Product summary presents key product information Keyboard shortcut shift + alt + D" [level=1]:
+  - button "Product summary presents key product information":
+    - generic: Product summary presents key product information
+  - separator
+  - text: Keyboard shortcut
+  - generic: shift + alt + D
+- main:
+  - link "Send a holiday gift card":
+    - /url: /b/?_encoding=UTF8&ie=UTF8&node=221346940011&pd_rd_w=rWTJd&content-id=amzn1.sym.d9a5e10f-de72-4e81-9f56-752f21162d23&pf_rd_p=d9a5e10f-de72-4e81-9f56-752f21162d23&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=Zt2Hx&pd_rd_r=a2b9a743-9d15-4db8-bc88-dcdcb34dcc4d#dossier-asin-grid
+    - img "Send a holiday gift card"
+  - list:
+    - link "Office Products":
+      - /url: /Office-Products/b/ref=dp_bc_1?ie=UTF8&node=1064954
+    - listitem: ›
+    - link "Office & School Supplies":
+      - /url: /Office-Supplies/b/ref=dp_bc_2?ie=UTF8&node=1069242
+    - listitem: ›
+    - link "Paper":
+      - /url: /paper/b/ref=dp_bc_3?ie=UTF8&node=1069664
+    - listitem: ›
+    - link "Notebooks & Writing Pads":
+      - /url: /Notebook/b/ref=dp_bc_4?ie=UTF8&node=1069756
+    - listitem: ›
+    - link "Self-Stick Notes":
+      - /url: /Self-Stick-Note-Pads/b/ref=dp_bc_5?ie=UTF8&node=1297017011
+  - generic: v5.0.6（数据来源：卖家精灵）
+  - generic: 质量得分
+  - generic: "7.4"
+  - text: 近30天销量(父体)
+  - generic: "****"
+  - text: Listing销售额
+  - generic: "****"
+  - text: 均价
+  - generic: "****"
+  - generic: BSR
+  - generic: 404,904
+  - generic: FBA费用
+  - generic: "****"
+  - generic: 变体数
+  - generic: "5"
+  - generic: 1688找货源
+  - generic: 查外观专利
+  - generic "视频+图文教程":
+  - generic "设置":
+  - generic: 变体对比(5)
+  - text: Keepa插件替代
+  - text: 流量洞察
+  - generic: AI评论分析
+  - generic: 全站点售卖
+  - generic: 反查出单词
+  - generic: 变体流量对比
+  - text: 收起
+  - text: 主人！插件需要登录才能使用哦~
+  - generic: 立即登录
+  - link:
+    - /url: javascript:void(0)
+  - heading "卖家精灵-库存监控" [level=4]
+  - switch [checked]
+  - generic: 剩余库存
+  - generic: "2"
+  - generic: $12.99
+  - link "4A (USA) LIMITED":
+    - /url: https://www.amazon.com/gp/offer-listing/B01M617ZTH/ref=dp_olp_new_mbc?ie=UTF8&amp;condition=new
+  - generic: "2"
+  - generic: 查看详细
+  - img "Amazon Prime Logo"
+  - generic: Enjoy fast, free delivery, exclusive deals, and award-winning movies & TV shows.
+  - button "Join Prime"
+  - button "One-time purchase $12.99 Price history" [expanded]:
+    - heading "One-time purchase $12.99 Price history" [level=5]:
+      - generic: One-time purchase
+      - generic: $12.99
+      - text: $
+      - text: "12"
+      - generic: .
+      - text: "99"
+      - button "Price history"
+      - generic: Price history
+  - generic: FREE delivery Friday, November 6 on orders shipped by Amazon over $35
+  - generic: Or Prime members get FREE delivery Tuesday, November 3. Order within 4 hrs 45 mins. Join Prime
+  - button "Deliver to New York 10001‌":
+    - generic: Deliver to New York 10001‌
+  - generic: Only 2 left in stock - order soon.
+  - generic: "Quantity:"
+  - combobox "Quantity:":
+    - option "1" [selected]
+    - option "2"
+    - option "3+"
+  - generic: Quantity:1
+  - generic: Add to cart
+  - button "加入产品库"
+  - generic: 主人～为了避免购物车被清空，建议您使用 “加入产品库” 功能，这样可以永久收藏商品，还能批量分析。
+  - button "Buy Now"
+  - generic: Buy Now
+  - group "Seller, shipping, and buying option details":
+    - heading "Ships from" [level=4]:
+      - generic: Ships from
+    - generic: Amazon
+    - heading "Sold by" [level=4]:
+      - generic: Sold by
+    - link "4A (USA) LIMITED":
+      - /url: /gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2O6EHY2KJ4BXE&asin=B01M617ZTH&ref_=dp_merchant_link&isAmazonFulfilled=1
+    - heading "Returns" [level=4]:
+      - generic: Returns
+    - button "FREE 30-day refund/replacement":
+      - generic: FREE 30-day refund/replacement
+    - heading "Payment" [level=4]:
+      - generic: Payment
+    - button "Secure transaction":
+      - generic: Secure transaction
+  - button "See more": See more
+  - button "Subscribe & Save $12.99 FREE delivery Friday, November 6 on orders shipped by Amazon over $35 Ships from Amazon Sold by 4A (USA) LIMITED":
+    - heading "Subscribe & Save $12.99 FREE delivery Friday, November 6 on orders shipped by Amazon over $35 Ships from Amazon Sold by 4A (USA) LIMITED" [level=5]:
+      - generic: Subscribe & Save
+      - generic: $12.99
+      - text: $
+      - text: "12"
+      - generic: .
+      - text: "99"
+      - generic: FREE delivery Friday, November 6 on orders shipped by Amazon over $35
+      - generic: Ships from
+      - generic: Amazon
+      - generic: Sold by
+      - link "4A (USA) LIMITED":
+        - /url: /gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2O6EHY2KJ4BXE&asin=B01M617ZTH&ref_=dp_merchant_link&isAmazonFulfilled=1
+  - link "Add to Auto Buy":
+    - /url: /buying-rules/ref=rsi_ye_brh_yed&action=dyn-create-br&source=dpx_ye&asin=B01M617ZTH&existingRuleRedirectView=edit&existingRuleTerminatedRedirectView=edit&minFormActions=true
+  - generic: Add to List
+  - button "Share":
+    - button "Share"
+  - button "Heart to save an item to your list":
+    - img "Heart to save an item to your list"
+  - heading "Product Images and Videos (AI Generated Alt Text)" [level=3]
+  - radiogroup "Image thumbnails":
+    - radio "Two neon yellow-green lined sticky note pads beside their packaging. The box shows colorful neon fan design and text reading 'Neon Color Lined Sticky Notes, 100 sheets, 2 pads, 200 sheets total.' Pads are large and ruled with horizontal lines.":
+      - img "Two neon yellow-green lined sticky note pads beside their packaging. The box shows colorful neon fan design and text reading 'Neon Color Lined Sticky Notes, 100 sheets, 2 pads, 200 sheets total.' Pads are large and ruled with horizontal lines."
+    - 'radio "Two large sticky note pads side by side: left pad is neon green with no lines, right pad is neon yellow with horizontal ruled lines. Both pads show pages curled at the top corner."':
+      - 'img "Two large sticky note pads side by side: left pad is neon green with no lines, right pad is neon yellow with horizontal ruled lines. Both pads show pages curled at the top corner."'
+  - list
+  - list:
+    - button "Two neon yellow-green lined sticky note pads beside their packaging. The box shows colorful neon fan design and text reading 'Neon Color Lined Sticky Notes, 100 sheets, 2 pads, 200 sheets total.' Pads are large and ruled with horizontal lines.":
+      - img "Two neon yellow-green lined sticky note pads beside their packaging. The box shows colorful neon fan design and text reading 'Neon Color Lined Sticky Notes, 100 sheets, 2 pads, 200 sheets total.' Pads are large and ruled with horizontal lines."
+  - link "Click to see full view":
+    - /url: "#"
+  - heading "Ask Alexa 下载 Alexa 数据" [level=5]:
+    - text: Ask Alexa
+    - button "下载 Alexa 数据":
+      - generic: 下载 Alexa 数据
+  - list:
+    - button "Can these be removed easily?":
+      - generic: Can these be removed easily?
+    - button "Are they made from recycled materials?":
+      - generic: Are they made from recycled materials?
+    - button "Can they be used on fabric?":
+      - generic: Can they be used on fabric?
+    - button "Why you might like this":
+      - generic: Why you might like this
+    - button "Compare with similar":
+      - generic: Compare with similar
+    - button "Ask something else":
+      - generic: Ask something else
+  - button
+  - link:
+    - list
+  - text: ASIN:B01M617ZTH
+  - text: 收起
+  - generic: "品牌:"
+  - generic: 4A
+  - text: 卖家:4A (USA) LIMITED
+  - generic: "配送: FBA"
+  - 'link "卖家: 1"':
+    - /url: https://www.amazon.com/gp/offer-listing/B01M617ZTH/ref=dp_olp_new_mbc?ie=UTF8&amp;condition=new
+  - generic: 加入产品库
+  - paragraph:
+    - generic: "#404,904"
+    - text: in
+    - text: Office Products
+  - paragraph:
+    - generic: "#5,726"
+    - text: in
+    - text: Self-Stick Note Pads
+  - generic: 近30天销量(父体):****
+  - generic: 近30天销量(子体):****
+  - generic: 销售额:****
+  - generic: "FBA费用:"
+  - generic: "****"
+  - generic: 毛利率:****
+  - generic: 变体数:5
+  - generic: 价格:$12.99
+  - text: "评分(评分数):"
+  - generic: 4.3(90)
+  - generic: 配送时长:6天
+  - generic: Prime配送时长:3天
+  - generic: "Color: Green&yellow"
+  - generic: 全部流量词:****
+  - generic: 搜索推荐词:****
+  - generic: 自然搜索词:****
+  - generic: 广告流量词:****
+  - generic: 关键词反查
+  - generic: 广告洞察
+  - generic: 关联流量
+  - generic: 市场分析
+  - generic: Listing生成器
+  - generic: 1688找货源
+  - generic: Alibaba
+  - generic: 历史销量
+  - generic: 产品卖点
+  - generic: 产品概要
+  - generic: 优麦云
+  - generic: TikTok达人
+  - generic: MCP服务
+  - text: 品牌检测
+  - text: AI评论分析
+  - generic: 评论下载
+  - generic: 主图下载
+  - generic: A+图片下载
+  - generic: 评论图片下载
+  - generic: 卖家精灵
+  - heading "2 Pads Lined Sticky Notes with Lines 6 x 8 in, Neon Green and Yellow Large Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 200 Sheets, 4A 608x2-N-L YG" [level=1]
+  - link "Visit the 4A Store":
+    - /url: /stores/4A/page/4E42DF11-6189-40AB-8685-6F3D9C788997?lp_asin=B01M617ZTH&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto
+  - generic "4.3 out of 5 stars":
+    - button "4.3 out of 5 stars":
+      - text: "4.3"
+      - generic: 4.3 out of 5 stars
+  - link "90 Reviews":
+    - /url: "#averageCustomerReviewsAnchor"
+    - text: (90)
+  - text: "|"
+  - link "Search this page":
+    - /url: "#"
+  - separator
+  - generic: $12.99
+  - text: $
+  - text: "12"
+  - generic: .
+  - text: "99"
+  - button "Price history"
+  - generic: Price history
+  - generic "FREE Returns":
+    - button "FREE Returns": FREE Returns
+  - table
+  - generic: 主要流量词
+  - text: 收起
+  - text: 主人！插件需要登录才能使用哦~
+  - generic: 立即登录
+  - generic "Selected Color is Green&yellow. Tap to collapse.":
+    - generic: "Color: Green&yellow"
+  - generic "There are 5 options.":
+    - group "Make a Color selection":
+      - radiogroup:
+        - radio "Green&yellow $12.99 $12.99 Only 2 left in stock - order soon. Fri, Nov 6" [checked]
+        - separator
+        - generic: $12.99
+        - generic: $12.99
+        - generic: Fri, Nov 6
+        - radio "Neon Assorted $11.99 $11.99 $0.06 per count ( $0.06 $0.06 / count) Only 3 left in stock - order soon. Sat, Nov 7"
+        - separator
+        - generic: $11.99
+        - generic: $11.99
+        - generic: $0.06 per count
+        - text: (
+        - generic: $0.06
+        - text: $0.06
+        - text: / count)
+        - generic: Sat, Nov 7
+      - navigation
+  - list:
+    - rowgroup:
+      - listitem: Color Green&yellow
+      - listitem: Size 2 Pads Pack (Pack 10)
+      - listitem: Brand 4A
+      - listitem: Shape Rectangular
+      - listitem: Global Trade Identification Number 00702877117705
+  - separator
+  - heading "About this item 违规检测 listing优化" [level=2]:
+    - text: About this item
+    - button "违规检测":
+      - generic: 违规检测
+    - button "listing优化":
+      - generic: listing优化
+  - list:
+    - listitem: "Lined Sticky Notes: Includes 2 Pads Large Sticky Notes with Lines 6 x 8 in, Neon Green and Yellow, 100 Sheets/Pad, 200 Sheets Total"
+    - listitem: "Reliable & Durable: Made of thick and recyclable paper, these sticky notes are easy to write on with ballpoint pens, pens, or pencils for clear, legible notes. The strong adhesive sticks securely to smooth surfaces and removes cleanly without residue or damaging pages"
+    - listitem: "Lined Sticky Notes: Each 6 x 8 inch sticky note features clear, evenly spaced lines to help you write more neatly and legibly. Perfect for taking notes, making to-do lists, or writing reminders"
+    - listitem: "Vibrant & Eye-Catching Colors: Featuring bright, attention-grabbing colors, these colorful sticky notes make it easy to highlight important reminders, categorize tasks, or add a splash of color to your notes and organization"
+    - listitem: "Versatile Uses: Ideal for office, home, school supplies. Great for lists, to-dos, notes, brainstorming, studying, planning, reminders, or leaving messages for family, coworkers, or students"
+  - text: ›
+  - link "See more product details":
+    - /url: "#productDetails"
+  - separator
+  - heading "Additional Details" [level=1]
+  - generic: Small Business
+  - text: This product is from a small business brand. Support small.
+  - link "Learn more":
+    - /url: "#"
+  - text: This product is from a small business brand. Support small.
+  - link:
+    - /url: "#"
+    - text: Learn more
+  - link "Report an issue with this product or seller":
+    - /url: javascript:void(0)
+  - separator
+  - heading "Get similar items fast" [level=2]
+  - button "Not interested in specific items"
+  - list:
+    - link:
+      - /url: /4A-Sticky-Self-Stick-Supplies-5082-Y-Lx2/dp/B0F9L5G6XQ/ref=dp-upsell-widget_d_sccl_1_1/138-3162330-3945130?pd_rd_w=9SxpG&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B0F9L5G6XQ&psc=1
+    - link "4A 4 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Yellow Sticky Notes with Lines Long Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5082-Y-Lx2":
+      - /url: /4A-Sticky-Self-Stick-Supplies-5082-Y-Lx2/dp/B0F9L5G6XQ/ref=dp-upsell-widget_d_sccl_1_1/138-3162330-3945130?pd_rd_w=9SxpG&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B0F9L5G6XQ&psc=1
+      - generic: 4A 4 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Yellow Sticky Notes with Lines Long Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5082-Y-Lx2
+    - link "4.4 out of 5 stars, 64 ratings":
+      - /url: /product-reviews/B0F9L5G6XQ/ref=dp-upsell-widget_d_sccl_1_1_cr/138-3162330-3945130?pd_rd_w=9SxpG&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B0F9L5G6XQ
+      - generic: 4.4 out of 5 stars
+      - text: "64"
+    - link "$19.99":
+      - /url: /4A-Sticky-Self-Stick-Supplies-5082-Y-Lx2/dp/B0F9L5G6XQ/ref=dp-upsell-widget_d_sccl_1_1/138-3162330-3945130?pd_rd_w=9SxpG&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B0F9L5G6XQ&psc=1
+      - generic: $19.99
+      - text: $
+      - text: "19"
+      - generic: .
+      - text: "99"
+    - link "($5.00/count)":
+      - /url: /4A-Sticky-Self-Stick-Supplies-5082-Y-Lx2/dp/B0F9L5G6XQ/ref=dp-upsell-widget_d_sccl_1_1/138-3162330-3945130?pd_rd_w=9SxpG&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B0F9L5G6XQ&psc=1
+    - generic: Get it as soon as Friday, Nov 6
+    - text: FREE Shipping on orders over $35 shipped by Amazon
+    - link:
+      - /url: /4A-Sticky-Assorted-Self-Stick-5084-N-L/dp/B07F2B49BL/ref=dp-upsell-widget_d_sccl_1_2/138-3162330-3945130?pd_rd_w=9SxpG&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B07F2B49BL&psc=1
+    - link "4A 4 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5084-N-L":
+      - /url: /4A-Sticky-Assorted-Self-Stick-5084-N-L/dp/B07F2B49BL/ref=dp-upsell-widget_d_sccl_1_2/138-3162330-3945130?pd_rd_w=9SxpG&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B07F2B49BL&psc=1
+      - generic: 4A 4 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5084-N-L
+    - link "4.4 out of 5 stars, 64 ratings":
+      - /url: /product-reviews/B07F2B49BL/ref=dp-upsell-widget_d_sccl_1_2_cr/138-3162330-3945130?pd_rd_w=9SxpG&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B07F2B49BL
+      - generic: 4.4 out of 5 stars
+      - text: "64"
+    - link "$15.99":
+      - /url: /4A-Sticky-Assorted-Self-Stick-5084-N-L/dp/B07F2B49BL/ref=dp-upsell-widget_d_sccl_1_2/138-3162330-3945130?pd_rd_w=9SxpG&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B07F2B49BL&psc=1
+      - generic: $15.99
+      - text: $
+      - text: "15"
+      - generic: .
+      - text: "99"
+    - generic: Get it as soon as Friday, Nov 6
+    - text: FREE Shipping on orders over $35 shipped by Amazon
+    - link:
+      - /url: /4A-Sticky-Assorted-Self-Stick-5084-N-L/dp/B07FKJM2LX/ref=dp-upsell-widget_d_sccl_1_3/138-3162330-3945130?pd_rd_w=9SxpG&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B07FKJM2LX&psc=1
+    - link "4A Lined Sticky Notes, 5 x 8 in, 8 Pads, Bright Colors | 50 sheets per pad, 400 sheets total":
+      - /url: /4A-Sticky-Assorted-Self-Stick-5084-N-L/dp/B07FKJM2LX/ref=dp-upsell-widget_d_sccl_1_3/138-3162330-3945130?pd_rd_w=9SxpG&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B07FKJM2LX&psc=1
+      - generic: 4A Lined Sticky Notes, 5 x 8 in, 8 Pads, Bright Colors | 50 sheets per pad, 400 sheets total
+    - link "4.4 out of 5 stars, 64 ratings":
+      - /url: /product-reviews/B07FKJM2LX/ref=dp-upsell-widget_d_sccl_1_3_cr/138-3162330-3945130?pd_rd_w=9SxpG&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B07FKJM2LX
+      - generic: 4.4 out of 5 stars
+      - text: "64"
+    - link "$19.99":
+      - /url: /4A-Sticky-Assorted-Self-Stick-5084-N-L/dp/B07FKJM2LX/ref=dp-upsell-widget_d_sccl_1_3/138-3162330-3945130?pd_rd_w=9SxpG&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B07FKJM2LX&psc=1
+      - generic: $19.99
+      - text: $
+      - text: "19"
+      - generic: .
+      - text: "99"
+    - generic: Get it as soon as Friday, Nov 6
+    - text: FREE Shipping on orders over $35 shipped by Amazon
+    - link:
+      - /url: /4A-Sticky-Assorted-Self-Stick-5088-N-L/dp/B07RP9MB7Y/ref=dp-upsell-widget_d_sccl_1_4/138-3162330-3945130?pd_rd_w=9SxpG&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B07RP9MB7Y&psc=1
+    - link "4A 8 Pads Lined Sticky Notes with Lines 5 x 8 in, Bright Colored Large Sticky Note Pads for Office, School, Home, 50 Sheets/Pad, 400 Sheets, 4A 5088-N-L":
+      - /url: /4A-Sticky-Assorted-Self-Stick-5088-N-L/dp/B07RP9MB7Y/ref=dp-upsell-widget_d_sccl_1_4/138-3162330-3945130?pd_rd_w=9SxpG&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B07RP9MB7Y&psc=1
+      - generic: 4A 8 Pads Lined Sticky Notes with Lines 5 x 8 in, Bright Colored Large Sticky Note Pads for Office, School, Home, 50 Sheets/Pad, 400 Sheets, 4A 5088-N-L
+    - link "4.4 out of 5 stars, 64 ratings":
+      - /url: /product-reviews/B07RP9MB7Y/ref=dp-upsell-widget_d_sccl_1_4_cr/138-3162330-3945130?pd_rd_w=9SxpG&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B07RP9MB7Y
+      - generic: 4.4 out of 5 stars
+      - text: "64"
+    - link "$19.99":
+      - /url: /4A-Sticky-Assorted-Self-Stick-5088-N-L/dp/B07RP9MB7Y/ref=dp-upsell-widget_d_sccl_1_4/138-3162330-3945130?pd_rd_w=9SxpG&content-id=amzn1.sym.bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_p=bad0891c-f5ea-4493-9d21-a17b228d824c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B07RP9MB7Y&psc=1
+      - generic: $19.99
+      - text: $
+      - text: "19"
+      - generic: .
+      - text: "99"
+    - generic: Get it as soon as Friday, Nov 6
+    - text: FREE Shipping on orders over $35 shipped by Amazon
+    - generic: Only 7 left in stock - order soon.
+  - separator
+  - heading "Customers also viewed these products" [level=2]
+  - button "Not interested in specific items"
+  - list:
+    - link:
+      - /url: /Sticky-Bright-Colors-Self-Stick-Sheets/dp/B07V29X6YJ/ref=pd_day0_d_sccl_2_1/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B07V29X6YJ&psc=1
+    - link "Sticky Notes 8x6 inch, 8 Pads, Bright Colors Self-Stick Pads, 280 Sheets | Large Size, Self-adhesive Notepad":
+      - /url: /Sticky-Bright-Colors-Self-Stick-Sheets/dp/B07V29X6YJ/ref=pd_day0_d_sccl_2_1/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B07V29X6YJ&psc=1
+      - generic: Sticky Notes 8x6 inch, 8 Pads, Bright Colors Self-Stick Pads, 280 Sheets | Large Size, Self-adhesive Notepad
+    - link "4.2 out of 5 stars, 1,848 ratings":
+      - /url: /product-reviews/B07V29X6YJ/ref=pd_day0_d_sccl_2_1_cr/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B07V29X6YJ
+      - generic: 4.2 out of 5 stars
+      - text: 1,848
+    - link "$14.99":
+      - /url: /Sticky-Bright-Colors-Self-Stick-Sheets/dp/B07V29X6YJ/ref=pd_day0_d_sccl_2_1/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B07V29X6YJ&psc=1
+      - generic: $14.99
+      - text: $
+      - text: "14"
+      - generic: .
+      - text: "99"
+    - link "($0.05/count)":
+      - /url: /Sticky-Bright-Colors-Self-Stick-Sheets/dp/B07V29X6YJ/ref=pd_day0_d_sccl_2_1/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B07V29X6YJ&psc=1
+    - generic: Get it as soon as Friday, Nov 6
+    - text: FREE Shipping on orders over $35 shipped by Amazon
+    - link:
+      - /url: /4A-Dispenser-Adhesive-Different-Self-Stick/dp/B08DKJ2K3T/ref=pd_day0_d_sccl_2_2/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B08DKJ2K3T&psc=1
+    - link "4A Roll Sticky Notes with Dispenser,Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6":
+      - /url: /4A-Dispenser-Adhesive-Different-Self-Stick/dp/B08DKJ2K3T/ref=pd_day0_d_sccl_2_2/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B08DKJ2K3T&psc=1
+      - generic: 4A Roll Sticky Notes with Dispenser,Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6
+    - link "3.8 out of 5 stars, 223 ratings":
+      - /url: /product-reviews/B08DKJ2K3T/ref=pd_day0_d_sccl_2_2_cr/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B08DKJ2K3T
+      - generic: 3.8 out of 5 stars
+      - text: "223"
+    - link "$13.99":
+      - /url: /4A-Dispenser-Adhesive-Different-Self-Stick/dp/B08DKJ2K3T/ref=pd_day0_d_sccl_2_2/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B08DKJ2K3T&psc=1
+      - generic: $13.99
+      - text: $
+      - text: "13"
+      - generic: .
+      - text: "99"
+    - link "($2.33/count)":
+      - /url: /4A-Dispenser-Adhesive-Different-Self-Stick/dp/B08DKJ2K3T/ref=pd_day0_d_sccl_2_2/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B08DKJ2K3T&psc=1
+    - generic: Get it as soon as Friday, Nov 6
+    - text: FREE Shipping on orders over $35 shipped by Amazon
+    - link:
+      - /url: /Creatiburg-Self-Stick-Individually-Wrapped-Supplies/dp/B083QKS4W7/ref=pd_day0_d_sccl_2_3/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B083QKS4W7&psc=1
+    - link "Creatiburg Big Sticky Notes Lined 6x8 inches 12 Pads 50 Sheets per Pad Large Self Stick Note Pads with Lines in 6 Bright Colors Easy Post Individually Wrapped School and Office Supplies Gift Set":
+      - /url: /Creatiburg-Self-Stick-Individually-Wrapped-Supplies/dp/B083QKS4W7/ref=pd_day0_d_sccl_2_3/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B083QKS4W7&psc=1
+      - generic: Creatiburg Big Sticky Notes Lined 6x8 inches 12 Pads 50 Sheets per Pad Large Self Stick Note Pads with Lines in 6 Bright Colors Easy Post Individually Wrapped School and Office Supplies Gift Set
+    - link "4.7 out of 5 stars, 119 ratings":
+      - /url: /product-reviews/B083QKS4W7/ref=pd_day0_d_sccl_2_3_cr/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B083QKS4W7
+      - generic: 4.7 out of 5 stars
+      - text: "119"
+    - link "$26.98":
+      - /url: /Creatiburg-Self-Stick-Individually-Wrapped-Supplies/dp/B083QKS4W7/ref=pd_day0_d_sccl_2_3/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B083QKS4W7&psc=1
+      - generic: $26.98
+      - text: $
+      - text: "26"
+      - generic: .
+      - text: "98"
+    - generic: Get it as soon as Friday, Nov 6
+    - text: FREE Shipping on orders over $35 shipped by Amazon
+    - link:
+      - /url: /Sticky-Stickies-Colorful-Sticking-Adhesive/dp/B082VSB7L5/ref=pd_day0_d_sccl_2_4/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B082VSB7L5&psc=1
+    - link "Lined Sticky Notes 4X6 in Bright Ruled Stickies Colorful Memo Pads | Super Sticking Power,45 Sheets/pad, 6 Pads/Pack":
+      - /url: /Sticky-Stickies-Colorful-Sticking-Adhesive/dp/B082VSB7L5/ref=pd_day0_d_sccl_2_4/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B082VSB7L5&psc=1
+      - generic: Lined Sticky Notes 4X6 in Bright Ruled Stickies Colorful Memo Pads | Super Sticking Power,45 Sheets/pad, 6 Pads/Pack
+    - link "4.6 out of 5 stars, 14,951 ratings":
+      - /url: /product-reviews/B082VSB7L5/ref=pd_day0_d_sccl_2_4_cr/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B082VSB7L5
+      - generic: 4.6 out of 5 stars
+      - text: 14,951
+    - generic: Amazon's Choice
+    - link "$9.99":
+      - /url: /Sticky-Stickies-Colorful-Sticking-Adhesive/dp/B082VSB7L5/ref=pd_day0_d_sccl_2_4/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B082VSB7L5&psc=1
+      - generic: $9.99
+      - text: $
+      - text: "9"
+      - generic: .
+      - text: "99"
+    - link "($1.67/count)":
+      - /url: /Sticky-Stickies-Colorful-Sticking-Adhesive/dp/B082VSB7L5/ref=pd_day0_d_sccl_2_4/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B082VSB7L5&psc=1
+    - generic: Get it as soon as Friday, Nov 6
+    - text: FREE Shipping on orders over $35 shipped by Amazon
+    - button "1 sustainability feature":
+      - generic: 1 sustainability feature
+    - link:
+      - /url: /Sheets-Lined-Sticky-Bleed-Through-School/dp/B0D3GD5LVY/ref=pd_day0_d_sccl_2_5/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B0D3GD5LVY&psc=1
+    - link "400 Sheets Lined Sticky Notes 8x6in Large,No Ink Bleed-Through,Home/School | 50 Sheets/pad Ruled Giant Post Stickies,Smooth Writing,8 Pack Extra Bright Self Sticky Super Memo Pads for Students Office":
+      - /url: /Sheets-Lined-Sticky-Bleed-Through-School/dp/B0D3GD5LVY/ref=pd_day0_d_sccl_2_5/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B0D3GD5LVY&psc=1
+      - generic: 400 Sheets Lined Sticky Notes 8x6in Large,No Ink Bleed-Through,Home/School | 50 Sheets/pad Ruled Giant Post Stickies,Smooth Writing,8 Pack Extra Bright Self Sticky Super Memo Pads for Students Office
+    - link "4.1 out of 5 stars, 581 ratings":
+      - /url: /product-reviews/B0D3GD5LVY/ref=pd_day0_d_sccl_2_5_cr/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B0D3GD5LVY
+      - generic: 4.1 out of 5 stars
+      - text: "581"
+    - link "$18.99":
+      - /url: /Sheets-Lined-Sticky-Bleed-Through-School/dp/B0D3GD5LVY/ref=pd_day0_d_sccl_2_5/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B0D3GD5LVY&psc=1
+      - generic: $18.99
+      - text: $
+      - text: "18"
+      - generic: .
+      - text: "99"
+    - link "($0.05/count)":
+      - /url: /Sheets-Lined-Sticky-Bleed-Through-School/dp/B0D3GD5LVY/ref=pd_day0_d_sccl_2_5/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B0D3GD5LVY&psc=1
+    - generic: Get it as soon as Friday, Nov 6
+    - text: FREE Shipping on orders over $35 shipped by Amazon
+    - link:
+      - /url: /Post-Super-Sticky-Notes-Lined/dp/B000CD0MHQ/ref=pd_day0_d_sccl_2_6/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B000CD0MHQ&psc=1
+    - link "Post-it Super Sticky Notes, 8 x 6 in, Neon Fizz, 4 Lined Pads | School Supplies and Oﬃce Supplies, 2X the Sticking Power":
+      - /url: /Post-Super-Sticky-Notes-Lined/dp/B000CD0MHQ/ref=pd_day0_d_sccl_2_6/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B000CD0MHQ&psc=1
+      - generic: Post-it Super Sticky Notes, 8 x 6 in, Neon Fizz, 4 Lined Pads | School Supplies and Oﬃce Supplies, 2X the Sticking Power
+    - link "4.8 out of 5 stars, 860 ratings":
+      - /url: /product-reviews/B000CD0MHQ/ref=pd_day0_d_sccl_2_6_cr/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B000CD0MHQ
+      - generic: 4.8 out of 5 stars
+      - text: "860"
+    - link "-49%":
+      - /url: /Post-Super-Sticky-Notes-Lined/dp/B000CD0MHQ/ref=pd_day0_d_sccl_2_6/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B000CD0MHQ&psc=1
+      - text: "-49%"
+    - link "$9.78":
+      - /url: /Post-Super-Sticky-Notes-Lined/dp/B000CD0MHQ/ref=pd_day0_d_sccl_2_6/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B000CD0MHQ&psc=1
+      - generic: $9.78
+      - text: $
+      - text: "9"
+      - generic: .
+      - text: "78"
+    - 'link "List: $19.29"':
+      - /url: /Post-Super-Sticky-Notes-Lined/dp/B000CD0MHQ/ref=pd_day0_d_sccl_2_6/138-3162330-3945130?pd_rd_w=P2XSP&content-id=amzn1.sym.de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_p=de286d99-05f6-43bf-9d9c-b57de9652232&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pd_rd_i=B000CD0MHQ&psc=1
+      - generic: "List: $19.29"
+    - generic: Get it as soon as Friday, Nov 6
+    - text: FREE Shipping on orders over $35 shipped by Amazon
+    - generic: Only 1 left in stock - order soon.
+  - separator
+  - heading "From the manufacturer" [level=2]
+  - heading "4A Sticky notes" [level=3]
+  - paragraph: 4A Sticky notes, with unique adhesive and strengh power. Holds stronger and longer, yet removes cleanly.
+  - paragraph: Colorful sticky notes color-coding messages, bright color stop you from missing important information.
+  - table:
+    - rowgroup:
+      - row "Sticky Notes Pop-up Super Sticky Notes Sticky Notes Tabs Sticky Notes Colorful Super Sticky Table Top Pop-up Flags Set":
+        - cell
+        - columnheader "Sticky Notes Pop-up":
+          - link "Sticky Notes Pop-up":
+            - /url: /dp/B01LVZ0GV3?ref=emc_s_m_5_i_atc
+            - generic: Sticky Notes Pop-up
+        - columnheader "Super Sticky Notes":
+          - link "Super Sticky Notes":
+            - /url: /dp/B01N7D3E0M?ref=emc_s_m_5_i_atc
+            - generic: Super Sticky Notes
+        - columnheader "Sticky Notes Tabs":
+          - link "Sticky Notes Tabs":
+            - /url: /dp/B01M986R0Y?ref=emc_s_m_5_i_atc
+            - generic: Sticky Notes Tabs
+        - columnheader "Sticky Notes Colorful":
+          - link "Sticky Notes Colorful":
+            - /url: /dp/B07DJKDB63?ref=emc_s_m_5_i_atc
+            - generic: Sticky Notes Colorful
+        - columnheader "Super Sticky Table Top":
+          - link "Super Sticky Table Top":
+            - /url: /dp/B07GWPYNHT?ref=emc_s_m_5_i_atc
+            - generic: Super Sticky Table Top
+        - columnheader "Pop-up Flags Set":
+          - link "Pop-up Flags Set":
+            - /url: /dp/B07T7PLLGL?ref=emc_s_m_5_i_atc
+            - generic: Pop-up Flags Set
+      - row "Buying Options Buying Options Add to Cart Add to Cart Buying Options Buying Options":
+        - cell
+        - cell "Buying Options":
+          - link "Buying Options":
+            - /url: /dp/B01LVZ0GV3?ref=emc_s_m_5_i_atc
+        - cell "Buying Options":
+          - link "Buying Options":
+            - /url: /dp/B01N7D3E0M?ref=emc_s_m_5_i_atc
+        - cell "Add to Cart":
+          - button "Add to Cart"
+          - generic: Add to Cart
+        - cell "Add to Cart":
+          - button "Add to Cart"
+          - generic: Add to Cart
+        - cell "Buying Options":
+          - link "Buying Options":
+            - /url: /dp/B07GWPYNHT?ref=emc_s_m_5_i_atc
+        - cell "Buying Options":
+          - link "Buying Options":
+            - /url: /dp/B07T7PLLGL?ref=emc_s_m_5_i_atc
+      - row "Customer Reviews 3.2 out of 5 stars 172 3.5 out of 5 stars 12 4.5 out of 5 stars 110 4.2 out of 5 stars 1,063 5.0 out of 5 stars 2 4.5 out of 5 stars 83":
+        - rowheader "Customer Reviews"
+        - cell "3.2 out of 5 stars 172":
+          - generic: 3.2 out of 5 stars
+          - text: "172"
+        - cell "3.5 out of 5 stars 12":
+          - generic: 3.5 out of 5 stars
+          - text: "12"
+        - cell "4.5 out of 5 stars 110":
+          - generic: 4.5 out of 5 stars
+          - text: "110"
+        - cell "4.2 out of 5 stars 1,063":
+          - generic: 4.2 out of 5 stars
+          - text: 1,063
+        - cell "5.0 out of 5 stars 2":
+          - generic: 5.0 out of 5 stars
+          - text: "2"
+        - cell "4.5 out of 5 stars 83":
+          - generic: 4.5 out of 5 stars
+          - text: "83"
+      - row "Price — no data — no data $8.99 $7.99 — no data — no data":
+        - rowheader "Price"
+        - cell "— no data":
+          - text: —
+          - generic: no data
+        - cell "— no data":
+          - text: —
+          - generic: no data
+        - cell "$8.99":
+          - generic: $8.99
+          - text: $
+          - text: "8"
+          - generic: .
+          - text: "99"
+        - cell "$7.99":
+          - generic: $7.99
+          - text: $
+          - text: "7"
+          - generic: .
+          - text: "99"
+        - cell "— no data":
+          - text: —
+          - generic: no data
+        - cell "— no data":
+          - text: —
+          - generic: no data
+      - row "Stick and re-stick ✓ ✓ ✓ ✓ ✓ ✓":
+        - rowheader "Stick and re-stick"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+      - row "Removes cleanly ✓ ✓ ✓ ✓ ✓ ✓":
+        - rowheader "Removes cleanly"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+      - row "Made with unique adhesive designed for paper ✓ ✓ ✓ ✓ ✓ ✓":
+        - rowheader "Made with unique adhesive designed for paper"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+        - cell "✓"
+  - navigation:
+    - navigation "Navigate within the product detail page":
+      - navigation "Back to top jump link":
+        - generic: Top
+      - navigation "About this item widget jump link":
+        - generic: About this item
+      - navigation "Similar widget jump link":
+        - generic: Similar
+      - navigation "Product information widget jump link":
+        - generic: Product information
+      - navigation "From the brand widget jump link":
+        - generic: From the Brand
+      - navigation "Questions widget jump link":
+        - generic: Questions
+      - navigation "Customer reviews widget jump link":
+        - generic: Reviews
+    - navigation "Back to top Image jump link":
+      - img "4A 2 Pads Lined Sticky Notes with Lines 6 x 8 in, Neon Green and Yellow Large Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 200 Sheets, 4A 608x2-N-L YG"
+    - navigation "Back to top title jump link":
+      - generic: 2 Pads Lined Sticky Notes with Lines 6 x 8 in, Neon Green and Yellow Large Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 200 Sheets, 4A 608x2-N-L YG
+  - separator
+  - heading "Product information" [level=1]
+  - button "Item details":
+    - heading "Item details" [level=5]
+  - heading "Warranty & Support" [level=3]
+  - text: "Amazon.com Return Policy:"
+  - text: "Amazon.com Voluntary 30-Day Return Guarantee: You can return many items you have purchased within 30 days following delivery of the item to you. Our Voluntary 30-Day Return Guarantee does not affect your legal right of withdrawal in any way. You can find out more about the exceptions and conditions"
+  - link "here":
+    - /url: /gp/help/customer/display.html/ref=orc_hp_s_retpol?ie=UTF8&nodeId=201819200
+  - text: .
+  - strong: "Product Warranty:"
+  - text: For warranty information about this product, please
+  - link "click here":
+    - /url: /gp/feature.html/ref=dp_warranty_request_3P?docId=1002406021
+  - heading "Feedback" [level=3]
+  - text: Would you like to
+  - button "tell us about a lower price?": tell us about a lower price?
+  - button "Measurements":
+    - heading "Measurements" [level=5]
+  - button "Style":
+    - heading "Style" [level=5]
+  - heading "Product Description" [level=2]
+  - paragraph: Holds stronger and longer yet removes cleanly Trust the most familiar color with your most important messages. Write down ideas and thoughts Always at your fingertips and where you need them Life gets easier with these handy notes. Suitable for home School college Office and industrial Sticks practically anywhere to make sure your note gets noticed Perfect size for leaving notes of encouragement. Colorful 4A Sticky Notes inspired by colorful world all 4A sticky notes are recyclable. We drew inspiration from all corners of the globe to create A World of Color, 4A Sticky Note that reflect the vibrant world in which we live. Color can move our emotions imaginations and capabilities in stunning ways. Browse the A World of Color collections and embark on a journey of intriguing possibilities use with the fun and Portable to anywhere you go.
+  - separator
+  - heading "Alexa AI Looking for specific info?" [level=3]:
+    - generic: Alexa AI
+    - text: Looking for specific info?
+  - textbox "Looking for specific info?":
+    - /placeholder: Ask Alexa or search reviews and Q&A
+  - button "Submit":
+    - img "Submit"
+  - list:
+    - button "Can these be removed easily?"
+    - generic: Can these be removed easily?
+    - button "Are they made from recycled materials?"
+    - generic: Are they made from recycled materials?
+    - button "Can they be used on fabric?"
+    - generic: Can they be used on fabric?
+    - button "Are the lines spaced widely?"
+    - generic: Are the lines spaced widely?
+  - heading "Videos" [level=2]
+  - generic: Help others learn more about this product by uploading a video!
+  - link "Upload your video":
+    - /url: /creatorhub/video/upload?productASIN=B01M617ZTH&referringURL=ZHAvQjAxTTYxN1pUSA%3D%3D&ref=RVSW
+  - heading "Similar brands on Amazon" [level=2]
+  - button "Leave feedback on Sponsored ad": Sponsored
+  - list:
+    - link "Sponsored video, click to navigate to featured page.":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JN5joa9K-1vbTiD70_N9OZAAAAGhlnAMdwEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBKYvRE/clv1c_ek-wwnvybdbaDfmYFBuc36LaPo898N5wqB9LgycxW0lNdPeRb1LlPYnAr8fLnG3C2oRAFwEWHqUTQy4yDpcx1b50jjxgspIPBdmn9dgk0_HCq10FtDBW7Az47sNm0h4bh6-zmNQ4AknK2rFSXwNi35ibodeEBt2emgxgd3farcR4MA8OKSK1eV3gozRYBIj4MjpKZsvHG7xL0-zR5NowwNr3K0GYKMBazGRXzcB0zf1oTdU_d3Qmlyd8uJbgYgExMqSp5BiX6_1P4WrEesIMkUhRPhfo0BuasBcGB2MWakBt-Dp_EENK9Z_raSLkhrCk7qnTHul40igHpmks48uVOgJ9xZHmYOAtJXAHkXEeiCYNkx4GIqfPwByAkq0i4tP-Y0VPrs9f26UXIItNB433OK05b-qIBSWxaNGDAu23QRTZJV4B_Itgn0VVbD2U8aoKuQZdBZnmplAHrhbXdHufF1KZQXKIJxqQdicPH1BWoap6pXi0a8ULjIjaRDvE2yMPQbrkHrlsVdcsxWO3UavzJ4TM3FwpSy_GuYkYHVJEtBlFlcRu4uGChxlHq8fgi_T0J4WkR8yjS8nHcUnYjvanVP5tFIm2oXJK_kpOcVp0iGDXIyTYSVK9xl7liVS5DcOXd78T94OAZ166oQe145McpH-z69WEUZR2KzAfchnK5Si0L1evoDQK6cBinoELoV7PYxsDbbXB9DjBwbkNqL_20nHCePz6LEbRGsDlinTdv1FyccwXj9TAFnD1Hh8udpYhxOws3QV5QgRAAaSyHOerUkR4aSDrEVZZwJrTGY9758GBSmPkrq01VXgkytrxKeNm4z-sy3nzABsM9bWvLuP-b1oGrP_B6CilCDYPPyex53UntzTMup9IuoKTIjbiwFx8ButN6X_BzkkR7ziaofRGd0q5F_9saF0JXoZZHWHGwsMI1BcUWsvmPRpWqqMwQ_Qf1JilbrfZ2OVN9kl7ap_wsr8nT1FjEG5f3xp70lKNAo-GZcK6oLtHwvaTa7wJsl7nzCyiwoW5RmOaKdT7Q-EpcI45lZ1uE3UXWkQTAp5Wiu6husJfEMRbkzdJ7uyPC7o/https://www.amazon.com/dp/B0C491Q63C/?_encoding=UTF8&pd_rd_i=B0C491Q63C&pd_rd_i=B0C491Q63C&ref_=sbx_be_s_sparkle_ssd_vid&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - generic "Sponsored video, click to navigate to featured page."
+    - link "Yexiya 64Pcs Lined Sticky Notes 4x6'' 3x3'' Self Stick Notepad Fresh Color | Self Stick Note Pads with Line for School Office Product Post Memo Planning, Studying, 1920 Sheets, Bright Assorted Color":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JN5joa9K-1vbTiD70_N9OZAAAAGhlnAMdwEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBKYvRE/clv1c_ek-wwnvybdbaDfmYFBuc36LaPo898N5wqB9LgycxW0lNdPeRb1LlPYnAr8fLnG3C2oRAFwEWHqUTQy4yDpcx1b50jjxgspIPBdmn9dgk0_HCq10FtDBW7Az47sNm0h4bh6-zmNQ4AknK2rFSXwNi35ibodeEBt2emgxgd3farcR4MA8OKSK1eV3gozRYBIj4MjpKZsvHG7xL0-zR5NowwNr3K0GYKMBazGRXzcB0zf1oTdU_d3Qmlyd8uJbgYgExMqSp5BiX6_1P4WrEesIMkUhRPhfo0BuasBcGB2MWakBt-Dp_EENK9Z_raSLkhrCk7qnTHul40igHpmks48uVOgJ9xZHmYOAtJXAHkXEeiCYNkx4GIqfPwByAkq0i4tP-Y0VPrs9f26UXIItNB433OK05b-qIBSWxaNGDAu23QRTZJV4B_Itgn0VVbD2U8aoKuQZdBZnmplAHrhbXdHufF1KZQXKIJxqQdicPH1BWoap6pXi0a8ULjIjaRDvE2yMPQbrkHrlsVdcsxWO3UavzJ4TM3FwpSy_GuYkYHVJEtBlFlcRu4uGChxlHq8fgi_T0J4WkR8yjS8nHcUnYjvanVP5tFIm2oXJK_kpOcVp0iGDXIyTYSVK9xl7liVS5DcOXd78T94OAZ166oQe145McpH-z69WEUZR2KzAfchnK5Si0L1evoDQK6cBinoELoV7PYxsDbbXB9DjBwbkNqL_20nHCePz6LEbRGsDlinTdv1FyccwXj9TAFnD1Hh8udpYhxOws3QV5QgRAAaSyHOerUkR4aSDrEVZZwJrTGY9758GBSmPkrq01VXgkytrxKeNm4z-sy3nzABsM9bWvLuP-b1oGrP_B6CilCDYPPyex53UntzTMup9IuoKTIjbiwFx8ButN6X_BzkkR7ziaofRGd0q5F_9saF0JXoZZHWHGwsMI1BcUWsvmPRpWqqMwQ_Qf1JilbrfZ2OVN9kl7ap_wsr8nT1FjEG5f3xp70lKNAo-GZcK6oLtHwvaTa7wJsl7nzCyiwoW5RmOaKdT7Q-EpcI45lZ1uE3UXWkQTAp5Wiu6husJfEMRbkzdJ7uyPC7o/https://www.amazon.com/dp/B0C491Q63C/?_encoding=UTF8&pd_rd_i=B0C491Q63C&pd_rd_i=B0C491Q63C&ref_=sbx_be_s_sparkle_ssd_img&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - img "Yexiya 64Pcs Lined Sticky Notes 4x6'' 3x3'' Self Stick Notepad Fresh Color | Self Stick Note Pads with Line for School Office Product Post Memo Planning, Studying, 1920 Sheets, Bright Assorted Color"
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JN5joa9K-1vbTiD70_N9OZAAAAGhlnAMdwEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBKYvRE/clv1c_ek-wwnvybdbaDfmYFBuc36LaPo898N5wqB9LgycxW0lNdPeRb1LlPYnAr8fLnG3C2oRAFwEWHqUTQy4yDpcx1b50jjxgspIPBdmn9dgk0_HCq10FtDBW7Az47sNm0h4bh6-zmNQ4AknK2rFSXwNi35ibodeEBt2emgxgd3farcR4MA8OKSK1eV3gozRYBIj4MjpKZsvHG7xL0-zR5NowwNr3K0GYKMBazGRXzcB0zf1oTdU_d3Qmlyd8uJbgYgExMqSp5BiX6_1P4WrEesIMkUhRPhfo0BuasBcGB2MWakBt-Dp_EENK9Z_raSLkhrCk7qnTHul40igHpmks48uVOgJ9xZHmYOAtJXAHkXEeiCYNkx4GIqfPwByAkq0i4tP-Y0VPrs9f26UXIItNB433OK05b-qIBSWxaNGDAu23QRTZJV4B_Itgn0VVbD2U8aoKuQZdBZnmplAHrhbXdHufF1KZQXKIJxqQdicPH1BWoap6pXi0a8ULjIjaRDvE2yMPQbrkHrlsVdcsxWO3UavzJ4TM3FwpSy_GuYkYHVJEtBlFlcRu4uGChxlHq8fgi_T0J4WkR8yjS8nHcUnYjvanVP5tFIm2oXJK_kpOcVp0iGDXIyTYSVK9xl7liVS5DcOXd78T94OAZ166oQe145McpH-z69WEUZR2KzAfchnK5Si0L1evoDQK6cBinoELoV7PYxsDbbXB9DjBwbkNqL_20nHCePz6LEbRGsDlinTdv1FyccwXj9TAFnD1Hh8udpYhxOws3QV5QgRAAaSyHOerUkR4aSDrEVZZwJrTGY9758GBSmPkrq01VXgkytrxKeNm4z-sy3nzABsM9bWvLuP-b1oGrP_B6CilCDYPPyex53UntzTMup9IuoKTIjbiwFx8ButN6X_BzkkR7ziaofRGd0q5F_9saF0JXoZZHWHGwsMI1BcUWsvmPRpWqqMwQ_Qf1JilbrfZ2OVN9kl7ap_wsr8nT1FjEG5f3xp70lKNAo-GZcK6oLtHwvaTa7wJsl7nzCyiwoW5RmOaKdT7Q-EpcI45lZ1uE3UXWkQTAp5Wiu6husJfEMRbkzdJ7uyPC7o/https://www.amazon.com/dp/B0C491Q63C/?_encoding=UTF8&pd_rd_i=B0C491Q63C&pd_rd_i=B0C491Q63C&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JN5joa9K-1vbTiD70_N9OZAAAAGhlnAMdwEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBKYvRE/clv1c_ek-wwnvybdbaDfmYFBuc36LaPo898N5wqB9LgycxW0lNdPeRb1LlPYnAr8fLnG3C2oRAFwEWHqUTQy4yDpcx1b50jjxgspIPBdmn9dgk0_HCq10FtDBW7Az47sNm0h4bh6-zmNQ4AknK2rFSXwNi35ibodeEBt2emgxgd3farcR4MA8OKSK1eV3gozRYBIj4MjpKZsvHG7xL0-zR5NowwNr3K0GYKMBazGRXzcB0zf1oTdU_d3Qmlyd8uJbgYgExMqSp5BiX6_1P4WrEesIMkUhRPhfo0BuasBcGB2MWakBt-Dp_EENK9Z_raSLkhrCk7qnTHul40igHpmks48uVOgJ9xZHmYOAtJXAHkXEeiCYNkx4GIqfPwByAkq0i4tP-Y0VPrs9f26UXIItNB433OK05b-qIBSWxaNGDAu23QRTZJV4B_Itgn0VVbD2U8aoKuQZdBZnmplAHrhbXdHufF1KZQXKIJxqQdicPH1BWoap6pXi0a8ULjIjaRDvE2yMPQbrkHrlsVdcsxWO3UavzJ4TM3FwpSy_GuYkYHVJEtBlFlcRu4uGChxlHq8fgi_T0J4WkR8yjS8nHcUnYjvanVP5tFIm2oXJK_kpOcVp0iGDXIyTYSVK9xl7liVS5DcOXd78T94OAZ166oQe145McpH-z69WEUZR2KzAfchnK5Si0L1evoDQK6cBinoELoV7PYxsDbbXB9DjBwbkNqL_20nHCePz6LEbRGsDlinTdv1FyccwXj9TAFnD1Hh8udpYhxOws3QV5QgRAAaSyHOerUkR4aSDrEVZZwJrTGY9758GBSmPkrq01VXgkytrxKeNm4z-sy3nzABsM9bWvLuP-b1oGrP_B6CilCDYPPyex53UntzTMup9IuoKTIjbiwFx8ButN6X_BzkkR7ziaofRGd0q5F_9saF0JXoZZHWHGwsMI1BcUWsvmPRpWqqMwQ_Qf1JilbrfZ2OVN9kl7ap_wsr8nT1FjEG5f3xp70lKNAo-GZcK6oLtHwvaTa7wJsl7nzCyiwoW5RmOaKdT7Q-EpcI45lZ1uE3UXWkQTAp5Wiu6husJfEMRbkzdJ7uyPC7o/https://www.amazon.com/dp/B0C491Q63C/?_encoding=UTF8&pd_rd_i=B0C491Q63C&pd_rd_i=B0C491Q63C&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+    - link "Yexiya 64Pcs Lined Sticky Notes 4x6'' 3x3'' Self Stick Notepad Fresh Color | Self Stick Note Pads with Line for School Office Product Post Memo Planning, Studying, 1920 Sheets, Bright Assorted Color":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JN5joa9K-1vbTiD70_N9OZAAAAGhlnAMdwEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBKYvRE/clv1c_ek-wwnvybdbaDfmYFBuc36LaPo898N5wqB9LgycxW0lNdPeRb1LlPYnAr8fLnG3C2oRAFwEWHqUTQy4yDpcx1b50jjxgspIPBdmn9dgk0_HCq10FtDBW7Az47sNm0h4bh6-zmNQ4AknK2rFSXwNi35ibodeEBt2emgxgd3farcR4MA8OKSK1eV3gozRYBIj4MjpKZsvHG7xL0-zR5NowwNr3K0GYKMBazGRXzcB0zf1oTdU_d3Qmlyd8uJbgYgExMqSp5BiX6_1P4WrEesIMkUhRPhfo0BuasBcGB2MWakBt-Dp_EENK9Z_raSLkhrCk7qnTHul40igHpmks48uVOgJ9xZHmYOAtJXAHkXEeiCYNkx4GIqfPwByAkq0i4tP-Y0VPrs9f26UXIItNB433OK05b-qIBSWxaNGDAu23QRTZJV4B_Itgn0VVbD2U8aoKuQZdBZnmplAHrhbXdHufF1KZQXKIJxqQdicPH1BWoap6pXi0a8ULjIjaRDvE2yMPQbrkHrlsVdcsxWO3UavzJ4TM3FwpSy_GuYkYHVJEtBlFlcRu4uGChxlHq8fgi_T0J4WkR8yjS8nHcUnYjvanVP5tFIm2oXJK_kpOcVp0iGDXIyTYSVK9xl7liVS5DcOXd78T94OAZ166oQe145McpH-z69WEUZR2KzAfchnK5Si0L1evoDQK6cBinoELoV7PYxsDbbXB9DjBwbkNqL_20nHCePz6LEbRGsDlinTdv1FyccwXj9TAFnD1Hh8udpYhxOws3QV5QgRAAaSyHOerUkR4aSDrEVZZwJrTGY9758GBSmPkrq01VXgkytrxKeNm4z-sy3nzABsM9bWvLuP-b1oGrP_B6CilCDYPPyex53UntzTMup9IuoKTIjbiwFx8ButN6X_BzkkR7ziaofRGd0q5F_9saF0JXoZZHWHGwsMI1BcUWsvmPRpWqqMwQ_Qf1JilbrfZ2OVN9kl7ap_wsr8nT1FjEG5f3xp70lKNAo-GZcK6oLtHwvaTa7wJsl7nzCyiwoW5RmOaKdT7Q-EpcI45lZ1uE3UXWkQTAp5Wiu6husJfEMRbkzdJ7uyPC7o/https://www.amazon.com/dp/B0C491Q63C/?_encoding=UTF8&pd_rd_i=B0C491Q63C&pd_rd_i=B0C491Q63C&ref_=sbx_be_s_sparkle_ssd_tt&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+    - link "Rated 4.0 out of 5 stars from 178 reviews":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JN5joa9K-1vbTiD70_N9OZAAAAGhlnAMdwEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBKYvRE/clv1c_ek-wwnvybdbaDfmYFBuc36LaPo898N5wqB9LgycxW0lNdPeRb1LlPYnAr8fLnG3C2oRAFwEWHqUTQy4yDpcx1b50jjxgspIPBdmn9dgk0_HCq10FtDBW7Az47sNm0h4bh6-zmNQ4AknK2rFSXwNi35ibodeEBt2emgxgd3farcR4MA8OKSK1eV3gozRYBIj4MjpKZsvHG7xL0-zR5NowwNr3K0GYKMBazGRXzcB0zf1oTdU_d3Qmlyd8uJbgYgExMqSp5BiX6_1P4WrEesIMkUhRPhfo0BuasBcGB2MWakBt-Dp_EENK9Z_raSLkhrCk7qnTHul40igHpmks48uVOgJ9xZHmYOAtJXAHkXEeiCYNkx4GIqfPwByAkq0i4tP-Y0VPrs9f26UXIItNB433OK05b-qIBSWxaNGDAu23QRTZJV4B_Itgn0VVbD2U8aoKuQZdBZnmplAHrhbXdHufF1KZQXKIJxqQdicPH1BWoap6pXi0a8ULjIjaRDvE2yMPQbrkHrlsVdcsxWO3UavzJ4TM3FwpSy_GuYkYHVJEtBlFlcRu4uGChxlHq8fgi_T0J4WkR8yjS8nHcUnYjvanVP5tFIm2oXJK_kpOcVp0iGDXIyTYSVK9xl7liVS5DcOXd78T94OAZ166oQe145McpH-z69WEUZR2KzAfchnK5Si0L1evoDQK6cBinoELoV7PYxsDbbXB9DjBwbkNqL_20nHCePz6LEbRGsDlinTdv1FyccwXj9TAFnD1Hh8udpYhxOws3QV5QgRAAaSyHOerUkR4aSDrEVZZwJrTGY9758GBSmPkrq01VXgkytrxKeNm4z-sy3nzABsM9bWvLuP-b1oGrP_B6CilCDYPPyex53UntzTMup9IuoKTIjbiwFx8ButN6X_BzkkR7ziaofRGd0q5F_9saF0JXoZZHWHGwsMI1BcUWsvmPRpWqqMwQ_Qf1JilbrfZ2OVN9kl7ap_wsr8nT1FjEG5f3xp70lKNAo-GZcK6oLtHwvaTa7wJsl7nzCyiwoW5RmOaKdT7Q-EpcI45lZ1uE3UXWkQTAp5Wiu6husJfEMRbkzdJ7uyPC7o/https://www.amazon.com/dp/B0C491Q63C/?_encoding=UTF8&pd_rd_i=B0C491Q63C&pd_rd_i=B0C491Q63C&ref_=sbx_be_s_sparkle_ssd_rev&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - text: "4.0"
+      - generic: 4.0 out of 5 stars
+      - text: "178"
+    - link "$26.99":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JN5joa9K-1vbTiD70_N9OZAAAAGhlnAMdwEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBKYvRE/clv1c_ek-wwnvybdbaDfmYFBuc36LaPo898N5wqB9LgycxW0lNdPeRb1LlPYnAr8fLnG3C2oRAFwEWHqUTQy4yDpcx1b50jjxgspIPBdmn9dgk0_HCq10FtDBW7Az47sNm0h4bh6-zmNQ4AknK2rFSXwNi35ibodeEBt2emgxgd3farcR4MA8OKSK1eV3gozRYBIj4MjpKZsvHG7xL0-zR5NowwNr3K0GYKMBazGRXzcB0zf1oTdU_d3Qmlyd8uJbgYgExMqSp5BiX6_1P4WrEesIMkUhRPhfo0BuasBcGB2MWakBt-Dp_EENK9Z_raSLkhrCk7qnTHul40igHpmks48uVOgJ9xZHmYOAtJXAHkXEeiCYNkx4GIqfPwByAkq0i4tP-Y0VPrs9f26UXIItNB433OK05b-qIBSWxaNGDAu23QRTZJV4B_Itgn0VVbD2U8aoKuQZdBZnmplAHrhbXdHufF1KZQXKIJxqQdicPH1BWoap6pXi0a8ULjIjaRDvE2yMPQbrkHrlsVdcsxWO3UavzJ4TM3FwpSy_GuYkYHVJEtBlFlcRu4uGChxlHq8fgi_T0J4WkR8yjS8nHcUnYjvanVP5tFIm2oXJK_kpOcVp0iGDXIyTYSVK9xl7liVS5DcOXd78T94OAZ166oQe145McpH-z69WEUZR2KzAfchnK5Si0L1evoDQK6cBinoELoV7PYxsDbbXB9DjBwbkNqL_20nHCePz6LEbRGsDlinTdv1FyccwXj9TAFnD1Hh8udpYhxOws3QV5QgRAAaSyHOerUkR4aSDrEVZZwJrTGY9758GBSmPkrq01VXgkytrxKeNm4z-sy3nzABsM9bWvLuP-b1oGrP_B6CilCDYPPyex53UntzTMup9IuoKTIjbiwFx8ButN6X_BzkkR7ziaofRGd0q5F_9saF0JXoZZHWHGwsMI1BcUWsvmPRpWqqMwQ_Qf1JilbrfZ2OVN9kl7ap_wsr8nT1FjEG5f3xp70lKNAo-GZcK6oLtHwvaTa7wJsl7nzCyiwoW5RmOaKdT7Q-EpcI45lZ1uE3UXWkQTAp5Wiu6husJfEMRbkzdJ7uyPC7o/https://www.amazon.com/dp/B0C491Q63C/?_encoding=UTF8&pd_rd_i=B0C491Q63C&pd_rd_i=B0C491Q63C&ref_=sbx_be_s_sparkle_ssd_pce&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - generic: $26.99
+      - text: $
+      - generic: "26."
+      - text: "99"
+    - link "Sponsored video, click to navigate to featured page.":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKw-V6NwSjZ-ZTx2zDhJFQcAAAGhlnAMeQEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBmXxwL/clv1c_ek-wwvHzFdbWDanqA6rWLUSKEGxDKMgVvCS1byWAismsDhh0WcTHXiqtRmx1Y3QVPgXhYOtcdNqQHL3M838LiA0xca7N-vCNRNXu--gWHJ_uR6LaxYgjD2is9mE2b-M_eJc_JENeaIPUdoZJDsKWu9PdmI1UguVCcl2w_VZpWIF18bs7TGn_-dThDQDDuHSCuFQjzjuCLwdNtm3f4UpOvK1Rl5SvOBULKKo7YYrymmnE2EndvXUqlzjZlq1yVTO6q4K8_zOferqDZYVccd3EaUrCUZtFtQ2AZQMN7mBIVDoZ-hzgq6Lci8IYlfNv6TZheEf7-sOKQ-j-HOd7NKswG8d4T_S_KWY8qsPjgR2kCTQorDcXQcUO74uxzG-nTvZRTik2GYA_O6kxywLE8fJS-gOylRqxg_QtxcxAHBVIOooEpMZorQxiW5DwrG18Qqgq3eBUvYGNbY9Wehl4lcpSYbl6lZk7Gt6RlkVr-m2OpG1Xxra5mdY_M_0KQ0xmzIaUvHV9VDyPLHG-MGasLm-40P4rPWNkWWiLXhz87LfgBgDTQZc2mZzr1BBRP_RnuwCOaJVcIIjl-ncB37vEMoPB1sLrGrszCW09LbeY1r4jgK53IXpRU86oxgrcvq3qkIrD2BLgUg8lYS-uJLRjfYXwrrT0FXRzfXgJ3fLSdAwx3Y0eZaXOkdvz-BZ9U4L8g9cl3GEVy6F5DjBboNjCJ9intKjGMeczNptMe3mTEDBsoicudjPCET66CmomKePPnqfzTZAQUsvabDCdOKpROSLIXwofHFVS4747khO98P-t6BxUTdr3mXhHkPNdj1zEbKtFg3Iu0UpJe9TolN0WdgvEuW6Fq0nKbT_WGvpQXhEwMJRbGFLjCkO2z-4DsntgU8hT6Ss1fGEu8AqsJrBp4qvwKtzhi26saI2Nskp4ZocXoIa0rGrvfda-p8nilDxqewmPZ2m40sKvZ0zZ_qkOKJ0uEWyaWLy9K9A8br4hR6EU7n1qhcenbyGE_RA2nvE7atcWXMhJE6RDNLZblIhT1aml5a320Rz8FvAHPJhtpL9Cm5OIrqkeEaDbkQWMX8q8yEmy/https://www.amazon.com/dp/B0C6QSQ861/?_encoding=UTF8&pd_rd_i=B0C6QSQ861&pd_rd_i=B0C6QSQ861&ref_=sbx_be_s_sparkle_ssd_vid&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - generic "Sponsored video, click to navigate to featured page."
+    - link "Lincia Sticky Notes Bulk, 150 Pads Teacher Bright Yellow Strong Sticky Notes 3 x 3 Inch, 45 Sheets/Clean Removal Pads Suitable for Home, School Office, Wedding(Yellow)":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKw-V6NwSjZ-ZTx2zDhJFQcAAAGhlnAMeQEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBmXxwL/clv1c_ek-wwvHzFdbWDanqA6rWLUSKEGxDKMgVvCS1byWAismsDhh0WcTHXiqtRmx1Y3QVPgXhYOtcdNqQHL3M838LiA0xca7N-vCNRNXu--gWHJ_uR6LaxYgjD2is9mE2b-M_eJc_JENeaIPUdoZJDsKWu9PdmI1UguVCcl2w_VZpWIF18bs7TGn_-dThDQDDuHSCuFQjzjuCLwdNtm3f4UpOvK1Rl5SvOBULKKo7YYrymmnE2EndvXUqlzjZlq1yVTO6q4K8_zOferqDZYVccd3EaUrCUZtFtQ2AZQMN7mBIVDoZ-hzgq6Lci8IYlfNv6TZheEf7-sOKQ-j-HOd7NKswG8d4T_S_KWY8qsPjgR2kCTQorDcXQcUO74uxzG-nTvZRTik2GYA_O6kxywLE8fJS-gOylRqxg_QtxcxAHBVIOooEpMZorQxiW5DwrG18Qqgq3eBUvYGNbY9Wehl4lcpSYbl6lZk7Gt6RlkVr-m2OpG1Xxra5mdY_M_0KQ0xmzIaUvHV9VDyPLHG-MGasLm-40P4rPWNkWWiLXhz87LfgBgDTQZc2mZzr1BBRP_RnuwCOaJVcIIjl-ncB37vEMoPB1sLrGrszCW09LbeY1r4jgK53IXpRU86oxgrcvq3qkIrD2BLgUg8lYS-uJLRjfYXwrrT0FXRzfXgJ3fLSdAwx3Y0eZaXOkdvz-BZ9U4L8g9cl3GEVy6F5DjBboNjCJ9intKjGMeczNptMe3mTEDBsoicudjPCET66CmomKePPnqfzTZAQUsvabDCdOKpROSLIXwofHFVS4747khO98P-t6BxUTdr3mXhHkPNdj1zEbKtFg3Iu0UpJe9TolN0WdgvEuW6Fq0nKbT_WGvpQXhEwMJRbGFLjCkO2z-4DsntgU8hT6Ss1fGEu8AqsJrBp4qvwKtzhi26saI2Nskp4ZocXoIa0rGrvfda-p8nilDxqewmPZ2m40sKvZ0zZ_qkOKJ0uEWyaWLy9K9A8br4hR6EU7n1qhcenbyGE_RA2nvE7atcWXMhJE6RDNLZblIhT1aml5a320Rz8FvAHPJhtpL9Cm5OIrqkeEaDbkQWMX8q8yEmy/https://www.amazon.com/dp/B0C6QSQ861/?_encoding=UTF8&pd_rd_i=B0C6QSQ861&pd_rd_i=B0C6QSQ861&ref_=sbx_be_s_sparkle_ssd_img&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - img "Lincia Sticky Notes Bulk, 150 Pads Teacher Bright Yellow Strong Sticky Notes 3 x 3 Inch, 45 Sheets/Clean Removal Pads Suitable for Home, School Office, Wedding(Yellow)"
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKw-V6NwSjZ-ZTx2zDhJFQcAAAGhlnAMeQEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBmXxwL/clv1c_ek-wwvHzFdbWDanqA6rWLUSKEGxDKMgVvCS1byWAismsDhh0WcTHXiqtRmx1Y3QVPgXhYOtcdNqQHL3M838LiA0xca7N-vCNRNXu--gWHJ_uR6LaxYgjD2is9mE2b-M_eJc_JENeaIPUdoZJDsKWu9PdmI1UguVCcl2w_VZpWIF18bs7TGn_-dThDQDDuHSCuFQjzjuCLwdNtm3f4UpOvK1Rl5SvOBULKKo7YYrymmnE2EndvXUqlzjZlq1yVTO6q4K8_zOferqDZYVccd3EaUrCUZtFtQ2AZQMN7mBIVDoZ-hzgq6Lci8IYlfNv6TZheEf7-sOKQ-j-HOd7NKswG8d4T_S_KWY8qsPjgR2kCTQorDcXQcUO74uxzG-nTvZRTik2GYA_O6kxywLE8fJS-gOylRqxg_QtxcxAHBVIOooEpMZorQxiW5DwrG18Qqgq3eBUvYGNbY9Wehl4lcpSYbl6lZk7Gt6RlkVr-m2OpG1Xxra5mdY_M_0KQ0xmzIaUvHV9VDyPLHG-MGasLm-40P4rPWNkWWiLXhz87LfgBgDTQZc2mZzr1BBRP_RnuwCOaJVcIIjl-ncB37vEMoPB1sLrGrszCW09LbeY1r4jgK53IXpRU86oxgrcvq3qkIrD2BLgUg8lYS-uJLRjfYXwrrT0FXRzfXgJ3fLSdAwx3Y0eZaXOkdvz-BZ9U4L8g9cl3GEVy6F5DjBboNjCJ9intKjGMeczNptMe3mTEDBsoicudjPCET66CmomKePPnqfzTZAQUsvabDCdOKpROSLIXwofHFVS4747khO98P-t6BxUTdr3mXhHkPNdj1zEbKtFg3Iu0UpJe9TolN0WdgvEuW6Fq0nKbT_WGvpQXhEwMJRbGFLjCkO2z-4DsntgU8hT6Ss1fGEu8AqsJrBp4qvwKtzhi26saI2Nskp4ZocXoIa0rGrvfda-p8nilDxqewmPZ2m40sKvZ0zZ_qkOKJ0uEWyaWLy9K9A8br4hR6EU7n1qhcenbyGE_RA2nvE7atcWXMhJE6RDNLZblIhT1aml5a320Rz8FvAHPJhtpL9Cm5OIrqkeEaDbkQWMX8q8yEmy/https://www.amazon.com/dp/B0C6QSQ861/?_encoding=UTF8&pd_rd_i=B0C6QSQ861&pd_rd_i=B0C6QSQ861&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKw-V6NwSjZ-ZTx2zDhJFQcAAAGhlnAMeQEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBmXxwL/clv1c_ek-wwvHzFdbWDanqA6rWLUSKEGxDKMgVvCS1byWAismsDhh0WcTHXiqtRmx1Y3QVPgXhYOtcdNqQHL3M838LiA0xca7N-vCNRNXu--gWHJ_uR6LaxYgjD2is9mE2b-M_eJc_JENeaIPUdoZJDsKWu9PdmI1UguVCcl2w_VZpWIF18bs7TGn_-dThDQDDuHSCuFQjzjuCLwdNtm3f4UpOvK1Rl5SvOBULKKo7YYrymmnE2EndvXUqlzjZlq1yVTO6q4K8_zOferqDZYVccd3EaUrCUZtFtQ2AZQMN7mBIVDoZ-hzgq6Lci8IYlfNv6TZheEf7-sOKQ-j-HOd7NKswG8d4T_S_KWY8qsPjgR2kCTQorDcXQcUO74uxzG-nTvZRTik2GYA_O6kxywLE8fJS-gOylRqxg_QtxcxAHBVIOooEpMZorQxiW5DwrG18Qqgq3eBUvYGNbY9Wehl4lcpSYbl6lZk7Gt6RlkVr-m2OpG1Xxra5mdY_M_0KQ0xmzIaUvHV9VDyPLHG-MGasLm-40P4rPWNkWWiLXhz87LfgBgDTQZc2mZzr1BBRP_RnuwCOaJVcIIjl-ncB37vEMoPB1sLrGrszCW09LbeY1r4jgK53IXpRU86oxgrcvq3qkIrD2BLgUg8lYS-uJLRjfYXwrrT0FXRzfXgJ3fLSdAwx3Y0eZaXOkdvz-BZ9U4L8g9cl3GEVy6F5DjBboNjCJ9intKjGMeczNptMe3mTEDBsoicudjPCET66CmomKePPnqfzTZAQUsvabDCdOKpROSLIXwofHFVS4747khO98P-t6BxUTdr3mXhHkPNdj1zEbKtFg3Iu0UpJe9TolN0WdgvEuW6Fq0nKbT_WGvpQXhEwMJRbGFLjCkO2z-4DsntgU8hT6Ss1fGEu8AqsJrBp4qvwKtzhi26saI2Nskp4ZocXoIa0rGrvfda-p8nilDxqewmPZ2m40sKvZ0zZ_qkOKJ0uEWyaWLy9K9A8br4hR6EU7n1qhcenbyGE_RA2nvE7atcWXMhJE6RDNLZblIhT1aml5a320Rz8FvAHPJhtpL9Cm5OIrqkeEaDbkQWMX8q8yEmy/https://www.amazon.com/dp/B0C6QSQ861/?_encoding=UTF8&pd_rd_i=B0C6QSQ861&pd_rd_i=B0C6QSQ861&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+    - link "Lincia Sticky Notes Bulk, 150 Pads Teacher Bright Yellow Strong Sticky Notes 3 x 3 Inch, 45 Sheets/Clean Removal Pads Suitable for Home, School Office, Wedding(Yellow)":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKw-V6NwSjZ-ZTx2zDhJFQcAAAGhlnAMeQEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBmXxwL/clv1c_ek-wwvHzFdbWDanqA6rWLUSKEGxDKMgVvCS1byWAismsDhh0WcTHXiqtRmx1Y3QVPgXhYOtcdNqQHL3M838LiA0xca7N-vCNRNXu--gWHJ_uR6LaxYgjD2is9mE2b-M_eJc_JENeaIPUdoZJDsKWu9PdmI1UguVCcl2w_VZpWIF18bs7TGn_-dThDQDDuHSCuFQjzjuCLwdNtm3f4UpOvK1Rl5SvOBULKKo7YYrymmnE2EndvXUqlzjZlq1yVTO6q4K8_zOferqDZYVccd3EaUrCUZtFtQ2AZQMN7mBIVDoZ-hzgq6Lci8IYlfNv6TZheEf7-sOKQ-j-HOd7NKswG8d4T_S_KWY8qsPjgR2kCTQorDcXQcUO74uxzG-nTvZRTik2GYA_O6kxywLE8fJS-gOylRqxg_QtxcxAHBVIOooEpMZorQxiW5DwrG18Qqgq3eBUvYGNbY9Wehl4lcpSYbl6lZk7Gt6RlkVr-m2OpG1Xxra5mdY_M_0KQ0xmzIaUvHV9VDyPLHG-MGasLm-40P4rPWNkWWiLXhz87LfgBgDTQZc2mZzr1BBRP_RnuwCOaJVcIIjl-ncB37vEMoPB1sLrGrszCW09LbeY1r4jgK53IXpRU86oxgrcvq3qkIrD2BLgUg8lYS-uJLRjfYXwrrT0FXRzfXgJ3fLSdAwx3Y0eZaXOkdvz-BZ9U4L8g9cl3GEVy6F5DjBboNjCJ9intKjGMeczNptMe3mTEDBsoicudjPCET66CmomKePPnqfzTZAQUsvabDCdOKpROSLIXwofHFVS4747khO98P-t6BxUTdr3mXhHkPNdj1zEbKtFg3Iu0UpJe9TolN0WdgvEuW6Fq0nKbT_WGvpQXhEwMJRbGFLjCkO2z-4DsntgU8hT6Ss1fGEu8AqsJrBp4qvwKtzhi26saI2Nskp4ZocXoIa0rGrvfda-p8nilDxqewmPZ2m40sKvZ0zZ_qkOKJ0uEWyaWLy9K9A8br4hR6EU7n1qhcenbyGE_RA2nvE7atcWXMhJE6RDNLZblIhT1aml5a320Rz8FvAHPJhtpL9Cm5OIrqkeEaDbkQWMX8q8yEmy/https://www.amazon.com/dp/B0C6QSQ861/?_encoding=UTF8&pd_rd_i=B0C6QSQ861&pd_rd_i=B0C6QSQ861&ref_=sbx_be_s_sparkle_ssd_tt&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+    - link "Rated 3.6 out of 5 stars from 11 reviews":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKw-V6NwSjZ-ZTx2zDhJFQcAAAGhlnAMeQEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBmXxwL/clv1c_ek-wwvHzFdbWDanqA6rWLUSKEGxDKMgVvCS1byWAismsDhh0WcTHXiqtRmx1Y3QVPgXhYOtcdNqQHL3M838LiA0xca7N-vCNRNXu--gWHJ_uR6LaxYgjD2is9mE2b-M_eJc_JENeaIPUdoZJDsKWu9PdmI1UguVCcl2w_VZpWIF18bs7TGn_-dThDQDDuHSCuFQjzjuCLwdNtm3f4UpOvK1Rl5SvOBULKKo7YYrymmnE2EndvXUqlzjZlq1yVTO6q4K8_zOferqDZYVccd3EaUrCUZtFtQ2AZQMN7mBIVDoZ-hzgq6Lci8IYlfNv6TZheEf7-sOKQ-j-HOd7NKswG8d4T_S_KWY8qsPjgR2kCTQorDcXQcUO74uxzG-nTvZRTik2GYA_O6kxywLE8fJS-gOylRqxg_QtxcxAHBVIOooEpMZorQxiW5DwrG18Qqgq3eBUvYGNbY9Wehl4lcpSYbl6lZk7Gt6RlkVr-m2OpG1Xxra5mdY_M_0KQ0xmzIaUvHV9VDyPLHG-MGasLm-40P4rPWNkWWiLXhz87LfgBgDTQZc2mZzr1BBRP_RnuwCOaJVcIIjl-ncB37vEMoPB1sLrGrszCW09LbeY1r4jgK53IXpRU86oxgrcvq3qkIrD2BLgUg8lYS-uJLRjfYXwrrT0FXRzfXgJ3fLSdAwx3Y0eZaXOkdvz-BZ9U4L8g9cl3GEVy6F5DjBboNjCJ9intKjGMeczNptMe3mTEDBsoicudjPCET66CmomKePPnqfzTZAQUsvabDCdOKpROSLIXwofHFVS4747khO98P-t6BxUTdr3mXhHkPNdj1zEbKtFg3Iu0UpJe9TolN0WdgvEuW6Fq0nKbT_WGvpQXhEwMJRbGFLjCkO2z-4DsntgU8hT6Ss1fGEu8AqsJrBp4qvwKtzhi26saI2Nskp4ZocXoIa0rGrvfda-p8nilDxqewmPZ2m40sKvZ0zZ_qkOKJ0uEWyaWLy9K9A8br4hR6EU7n1qhcenbyGE_RA2nvE7atcWXMhJE6RDNLZblIhT1aml5a320Rz8FvAHPJhtpL9Cm5OIrqkeEaDbkQWMX8q8yEmy/https://www.amazon.com/dp/B0C6QSQ861/?_encoding=UTF8&pd_rd_i=B0C6QSQ861&pd_rd_i=B0C6QSQ861&ref_=sbx_be_s_sparkle_ssd_rev&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - text: "3.6"
+      - generic: 3.6 out of 5 stars
+      - text: "11"
+    - link "$42.99":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKw-V6NwSjZ-ZTx2zDhJFQcAAAGhlnAMeQEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBmXxwL/clv1c_ek-wwvHzFdbWDanqA6rWLUSKEGxDKMgVvCS1byWAismsDhh0WcTHXiqtRmx1Y3QVPgXhYOtcdNqQHL3M838LiA0xca7N-vCNRNXu--gWHJ_uR6LaxYgjD2is9mE2b-M_eJc_JENeaIPUdoZJDsKWu9PdmI1UguVCcl2w_VZpWIF18bs7TGn_-dThDQDDuHSCuFQjzjuCLwdNtm3f4UpOvK1Rl5SvOBULKKo7YYrymmnE2EndvXUqlzjZlq1yVTO6q4K8_zOferqDZYVccd3EaUrCUZtFtQ2AZQMN7mBIVDoZ-hzgq6Lci8IYlfNv6TZheEf7-sOKQ-j-HOd7NKswG8d4T_S_KWY8qsPjgR2kCTQorDcXQcUO74uxzG-nTvZRTik2GYA_O6kxywLE8fJS-gOylRqxg_QtxcxAHBVIOooEpMZorQxiW5DwrG18Qqgq3eBUvYGNbY9Wehl4lcpSYbl6lZk7Gt6RlkVr-m2OpG1Xxra5mdY_M_0KQ0xmzIaUvHV9VDyPLHG-MGasLm-40P4rPWNkWWiLXhz87LfgBgDTQZc2mZzr1BBRP_RnuwCOaJVcIIjl-ncB37vEMoPB1sLrGrszCW09LbeY1r4jgK53IXpRU86oxgrcvq3qkIrD2BLgUg8lYS-uJLRjfYXwrrT0FXRzfXgJ3fLSdAwx3Y0eZaXOkdvz-BZ9U4L8g9cl3GEVy6F5DjBboNjCJ9intKjGMeczNptMe3mTEDBsoicudjPCET66CmomKePPnqfzTZAQUsvabDCdOKpROSLIXwofHFVS4747khO98P-t6BxUTdr3mXhHkPNdj1zEbKtFg3Iu0UpJe9TolN0WdgvEuW6Fq0nKbT_WGvpQXhEwMJRbGFLjCkO2z-4DsntgU8hT6Ss1fGEu8AqsJrBp4qvwKtzhi26saI2Nskp4ZocXoIa0rGrvfda-p8nilDxqewmPZ2m40sKvZ0zZ_qkOKJ0uEWyaWLy9K9A8br4hR6EU7n1qhcenbyGE_RA2nvE7atcWXMhJE6RDNLZblIhT1aml5a320Rz8FvAHPJhtpL9Cm5OIrqkeEaDbkQWMX8q8yEmy/https://www.amazon.com/dp/B0C6QSQ861/?_encoding=UTF8&pd_rd_i=B0C6QSQ861&pd_rd_i=B0C6QSQ861&ref_=sbx_be_s_sparkle_ssd_pce&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - generic: $42.99
+      - text: $
+      - generic: "42."
+      - text: "99"
+    - link "Sponsored video, click to navigate to featured page.":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JC4Oa1oEDwS-A5M5UbwimYEAAAGhlnAMegEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICDWpg1b/clv1c_ek-wwvXzFcbaTqnuA6reLWQKkGxCKMgVvJPi4SmPismsRM5oGNSOjyXiNcUYRny3y9kYAgLBts3FbId7dOyoK_dy1OeyorLRbC7bzdDYJDQHx6_Q-2fEzGz8tt2cPi6VbqrCfez6cjbx3x3_m_V229DWuD3ct2crs4cQzP4txRtVOQg-XMZ6n9vBADhxHJ5HEOiN3i9vxwugVSZPok1n8K1-_-_l5ueoxVH0AkdqYMLQ5qFP1XHwQCRvqgzc_3KrOjkMhrVHLxBSWoc_GkaHwinpiWrIMBuewgdGG2MU619lektxkunptP_l5i5OgPYQ50h9EMZx-9fYmV9t-vO5KE_LUluUBaapiq90OG-SSUxwkssyb9cIA5ESpqkWRb5qLOY88-BAKbDgmkTgAb7DuWuSO8J97k9jTpAXRt6oWdznFAG3nDKSML5WRRBMfmS1LiRV3sY62JfzJDULJ-ChWd9JJ8cbjZGLLDuOrVI8bAqlzHZgSIfxaOw15-PoiJceExi9lmR59KXJUQehDRi_x6H2BEpyir3f-SvzM-6DRHqmIw_J5LKaQD7uhBzOT6ceeks7CBX6JyZHotQuSiATQK4M5bpJ2X1gHP1gSTiYwz_E9ywu7iqHGs1QQ0MHZ9U3I04IouHvj1dywWaircnHPLdfC4VstAZNKmfZId5jHHutE_9It_oLxiASwIB0ZvQD6_QWB56rdNI2kFdgzddbjtNjw9FmnD4HRafLmJvuwwWcMiHR6_sYzZxYtmGlPsXX2QKwSVoRtU79x0Pm-vfUHoYEyRiC1pJLkshwAVqUuAj0S7MommTnbJm9pGq1XZ2c_mgovJq5cMjLIeu0I7KUtJhVJucHVfv_wfdUTlEZVVDfaLMjnC5mKgC-pwlas-oJPhB3zS1MfJUvVk6AlmoMPNMhE7_UqQTNAzRc82xc1A-w5CB9fUKxOw7qyiqe9_dHYOlcUyRUiSx9wt5GkptQfa8kuocTtHqi7fc7Q6l69H2Us8WMs51whHj5ncvjm6KsWQhgOmiCSuDOBlV-mHgV85JUEll4neeCOs6B28CH8Q5y8w77oEWCA0hhrSuSmhU54w/https://www.amazon.com/dp/B0F8NS2X7D/?_encoding=UTF8&pd_rd_i=B0F8NS2X7D&pd_rd_i=B0F8NS2X7D&ref_=sbx_be_s_sparkle_ssd_vid&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - generic "Sponsored video, click to navigate to featured page."
+    - link "Qeeenar 8 Pads Big Sticky Notes 11 x 11 Inch Lined Jumbo Large Sticky Notes for Wall,Giant Strong Power Memo Square Post for Office, 25 Sheets/Pad(Vivid Color)":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JC4Oa1oEDwS-A5M5UbwimYEAAAGhlnAMegEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICDWpg1b/clv1c_ek-wwvXzFcbaTqnuA6reLWQKkGxCKMgVvJPi4SmPismsRM5oGNSOjyXiNcUYRny3y9kYAgLBts3FbId7dOyoK_dy1OeyorLRbC7bzdDYJDQHx6_Q-2fEzGz8tt2cPi6VbqrCfez6cjbx3x3_m_V229DWuD3ct2crs4cQzP4txRtVOQg-XMZ6n9vBADhxHJ5HEOiN3i9vxwugVSZPok1n8K1-_-_l5ueoxVH0AkdqYMLQ5qFP1XHwQCRvqgzc_3KrOjkMhrVHLxBSWoc_GkaHwinpiWrIMBuewgdGG2MU619lektxkunptP_l5i5OgPYQ50h9EMZx-9fYmV9t-vO5KE_LUluUBaapiq90OG-SSUxwkssyb9cIA5ESpqkWRb5qLOY88-BAKbDgmkTgAb7DuWuSO8J97k9jTpAXRt6oWdznFAG3nDKSML5WRRBMfmS1LiRV3sY62JfzJDULJ-ChWd9JJ8cbjZGLLDuOrVI8bAqlzHZgSIfxaOw15-PoiJceExi9lmR59KXJUQehDRi_x6H2BEpyir3f-SvzM-6DRHqmIw_J5LKaQD7uhBzOT6ceeks7CBX6JyZHotQuSiATQK4M5bpJ2X1gHP1gSTiYwz_E9ywu7iqHGs1QQ0MHZ9U3I04IouHvj1dywWaircnHPLdfC4VstAZNKmfZId5jHHutE_9It_oLxiASwIB0ZvQD6_QWB56rdNI2kFdgzddbjtNjw9FmnD4HRafLmJvuwwWcMiHR6_sYzZxYtmGlPsXX2QKwSVoRtU79x0Pm-vfUHoYEyRiC1pJLkshwAVqUuAj0S7MommTnbJm9pGq1XZ2c_mgovJq5cMjLIeu0I7KUtJhVJucHVfv_wfdUTlEZVVDfaLMjnC5mKgC-pwlas-oJPhB3zS1MfJUvVk6AlmoMPNMhE7_UqQTNAzRc82xc1A-w5CB9fUKxOw7qyiqe9_dHYOlcUyRUiSx9wt5GkptQfa8kuocTtHqi7fc7Q6l69H2Us8WMs51whHj5ncvjm6KsWQhgOmiCSuDOBlV-mHgV85JUEll4neeCOs6B28CH8Q5y8w77oEWCA0hhrSuSmhU54w/https://www.amazon.com/dp/B0F8NS2X7D/?_encoding=UTF8&pd_rd_i=B0F8NS2X7D&pd_rd_i=B0F8NS2X7D&ref_=sbx_be_s_sparkle_ssd_img&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - img "Qeeenar 8 Pads Big Sticky Notes 11 x 11 Inch Lined Jumbo Large Sticky Notes for Wall,Giant Strong Power Memo Square Post for Office, 25 Sheets/Pad(Vivid Color)"
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JC4Oa1oEDwS-A5M5UbwimYEAAAGhlnAMegEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICDWpg1b/clv1c_ek-wwvXzFcbaTqnuA6reLWQKkGxCKMgVvJPi4SmPismsRM5oGNSOjyXiNcUYRny3y9kYAgLBts3FbId7dOyoK_dy1OeyorLRbC7bzdDYJDQHx6_Q-2fEzGz8tt2cPi6VbqrCfez6cjbx3x3_m_V229DWuD3ct2crs4cQzP4txRtVOQg-XMZ6n9vBADhxHJ5HEOiN3i9vxwugVSZPok1n8K1-_-_l5ueoxVH0AkdqYMLQ5qFP1XHwQCRvqgzc_3KrOjkMhrVHLxBSWoc_GkaHwinpiWrIMBuewgdGG2MU619lektxkunptP_l5i5OgPYQ50h9EMZx-9fYmV9t-vO5KE_LUluUBaapiq90OG-SSUxwkssyb9cIA5ESpqkWRb5qLOY88-BAKbDgmkTgAb7DuWuSO8J97k9jTpAXRt6oWdznFAG3nDKSML5WRRBMfmS1LiRV3sY62JfzJDULJ-ChWd9JJ8cbjZGLLDuOrVI8bAqlzHZgSIfxaOw15-PoiJceExi9lmR59KXJUQehDRi_x6H2BEpyir3f-SvzM-6DRHqmIw_J5LKaQD7uhBzOT6ceeks7CBX6JyZHotQuSiATQK4M5bpJ2X1gHP1gSTiYwz_E9ywu7iqHGs1QQ0MHZ9U3I04IouHvj1dywWaircnHPLdfC4VstAZNKmfZId5jHHutE_9It_oLxiASwIB0ZvQD6_QWB56rdNI2kFdgzddbjtNjw9FmnD4HRafLmJvuwwWcMiHR6_sYzZxYtmGlPsXX2QKwSVoRtU79x0Pm-vfUHoYEyRiC1pJLkshwAVqUuAj0S7MommTnbJm9pGq1XZ2c_mgovJq5cMjLIeu0I7KUtJhVJucHVfv_wfdUTlEZVVDfaLMjnC5mKgC-pwlas-oJPhB3zS1MfJUvVk6AlmoMPNMhE7_UqQTNAzRc82xc1A-w5CB9fUKxOw7qyiqe9_dHYOlcUyRUiSx9wt5GkptQfa8kuocTtHqi7fc7Q6l69H2Us8WMs51whHj5ncvjm6KsWQhgOmiCSuDOBlV-mHgV85JUEll4neeCOs6B28CH8Q5y8w77oEWCA0hhrSuSmhU54w/https://www.amazon.com/dp/B0F8NS2X7D/?_encoding=UTF8&pd_rd_i=B0F8NS2X7D&pd_rd_i=B0F8NS2X7D&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JC4Oa1oEDwS-A5M5UbwimYEAAAGhlnAMegEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICDWpg1b/clv1c_ek-wwvXzFcbaTqnuA6reLWQKkGxCKMgVvJPi4SmPismsRM5oGNSOjyXiNcUYRny3y9kYAgLBts3FbId7dOyoK_dy1OeyorLRbC7bzdDYJDQHx6_Q-2fEzGz8tt2cPi6VbqrCfez6cjbx3x3_m_V229DWuD3ct2crs4cQzP4txRtVOQg-XMZ6n9vBADhxHJ5HEOiN3i9vxwugVSZPok1n8K1-_-_l5ueoxVH0AkdqYMLQ5qFP1XHwQCRvqgzc_3KrOjkMhrVHLxBSWoc_GkaHwinpiWrIMBuewgdGG2MU619lektxkunptP_l5i5OgPYQ50h9EMZx-9fYmV9t-vO5KE_LUluUBaapiq90OG-SSUxwkssyb9cIA5ESpqkWRb5qLOY88-BAKbDgmkTgAb7DuWuSO8J97k9jTpAXRt6oWdznFAG3nDKSML5WRRBMfmS1LiRV3sY62JfzJDULJ-ChWd9JJ8cbjZGLLDuOrVI8bAqlzHZgSIfxaOw15-PoiJceExi9lmR59KXJUQehDRi_x6H2BEpyir3f-SvzM-6DRHqmIw_J5LKaQD7uhBzOT6ceeks7CBX6JyZHotQuSiATQK4M5bpJ2X1gHP1gSTiYwz_E9ywu7iqHGs1QQ0MHZ9U3I04IouHvj1dywWaircnHPLdfC4VstAZNKmfZId5jHHutE_9It_oLxiASwIB0ZvQD6_QWB56rdNI2kFdgzddbjtNjw9FmnD4HRafLmJvuwwWcMiHR6_sYzZxYtmGlPsXX2QKwSVoRtU79x0Pm-vfUHoYEyRiC1pJLkshwAVqUuAj0S7MommTnbJm9pGq1XZ2c_mgovJq5cMjLIeu0I7KUtJhVJucHVfv_wfdUTlEZVVDfaLMjnC5mKgC-pwlas-oJPhB3zS1MfJUvVk6AlmoMPNMhE7_UqQTNAzRc82xc1A-w5CB9fUKxOw7qyiqe9_dHYOlcUyRUiSx9wt5GkptQfa8kuocTtHqi7fc7Q6l69H2Us8WMs51whHj5ncvjm6KsWQhgOmiCSuDOBlV-mHgV85JUEll4neeCOs6B28CH8Q5y8w77oEWCA0hhrSuSmhU54w/https://www.amazon.com/dp/B0F8NS2X7D/?_encoding=UTF8&pd_rd_i=B0F8NS2X7D&pd_rd_i=B0F8NS2X7D&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+    - link "Qeeenar 8 Pads Big Sticky Notes 11 x 11 Inch Lined Jumbo Large Sticky Notes for Wall,Giant Strong Power Memo Square Post for Office, 25 Sheets/Pad(Vivid Color)":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JC4Oa1oEDwS-A5M5UbwimYEAAAGhlnAMegEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICDWpg1b/clv1c_ek-wwvXzFcbaTqnuA6reLWQKkGxCKMgVvJPi4SmPismsRM5oGNSOjyXiNcUYRny3y9kYAgLBts3FbId7dOyoK_dy1OeyorLRbC7bzdDYJDQHx6_Q-2fEzGz8tt2cPi6VbqrCfez6cjbx3x3_m_V229DWuD3ct2crs4cQzP4txRtVOQg-XMZ6n9vBADhxHJ5HEOiN3i9vxwugVSZPok1n8K1-_-_l5ueoxVH0AkdqYMLQ5qFP1XHwQCRvqgzc_3KrOjkMhrVHLxBSWoc_GkaHwinpiWrIMBuewgdGG2MU619lektxkunptP_l5i5OgPYQ50h9EMZx-9fYmV9t-vO5KE_LUluUBaapiq90OG-SSUxwkssyb9cIA5ESpqkWRb5qLOY88-BAKbDgmkTgAb7DuWuSO8J97k9jTpAXRt6oWdznFAG3nDKSML5WRRBMfmS1LiRV3sY62JfzJDULJ-ChWd9JJ8cbjZGLLDuOrVI8bAqlzHZgSIfxaOw15-PoiJceExi9lmR59KXJUQehDRi_x6H2BEpyir3f-SvzM-6DRHqmIw_J5LKaQD7uhBzOT6ceeks7CBX6JyZHotQuSiATQK4M5bpJ2X1gHP1gSTiYwz_E9ywu7iqHGs1QQ0MHZ9U3I04IouHvj1dywWaircnHPLdfC4VstAZNKmfZId5jHHutE_9It_oLxiASwIB0ZvQD6_QWB56rdNI2kFdgzddbjtNjw9FmnD4HRafLmJvuwwWcMiHR6_sYzZxYtmGlPsXX2QKwSVoRtU79x0Pm-vfUHoYEyRiC1pJLkshwAVqUuAj0S7MommTnbJm9pGq1XZ2c_mgovJq5cMjLIeu0I7KUtJhVJucHVfv_wfdUTlEZVVDfaLMjnC5mKgC-pwlas-oJPhB3zS1MfJUvVk6AlmoMPNMhE7_UqQTNAzRc82xc1A-w5CB9fUKxOw7qyiqe9_dHYOlcUyRUiSx9wt5GkptQfa8kuocTtHqi7fc7Q6l69H2Us8WMs51whHj5ncvjm6KsWQhgOmiCSuDOBlV-mHgV85JUEll4neeCOs6B28CH8Q5y8w77oEWCA0hhrSuSmhU54w/https://www.amazon.com/dp/B0F8NS2X7D/?_encoding=UTF8&pd_rd_i=B0F8NS2X7D&pd_rd_i=B0F8NS2X7D&ref_=sbx_be_s_sparkle_ssd_tt&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+    - link "Rated 4.1 out of 5 stars from 121 reviews":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JC4Oa1oEDwS-A5M5UbwimYEAAAGhlnAMegEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICDWpg1b/clv1c_ek-wwvXzFcbaTqnuA6reLWQKkGxCKMgVvJPi4SmPismsRM5oGNSOjyXiNcUYRny3y9kYAgLBts3FbId7dOyoK_dy1OeyorLRbC7bzdDYJDQHx6_Q-2fEzGz8tt2cPi6VbqrCfez6cjbx3x3_m_V229DWuD3ct2crs4cQzP4txRtVOQg-XMZ6n9vBADhxHJ5HEOiN3i9vxwugVSZPok1n8K1-_-_l5ueoxVH0AkdqYMLQ5qFP1XHwQCRvqgzc_3KrOjkMhrVHLxBSWoc_GkaHwinpiWrIMBuewgdGG2MU619lektxkunptP_l5i5OgPYQ50h9EMZx-9fYmV9t-vO5KE_LUluUBaapiq90OG-SSUxwkssyb9cIA5ESpqkWRb5qLOY88-BAKbDgmkTgAb7DuWuSO8J97k9jTpAXRt6oWdznFAG3nDKSML5WRRBMfmS1LiRV3sY62JfzJDULJ-ChWd9JJ8cbjZGLLDuOrVI8bAqlzHZgSIfxaOw15-PoiJceExi9lmR59KXJUQehDRi_x6H2BEpyir3f-SvzM-6DRHqmIw_J5LKaQD7uhBzOT6ceeks7CBX6JyZHotQuSiATQK4M5bpJ2X1gHP1gSTiYwz_E9ywu7iqHGs1QQ0MHZ9U3I04IouHvj1dywWaircnHPLdfC4VstAZNKmfZId5jHHutE_9It_oLxiASwIB0ZvQD6_QWB56rdNI2kFdgzddbjtNjw9FmnD4HRafLmJvuwwWcMiHR6_sYzZxYtmGlPsXX2QKwSVoRtU79x0Pm-vfUHoYEyRiC1pJLkshwAVqUuAj0S7MommTnbJm9pGq1XZ2c_mgovJq5cMjLIeu0I7KUtJhVJucHVfv_wfdUTlEZVVDfaLMjnC5mKgC-pwlas-oJPhB3zS1MfJUvVk6AlmoMPNMhE7_UqQTNAzRc82xc1A-w5CB9fUKxOw7qyiqe9_dHYOlcUyRUiSx9wt5GkptQfa8kuocTtHqi7fc7Q6l69H2Us8WMs51whHj5ncvjm6KsWQhgOmiCSuDOBlV-mHgV85JUEll4neeCOs6B28CH8Q5y8w77oEWCA0hhrSuSmhU54w/https://www.amazon.com/dp/B0F8NS2X7D/?_encoding=UTF8&pd_rd_i=B0F8NS2X7D&pd_rd_i=B0F8NS2X7D&ref_=sbx_be_s_sparkle_ssd_rev&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - text: "4.1"
+      - generic: 4.1 out of 5 stars
+      - text: "121"
+    - link "$23.99":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JC4Oa1oEDwS-A5M5UbwimYEAAAGhlnAMegEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICDWpg1b/clv1c_ek-wwvXzFcbaTqnuA6reLWQKkGxCKMgVvJPi4SmPismsRM5oGNSOjyXiNcUYRny3y9kYAgLBts3FbId7dOyoK_dy1OeyorLRbC7bzdDYJDQHx6_Q-2fEzGz8tt2cPi6VbqrCfez6cjbx3x3_m_V229DWuD3ct2crs4cQzP4txRtVOQg-XMZ6n9vBADhxHJ5HEOiN3i9vxwugVSZPok1n8K1-_-_l5ueoxVH0AkdqYMLQ5qFP1XHwQCRvqgzc_3KrOjkMhrVHLxBSWoc_GkaHwinpiWrIMBuewgdGG2MU619lektxkunptP_l5i5OgPYQ50h9EMZx-9fYmV9t-vO5KE_LUluUBaapiq90OG-SSUxwkssyb9cIA5ESpqkWRb5qLOY88-BAKbDgmkTgAb7DuWuSO8J97k9jTpAXRt6oWdznFAG3nDKSML5WRRBMfmS1LiRV3sY62JfzJDULJ-ChWd9JJ8cbjZGLLDuOrVI8bAqlzHZgSIfxaOw15-PoiJceExi9lmR59KXJUQehDRi_x6H2BEpyir3f-SvzM-6DRHqmIw_J5LKaQD7uhBzOT6ceeks7CBX6JyZHotQuSiATQK4M5bpJ2X1gHP1gSTiYwz_E9ywu7iqHGs1QQ0MHZ9U3I04IouHvj1dywWaircnHPLdfC4VstAZNKmfZId5jHHutE_9It_oLxiASwIB0ZvQD6_QWB56rdNI2kFdgzddbjtNjw9FmnD4HRafLmJvuwwWcMiHR6_sYzZxYtmGlPsXX2QKwSVoRtU79x0Pm-vfUHoYEyRiC1pJLkshwAVqUuAj0S7MommTnbJm9pGq1XZ2c_mgovJq5cMjLIeu0I7KUtJhVJucHVfv_wfdUTlEZVVDfaLMjnC5mKgC-pwlas-oJPhB3zS1MfJUvVk6AlmoMPNMhE7_UqQTNAzRc82xc1A-w5CB9fUKxOw7qyiqe9_dHYOlcUyRUiSx9wt5GkptQfa8kuocTtHqi7fc7Q6l69H2Us8WMs51whHj5ncvjm6KsWQhgOmiCSuDOBlV-mHgV85JUEll4neeCOs6B28CH8Q5y8w77oEWCA0hhrSuSmhU54w/https://www.amazon.com/dp/B0F8NS2X7D/?_encoding=UTF8&pd_rd_i=B0F8NS2X7D&pd_rd_i=B0F8NS2X7D&ref_=sbx_be_s_sparkle_ssd_pce&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - generic: $23.99
+      - text: $
+      - generic: "23."
+      - text: "99"
+    - link "Sponsored video, click to navigate to featured page.":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JJy2EORmoxEtSfbPQGoy248AAAGhlnAMfAEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICDjJ23L/clv1c_ek-ww_HTEsbWDZHHBU7eM2YEMKobNOOZjCI6D2ExlZO-dvJjEvZ2xyVLaOh4pu4IxZ2P5iOhRN-KBjEgbJ8UNsU-o1-g-TwDa-uqAc7-X0PxhNEPhCFeBnL-QlnX5lUVz-LZxo224s_zUxrj0JMWypg7IduAnvXKIQRSTdCoDwMWBMokb5_BnN_2ChvF0KjWou2M5WdhFevez4RNuwlQtopDcdYXX1JnMqZdj7Pg97Gy8KaK6BAwHb7irFbGazVlqprdwwlgUGrACI1UCePlixmBMVhLN6_TfbBgGXnowF_Ssm2qd_05RGIURXraHd0G5oLcuDYRzXnWjivrF0Qu2-yNMCD5IyVsVRHdAqIN_IU71EE18_CMxFj0tkAkou_2KSSascyVrNHjqIh8H4KvHqYVLI_0kK7gmCIK4YkYPE1uIEZVgSZj-d_ICw7VHkfUID28FJNH6OMQaf9MQ0RhdlGEIHR3mYvDiXSp5cnDQcwl5PN1TOecszEbZKeemIIyAxuJqNtteB7yozzBCxC3gh5QWccPhh734l9undFla3Cy14FIizlIRdLP8fz-HOCiloQsTUl1RzGlIJ4OZXEHSBi76P2CfkqbvF1vprVx566xSigFrFx91WvSEXDQGxxC5eorOADaO09q4ymiZRWvNAs_42DRPurG3tBjwAQXNuFIExPy87i3dezJDygfey-T8pv6M1sx4Iq1YKmZCWQXdfI4Yvzu21rGwM5rBBPtkBkSA4EByEauTngV9PoUnse3yFyim886hXL3sdI3B6FrwQfUb0934cAIL_3Hyxa4xL0FdnjRYKnQp3bBCBolt_UUSMCAwr-jQdtF1MooqIkrSymRVhhNvGzKFTRXHnPH7Gime36e94IJ_ySQcbbPZJKfeGF71qb2-Riq5V1FJXBMqHAl2yrEtnOOBW7QYx5C-OBoXPHnCVJefd4dE9mgWhF_7Tc8GmMgvC5ejXxLNF_K25akA_P4WUFUmUOUFrMx5ArOheGve2871jIQw_ZRDIfKtcV_jrK2o9Y4w1Aqag8hTbXZOvBPmYDsDXs3Ar2lx-SEDZBCQX6DO6jdHA/https://www.amazon.com/dp/B07VRYX57R/?_encoding=UTF8&pd_rd_i=B07VRYX57R&pd_rd_i=B07VRYX57R&ref_=sbx_be_s_sparkle_ssd_vid&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - generic "Sponsored video, click to navigate to featured page."
+    - link "(24 Pack) Sticky Notes 3x3 in Post Bright Stickies Colorful Memo Pads | Super Sticking Power,Strong Adhesive, 74 Sheets/pad":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JJy2EORmoxEtSfbPQGoy248AAAGhlnAMfAEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICDjJ23L/clv1c_ek-ww_HTEsbWDZHHBU7eM2YEMKobNOOZjCI6D2ExlZO-dvJjEvZ2xyVLaOh4pu4IxZ2P5iOhRN-KBjEgbJ8UNsU-o1-g-TwDa-uqAc7-X0PxhNEPhCFeBnL-QlnX5lUVz-LZxo224s_zUxrj0JMWypg7IduAnvXKIQRSTdCoDwMWBMokb5_BnN_2ChvF0KjWou2M5WdhFevez4RNuwlQtopDcdYXX1JnMqZdj7Pg97Gy8KaK6BAwHb7irFbGazVlqprdwwlgUGrACI1UCePlixmBMVhLN6_TfbBgGXnowF_Ssm2qd_05RGIURXraHd0G5oLcuDYRzXnWjivrF0Qu2-yNMCD5IyVsVRHdAqIN_IU71EE18_CMxFj0tkAkou_2KSSascyVrNHjqIh8H4KvHqYVLI_0kK7gmCIK4YkYPE1uIEZVgSZj-d_ICw7VHkfUID28FJNH6OMQaf9MQ0RhdlGEIHR3mYvDiXSp5cnDQcwl5PN1TOecszEbZKeemIIyAxuJqNtteB7yozzBCxC3gh5QWccPhh734l9undFla3Cy14FIizlIRdLP8fz-HOCiloQsTUl1RzGlIJ4OZXEHSBi76P2CfkqbvF1vprVx566xSigFrFx91WvSEXDQGxxC5eorOADaO09q4ymiZRWvNAs_42DRPurG3tBjwAQXNuFIExPy87i3dezJDygfey-T8pv6M1sx4Iq1YKmZCWQXdfI4Yvzu21rGwM5rBBPtkBkSA4EByEauTngV9PoUnse3yFyim886hXL3sdI3B6FrwQfUb0934cAIL_3Hyxa4xL0FdnjRYKnQp3bBCBolt_UUSMCAwr-jQdtF1MooqIkrSymRVhhNvGzKFTRXHnPH7Gime36e94IJ_ySQcbbPZJKfeGF71qb2-Riq5V1FJXBMqHAl2yrEtnOOBW7QYx5C-OBoXPHnCVJefd4dE9mgWhF_7Tc8GmMgvC5ejXxLNF_K25akA_P4WUFUmUOUFrMx5ArOheGve2871jIQw_ZRDIfKtcV_jrK2o9Y4w1Aqag8hTbXZOvBPmYDsDXs3Ar2lx-SEDZBCQX6DO6jdHA/https://www.amazon.com/dp/B07VRYX57R/?_encoding=UTF8&pd_rd_i=B07VRYX57R&pd_rd_i=B07VRYX57R&ref_=sbx_be_s_sparkle_ssd_img&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - img "(24 Pack) Sticky Notes 3x3 in Post Bright Stickies Colorful Memo Pads | Super Sticking Power,Strong Adhesive, 74 Sheets/pad"
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JJy2EORmoxEtSfbPQGoy248AAAGhlnAMfAEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICDjJ23L/clv1c_ek-ww_HTEsbWDZHHBU7eM2YEMKobNOOZjCI6D2ExlZO-dvJjEvZ2xyVLaOh4pu4IxZ2P5iOhRN-KBjEgbJ8UNsU-o1-g-TwDa-uqAc7-X0PxhNEPhCFeBnL-QlnX5lUVz-LZxo224s_zUxrj0JMWypg7IduAnvXKIQRSTdCoDwMWBMokb5_BnN_2ChvF0KjWou2M5WdhFevez4RNuwlQtopDcdYXX1JnMqZdj7Pg97Gy8KaK6BAwHb7irFbGazVlqprdwwlgUGrACI1UCePlixmBMVhLN6_TfbBgGXnowF_Ssm2qd_05RGIURXraHd0G5oLcuDYRzXnWjivrF0Qu2-yNMCD5IyVsVRHdAqIN_IU71EE18_CMxFj0tkAkou_2KSSascyVrNHjqIh8H4KvHqYVLI_0kK7gmCIK4YkYPE1uIEZVgSZj-d_ICw7VHkfUID28FJNH6OMQaf9MQ0RhdlGEIHR3mYvDiXSp5cnDQcwl5PN1TOecszEbZKeemIIyAxuJqNtteB7yozzBCxC3gh5QWccPhh734l9undFla3Cy14FIizlIRdLP8fz-HOCiloQsTUl1RzGlIJ4OZXEHSBi76P2CfkqbvF1vprVx566xSigFrFx91WvSEXDQGxxC5eorOADaO09q4ymiZRWvNAs_42DRPurG3tBjwAQXNuFIExPy87i3dezJDygfey-T8pv6M1sx4Iq1YKmZCWQXdfI4Yvzu21rGwM5rBBPtkBkSA4EByEauTngV9PoUnse3yFyim886hXL3sdI3B6FrwQfUb0934cAIL_3Hyxa4xL0FdnjRYKnQp3bBCBolt_UUSMCAwr-jQdtF1MooqIkrSymRVhhNvGzKFTRXHnPH7Gime36e94IJ_ySQcbbPZJKfeGF71qb2-Riq5V1FJXBMqHAl2yrEtnOOBW7QYx5C-OBoXPHnCVJefd4dE9mgWhF_7Tc8GmMgvC5ejXxLNF_K25akA_P4WUFUmUOUFrMx5ArOheGve2871jIQw_ZRDIfKtcV_jrK2o9Y4w1Aqag8hTbXZOvBPmYDsDXs3Ar2lx-SEDZBCQX6DO6jdHA/https://www.amazon.com/dp/B07VRYX57R/?_encoding=UTF8&pd_rd_i=B07VRYX57R&pd_rd_i=B07VRYX57R&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JJy2EORmoxEtSfbPQGoy248AAAGhlnAMfAEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICDjJ23L/clv1c_ek-ww_HTEsbWDZHHBU7eM2YEMKobNOOZjCI6D2ExlZO-dvJjEvZ2xyVLaOh4pu4IxZ2P5iOhRN-KBjEgbJ8UNsU-o1-g-TwDa-uqAc7-X0PxhNEPhCFeBnL-QlnX5lUVz-LZxo224s_zUxrj0JMWypg7IduAnvXKIQRSTdCoDwMWBMokb5_BnN_2ChvF0KjWou2M5WdhFevez4RNuwlQtopDcdYXX1JnMqZdj7Pg97Gy8KaK6BAwHb7irFbGazVlqprdwwlgUGrACI1UCePlixmBMVhLN6_TfbBgGXnowF_Ssm2qd_05RGIURXraHd0G5oLcuDYRzXnWjivrF0Qu2-yNMCD5IyVsVRHdAqIN_IU71EE18_CMxFj0tkAkou_2KSSascyVrNHjqIh8H4KvHqYVLI_0kK7gmCIK4YkYPE1uIEZVgSZj-d_ICw7VHkfUID28FJNH6OMQaf9MQ0RhdlGEIHR3mYvDiXSp5cnDQcwl5PN1TOecszEbZKeemIIyAxuJqNtteB7yozzBCxC3gh5QWccPhh734l9undFla3Cy14FIizlIRdLP8fz-HOCiloQsTUl1RzGlIJ4OZXEHSBi76P2CfkqbvF1vprVx566xSigFrFx91WvSEXDQGxxC5eorOADaO09q4ymiZRWvNAs_42DRPurG3tBjwAQXNuFIExPy87i3dezJDygfey-T8pv6M1sx4Iq1YKmZCWQXdfI4Yvzu21rGwM5rBBPtkBkSA4EByEauTngV9PoUnse3yFyim886hXL3sdI3B6FrwQfUb0934cAIL_3Hyxa4xL0FdnjRYKnQp3bBCBolt_UUSMCAwr-jQdtF1MooqIkrSymRVhhNvGzKFTRXHnPH7Gime36e94IJ_ySQcbbPZJKfeGF71qb2-Riq5V1FJXBMqHAl2yrEtnOOBW7QYx5C-OBoXPHnCVJefd4dE9mgWhF_7Tc8GmMgvC5ejXxLNF_K25akA_P4WUFUmUOUFrMx5ArOheGve2871jIQw_ZRDIfKtcV_jrK2o9Y4w1Aqag8hTbXZOvBPmYDsDXs3Ar2lx-SEDZBCQX6DO6jdHA/https://www.amazon.com/dp/B07VRYX57R/?_encoding=UTF8&pd_rd_i=B07VRYX57R&pd_rd_i=B07VRYX57R&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+    - link "(24 Pack) Sticky Notes 3x3 in Post Bright Stickies Colorful Memo Pads | Super Sticking Power,Strong Adhesive, 74 Sheets/pad":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JJy2EORmoxEtSfbPQGoy248AAAGhlnAMfAEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICDjJ23L/clv1c_ek-ww_HTEsbWDZHHBU7eM2YEMKobNOOZjCI6D2ExlZO-dvJjEvZ2xyVLaOh4pu4IxZ2P5iOhRN-KBjEgbJ8UNsU-o1-g-TwDa-uqAc7-X0PxhNEPhCFeBnL-QlnX5lUVz-LZxo224s_zUxrj0JMWypg7IduAnvXKIQRSTdCoDwMWBMokb5_BnN_2ChvF0KjWou2M5WdhFevez4RNuwlQtopDcdYXX1JnMqZdj7Pg97Gy8KaK6BAwHb7irFbGazVlqprdwwlgUGrACI1UCePlixmBMVhLN6_TfbBgGXnowF_Ssm2qd_05RGIURXraHd0G5oLcuDYRzXnWjivrF0Qu2-yNMCD5IyVsVRHdAqIN_IU71EE18_CMxFj0tkAkou_2KSSascyVrNHjqIh8H4KvHqYVLI_0kK7gmCIK4YkYPE1uIEZVgSZj-d_ICw7VHkfUID28FJNH6OMQaf9MQ0RhdlGEIHR3mYvDiXSp5cnDQcwl5PN1TOecszEbZKeemIIyAxuJqNtteB7yozzBCxC3gh5QWccPhh734l9undFla3Cy14FIizlIRdLP8fz-HOCiloQsTUl1RzGlIJ4OZXEHSBi76P2CfkqbvF1vprVx566xSigFrFx91WvSEXDQGxxC5eorOADaO09q4ymiZRWvNAs_42DRPurG3tBjwAQXNuFIExPy87i3dezJDygfey-T8pv6M1sx4Iq1YKmZCWQXdfI4Yvzu21rGwM5rBBPtkBkSA4EByEauTngV9PoUnse3yFyim886hXL3sdI3B6FrwQfUb0934cAIL_3Hyxa4xL0FdnjRYKnQp3bBCBolt_UUSMCAwr-jQdtF1MooqIkrSymRVhhNvGzKFTRXHnPH7Gime36e94IJ_ySQcbbPZJKfeGF71qb2-Riq5V1FJXBMqHAl2yrEtnOOBW7QYx5C-OBoXPHnCVJefd4dE9mgWhF_7Tc8GmMgvC5ejXxLNF_K25akA_P4WUFUmUOUFrMx5ArOheGve2871jIQw_ZRDIfKtcV_jrK2o9Y4w1Aqag8hTbXZOvBPmYDsDXs3Ar2lx-SEDZBCQX6DO6jdHA/https://www.amazon.com/dp/B07VRYX57R/?_encoding=UTF8&pd_rd_i=B07VRYX57R&pd_rd_i=B07VRYX57R&ref_=sbx_be_s_sparkle_ssd_tt&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+    - link "Rated 4.6 out of 5 stars from 8,073 reviews":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JJy2EORmoxEtSfbPQGoy248AAAGhlnAMfAEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICDjJ23L/clv1c_ek-ww_HTEsbWDZHHBU7eM2YEMKobNOOZjCI6D2ExlZO-dvJjEvZ2xyVLaOh4pu4IxZ2P5iOhRN-KBjEgbJ8UNsU-o1-g-TwDa-uqAc7-X0PxhNEPhCFeBnL-QlnX5lUVz-LZxo224s_zUxrj0JMWypg7IduAnvXKIQRSTdCoDwMWBMokb5_BnN_2ChvF0KjWou2M5WdhFevez4RNuwlQtopDcdYXX1JnMqZdj7Pg97Gy8KaK6BAwHb7irFbGazVlqprdwwlgUGrACI1UCePlixmBMVhLN6_TfbBgGXnowF_Ssm2qd_05RGIURXraHd0G5oLcuDYRzXnWjivrF0Qu2-yNMCD5IyVsVRHdAqIN_IU71EE18_CMxFj0tkAkou_2KSSascyVrNHjqIh8H4KvHqYVLI_0kK7gmCIK4YkYPE1uIEZVgSZj-d_ICw7VHkfUID28FJNH6OMQaf9MQ0RhdlGEIHR3mYvDiXSp5cnDQcwl5PN1TOecszEbZKeemIIyAxuJqNtteB7yozzBCxC3gh5QWccPhh734l9undFla3Cy14FIizlIRdLP8fz-HOCiloQsTUl1RzGlIJ4OZXEHSBi76P2CfkqbvF1vprVx566xSigFrFx91WvSEXDQGxxC5eorOADaO09q4ymiZRWvNAs_42DRPurG3tBjwAQXNuFIExPy87i3dezJDygfey-T8pv6M1sx4Iq1YKmZCWQXdfI4Yvzu21rGwM5rBBPtkBkSA4EByEauTngV9PoUnse3yFyim886hXL3sdI3B6FrwQfUb0934cAIL_3Hyxa4xL0FdnjRYKnQp3bBCBolt_UUSMCAwr-jQdtF1MooqIkrSymRVhhNvGzKFTRXHnPH7Gime36e94IJ_ySQcbbPZJKfeGF71qb2-Riq5V1FJXBMqHAl2yrEtnOOBW7QYx5C-OBoXPHnCVJefd4dE9mgWhF_7Tc8GmMgvC5ejXxLNF_K25akA_P4WUFUmUOUFrMx5ArOheGve2871jIQw_ZRDIfKtcV_jrK2o9Y4w1Aqag8hTbXZOvBPmYDsDXs3Ar2lx-SEDZBCQX6DO6jdHA/https://www.amazon.com/dp/B07VRYX57R/?_encoding=UTF8&pd_rd_i=B07VRYX57R&pd_rd_i=B07VRYX57R&ref_=sbx_be_s_sparkle_ssd_rev&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - text: "4.6"
+      - generic: 4.6 out of 5 stars
+      - text: 8,073
+    - link "10% off Limited time deal":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JJy2EORmoxEtSfbPQGoy248AAAGhlnAMfAEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICDjJ23L/clv1c_ek-ww_HTEsbWDZHHBU7eM2YEMKobNOOZjCI6D2ExlZO-dvJjEvZ2xyVLaOh4pu4IxZ2P5iOhRN-KBjEgbJ8UNsU-o1-g-TwDa-uqAc7-X0PxhNEPhCFeBnL-QlnX5lUVz-LZxo224s_zUxrj0JMWypg7IduAnvXKIQRSTdCoDwMWBMokb5_BnN_2ChvF0KjWou2M5WdhFevez4RNuwlQtopDcdYXX1JnMqZdj7Pg97Gy8KaK6BAwHb7irFbGazVlqprdwwlgUGrACI1UCePlixmBMVhLN6_TfbBgGXnowF_Ssm2qd_05RGIURXraHd0G5oLcuDYRzXnWjivrF0Qu2-yNMCD5IyVsVRHdAqIN_IU71EE18_CMxFj0tkAkou_2KSSascyVrNHjqIh8H4KvHqYVLI_0kK7gmCIK4YkYPE1uIEZVgSZj-d_ICw7VHkfUID28FJNH6OMQaf9MQ0RhdlGEIHR3mYvDiXSp5cnDQcwl5PN1TOecszEbZKeemIIyAxuJqNtteB7yozzBCxC3gh5QWccPhh734l9undFla3Cy14FIizlIRdLP8fz-HOCiloQsTUl1RzGlIJ4OZXEHSBi76P2CfkqbvF1vprVx566xSigFrFx91WvSEXDQGxxC5eorOADaO09q4ymiZRWvNAs_42DRPurG3tBjwAQXNuFIExPy87i3dezJDygfey-T8pv6M1sx4Iq1YKmZCWQXdfI4Yvzu21rGwM5rBBPtkBkSA4EByEauTngV9PoUnse3yFyim886hXL3sdI3B6FrwQfUb0934cAIL_3Hyxa4xL0FdnjRYKnQp3bBCBolt_UUSMCAwr-jQdtF1MooqIkrSymRVhhNvGzKFTRXHnPH7Gime36e94IJ_ySQcbbPZJKfeGF71qb2-Riq5V1FJXBMqHAl2yrEtnOOBW7QYx5C-OBoXPHnCVJefd4dE9mgWhF_7Tc8GmMgvC5ejXxLNF_K25akA_P4WUFUmUOUFrMx5ArOheGve2871jIQw_ZRDIfKtcV_jrK2o9Y4w1Aqag8hTbXZOvBPmYDsDXs3Ar2lx-SEDZBCQX6DO6jdHA/https://www.amazon.com/dp/B07VRYX57R/?_encoding=UTF8&pd_rd_i=B07VRYX57R&pd_rd_i=B07VRYX57R&ref_=sbx_be_s_sparkle_ssd_db&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - generic: 10% off
+      - generic: Limited time deal
+    - 'link "$15.29 Typical: $16.99"':
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JJy2EORmoxEtSfbPQGoy248AAAGhlnAMfAEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICDjJ23L/clv1c_ek-ww_HTEsbWDZHHBU7eM2YEMKobNOOZjCI6D2ExlZO-dvJjEvZ2xyVLaOh4pu4IxZ2P5iOhRN-KBjEgbJ8UNsU-o1-g-TwDa-uqAc7-X0PxhNEPhCFeBnL-QlnX5lUVz-LZxo224s_zUxrj0JMWypg7IduAnvXKIQRSTdCoDwMWBMokb5_BnN_2ChvF0KjWou2M5WdhFevez4RNuwlQtopDcdYXX1JnMqZdj7Pg97Gy8KaK6BAwHb7irFbGazVlqprdwwlgUGrACI1UCePlixmBMVhLN6_TfbBgGXnowF_Ssm2qd_05RGIURXraHd0G5oLcuDYRzXnWjivrF0Qu2-yNMCD5IyVsVRHdAqIN_IU71EE18_CMxFj0tkAkou_2KSSascyVrNHjqIh8H4KvHqYVLI_0kK7gmCIK4YkYPE1uIEZVgSZj-d_ICw7VHkfUID28FJNH6OMQaf9MQ0RhdlGEIHR3mYvDiXSp5cnDQcwl5PN1TOecszEbZKeemIIyAxuJqNtteB7yozzBCxC3gh5QWccPhh734l9undFla3Cy14FIizlIRdLP8fz-HOCiloQsTUl1RzGlIJ4OZXEHSBi76P2CfkqbvF1vprVx566xSigFrFx91WvSEXDQGxxC5eorOADaO09q4ymiZRWvNAs_42DRPurG3tBjwAQXNuFIExPy87i3dezJDygfey-T8pv6M1sx4Iq1YKmZCWQXdfI4Yvzu21rGwM5rBBPtkBkSA4EByEauTngV9PoUnse3yFyim886hXL3sdI3B6FrwQfUb0934cAIL_3Hyxa4xL0FdnjRYKnQp3bBCBolt_UUSMCAwr-jQdtF1MooqIkrSymRVhhNvGzKFTRXHnPH7Gime36e94IJ_ySQcbbPZJKfeGF71qb2-Riq5V1FJXBMqHAl2yrEtnOOBW7QYx5C-OBoXPHnCVJefd4dE9mgWhF_7Tc8GmMgvC5ejXxLNF_K25akA_P4WUFUmUOUFrMx5ArOheGve2871jIQw_ZRDIfKtcV_jrK2o9Y4w1Aqag8hTbXZOvBPmYDsDXs3Ar2lx-SEDZBCQX6DO6jdHA/https://www.amazon.com/dp/B07VRYX57R/?_encoding=UTF8&pd_rd_i=B07VRYX57R&pd_rd_i=B07VRYX57R&ref_=sbx_be_s_sparkle_ssd_pce&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - generic: $15.29
+      - text: $
+      - generic: "15."
+      - text: "29"
+      - text: "Typical:"
+      - generic: $16.99
+      - text: $16.99
+    - link "Sponsored video, click to navigate to featured page.":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JOw-M3rrKaoNLyjT30oF51IAAAGhlnAMfQEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBGIijz/clv1c_ek-wwvXzFcbaTqnuA6reLWQKkGxCaMg1vJPi8YuJismtxRZQEFbmzTEqlX0PLeuafeuaIlmLu6zMSRJ_Jr2BhxpkjjxwZeBymekSNhbhw_Owos34157wC0xYwbmzQmBcHE5cbMvvaNAryKs2kEdi6rgboNoWXVNlmpX4ayeMuL4ZDh8sNNb1DEKOQ2z54jMzEOSI2mlJcxH8lYUcok1r8K18fmpCDRp5pQDqAmZKX8P7HEkEcmIuCNLSWGnvbYRTrhtU6Btfej6M0JTfJrGur9Z6RV6-Er63PtBSdsZ2yWqjZfq_IeM-UGFZKxqhTEXopKKng0jKRwp8GVquVLaLVwa9l74Ruzy0YB2zuKimu7FAoSVc7yn3aq62cOJlKIOf-PCDzD0lXsTcSAuNHL2HEyqB4voOiLH35wRaH2N8gXdc1xSaR8n900-13zH6TF4ZuriJWxh6t5IZZV8a0WiLRrAoXA0pHd2hpc_0WwXBZSg47WBqHIEEakQxuXg_eg-VqncQoZP-A66PkQ7YVfCmUGHxKJYF6rsua_Cc92a5gYcSC86YiTOoWkVQvZcyOLXIX5I3iBo0Laa-ezGYeaIInA2HF722PAcwg-HdsXnkWrgOGKuviVk9r8yHTgz8tnZXbMHRtQBQ_gCr0ChxxcdndM1vQ1KnRZzGy6b9ZDPk54fYxPWU3FZ6zUDAW2m_7U9h4HZB8V5feHTv4fxDSYoTnWqIY9cf23mqYlt4JU63zUeaMUbzSE8oM1Z8VPwGuSlmSWVhV8G24G83x-uiS3tWIBGUGu_h4Jr3kEvXhgi8UPjHtdLi57Z1oKR2A1RK4qNz_ttIUt8RSR2fd2UcfUJtXcAuPfEWzi6C0pZyaunkCj_h4mJCawZYa2lZJxT29GCE4Nx0_fC2fMm4fZnIKwqzwYhvVfiqSYDPtSHKcO-8IFx1vFmMcv9c6thJbDnrD9Uwh0eJtxsQycP3NI0aAm1dNfOjXUPCmKD2kvYKxK7DgXP8qk9ilSNKCzMUu8UClx2vaiTZRW45yptL1oZHu8B5xi2JnJJ7iG8JF-aF6z4UiIV1Q2b7PWvbOi2ocoQBg_Q-xrc/https://www.amazon.com/dp/B0DM1ZNTSS/?_encoding=UTF8&pd_rd_i=B0DM1ZNTSS&pd_rd_i=B0DM1ZNTSS&ref_=sbx_be_s_sparkle_ssd_vid&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - generic "Sponsored video, click to navigate to featured page."
+    - link "Sinload 2 Pads 100 Sheets Large White Lined Sticky Notes 8.5 x 11 Inch Self Stick Note Pads White Self Adhesive Sticky Notepad for Home Office Supplies School Gift Set(Vertical)":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JOw-M3rrKaoNLyjT30oF51IAAAGhlnAMfQEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBGIijz/clv1c_ek-wwvXzFcbaTqnuA6reLWQKkGxCaMg1vJPi8YuJismtxRZQEFbmzTEqlX0PLeuafeuaIlmLu6zMSRJ_Jr2BhxpkjjxwZeBymekSNhbhw_Owos34157wC0xYwbmzQmBcHE5cbMvvaNAryKs2kEdi6rgboNoWXVNlmpX4ayeMuL4ZDh8sNNb1DEKOQ2z54jMzEOSI2mlJcxH8lYUcok1r8K18fmpCDRp5pQDqAmZKX8P7HEkEcmIuCNLSWGnvbYRTrhtU6Btfej6M0JTfJrGur9Z6RV6-Er63PtBSdsZ2yWqjZfq_IeM-UGFZKxqhTEXopKKng0jKRwp8GVquVLaLVwa9l74Ruzy0YB2zuKimu7FAoSVc7yn3aq62cOJlKIOf-PCDzD0lXsTcSAuNHL2HEyqB4voOiLH35wRaH2N8gXdc1xSaR8n900-13zH6TF4ZuriJWxh6t5IZZV8a0WiLRrAoXA0pHd2hpc_0WwXBZSg47WBqHIEEakQxuXg_eg-VqncQoZP-A66PkQ7YVfCmUGHxKJYF6rsua_Cc92a5gYcSC86YiTOoWkVQvZcyOLXIX5I3iBo0Laa-ezGYeaIInA2HF722PAcwg-HdsXnkWrgOGKuviVk9r8yHTgz8tnZXbMHRtQBQ_gCr0ChxxcdndM1vQ1KnRZzGy6b9ZDPk54fYxPWU3FZ6zUDAW2m_7U9h4HZB8V5feHTv4fxDSYoTnWqIY9cf23mqYlt4JU63zUeaMUbzSE8oM1Z8VPwGuSlmSWVhV8G24G83x-uiS3tWIBGUGu_h4Jr3kEvXhgi8UPjHtdLi57Z1oKR2A1RK4qNz_ttIUt8RSR2fd2UcfUJtXcAuPfEWzi6C0pZyaunkCj_h4mJCawZYa2lZJxT29GCE4Nx0_fC2fMm4fZnIKwqzwYhvVfiqSYDPtSHKcO-8IFx1vFmMcv9c6thJbDnrD9Uwh0eJtxsQycP3NI0aAm1dNfOjXUPCmKD2kvYKxK7DgXP8qk9ilSNKCzMUu8UClx2vaiTZRW45yptL1oZHu8B5xi2JnJJ7iG8JF-aF6z4UiIV1Q2b7PWvbOi2ocoQBg_Q-xrc/https://www.amazon.com/dp/B0DM1ZNTSS/?_encoding=UTF8&pd_rd_i=B0DM1ZNTSS&pd_rd_i=B0DM1ZNTSS&ref_=sbx_be_s_sparkle_ssd_img&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - img "Sinload 2 Pads 100 Sheets Large White Lined Sticky Notes 8.5 x 11 Inch Self Stick Note Pads White Self Adhesive Sticky Notepad for Home Office Supplies School Gift Set(Vertical)"
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JOw-M3rrKaoNLyjT30oF51IAAAGhlnAMfQEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBGIijz/clv1c_ek-wwvXzFcbaTqnuA6reLWQKkGxCaMg1vJPi8YuJismtxRZQEFbmzTEqlX0PLeuafeuaIlmLu6zMSRJ_Jr2BhxpkjjxwZeBymekSNhbhw_Owos34157wC0xYwbmzQmBcHE5cbMvvaNAryKs2kEdi6rgboNoWXVNlmpX4ayeMuL4ZDh8sNNb1DEKOQ2z54jMzEOSI2mlJcxH8lYUcok1r8K18fmpCDRp5pQDqAmZKX8P7HEkEcmIuCNLSWGnvbYRTrhtU6Btfej6M0JTfJrGur9Z6RV6-Er63PtBSdsZ2yWqjZfq_IeM-UGFZKxqhTEXopKKng0jKRwp8GVquVLaLVwa9l74Ruzy0YB2zuKimu7FAoSVc7yn3aq62cOJlKIOf-PCDzD0lXsTcSAuNHL2HEyqB4voOiLH35wRaH2N8gXdc1xSaR8n900-13zH6TF4ZuriJWxh6t5IZZV8a0WiLRrAoXA0pHd2hpc_0WwXBZSg47WBqHIEEakQxuXg_eg-VqncQoZP-A66PkQ7YVfCmUGHxKJYF6rsua_Cc92a5gYcSC86YiTOoWkVQvZcyOLXIX5I3iBo0Laa-ezGYeaIInA2HF722PAcwg-HdsXnkWrgOGKuviVk9r8yHTgz8tnZXbMHRtQBQ_gCr0ChxxcdndM1vQ1KnRZzGy6b9ZDPk54fYxPWU3FZ6zUDAW2m_7U9h4HZB8V5feHTv4fxDSYoTnWqIY9cf23mqYlt4JU63zUeaMUbzSE8oM1Z8VPwGuSlmSWVhV8G24G83x-uiS3tWIBGUGu_h4Jr3kEvXhgi8UPjHtdLi57Z1oKR2A1RK4qNz_ttIUt8RSR2fd2UcfUJtXcAuPfEWzi6C0pZyaunkCj_h4mJCawZYa2lZJxT29GCE4Nx0_fC2fMm4fZnIKwqzwYhvVfiqSYDPtSHKcO-8IFx1vFmMcv9c6thJbDnrD9Uwh0eJtxsQycP3NI0aAm1dNfOjXUPCmKD2kvYKxK7DgXP8qk9ilSNKCzMUu8UClx2vaiTZRW45yptL1oZHu8B5xi2JnJJ7iG8JF-aF6z4UiIV1Q2b7PWvbOi2ocoQBg_Q-xrc/https://www.amazon.com/dp/B0DM1ZNTSS/?_encoding=UTF8&pd_rd_i=B0DM1ZNTSS&pd_rd_i=B0DM1ZNTSS&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+    - link:
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JOw-M3rrKaoNLyjT30oF51IAAAGhlnAMfQEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBGIijz/clv1c_ek-wwvXzFcbaTqnuA6reLWQKkGxCaMg1vJPi8YuJismtxRZQEFbmzTEqlX0PLeuafeuaIlmLu6zMSRJ_Jr2BhxpkjjxwZeBymekSNhbhw_Owos34157wC0xYwbmzQmBcHE5cbMvvaNAryKs2kEdi6rgboNoWXVNlmpX4ayeMuL4ZDh8sNNb1DEKOQ2z54jMzEOSI2mlJcxH8lYUcok1r8K18fmpCDRp5pQDqAmZKX8P7HEkEcmIuCNLSWGnvbYRTrhtU6Btfej6M0JTfJrGur9Z6RV6-Er63PtBSdsZ2yWqjZfq_IeM-UGFZKxqhTEXopKKng0jKRwp8GVquVLaLVwa9l74Ruzy0YB2zuKimu7FAoSVc7yn3aq62cOJlKIOf-PCDzD0lXsTcSAuNHL2HEyqB4voOiLH35wRaH2N8gXdc1xSaR8n900-13zH6TF4ZuriJWxh6t5IZZV8a0WiLRrAoXA0pHd2hpc_0WwXBZSg47WBqHIEEakQxuXg_eg-VqncQoZP-A66PkQ7YVfCmUGHxKJYF6rsua_Cc92a5gYcSC86YiTOoWkVQvZcyOLXIX5I3iBo0Laa-ezGYeaIInA2HF722PAcwg-HdsXnkWrgOGKuviVk9r8yHTgz8tnZXbMHRtQBQ_gCr0ChxxcdndM1vQ1KnRZzGy6b9ZDPk54fYxPWU3FZ6zUDAW2m_7U9h4HZB8V5feHTv4fxDSYoTnWqIY9cf23mqYlt4JU63zUeaMUbzSE8oM1Z8VPwGuSlmSWVhV8G24G83x-uiS3tWIBGUGu_h4Jr3kEvXhgi8UPjHtdLi57Z1oKR2A1RK4qNz_ttIUt8RSR2fd2UcfUJtXcAuPfEWzi6C0pZyaunkCj_h4mJCawZYa2lZJxT29GCE4Nx0_fC2fMm4fZnIKwqzwYhvVfiqSYDPtSHKcO-8IFx1vFmMcv9c6thJbDnrD9Uwh0eJtxsQycP3NI0aAm1dNfOjXUPCmKD2kvYKxK7DgXP8qk9ilSNKCzMUu8UClx2vaiTZRW45yptL1oZHu8B5xi2JnJJ7iG8JF-aF6z4UiIV1Q2b7PWvbOi2ocoQBg_Q-xrc/https://www.amazon.com/dp/B0DM1ZNTSS/?_encoding=UTF8&pd_rd_i=B0DM1ZNTSS&pd_rd_i=B0DM1ZNTSS&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+    - link "Sinload 2 Pads 100 Sheets Large White Lined Sticky Notes 8.5 x 11 Inch Self Stick Note Pads White Self Adhesive Sticky Notepad for Home Office Supplies School Gift Set(Vertical)":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JOw-M3rrKaoNLyjT30oF51IAAAGhlnAMfQEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBGIijz/clv1c_ek-wwvXzFcbaTqnuA6reLWQKkGxCaMg1vJPi8YuJismtxRZQEFbmzTEqlX0PLeuafeuaIlmLu6zMSRJ_Jr2BhxpkjjxwZeBymekSNhbhw_Owos34157wC0xYwbmzQmBcHE5cbMvvaNAryKs2kEdi6rgboNoWXVNlmpX4ayeMuL4ZDh8sNNb1DEKOQ2z54jMzEOSI2mlJcxH8lYUcok1r8K18fmpCDRp5pQDqAmZKX8P7HEkEcmIuCNLSWGnvbYRTrhtU6Btfej6M0JTfJrGur9Z6RV6-Er63PtBSdsZ2yWqjZfq_IeM-UGFZKxqhTEXopKKng0jKRwp8GVquVLaLVwa9l74Ruzy0YB2zuKimu7FAoSVc7yn3aq62cOJlKIOf-PCDzD0lXsTcSAuNHL2HEyqB4voOiLH35wRaH2N8gXdc1xSaR8n900-13zH6TF4ZuriJWxh6t5IZZV8a0WiLRrAoXA0pHd2hpc_0WwXBZSg47WBqHIEEakQxuXg_eg-VqncQoZP-A66PkQ7YVfCmUGHxKJYF6rsua_Cc92a5gYcSC86YiTOoWkVQvZcyOLXIX5I3iBo0Laa-ezGYeaIInA2HF722PAcwg-HdsXnkWrgOGKuviVk9r8yHTgz8tnZXbMHRtQBQ_gCr0ChxxcdndM1vQ1KnRZzGy6b9ZDPk54fYxPWU3FZ6zUDAW2m_7U9h4HZB8V5feHTv4fxDSYoTnWqIY9cf23mqYlt4JU63zUeaMUbzSE8oM1Z8VPwGuSlmSWVhV8G24G83x-uiS3tWIBGUGu_h4Jr3kEvXhgi8UPjHtdLi57Z1oKR2A1RK4qNz_ttIUt8RSR2fd2UcfUJtXcAuPfEWzi6C0pZyaunkCj_h4mJCawZYa2lZJxT29GCE4Nx0_fC2fMm4fZnIKwqzwYhvVfiqSYDPtSHKcO-8IFx1vFmMcv9c6thJbDnrD9Uwh0eJtxsQycP3NI0aAm1dNfOjXUPCmKD2kvYKxK7DgXP8qk9ilSNKCzMUu8UClx2vaiTZRW45yptL1oZHu8B5xi2JnJJ7iG8JF-aF6z4UiIV1Q2b7PWvbOi2ocoQBg_Q-xrc/https://www.amazon.com/dp/B0DM1ZNTSS/?_encoding=UTF8&pd_rd_i=B0DM1ZNTSS&pd_rd_i=B0DM1ZNTSS&ref_=sbx_be_s_sparkle_ssd_tt&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+    - link "Rated 4.0 out of 5 stars from 17 reviews":
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JOw-M3rrKaoNLyjT30oF51IAAAGhlnAMfQEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBGIijz/clv1c_ek-wwvXzFcbaTqnuA6reLWQKkGxCaMg1vJPi8YuJismtxRZQEFbmzTEqlX0PLeuafeuaIlmLu6zMSRJ_Jr2BhxpkjjxwZeBymekSNhbhw_Owos34157wC0xYwbmzQmBcHE5cbMvvaNAryKs2kEdi6rgboNoWXVNlmpX4ayeMuL4ZDh8sNNb1DEKOQ2z54jMzEOSI2mlJcxH8lYUcok1r8K18fmpCDRp5pQDqAmZKX8P7HEkEcmIuCNLSWGnvbYRTrhtU6Btfej6M0JTfJrGur9Z6RV6-Er63PtBSdsZ2yWqjZfq_IeM-UGFZKxqhTEXopKKng0jKRwp8GVquVLaLVwa9l74Ruzy0YB2zuKimu7FAoSVc7yn3aq62cOJlKIOf-PCDzD0lXsTcSAuNHL2HEyqB4voOiLH35wRaH2N8gXdc1xSaR8n900-13zH6TF4ZuriJWxh6t5IZZV8a0WiLRrAoXA0pHd2hpc_0WwXBZSg47WBqHIEEakQxuXg_eg-VqncQoZP-A66PkQ7YVfCmUGHxKJYF6rsua_Cc92a5gYcSC86YiTOoWkVQvZcyOLXIX5I3iBo0Laa-ezGYeaIInA2HF722PAcwg-HdsXnkWrgOGKuviVk9r8yHTgz8tnZXbMHRtQBQ_gCr0ChxxcdndM1vQ1KnRZzGy6b9ZDPk54fYxPWU3FZ6zUDAW2m_7U9h4HZB8V5feHTv4fxDSYoTnWqIY9cf23mqYlt4JU63zUeaMUbzSE8oM1Z8VPwGuSlmSWVhV8G24G83x-uiS3tWIBGUGu_h4Jr3kEvXhgi8UPjHtdLi57Z1oKR2A1RK4qNz_ttIUt8RSR2fd2UcfUJtXcAuPfEWzi6C0pZyaunkCj_h4mJCawZYa2lZJxT29GCE4Nx0_fC2fMm4fZnIKwqzwYhvVfiqSYDPtSHKcO-8IFx1vFmMcv9c6thJbDnrD9Uwh0eJtxsQycP3NI0aAm1dNfOjXUPCmKD2kvYKxK7DgXP8qk9ilSNKCzMUu8UClx2vaiTZRW45yptL1oZHu8B5xi2JnJJ7iG8JF-aF6z4UiIV1Q2b7PWvbOi2ocoQBg_Q-xrc/https://www.amazon.com/dp/B0DM1ZNTSS/?_encoding=UTF8&pd_rd_i=B0DM1ZNTSS&pd_rd_i=B0DM1ZNTSS&ref_=sbx_be_s_sparkle_ssd_rev&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - text: "4.0"
+      - generic: 4.0 out of 5 stars
+      - text: "17"
+    - 'link "$17.99 List Price: $19.99"':
+      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JOw-M3rrKaoNLyjT30oF51IAAAGhlnAMfQEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICBGIijz/clv1c_ek-wwvXzFcbaTqnuA6reLWQKkGxCaMg1vJPi8YuJismtxRZQEFbmzTEqlX0PLeuafeuaIlmLu6zMSRJ_Jr2BhxpkjjxwZeBymekSNhbhw_Owos34157wC0xYwbmzQmBcHE5cbMvvaNAryKs2kEdi6rgboNoWXVNlmpX4ayeMuL4ZDh8sNNb1DEKOQ2z54jMzEOSI2mlJcxH8lYUcok1r8K18fmpCDRp5pQDqAmZKX8P7HEkEcmIuCNLSWGnvbYRTrhtU6Btfej6M0JTfJrGur9Z6RV6-Er63PtBSdsZ2yWqjZfq_IeM-UGFZKxqhTEXopKKng0jKRwp8GVquVLaLVwa9l74Ruzy0YB2zuKimu7FAoSVc7yn3aq62cOJlKIOf-PCDzD0lXsTcSAuNHL2HEyqB4voOiLH35wRaH2N8gXdc1xSaR8n900-13zH6TF4ZuriJWxh6t5IZZV8a0WiLRrAoXA0pHd2hpc_0WwXBZSg47WBqHIEEakQxuXg_eg-VqncQoZP-A66PkQ7YVfCmUGHxKJYF6rsua_Cc92a5gYcSC86YiTOoWkVQvZcyOLXIX5I3iBo0Laa-ezGYeaIInA2HF722PAcwg-HdsXnkWrgOGKuviVk9r8yHTgz8tnZXbMHRtQBQ_gCr0ChxxcdndM1vQ1KnRZzGy6b9ZDPk54fYxPWU3FZ6zUDAW2m_7U9h4HZB8V5feHTv4fxDSYoTnWqIY9cf23mqYlt4JU63zUeaMUbzSE8oM1Z8VPwGuSlmSWVhV8G24G83x-uiS3tWIBGUGu_h4Jr3kEvXhgi8UPjHtdLi57Z1oKR2A1RK4qNz_ttIUt8RSR2fd2UcfUJtXcAuPfEWzi6C0pZyaunkCj_h4mJCawZYa2lZJxT29GCE4Nx0_fC2fMm4fZnIKwqzwYhvVfiqSYDPtSHKcO-8IFx1vFmMcv9c6thJbDnrD9Uwh0eJtxsQycP3NI0aAm1dNfOjXUPCmKD2kvYKxK7DgXP8qk9ilSNKCzMUu8UClx2vaiTZRW45yptL1oZHu8B5xi2JnJJ7iG8JF-aF6z4UiIV1Q2b7PWvbOi2ocoQBg_Q-xrc/https://www.amazon.com/dp/B0DM1ZNTSS/?_encoding=UTF8&pd_rd_i=B0DM1ZNTSS&pd_rd_i=B0DM1ZNTSS&ref_=sbx_be_s_sparkle_ssd_pce&pd_rd_w=1nR5G&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EWHAQ6V8PHKHVTDRBWHE&pd_rd_wg=MMZ7Z&pd_rd_w=1nR5G&pd_rd_r=6e402304-b41b-4677-9aaa-393afbfdf514
+      - generic: $17.99
+      - text: $
+      - generic: "17."
+      - text: "99"
+      - text: "List Price:"
+      - generic: $19.99
+      - text: $19.99
+  - generic "Top reviews":
+    - heading "Customer reviews" [level=2]
+    - generic: 4.3 out of 5 stars
+    - generic: 4.3 out of 5
+    - generic: 90 global ratings
+    - list:
+      - link "69 percent of reviews have 5 stars":
+        - /url: /portal/customer-reviews/B01M617ZTH/ref=acr_dp_hist_5?ie=UTF8&filterByStar=five_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 5 star
+        - progressbar
+        - generic: 69%
+      - link "14 percent of reviews have 4 stars":
+        - /url: /portal/customer-reviews/B01M617ZTH/ref=acr_dp_hist_4?ie=UTF8&filterByStar=four_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 4 star
+        - progressbar
+        - generic: 14%
+      - link "8 percent of reviews have 3 stars":
+        - /url: /portal/customer-reviews/B01M617ZTH/ref=acr_dp_hist_3?ie=UTF8&filterByStar=three_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 3 star
+        - progressbar
+        - generic: 8%
+      - link "2 percent of reviews have 2 stars":
+        - /url: /portal/customer-reviews/B01M617ZTH/ref=acr_dp_hist_2?ie=UTF8&filterByStar=two_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 2 star
+        - progressbar
+        - generic: 2%
+      - link "7 percent of reviews have 1 stars":
+        - /url: /portal/customer-reviews/B01M617ZTH/ref=acr_dp_hist_1?ie=UTF8&filterByStar=one_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 1 star
+        - progressbar
+        - generic: 7%
+    - button "How customer reviews and ratings work": How customer reviews and ratings work
+    - heading "Top reviews from the United States" [level=3]
+    - list:
+      - link "Isaiah 41:10":
+        - /url: /gp/profile/amzn1.account.AH4YGD76A4C2Z5WUBF7NH7ZOSELA?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Isaiah 41:10
+      - generic: 5 out of 5 stars
+      - link "These are the biggest sticky notes ever!":
+        - /url: /portal/customer-reviews/srp/-/R368IUBIWG88SJ/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "These are the biggest sticky notes ever!" [level=5]
+      - generic: Reviewed in the United States on November 15, 2023
+      - 'link "Color: Orange&pink"':
+        - /url: /portal/customer-reviews/B01M3N2WNM/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: Bought these for note taking instead of a bunch of small post-it style sticky notes, just one big one. Well these ARE big! Love the lines and the sticky is great but not so much that you can’t move them. They do tend to curl up a little after they’re stuck and you want to unstick them from the page. Pretty, bold colors and a nice weight - not thin.
+      - button "These are the biggest sticky notes ever!":
+        - img "These are the biggest sticky notes ever!"
+      - generic: One person found this helpful
+      - button "Helpful"
+      - generic: Helpful
+      - button "Report Review": Report
+      - link "Mandy Moore":
+        - /url: /gp/profile/amzn1.account.AG5KDJYCI7AKBJZEVQL2RARO34EA?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Mandy Moore
+      - generic: 5 out of 5 stars
+      - link "Great!":
+        - /url: /portal/customer-reviews/srp/-/R1BO2TIZSFVIS3/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "Great!" [level=5]
+      - generic: Reviewed in the United States on June 27, 2024
+      - 'link "Color: Neon Assorted"':
+        - /url: /portal/customer-reviews/B07HDVVZ1B/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: HALF PAGE sticky notes! Where have these been my whole life!
+      - button "Helpful"
+      - generic: Helpful
+      - button "Report Review": Report
+      - link "The blessed one":
+        - /url: /gp/profile/amzn1.account.AHRFCSMVFA4UMHAXJII5OJPWGMLQ?ref=cm_cr_dp_d_bdcrb_top
+        - generic: The blessed one
+      - generic: 5 out of 5 stars
+      - link "Love it":
+        - /url: /portal/customer-reviews/srp/-/R1HEG4VO04UKKJ/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "Love it" [level=5]
+      - generic: Reviewed in the United States on October 23, 2020
+      - 'link "Color: Neon Assorted"':
+        - /url: /portal/customer-reviews/B07HDVVZ1B/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: I love how smooth they are.
+      - button "Helpful"
+      - generic: Helpful
+      - button "Report Review": Report
+      - link "Valerie C":
+        - /url: /gp/profile/amzn1.account.AH2TPHGGAF2GGGFVIASDCSJ7JW7A?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Valerie C
+      - generic: 5 out of 5 stars
+      - link "Must have":
+        - /url: /portal/customer-reviews/srp/-/RT8EK4FGSC7VD/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "Must have" [level=5]
+      - generic: Reviewed in the United States on March 9, 2020
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: Must have for school or teaching
+      - button "Helpful"
+      - generic: Helpful
+      - button "Report Review": Report
+      - link "Skizzie1":
+        - /url: /gp/profile/amzn1.account.AFLYBPDPZA553SKL6PYRM5CRWLVQ?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Skizzie1
+      - generic: 1 out of 5 stars
+      - link "Doesn’t stick at all.":
+        - /url: /portal/customer-reviews/srp/-/R3BTPM86N64PDG/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "Doesn’t stick at all." [level=5]
+      - generic: Reviewed in the United States on December 24, 2021
+      - 'link "Color: Neon Assorted"':
+        - /url: /portal/customer-reviews/B07HDVVZ1B/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: Doesn’t stick once you peel it away from the pad. Don’t buy it if you expect to use it as a sticky note. I have to tape all of them!
+      - generic: One person found this helpful
+      - button "Helpful"
+      - generic: Helpful
+      - button "Report Review": Report
+      - link "Amazon Customer":
+        - /url: /gp/profile/amzn1.account.AH57UUBWGULIK3ROVHFWU5AZGFNA?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Amazon Customer
+      - generic: 4 out of 5 stars
+      - link "Cheap but okay":
+        - /url: /portal/customer-reviews/srp/-/RE5R09JJVJYX4/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "Cheap but okay" [level=5]
+      - generic: Reviewed in the United States on October 17, 2020
+      - 'link "Color: Neon Assorted"':
+        - /url: /portal/customer-reviews/B07HDVVZ1B/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: These are great for the price. They are thin.
+      - generic: One person found this helpful
+      - button "Helpful"
+      - generic: Helpful
+      - button "Report Review": Report
+      - link "Tambird2":
+        - /url: /gp/profile/amzn1.account.AG5C4MJCDOVO6OXXKQJE52U33KKQ?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Tambird2
+      - generic: 1 out of 5 stars
+      - link "Not sticky!!!":
+        - /url: /portal/customer-reviews/srp/-/R3N5M82Y4T73QP/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "Not sticky!!!" [level=5]
+      - generic: Reviewed in the United States on April 14, 2023
+      - 'link "Color: Neon Assorted"':
+        - /url: /portal/customer-reviews/B07HDVVZ1B/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: Do not buy these post it notes. They are not sticky at all. I was very disappointed when I got them.
+      - generic: One person found this helpful
+      - button "Helpful"
+      - generic: Helpful
+      - button "Report Review": Report
+      - link "Jonesy":
+        - /url: /gp/profile/amzn1.account.AGDJQ2RZDPCFSARP3UCMMX7QQVIQ?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Jonesy
+      - generic: 1 out of 5 stars
+      - link "Adhesive is garbage":
+        - /url: /portal/customer-reviews/srp/-/R387EUVPU2TM3Y/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "Adhesive is garbage" [level=5]
+      - generic: Reviewed in the United States on March 12, 2022
+      - 'link "Color: Neon Assorted"':
+        - /url: /portal/customer-reviews/B07HDVVZ1B/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: bought these cause of the reviews on them . well they don’t stick. with in mins it was already peeling off .
+      - paragraph: Would not recommend.
+      - generic: One person found this helpful
+      - button "Helpful"
+      - generic: Helpful
+      - button "Report Review": Report
+    - link "See more reviews":
+      - /url: /portal/customer-reviews/B01M617ZTH/ref=cm_cr_dp_d_show_all_top?_encoding=UTF8&ie=UTF8&reviewerType=all_reviews
+      - generic: See more reviews
+    - heading "Top reviews from other countries" [level=3]
+    - list:
+      - button "Translate all reviews to English"
+      - generic: Translate all reviews to English
+      - generic: francine Michaud
+      - generic: 1 out of 5 stars
+      - heading "ca colle à peine sur les murs" [level=5]
+      - generic: Reviewed in Canada on August 8, 2024
+      - 'link "Color: Neon Assorted"':
+        - /url: /portal/customer-reviews/B07HDVVZ1B/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: "un sticky note qui ne colle pas: pas efficace. Ca faisait 5 minutes qu'ils étaient au mur et ils décollaient déjà.... pas fort."
+      - button "Report Review": Report
+      - link "Translate review to English":
+        - /url: javascript:void(0)
+      - generic: Linda Primrose
+      - generic: 2 out of 5 stars
+      - heading "Sticky notes buy the brand name post it" [level=5]
+      - generic: Reviewed in Canada on November 28, 2024
+      - 'link "Color: Neon Assorted"':
+        - /url: /portal/customer-reviews/B07HDVVZ1B/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: Like the colors but after you peel off of the sticky note to stick to place on another paper it DOES NOT stick. Not happy I have to use tape to stick it anything.
+      - button "Report Review": Report
+      - generic: Milissa Andal
+      - generic: 1 out of 5 stars
+      - heading "Stickiness isn’t great" [level=5]
+      - generic: Reviewed in Canada on January 8, 2024
+      - 'link "Color: Neon Assorted"':
+        - /url: /portal/customer-reviews/B07HDVVZ1B/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: I was disappointed with the stickiness of this brand. It seems once I remove the paper from the original pad it doesn’t want to stick to anything else very well. Very disappointing.
+      - button "Report Review": Report
+      - generic: NJB
+      - generic: 1 out of 5 stars
+      - heading "Not worth it." [level=5]
+      - generic: Reviewed in Canada on April 27, 2021
+      - 'link "Color: Neon Assorted"':
+        - /url: /portal/customer-reviews/B07HDVVZ1B/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+      - link "Verified Purchase":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: Doesn’t stick to walls, paper
+      - button "Report Review": Report
+    - link "See more reviews":
+      - /url: /portal/customer-reviews/B01M617ZTH/ref=cm_cr_dp_d_show_all_top?_encoding=UTF8&ie=UTF8&reviewerType=all_reviews
+      - generic: See more reviews
+- complementary "Your recently viewed items and featured recommendations"
+- button "Back to top":
+  - generic: Back to top
+- heading "Get to Know Us" [level=6]
+- list:
+  - link "Careers":
+    - /url: https://www.amazon.jobs
+  - link "Amazon Newsletter":
+    - /url: https://www.aboutamazon.com/subscribe?utm_source=amazon_com&utm_medium=amazonfooter&utm_campaign=newslettersubscribers&utm_term=amazonnewssignup
+  - link "About Amazon":
+    - /url: https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about
+  - link "Accessibility":
+    - /url: https://www.amazon.com/b?node=15701038011&ie=UTF8
+  - link "Sustainability":
+    - /url: https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer
+  - link "Press Center":
+    - /url: https://www.amazon.com/pr
+  - link "Investor Relations":
+    - /url: https://www.amazon.com/ir
+  - link "Amazon Devices":
+    - /url: /gp/browse.html?node=2102313011&ref_=footer_devices
+  - link "Amazon Science":
+    - /url: https://www.amazon.science
+- heading "Make Money with Us" [level=6]
+- list:
+  - link "Sell on Amazon":
+    - /url: https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa
+  - link "Sell apps on Amazon":
+    - /url: https://developer.amazon.com
+  - link "Supply to Amazon":
+    - /url: https://supply.amazon.com
+  - link "Protect & Build Your Brand":
+    - /url: https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT
+  - link "Become an Affiliate":
+    - /url: https://affiliate-program.amazon.com/
+  - link "Become a Delivery Driver":
+    - /url: https://dspjobhub.com/
+  - link "Start a Package Delivery Business":
+    - /url: https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home
+  - link "Advertise Your Products":
+    - /url: https://advertising.amazon.com/?ref=ext_amzn_ftr
+  - link "Self-Publish with Us":
+    - /url: /gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing
+  - link "Become an Amazon Hub Partner":
+    - /url: https://www.amazon.com/b?node=216188543011
+  - text: ›
+  - link "See More Ways to Make Money":
+    - /url: /b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore
+- heading "Amazon Payment Products" [level=6]
+- list:
+  - link "Amazon Visa":
+    - /url: /iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc
+  - link "Amazon Store Card":
+    - /url: /credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc
+  - link "Amazon Secured Card":
+    - /url: /dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB
+  - link "Amazon Business Card":
+    - /url: /dp/B0DVBL912R?plattr=ACOMFO&ie=UTF-8
+  - link "Shop with Points":
+    - /url: https://www.amazon.com/hp/shopwithpoints/servicing
+  - link "Credit Card Marketplace":
+    - /url: /gp/browse.html?node=3561432011&ref_=footer_ccmp
+  - link "Reload Your Balance":
+    - /url: /gp/browse.html?node=10232440011&ref_=footer_reload_us
+  - link "Gift Cards":
+    - /url: https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop
+  - link "Amazon Currency Converter":
+    - /url: /gp/browse.html?node=388305011&ref_=footer_tfx
+- heading "Let Us Help You" [level=6]
+- list:
+  - link "Your Account":
+    - /url: https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya
+  - link "Your Orders":
+    - /url: https://www.amazon.com/gp/css/order-history?ref_=footer_yo
+  - link "Shipping Rates & Policies":
+    - /url: /gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates
+  - link "Amazon Prime":
+    - /url: /gp/prime?ref_=footer_prime
+  - link "Returns & Replacements":
+    - /url: /gp/css/returns/homepage.html?ref_=footer_hy_f_4
+  - link "Manage Your Content and Devices":
+    - /url: /hz/mycd/myx?ref_=footer_myk
+  - link "Recalls and Product Safety Alerts":
+    - /url: https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa
+  - link "Product Safety Tips":
+    - /url: /gp/browse.html?node=119071507011&ref_=footer_us_ps
+  - link "Registry & Gift List":
+    - /url: /registries?ref_=nav_footer_registry_giftlist_desktop
+  - link "Customer Service":
+    - /url: /hz/contact-us/foresight/hubgateway?ref_=footer_gw_m_b_he
+- link "Amazon US Home":
+  - /url: /?ref_=footer_logo
+- link "Choose a language for shopping. Current selection is English.":
+  - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang
+  - generic: English
+- button "Expand to Change Language or Country"
+- button "Choose a country/region for shopping. The current selection is United States.":
+  - generic: United States
+- navigation "More on Amazon":
+  - generic "More on Amazon":
+    - list:
+      - link "Amazon Music Stream millions of songs":
+        - /url: https://music.amazon.com?ref=dm_aff_amz_com
+        - heading "Amazon Music" [level=5]
+        - text: Stream millions
+        - text: of songs
+      - link "Amazon Ads Reach customers wherever they spend their time":
+        - /url: https://advertising.amazon.com/?ref=footer_advtsing_amzn_com
+        - heading "Amazon Ads" [level=5]
+        - text: Reach customers
+        - text: wherever they
+        - text: spend their time
+      - link "6pm Score deals on fashion brands":
+        - /url: https://www.6pm.com
+        - heading "6pm" [level=5]
+        - text: Score deals
+        - text: on fashion brands
+      - link "AbeBooks Books, art & collectibles":
+        - /url: https://www.abebooks.com
+        - heading "AbeBooks" [level=5]
+        - text: Books, art
+        - text: "& collectibles"
+      - link "ACX Audiobook Publishing Made Easy":
+        - /url: https://www.acx.com/
+        - heading "ACX" [level=5]
+        - text: Audiobook Publishing
+        - text: Made Easy
+      - link "Sell on Amazon Start a Selling Account":
+        - /url: https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell
+        - heading "Sell on Amazon" [level=5]
+        - generic: Start a Selling Account
+      - link "Veeqo Shipping Software Inventory Management":
+        - /url: https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer
+        - heading "Veeqo" [level=5]
+        - text: Shipping Software
+        - text: Inventory Management
+    - list:
+      - link "Amazon Business Everything For Your Business":
+        - /url: /business?ref_=footer_retail_b2b
+        - heading "Amazon Business" [level=5]
+        - text: Everything For
+        - text: Your Business
+      - link "Groceries at Amazon Groceries & More Right To Your Door":
+        - /url: /fmc/grocery-gateway?almBrandId=fe16aGPfFs46S&ref_=footer_groceries
+        - heading "Groceries at Amazon" [level=5]
+        - text: Groceries & More
+        - text: Right To Your Door
+      - link "AmazonGlobal Ship Orders Internationally":
+        - /url: /gp/browse.html?node=20338496011&ref_=footer_amazonglobal
+        - heading "AmazonGlobal" [level=5]
+        - text: Ship Orders
+        - text: Internationally
+      - link "Home Services Experienced Pros Happiness Guarantee":
+        - /url: /services?ref_=footer_services
+        - heading "Home Services" [level=5]
+        - text: Experienced Pros
+        - text: Happiness Guarantee
+      - link "Amazon Web Services Scalable Cloud Computing Services":
+        - /url: https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter
+        - heading "Amazon Web Services" [level=5]
+        - text: Scalable Cloud
+        - text: Computing Services
+      - link "Audible Listen to Books & Original Audio Performances":
+        - /url: https://www.audible.com
+        - heading "Audible" [level=5]
+        - text: Listen to Books & Original
+        - text: Audio Performances
+      - link "Box Office Mojo Find Movie Box Office Data":
+        - /url: https://www.boxofficemojo.com/?ref_=amzn_nav_ftr
+        - heading "Box Office Mojo" [level=5]
+        - text: Find Movie
+        - text: Box Office Data
+    - list:
+      - link "Goodreads Book reviews & recommendations":
+        - /url: https://www.goodreads.com
+        - heading "Goodreads" [level=5]
+        - text: Book reviews
+        - text: "& recommendations"
+      - link "IMDb Movies, TV & Celebrities":
+        - /url: https://www.imdb.com
+        - heading "IMDb" [level=5]
+        - text: Movies, TV
+        - text: "& Celebrities"
+      - link "IMDbPro Get Info Entertainment Professionals Need":
+        - /url: https://pro.imdb.com?ref_=amzn_nav_ftr
+        - heading "IMDbPro" [level=5]
+        - text: Get Info Entertainment
+        - text: Professionals Need
+      - link "Kindle Direct Publishing Indie Digital & Print Publishing Made Easy":
+        - /url: https://kdp.amazon.com
+        - heading "Kindle Direct Publishing" [level=5]
+        - text: Indie Digital & Print Publishing
+        - text: Made Easy
+      - link "Amazon Photos Unlimited Photo Storage Free With Prime":
+        - /url: /gp/browse.html?node=13234696011&ref_=_gno_p_foot
+        - heading "Amazon Photos" [level=5]
+        - text: Unlimited Photo Storage
+        - text: Free With Prime
+      - link "Prime Video Direct Video Distribution Made Easy":
+        - /url: https://videodirect.amazon.com/home/landing
+        - heading "Prime Video Direct" [level=5]
+        - text: Video Distribution
+        - text: Made Easy
+      - link "Shopbop Designer Fashion Brands":
+        - /url: https://www.shopbop.com
+        - heading "Shopbop" [level=5]
+        - text: Designer
+        - text: Fashion Brands
+    - list:
+      - link "Amazon Resale Great Deals on Quality Used Products":
+        - /url: /gp/browse.html?node=10158976011&ref_=footer_wrhsdls
+        - heading "Amazon Resale" [level=5]
+        - text: Great Deals on
+        - text: Quality Used Products
+      - link "Whole Foods Market America’s Healthiest Grocery Store":
+        - /url: https://www.wholefoodsmarket.com
+        - heading "Whole Foods Market" [level=5]
+        - text: America’s Healthiest
+        - text: Grocery Store
+      - link "Woot! Deals and Shenanigans":
+        - /url: https://www.woot.com/
+        - heading "Woot!" [level=5]
+        - text: Deals and
+        - text: Shenanigans
+      - link "Zappos Shoes & Clothing":
+        - /url: https://www.zappos.com
+        - heading "Zappos" [level=5]
+        - text: Shoes &
+        - text: Clothing
+      - link "Ring Smart Home Security Systems":
+        - /url: https://ring.com
+        - heading "Ring" [level=5]
+        - text: Smart Home
+        - text: Security Systems
+      - link "eero WiFi Stream 4K Video in Every Room":
+        - /url: https://eero.com/
+        - heading "eero WiFi" [level=5]
+        - text: Stream 4K Video
+        - text: in Every Room
+      - link "Blink Smart Security for Every Home":
+        - /url: https://blinkforhome.com/?ref=nav_footer
+        - heading "Blink" [level=5]
+        - text: Smart Security
+        - text: for Every Home
+    - list:
+      - link "Neighbors App Real-Time Crime & Safety Alerts":
+        - /url: https://shop.ring.com/pages/neighbors-app
+        - heading "Neighbors App" [level=5]
+        - text: Real-Time Crime
+        - text: "& Safety Alerts"
+      - link "PillPack Pharmacy Simplified":
+        - /url: https://www.pillpack.com
+        - heading "PillPack" [level=5]
+        - generic: Pharmacy Simplified
+      - link "Amazon Renewed Refurbished tech you can trust":
+        - /url: /gp/browse.html?node=12653393011&ref_=footer_usrenew
+        - heading "Amazon Renewed" [level=5]
+        - text: Refurbished tech
+        - text: you can trust
+      - link "Amazon Luna Video games from the cloud, no console required":
+        - /url: https://www.amazon.com/luna/landing-page?ref_=tmp_retail_footer
+        - heading "Amazon Luna" [level=5]
+        - text: Video games from the cloud,
+        - text: no console required
+- list:
+  - link "Conditions of Use":
+    - /url: /gp/help/customer/display.html?nodeId=508088&ref_=footer_cou
+  - link "Privacy Notice":
+    - /url: /gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ&ref_=footer_privacy
+  - link "Consumer Health Data Privacy Disclosure":
+    - /url: /gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy
+  - link "Your Ads Privacy Choices":
+    - /url: /privacyprefs?ref_=footer_iba
+- generic: © 1996-2026, Amazon.com, Inc. or its affiliates
+- iframe [id="DAsis"]
+- generic: "Test: amzn-nv-flyout-healthy-choice"
+- generic: "Test: nav-rufus-disc-txt"
+- generic: "Test: a-truncate-cut"
+- generic: "Test: sp-cc-wrapper"
+- generic: "Test: .mo-wp"
+- generic: "Test: .a-image-container"
+- generic: "Test: sp-cc"
+- generic: "Test: .amzn-box-inner"
+- generic: "Test: .js-order-card"
+- generic: "Test: pldn-deep-link"
+- generic: "Test: add-to-cart-btn"
+- generic: "Test: amzn-nav-app-banner-container"
+- generic: "Test: .sparkle-container"

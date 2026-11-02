@@ -1,0 +1,93 @@
+{
+  "source": "D:\\下载文件\\07-star-full-adhesive-price-reset-processing-summary.xlsm",
+  "summary": [
+    [
+      "Summary"
+    ],
+    [
+      "Number of SKUs processed",
+      "",
+      "",
+      2
+    ],
+    [
+      "Number of SKUs successful",
+      "",
+      "",
+      0
+    ],
+    [
+      "Number of SKUs successful with other errors",
+      "",
+      "",
+      2
+    ],
+    [
+      "Number of SKUs unsuccessful due to errors",
+      "",
+      "",
+      0
+    ],
+    [
+      "Number of SKUs with warnings",
+      "",
+      "",
+      0
+    ],
+    [
+      "Errors and Warnings per Error Code"
+    ],
+    [
+      "#",
+      "Error code",
+      "Category of error",
+      "Store",
+      "Error message",
+      "Affected field (Impacted column)",
+      "Number of errors"
+    ],
+    [
+      "1",
+      "100476",
+      "ERROR",
+      "US",
+      "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "Number of attributes with errors (B)",
+      "2"
+    ],
+    [
+      "Total number of errors",
+      2
+    ],
+    [
+      "Errors and Warnings per SKU"
+    ],
+    [
+      "#",
+      "Error code",
+      "Category of error",
+      "Store",
+      "Error message",
+      "Affected field (Impacted cell)",
+      "SKU"
+    ],
+    [
+      "1",
+      "100476",
+      "ERROR",
+      "US",
+      "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "Number of attributes with errors (B7)",
+      "4A 305-Full Adhesive"
+    ],
+    [
+      "2",
+      "100476",
+      "ERROR",
+      "US",
+      "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "Number of attributes with errors (B8)",
+      "4A 302-Full Adhesive-400"
+    ]
+  ]
+}

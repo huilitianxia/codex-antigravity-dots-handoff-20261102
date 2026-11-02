@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"status\": true, \"msg\": \"done\", \"data\": {\"columns\": [\"published_products\", \"empty_description\", \"empty_short_description\", \"missing_featured_image_id\", \"missing_sku\", \"titles_over_120_chars\"], \"rows\": [[292, 0.0, 22.0, 21.0, 0.0, 65.0]], \"rowcount\": 1, \"truncated\": false}}"
+    }
+  ],
+  "isError": false
+}

@@ -1,0 +1,812 @@
+- navigation:
+  - button "菜单":
+  - generic: 菜单
+  - button:
+  - navigation:
+    - searchbox
+    - link:
+      - /url: /amazonsell/business
+      - generic: 我的业务
+    - button:
+      - generic: 商品
+    - link:
+      - /url: /amazonsell/listings
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/manage-products
+      - text: 管理商品
+      - button:
+    - link:
+      - /url: /pricing/health
+      - text: 管理定价
+      - button:
+    - link:
+      - /url: /product-search
+      - text: 添加商品
+      - button:
+    - link:
+      - /url: /feedback-manager/index.html
+      - text: 分析评论
+      - button:
+    - link:
+      - /url: /new-product-guidance
+      - text: 研究商品
+      - button:
+    - link:
+      - /url: /gex
+      - text: 全球开店
+      - button:
+    - link:
+      - /url: /listing/reports
+      - text: 商品报告
+      - button:
+    - button:
+      - generic: 供应链
+    - link:
+      - /url: /amazonsell/inventory
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/fba-inventory
+      - text: 管理亚马逊库存
+      - button:
+    - link:
+      - /url: /global-store
+      - text: 管理海外购
+      - button:
+    - link:
+      - /url: /seller-fulfilled-product/analytics
+      - text: 管理卖家自配送库存
+      - button:
+    - link:
+      - /url: /manage/shipments
+      - text: 管理货件
+      - button:
+    - link:
+      - /url: /fba/sendtoamazon
+      - text: Send to Amazon
+      - button:
+    - link:
+      - /url: /channel-manager
+      - text: 管理渠道目的地
+      - button:
+    - link:
+      - /url: https://supplychain.amazon.com/scp/login?utm_source=ngs_persistence_link
+      - text: 供应链控制面板
+      - button:
+    - link:
+      - /url: /reportcentral/WelcomePage
+      - text: 供应链报告
+      - button:
+    - button:
+      - generic: 订单
+    - link:
+      - /url: /amazonsell/orders
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/orders/mfn
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /amazonsell/orders/fba
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /business/manage-quotes
+      - text: 管理报价
+      - button:
+    - link:
+      - /url: /manage/returns/mfn
+      - text: 管理退货
+      - button:
+    - link:
+      - /url: /gp/chargebacks/home.html
+      - text: 管理索赔
+      - button:
+    - link:
+      - /url: /order-reports-and-feeds/reports
+      - text: 订单报告
+      - button:
+    - button:
+      - generic: 营销推广
+    - link:
+      - /url: /amazonsell/marketing
+      - text: 工作区
+    - link:
+      - /url: /promotion-central/dashboard
+      - text: 管理促销和特惠
+      - button:
+    - link:
+      - /url: /brand-analytics
+      - text: 品牌分析
+      - button:
+    - link:
+      - /url: /cm?source=ngs
+      - text: 广告控制台
+      - button:
+    - link:
+      - /url: /vine
+      - text: Vine
+      - button:
+    - button:
+      - generic: 财务人员
+    - link:
+      - /url: /amazonsell/payments
+      - text: 工作区
+    - link:
+      - /url: /manage/finance/transactions
+      - text: 管理交易
+      - button:
+    - link:
+      - /url: /managetaxes/global-transaction-reports
+      - text: 管理税费
+      - button:
+    - link:
+      - /url: /economics
+      - text: 利润分析
+      - button:
+    - link:
+      - /url: /manage/finance/reports
+      - text: 财务报告
+      - button:
+    - button:
+      - generic: 账户状况
+    - link:
+      - /url: /performance/dashboard
+      - text: 管理账户状况
+      - button:
+    - button:
+      - generic: 计划和应用程序
+    - link:
+      - /url: /recommended-programs
+      - text: 了解计划
+      - button:
+    - link:
+      - /url: /selling-partner-appstore
+      - text: 销售伙伴应用商店
+      - button:
+    - link:
+      - /url: /tsba
+      - text: 浏览服务
+      - button:
+  - link:
+    - /url: /sitemap
+    - text: 站点地图
+  - link:
+    - /url: /home?ngs_do_not_redirect_flag=1
+    - text: 传统卖家平台
+  - link "Amazon":
+    - /url: /amazonsell
+  - button "4A (USA) LIMITED 美国":
+    - generic: 4A (USA) LIMITED
+    - generic: 美国
+  - button "账户状况":
+    - generic: 账户状况
+    - generic: 存在风险
+  - textbox "搜索任何内容"
+  - button "询问卖家助手":
+    - generic: 卖家助手
+  - link "新增内容":
+    - /url: /featurereleases
+  - link "消息":
+    - /url: /messaging/inbox-v3?fi=responseNeeded&&
+  - button "帮助":
+  - button "设置":
+- navigation:
+  - button:
+  - link "管理交易":
+    - /url: /manage/finance/transactions
+    - generic: 管理交易
+  - link "卖家大学":
+    - /url: /su/learn
+    - generic: 卖家大学
+  - link "管理商品":
+    - /url: /amazonsell/manage-products
+    - generic: 管理商品
+  - link "广告控制台":
+    - /url: /cm?source=ngs
+    - generic: 广告控制台
+  - link "管理货件":
+    - /url: /manage/shipments
+    - generic: 管理货件
+  - link "商品商机探测器":
+    - /url: /new-product-guidance
+    - generic: 商品商机探测器
+  - link "品牌分析":
+    - /url: /brand-analytics
+    - generic: 品牌分析
+  - link "A+ 商品描述管理器":
+    - /url: /enhanced-content/ref=xx_ebc_favb_xx
+    - generic: A+ 商品描述管理器
+  - link "业务报告":
+    - /url: /business-reports#/dashboard
+    - generic: 业务报告
+  - link "亚马逊物流库存报告":
+    - /url: /reportcentral/WelcomePage
+    - generic: 亚马逊物流库存报告
+  - link "商品报告":
+    - /url: /listing/reports
+    - generic: 商品报告
+  - link "绩效通知":
+    - /url: /performance/notifications
+    - generic: 绩效通知
+  - link "管理账户状况":
+    - /url: /performance/dashboard
+    - generic: 管理账户状况
+  - button:
+- list
+- button "✕"
+- banner:
+  - link "主页":
+    - /url: //sellercentral.amazon.com
+    - img "主页"
+  - link "需要帮助？":
+    - /url: /gp/help/help.html?itemID=G9YKQNSGEKXKPAYT
+  - img "商品图片"
+  - heading "4A 5 Pads Full Adhesive Sticky Notes 3 x 5 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Home Office School Supplies, 20 Sheets/Pad, 100 Sheets Total, 4A 305-Full Adhesive" [level=2]
+  - paragraph:
+    - generic: "ASIN:"
+    - generic: B0FBG138ND
+    - generic: "ASIN:"
+    - generic: B0FBG138ND
+  - paragraph:
+    - generic: "UPC:"
+    - generic: "702877125625"
+    - generic: "UPC:"
+    - generic: "702877125625"
+  - paragraph:
+    - generic: "亚马逊销售排名:"
+    - generic: "19172"
+    - generic: "亚马逊销售排名:"
+    - generic: "19172"
+  - generic: 品牌代表
+  - generic: 
+  - generic: "竞争报价:"
+  - generic: 1 新品 自 $10.99+ $0.00 配送费
+  - link "在亚马逊上查看商品信息":
+    - /url: https://www.amazon.com/dp/B0FBG138ND
+  - link "更多信息":
+    - /url: javascript:;
+  - generic: 
+  - navigation:
+    - link "产品详情":
+      - /url: /abis/listing/edit/product_details?sku=4A+305-Full+Adhesive&asin=B0FBG138ND&productType=SELF_STICK_NOTE&marketplaceId=ATVPDKIKX0DER&skipRedesign=true#product_details
+      - generic: 
+      - text: 产品详情
+    - link "图片":
+      - /url: /abis/listing/edit/images?sku=4A+305-Full+Adhesive&asin=B0FBG138ND&productType=SELF_STICK_NOTE&marketplaceId=ATVPDKIKX0DER&skipRedesign=true#images
+    - link "变种":
+      - /url: /abis/listing/edit/variations?sku=4A+305-Full+Adhesive&asin=B0FBG138ND&productType=SELF_STICK_NOTE&marketplaceId=ATVPDKIKX0DER&skipRedesign=true#variations
+    - link "报价":
+      - /url: /abis/listing/edit/offer?sku=4A+305-Full+Adhesive&asin=B0FBG138ND&productType=SELF_STICK_NOTE&marketplaceId=ATVPDKIKX0DER&skipRedesign=true#offer
+    - link "安全与合规":
+      - /url: /abis/listing/edit/safety_and_compliance?sku=4A+305-Full+Adhesive&asin=B0FBG138ND&productType=SELF_STICK_NOTE&marketplaceId=ATVPDKIKX0DER&skipRedesign=true#safety_and_compliance
+- generic: 输入语言
+- generic: 输入语言
+- 'note "Info: 选择您输入商品信息所使用的语言。亚马逊会为当地买家自动翻译成{main-language}。"':
+  - generic: 
+- generic "输入语言":
+  - generic "English":
+    - generic: English
+    - generic: 
+- 'note "Info: 在商品信息创建流程中设置商品信息语言后，将无法更改该语言。"':
+  - generic: 
+- generic: 属性
+- generic: 属性
+- button:
+  - generic: 
+- radio "必填"
+- generic: 必填
+- generic: 必填
+- radio "推荐"
+- generic: 推荐
+- generic: 推荐
+- radio "所有属性" [checked]
+- generic: 所有属性
+- generic: 所有属性
+- generic: A/B 试验
+- 'note "Info: 您可以运行试验来优化所支持的商品描述，从而提高转化率和增加销售额的潜力。"':
+  - generic: 
+- generic: 新增！
+- text: 因流量较低而不符合要求
+- link "查看符合要求的商品":
+  - /url: https://sellercentral.amazon.com/experiments/dashboard?ref=mye_marathon_not_eligible
+  - text: 查看符合要求的商品
+  - generic: 
+- text: "* * * * * * * * * *"
+- generic: SKU
+- generic: SKU
+- generic: 
+- textbox "示例： ABC123" [disabled]: 4A 305-Full Adhesive
+- generic: 
+- text: "*"
+- generic: 商品类型
+- generic: 商品类型
+- generic: 
+- generic: SELF STICK NOTE
+- generic: SELF STICK NOTE
+- 'note "Info: 此字段在提交后将无法更改。 要进行编辑，请删除该商品信息，并创建新的商品信息。"':
+  - generic: 
+- generic: 最低广告价格
+- generic: 最低广告价格
+- generic: 
+- generic: USD$
+- generic: USD$
+- textbox "最低广告价格":
+  - /placeholder: 示例： 259.99
+- text: "*"
+- generic: 您的价格
+- generic: 您的价格
+- generic: 
+- generic: USD$
+- generic: USD$
+- textbox "您的价格":
+  - /placeholder: 示例： 9.00
+  - text: "10.99"
+- generic: 
+- generic: 最低价
+- generic: 最低价
+- generic: 货币兑换
+- generic: 货币兑换
+- generic: 
+- button "应用":
+  - generic: 应用
+- generic: 卖方允许的最低价格
+- generic: 卖方允许的最低价格
+- generic: 
+- generic: USD$
+- generic: USD$
+- textbox "卖方允许的最低价格":
+  - /placeholder: 示例： 259.99
+- generic: 卖方允许的最高价格
+- generic: 卖方允许的最高价格
+- generic: 
+- generic: USD$
+- generic: USD$
+- textbox "卖方允许的最高价格":
+  - /placeholder: 示例： 259.99
+- text: "*"
+- generic: 销售截止日期
+- generic: 销售截止日期
+- generic: 
+- button "Calendar":
+  - generic: 
+- textbox "undefined":
+  - /placeholder: YYYY-MM-DD
+  - text: 2026-11-30
+- text: "*"
+- generic: 销售开始日期
+- generic: 销售开始日期
+- generic: 
+- button "Calendar":
+  - generic: 
+- textbox "undefined":
+  - /placeholder: YYYY-MM-DD
+  - text: 2026-11-01
+- generic: 销售价格
+- generic: 销售价格
+- generic: 
+- generic: USD$
+- generic: USD$
+- textbox "销售价格":
+  - /placeholder: 示例： 219.99
+  - text: "10.44"
+- generic: 提供发布日期
+- generic: 提供发布日期
+- generic: 
+- button "Calendar":
+  - generic: 
+- textbox "undefined":
+  - /placeholder: YYYY-MM-DD
+  - text: 2025-05-29
+- generic: 商品状况
+- generic: 商品状况
+- generic: 
+- generic "New":
+  - generic: New
+  - generic: 
+- generic: 
+- text: "*"
+- generic: 不含税价目表
+- generic: 不含税价目表
+- generic: 
+- text: "11.99"
+- generic: USD$
+- generic: USD$
+- textbox "不含税价目表":
+  - /placeholder: 示例： 64
+  - text: "11.99"
+- generic: 设置标价为与您的价格相同：USD$10.99
+- generic: 
+- generic: 产品税码
+- generic: 产品税码
+- generic: 
+- textbox "示例： A_GEN_NOTAX"
+- generic: 发售日期
+- generic: 发售日期
+- generic: 
+- button "Calendar":
+  - generic: 
+- textbox "undefined":
+  - /placeholder: YYYY-MM-DD
+- generic: 配送模板
+- generic: 配送模板
+- generic: 
+- generic "Migrated Template":
+  - generic: Migrated Template
+  - button "清除":
+    - generic: 
+  - generic: 
+- generic: 最大订单数量
+- generic: 最大订单数量
+- generic: 
+- spinbutton
+- generic: 礼品选项
+- generic: 礼品选项
+- generic: 
+- generic: 可以提供礼品信息
+- generic: 可以提供礼品信息
+- generic: 
+- radio "是"
+- generic: 是
+- generic: 是
+- radio "否"
+- generic: 否
+- generic: 否
+- generic: 表示礼品包装可用
+- generic: 表示礼品包装可用
+- generic: 
+- radio "是"
+- generic: 是
+- generic: 是
+- radio "否"
+- generic: 否
+- generic: 否
+- generic: 最低广告价
+- generic: 最低广告价
+- generic: 
+- generic: USD$
+- generic: USD$
+- textbox "最低广告价":
+  - /placeholder: 示例： 20.00, 45.99
+- generic: 补充状况信息
+- generic: 补充状况信息
+- generic: 
+- generic: 配件
+- generic: 配件
+- generic: 
+- generic: 示例： Generic
+- generic: 
+- generic: 电池电量百分比
+- generic: 电池电量百分比
+- generic: 
+- generic: 示例： >90%
+- generic: 
+- generic: 化妆品
+- generic: 化妆品
+- generic: 
+- generic: 示例： No Sign of Use
+- generic: 
+- generic: 功能
+- generic: 功能
+- generic: 
+- generic: 示例： Green Refurbishment
+- generic: 
+- link "添加更多":
+  - /url: javascript:void(0);
+  - generic: 添加更多
+- generic: 功能状况
+- generic: 功能状况
+- generic: 
+- generic: 示例： Fully Functional
+- generic: 
+- generic: 包装
+- generic: 包装
+- generic: 
+- generic: 示例： OEM Original
+- generic: 
+- generic: 翻新等级
+- generic: 翻新等级
+- generic: 
+- generic: 示例： Renewed - Excellent
+- generic: 
+- generic: 来源类型
+- generic: 来源类型
+- generic: 
+- generic: 示例： Returned Never Used
+- generic: 
+- generic: 产品尺寸
+- generic: 产品尺寸
+- generic: 
+- generic: 商品高度
+- generic: 商品高度单位
+- generic: 商品高度单位
+- generic: 
+- generic: 示例： Inches
+- generic: 
+- generic: 商品高度
+- generic: 商品高度
+- generic: 
+- spinbutton
+- generic: 商品长度
+- generic: 商品长度单位
+- generic: 商品长度单位
+- generic: 
+- generic: 示例： Inches
+- generic: 
+- generic: 商品长度
+- generic: 商品长度
+- generic: 
+- spinbutton
+- generic: 商品宽度
+- generic: 商品宽度单位
+- generic: 商品宽度单位
+- generic: 
+- generic: 示例： Inches
+- generic: 
+- generic: 商品宽度
+- generic: 商品宽度
+- generic: 
+- spinbutton
+- generic: 包装尺寸
+- generic: 包装尺寸
+- generic: 
+- generic: 包装高度
+- generic: 包装高度单位
+- generic: 包装高度单位
+- generic: 
+- generic: centimeters
+- generic "Inches":
+  - generic: Inches
+  - button "清除":
+    - generic: 
+  - generic: 
+- generic: 包装高度
+- generic: 包装高度
+- generic: 
+- generic: "12.9032"
+- spinbutton: "0.4"
+- generic: 包装长度
+- generic: 包装长度单位
+- generic: 包装长度单位
+- generic: 
+- generic: centimeters
+- generic "Inches":
+  - generic: Inches
+  - button "清除":
+    - generic: 
+  - generic: 
+- generic: 包装长度
+- generic: 包装长度
+- generic: 
+- generic: "1.4986"
+- spinbutton: "5.0"
+- generic: 包装宽度
+- generic: 包装宽度单位
+- generic: 包装宽度单位
+- generic: 
+- generic: centimeters
+- generic "Inches":
+  - generic: Inches
+  - button "清除":
+    - generic: 
+  - generic: 
+- generic: 包装宽度
+- generic: 包装宽度
+- generic: 
+- generic: "7.6962"
+- spinbutton: "3.0"
+- generic: 包裹重量
+- generic: 包裹重量
+- generic: 
+- generic: 包装重量
+- generic: 包装重量
+- generic: 
+- generic: "0.091"
+- spinbutton: "0.19"
+- generic: 包装重量单位
+- generic: 包装重量单位
+- generic: 
+- generic: kilograms
+- generic "Pounds":
+  - generic: Pounds
+  - button "清除":
+    - generic: 
+  - generic: 
+- generic: 每托盘主包装层数
+- generic: 每托盘主包装层数
+- generic: 
+- spinbutton
+- generic: 每层主包装数量
+- generic: 每层主包装数量
+- generic: 
+- spinbutton
+- heading "管理其他商城中的商品" [level=3]
+- paragraph:
+  - text: 您可以在其他商城销售此商品。提供每件商品的价格和数量。如果详情页面尚不存在，亚马逊将尝试免费自动翻译您的本地内容。您可以稍后修改已翻译的内容。相同的 SKU 和状况将在全球范围内使用。
+  - link "了解更多信息":
+    - /url: "#"
+- generic: 外汇汇率
+- table:
+  - rowgroup:
+    - row "商城 状态 数量 配送模板 您的价格 最低价":
+      - columnheader "商城"
+      - columnheader "状态"
+      - columnheader "数量"
+      - columnheader "配送模板"
+      - columnheader "您的价格"
+      - columnheader "最低价"
+  - rowgroup:
+    - row "美洲":
+      - cell "美洲"
+      - cell
+      - cell
+      - cell
+      - cell
+    - row "undefined 美国 活动 426 -":
+      - cell "undefined 美国":
+        - checkbox "undefined" [checked] [disabled]
+        - text: 美国
+      - cell "活动"
+      - cell "426":
+        - button "426":
+          - text: "426"
+          - generic: 
+      - cell
+      - cell:
+        - generic: 美元 (USD$)
+        - generic: 美元 (USD$)
+        - textbox [disabled]:
+          - /placeholder: 例如： 50.00
+          - text: "10.99"
+        - generic: 
+      - cell "-"
+    - row "undefined 加拿大 活动 426 警告：此价差高于来源 US 商城商品价格的 20%。 -":
+      - cell "undefined 加拿大":
+        - checkbox "undefined" [checked]
+        - text: 加拿大
+      - cell "活动"
+      - cell "426":
+        - button "426":
+          - text: "426"
+          - generic: 
+      - cell
+      - cell "警告：此价差高于来源 US 商城商品价格的 20%。":
+        - generic: 加元 (CDN$)
+        - generic: 加元 (CDN$)
+        - textbox:
+          - /placeholder: 例如： 50.00
+          - text: "20.19"
+        - generic: 
+        - generic: 警告：此价差高于来源 US 商城商品价格的 20%。
+      - cell "-"
+    - row "undefined 巴西 活动 426 警告：此价差高于来源 US 商城商品价格的 20%。 -":
+      - cell "undefined 巴西":
+        - checkbox "undefined" [checked]
+        - text: 巴西
+      - cell "活动"
+      - cell "426":
+        - button "426":
+          - text: "426"
+          - generic: 
+      - cell
+      - cell "警告：此价差高于来源 US 商城商品价格的 20%。":
+        - generic: 巴西雷亚尔 (R$)
+        - generic: 巴西雷亚尔 (R$)
+        - textbox:
+          - /placeholder: 例如： 50.00
+          - text: 79,74
+        - generic: 
+        - generic: 警告：此价差高于来源 US 商城商品价格的 20%。
+      - cell "-"
+    - row "undefined 墨西哥 活动 426 警告：此价差高于来源 US 商城商品价格的 20%。 -":
+      - cell "undefined 墨西哥":
+        - checkbox "undefined" [checked]
+        - text: 墨西哥
+      - cell "活动"
+      - cell "426":
+        - button "426":
+          - text: "426"
+          - generic: 
+      - cell
+      - cell "警告：此价差高于来源 US 商城商品价格的 20%。":
+        - generic: 墨西哥比索 (MXN$)
+        - generic: 墨西哥比索 (MXN$)
+        - textbox:
+          - /placeholder: 例如： 50.00
+          - text: "284.87"
+        - generic: 
+        - generic: 警告：此价差高于来源 US 商城商品价格的 20%。
+      - cell "-"
+    - row "欧洲":
+      - cell "欧洲"
+      - cell
+      - cell:
+        - textbox
+      - cell
+      - cell
+      - cell
+    - row "undefined 英国 推荐 推荐 您需要获得批准，才能发布此品牌的商品。 Request Approval via Seller Central.":
+      - cell "undefined 英国 推荐 推荐":
+        - checkbox "undefined" [disabled]
+        - text: 英国
+        - generic: 推荐
+        - generic: 推荐
+        - generic: 
+      - cell "您需要获得批准，才能发布此品牌的商品。 Request Approval via Seller Central.":
+        - generic: 您需要获得批准，才能发布此品牌的商品。
+        - button "Request Approval via Seller Central.":
+          - generic: Request Approval via Seller Central.
+    - row "undefined 德国 推荐 推荐 您需要获得批准，才能发布此品牌的商品。 Request Approval via Seller Central.":
+      - cell "undefined 德国 推荐 推荐":
+        - checkbox "undefined" [disabled]
+        - text: 德国
+        - generic: 推荐
+        - generic: 推荐
+        - generic: 
+      - cell "您需要获得批准，才能发布此品牌的商品。 Request Approval via Seller Central.":
+        - generic: 您需要获得批准，才能发布此品牌的商品。
+        - button "Request Approval via Seller Central.":
+          - generic: Request Approval via Seller Central.
+    - row "undefined 法国 推荐 推荐 您需要获得批准，才能发布此品牌的商品。 Request Approval via Seller Central.":
+      - cell "undefined 法国 推荐 推荐":
+        - checkbox "undefined" [disabled]
+        - text: 法国
+        - generic: 推荐
+        - generic: 推荐
+        - generic: 
+      - cell "您需要获得批准，才能发布此品牌的商品。 Request Approval via Seller Central.":
+        - generic: 您需要获得批准，才能发布此品牌的商品。
+        - button "Request Approval via Seller Central.":
+          - generic: Request Approval via Seller Central.
+    - row "undefined 意大利 推荐 推荐 您需要获得批准，才能发布此品牌的商品。 Request Approval via Seller Central.":
+      - cell "undefined 意大利 推荐 推荐":
+        - checkbox "undefined" [disabled]
+        - text: 意大利
+        - generic: 推荐
+        - generic: 推荐
+        - generic: 
+      - cell "您需要获得批准，才能发布此品牌的商品。 Request Approval via Seller Central.":
+        - generic: 您需要获得批准，才能发布此品牌的商品。
+        - button "Request Approval via Seller Central.":
+          - generic: Request Approval via Seller Central.
+    - row "undefined 西班牙 推荐 推荐 您需要获得批准，才能发布此品牌的商品。 Request Approval via Seller Central.":
+      - cell "undefined 西班牙 推荐 推荐":
+        - checkbox "undefined" [disabled]
+        - text: 西班牙
+        - generic: 推荐
+        - generic: 推荐
+        - generic: 
+      - cell "您需要获得批准，才能发布此品牌的商品。 Request Approval via Seller Central.":
+        - generic: 您需要获得批准，才能发布此品牌的商品。
+        - button "Request Approval via Seller Central.":
+          - generic: Request Approval via Seller Central.
+    - row "日本":
+      - cell "日本"
+      - cell
+      - cell
+      - cell
+      - cell
+      - cell
+    - row "undefined 日本 推荐 推荐 您需要获得批准，才能发布此品牌的商品。 Request Approval via Seller Central.":
+      - cell "undefined 日本 推荐 推荐":
+        - checkbox "undefined" [disabled]
+        - text: 日本
+        - generic: 推荐
+        - generic: 推荐
+        - generic: 
+      - cell "您需要获得批准，才能发布此品牌的商品。 Request Approval via Seller Central.":
+        - generic: 您需要获得批准，才能发布此品牌的商品。
+        - button "Request Approval via Seller Central.":
+          - generic: Request Approval via Seller Central.
+- text: "* *"
+- button "取消":
+  - generic: 取消
+- button "保存并完成":
+  - generic: 保存并完成
+- link "站点地图":
+  - /url: /sitemap
+- link "计划政策":
+  - /url: /help/hub/reference/521
+- generic: © 1999-2026，Amazon.com, Inc. 或其附属公司
+- link "反馈":
+  - /url: "#"

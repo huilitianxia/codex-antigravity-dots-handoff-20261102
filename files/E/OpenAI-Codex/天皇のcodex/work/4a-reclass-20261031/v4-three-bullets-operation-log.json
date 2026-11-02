@@ -1,0 +1,57 @@
+[
+  {
+    "sku": "4A 189",
+    "asin": "B07B8DSVRB",
+    "at": "2026-11-01T04:36:52.339Z",
+    "status": "submit_attempt_no_success_existing_errors",
+    "draft": [
+      "Lined sticky note pads for written notes and lists.",
+      "Each note measures 6 x 8 inches.",
+      "Assorted bright colors help separate notes by topic.",
+      "Use the notes for reminders at home, school or the office.",
+      "Write tasks, messages and meeting notes on the lined paper."
+    ],
+    "errors": [
+      "99300 bullet array",
+      "8541 color Bright Ultra Colors vs Extra Colors 6 X 8-4 Pads"
+    ],
+    "otherFieldsChanged": false
+  },
+  {
+    "sku": "4A001",
+    "asin": "B01NCQST12",
+    "at": "2026-11-01T04:48:56.839Z",
+    "status": "complete_draft_no_success",
+    "draft": [
+      "Small sticky note pads for brief notes and reminders.",
+      "Each note measures 1.5 x 2 inches.",
+      "Adhesive is positioned along the shorter edge.",
+      "Use the notes to label tasks and organize written reminders.",
+      "Compact notes for use at a desk, study area or workstation."
+    ],
+    "errors": [
+      "99300",
+      "8541 existing color conflict"
+    ],
+    "otherFieldsChanged": false
+  },
+  {
+    "sku": "4A078",
+    "asin": "B01NCQ7U0X",
+    "at": "2026-11-01T04:51:31.748Z",
+    "status": "preexisting_conflicts_verified_no_submit",
+    "draft": [
+      "Red sticky note paper in a roll format.",
+      "The roll measures 2 inches wide and 315 inches long.",
+      "Cut sections to suit the length of your notes.",
+      "Writable paper for reminders, lists and page marking.",
+      "Keep the roll at a desk or study area for everyday note taking."
+    ],
+    "identity": "red 2 x315 inches matches current catalog 5.08 x800.07 cm",
+    "errors": [
+      "99300",
+      "8541 Neon Assorted vs Red"
+    ],
+    "otherFieldsChanged": false
+  }
+]

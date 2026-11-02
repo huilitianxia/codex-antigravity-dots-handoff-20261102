@@ -1,0 +1,330 @@
+- navigation:
+  - button "菜单":
+  - generic: 菜单
+  - button:
+  - navigation:
+    - searchbox
+    - link:
+      - /url: /amazonsell/business
+      - generic: 我的业务
+    - button:
+      - generic: 商品
+    - link:
+      - /url: /amazonsell/listings
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/manage-products
+      - text: 管理商品
+      - button:
+    - link:
+      - /url: /pricing/health
+      - text: 管理定价
+      - button:
+    - link:
+      - /url: /product-search
+      - text: 添加商品
+      - button:
+    - link:
+      - /url: /feedback-manager/index.html
+      - text: 分析评论
+      - button:
+    - link:
+      - /url: /new-product-guidance
+      - text: 研究商品
+      - button:
+    - link:
+      - /url: /gex
+      - text: 全球开店
+      - button:
+    - link:
+      - /url: /listing/reports
+      - text: 商品报告
+      - button:
+    - button:
+      - generic: 供应链
+    - link:
+      - /url: /amazonsell/inventory
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/fba-inventory
+      - text: 管理亚马逊库存
+      - button:
+    - link:
+      - /url: /global-store
+      - text: 管理海外购
+      - button:
+    - link:
+      - /url: /seller-fulfilled-product/analytics
+      - text: 管理卖家自配送库存
+      - button:
+    - link:
+      - /url: /manage/shipments
+      - text: 管理货件
+      - button:
+    - link:
+      - /url: /fba/sendtoamazon
+      - text: Send to Amazon
+      - button:
+    - link:
+      - /url: /channel-manager
+      - text: 管理渠道目的地
+      - button:
+    - link:
+      - /url: https://supplychain.amazon.com/scp/login?utm_source=ngs_persistence_link
+      - text: 供应链控制面板
+      - button:
+    - link:
+      - /url: /reportcentral/WelcomePage
+      - text: 供应链报告
+      - button:
+    - button:
+      - generic: 订单
+    - link:
+      - /url: /amazonsell/orders
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/orders/mfn
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /amazonsell/orders/fba
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /business/manage-quotes
+      - text: 管理报价
+      - button:
+    - link:
+      - /url: /manage/returns/mfn
+      - text: 管理退货
+      - button:
+    - link:
+      - /url: /gp/chargebacks/home.html
+      - text: 管理索赔
+      - button:
+    - link:
+      - /url: /order-reports-and-feeds/reports
+      - text: 订单报告
+      - button:
+    - button:
+      - generic: 营销推广
+    - link:
+      - /url: /amazonsell/marketing
+      - text: 工作区
+    - link:
+      - /url: /promotion-central/dashboard
+      - text: 管理促销和特惠
+      - button:
+    - link:
+      - /url: /brand-analytics
+      - text: 品牌分析
+      - button:
+    - link:
+      - /url: /cm?source=ngs
+      - text: 广告控制台
+      - button:
+    - link:
+      - /url: /vine
+      - text: Vine
+      - button:
+    - button:
+      - generic: 财务人员
+    - link:
+      - /url: /amazonsell/payments
+      - text: 工作区
+    - link:
+      - /url: /manage/finance/transactions
+      - text: 管理交易
+      - button:
+    - link:
+      - /url: /managetaxes/global-transaction-reports
+      - text: 管理税费
+      - button:
+    - link:
+      - /url: /economics
+      - text: 利润分析
+      - button:
+    - link:
+      - /url: /manage/finance/reports
+      - text: 财务报告
+      - button:
+    - button:
+      - generic: 账户状况
+    - link:
+      - /url: /performance/dashboard
+      - text: 管理账户状况
+      - button:
+    - button:
+      - generic: 计划和应用程序
+    - link:
+      - /url: /recommended-programs
+      - text: 了解计划
+      - button:
+    - link:
+      - /url: /selling-partner-appstore
+      - text: 销售伙伴应用商店
+      - button:
+    - link:
+      - /url: /tsba
+      - text: 浏览服务
+      - button:
+  - link:
+    - /url: /sitemap
+    - text: 站点地图
+  - link:
+    - /url: /home?ngs_do_not_redirect_flag=1
+    - text: 传统卖家平台
+  - link "Amazon":
+    - /url: /amazonsell
+  - button "4A (USA) LIMITED 美国":
+    - generic: 4A (USA) LIMITED
+    - generic: 美国
+  - button "账户状况":
+    - generic: 账户状况
+    - generic: 存在风险
+  - textbox "搜索任何内容"
+  - button "询问卖家助手":
+    - generic: 卖家助手
+  - link "新增内容":
+    - /url: /featurereleases
+  - link "消息":
+    - /url: /messaging/inbox-v3?fi=responseNeeded&&
+  - button "帮助":
+  - button "设置":
+- navigation:
+  - button:
+  - link "管理交易":
+    - /url: /manage/finance/transactions
+    - generic: 管理交易
+  - link "卖家大学":
+    - /url: /su/learn
+    - generic: 卖家大学
+  - link "管理商品":
+    - /url: /amazonsell/manage-products
+    - generic: 管理商品
+  - link "广告控制台":
+    - /url: /cm?source=ngs
+    - generic: 广告控制台
+  - link "管理货件":
+    - /url: /manage/shipments
+    - generic: 管理货件
+  - link "商品商机探测器":
+    - /url: /new-product-guidance
+    - generic: 商品商机探测器
+  - link "品牌分析":
+    - /url: /brand-analytics
+    - generic: 品牌分析
+  - link "A+ 商品描述管理器":
+    - /url: /enhanced-content/ref=xx_ebc_favb_xx
+    - generic: A+ 商品描述管理器
+  - link "业务报告":
+    - /url: /business-reports#/dashboard
+    - generic: 业务报告
+  - link "亚马逊物流库存报告":
+    - /url: /reportcentral/WelcomePage
+    - generic: 亚马逊物流库存报告
+  - link "商品报告":
+    - /url: /listing/reports
+    - generic: 商品报告
+  - link "绩效通知":
+    - /url: /performance/notifications
+    - generic: 绩效通知
+  - link "管理账户状况":
+    - /url: /performance/dashboard
+    - generic: 管理账户状况
+  - button:
+- heading "创建优惠券" [level=2]
+- generic: 0 of 4 steps completed · 0%
+- navigation:
+  - button "店铺和商品":
+    - heading "店铺和商品" [level=3]
+  - button "优惠券设置 0 inputs / 4 inputs" [disabled]:
+    - heading "优惠券设置" [level=3]
+    - generic: 0 inputs / 4 inputs
+  - button "更多详情 0 inputs / 4 inputs" [disabled]:
+    - heading "更多详情" [level=3]
+    - generic: 0 inputs / 4 inputs
+  - button "检查并确认 0 inputs / 1 inputs" [disabled]:
+    - heading "检查并确认" [level=3]
+    - generic: 0 inputs / 1 inputs
+- heading "店铺和商品" [level=1]
+- paragraph: 选择您要在优惠券中包含的商城和商品。
+- heading "Store 以发布优惠券" [level=2]
+- button "店铺选择下拉菜单 United States":
+  - generic: United States
+- heading "所有 ASIN (2)" [level=2]:
+  - text: 所有 ASIN
+  - generic: (2)
+- searchbox "按商品名称、ASIN、SKU 搜索" [active]: B07QWKYQV7
+- button:
+- list:
+  - button [disabled]:
+  - button "1"
+  - button [disabled]:
+- treegrid:
+  - rowgroup:
+    - row "商品 绩效 最近 30 天 当前价格 有货 订单配送方":
+      - columnheader:
+        - checkbox
+      - columnheader "商品":
+        - generic: 商品
+      - columnheader "绩效 最近 30 天":
+        - generic: 绩效
+        - generic: 最近 30 天
+      - columnheader "当前价格":
+        - generic: 当前价格
+      - columnheader "有货 订单配送方":
+        - generic: 有货
+        - generic: 订单配送方
+  - rowgroup:
+    - 'row "4A Big Sticky Notes, 11 x 11 in, 4 Pads, Bright Colors 4A Big Sticky Notes, 11 x 11 in, 4 Pads, Bright Colors ASIN: B07QWKYQV7 SKU: 4A GMBP 1111-Nx4 销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #484,972 $27.39 839 件数 MFN" [level=1]':
+      - gridcell:
+        - checkbox
+      - 'gridcell "4A Big Sticky Notes, 11 x 11 in, 4 Pads, Bright Colors 4A Big Sticky Notes, 11 x 11 in, 4 Pads, Bright Colors ASIN: B07QWKYQV7 SKU: 4A GMBP 1111-Nx4"':
+        - img "4A Big Sticky Notes, 11 x 11 in, 4 Pads, Bright Colors"
+        - paragraph:
+          - link "4A Big Sticky Notes, 11 x 11 in, 4 Pads, Bright Colors":
+            - /url: https://www.amazon.com/dp/B07QWKYQV7
+        - generic: "ASIN: B07QWKYQV7"
+        - generic: "SKU: 4A GMBP 1111-Nx4"
+      - 'gridcell "销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #484,972"':
+        - generic: "销量 : -"
+        - generic: "售出商品数量 : -"
+        - generic: "页面浏览量 : -"
+        - generic: "销量排行 : #484,972"
+      - gridcell "$27.39":
+        - generic: $27.39
+      - gridcell "839 件数 MFN":
+        - generic: 839 件数
+        - generic: MFN
+    - 'row "4A Big Sticky Notes, 11 x 11 in, 4 Pads, Bright Colors 4A Big Sticky Notes, 11 x 11 in, 4 Pads, Bright Colors ASIN: B07QWKYQV7 SKU: 4A BP 1111-Nx4 销量 : 83 售出商品数量 : 3 页面浏览量 : - 销量排行 : #484,972 $27.39 25 件数 AFN" [level=1]':
+      - gridcell:
+        - checkbox
+      - 'gridcell "4A Big Sticky Notes, 11 x 11 in, 4 Pads, Bright Colors 4A Big Sticky Notes, 11 x 11 in, 4 Pads, Bright Colors ASIN: B07QWKYQV7 SKU: 4A BP 1111-Nx4"':
+        - img "4A Big Sticky Notes, 11 x 11 in, 4 Pads, Bright Colors"
+        - paragraph:
+          - link "4A Big Sticky Notes, 11 x 11 in, 4 Pads, Bright Colors":
+            - /url: https://www.amazon.com/dp/B07QWKYQV7
+        - generic: "ASIN: B07QWKYQV7"
+        - generic: "SKU: 4A BP 1111-Nx4"
+      - 'gridcell "销量 : 83 售出商品数量 : 3 页面浏览量 : - 销量排行 : #484,972"':
+        - generic: "销量 : 83"
+        - generic: "售出商品数量 : 3"
+        - generic: "页面浏览量 : -"
+        - generic: "销量排行 : #484,972"
+      - gridcell "$27.39":
+        - generic: $27.39
+      - gridcell "25 件数 AFN":
+        - generic: 25 件数
+        - generic: AFN
+- button "返回":
+  - text: 返回
+- button "继续" [disabled]
+- button "Light/dark mode toggle (new)":
+- link "站点地图":
+  - /url: /sitemap
+- link "计划政策":
+  - /url: /help/hub/reference/521
+- generic: © 1999-2026，Amazon.com, Inc. 或其附属公司
+- link "反馈":
+  - /url: "#"

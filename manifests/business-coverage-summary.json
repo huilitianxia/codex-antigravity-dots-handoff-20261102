@@ -1,0 +1,21 @@
+{
+  "verified_at_utc": "2026-11-02T02:32:42.868420+00:00",
+  "scope": "4A/Amazon stationery business and related 4ausa/4apaper work only",
+  "codex_source_conversations": 9,
+  "antigravity_source_conversations": 11,
+  "codex_canonical_user_messages": 486,
+  "codex_canonical_records": 8449,
+  "antigravity_public_activity_records": 13723,
+  "canonical_folder_count": 19,
+  "source_conversations_total": 20,
+  "scope_peer_review": "PASS",
+  "file_peer_review": "PASS",
+  "business_files": 2917,
+  "payload": {
+    "files": 1261,
+    "logical_bytes": 1540927322,
+    "unique_objects": 993,
+    "packages": 3,
+    "package_bytes": 1138118673
+  }
+}

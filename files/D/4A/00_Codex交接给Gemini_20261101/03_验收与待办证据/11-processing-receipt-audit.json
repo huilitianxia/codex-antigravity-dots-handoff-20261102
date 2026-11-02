@@ -1,0 +1,43 @@
+{
+  "file": "D:\\下载文件\\11-remaining-three-five-bullets-only-processing-summary.xlsm",
+  "rows": [
+    {
+      "sku": "4A 404SL-15",
+      "status": "SUCCESS",
+      "five_bullets_match": true,
+      "comments": [
+        {
+          "cell": "A7",
+          "comment": "Your changes were applied without any errors"
+        }
+      ]
+    },
+    {
+      "sku": "4A 406SL-10",
+      "status": "SUCCESS",
+      "five_bullets_match": true,
+      "comments": [
+        {
+          "cell": "A8",
+          "comment": "Your changes were applied without any errors"
+        }
+      ]
+    },
+    {
+      "sku": "4A 6032x5",
+      "status": "SUCCESS",
+      "five_bullets_match": true,
+      "comments": [
+        {
+          "cell": "A9",
+          "comment": "Your changes were applied without any errors"
+        }
+      ]
+    }
+  ],
+  "statuses": {
+    "SUCCESS": 3
+  },
+  "submitted_bullets_matched": 15,
+  "buyer_page_not_verified": true
+}

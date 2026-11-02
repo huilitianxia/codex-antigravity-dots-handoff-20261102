@@ -1,0 +1,301 @@
+{
+  "source": "D:/下载文件/分类商品报告_10-31-2026.xlsm",
+  "product_type": "SELF_STICK_NOTE",
+  "defined_name": "SELF_STICK_NOTEvariation_theme1.name",
+  "validation_formula": "INDIRECT(product_type + variation_theme1.name)",
+  "range": "Dropdown Lists!K4:K76",
+  "values": [
+    {
+      "cell": "K4",
+      "value": "COLLECTION_ITEM"
+    },
+    {
+      "cell": "K5",
+      "value": "COLLECTION_ITEM/SET_NAME"
+    },
+    {
+      "cell": "K6",
+      "value": "COLLECTION_ITEM/TOTAL_PRODUCT_QUANTITY"
+    },
+    {
+      "cell": "K7",
+      "value": "COLOR"
+    },
+    {
+      "cell": "K8",
+      "value": "COLOR/COLLECTION_ITEM"
+    },
+    {
+      "cell": "K9",
+      "value": "COLOR/NUMBER_OF_ITEMS"
+    },
+    {
+      "cell": "K10",
+      "value": "COLOR/PAPER_SIZE"
+    },
+    {
+      "cell": "K11",
+      "value": "COLOR/SET_NAME"
+    },
+    {
+      "cell": "K12",
+      "value": "COLOR/SIZE"
+    },
+    {
+      "cell": "K13",
+      "value": "COLOR/SIZE/NUMBER_OF_ITEMS"
+    },
+    {
+      "cell": "K14",
+      "value": "COLOR/SIZE/TOTAL_PRODUCT_QUANTITY"
+    },
+    {
+      "cell": "K15",
+      "value": "COLOR/TOTAL_PRODUCT_QUANTITY"
+    },
+    {
+      "cell": "K16",
+      "value": "ITEM_SHAPE"
+    },
+    {
+      "cell": "K17",
+      "value": "NUMBER_OF_ITEMS"
+    },
+    {
+      "cell": "K18",
+      "value": "NUMBER_OF_ITEMS/COLLECTION_ITEM"
+    },
+    {
+      "cell": "K19",
+      "value": "NUMBER_OF_ITEMS/SET_NAME"
+    },
+    {
+      "cell": "K20",
+      "value": "ORIENTATION"
+    },
+    {
+      "cell": "K21",
+      "value": "ORIENTATION/NUMBER_OF_ITEMS"
+    },
+    {
+      "cell": "K22",
+      "value": "ORIENTATION/TOTAL_PRODUCT_QUANTITY"
+    },
+    {
+      "cell": "K23",
+      "value": "PAPER_SIZE"
+    },
+    {
+      "cell": "K24",
+      "value": "PAPER_SIZE/NUMBER_OF_ITEMS"
+    },
+    {
+      "cell": "K25",
+      "value": "PAPER_SIZE/TOTAL_PRODUCT_QUANTITY"
+    },
+    {
+      "cell": "K26",
+      "value": "SET_NAME"
+    },
+    {
+      "cell": "K27",
+      "value": "SET_NAME/TOTAL_PRODUCT_QUANTITY"
+    },
+    {
+      "cell": "K28",
+      "value": "SIZE"
+    },
+    {
+      "cell": "K29",
+      "value": "SIZE/COLLECTION_ITEM"
+    },
+    {
+      "cell": "K30",
+      "value": "SIZE/NUMBER_OF_ITEMS"
+    },
+    {
+      "cell": "K31",
+      "value": "SIZE/SET_NAME"
+    },
+    {
+      "cell": "K32",
+      "value": "SIZE/TOTAL_PRODUCT_QUANTITY"
+    },
+    {
+      "cell": "K33",
+      "value": "TOTAL_PRODUCT_QUANTITY"
+    },
+    {
+      "cell": "K34",
+      "value": "COLOR_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K35",
+      "value": "COLOR_NAME/ITEM_PACKAGE_QUANTITY (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K36",
+      "value": "COLOR_NAME/NUMBER_OF_ITEMS (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K37",
+      "value": "COLOR_NAME/PATTERN_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K38",
+      "value": "COLOR_NAME/SIZE_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K39",
+      "value": "COLOR_NAME/SIZE_NAME/PATTERN_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K40",
+      "value": "COLOR_NAME/SIZE_NAME/STYLE_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K41",
+      "value": "COLOR_NAME/SIZE_NAME/STYLE_NAME/PATTERN_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K42",
+      "value": "COLOR_NAME/STYLE_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K43",
+      "value": "COLOR_NAME/STYLE_NAME/PATTERN_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K44",
+      "value": "COLOR/STYLE (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K45",
+      "value": "COLOR/STYLE/TOTAL_PRODUCT_QUANTITY (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K46",
+      "value": "INK_COLOR (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K47",
+      "value": "ITEM_PACKAGE_QUANTITY (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K48",
+      "value": "ITEM_PACKAGE_QUANTITY/COLOR (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K49",
+      "value": "ITEM_PACKAGE_QUANTITY/COLOR_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K50",
+      "value": "ITEM_PACKAGE_QUANTITY/SIZE_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K51",
+      "value": "ITEM_PACKAGE_QUANTITY/STYLE_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K52",
+      "value": "MATERIAL_TYPE (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K53",
+      "value": "MAXIMUM_SIZE (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K54",
+      "value": "MODEL (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K55",
+      "value": "NUMBER_OF_ITEMS/PAPER_SIZE (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K56",
+      "value": "NUMBER_OF_ITEMS/STYLE_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K57",
+      "value": "PATTERN (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K58",
+      "value": "PATTERN_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K59",
+      "value": "SIZE_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K60",
+      "value": "SIZE_NAME/COLOR_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K61",
+      "value": "SIZE_NAME/COLOR_NAME/NUMBER_OF_ITEMS (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K62",
+      "value": "SIZE_NAME/COLOR_NAME/PATTERN_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K63",
+      "value": "SIZE_NAME/NUMBER_OF_ITEMS (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K64",
+      "value": "SIZE_NAME/PATTERN_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K65",
+      "value": "SIZE_NAME/STYLE_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K66",
+      "value": "SIZE_NAME/STYLE_NAME/COLOR_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K67",
+      "value": "SIZE_NAME/STYLE_NAME/PATTERN_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K68",
+      "value": "SIZE/COLOR (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K69",
+      "value": "SIZE/UNIT_COUNT (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K70",
+      "value": "STYLE (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K71",
+      "value": "STYLE_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K72",
+      "value": "STYLE_NAME/COLOR_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K73",
+      "value": "STYLE_NAME/PATTERN_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K74",
+      "value": "STYLE_NAME/SIZE_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K75",
+      "value": "STYLE_NAME/SIZE_NAME/COLOR_NAME (Deprecated: Do Not Use)"
+    },
+    {
+      "cell": "K76",
+      "value": "STYLE/SIZE/TOTAL_PRODUCT_QUANTITY (Deprecated: Do Not Use)"
+    }
+  ]
+}

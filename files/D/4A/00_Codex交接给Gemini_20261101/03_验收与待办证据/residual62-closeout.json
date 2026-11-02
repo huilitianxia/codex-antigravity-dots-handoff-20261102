@@ -1,0 +1,4422 @@
+{
+  "scope": "Only 62 residual rows (39 catalog conflicts + 23 mapping failures); read-only offline reconciliation, no live changes.",
+  "inventory_sources": [
+    "11/1 11:43 all-listings report: exact SKU/ASIN/status/MFN quantity",
+    "11/1 02:46 FBA seller scan overrides matching FNSKU",
+    "10/30 FBA inventory fills other FNSKU; deduplicated"
+  ],
+  "order_source": "175793876516020757.txt downloaded10/31; US country + USD; cancelled and pending separated; not a current live order scan",
+  "order_purchase_range": [
+    "2026-10-01T15:23:36+00:00",
+    "2026-10-31T13:50:16+00:00"
+  ],
+  "inventory_groups": {
+    "有货FBA：错误同SKU": 4,
+    "同ASIN其他FBA有货": 1,
+    "仅MFN有申报库存": 16,
+    "无可售库存或零库存草稿（已有快照）": 41
+  },
+  "exact_skus_absent_from_latest_report": 0,
+  "group_note": "Same-ASIN FBA stock can belong to another SKU. MFN quantities are seller-declared and are not warehouse counts. Mapping error is not proof that the report row was deleted.",
+  "rows": [
+    {
+      "sku": "4A 039",
+      "asin": "B01N1T23HH",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "有货FBA：错误同SKU",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Active",
+      "offer_channel": "AMAZON_NA",
+      "exact_fba_available": 12.0,
+      "same_asin_fba_available": 12.0,
+      "fba_sources": [
+        "2026-11-01 02:46 seller FBA scan"
+      ],
+      "exact_mfn_declared_quantity": null,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [
+        "4A 039"
+      ],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A 039",
+          "status": "Active",
+          "channel": "AMAZON_NA"
+        },
+        {
+          "sku": "4A GM608x2-N-L OP",
+          "status": "Inactive",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01N1T23HH, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Orange&pink\", en_AU: \"Orange&pink\", en_SG: \"Orange&pink\" and 17 other variant(s) en_GB, en_CA, en_AE, ko_KR, fr_FR, es_ES, zh_TW, pt_BR, ar_AE, it_IT, es_MX, de_DE, zh_CN, ja_JP, es_US, pt_PT, fr_CA]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01N1T23HH, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B78)",
+          "count_or_sku": "4A 039"
+        }
+      ]
+    },
+    {
+      "sku": "4A 040",
+      "asin": "B01N7IT411",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "有货FBA：错误同SKU",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Active",
+      "offer_channel": "AMAZON_NA",
+      "exact_fba_available": 5.0,
+      "same_asin_fba_available": 5.0,
+      "fba_sources": [
+        "2026-11-01 02:46 seller FBA scan"
+      ],
+      "exact_mfn_declared_quantity": null,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [
+        "4A 040"
+      ],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A 040",
+          "status": "Active",
+          "channel": "AMAZON_NA"
+        },
+        {
+          "sku": "4A GM608x2-N-L RP",
+          "status": "Inactive",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01N7IT411, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Red&pink\", en_AU: \"Red&pink\", en_SG: \"Red&pink\" and 12 other variant(s) en_CA, en_AE, ko_KR, fr_FR, pt_BR, ar_AE, it_IT, es_MX, de_DE, zh_CN, es_US, fr_CA]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01N7IT411, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B79)",
+          "count_or_sku": "4A 040"
+        }
+      ]
+    },
+    {
+      "sku": "4A 0166",
+      "asin": "B0784GHSVJ",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "有货FBA：错误同SKU",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Active",
+      "offer_channel": "AMAZON_NA",
+      "exact_fba_available": 3.0,
+      "same_asin_fba_available": 3.0,
+      "fba_sources": [
+        "2026-11-01 02:46 seller FBA scan"
+      ],
+      "exact_mfn_declared_quantity": null,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [
+        "4A 0166"
+      ],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A 0166",
+          "status": "Active",
+          "channel": "AMAZON_NA"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 1,
+        "units": 1,
+        "gross_item_usd": 5.99,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": "2026-10-16T00:00:59+00:00"
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 1,
+        "units": 1,
+        "gross_item_usd": 5.99,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": "2026-10-16T00:00:59+00:00"
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B0784GHSVJ, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"White-atlantic Ocean\", en_SG: \"White-atlantic Ocean\", en_GB: \"White-atlantic Ocean\" and 16 other variant(s) en_CA, en_AE, ko_KR, fr_FR, zh_TW, es_ES, pt_BR, ar_AE, es_MX, de_DE, zh_CN, ja_JP, es_US, he_IL, pt_PT, fr_CA]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B0784GHSVJ, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B51)",
+          "count_or_sku": "4A 0166"
+        }
+      ]
+    },
+    {
+      "sku": "4A 037",
+      "asin": "B01M617ZTH",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "有货FBA：错误同SKU",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Active",
+      "offer_channel": "AMAZON_NA",
+      "exact_fba_available": 2.0,
+      "same_asin_fba_available": 2.0,
+      "fba_sources": [
+        "2026-11-01 02:46 seller FBA scan"
+      ],
+      "exact_mfn_declared_quantity": null,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [
+        "4A 037"
+      ],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A 037",
+          "status": "Active",
+          "channel": "AMAZON_NA"
+        },
+        {
+          "sku": "4A GM608x2-N-L YG",
+          "status": "Inactive",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 1,
+        "units": 1,
+        "gross_item_usd": 12.99,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": "2026-10-25T16:28:40+00:00"
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 1,
+        "units": 1,
+        "gross_item_usd": 12.99,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": "2026-10-25T16:28:40+00:00"
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01M617ZTH, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Green&yellow\", en_AU: \"Neon Green/Neon Yellow\", en_GB: \"Neon Green/Neon Yellow\" and 27 other variant(s) en_AE, en_SG, en_IE, en_CA, en_IN, tr_TR, es_ES, ar_AE, it_IT, ja_JP, nl_NL, ko_KR, fr_FR, zh_TW, pt_BR, es_MX, pl_PL, de_DE, zh_CN, sv_SE, hi_IN, es_US, he_IL, fr_BE, pt_PT, nl_BE, fr_CA]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01M617ZTH, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B77)",
+          "count_or_sku": "4A 037"
+        }
+      ]
+    },
+    {
+      "sku": "4A095",
+      "asin": "B01M2UDADZ",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "同ASIN其他FBA有货",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Active",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": 2.0,
+      "fba_sources": [
+        "2026-11-01 02:46 seller FBA scan"
+      ],
+      "exact_mfn_declared_quantity": 719.0,
+      "active_mfn_aliases": [
+        {
+          "sku": "4A095",
+          "declared_quantity": 719.0
+        }
+      ],
+      "active_fba_aliases": [
+        "4A 66114"
+      ],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A 66114",
+          "status": "Active",
+          "channel": "AMAZON_NA"
+        },
+        {
+          "sku": "4A095",
+          "status": "Active",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "manufacturer"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "核包装制造商名称、供应商发票或品牌证明；不能把China当制造商，也不能为通过校验盲写4A公司名。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "manufacturer"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01M2UDADZ, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'manufacturer' (Merchant [en_US: \"China\"] / Amazon [en_US: \"4A（USA）LIMITED\", en_IE: \"4A（USA）LIMITED\", en_GB: \"4A（USA）LIMITED\" and 20 other variant(s) en_CA, en_SG, en_AU, en_AE, en_IN, en_ZA, tr_TR, de_DE, fr_FR, ja_JP, it_IT, ar_AE, pl_PL, es_MX, fr_BE, pt_BR, sv_SE, es_ES, nl_NL, zh_CN]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01M2UDADZ, then update your listing's 'manufacturer' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B444)",
+          "count_or_sku": "4A095"
+        }
+      ]
+    },
+    {
+      "sku": "4A092",
+      "asin": "B00SMEDUWQ",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "101265",
+        "8541"
+      ],
+      "inventory_group": "仅MFN有申报库存",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Active",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 6.0,
+      "active_mfn_aliases": [
+        {
+          "sku": "4A092",
+          "declared_quantity": 6.0
+        }
+      ],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A092",
+          "status": "Active",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 1,
+        "units": 2,
+        "gross_item_usd": 23.98,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": "2026-10-18T05:31:28+00:00"
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 1,
+        "units": 2,
+        "gross_item_usd": 23.98,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": "2026-10-18T05:31:28+00:00"
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B00SMEDUWQ, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"Colors-s434\", en_SG: \"Colors-s434\", en_IE: \"Colors-s434\" and 34 other variant(s) en_AU, en_GB, en_CA, en_IN, en_ZA, en_AE, zh_CN, sv_SE, nl_BE, pl_PL, nl_NL, he_IL, es_US, pt_BR, ta_IN, mr_IN, fr_CA, kn_IN, ar_AE, es_ES, fr_BE, es_MX, fr_FR, de_DE, it_IT, ml_IN, zh_TW, ja_JP, hi_IN, ko_KR, zh_CN, bn_IN, te_IN, tr_TR]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B00SMEDUWQ, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B443)",
+          "count_or_sku": "4A092"
+        },
+        {
+          "code": "101265",
+          "severity": "WARNING",
+          "marketplace": "US",
+          "message": "552.0 USD sales forecast on FBA conversion for this offer in the next 90 days. Moving from MFN to FBA for fulfillment can improve sales by this estimated amount. This forecast was generated through a Machine Learning Model",
+          "field": "Number of attributes with errors (B443)",
+          "count_or_sku": "4A092"
+        }
+      ]
+    },
+    {
+      "sku": "4A PSS 9-5 NB",
+      "asin": "B00V9Z5PS2",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "101265",
+        "8541"
+      ],
+      "inventory_group": "仅MFN有申报库存",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Active",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 45.0,
+      "active_mfn_aliases": [
+        {
+          "sku": "4A PSS 9-5 NB",
+          "declared_quantity": 45.0
+        }
+      ],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A PSS 9-5 NB",
+          "status": "Active",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "standard_product_id"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 1,
+        "units": 1,
+        "gross_item_usd": 8.99,
+        "pending_orders": 1,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": "2026-10-15T14:00:11+00:00"
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 1,
+        "units": 1,
+        "gross_item_usd": 8.99,
+        "pending_orders": 1,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": "2026-10-15T14:00:11+00:00"
+      },
+      "safe_next_steps": [
+        "核实实物UPC/GTIN与正确型号及装量，查原始SKU到ASIN对应；不猜条码、不把当前目录ASIN照抄为正确货号。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "standard_product_id"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B00V9Z5PS2, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'standard_product_id' (Merchant [\"00702877119600\"] / Amazon [\"00702877123140\"]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B00V9Z5PS2, then update your listing's 'standard_product_id' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B381)",
+          "count_or_sku": "4A PSS 9-5 NB"
+        },
+        {
+          "code": "101265",
+          "severity": "WARNING",
+          "marketplace": "US",
+          "message": "261.0 USD sales forecast on FBA conversion for this offer in the next 90 days. Moving from MFN to FBA for fulfillment can improve sales by this estimated amount. This forecast was generated through a Machine Learning Model",
+          "field": "Number of attributes with errors (B381)",
+          "count_or_sku": "4A PSS 9-5 NB"
+        }
+      ]
+    },
+    {
+      "sku": "4A 0153",
+      "asin": "B077QFD8G7",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "仅MFN有申报库存",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Active",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 3.0,
+      "active_mfn_aliases": [
+        {
+          "sku": "4A 0153",
+          "declared_quantity": 3.0
+        }
+      ],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A 0153",
+          "status": "Active",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B077QFD8G7, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"White-tiger\", en_GB: \"White-tiger\", en_CA: \"South China Tiger\" and 6 other variant(s) fr_FR, es_ES, es_US, es_MX, de_DE, fr_CA]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B077QFD8G7, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B38)",
+          "count_or_sku": "4A 0153"
+        }
+      ]
+    },
+    {
+      "sku": "4A 0154",
+      "asin": "B078BQ7G72",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "仅MFN有申报库存",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Active",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 12.0,
+      "active_mfn_aliases": [
+        {
+          "sku": "4A 0154",
+          "declared_quantity": 12.0
+        }
+      ],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A 0154",
+          "status": "Active",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B078BQ7G72, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"White-havana Dog\", en_GB: \"White-havana Dog\", en_CA: \"White-havana Dog\" and 4 other variant(s) fr_FR, es_US, es_MX, de_DE]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B078BQ7G72, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B39)",
+          "count_or_sku": "4A 0154"
+        }
+      ]
+    },
+    {
+      "sku": "4A 0155",
+      "asin": "B0784GDSY2",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "101265",
+        "8541"
+      ],
+      "inventory_group": "仅MFN有申报库存",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Active",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 12.0,
+      "active_mfn_aliases": [
+        {
+          "sku": "4A 0155",
+          "declared_quantity": 12.0
+        }
+      ],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A 0155",
+          "status": "Active",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "101265",
+          "severity": "WARNING",
+          "marketplace": "US",
+          "message": "150.0 USD sales forecast on FBA conversion for this offer in the next 90 days. Moving from MFN to FBA for fulfillment can improve sales by this estimated amount. This forecast was generated through a Machine Learning Model",
+          "field": "Number of attributes with errors (B40)",
+          "count_or_sku": "4A 0155"
+        },
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B0784GDSY2, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"White-berman Cat\", en_GB: \"White-berman Cat\", en_CA: \"White-berman Cat\" and 6 other variant(s) it_IT, es_MX, de_DE, fr_FR, es_ES, es_US]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B0784GDSY2, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B40)",
+          "count_or_sku": "4A 0155"
+        }
+      ]
+    },
+    {
+      "sku": "4A 0168",
+      "asin": "B077Q9W8CW",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "仅MFN有申报库存",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Active",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 9.0,
+      "active_mfn_aliases": [
+        {
+          "sku": "4A 0168",
+          "declared_quantity": 9.0
+        }
+      ],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A 0168",
+          "status": "Active",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B077Q9W8CW, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"White-risso's Dolphin\", en_GB: \"White-risso's Dolphin\", en_CA: \"Risso's Dolphin\" and 7 other variant(s) fr_FR, ja_JP, es_ES, es_US, es_MX, de_DE, fr_CA]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B077Q9W8CW, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B53)",
+          "count_or_sku": "4A 0168"
+        }
+      ]
+    },
+    {
+      "sku": "4A 0169",
+      "asin": "B077QB3SK9",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "仅MFN有申报库存",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Active",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 12.0,
+      "active_mfn_aliases": [
+        {
+          "sku": "4A 0169",
+          "declared_quantity": 12.0
+        }
+      ],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A 0169",
+          "status": "Active",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B077QB3SK9, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"White-japanese Bobtail\", en_CA: \"Japanese bobtail\", en_GB: \"White-japanese Bobtail\" and 11 other variant(s) ko_KR, fr_FR, he_IL, zh_CN, es_MX, zh_TW, de_DE, ja_JP, fr_CA, pt_BR, es_US]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B077QB3SK9, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B54)",
+          "count_or_sku": "4A 0169"
+        }
+      ]
+    },
+    {
+      "sku": "4A 0171",
+      "asin": "B078BPPCXR",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "仅MFN有申报库存",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Active",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 9.0,
+      "active_mfn_aliases": [
+        {
+          "sku": "4A 0171",
+          "declared_quantity": 9.0
+        }
+      ],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A 0171",
+          "status": "Active",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B078BPPCXR, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"White-polar Bear\", en_CA: \"White-polar Bear\", fr_FR: \"White-polar Bear\" and 4 other variant(s) es_US, es_MX, de_DE, fr_CA]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B078BPPCXR, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B56)",
+          "count_or_sku": "4A 0171"
+        }
+      ]
+    },
+    {
+      "sku": "4A 186",
+      "asin": "B07B8FGS9G",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "仅MFN有申报库存",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Inactive",
+      "offer_channel": "AMAZON_NA",
+      "exact_fba_available": 0,
+      "same_asin_fba_available": 0,
+      "fba_sources": [
+        "2026-10-30 FBA inventory"
+      ],
+      "exact_mfn_declared_quantity": null,
+      "active_mfn_aliases": [
+        {
+          "sku": "4A GM406S-Linex3*3",
+          "declared_quantity": 28.0
+        }
+      ],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A GM406S-Linex3*3",
+          "status": "Active",
+          "channel": "DEFAULT"
+        },
+        {
+          "sku": "4A 186",
+          "status": "Inactive",
+          "channel": "AMAZON_NA"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07B8FGS9G, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Bright Ultra Colors\"] / Amazon [en_US: \"Extra Colors 4 X 6-3 Pads\", en_CA: \"Extra Colors 4 X 6-3 Pads\", en_AE: \"Extra Colors 4 X 6-3 Pads\" and 9 other variant(s) en_AU, en_GB, zh_CN, es_ES, fr_FR, ar_AE, pt_BR, it_IT, de_DE]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07B8FGS9G, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B82)",
+          "count_or_sku": "4A 186"
+        }
+      ]
+    },
+    {
+      "sku": "4A 187",
+      "asin": "B07B8CP97S",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "仅MFN有申报库存",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Inactive",
+      "offer_channel": "AMAZON_NA",
+      "exact_fba_available": 0,
+      "same_asin_fba_available": 0,
+      "fba_sources": [
+        "2026-10-30 FBA inventory"
+      ],
+      "exact_mfn_declared_quantity": null,
+      "active_mfn_aliases": [
+        {
+          "sku": "4A GM406S-Linex5*3",
+          "declared_quantity": 42.0
+        }
+      ],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A GM406S-Linex5*3",
+          "status": "Active",
+          "channel": "DEFAULT"
+        },
+        {
+          "sku": "4A 187",
+          "status": "Inactive",
+          "channel": "AMAZON_NA"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07B8CP97S, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Bright Ultra Colors\"] / Amazon [en_US: \"Extra Colors 4 X 6-5 Pads\", en_AE: \"Extra Colors 4 X 6-5 Pads\", en_AU: \"Extra Colors 4 X 6-5 Pads\" and 9 other variant(s) en_GB, en_CA, zh_CN, fr_FR, es_ES, es_US, pt_BR, it_IT, de_DE]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07B8CP97S, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B83)",
+          "count_or_sku": "4A 187"
+        }
+      ]
+    },
+    {
+      "sku": "4A 40606",
+      "asin": "B00SMEEWUA",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "仅MFN有申报库存",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Active",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 278.0,
+      "active_mfn_aliases": [
+        {
+          "sku": "4A 40606",
+          "declared_quantity": 278.0
+        }
+      ],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A 40606",
+          "status": "Active",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "standard_product_id"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "核实实物UPC/GTIN与正确型号及装量，查原始SKU到ASIN对应；不猜条码、不把当前目录ASIN照抄为正确货号。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "standard_product_id"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B00SMEEWUA, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'standard_product_id' (Merchant [\"00702877119419\"] / Amazon [\"00702877120040\"]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B00SMEEWUA, then update your listing's 'standard_product_id' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B148)",
+          "count_or_sku": "4A 40606"
+        }
+      ]
+    },
+    {
+      "sku": "4A 5036",
+      "asin": "B01N6IT5IG",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "仅MFN有申报库存",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Active",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 1404.0,
+      "active_mfn_aliases": [
+        {
+          "sku": "4A 5036",
+          "declared_quantity": 1404.0
+        }
+      ],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A 5036",
+          "status": "Active",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The ean, ean provided matches ASIN B01N6IT5IG, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Bright Ultra Colors\"] / Amazon [en_US: \"Colors-heart\", en_AE: \"Colors-heart\", en_CA: \"Colors-heart\" and 10 other variant(s) en_IN, en_AU, en_SG, de_DE, it_IT, es_MX, zh_CN, fr_CA, es_US, fr_FR]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01N6IT5IG, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the ean, ean provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B173)",
+          "count_or_sku": "4A 5036"
+        },
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The standard product ids (such as UPC, ISBN, EAN, or JAN codes) provided matches ASIN B01N6IT5IG, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Bright Ultra Colors\"] / Amazon [en_US: \"Colors-heart\", en_AE: \"Colors-heart\", en_CA: \"Colors-heart\" and 10 other variant(s) en_IN, en_AU, en_SG, de_DE, it_IT, es_MX, zh_CN, fr_CA, es_US, fr_FR]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01N6IT5IG, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the standard product ids (such as UPC, ISBN, EAN, or JAN codes) provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B173)",
+          "count_or_sku": "4A 5036"
+        }
+      ]
+    },
+    {
+      "sku": "4A 60238",
+      "asin": "B01MATR9TE",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "仅MFN有申报库存",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Inactive",
+      "offer_channel": "AMAZON_NA",
+      "exact_fba_available": 0,
+      "same_asin_fba_available": 0,
+      "fba_sources": [
+        "2026-10-30 FBA inventory"
+      ],
+      "exact_mfn_declared_quantity": null,
+      "active_mfn_aliases": [
+        {
+          "sku": "4A SF-60238",
+          "declared_quantity": 381.0
+        }
+      ],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A SF-60238",
+          "status": "Active",
+          "channel": "DEFAULT"
+        },
+        {
+          "sku": "4A 60238",
+          "status": "Inactive",
+          "channel": "AMAZON_NA"
+        }
+      ],
+      "conflicting_fields": [
+        "manufacturer"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "核包装制造商名称、供应商发票或品牌证明；不能把China当制造商，也不能为通过校验盲写4A公司名。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "manufacturer"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01MATR9TE, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'manufacturer' (Merchant [en_CA: \"China\", en_US: \"China\", es_MX: \"China\"] / Amazon [en_CA: \"4A（USA）LIMITED\", en_US: \"4A（USA）LIMITED\", es_MX: \"4A（USA）LIMITED\" and 16 other variant(s) en_AU, en_SG, en_IE, en_GB, en_AE, en_IN, es_ES, fr_FR, it_IT, pl_PL, de_DE, zh_CN, ja_JP, nl_NL, sv_SE, fr_BE]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01MATR9TE, then update your listing's 'manufacturer' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B209)",
+          "count_or_sku": "4A 60238"
+        }
+      ]
+    },
+    {
+      "sku": "4A GM40624*2",
+      "asin": "B07FK8CRM9",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "99022"
+      ],
+      "inventory_group": "仅MFN有申报库存",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Active",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 747.0,
+      "active_mfn_aliases": [
+        {
+          "sku": "4A GM40624*2",
+          "declared_quantity": 747.0
+        }
+      ],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A GM40624*2",
+          "status": "Active",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "99022",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "Based on the data from '[color#?.value]', the field '\"standardized_values\"' for the attribute 'Color' does not have enough values. The required minimum is '1' value(s). Please provide a valid value.",
+          "field": "Color (BM282)",
+          "count_or_sku": "4A GM40624*2"
+        },
+        {
+          "code": "99022",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "Based on the data from '[color#?.standardized_values]', the field '\"value\"' for the attribute 'Color' does not have enough values. The required minimum is '1' value(s). Please provide a valid value.",
+          "field": "Color (BM282)",
+          "count_or_sku": "4A GM40624*2"
+        },
+        {
+          "code": "99022",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "Based on the data from '[color#?.standardized_values]', the field '\"value\"' for the attribute 'Color' does not have enough values. The required minimum is '1' value(s). Please provide a valid value.",
+          "field": "Color Map (HN282)",
+          "count_or_sku": "4A GM40624*2"
+        },
+        {
+          "code": "99022",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "Based on the data from '[color#?.value]', the field '\"standardized_values\"' for the attribute 'Color' does not have enough values. The required minimum is '1' value(s). Please provide a valid value.",
+          "field": "Color Map (HN282)",
+          "count_or_sku": "4A GM40624*2"
+        }
+      ]
+    },
+    {
+      "sku": "4A SF-60238",
+      "asin": "B01MATR9TE",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "仅MFN有申报库存",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Active",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": 0,
+      "fba_sources": [
+        "2026-10-30 FBA inventory"
+      ],
+      "exact_mfn_declared_quantity": 381.0,
+      "active_mfn_aliases": [
+        {
+          "sku": "4A SF-60238",
+          "declared_quantity": 381.0
+        }
+      ],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A SF-60238",
+          "status": "Active",
+          "channel": "DEFAULT"
+        },
+        {
+          "sku": "4A 60238",
+          "status": "Inactive",
+          "channel": "AMAZON_NA"
+        }
+      ],
+      "conflicting_fields": [
+        "manufacturer"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "核包装制造商名称、供应商发票或品牌证明；不能把China当制造商，也不能为通过校验盲写4A公司名。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "manufacturer"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01MATR9TE, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'manufacturer' (Merchant [en_US: \"China\"] / Amazon [en_US: \"4A（USA）LIMITED\", en_AU: \"4A（USA）LIMITED\", en_SG: \"4A（USA）LIMITED\" and 16 other variant(s) en_IE, en_GB, en_CA, en_AE, en_IN, fr_FR, es_ES, it_IT, es_MX, pl_PL, de_DE, zh_CN, ja_JP, nl_NL, sv_SE, fr_BE]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01MATR9TE, then update your listing's 'manufacturer' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B394)",
+          "count_or_sku": "4A SF-60238"
+        }
+      ]
+    },
+    {
+      "sku": "4A093",
+      "asin": "B01N0VHWSL",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "101265",
+        "8541"
+      ],
+      "inventory_group": "仅MFN有申报库存",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Active",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 419.0,
+      "active_mfn_aliases": [
+        {
+          "sku": "4A093",
+          "declared_quantity": 419.0
+        }
+      ],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A093",
+          "status": "Active",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "101265",
+          "severity": "WARNING",
+          "marketplace": "US",
+          "message": "131.0 USD sales forecast on FBA conversion for this offer in the next 90 days. Moving from MFN to FBA for fulfillment can improve sales by this estimated amount. This forecast was generated through a Machine Learning Model",
+          "field": "Number of attributes with errors (B19)",
+          "count_or_sku": "4A093"
+        },
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01N0VHWSL, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"Wave\", en_CA: \"Wave\", zh_CN: \"波浪\" and 4 other variant(s) es_US, pt_BR, es_MX, de_DE]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01N0VHWSL, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B19)",
+          "count_or_sku": "4A093"
+        }
+      ]
+    },
+    {
+      "sku": "4A 0183",
+      "asin": "B07B7JF9LB",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Inactive",
+      "offer_channel": "AMAZON_NA",
+      "exact_fba_available": 0,
+      "same_asin_fba_available": 0,
+      "fba_sources": [
+        "2026-10-30 FBA inventory"
+      ],
+      "exact_mfn_declared_quantity": null,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A 0183",
+          "status": "Inactive",
+          "channel": "AMAZON_NA"
+        },
+        {
+          "sku": "4A U3032",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07B7JF9LB, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Neon Color-3x3\", en_CA: \"Neon Color-3x3\", en_SG: \"Neon Color-3x3\" and 7 other variant(s) en_AU, en_IN, en_GB, de_DE, fr_FR, es_ES, it_IT]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07B7JF9LB, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B63)",
+          "count_or_sku": "4A 0183"
+        }
+      ]
+    },
+    {
+      "sku": "4A 5078",
+      "asin": "B00SMEEF2A",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Inactive",
+      "offer_channel": "AMAZON_NA",
+      "exact_fba_available": 0,
+      "same_asin_fba_available": 0,
+      "fba_sources": [
+        "2026-10-30 FBA inventory"
+      ],
+      "exact_mfn_declared_quantity": null,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A 5078",
+          "status": "Inactive",
+          "channel": "AMAZON_NA"
+        },
+        {
+          "sku": "4A GMSC5078",
+          "status": "Inactive",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "standard_product_id"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "核实实物UPC/GTIN与正确型号及装量，查原始SKU到ASIN对应；不猜条码、不把当前目录ASIN照抄为正确货号。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "standard_product_id"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B00SMEEF2A, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'standard_product_id' (Merchant [\"00702877119273\"] / Amazon [\"00702877120149\"]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B00SMEEF2A, then update your listing's 'standard_product_id' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B179)",
+          "count_or_sku": "4A 5078"
+        }
+      ]
+    },
+    {
+      "sku": "4A 5084 Parent",
+      "asin": "B0FB8GH4HV",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A 5084 Parent",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4A 5084 Parent does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B181)",
+          "count_or_sku": "4A 5084 Parent"
+        }
+      ]
+    },
+    {
+      "sku": "4A 5088",
+      "asin": "B07F2TCDG2",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Inactive",
+      "offer_channel": "AMAZON_NA",
+      "exact_fba_available": 0,
+      "same_asin_fba_available": 0,
+      "fba_sources": [
+        "2026-10-30 FBA inventory"
+      ],
+      "exact_mfn_declared_quantity": null,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A 5088",
+          "status": "Inactive",
+          "channel": "AMAZON_NA"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07F2TCDG2, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): '{color.standardized_values,color.value}' (Merchant [en_US: standardized_values \"multicolored\", value \"Neon Assorted\"] / Amazon [en_US: standardized_values \"multicolored\", value \"Bright Colors\"]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07F2TCDG2, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B184)",
+          "count_or_sku": "4A 5088"
+        }
+      ]
+    },
+    {
+      "sku": "4A PSS 9-1 NG",
+      "asin": "B01N9LPEVG",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Inactive",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A PSS 9-1 NG",
+          "status": "Inactive",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01N9LPEVG, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Green\", en_GB: \"Green\", en_IN: \"Green\" and 11 other variant(s) en_CA, ar_AE, fr_CA, fr_FR, zh_CN, es_US, it_IT, pt_BR, de_DE, es_ES, zh_TW]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01N9LPEVG, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B363)",
+          "count_or_sku": "4A PSS 9-1 NG"
+        }
+      ]
+    },
+    {
+      "sku": "4A SMC-001-1",
+      "asin": "B07KS9D62F",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A SMC-001-1",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4A SMC-001-1 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B398)",
+          "count_or_sku": "4A SMC-001-1"
+        }
+      ]
+    },
+    {
+      "sku": "4A Sticky 005-5",
+      "asin": "B07KT5PXLK",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A Sticky 005-5",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "item_classification"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "涉及base_product/目录分类与父子身份；先核商品身份，父子关系调整按家族暂缓。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "item_classification"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07KT5PXLK, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'item_classification' (Merchant [\"base_product\"] / Amazon []). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07KT5PXLK, then update your listing's 'item_classification' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B402)",
+          "count_or_sku": "4A Sticky 005-5"
+        }
+      ]
+    },
+    {
+      "sku": "4A Sticky 007-7",
+      "asin": "B07KT5SQWF",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A Sticky 007-7",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "item_classification"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "涉及base_product/目录分类与父子身份；先核商品身份，父子关系调整按家族暂缓。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "item_classification"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07KT5SQWF, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'item_classification' (Merchant [\"base_product\"] / Amazon []). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07KT5SQWF, then update your listing's 'item_classification' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B403)",
+          "count_or_sku": "4A Sticky 007-7"
+        }
+      ]
+    },
+    {
+      "sku": "4A sticky 001-1",
+      "asin": "B07KPGH5ZD",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A sticky 001-1",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4A sticky 001-1 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B405)",
+          "count_or_sku": "4A sticky 001-1"
+        }
+      ]
+    },
+    {
+      "sku": "4A sticky 006-6",
+      "asin": "B07KR97S12",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A sticky 006-6",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4A sticky 006-6 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B408)",
+          "count_or_sku": "4A sticky 006-6"
+        }
+      ]
+    },
+    {
+      "sku": "4A sticky 009-9",
+      "asin": "B07KR9LD68",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A sticky 009-9",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "item_classification"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "涉及base_product/目录分类与父子身份；先核商品身份，父子关系调整按家族暂缓。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "item_classification"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07KR9LD68, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'item_classification' (Merchant [\"base_product\"] / Amazon []). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07KR9LD68, then update your listing's 'item_classification' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B409)",
+          "count_or_sku": "4A sticky 009-9"
+        }
+      ]
+    },
+    {
+      "sku": "4A sticky 010-10",
+      "asin": "B07KRBF9V8",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A sticky 010-10",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4A sticky 010-10 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B410)",
+          "count_or_sku": "4A sticky 010-10"
+        }
+      ]
+    },
+    {
+      "sku": "4A sticky 013-13",
+      "asin": "B07KRL9KK3",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A sticky 013-13",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4A sticky 013-13 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B411)",
+          "count_or_sku": "4A sticky 013-13"
+        }
+      ]
+    },
+    {
+      "sku": "4A sticky 014-14",
+      "asin": "B07KS972NW",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A sticky 014-14",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4A sticky 014-14 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B412)",
+          "count_or_sku": "4A sticky 014-14"
+        }
+      ]
+    },
+    {
+      "sku": "4A sticky 015-15",
+      "asin": "B07KS92L4R",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A sticky 015-15",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4A sticky 015-15 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B413)",
+          "count_or_sku": "4A sticky 015-15"
+        }
+      ]
+    },
+    {
+      "sku": "4A sticky 016-16",
+      "asin": "B07KS868KR",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A sticky 016-16",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4A sticky 016-16 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B414)",
+          "count_or_sku": "4A sticky 016-16"
+        }
+      ]
+    },
+    {
+      "sku": "4A sticky 021-21",
+      "asin": "B07KS9TZ8Q",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A sticky 021-21",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "item_classification"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "涉及base_product/目录分类与父子身份；先核商品身份，父子关系调整按家族暂缓。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "item_classification"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07KS9TZ8Q, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'item_classification' (Merchant [\"base_product\"] / Amazon []). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07KS9TZ8Q, then update your listing's 'item_classification' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B15)",
+          "count_or_sku": "4A sticky 021-21"
+        }
+      ]
+    },
+    {
+      "sku": "4A sticky 022-22",
+      "asin": "B07KS13HT8",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A sticky 022-22",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "item_classification"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "涉及base_product/目录分类与父子身份；先核商品身份，父子关系调整按家族暂缓。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "item_classification"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07KS13HT8, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'item_classification' (Merchant [\"base_product\"] / Amazon []). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07KS13HT8, then update your listing's 'item_classification' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B415)",
+          "count_or_sku": "4A sticky 022-22"
+        }
+      ]
+    },
+    {
+      "sku": "4A sticky 023-23",
+      "asin": "B07KS82V78",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A sticky 023-23",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4A sticky 023-23 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B416)",
+          "count_or_sku": "4A sticky 023-23"
+        }
+      ]
+    },
+    {
+      "sku": "4A sticky 024-24",
+      "asin": "B07KSR4VVZ",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A sticky 024-24",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4A sticky 024-24 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B417)",
+          "count_or_sku": "4A sticky 024-24"
+        }
+      ]
+    },
+    {
+      "sku": "4A sticky 027-27",
+      "asin": "B07KSMSMFD",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A sticky 027-27",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "item_classification"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "涉及base_product/目录分类与父子身份；先核商品身份，父子关系调整按家族暂缓。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "item_classification"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07KSMSMFD, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'item_classification' (Merchant [\"base_product\"] / Amazon []). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07KSMSMFD, then update your listing's 'item_classification' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B418)",
+          "count_or_sku": "4A sticky 027-27"
+        }
+      ]
+    },
+    {
+      "sku": "4A sticky 030-30",
+      "asin": "B07KSZJ1LK",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A sticky 030-30",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4A sticky 030-30 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B419)",
+          "count_or_sku": "4A sticky 030-30"
+        }
+      ]
+    },
+    {
+      "sku": "4A sticky 033-33",
+      "asin": "B07KSSFFYS",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A sticky 033-33",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4A sticky 033-33 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B420)",
+          "count_or_sku": "4A sticky 033-33"
+        }
+      ]
+    },
+    {
+      "sku": "4A077",
+      "asin": "B01MY2BF9Q",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Inactive",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A077",
+          "status": "Inactive",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "color"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "用实物/包装图、颜色或图案和UPC核对目录；只在确为同货且目录正确时修color，否则提供证据申诉。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "color"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01MY2BF9Q, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): '{color.standardized_values,color.value}' (Merchant [en_US: standardized_values \"orange\", value \"Neon Assorted\"] / Amazon [en_US: standardized_values \"orange\", value \"Neon Orange X 2\", en_SG: standardized_values \"undefined\", value \"Orange\", en_GB: standardized_values \"undefined\", value \"Orange\" and 21 other variant(s) en_CA, en_ZA, en_IN, ko_KR, te_IN, ml_IN, zh_TW, es_ES, ar_AE, pt_BR, bn_IN, ta_IN, es_MX, de_DE, kn_IN, zh_CN, mr_IN, hi_IN, es_US, he_IL, fr_CA]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01MY2BF9Q, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B441)",
+          "count_or_sku": "4A077"
+        }
+      ]
+    },
+    {
+      "sku": "4A30FANNA00",
+      "asin": "B07QWKWRQR",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A30FANNA00",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "item_classification"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "涉及base_product/目录分类与父子身份；先核商品身份，父子关系调整按家族暂缓。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "item_classification"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07QWKWRQR, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'item_classification' (Merchant [\"base_product\"] / Amazon []). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07QWKWRQR, then update your listing's 'item_classification' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B447)",
+          "count_or_sku": "4A30FANNA00"
+        }
+      ]
+    },
+    {
+      "sku": "4A3DSTICKYANI",
+      "asin": "B082WDQWV3",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A3DSTICKYANI",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4A3DSTICKYANI does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B448)",
+          "count_or_sku": "4A3DSTICKYANI"
+        }
+      ]
+    },
+    {
+      "sku": "4A3DSTICKYCAT",
+      "asin": "B082WDVBP8",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A3DSTICKYCAT",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4A3DSTICKYCAT does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B449)",
+          "count_or_sku": "4A3DSTICKYCAT"
+        }
+      ]
+    },
+    {
+      "sku": "4A3DSTICKYDOG",
+      "asin": "B082WDFK4H",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A3DSTICKYDOG",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4A3DSTICKYDOG does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B450)",
+          "count_or_sku": "4A3DSTICKYDOG"
+        }
+      ]
+    },
+    {
+      "sku": "4A3DSTICKYOCEAN",
+      "asin": "B082WDN5JB",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A3DSTICKYOCEAN",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4A3DSTICKYOCEAN does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B451)",
+          "count_or_sku": "4A3DSTICKYOCEAN"
+        }
+      ]
+    },
+    {
+      "sku": "4A3DSTICKYTL",
+      "asin": "B082WDLB76",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4A3DSTICKYTL",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4A3DSTICKYTL does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B452)",
+          "count_or_sku": "4A3DSTICKYTL"
+        }
+      ]
+    },
+    {
+      "sku": "4ABNLCOLORFUL",
+      "asin": "B07TSD42PN",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4ABNLCOLORFUL",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4ABNLCOLORFUL does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B454)",
+          "count_or_sku": "4ABNLCOLORFUL"
+        }
+      ]
+    },
+    {
+      "sku": "4ABP111522NP4",
+      "asin": "B07SDDQFC7",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4ABP111522NP4",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "item_classification"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "涉及base_product/目录分类与父子身份；先核商品身份，父子关系调整按家族暂缓。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "item_classification"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07SDDQFC7, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'item_classification' (Merchant [\"base_product\"] / Amazon []). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07SDDQFC7, then update your listing's 'item_classification' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B455)",
+          "count_or_sku": "4ABP111522NP4"
+        }
+      ]
+    },
+    {
+      "sku": "4ADRT521",
+      "asin": "B07TXPZJBJ",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4ADRT521",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4ADRT521 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B456)",
+          "count_or_sku": "4ADRT521"
+        }
+      ]
+    },
+    {
+      "sku": "4ADSSBP-DC",
+      "asin": "B07Q21QT9W",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4ADSSBP-DC",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "item_classification"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "涉及base_product/目录分类与父子身份；先核商品身份，父子关系调整按家族暂缓。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "item_classification"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07Q21QT9W, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'item_classification' (Merchant [\"base_product\"] / Amazon []). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07Q21QT9W, then update your listing's 'item_classification' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B457)",
+          "count_or_sku": "4ADSSBP-DC"
+        }
+      ]
+    },
+    {
+      "sku": "4AMEETING-41CLEAR",
+      "asin": "B07T6LTJ4G",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4AMEETING-41CLEAR",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4AMEETING-41CLEAR does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B10)",
+          "count_or_sku": "4AMEETING-41CLEAR"
+        }
+      ]
+    },
+    {
+      "sku": "4ASNFSDC12",
+      "asin": "B07TS7Y1FN",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4ASNFSDC12",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4ASNFSDC12 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B461)",
+          "count_or_sku": "4ASNFSDC12"
+        }
+      ]
+    },
+    {
+      "sku": "4ASNFSILMS",
+      "asin": "B07TXGF2QR",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4ASNFSILMS",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "item_classification"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "涉及base_product/目录分类与父子身份；先核商品身份，父子关系调整按家族暂缓。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "item_classification"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07TXGF2QR, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'item_classification' (Merchant [\"base_product\"] / Amazon []). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07TXGF2QR, then update your listing's 'item_classification' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B462)",
+          "count_or_sku": "4ASNFSILMS"
+        }
+      ]
+    },
+    {
+      "sku": "4ASNVPDS-MC",
+      "asin": "B07TXKTTKH",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4ASNVPDS-MC",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "先核精确SKU空格与别名、原UPC和现存ASIN；报告有记录不代表处理器可用。不要删除重建、猜ASIN或迁移库存。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "SKU/ASIN/UPC mapping"
+      ],
+      "errors": [
+        {
+          "code": "8567",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "SKU 4ASNVPDS-MC does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): merchant_suggested_asin.",
+          "field": "Number of attributes with errors (B463)",
+          "count_or_sku": "4ASNVPDS-MC"
+        }
+      ]
+    },
+    {
+      "sku": "4ASSNDS924",
+      "asin": "B07TXGHQNZ",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4ASSNDS924",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "item_classification"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "涉及base_product/目录分类与父子身份；先核商品身份，父子关系调整按家族暂缓。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "item_classification"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07TXGHQNZ, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'item_classification' (Merchant [\"base_product\"] / Amazon []). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07TXGHQNZ, then update your listing's 'item_classification' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B464)",
+          "count_or_sku": "4ASSNDS924"
+        }
+      ]
+    },
+    {
+      "sku": "4ASUPERSN-5C",
+      "asin": "B07TTCCL7J",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "4ASUPERSN-5C",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "item_classification"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "涉及base_product/目录分类与父子身份；先核商品身份，父子关系调整按家族暂缓。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "item_classification"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07TTCCL7J, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'item_classification' (Merchant [\"base_product\"] / Amazon []). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07TTCCL7J, then update your listing's 'item_classification' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B465)",
+          "count_or_sku": "4ASUPERSN-5C"
+        }
+      ]
+    },
+    {
+      "sku": "AAAAACCUBE",
+      "asin": "B07QNL7N3W",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ],
+      "inventory_group": "无可售库存或零库存草稿（已有快照）",
+      "exact_sku_present_in_11_01_report": true,
+      "listing_status": "Incomplete",
+      "offer_channel": "DEFAULT",
+      "exact_fba_available": null,
+      "same_asin_fba_available": null,
+      "fba_sources": [],
+      "exact_mfn_declared_quantity": 0.0,
+      "active_mfn_aliases": [],
+      "active_fba_aliases": [],
+      "all_catalog_aliases": [
+        {
+          "sku": "AAAAACCUBE",
+          "status": "Incomplete",
+          "channel": "DEFAULT"
+        }
+      ],
+      "conflicting_fields": [
+        "item_classification"
+      ],
+      "same_asin_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "exact_sku_order_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      },
+      "safe_next_steps": [
+        "涉及base_product/目录分类与父子身份；先核商品身份，父子关系调整按家族暂缓。"
+      ],
+      "physical_evidence_needed": true,
+      "fields_not_written_by_12": [
+        "item_classification"
+      ],
+      "errors": [
+        {
+          "code": "8541",
+          "severity": "ERROR",
+          "marketplace": "US",
+          "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07QNL7N3W, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'item_classification' (Merchant [\"base_product\"] / Amazon []). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07QNL7N3W, then update your listing's 'item_classification' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+          "field": "Number of attributes with errors (B516)",
+          "count_or_sku": "AAAAACCUBE"
+        }
+      ]
+    }
+  ],
+  "compliance_blockers": [
+    {
+      "asin": "B0822QC8Z2",
+      "name": "CR012",
+      "blocked_by": "冻结面板要求ps_toys_dv_us真实合规文件，当前已有证据为非在售。",
+      "evidence": [
+        "cr012-freeze-reason.txt:998-1004",
+        "v4-receipt-repair-plan.json (100390/100477)"
+      ],
+      "prepare": [
+        "与实际商品及ASIN对应的型号、包装/标签照片、制造商身份信息",
+        "已存在且真实的检测或合规文件；具体文档类别以对应合规入口的请求为准，现有证据未列全清单"
+      ],
+      "do_not": "不以改标题代替合规文件，不生成或编造检测证书。",
+      "catalog_offers": [
+        {
+          "item-name": "4A Coloring Roll, Cute Design Patterns, Self-Stick Continuous Coloring Paper, 30 x 500 cm/Roll, 2 Rolls/Box, Great for Family Time, Adults, Kids, Classrooms, Christmas Gifts, 4A CR 012",
+          "item-description": "Coloring Roll, Cute Design Patterns, Self-Stick Continuous Coloring Paper, 30 x 500 cm/Roll, 2 Rolls/Box, Great for Family Time, Adults, Kids, Classrooms, Christmas Gifts",
+          "listing-id": "1127VT425A3",
+          "seller-sku": "4A GMSCCR 012",
+          "price": "14.99",
+          "quantity": "140",
+          "open-date": "2019-11-27 02:48:20 PST",
+          "image-url": "",
+          "item-is-marketplace": "y",
+          "product-id-type": "1",
+          "zshop-shipping-fee": "",
+          "item-note": "",
+          "item-condition": "11",
+          "zshop-category1": "",
+          "zshop-browse-path": "",
+          "zshop-storefront-feature": "",
+          "asin1": "B0822QC8Z2",
+          "asin2": "",
+          "asin3": "",
+          "will-ship-internationally": "",
+          "expedited-shipping": "",
+          "zshop-boldface": "",
+          "product-id": "B0822QC8Z2",
+          "bid-for-featured-placement": "",
+          "add-delete": "",
+          "pending-quantity": "0",
+          "fulfillment-channel": "DEFAULT",
+          "merchant-shipping-group": "Migrated Template",
+          "status": "Inactive"
+        },
+        {
+          "item-name": "4A Coloring Roll, Cute Design Patterns, Self-Stick Continuous Coloring Paper, 30 x 500 cm/Roll, 2 Rolls/Box, Great for Family Time, Adults, Kids, Classrooms, Christmas Gifts, 4A CR 012",
+          "item-description": "Coloring Roll, Cute Design Patterns, Self-Stick Continuous Coloring Paper, 30 x 500 cm/Roll, 2 Rolls/Box, Great for Family Time, Adults, Kids, Classrooms, Christmas Gifts",
+          "listing-id": "1127VT1UBRN",
+          "seller-sku": "4A SCCR 012",
+          "price": "14.99",
+          "quantity": "",
+          "open-date": "2019-11-27 02:32:36 PST",
+          "image-url": "",
+          "item-is-marketplace": "y",
+          "product-id-type": "3",
+          "zshop-shipping-fee": "",
+          "item-note": "",
+          "item-condition": "11",
+          "zshop-category1": "",
+          "zshop-browse-path": "",
+          "zshop-storefront-feature": "",
+          "asin1": "B0822QC8Z2",
+          "asin2": "",
+          "asin3": "",
+          "will-ship-internationally": "",
+          "expedited-shipping": "",
+          "zshop-boldface": "",
+          "product-id": "702877126813",
+          "bid-for-featured-placement": "",
+          "add-delete": "",
+          "pending-quantity": "",
+          "fulfillment-channel": "AMAZON_NA",
+          "merchant-shipping-group": "Migrated Template",
+          "status": "Inactive"
+        }
+      ],
+      "stock_snapshot": {
+        "inventory_group": "无可售库存或零库存草稿（已有快照）",
+        "exact_sku_present_in_11_01_report": true,
+        "listing_status": "Inactive",
+        "offer_channel": "DEFAULT",
+        "exact_fba_available": null,
+        "same_asin_fba_available": 0,
+        "fba_sources": [
+          "2026-10-30 FBA inventory"
+        ],
+        "exact_mfn_declared_quantity": 140.0,
+        "active_mfn_aliases": [],
+        "active_fba_aliases": [],
+        "all_catalog_aliases": [
+          {
+            "sku": "4A GMSCCR 012",
+            "status": "Inactive",
+            "channel": "DEFAULT"
+          },
+          {
+            "sku": "4A SCCR 012",
+            "status": "Inactive",
+            "channel": "AMAZON_NA"
+          }
+        ]
+      },
+      "orders_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      }
+    },
+    {
+      "asin": "B01N0R4QI8",
+      "name": "305Y",
+      "blocked_by": "12回执18370：Trademark on Product Detail Page；4A 305x6-Y另有13013。",
+      "evidence": [
+        "12-processing-receipt-audit.json",
+        "root-final-305y.txt"
+      ],
+      "prepare": [
+        "原始商品/包装照片与品牌、型号、UPC对应证据",
+        "若已有，商标权属、授权或供应链来源凭证",
+        "对应绩效/侵权通知全文，确认被指向的商标和具体内容；现有回执未给权利人明细"
+      ],
+      "do_not": "不直接认定侵权成立，不代写/提交申诉，不猜测权利人或授权。",
+      "catalog_offers": [
+        {
+          "item-name": "4A Sticky Notes,3 x 5 Inches,Canary Yellow,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 305x6-Y",
+          "item-description": "yellow sticky notes, yellow sticky notes 3x5, yellow sticky note pads, yellow self-stick note pads, yellow note pads",
+          "listing-id": "1128USOYKQD",
+          "seller-sku": "4A 305 x 6-Y",
+          "price": "11.99",
+          "quantity": "",
+          "open-date": "2018-11-27 22:36:12 PST",
+          "image-url": "",
+          "item-is-marketplace": "y",
+          "product-id-type": "1",
+          "zshop-shipping-fee": "",
+          "item-note": "",
+          "item-condition": "11",
+          "zshop-category1": "",
+          "zshop-browse-path": "",
+          "zshop-storefront-feature": "",
+          "asin1": "B01N0R4QI8",
+          "asin2": "",
+          "asin3": "",
+          "will-ship-internationally": "",
+          "expedited-shipping": "",
+          "zshop-boldface": "",
+          "product-id": "B01N0R4QI8",
+          "bid-for-featured-placement": "",
+          "add-delete": "",
+          "pending-quantity": "",
+          "fulfillment-channel": "AMAZON_NA",
+          "merchant-shipping-group": "Migrated Template",
+          "status": "Inactive"
+        },
+        {
+          "item-name": "4A Sticky Notes,3 x 5 Inches,Canary Yellow,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 305x6-Y",
+          "item-description": "yellow sticky notes, yellow sticky notes 3x5, yellow sticky note pads, yellow self-stick note pads, yellow note pads",
+          "listing-id": "0228UFKVPM9",
+          "seller-sku": "4A 305x6-Y",
+          "price": "5.99",
+          "quantity": "457",
+          "open-date": "2018-02-27 19:50:12 PST",
+          "image-url": "",
+          "item-is-marketplace": "y",
+          "product-id-type": "3",
+          "zshop-shipping-fee": "",
+          "item-note": "",
+          "item-condition": "11",
+          "zshop-category1": "",
+          "zshop-browse-path": "",
+          "zshop-storefront-feature": "",
+          "asin1": "B01N0R4QI8",
+          "asin2": "",
+          "asin3": "",
+          "will-ship-internationally": "",
+          "expedited-shipping": "",
+          "zshop-boldface": "",
+          "product-id": "702877118849",
+          "bid-for-featured-placement": "",
+          "add-delete": "",
+          "pending-quantity": "0",
+          "fulfillment-channel": "DEFAULT",
+          "merchant-shipping-group": "Migrated Template",
+          "status": "Inactive"
+        }
+      ],
+      "stock_snapshot": {
+        "inventory_group": "无可售库存或零库存草稿（已有快照）",
+        "exact_sku_present_in_11_01_report": true,
+        "listing_status": "Inactive",
+        "offer_channel": "AMAZON_NA",
+        "exact_fba_available": 0,
+        "same_asin_fba_available": 0,
+        "fba_sources": [
+          "2026-10-30 FBA inventory"
+        ],
+        "exact_mfn_declared_quantity": null,
+        "active_mfn_aliases": [],
+        "active_fba_aliases": [],
+        "all_catalog_aliases": [
+          {
+            "sku": "4A 305 x 6-Y",
+            "status": "Inactive",
+            "channel": "AMAZON_NA"
+          },
+          {
+            "sku": "4A 305x6-Y",
+            "status": "Inactive",
+            "channel": "DEFAULT"
+          }
+        ]
+      },
+      "orders_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      }
+    },
+    {
+      "asin": "B01MEBRJQE",
+      "name": "024",
+      "blocked_by": "12回执100227版权提示、19083商品商标提示、19084其他限制；两SKU共用同ASIN。",
+      "evidence": [
+        "12-processing-receipt-audit.json",
+        "cr012-freeze-reason.txt (同列表024非在售记录)"
+      ],
+      "prepare": [
+        "原始商品/包装照片、原图/图案设计来源或授权证明",
+        "品牌/商标授权及采购凭证（如确有）",
+        "版权/商标绩效通知全文与对应被投诉内容，逐项区分处理"
+      ],
+      "do_not": "不通过换SKU/换页绕开限制，不提交未经核实的权属声明。",
+      "catalog_offers": [
+        {
+          "item-name": "4A Sticky Notes,3 x 3 Inches,Canary Yellow,Self-Stick Notes,100 Sheets/Pad, 24 Pads/Box,4A 303x24-Y",
+          "item-description": "yellow sticky notes, yellow sticky notes 3x3, yellow sticky note pads, yellow self-stick note pads, yellow note pads",
+          "listing-id": "0306U2V28ML",
+          "seller-sku": "4A 024",
+          "price": "15.99",
+          "quantity": "0",
+          "open-date": "2018-03-05 18:20:31 PST",
+          "image-url": "",
+          "item-is-marketplace": "y",
+          "product-id-type": "3",
+          "zshop-shipping-fee": "",
+          "item-note": "",
+          "item-condition": "11",
+          "zshop-category1": "",
+          "zshop-browse-path": "",
+          "zshop-storefront-feature": "",
+          "asin1": "B01MEBRJQE",
+          "asin2": "",
+          "asin3": "",
+          "will-ship-internationally": "",
+          "expedited-shipping": "",
+          "zshop-boldface": "",
+          "product-id": "702877118832",
+          "bid-for-featured-placement": "",
+          "add-delete": "",
+          "pending-quantity": "0",
+          "fulfillment-channel": "DEFAULT",
+          "merchant-shipping-group": "Migrated Template",
+          "status": "Inactive"
+        },
+        {
+          "item-name": "4A Sticky Notes,3 x 3 Inches,Canary Yellow,Self-Stick Notes,100 Sheets/Pad, 24 Pads/Box,4A 303x24-Y",
+          "item-description": "yellow sticky notes, yellow sticky notes 3x3, yellow sticky note pads, yellow self-stick note pads, yellow note pads",
+          "listing-id": "0417UVAFC13",
+          "seller-sku": "4A 303 x 24-Y",
+          "price": "13.99",
+          "quantity": "",
+          "open-date": "2018-04-16 20:03:44 PDT",
+          "image-url": "",
+          "item-is-marketplace": "y",
+          "product-id-type": "1",
+          "zshop-shipping-fee": "",
+          "item-note": "",
+          "item-condition": "11",
+          "zshop-category1": "",
+          "zshop-browse-path": "",
+          "zshop-storefront-feature": "",
+          "asin1": "B01MEBRJQE",
+          "asin2": "",
+          "asin3": "",
+          "will-ship-internationally": "",
+          "expedited-shipping": "",
+          "zshop-boldface": "",
+          "product-id": "B01MEBRJQE",
+          "bid-for-featured-placement": "",
+          "add-delete": "",
+          "pending-quantity": "",
+          "fulfillment-channel": "AMAZON_NA",
+          "merchant-shipping-group": "Migrated Template",
+          "status": "Inactive"
+        },
+        {
+          "item-name": "",
+          "item-description": "4A 24 Pads Sticky Notes 3 x 3 in, Canary Yellow, Yellow Sticky Notes Self-Stick Note Pads for Office School Supplies,100 Sheets/Pad,24 Pads, 2400 Sheets, 4A 303x24-Y",
+          "listing-id": "0228UFKVPI3",
+          "seller-sku": "4A 303x24-Y",
+          "price": "17.99",
+          "quantity": "0",
+          "open-date": "2018-02-27 19:50:12 PST",
+          "image-url": "",
+          "item-is-marketplace": "y",
+          "product-id-type": "3",
+          "zshop-shipping-fee": "",
+          "item-note": "",
+          "item-condition": "11",
+          "zshop-category1": "",
+          "zshop-browse-path": "",
+          "zshop-storefront-feature": "",
+          "asin1": "B01MEBRJQE",
+          "asin2": "",
+          "asin3": "",
+          "will-ship-internationally": "",
+          "expedited-shipping": "",
+          "zshop-boldface": "",
+          "product-id": "702877118832",
+          "bid-for-featured-placement": "",
+          "add-delete": "",
+          "pending-quantity": "0",
+          "fulfillment-channel": "DEFAULT",
+          "merchant-shipping-group": "Migrated Template",
+          "status": "Inactive"
+        }
+      ],
+      "stock_snapshot": {
+        "inventory_group": "无可售库存或零库存草稿（已有快照）",
+        "exact_sku_present_in_11_01_report": true,
+        "listing_status": "Inactive",
+        "offer_channel": "DEFAULT",
+        "exact_fba_available": null,
+        "same_asin_fba_available": 0,
+        "fba_sources": [
+          "2026-10-30 FBA inventory"
+        ],
+        "exact_mfn_declared_quantity": 0.0,
+        "active_mfn_aliases": [],
+        "active_fba_aliases": [],
+        "all_catalog_aliases": [
+          {
+            "sku": "4A 024",
+            "status": "Inactive",
+            "channel": "DEFAULT"
+          },
+          {
+            "sku": "4A 303 x 24-Y",
+            "status": "Inactive",
+            "channel": "AMAZON_NA"
+          },
+          {
+            "sku": "4A 303x24-Y",
+            "status": "Inactive",
+            "channel": "DEFAULT"
+          }
+        ]
+      },
+      "orders_snapshot": {
+        "valid_nonpending_orders": 0,
+        "units": 0,
+        "gross_item_usd": 0,
+        "pending_orders": 0,
+        "cancelled_orders": 0,
+        "latest_valid_purchase": null
+      }
+    }
+  ],
+  "root_exclusive_untouched": [
+    "4A 0146 recommended uses",
+    "4A 6035x2 unit count"
+  ]
+}

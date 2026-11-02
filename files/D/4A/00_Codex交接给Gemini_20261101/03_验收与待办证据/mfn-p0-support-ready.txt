@@ -1,0 +1,25 @@
+Subject: Active MFN offer unavailable in NY 10001; shipping displays $1,000,001 — 4A GM406SL-10
+
+Amazon.com US — 4A (USA) LIMITED
+Affected SKU: 4A GM406SL-10
+ASIN: B07RP85C2P
+
+Please investigate this offer's shipping quote and buyability for New York 10001.
+
+Current observations:
+- Manage All Inventory shows Active, MFN, 466 units, item price $17.49, and shipping of $1,000,001. Featured Offer and lowest-price fields are blank.
+- The buyer page for New York 10001 shows currently unavailable/out of stock. We are not claiming that buyers are actually charged $1,000,001.
+- The affected offer uses the Heavy delivery template, New condition, and no Sale price, price limits, restock date, or future release date. Catalog package weight is 1.066 kg. Seller weight/dimension and handling-time input fields are blank.
+- A current control offer, SKU 4A GM608SL-5 / ASIN B07RN7W756, is Active MFN with 106 units, item price $18.99, and shipping $26.35. It uses the identical Heavy delivery template, similar catalog weight of 1.061 kg, and the same blank seller weight/dimension/handling-time input fields.
+- Both rows link to shipping-template ID 9f2cd5aa-5103-4b7b-bdba-becbf955256d. Its saved mainland standard rate is $9.99 per order plus $6.99 per lb, with New York covered and Shipping Settings Automation enabled.
+- Seller-Fulfilled Inventory shows the affected SKU in the default warehouse, quantity 466, effective handling time 1 day, and no restock date.
+- One same-value re-save of this SKU's existing Heavy template association was already attempted without fixing the quote. Shared rates, prices, stock and weights were not changed.
+
+Please provide:
+1. The offer's buyability/suppression reason and shipping-quote failure code for NY 10001.
+2. The shipping-template association, origin/automation route and package weight actually resolved by the quote service, compared with the working control SKU.
+3. Whether 1000001 is an unavailable-quote fallback, and the exact field or association that needs correction.
+
+Please diagnose the cause before proposing rate or weight changes. A blank seller weight input alone does not explain this difference because the working control has the same blank input.
+
+Evidence available: affected inventory screenshot, buyer-page screenshot for NY 10001, both offer-field snapshots, and the current Heavy template rate/coverage record.

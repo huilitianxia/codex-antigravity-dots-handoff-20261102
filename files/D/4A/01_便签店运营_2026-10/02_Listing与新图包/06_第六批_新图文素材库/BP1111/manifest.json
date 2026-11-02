@@ -1,0 +1,240 @@
+{
+  "sku": "4A BP 1111-Px4",
+  "asin": "B07QZR9Z3P",
+  "spec": "11 × 11 in · 4 pastel pads × 30 sheets · 120 sheets",
+  "checked_at": "2026-10-31 Asia/Shanghai",
+  "catalog_url": "https://www.amazon.com/dp/B07QZR9Z3P",
+  "catalog_correction": "标题、五点、原包装及总表一致为11×11英寸、粉黄蓝绿4本×30=120张；当前尺寸属性出现12 Pads Pack (Pack 14)与其冲突，未采用。面积比121/9≈13.44，成图约13.4×，不写14倍。无80GSM、零透墨、永久不翘或保证退款承诺。",
+  "workbook_source": {
+    "file": "C:/Users/24243/Documents/Codex/2026-08-11/7-30-slack-plugin-slack-openai/4A_Amazon_Operations/source_workbooks/亚马逊供应商和开店总表-2026 (1).xlsx",
+    "sheet": "Sheet1",
+    "range": "A160:G160"
+  },
+  "reference_files": [
+    {
+      "original": "D:/4A/印刷用图片/电商/亚马逊图片-2021/12----4A Big Pad/4A BP 1111-Px4/702877124536.pt02.jpg",
+      "copy": "原图参考/01_702877124536.pt02.jpg",
+      "sha256": "dada198b7b448aaea9bc237ff72a462194c467f52007f05b65a7d914c5966a68"
+    },
+    {
+      "original": "D:/4A/印刷用图片/电商/亚马逊图片-2021/12----4A Big Pad/4A BP 1111-Px4/702877124536.main.jpg",
+      "copy": "原图参考/02_702877124536.main.jpg",
+      "sha256": "181250662455917dd2f3d937e152780509d64c1b02b76c705a1cfae6c7d7cf1c"
+    },
+    {
+      "original": "E:/Desktop/待上架_新图文素材库_第六批/_核验依据/B07QZR9Z3P_MAIN.jpg",
+      "copy": "原图参考/03_B07QZR9Z3P_MAIN.jpg",
+      "sha256": "9aa85d3befc9c212085405f35ca77ee3c91a1f45d9d4a77417526d3323a16f76"
+    }
+  ],
+  "images": [
+    {
+      "id": "BP1111_01",
+      "title": "主图｜四本11×11粉彩便签",
+      "type": "main",
+      "order": 1,
+      "sku": "4A BP 1111-Px4",
+      "asin": "B07QZR9Z3P",
+      "file": "交付候选_2000px/BP1111_01.png",
+      "jpg": "ASIN命名JPG_交付候选/B07QZR9Z3P.MAIN.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/BP1111_01.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-c15ee73b-1c2c-4122-be64-c871bcf0ed75.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "new_imagegen",
+      "processing": "透明源稿按alpha居中，Lanczos3等比缩放，合成RGB255白底",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "四本粉彩大正方形便签，30张的薄本层次，无额外道具。",
+      "remaining_checks": "纸厚和实际色值需核样；画面没有标称80GSM。",
+      "technical": {
+        "background_rgb": [
+          255,
+          255,
+          255
+        ],
+        "border60": {
+          "checked_pixels": 465600,
+          "exact_white_pixels": 465600,
+          "pass": true
+        },
+        "safety_margins_including_shadow": [
+          67,
+          73,
+          67,
+          73
+        ],
+        "margin_pass": true,
+        "product_longest_span_percent": 89.5,
+        "occupancy_pass": true,
+        "occupancy_definition": "alpha>230近似实体外接框最长边/2000，非面积占比；透明壳和阴影另行目视检查。",
+        "jpg_border60": {
+          "checked_pixels": 465600,
+          "exact_white_pixels": 465600,
+          "pass": true
+        }
+      },
+      "png_sha256": "c4c5bb7f843c33b083009c82ee91171f6efcc27aa543ea3635a929fb2daa3e88",
+      "jpg_sha256": "a0eafe4b0eadfa4103ce81cd10fd8d1a5636bb1c2843a9b0c92817a0ccae6d3f"
+    },
+    {
+      "id": "BP1111_02",
+      "title": "精确尺寸与13.4倍面积对比",
+      "type": "secondary",
+      "order": 2,
+      "sku": "4A BP 1111-Px4",
+      "asin": "B07QZR9Z3P",
+      "file": "交付候选_2000px/BP1111_02.png",
+      "jpg": "ASIN命名JPG_交付候选/B07QZR9Z3P.PT01.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/BP1111_02_exact.svg",
+      "original_source": null,
+      "source_pixels": [
+        2000,
+        2000
+      ],
+      "kind": "svg",
+      "processing": "原生2000×2000 SVG生成PNG；规格/胶面示意，保留可编辑SVG",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "1100px与300px正方形同用100px/in；121÷9≈13.44，标约13.4倍纸面面积。",
+      "remaining_checks": "3×3仅作对比并注明不包含；不是边长或张数倍数。",
+      "technical": {
+        "paper_scale_px_per_in": 100,
+        "large_px": [
+          1100,
+          1100
+        ],
+        "reference_px": [
+          300,
+          300
+        ],
+        "large_in": [
+          11,
+          11
+        ],
+        "reference_in": [
+          3,
+          3
+        ],
+        "area_ratio": 13.444444444444445,
+        "pads": 4,
+        "total_sheets": 120
+      },
+      "png_sha256": "4eb9e560ab55beaef1dc050ba929e43b479791abe94c1f5285b447d7189de976",
+      "jpg_sha256": "10f21c2f8b77e6edaea379f8ce53bf8fac28cd3e6572dfb51371dbd0e4a2b080"
+    },
+    {
+      "id": "BP1111_03",
+      "title": "贴板与大纸面书写",
+      "type": "secondary",
+      "order": 3,
+      "sku": "4A BP 1111-Px4",
+      "asin": "B07QZR9Z3P",
+      "file": "交付候选_2000px/BP1111_03.png",
+      "jpg": "ASIN命名JPG_交付候选/B07QZR9Z3P.PT02.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/BP1111_03.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-1e00d3a2-e32d-4dc1-9e54-6f04b4849ffc.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "new_imagegen",
+      "processing": "内置imagegen生成/返修稿等比插值至2000px，未声称恢复实拍细节",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "单张贴板与大纸面书写，无零透墨或无残胶测试宣称。",
+      "remaining_checks": "相对手部尺度及实际表面适配须核样。",
+      "technical": {},
+      "png_sha256": "25d0be2c11e15b41329d012d8cc23794d17ea8a14a64e8fc3db67e96081af985",
+      "jpg_sha256": "0e3915b79a12a6301f6355ef20df0d500cbdb1571abbb84fcb4dfc50a4bc0ad8"
+    },
+    {
+      "id": "BP1111_04",
+      "title": "团队看板与头脑风暴",
+      "type": "secondary",
+      "order": 4,
+      "sku": "4A BP 1111-Px4",
+      "asin": "B07QZR9Z3P",
+      "file": "交付候选_2000px/BP1111_04.png",
+      "jpg": "ASIN命名JPG_交付候选/B07QZR9Z3P.PT03.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/BP1111_04.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-d5b979bc-bc90-4a93-ae99-a57d490171af.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "new_imagegen",
+      "processing": "内置imagegen生成/返修稿等比插值至2000px，未声称恢复实拍细节",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "六张单纸组成看板，粉彩与11×11大幅面一致，无整本贴墙。",
+      "remaining_checks": "手写为用途示例；场景大小不是测量证明。",
+      "technical": {},
+      "png_sha256": "fe73ee004c792178644eb812cf7af6ff847760a2be9c8f0554dbb61ab1a7adfb",
+      "jpg_sha256": "2e35c7c40d77a1fa1cedecd9235345d461ce60aa55174a0470fbd1c3fbc10fcc"
+    },
+    {
+      "id": "BP1111_05",
+      "title": "四种用途与120张容量",
+      "type": "secondary",
+      "order": 5,
+      "sku": "4A BP 1111-Px4",
+      "asin": "B07QZR9Z3P",
+      "file": "交付候选_2000px/BP1111_05.png",
+      "jpg": "ASIN命名JPG_交付候选/B07QZR9Z3P.PT04.jpg",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "source": "生成源图/BP1111_05.png",
+      "original_source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-2dc04852-190f-4c7f-9d09-0aa79d2cb856.png",
+      "source_pixels": [
+        1254,
+        1254
+      ],
+      "kind": "new_imagegen",
+      "processing": "内置imagegen生成/返修稿等比插值至2000px，未声称恢复实拍细节",
+      "status": "final_candidate",
+      "status_zh": "交付候选",
+      "approved_for_upload": false,
+      "approved_for_automation": false,
+      "physical_sample_verified": false,
+      "design_review": "四种场景与4本×30=120张文案清楚；没有耐水或环保认证徽标。",
+      "remaining_checks": "无透墨、重复粘性或各种表面贴附实测保证。",
+      "technical": {},
+      "png_sha256": "cf0425ab35c7282311f56254800554b1161f3d8358efbc4ceca7dac9200bf823",
+      "jpg_sha256": "7d2c7791c823495598fd435d544b8b464d1478623d931d7e6e347f22bbb551a3"
+    }
+  ],
+  "note": "设计检查不等于实物核样或Amazon批准。原始素材及前五批不改动。"
+}

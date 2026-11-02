@@ -1,0 +1,97 @@
+{
+  "duration": 30,
+  "frames": 720,
+  "fps": 24,
+  "shots": [
+    {
+      "scene": "brand-intro",
+      "name": "4A crown",
+      "start": 0,
+      "duration": 1.75,
+      "frames": 42,
+      "rate": 1,
+      "headline": "Color your everyday.",
+      "source_offset": 0
+    },
+    {
+      "scene": "s01",
+      "name": "hero",
+      "start": 1.75,
+      "duration": 4.416666666666667,
+      "frames": 106,
+      "rate": 0.45,
+      "headline": "Small-size Sticky Notes",
+      "source_offset": 0
+    },
+    {
+      "scene": "s02",
+      "name": "colors",
+      "start": 6.166666666666667,
+      "duration": 3.25,
+      "frames": 78,
+      "rate": 1,
+      "headline": "18 colors. Pick yours.",
+      "source_offset": 0
+    },
+    {
+      "scene": "s03",
+      "name": "write",
+      "start": 9.416666666666668,
+      "duration": 3.5833333333333335,
+      "frames": 86,
+      "rate": 1,
+      "headline": "Write it down.",
+      "source_offset": 0
+    },
+    {
+      "scene": "s04",
+      "name": "office",
+      "start": 13.000000000000002,
+      "duration": 2.5833333333333335,
+      "frames": 62,
+      "rate": 1,
+      "headline": "Keep priorities in sight.",
+      "source_offset": 0.35
+    },
+    {
+      "scene": "s05",
+      "name": "move",
+      "start": 15.583333333333336,
+      "duration": 3.9166666666666665,
+      "frames": 94,
+      "rate": 1.6212765957446809,
+      "headline": "Re-stick. Reorganize.",
+      "source_offset": 0
+    },
+    {
+      "scene": "s06",
+      "name": "wall",
+      "start": 19.500000000000004,
+      "duration": 2.75,
+      "frames": 66,
+      "rate": 1,
+      "headline": "Color-code your day.",
+      "source_offset": 0.2
+    },
+    {
+      "scene": "s08",
+      "name": "notebook",
+      "start": 22.250000000000004,
+      "duration": 2.9166666666666665,
+      "frames": 70,
+      "rate": 1,
+      "headline": "Make room for ideas.",
+      "source_offset": 0.15
+    },
+    {
+      "scene": "s09",
+      "name": "closing",
+      "start": 25.16666666666667,
+      "duration": 4.833333333333333,
+      "frames": 116,
+      "rate": 1,
+      "headline": "",
+      "source_offset": 0
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "key": "608NL210_03_v2",
+    "parent": "608NL210_03",
+    "refs": [
+      "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-45552e87-eeb9-4cfb-8c8f-bea8d368d241.png"
+    ],
+    "transparent": false,
+    "prompt": "Precise local color edit of the first image. Keep composition, paper geometry, both pens, all English heading/subtitle/footer, handwriting, lighting and shadows unchanged. Correct only the color order of the seven contiguous paper bands on EVERY visible edge of the single pad. The exact top-to-bottom order MUST be: 1 YELLOW top; 2 pale CORAL/PEACH; 3 HOT PINK; 4 PURPLE; 5 ORANGE; 6 LIME GREEN; 7 BLUE bottom. Exactly seven bands, each color occurs once, consistent across left and front edge. Retain realistic thin sheet texture, do not split into separate pads. No other changes.",
+    "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-eb9de28e-31e1-483a-9f1f-bdaafaf9a111.png"
+  },
+  {
+    "key": "608NL210_04_v2",
+    "parent": "608NL210_04",
+    "refs": [
+      "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-323019dc-126c-43a8-86e0-2d779f84ad4f.png"
+    ],
+    "transparent": false,
+    "prompt": "Precise edit of this exact two-note graphic. The yellow and blue objects currently have pad-like thick edges. Change only their thickness: each must be one single paper-thin loose sheet lying perfectly flat on the white desk, no stack, no pad underneath, no thick yellow or blue bottom edge, almost invisible paper edge and only a very fine contact shadow. Preserve the landscape8x6 proportions, ruling, handwriting, all English headlines/labels, pen, positions and lighting. Return the same square composition.",
+    "source": "E:\\OpenAI-Codex\\CodexHome\\generated_images\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\exec-d296c428-30f3-41d3-8982-0c017d373db7.png"
+  }
+]
