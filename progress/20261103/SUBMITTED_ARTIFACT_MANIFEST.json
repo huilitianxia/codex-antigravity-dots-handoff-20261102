@@ -1,5 +1,5 @@
 {
-  "asof_beijing": "2026-11-03T00:28:00+08:00",
+  "asof_beijing": "2026-11-03T00:50:00+08:00",
   "records": [
     {
       "batch_id": "285584020759",
@@ -223,5 +223,6 @@
     }
   ],
   "binary_status": "Manifestonly; noXLSX/XLSMbinaryincluded",
-  "warning": "Submitted accepted doesnot byitselfproveactualcatalogstate. Historicalfailures remain; latestprogressJSON reconciles currentactual."
+  "warning": "Submitted accepted doesnot byitselfproveactualcatalogstate. Historicalfailures remain; latestprogressJSON reconciles currentactual.",
+  "current_progress_note": "B17 UI offer active andpoolverified00:33; B18 UIofferinactivehighprice, single7.20testreturned saved00:48but reloadstill8.99inactive. These areUIoperations, notnewXLSXbatches. See currentprogressJSON; no repeatcreate/deduction/furtherpricecut."
 }
