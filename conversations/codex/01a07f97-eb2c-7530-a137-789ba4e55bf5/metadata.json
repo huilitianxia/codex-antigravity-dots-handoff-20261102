@@ -1,0 +1,41 @@
+{
+  "platform": "Codex",
+  "id": "01a07f97-eb2c-7530-a137-789ba4e55bf5",
+  "title": "4A 30315 product video",
+  "selected_user_turn_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "counts": {
+    "userMessage": 8,
+    "agentMessage": 29,
+    "webSearch": 8,
+    "commandExecution": 94,
+    "fileChange": 33,
+    "imageView": 84,
+    "mcpToolCall": 4
+  },
+  "activity_files": [
+    "conversations/codex/01a07f97-eb2c-7530-a137-789ba4e55bf5/activity-001.jsonl"
+  ],
+  "chat_files": [
+    "conversations/codex/01a07f97-eb2c-7530-a137-789ba4e55bf5/chat-001.md"
+  ],
+  "source": "local public conversation export",
+  "source_turn_ids": [
+    "01a07f97-eca7-7081-88ad-ead83b14b641",
+    "01a08044-93bc-7502-ae00-85df3729ca50",
+    "01a08058-18e9-7ec2-a8cf-09b783baef38",
+    "01a081c3-39cd-7ac0-b718-336cf1b06aac",
+    "01a081f8-528e-78d1-a360-cf83a5317e8b",
+    "01a08225-f919-70e1-91dd-0062786c5422",
+    "01a0843d-da61-76b3-87b6-e455388b725c",
+    "01a0c4c5-616e-7371-8d4b-19cbcde16716"
+  ]
+}

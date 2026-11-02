@@ -1,0 +1,36 @@
+{
+  "platform": "Codex",
+  "id": "01a19374-f21d-7140-b9a9-1a2851bff0f2",
+  "title": "4A operations audit agent",
+  "selected_user_turn_numbers": "business agent activity",
+  "counts": {
+    "commandExecution": 308,
+    "mcpToolCall": 581,
+    "subAgentActivity": 162,
+    "agentMessage": 31,
+    "fileChange": 42,
+    "webSearch": 5,
+    "imageView": 23,
+    "collabAgentToolCall": 24
+  },
+  "activity_files": [
+    "conversations/codex/01a19374-f21d-7140-b9a9-1a2851bff0f2/activity-001.jsonl",
+    "conversations/codex/01a19374-f21d-7140-b9a9-1a2851bff0f2/activity-002.jsonl",
+    "conversations/codex/01a19374-f21d-7140-b9a9-1a2851bff0f2/activity-003.jsonl",
+    "conversations/codex/01a19374-f21d-7140-b9a9-1a2851bff0f2/activity-004.jsonl",
+    "conversations/codex/01a19374-f21d-7140-b9a9-1a2851bff0f2/activity-005.jsonl",
+    "conversations/codex/01a19374-f21d-7140-b9a9-1a2851bff0f2/activity-006.jsonl",
+    "conversations/codex/01a19374-f21d-7140-b9a9-1a2851bff0f2/activity-007.jsonl",
+    "conversations/codex/01a19374-f21d-7140-b9a9-1a2851bff0f2/activity-008.jsonl",
+    "conversations/codex/01a19374-f21d-7140-b9a9-1a2851bff0f2/activity-009.jsonl",
+    "conversations/codex/01a19374-f21d-7140-b9a9-1a2851bff0f2/activity-010.jsonl",
+    "conversations/codex/01a19374-f21d-7140-b9a9-1a2851bff0f2/activity-011.jsonl",
+    "conversations/codex/01a19374-f21d-7140-b9a9-1a2851bff0f2/activity-012.jsonl",
+    "conversations/codex/01a19374-f21d-7140-b9a9-1a2851bff0f2/activity-013.jsonl"
+  ],
+  "chat_files": [
+    "conversations/codex/01a19374-f21d-7140-b9a9-1a2851bff0f2/chat-001.md"
+  ],
+  "source": "local public conversation export",
+  "source_turn_ids": null
+}

@@ -1,0 +1,121 @@
+[
+  {
+    "id": "019ff179-ce00-7621-9ae6-13daf0989ce8",
+    "source_sha256": "a430b7e780585bcf0ec52b6708cd76d9d72e3686df2d35b49468f8c44be75f0f",
+    "source_lines": 6299,
+    "selected_public_events": 1596,
+    "files": [
+      "conversations/codex-events/019ff179-ce00-7621-9ae6-13daf0989ce8/events-001.jsonl",
+      "conversations/codex-events/019ff179-ce00-7621-9ae6-13daf0989ce8/events-002.jsonl",
+      "conversations/codex-events/019ff179-ce00-7621-9ae6-13daf0989ce8/events-003.jsonl"
+    ],
+    "note": "Raw companion includes unambiguously business turns; selected portions of mixed steered turns remain in the canonical activity export."
+  },
+  {
+    "id": "01a01e93-2c04-78f3-9f43-802582f76d8d",
+    "source_sha256": "cd86227ae979ca2646cb18b9c8ae20ae05e2e1a79ce24762f5463f3982ac42de",
+    "source_lines": 112,
+    "selected_public_events": 32,
+    "files": [
+      "conversations/codex-events/01a01e93-2c04-78f3-9f43-802582f76d8d/events-001.jsonl"
+    ],
+    "note": "Raw companion includes unambiguously business turns; selected portions of mixed steered turns remain in the canonical activity export."
+  },
+  {
+    "id": "01a01ed8-d68f-7420-9232-c0a861b702db",
+    "source_sha256": "bd50ac9e35b786ebd43408dd08e5669a732ab67c325416e075a919ed06c92e86",
+    "source_lines": 3848,
+    "selected_public_events": 1104,
+    "files": [
+      "conversations/codex-events/01a01ed8-d68f-7420-9232-c0a861b702db/events-001.jsonl",
+      "conversations/codex-events/01a01ed8-d68f-7420-9232-c0a861b702db/events-002.jsonl"
+    ],
+    "note": "Raw companion includes unambiguously business turns; selected portions of mixed steered turns remain in the canonical activity export."
+  },
+  {
+    "id": "01a047ad-2b91-7642-96d2-9372bfa85b38",
+    "source_sha256": "1f4911cd3948700eb8475f84be6cf08840b0736cf52a339cdf2ae9cfab448454",
+    "source_lines": 3470,
+    "selected_public_events": 851,
+    "files": [
+      "conversations/codex-events/01a047ad-2b91-7642-96d2-9372bfa85b38/events-001.jsonl",
+      "conversations/codex-events/01a047ad-2b91-7642-96d2-9372bfa85b38/events-002.jsonl",
+      "conversations/codex-events/01a047ad-2b91-7642-96d2-9372bfa85b38/events-003.jsonl"
+    ],
+    "note": "Raw companion includes unambiguously business turns; selected portions of mixed steered turns remain in the canonical activity export."
+  },
+  {
+    "id": "01a07f97-eb2c-7530-a137-789ba4e55bf5",
+    "source_sha256": "15ca358cd987b59100f98e304331eece5de5297384fe019bdd6e026fda2941dc",
+    "source_lines": 1018,
+    "selected_public_events": 220,
+    "files": [
+      "conversations/codex-events/01a07f97-eb2c-7530-a137-789ba4e55bf5/events-001.jsonl"
+    ],
+    "note": "Raw companion includes unambiguously business turns; selected portions of mixed steered turns remain in the canonical activity export."
+  },
+  {
+    "id": "01a0c4c6-f82a-7551-9396-48baad5845c9",
+    "source_sha256": "af9f3c4696114a6626802992bd2f1ca99b686126675cca3233f62731d6898bf5",
+    "source_lines": 3684,
+    "selected_public_events": 834,
+    "files": [
+      "conversations/codex-events/01a0c4c6-f82a-7551-9396-48baad5845c9/events-001.jsonl",
+      "conversations/codex-events/01a0c4c6-f82a-7551-9396-48baad5845c9/events-002.jsonl"
+    ],
+    "note": "Raw companion includes unambiguously business turns; selected portions of mixed steered turns remain in the canonical activity export."
+  },
+  {
+    "id": "01a18a7c-7953-7b83-b51d-1a7f216ae7e1",
+    "source_sha256": "ecb51e015fdc134949eb1d3ccd8668593bfe62b023218ca196a425517feb7eb8",
+    "source_lines": 21316,
+    "selected_public_events": 5850,
+    "files": [
+      "conversations/codex-events/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/events-001.jsonl",
+      "conversations/codex-events/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/events-002.jsonl",
+      "conversations/codex-events/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/events-003.jsonl",
+      "conversations/codex-events/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/events-004.jsonl",
+      "conversations/codex-events/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/events-005.jsonl",
+      "conversations/codex-events/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/events-006.jsonl",
+      "conversations/codex-events/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/events-007.jsonl",
+      "conversations/codex-events/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/events-008.jsonl",
+      "conversations/codex-events/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/events-009.jsonl",
+      "conversations/codex-events/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/events-010.jsonl",
+      "conversations/codex-events/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/events-011.jsonl",
+      "conversations/codex-events/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/events-012.jsonl",
+      "conversations/codex-events/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/events-013.jsonl",
+      "conversations/codex-events/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/events-014.jsonl",
+      "conversations/codex-events/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/events-015.jsonl"
+    ],
+    "note": "Raw companion includes unambiguously business turns; selected portions of mixed steered turns remain in the canonical activity export."
+  },
+  {
+    "id": "01a19373-3461-7171-b27f-b778113fc8b2",
+    "source_sha256": "d3d1f3c63cb1ba956b83a517932f88d51b74d471a9717692e871f67526627862",
+    "source_lines": 6794,
+    "selected_public_events": 2171,
+    "files": [
+      "conversations/codex-events/01a19373-3461-7171-b27f-b778113fc8b2/events-001.jsonl",
+      "conversations/codex-events/01a19373-3461-7171-b27f-b778113fc8b2/events-002.jsonl",
+      "conversations/codex-events/01a19373-3461-7171-b27f-b778113fc8b2/events-003.jsonl",
+      "conversations/codex-events/01a19373-3461-7171-b27f-b778113fc8b2/events-004.jsonl",
+      "conversations/codex-events/01a19373-3461-7171-b27f-b778113fc8b2/events-005.jsonl"
+    ],
+    "note": "Raw companion includes unambiguously business turns; selected portions of mixed steered turns remain in the canonical activity export."
+  },
+  {
+    "id": "01a19374-f21d-7140-b9a9-1a2851bff0f2",
+    "source_sha256": "7ec08e15db322cca6fecb093baa137fc2e6fffd1c5eea7321b9a54794a195eb7",
+    "source_lines": 7342,
+    "selected_public_events": 2273,
+    "files": [
+      "conversations/codex-events/01a19374-f21d-7140-b9a9-1a2851bff0f2/events-001.jsonl",
+      "conversations/codex-events/01a19374-f21d-7140-b9a9-1a2851bff0f2/events-002.jsonl",
+      "conversations/codex-events/01a19374-f21d-7140-b9a9-1a2851bff0f2/events-003.jsonl",
+      "conversations/codex-events/01a19374-f21d-7140-b9a9-1a2851bff0f2/events-004.jsonl",
+      "conversations/codex-events/01a19374-f21d-7140-b9a9-1a2851bff0f2/events-005.jsonl",
+      "conversations/codex-events/01a19374-f21d-7140-b9a9-1a2851bff0f2/events-006.jsonl"
+    ],
+    "note": "Raw companion includes unambiguously business turns; selected portions of mixed steered turns remain in the canonical activity export."
+  }
+]

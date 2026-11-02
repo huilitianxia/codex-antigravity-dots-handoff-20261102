@@ -1,0 +1,8 @@
+{
+  "selected_public_ui_records": 114,
+  "cutoff_source": "final supplemental public event export",
+  "files": [
+    "conversations/codex-fbm-closure/events-001.jsonl"
+  ],
+  "rule": "Amazon browser operations and FBM evidence writes only after archive-scope steering; machine archive operations excluded."
+}
