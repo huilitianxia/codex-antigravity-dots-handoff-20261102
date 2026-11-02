@@ -1,5 +1,5 @@
 {
-  "status_asof_beijing": "2026-11-03T00:29:00+08:00",
+  "status_asof_beijing": "2026-11-03T00:50:00+08:00",
   "B_first_two": [
     {
       "B": 17,
@@ -14,23 +14,25 @@
       "source_fresh_quantity": 1623,
       "source_after_expected": 1613,
       "handling_time": 4,
-      "status": "TARGET_VALUES_PERSISTED_SOURCE_POOL_CORRECT_AWAIT_ACTIVE",
+      "status": "COMPLETE_INDEPENDENT_ACTIVE_AND_POOL_VERIFIED",
       "target_submitted_at_beijing": "2026-11-03T00:20:00+08:00",
       "target_submit_accepted": true,
-      "verified_complete": false,
-      "remaining_checks": [
-        "Actualtarget listing exists active10 and correct price/template/handling",
-        "Source eventual1613 or reconcileinterveningorders",
-        "TotalallocatedMFN1623 minus genuineorders; otherFBAunchanged"
-      ],
+      "verified_complete": true,
+      "remaining_checks": [],
       "source_after_actual": 1613,
       "target_quantity_actual": 10,
       "actual_pool_check": {
         "source": 1613,
-        "target_stored": 10,
+        "target_active": 10,
         "sum": 1623,
-        "matches_before": true,
-        "target_inventory_state": "00:25missingoffer0 pendingpropagation; actualfreshoffereditor10"
+        "matches_before": true
+      },
+      "verified_at_beijing": "2026-11-03T00:33:00+08:00",
+      "target_shipping_actual": 4.99,
+      "target_inventory_state": "Active",
+      "original_FBA_unchanged": {
+        "quantity": 5,
+        "price": 7.2
       }
     },
     {
@@ -46,15 +48,25 @@
       "source_fresh_quantity": 1609,
       "source_after_expected": 1599,
       "handling_time": "Blank source uses account default; target blank matches source, no numeric day inferred",
-      "status": "SOURCE_REDUCED_ACTUAL_TARGET_ACCEPTED_AWAIT_LISTING",
+      "status": "INACTIVE_POTENTIAL_HIGH_PRICE_SINGLE_7_20_TEST_ACCEPTED_NOT_PERSISTED",
       "target_submitted_at_beijing": "2026-11-03T00:24:00+08:00",
       "target_submit_accepted": true,
       "verified_complete": false,
       "remaining_checks": [
-        "Actualtargetactive10/source1599 or reconcileinterveningorders",
-        "TotalMFN1609 minusactualorders, otherFBAunchanged"
+        "Read-only verify propagation of single7.20 attempt; do not resubmit or reduce further",
+        "Retain source1599 and target10 allocation; reconcile actualorders separately"
       ],
-      "source_after_actual": 1599
+      "source_after_actual": 1599,
+      "target_quantity_actual": 10,
+      "observed_price": 8.99,
+      "target_inventory_state": "Inactive: potential high price",
+      "single_price_test": {
+        "authorized_at_beijing": "2026-11-03T00:44:00+08:00",
+        "requested_price": 7.2,
+        "platform_saved_response_at_beijing": "2026-11-03T00:48:00+08:00",
+        "independent_reload": "Still old8.99/inactive; requested7.20 not confirmed persisted or recovered",
+        "limit": "One authorized test only; no further price reductions. If ineffective stop and prioritize clearance."
+      }
     }
   ],
   "temporary_propagation_overlap": "User accepted temporary visible overlap after source reduction submitted once; never repeat reduction/create. Final total pool check remains pending.",
@@ -134,7 +146,7 @@
   "binary_artifacts": "Notincluded; original frozen upload files remain unchanged. ThisJSON is a progress handoff, notan Amazonupload template.",
   "old19_closeout": "The round of authorized manual corrections was completed before family restructuring; historical catalog/identifier warnings are not represented as universally cleared. Original19 report38rows retained separately.",
   "B_original27_disposition": {
-    "updated_beijing": "2026-11-02T23:59:00+08:00",
+    "updated_beijing": "2026-11-03T00:50:00+08:00",
     "denominator": "Original27pagepair proposals; not27unique physicalproducts and not27requiredwrites",
     "counts": {
       "CLOSED_NO_NEW_OFFER": 3,
@@ -144,7 +156,8 @@
       "HOLD_PRODUCT_IDENTITY_CASE": 1,
       "RECOMMEND_KEEP_SOURCE_PENDING_EVIDENCE_DECISION": 4,
       "NO_DEMONSTRATED_RATING_GAIN": 1,
-      "EXECUTING_ALLOCATION10": 2,
+      "COMPLETE_ALLOCATION10_ACTIVE_POOL_VERIFIED": 1,
+      "HOLD_HIGH_PRICE_SINGLE_TEST_PROPAGATION": 1,
       "HOLD_ACTUAL_TARGET_FALSE_PACK6": 1,
       "HOLD_PACK_AND_LARGE_PARCEL_SHIPPING": 4
     },
@@ -295,8 +308,8 @@
         "source_asins": [
           "B01MY06P05"
         ],
-        "state": "EXECUTING_ALLOCATION10",
-        "reason": "User-authorized allocation of 10; source reduced and target submitted; final active-state verification pending"
+        "state": "COMPLETE_ALLOCATION10_ACTIVE_POOL_VERIFIED",
+        "reason": "00:33 targetactive10 at6.99+4.99; source1613; sum1623; FBAunchanged"
       },
       {
         "B": 18,
@@ -304,8 +317,8 @@
         "source_asins": [
           "B01N1U9USQ"
         ],
-        "state": "EXECUTING_ALLOCATION10",
-        "reason": "User-authorized allocation of 10; source reduced and target submitted; final active-state verification pending"
+        "state": "HOLD_HIGH_PRICE_SINGLE_TEST_PROPAGATION",
+        "reason": "Created10 at8.99inactive highprice; source1599. One7.20test savedresponse00:48 but reloadstill8.99inactive; no furtherpricecut"
       },
       {
         "B": 19,
@@ -393,13 +406,144 @@
   },
   "additional22_status": "22extra candidate pairs identified,14 have bothsideshistoricalratings; notallverifiedcurrent orselected. Originalcapture/parentaggregate caveats remain.",
   "next_actions": [
-    "CheckB17/B18actualsaleableandfinalsourcepool withoutrecreating",
-    "CompleteBremainingpagechoice/identityholds usingoriginalrepoevidence",
-    "Resolveplatformcases onlyauthorizedscope",
-    "Prepareadvertisingandpromotionsplan; actualbudget/discountnotyetset"
+    "Read-only verify B18 single-price-test propagation without further reduction",
+    "Prioritize clearance review of existing stocked offers; coupon membership currently read-only, no new budget ordiscount authorized",
+    "Preserve all independent case and deferred compliance holds"
   ],
   "separate_deferred_items": {
     "nine_attribute_abuse_warnings_and_301x24": "Deferred by user until classification work; not certified resolved by this progress package. Keep 301x24 actual ASIN B01LVXOCU2 separate from temporarily closed 301x24-Y B01N9HHKRM.",
     "older_compliance": "305x6-Y trademark complaint and CR012 ps_toys_dv_us are independent pre-existing compliance items; no clearance claim in this package."
+  },
+  "clearance_readonly_shortlist": {
+    "status": "READ_ONLY_SHORTLIST_NOT_PROMOTION_AUTHORIZATION",
+    "candidates": [
+      {
+        "sku": "4A PSS 9-1 NYNRx2",
+        "asin": "B07QWKWWP2",
+        "sold30": "2",
+        "qty": 162,
+        "fulfillment": "FBA",
+        "active": true,
+        "source": "B2-post-live100-page3-2037.txt",
+        "snapshot_time": "2026-11-02 20:37 +08:00",
+        "source_start_line": 536,
+        "inventory_basis": "FBA sellable, not total inbound/reserved",
+        "sales_window": "UI 最近30天 售出件数",
+        "known_coupon": "NOT_VERIFIED_FOR_THIS_ASIN",
+        "fba_inventory_age": "NOT_AVAILABLE",
+        "cost_margin": "NOT_AVAILABLE",
+        "decision": "SHORTLIST_ONLY_RECHECK_CURRENT_BEFORE_ACTION",
+        "verified_product_spec": "2×315in plain roll kit:2 loaded dispensers+2 refill rolls; supplier Yellow/Red, photo/bullet Magenta. Do not relabel color in clearance.",
+        "spec_source": "family_pss_deep_verified_configuration_matrix.json",
+        "case_identity_guard": "Exact candidate ASIN is not GM40624 B07FK8CRM9 color case, not VC40609 B00SMEF4RU GTIN case, not40606 B00SMEEWUA, not60238 B01MATR9TE. Never substitute same-model ASIN.",
+        "protection_note": "Clearance review is offer-specific, no family/ASIN identity change."
+      },
+      {
+        "sku": "4A PSS 9-1 Grid-NYNGx2",
+        "asin": "B07R2KSW34",
+        "sold30": "1",
+        "qty": 130,
+        "fulfillment": "FBA",
+        "active": true,
+        "source": "B2-post-live100-page3-2037.txt",
+        "snapshot_time": "2026-11-02 20:37 +08:00",
+        "source_start_line": 723,
+        "inventory_basis": "FBA sellable, not total inbound/reserved",
+        "sales_window": "UI 最近30天 售出件数",
+        "known_coupon": "NOT_VERIFIED_FOR_THIS_ASIN",
+        "fba_inventory_age": "NOT_AVAILABLE",
+        "cost_margin": "NOT_AVAILABLE",
+        "decision": "SHORTLIST_ONLY_RECHECK_CURRENT_BEFORE_ACTION",
+        "verified_product_spec": "2×315in grid roll kit:2 loaded dispensers+2 refill rolls, Yellow/Green.",
+        "spec_source": "family_pss_deep_verified_configuration_matrix.json",
+        "case_identity_guard": "Exact candidate ASIN is not GM40624 B07FK8CRM9 color case, not VC40609 B00SMEF4RU GTIN case, not40606 B00SMEEWUA, not60238 B01MATR9TE. Never substitute same-model ASIN.",
+        "protection_note": "Clearance review is offer-specific, no family/ASIN identity change."
+      },
+      {
+        "sku": "4A 304-Full Adhesive-400",
+        "asin": "B07QXJWDPL",
+        "sold30": "11",
+        "qty": 532,
+        "fulfillment": "FBA",
+        "active": true,
+        "source": "B2-post-live100-page3-2037.txt",
+        "snapshot_time": "2026-11-02 20:37 +08:00",
+        "source_start_line": 817,
+        "inventory_basis": "FBA sellable, not total inbound/reserved",
+        "sales_window": "UI 最近30天 售出件数",
+        "known_coupon": "NOT_VERIFIED_FOR_THIS_ASIN",
+        "fba_inventory_age": "NOT_AVAILABLE",
+        "cost_margin": "NOT_AVAILABLE",
+        "decision": "SHORTLIST_ONLY_RECHECK_CURRENT_BEFORE_ACTION",
+        "verified_product_spec": "3×4in full-adhesive flat notes,1pack5pads×80sheets=400total,5colors.",
+        "spec_source": "fulladhesive33_verified_function_and_button_plan.json",
+        "case_identity_guard": "Exact candidate ASIN is not GM40624 B07FK8CRM9 color case, not VC40609 B00SMEF4RU GTIN case, not40606 B00SMEEWUA, not60238 B01MATR9TE. Never substitute same-model ASIN.",
+        "protection_note": "304400 has another same-product ASIN B07T42DY5K; shortlist refers ONLY current FBA B07QXJWDPL. No page merge/relink/stocktransfer."
+      },
+      {
+        "sku": "4A 305-Full Adhesive-300",
+        "asin": "B07QXJZKHC",
+        "sold30": "11",
+        "qty": 181,
+        "fulfillment": "FBA",
+        "active": true,
+        "source": "fullglue-live-12-post-relink-1825.txt",
+        "snapshot_time": "2026-11-02 18:25 +08:00",
+        "source_start_line": 998,
+        "inventory_basis": "FBA sellable, not total inbound/reserved",
+        "sales_window": "UI 最近30天 售出件数",
+        "known_coupon": "NOT_VERIFIED_FOR_THIS_ASIN",
+        "fba_inventory_age": "NOT_AVAILABLE",
+        "cost_margin": "NOT_AVAILABLE",
+        "decision": "SHORTLIST_ONLY_RECHECK_CURRENT_BEFORE_ACTION",
+        "verified_product_spec": "3×5in full-adhesive flat notes,1pack5pads×60sheets=300total,5colors.",
+        "spec_source": "fulladhesive33_verified_function_and_button_plan.json",
+        "case_identity_guard": "Exact candidate ASIN is not GM40624 B07FK8CRM9 color case, not VC40609 B00SMEF4RU GTIN case, not40606 B00SMEEWUA, not60238 B01MATR9TE. Never substitute same-model ASIN.",
+        "protection_note": "Clearance review is offer-specific, no family/ASIN identity change."
+      },
+      {
+        "sku": "AAAA 4A 40609",
+        "asin": "B07FKBHTDG",
+        "sold30": "27",
+        "qty": 611,
+        "fulfillment": "FBA",
+        "active": true,
+        "source": "paper-C-ruled4-live-2014.txt",
+        "snapshot_time": "2026-11-02 20:14 +08:00",
+        "source_start_line": 836,
+        "inventory_basis": "FBA sellable, not total inbound/reserved",
+        "sales_window": "UI 最近30天 售出件数",
+        "known_coupon": "NOT_VERIFIED_FOR_THIS_ASIN",
+        "fba_inventory_age": "NOT_AVAILABLE",
+        "cost_margin": "NOT_AVAILABLE",
+        "decision": "SHORTLIST_ONLY_RECHECK_CURRENT_BEFORE_ACTION",
+        "verified_product_spec": "2 assemblies×4divider pads×15sheets=120total; ruled white colored tabs,2⅔×2⅞in. Two sealed packs NOT proven.",
+        "spec_source": "family_paper40_sign6_deep_verified_family_plan.json",
+        "case_identity_guard": "Exact candidate ASIN is not GM40624 B07FK8CRM9 color case, not VC40609 B00SMEF4RU GTIN case, not40606 B00SMEEWUA, not60238 B01MATR9TE. Never substitute same-model ASIN.",
+        "protection_note": "Clearance review is offer-specific, no family/ASIN identity change."
+      }
+    ],
+    "coupon_evidence_separate": {
+      "source": "coupon-price-sync-evidence/README.md",
+      "asin": "B07QWKYQV7",
+      "sku": "4A BP1111-Nx4",
+      "snapshot_time": "2026-11-02 16:16 +08:00",
+      "FBA_sellable": 25,
+      "price": 27.39,
+      "coupon": "15% running campaign but thisASIN suppressed at16:15, cached27.99; recoverynotverified",
+      "sold30": "NOT_AVAILABLE",
+      "why_not_top5": "Cannot establish low30daysales from available source; couponmember alone insufficient"
+    },
+    "excluded_unknown_sales_examples": [
+      "4A 6031x4/B07RP9K6KV FBA77 sold--",
+      "4A073/B00SMEEVKQ FBA60 sold--"
+    ],
+    "cautions": [
+      "No -- converted to zero",
+      "Snapshot dates not current live guarantee",
+      "No aging/fee/cost/margin inference from quantity",
+      "No price/coupon/account changes performed"
+    ],
+    "interpretation": "Raw FBA sellable quantities and trailing30-day units only; no derived days-of-stock, inventory-age or profit estimation. Five coupon memberships remain unknown."
   }
 }
