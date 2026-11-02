@@ -1,0 +1,61 @@
+{
+  "asof_beijing": "2026-11-03 01:42",
+  "files": [
+    {
+      "name": "A-B全部老品营销清单-含827广告导出.xlsx",
+      "sha256": "24b9e7d662ae6beedc7bdd281eac15b4d4673575d37d7137bcdeba96311222e3",
+      "bytes": 27405,
+      "locally_verified_sha256": "24b9e7d662ae6beedc7bdd281eac15b4d4673575d37d7137bcdeba96311222e3",
+      "matches_manifest": true,
+      "uploaded_in_this_sync": false,
+      "repository_path": null
+    },
+    {
+      "name": "AB_102_ASIN_ADS_SCOPE.json",
+      "sha256": "c215d435de03e4a3ddb4f2fc8e2f8b5d7c082896468d8cddc7353d7daf17c16d",
+      "bytes": 355262,
+      "locally_verified_sha256": "c215d435de03e4a3ddb4f2fc8e2f8b5d7c082896468d8cddc7353d7daf17c16d",
+      "matches_manifest": true,
+      "uploaded_in_this_sync": false,
+      "repository_path": null
+    },
+    {
+      "name": "COUPON_12_ELIGIBILITY.csv",
+      "sha256": "61259785184a65e2fd2c4fed6de6f9fe4cd6ae78b197e95175b3e07da6898226",
+      "bytes": 4038,
+      "locally_verified_sha256": "61259785184a65e2fd2c4fed6de6f9fe4cd6ae78b197e95175b3e07da6898226",
+      "matches_manifest": true,
+      "uploaded_in_this_sync": false,
+      "repository_path": null
+    },
+    {
+      "name": "EXECUTION_PLAN.md",
+      "sha256": "2909802a06d4184baa33f07e02770f8c19242461e4e30b27e45d7922050d9664",
+      "bytes": 4908,
+      "locally_verified_sha256": "2909802a06d4184baa33f07e02770f8c19242461e4e30b27e45d7922050d9664",
+      "matches_manifest": true,
+      "uploaded_in_this_sync": false,
+      "repository_path": null
+    },
+    {
+      "name": "MARKETING_EXECUTION_PLAN.json",
+      "sha256": "d6f6bf5eabfe659ca52756b35f9f2cc334e15dddca7991e86d6bb7da488a5166",
+      "bytes": 11691,
+      "locally_verified_sha256": "d6f6bf5eabfe659ca52756b35f9f2cc334e15dddca7991e86d6bb7da488a5166",
+      "matches_manifest": true,
+      "uploaded_in_this_sync": true,
+      "repository_path": "progress/20261103/MARKETING_EXECUTION_PLAN_0150.json"
+    },
+    {
+      "name": "ads-all827-products-20261103-0130.csv",
+      "sha256": "9e10da3974036b65469a7fb3553007f5e636dc0ebaa913a69b8332135e3e3ded",
+      "bytes": 123754,
+      "locally_verified_sha256": "9e10da3974036b65469a7fb3553007f5e636dc0ebaa913a69b8332135e3e3ded",
+      "matches_manifest": true,
+      "uploaded_in_this_sync": false,
+      "repository_path": null
+    }
+  ],
+  "no_credentials_or_raw_browser_dumps": true,
+  "notice": "File index only for unuploaded artifacts; not a downloadable binary copy. No raw order exports, credentials or browser dumps."
+}
