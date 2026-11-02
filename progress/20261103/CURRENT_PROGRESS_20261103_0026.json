@@ -567,7 +567,7 @@
     "binary_status": "XLSX and ZIP not uploaded; manifest only for originals"
   },
   "order_comparison": {
-    "status": "ANONYMIZED_AGGREGATES_SCOPE_RECONCILIATION_PENDING",
+    "status": "CORRECTED_PREVIOUS_TOTAL_MINIMUM_CONFIRMED_FILTER_SEMANTICS_STILL_CHECKING",
     "cutoff_local_clock": "09:43",
     "current": {
       "date": "2026-11-02",
@@ -613,13 +613,36 @@
         "item_subtotals_usd": 182.89
       }
     },
-    "previous_MFN_conflict": "Earlier shipped-order snapshot contains one06:19PDT order for7.39 beforecutoff; later date-filtered UIreturnedzero. Do not certify13/251.53/15 as all-channel total until reconciled.",
+    "previous_MFN_conflict": "Verified06:19PDT shippedMFN order7.39 was omitted by later datefilter; confirmed realomission. Datefiltersemantics stillbeingchecked.",
     "limitations": [
       "Same local clock cutoff, not sameUTC offset due DST",
       "Order item subtotals include pending verification and are not net settled revenue",
       "PreviousFBA includes2refund-requested rows; not deducted from order totals",
       "No causality claim about repairs, advertising or promotions",
       "No raw orderIDs/customerPII retained in this summary"
-    ]
+    ],
+    "previous_all_channel_minimum": {
+      "date": "2026-10-26",
+      "timezone": "PDT",
+      "orders": 14,
+      "units": 16,
+      "item_subtotals_usd": 258.92,
+      "business": {
+        "orders": 3,
+        "units": 4,
+        "item_subtotals_usd": 68.64
+      },
+      "consumer": {
+        "orders": 11,
+        "units": 12,
+        "item_subtotals_usd": 190.28
+      }
+    }
+  },
+  "execution_boundary_update": {
+    "at_beijing": "2026-11-03T01:54:00+08:00",
+    "cloud": "Read-only monitoring of new orders; no marketing writes",
+    "local": "All marketing execution delegated to local environment, within specific approvals; no blanket new budget authorization",
+    "github": "Finish this authorized snapshot synchronization only"
   }
 }
