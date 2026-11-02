@@ -1,0 +1,227 @@
+{
+  "asof_beijing": "2026-11-03T00:28:00+08:00",
+  "records": [
+    {
+      "batch_id": "285584020759",
+      "sha256": "fddb72dae1ecac56ec57d9111e94668d4029825415975ca2ee78578dff2f42e6",
+      "status": "SEMANTIC_FAILURE_SPARSE_ARRAY_REPLACEMENT_REQUIRES_FULL5_RESTORE",
+      "official_status": "2SUCCESS_ZERO_WARNINGS",
+      "filename": "safe39-two-sku-four-bullets-SUBMITTED-285584020759.xlsx",
+      "artifact_manifest": "safe39_fourbullet_submitted_manifest.json",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285550020759",
+      "sha256": "93e5fcd4f541bf813a696f87d5e8a3d0545442f6848499314794953775e3cf01",
+      "status": "FAILED_ACTION_ENUM_90057_AND_GENERIC_90041_NO_OLD_PARENT_CHANGE",
+      "submitted_at_beijing": "2026-11-02 16:33",
+      "scope": "one newnonbuyableparent only,8fields,nochildren/offers",
+      "filename": "fullglue-new-parent-only-SUBMITTED-285550020759.xlsx",
+      "artifact_manifest": "fullglue_stage1_submitted_manifest.json",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285558020759",
+      "sha256": "7eaf0c8b1d52a278d68d8244baa032581fc37d4473e564860158c31a2016dd9a",
+      "status": "FAILED_90220_FIVE_REQUIRED_FIELDS",
+      "submitted_beijing": "2026-11-02 16:52",
+      "filename": "fullglue-new-parent-only-actionfix-SUBMITTED-285558020759.xlsx",
+      "artifact_manifest": "fullglue_stage1_actionfix_submitted_manifest.json",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285582020759",
+      "sha256": "4fe224c3853ac5017656abbeef75dd4f39e811cce172ac0d70b2c01bf44823dc",
+      "status": "RECEIPT7SUCCESS5OTHER0ERROR_ACTUAL_FAMILY_AND_COLOR_VALIDATION_PENDING",
+      "submitted_beijing": "2026-11-02 18:07",
+      "filename": "fullglue-existing-child12-relink-SUBMITTED-285582020759.xlsx",
+      "artifact_manifest": "fullglue_stage3_child12_submitted_manifest.json",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285575020759",
+      "sha256": "5c7a8b4404129dff31a10aca11968554889629df5870ce9b300f1ec65a020b61",
+      "status": "OFFICIAL_DELETE1SUCCESS_ZERO_WARNINGS_ACTUAL_CHILD_DETACH_AND35PRESERVATION_PENDING",
+      "submitted_beijing": "2026-11-02 17:41",
+      "filename": "fullglue-old-parent-only-delete-SUBMITTED-285575020759.xlsx",
+      "artifact_manifest": "fullglue_stage2_submitted_manifest.json",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285559020759",
+      "sha256": "8027bb85df8eded6cdc51c26026719145b47ff37ff95aa0649f1db240dd4b6e7",
+      "status": "48_OF_48_SIZE_PERSISTED_REPORT_285569_RECEIPT42SUCCESS6OTHER_0ERROR",
+      "submitted_beijing": "2026-11-02 16:53",
+      "filename": "next48-size-only-SUBMITTED-285559020759.xlsx",
+      "artifact_manifest": "next48_size_only_submitted_manifest.json",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285527020759",
+      "sha256": "401650bc44587a60d4794d0ce2ce6b6bb167bd47985f72f6409b73243e422736",
+      "status": "55_OF_55_TARGET_FIELDS_CONFIRMED_REPORT_285537_OLD_WARNINGS_SEPARATE",
+      "submitted_at_beijing": "2026-11-02 15:23",
+      "scope": "independent attribute-only safe39, no animaltrialASINs or relation/offer fields",
+      "artifact_manifest": "new20_safe39_submitted_manifest.json",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285563020759",
+      "sha256": "384815852acf0a65d84886972e1c154bb2754e02e8ac46f038acb5f2022b8916",
+      "status": "STAGE1_COMPLETE_1SUCCESS_ZERO_WARNINGS_CURRENT_PARENT_AND_NONBUYABLE_UI_VERIFIED",
+      "submitted_beijing": "2026-11-02 17:05",
+      "filename": "fullglue-new-parent-only-required5fix-SUBMITTED-285563020759.xlsx",
+      "artifact_manifest": "fullglue_stage1_required5fix_submitted_manifest.json",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285593020759",
+      "sha256": "c88def7e082ffe5e910ec543081a97387674178f8e8ee33825604c70e605b481",
+      "status": "COMPLETE_OFFICIAL_2_SUCCESS_0_WARNINGS_AND_ACTUAL_UI_10_VALUES_EXACT",
+      "submitted_beijing": "2026-11-02 18:41",
+      "filename": "two-sku-full5-bullet-array-RESTORE-SUBMITTED-285593020759.xlsx",
+      "artifact_manifest": "two_sku_full5_bullet_restore_submitted_manifest.json",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285585020759",
+      "sha256": "6e629181066e550baf4819786674a48f59efcaed99bed8279a692bc9e9223c31",
+      "status": "COMPLETE_BACKEND_STRUCTURE_2SUCCESS0WARNINGS_6ACTUAL_DETACHED8OFFERS_PRESERVED",
+      "submitted_beijing": "2026-11-02 18:21",
+      "filename": "two-small-parents-only-delete-SUBMITTED-285585020759.xlsx",
+      "artifact_manifest": "two_small_parent_delete_submitted_manifest.json",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285542020759",
+      "sha256": "a11caf4b87718950bb6852bf61e112fa23b664bba8aace89fd69d06cdf01b643",
+      "status": "RECEIPT_SUCCESS_ONE_PARENT_NO_WARNINGS_AND_9_LIVE_OFFERS_PRESERVED",
+      "submitted_at_beijing": "2026-11-02 16:09",
+      "scope": "Only parentSKU PARENT-4A-LABEL-STICKERS producttypeSELF_STICK_NOTE actionDelete; nochildren",
+      "filename": "label-parent-only-delete-SUBMITTED-285542020759.xlsx",
+      "artifact_manifest": "label_parent_only_delete_submitted_manifest.json",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285604020759",
+      "sha256": "c4bf72ba361d74dcdb84852dac28ed68c51969590d267c0665c9ea10566e0c2d",
+      "status": "OFFICIAL_14_SUCCESS_2_SUCCESS_OTHER_ERROR_9_PARENTS_SUCCESS_MINI7_ACTUAL_PENDING",
+      "submitted_beijing": "2026-11-02 19:21",
+      "rows": 16,
+      "phase": "A",
+      "filename": "new20-A-independent-parent-and-size-SUBMITTED-285604020759.xlsx",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285614020759",
+      "sha256": "5f43c7cac479ff8842df022d7434121f3c44182138410520a8c91ec9eb683989",
+      "status": "COMPLETE_OFFICIAL_1_SUCCESS_AND_ACTUAL36_GATE",
+      "submitted_beijing": "2026-11-02 19:42",
+      "rows": 1,
+      "phase": "B1_paper",
+      "filename": "new20-B1-PAPER-parent-only-delete-SUBMITTED-285614020759.xlsx",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285618020759",
+      "sha256": "b223564cc07c4c1848584e2da1449eb8f99280709abd00241c36e8cb153a9ff4",
+      "status": "ALL29_ACTUAL_MEMBERS_LABELS_OFFERS_PASS_LEGACY_WARNINGS_SEPARATE",
+      "submitted_beijing": "2026-11-02 19:58",
+      "rows": 29,
+      "phase": "C29_paper",
+      "filename": "new20-C29-PAPER-child-relink-SUBMITTED-285618020759.xlsx",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285622020759",
+      "sha256": "d77f23fb4ffa4b1bbb6e08432b41a0e0501d10ddd116830f550a84ef0ac9da72",
+      "status": "OFFICIAL1_SUCCESS_ACTUAL_VALID_EMPTY_PARENT_CHILDREN_OTHER_PARENT_HOLD_NOT_FAMILY_COMPLETE",
+      "submitted_beijing": "2026-11-02 20:16",
+      "rows": 1,
+      "phase": "A1_YOR",
+      "filename": "new20-A1_YOR-SUBMITTED-285622020759.xlsx",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285625020759",
+      "sha256": "7f2e429f3e8366178c8319d1682dced06d37de3291623d40fe8542d81a161920",
+      "status": "OFFICIAL2_SUCCESS_CORE20_ACTUAL_GATE_PASS_REMAINDER119_PROTECTION_IN_PROGRESS",
+      "submitted_beijing": "2026-11-02 20:21",
+      "rows": 2,
+      "phase": "B2_PSS_PET",
+      "filename": "new20-B2_PSS_PET-SUBMITTED-285625020759.xlsx",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285639020759",
+      "sha256": "c34342ba765cb19a69294c297396ed04b4f130424f6fa431341f6d86ff16854a",
+      "status": "ALL20_ACTUAL_MEMBERS_LABELS_OFFERS_PASS_3_LEGACY_WARNINGS_PENDING_SEPARATE",
+      "submitted_beijing": "2026-11-02 21:00:45",
+      "rows": 20,
+      "phase": "C20_PSS_PET",
+      "filename": "new20-C20-PSS-PET-exclude-YOR-SUBMITTED-285639020759.xlsx",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285643020759",
+      "sha256": "cb64ddc07b79f0bb8e15aa07cfaa909b62899f5706a2dbd9f58ad094d917d08e",
+      "status": "OFFICIAL_SUCCESS_OTHER_ERROR_99022_PERSISTS_LOCAL_CODEX_OWNS_NO_RESUBMIT",
+      "submitted_beijing": "2026-11-02 21:18:26",
+      "rows": 1,
+      "phase": "C8_color_pair",
+      "filename": "C8-GM40624-complete-color-object-SUBMITTED-285643020759.xlsx",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285650020759",
+      "sha256": "bea7bdbb2e1100fe4618103b38ed39689a12e807e82cdfbacdf31ef087fd723e",
+      "status": "TITLE_MANUFACTURER_ACTUAL_PASS_OFFICIAL_OTHER_LEGACY_COLOR_HIGHLIGHT",
+      "submitted_beijing": "2026-11-02 22:12",
+      "rows": 1,
+      "phase": "C20_60238_title_manufacturer",
+      "filename": "C20-60238-FBA-title-manufacturer-SUBMITTED-285650020759.xlsx",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285655020759",
+      "sha256": "9318c6ec98c66b5f8cf3b17df37fe4f85d197e24765b10ab8d31cbe1eff27567",
+      "status": "ALL8_ACTUAL_SELLER_INPUTS_PASS_OFFICIAL_OTHER_LEGACY_COLOR_HIGHLIGHT",
+      "submitted_beijing": "2026-11-02 22:40",
+      "rows": 1,
+      "phase": "C20_60238_package8",
+      "filename": "C20-60238-FBA-package8-SUBMITTED-285655020759.xlsx",
+      "binary_uploaded_to_repository": false
+    },
+    {
+      "batch_id": "285668020759",
+      "sha256": "9c24a23cdf2678da069751217db969cede8b407f4f5031e2114e1979b73d5543",
+      "status": "ACTUAL_TARGET_FIELDS_PASS_FORMAL_RECEIPT_PENDING",
+      "submitted_beijing": "2026-11-02 23:17",
+      "rows": 1,
+      "phase": "C29_40606_manufacturer",
+      "filename": "C29-40606-manufacturer-only-SUBMITTED-285668020759.xlsx",
+      "binary_uploaded_to_repository": false,
+      "final_status": "Manufactureractualcorrect; formalSUCCESS_OTHER_ERROR101078remains"
+    },
+    {
+      "batch_id": "285670020759",
+      "sha256": "1688665e09bd83810e3c1b294dd91c5b6c33633460b543aed5340f47a2276e98",
+      "status": "ACTUAL_TARGET_FIELDS_PASS_FORMAL_RECEIPT_PENDING",
+      "submitted_beijing": "2026-11-02 23:18",
+      "rows": 2,
+      "phase": "C20_60238_primary_materials",
+      "filename": "C20-60238-two-SKU-primary-materials-only-SUBMITTED-285670020759.xlsx",
+      "binary_uploaded_to_repository": false,
+      "final_status": "Bothmaterialarraysactualcorrect; SFsuccess FBAold8541and100476"
+    },
+    {
+      "phase": "Animal39initial",
+      "batch_id": "285511020759",
+      "status": "PARTIAL_RELATION_THEME_OUTCOME_SUPPORT_HOLD",
+      "binary_uploaded_to_repository": false,
+      "note": "Do not repeat; affected38child+parent scope documented in original recovery evidence"
+    }
+  ],
+  "binary_status": "Manifestonly; noXLSX/XLSMbinaryincluded",
+  "warning": "Submitted accepted doesnot byitselfproveactualcatalogstate. Historicalfailures remain; latestprogressJSON reconciles currentactual."
+}
