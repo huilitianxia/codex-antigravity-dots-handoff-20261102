@@ -1,0 +1,49 @@
+{
+  "verified_at_utc": "2026-11-02T03:51:52.181817+00:00",
+  "repository": "https://github.com/huilitianxia/codex-antigravity-dots-handoff-20261102",
+  "private": true,
+  "verified_data_commit": "df2f9fbb0082dff350f7b5a24e56b533647a0727",
+  "remote_files_at_data_commit": 2093,
+  "all_committed_blob_hashes_match": true,
+  "release_url": "https://github.com/huilitianxia/codex-antigravity-dots-handoff-20261102/releases/tag/4a-business-20261102",
+  "assets": [
+    {
+      "name": "payload-001.zip",
+      "id": 700260200,
+      "bytes": 400466401,
+      "sha256": "ff49d37ae5b7d342b193e51f9d6f4e12fa976cc6851db5e57e09c51e10a917c2",
+      "remote_digest": "sha256:ff49d37ae5b7d342b193e51f9d6f4e12fa976cc6851db5e57e09c51e10a917c2",
+      "matches": true,
+      "url": "https://github.com/huilitianxia/codex-antigravity-dots-handoff-20261102/releases/download/4a-business-20261102/payload-001.zip"
+    },
+    {
+      "name": "payload-002.zip",
+      "id": 700260201,
+      "bytes": 389201982,
+      "sha256": "c3c6bdbb7c6c380ee0dc56e1e3da5409e93b92aea508dda59432d72fbf70306d",
+      "remote_digest": "sha256:c3c6bdbb7c6c380ee0dc56e1e3da5409e93b92aea508dda59432d72fbf70306d",
+      "matches": true,
+      "url": "https://github.com/huilitianxia/codex-antigravity-dots-handoff-20261102/releases/download/4a-business-20261102/payload-002.zip"
+    },
+    {
+      "name": "payload-003.zip",
+      "id": 700343545,
+      "bytes": 348450290,
+      "sha256": "73f6fbe2a07d8a29291c1e78d5fa5e20b844ff5ae7d193e56e9e4dcc6f21f8fb",
+      "remote_digest": "sha256:73f6fbe2a07d8a29291c1e78d5fa5e20b844ff5ae7d193e56e9e4dcc6f21f8fb",
+      "matches": true,
+      "url": "https://github.com/huilitianxia/codex-antigravity-dots-handoff-20261102/releases/download/4a-business-20261102/payload-003.zip"
+    },
+    {
+      "name": "payload-004.zip",
+      "id": 700331418,
+      "bytes": 398297284,
+      "sha256": "dabcd7159253a86b835160b8b7743f6e35f0ae71b69554b2819f777ea54abfa3",
+      "remote_digest": "sha256:dabcd7159253a86b835160b8b7743f6e35f0ae71b69554b2819f777ea54abfa3",
+      "matches": true,
+      "url": "https://github.com/huilitianxia/codex-antigravity-dots-handoff-20261102/releases/download/4a-business-20261102/payload-004.zip"
+    }
+  ],
+  "all_asset_hashes_match": true,
+  "note": "This report verifies the data commit before the final metadata-only completion commit. The final main and release tag are checked again after publication."
+}
