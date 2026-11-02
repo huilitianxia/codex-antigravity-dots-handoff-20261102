@@ -1,5 +1,5 @@
 {
-  "status_asof_beijing": "2026-11-03T00:50:00+08:00",
+  "status_asof_beijing": "2026-11-03T01:50:00+08:00",
   "B_first_two": [
     {
       "B": 17,
@@ -406,9 +406,10 @@
   },
   "additional22_status": "22extra candidate pairs identified,14 have bothsideshistoricalratings; notallverifiedcurrent orselected. Originalcapture/parentaggregate caveats remain.",
   "next_actions": [
-    "Read-only verify B18 single-price-test propagation without further reduction",
-    "Prioritize clearance review of existing stocked offers; coupon membership currently read-only, no new budget ordiscount authorized",
-    "Preserve all independent case and deferred compliance holds"
+    "Confirm B18 single7.20 test eventual state by read-only inspection; do not assume recovery or reduce again",
+    "Use all102ASIN/156SKU inventory and78matchedASIN ad evidence to prepare proposals; no new paid submission until explicit approval",
+    "Reconcile order-comparison scope before attributing changes to prior work",
+    "Preserve all unresolved platform and deferred compliance matters"
   ],
   "separate_deferred_items": {
     "nine_attribute_abuse_warnings_and_301x24": "Deferred by user until classification work; not certified resolved by this progress package. Keep 301x24 actual ASIN B01LVXOCU2 separate from temporarily closed 301x24-Y B01N9HHKRM.",
@@ -545,5 +546,80 @@
       "No price/coupon/account changes performed"
     ],
     "interpretation": "Raw FBA sellable quantities and trailing30-day units only; no derived days-of-stock, inventory-age or profit estimation. Five coupon memberships remain unknown."
+  },
+  "marketing_progress": {
+    "task_records": 57,
+    "unique_asins": 102,
+    "sku_snapshot_rows": 156,
+    "advertising_export_rows": 827,
+    "matched_asins": 78,
+    "matched_sku_rows": 131,
+    "table_version": "v1 prepared",
+    "execution_split": "Cloud organizes evidence; local execution package prepared. No new budget/paid publishing approved.",
+    "coupon": {
+      "safe_review_count": 7,
+      "ineligible_count": 4,
+      "identity_hold": "A2 B07FK7PBHJ platform eligible but FBA grid versus MFN color identity unresolved; do not publish",
+      "fee_structure": "Verified5USD per coupon +2.5% redeemed sales; variable cap2000USD; discount budget is not a hard cap; tax mayapply and fees not refunded onreturns"
+    },
+    "plan": "MARKETING_EXECUTION_PLAN_0150.json",
+    "file_index": "MARKETING_FILE_INDEX_0150.json",
+    "binary_status": "XLSX and ZIP not uploaded; manifest only for originals"
+  },
+  "order_comparison": {
+    "status": "ANONYMIZED_AGGREGATES_SCOPE_RECONCILIATION_PENDING",
+    "cutoff_local_clock": "09:43",
+    "current": {
+      "date": "2026-11-02",
+      "timezone": "PST",
+      "orders": 10,
+      "units": 18,
+      "item_subtotals_usd": 216.2,
+      "business": {
+        "orders": 4,
+        "units": 12,
+        "item_subtotals_usd": 147.76
+      },
+      "consumer": {
+        "orders": 6,
+        "units": 6,
+        "item_subtotals_usd": 68.44
+      },
+      "FBA": {
+        "orders": 8,
+        "units": 16,
+        "item_subtotals_usd": 201.22
+      },
+      "MFN": {
+        "orders": 2,
+        "units": 2,
+        "item_subtotals_usd": 14.98
+      }
+    },
+    "previous_confirmed_FBA": {
+      "date": "2026-10-26",
+      "timezone": "PDT",
+      "orders": 13,
+      "units": 15,
+      "item_subtotals_usd": 251.53,
+      "business": {
+        "orders": 3,
+        "units": 4,
+        "item_subtotals_usd": 68.64
+      },
+      "consumer": {
+        "orders": 10,
+        "units": 11,
+        "item_subtotals_usd": 182.89
+      }
+    },
+    "previous_MFN_conflict": "Earlier shipped-order snapshot contains one06:19PDT order for7.39 beforecutoff; later date-filtered UIreturnedzero. Do not certify13/251.53/15 as all-channel total until reconciled.",
+    "limitations": [
+      "Same local clock cutoff, not sameUTC offset due DST",
+      "Order item subtotals include pending verification and are not net settled revenue",
+      "PreviousFBA includes2refund-requested rows; not deducted from order totals",
+      "No causality claim about repairs, advertising or promotions",
+      "No raw orderIDs/customerPII retained in this summary"
+    ]
   }
 }
