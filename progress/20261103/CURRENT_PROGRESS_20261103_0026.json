@@ -567,75 +567,96 @@
     "binary_status": "XLSX and ZIP not uploaded; manifest only for originals"
   },
   "order_comparison": {
-    "status": "CORRECTED_PREVIOUS_TOTAL_MINIMUM_CONFIRMED_FILTER_SEMANTICS_STILL_CHECKING",
-    "cutoff_local_clock": "09:43",
-    "current": {
-      "date": "2026-11-02",
-      "timezone": "PST",
-      "orders": 10,
-      "units": 18,
-      "item_subtotals_usd": 216.2,
-      "business": {
-        "orders": 4,
-        "units": 12,
-        "item_subtotals_usd": 147.76
-      },
-      "consumer": {
-        "orders": 6,
-        "units": 6,
-        "item_subtotals_usd": 68.44
-      },
-      "FBA": {
-        "orders": 8,
-        "units": 16,
-        "item_subtotals_usd": 201.22
-      },
-      "MFN": {
-        "orders": 2,
-        "units": 2,
-        "item_subtotals_usd": 14.98
-      }
-    },
-    "previous_confirmed_FBA": {
-      "date": "2026-10-26",
-      "timezone": "PDT",
-      "orders": 13,
-      "units": 15,
-      "item_subtotals_usd": 251.53,
-      "business": {
-        "orders": 3,
-        "units": 4,
-        "item_subtotals_usd": 68.64
-      },
-      "consumer": {
-        "orders": 10,
-        "units": 11,
-        "item_subtotals_usd": 182.89
-      }
-    },
-    "previous_MFN_conflict": "Verified06:19PDT shippedMFN order7.39 was omitted by later datefilter; confirmed realomission. Datefiltersemantics stillbeingchecked.",
-    "limitations": [
-      "Same local clock cutoff, not sameUTC offset due DST",
-      "Order item subtotals include pending verification and are not net settled revenue",
-      "PreviousFBA includes2refund-requested rows; not deducted from order totals",
-      "No causality claim about repairs, advertising or promotions",
-      "No raw orderIDs/customerPII retained in this summary"
+    "status": "provisional / incomplete_order_items",
+    "correction_at_beijing": "2026-11-03T08:53:00+08:00",
+    "evidence": "08:52 historical order-detail inspection revealed first visible item20.89 plus two additional units36.84 omitted from prior list-based aggregation. No orderID or customerPII included.",
+    "reliability": "Prior list-first-item historical totals, item quantities and business/consumer breakdowns are not complete verified statistics. Requires full order-item report reconciliation.",
+    "withdrawn_examples": [
+      "Historical258.92 total as complete comparable statistic",
+      "Historical603.89 total as complete comparable statistic",
+      "Three-week mean2.7 and related derived comparisons"
     ],
-    "previous_all_channel_minimum": {
-      "date": "2026-10-26",
-      "timezone": "PDT",
-      "orders": 14,
-      "units": 16,
-      "item_subtotals_usd": 258.92,
-      "business": {
-        "orders": 3,
-        "units": 4,
-        "item_subtotals_usd": 68.64
+    "no_arithmetic_patch": "Do not add36.84 to prior totals to imply all missing items have been reconciled.",
+    "retained_dashboard_observation": {
+      "date": "2026-11-02",
+      "cutoff_local_clock": "09:43",
+      "timezone": "PST",
+      "sales_usd": 216.2,
+      "status": "Matched dashboard at that observation time; not a current live value or proof all later accumulated order lines are complete"
+    },
+    "rolling_accumulation": "Later rolling order totals may also contain multi-item omissions; not certified complete.",
+    "required_next_evidence": "Complete order-item report with common date/time cutoff, all item lines, channel coverage and cancellations/refunds handled consistently before recalculation.",
+    "legacy_withdrawn_list_based_comparison": {
+      "status": "CORRECTED_PREVIOUS_TOTAL_MINIMUM_CONFIRMED_FILTER_SEMANTICS_STILL_CHECKING",
+      "cutoff_local_clock": "09:43",
+      "current": {
+        "date": "2026-11-02",
+        "timezone": "PST",
+        "orders": 10,
+        "units": 18,
+        "item_subtotals_usd": 216.2,
+        "business": {
+          "orders": 4,
+          "units": 12,
+          "item_subtotals_usd": 147.76
+        },
+        "consumer": {
+          "orders": 6,
+          "units": 6,
+          "item_subtotals_usd": 68.44
+        },
+        "FBA": {
+          "orders": 8,
+          "units": 16,
+          "item_subtotals_usd": 201.22
+        },
+        "MFN": {
+          "orders": 2,
+          "units": 2,
+          "item_subtotals_usd": 14.98
+        }
       },
-      "consumer": {
-        "orders": 11,
-        "units": 12,
-        "item_subtotals_usd": 190.28
+      "previous_confirmed_FBA": {
+        "date": "2026-10-26",
+        "timezone": "PDT",
+        "orders": 13,
+        "units": 15,
+        "item_subtotals_usd": 251.53,
+        "business": {
+          "orders": 3,
+          "units": 4,
+          "item_subtotals_usd": 68.64
+        },
+        "consumer": {
+          "orders": 10,
+          "units": 11,
+          "item_subtotals_usd": 182.89
+        }
+      },
+      "previous_MFN_conflict": "Verified06:19PDT shippedMFN order7.39 was omitted by later datefilter; confirmed realomission. Datefiltersemantics stillbeingchecked.",
+      "limitations": [
+        "Same local clock cutoff, not sameUTC offset due DST",
+        "Order item subtotals include pending verification and are not net settled revenue",
+        "PreviousFBA includes2refund-requested rows; not deducted from order totals",
+        "No causality claim about repairs, advertising or promotions",
+        "No raw orderIDs/customerPII retained in this summary"
+      ],
+      "previous_all_channel_minimum": {
+        "date": "2026-10-26",
+        "timezone": "PDT",
+        "orders": 14,
+        "units": 16,
+        "item_subtotals_usd": 258.92,
+        "business": {
+          "orders": 3,
+          "units": 4,
+          "item_subtotals_usd": 68.64
+        },
+        "consumer": {
+          "orders": 11,
+          "units": 12,
+          "item_subtotals_usd": 190.28
+        }
       }
     }
   },
