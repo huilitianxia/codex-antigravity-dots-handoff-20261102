@@ -1,0 +1,40 @@
+{
+  "text": "创建“买 X 赠 Y”促销\n第 1 步：促销详情\n第 2 步：购买与折扣\n第 3 步：促销配置\n第 4 步：汇总\n亚马逊商城store_selector_label\n受众label_audience\n促销类型label_promotion_type\n预算(给定的总折扣 $)section_budget_3p_total_discount_given\n给定的总折扣（货币：$）label_total_discount_given\n追踪编码section_tracking_id\n时间安排section_schedule\n开始日期\n开始时间 (PST)\n结束日期\n结束时间 (PST)",
+  "selectors": [
+    {
+      "tag": "KAT-INPUT",
+      "label": "促销名称",
+      "value": "OLD_MULTIBUY_20261102",
+      "text": "",
+      "html": "<kat-input name=\"promotionTitle\" data-testid=\"promotion-title-input\" label=\"促销名称\" type=\"text\" placeholder=\"输入促销名称（最多 100 个字符）\" unique-id=\"katal-id-0\" size=\"large\" inputmode=\"\" enterkeyhint=\"\" class=\"touched\"><span slot=\"private-light-dom\" style=\"max-width: 0px; max-height: 0px; overflow: hidden;\"><input hidden=\"true\" name=\"promotionTitle\" type=\"text\" spellcheck=\"false\"></span></kat-input>"
+    },
+    {
+      "tag": "KAT-INPUT",
+      "label": null,
+      "value": "100",
+      "text": "",
+      "html": "<kat-input name=\"totalDiscountGiven\" data-testid=\"budget-discount-input\" type=\"number\" placeholder=\"输入总折扣金额\" min=\"100\" max=\"100000\" step=\"1\" unique-id=\"katal-id-25\" size=\"large\" inputmode=\"\" enterkeyhint=\"\"><span slot=\"private-light-dom\" style=\"max-width: 0px; max-height: 0px; overflow: hidden;\"><input hidden=\"true\" name=\"totalDiscountGiven\" type=\"number\" spellcheck=\"false\"></span></kat-input>"
+    },
+    {
+      "tag": "KAT-INPUT",
+      "label": null,
+      "value": "百分比折扣 2026/11/03 3-8-50-899",
+      "text": "",
+      "html": "<kat-input name=\"merchantTrackingId\" type=\"text\" unique-id=\"katal-id-13\" size=\"large\" inputmode=\"\" enterkeyhint=\"\"><span slot=\"private-light-dom\" style=\"max-width: 0px; max-height: 0px; overflow: hidden;\"><input hidden=\"true\" name=\"merchantTrackingId\" type=\"text\" spellcheck=\"false\"></span></kat-input>"
+    },
+    {
+      "tag": "KAT-INPUT",
+      "label": null,
+      "value": "00:00:00",
+      "text": "",
+      "html": "<kat-input type=\"time\" step=\"1\" name=\"startTime\" data-testid=\"schedule-start-time-input\" value=\"00:00:00\" id=\"promotionStartTime\" unique-id=\"katal-id-15\" size=\"large\" inputmode=\"\" enterkeyhint=\"\" kat-aria-label=\"开始时间 (PST)\"><span slot=\"private-light-dom\" style=\"max-width: 0px; max-height: 0px; overflow: hidden;\"><input hidden=\"true\" name=\"startTime\" type=\"time\" spellcheck=\"false\"></span></kat-inpu"
+    },
+    {
+      "tag": "KAT-INPUT",
+      "label": null,
+      "value": "23:59:59",
+      "text": "",
+      "html": "<kat-input type=\"time\" step=\"1\" name=\"endTime\" data-testid=\"schedule-end-time-input\" value=\"23:59:59\" id=\"promotionEndTime\" unique-id=\"katal-id-17\" size=\"large\" inputmode=\"\" enterkeyhint=\"\" kat-aria-label=\"结束时间 (PST)\"><span slot=\"private-light-dom\" style=\"max-width: 0px; max-height: 0px; overflow: hidden;\"><input hidden=\"true\" name=\"endTime\" type=\"time\" spellcheck=\"false\"></span></kat-input>"
+    }
+  ]
+}

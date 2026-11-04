@@ -1,0 +1,1599 @@
+[
+  {
+    "group": "R002",
+    "code": "BS1801_VC",
+    "asin": "B07JVSYNYV",
+    "skus": [
+      "4A BS 1801-FBA"
+    ],
+    "daily": 3,
+    "bid": 0.2,
+    "keywords": [
+      "sticky note organizer black leather",
+      "desktop sticky notes organizer set",
+      "sticky notes and index flags organizer"
+    ],
+    "page": 171,
+    "end": "2026-11-10",
+    "match": "EXACT",
+    "strategy": "dynamic down-only",
+    "name": "SP_VC_REVIEW_R002_BS1801_VC_EXACT_20261103",
+    "status": "not-launched",
+    "stage": "campaign-settings",
+    "sent": false,
+    "started_at": "2026-11-03T08:33:09.246Z",
+    "error": "Error: Expected one textbox 广告活动名称, found 0"
+  },
+  {
+    "group": "R002",
+    "code": "BS1801_VC",
+    "asin": "B07JVSYNYV",
+    "skus": [
+      "4A BS 1801-FBA"
+    ],
+    "daily": 3,
+    "bid": 0.2,
+    "keywords": [
+      "sticky note organizer black leather",
+      "desktop sticky notes organizer set",
+      "sticky notes and index flags organizer"
+    ],
+    "page": 171,
+    "end": "2026-11-10",
+    "match": "EXACT",
+    "strategy": "dynamic down-only",
+    "name": "SP_VC_REVIEW_R002_BS1801_VC_EXACT_20261103",
+    "status": "launched",
+    "stage": "pending-independent-verification",
+    "sent": true,
+    "started_at": "2026-11-03T08:35:34.185Z",
+    "sent_at": "2026-11-03T08:39:05.291Z",
+    "launch_click_completed_at": "2026-11-03T08:39:06.135Z",
+    "campaignId": "A092452820HCLVUYOMQHY",
+    "publicCampaignId": "281322421241932",
+    "verification": {
+      "group": "R002",
+      "campaignId": "A092452820HCLVUYOMQHY",
+      "checked_at": "2026-11-03T09:10:05.539Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 3,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "end_matches": true,
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A092452820HCLVUYOMQHY/ad-groups/188903907220684/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A092452820HCLVUYOMQHY/ad-groups/A00499412944CW5R3FY6R/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "products": [
+        {
+          "id": "A01752244TK8BOV0CGQX",
+          "cells": {
+            "adName": "4A Self-Stick Notes, Classic Assorted, 4A BS 1801-FBA | B07JVSYNYV \n\nUS$14.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A BS 1801-FBA\n\nB07JVSYNYV",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ],
+      "products_running": true,
+      "targets": [
+        {
+          "id": "86664209718644",
+          "cells": {
+            "target": "desktop sticky notes organizer set\n桌面便签收纳套装",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.20\nUS$0.20",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "109156535490858",
+          "cells": {
+            "target": "sticky note organizer black leather\n便签收纳袋黑色皮革",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.20\nUS$0.20",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "29071898252801",
+          "cells": {
+            "target": "sticky notes and index flags organizer\n便签和索引标志管理器",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.20\nUS$0.20",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        }
+      ],
+      "targets_running": true,
+      "verified": true,
+      "status": "verified-running"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "R006",
+    "code": "30124_VC",
+    "asin": "B01LVXOCU2",
+    "skus": [
+      "4A 004",
+      "4A 301x24"
+    ],
+    "daily": 3,
+    "bid": 0.3,
+    "keywords": [
+      "1.5x2 sticky notes 24 pads",
+      "small sticky notes 2400 sheets",
+      "1.5 x 2 sticky notes assorted colors"
+    ],
+    "page": 171,
+    "end": "2026-11-10",
+    "match": "EXACT",
+    "strategy": "dynamic down-only",
+    "name": "SP_VC_REVIEW_R006_30124_VC_EXACT_20261103",
+    "status": "launched",
+    "stage": "pending-independent-verification",
+    "sent": true,
+    "started_at": "2026-11-03T08:40:10.555Z",
+    "sent_at": "2026-11-03T08:41:06.559Z",
+    "campaignId": "A065124016N4SI5FF9GDM",
+    "publicCampaignId": "270158046348930",
+    "finished_at": "2026-11-03T08:41:13.238Z",
+    "verification": {
+      "group": "R006",
+      "campaignId": "A065124016N4SI5FF9GDM",
+      "checked_at": "2026-11-03T09:10:52.898Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 3,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "end_matches": true,
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A065124016N4SI5FF9GDM/ad-groups/180909644241765/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A065124016N4SI5FF9GDM/ad-groups/A03547763W1IOMAK57AMK/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "products": [
+        {
+          "id": "A0404072EBO8C9SIDJ6S",
+          "cells": {
+            "adName": "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24 \n\nUS$12.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A 004\n\nB01LVXOCU2",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        },
+        {
+          "id": "A04039163FPRJ3Q4A4CFM",
+          "cells": {
+            "adName": "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24 \n\nUS$12.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A 301x24\n\nB01LVXOCU2",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ],
+      "products_running": true,
+      "targets": [
+        {
+          "id": "28403349192656",
+          "cells": {
+            "target": "1.5 x 2 sticky notes assorted colors\n1.5 x 2 各种颜色的便利贴",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.30\nUS$0.30",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "237422155733681",
+          "cells": {
+            "target": "1.5x2 sticky notes 24 pads\n1.5x2 便利贴 24 张纸巾",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.30\nUS$0.30",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "177446718017175",
+          "cells": {
+            "target": "small sticky notes 2400 sheets\n小便利贴 2400 张",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.30\nUS$0.30",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        }
+      ],
+      "targets_running": true,
+      "verified": true,
+      "status": "verified-running"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "R007",
+    "code": "5088NL_SC",
+    "asin": "B07RP9MB7Y",
+    "skus": [
+      "4A 5088-N-L",
+      "4A GM5088-N-L"
+    ],
+    "daily": 3,
+    "bid": 0.3,
+    "keywords": [
+      "5x8 lined sticky notes 8 pads",
+      "5x8 lined sticky notes 800 sheets",
+      "large lined sticky notes 5 x 8 assorted colors"
+    ],
+    "page": 171,
+    "end": "2026-11-10",
+    "match": "EXACT",
+    "strategy": "dynamic down-only",
+    "name": "SP_VC_REVIEW_R007_5088NL_SC_EXACT_20261103",
+    "status": "launched",
+    "stage": "pending-independent-verification",
+    "sent": true,
+    "started_at": "2026-11-03T08:41:13.239Z",
+    "sent_at": "2026-11-03T08:41:58.456Z",
+    "campaignId": "A1023898G0XCFWI240KT",
+    "publicCampaignId": "72857080019008",
+    "finished_at": "2026-11-03T08:42:06.083Z",
+    "verification": {
+      "group": "R007",
+      "campaignId": "A1023898G0XCFWI240KT",
+      "checked_at": "2026-11-03T09:11:35.248Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 3,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "end_matches": true,
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A1023898G0XCFWI240KT/ad-groups/173958557877960/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A1023898G0XCFWI240KT/ad-groups/A07008912C85JVRSPHB9L/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "products": [
+        {
+          "id": "A039813628V0N6TWADX1L",
+          "cells": {
+            "adName": "4A 8 Pads Lined Sticky Notes with Lines 5 x 8 in, 50 Sheets/Pad, 400 Sheets | Bright Colored Large Sticky Note Pads for Office \n\nUS$19.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A 5088-N-L\n\nB07RP9MB7Y \n1 条建议",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        },
+        {
+          "id": "A039798022KOBNT7LE2XG",
+          "cells": {
+            "adName": "4A 8 Pads Lined Sticky Notes with Lines 5 x 8 in, 50 Sheets/Pad, 400 Sheets | Bright Colored Large Sticky Note Pads for Office \n\nUS$19.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A GM5088-N-L\n\nB07RP9MB7Y \n1 条建议",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ],
+      "products_running": true,
+      "targets": [
+        {
+          "id": "268971429336136",
+          "cells": {
+            "target": "5x8 lined sticky notes 8 pads\n5x8 内衬便利贴 8 张纸巾",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.30\nUS$0.30",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "187188165719687",
+          "cells": {
+            "target": "5x8 lined sticky notes 800 sheets\n5x8 内衬便利贴 800 张",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.30\nUS$0.30",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "176836817029273",
+          "cells": {
+            "target": "large lined sticky notes 5 x 8 assorted colors\n大号内衬便利贴 5 x 8 各种颜色",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.30\nUS$0.30",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        }
+      ],
+      "targets_running": true,
+      "verified": true,
+      "status": "verified-running"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "R008",
+    "code": "5084NL_SC",
+    "asin": "B07F2B49BL",
+    "skus": [
+      "4A 5084-N-L"
+    ],
+    "daily": 3,
+    "bid": 0.3,
+    "keywords": [
+      "5x8 lined sticky notes 8 pads",
+      "large lined sticky notes 5 x 8",
+      "5x8 sticky notes 400 sheets"
+    ],
+    "page": 171,
+    "end": "2026-11-10",
+    "match": "EXACT",
+    "strategy": "dynamic down-only",
+    "name": "SP_VC_REVIEW_R008_5084NL_SC_EXACT_20261103",
+    "status": "launched",
+    "stage": "pending-independent-verification",
+    "sent": true,
+    "started_at": "2026-11-03T08:42:06.084Z",
+    "sent_at": "2026-11-03T08:42:47.438Z",
+    "campaignId": "A02033959R3UYQEOUERA",
+    "publicCampaignId": "105258674425432",
+    "finished_at": "2026-11-03T08:42:54.498Z",
+    "verification": {
+      "group": "R008",
+      "campaignId": "A02033959R3UYQEOUERA",
+      "checked_at": "2026-11-03T09:12:23.915Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 3,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "end_matches": true,
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A02033959R3UYQEOUERA/ad-groups/58359435582035/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A02033959R3UYQEOUERA/ad-groups/A088295636BHV6O0CQIA5/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "products": [
+        {
+          "id": "A0087165H0TNEONFHGNE",
+          "cells": {
+            "adName": "4A 4 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, 50 Sheets/Pad | 200 Sheets Total \n\nUS$15.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A 5084-N-L\n\nB07F2B49BL",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ],
+      "products_running": true,
+      "targets": [
+        {
+          "id": "252388226398185",
+          "cells": {
+            "target": "5x8 lined sticky notes 8 pads\n5x8 内衬便利贴 8 张纸巾",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.30\nUS$0.30",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "160298084526409",
+          "cells": {
+            "target": "5x8 sticky notes 400 sheets\n5x8 便利贴 400 张",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.30\nUS$0.30",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "191879747713292",
+          "cells": {
+            "target": "large lined sticky notes 5 x 8\n大号内衬便利贴 5 x 8",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.30\nUS$0.30",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        }
+      ],
+      "targets_running": true,
+      "verified": true,
+      "status": "verified-running"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "R013",
+    "code": "BP1515N4_SC",
+    "asin": "B07R1XLCP4",
+    "skus": [
+      "4A GMBP 1515-Nx4"
+    ],
+    "daily": 2,
+    "bid": 0.3,
+    "keywords": [
+      "15x15 sticky notes 4 pads",
+      "15 x 15 large sticky notes",
+      "giant sticky notes 15x15"
+    ],
+    "page": 171,
+    "end": "2026-11-10",
+    "match": "EXACT",
+    "strategy": "dynamic down-only",
+    "name": "SP_VC_REVIEW_R013_BP1515N4_SC_EXACT_20261103",
+    "status": "launched",
+    "stage": "pending-independent-verification",
+    "sent": true,
+    "started_at": "2026-11-03T08:42:54.499Z",
+    "sent_at": "2026-11-03T08:43:39.421Z",
+    "campaignId": "A06648202WUCTKJ5QF2WU",
+    "publicCampaignId": "253187259325435",
+    "finished_at": "2026-11-03T08:43:46.314Z",
+    "verification": {
+      "group": "R013",
+      "campaignId": "A06648202WUCTKJ5QF2WU",
+      "checked_at": "2026-11-03T09:13:05.734Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 2,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "end_matches": true,
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A06648202WUCTKJ5QF2WU/ad-groups/114082610814276/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A06648202WUCTKJ5QF2WU/ad-groups/A0512001224WSVDCTF163/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "products": [
+        {
+          "id": "A0201211YCJKLP1FA490",
+          "cells": {
+            "adName": "4A 4 Pads Big Sticky Notes 15 x 15 Inches, Bright Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad \n\nUS$59.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A GMBP 1515-Nx4\n\nB07R1XLCP4 \n1 条建议",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ],
+      "products_running": true,
+      "targets": [
+        {
+          "id": "253798382661629",
+          "cells": {
+            "target": "15 x 15 large sticky notes\n15 x 15 张大号便利贴",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.30\nUS$0.30",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "96986582148442",
+          "cells": {
+            "target": "15x15 sticky notes 4 pads\n15x15 便利贴 4 张纸巾",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.30\nUS$0.30",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "5460824731288",
+          "cells": {
+            "target": "giant sticky notes 15x15\n巨型便条纸 15x15",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.30\nUS$0.30",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        }
+      ],
+      "targets_running": true,
+      "verified": true,
+      "status": "verified-running"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "R014",
+    "code": "608SL4_VC",
+    "asin": "B073VPHSJ9",
+    "skus": [
+      "4A 608S-Lx4"
+    ],
+    "daily": 2,
+    "bid": 0.2,
+    "keywords": [
+      "6x8 lined sticky notes 4 pads",
+      "6 x 8 super sticky notes lined",
+      "6x8 sticky notes 200 sheets"
+    ],
+    "page": 171,
+    "end": "2026-11-10",
+    "match": "EXACT",
+    "strategy": "dynamic down-only",
+    "name": "SP_VC_REVIEW_R014_608SL4_VC_EXACT_20261103",
+    "status": "launched",
+    "stage": "pending-independent-verification",
+    "sent": true,
+    "started_at": "2026-11-03T08:43:46.315Z",
+    "sent_at": "2026-11-03T08:44:28.276Z",
+    "campaignId": "A038326439P2B45WQA0AC",
+    "publicCampaignId": "201923420622406",
+    "finished_at": "2026-11-03T08:44:34.769Z",
+    "verification": {
+      "group": "R014",
+      "campaignId": "A038326439P2B45WQA0AC",
+      "checked_at": "2026-11-03T09:13:47.674Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 2,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "end_matches": true,
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A038326439P2B45WQA0AC/ad-groups/35391780245122/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A038326439P2B45WQA0AC/ad-groups/A00878283882W41E7HBWY/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "products": [
+        {
+          "id": "A05877703CHMGLWKBZQT3",
+          "cells": {
+            "adName": "4A Super Sticky,6 x 8 Inches,Extra Bright Color Assorted,Lined,Self-Stick Notes,50 Sheets/Pad,4 Pads/Pack,200 Sheets/Pack,4A 608S-Lx4 \n\nUS$13.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A 608S-Lx4\n\nB073VPHSJ9",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ],
+      "products_running": true,
+      "targets": [
+        {
+          "id": "181355044318978",
+          "cells": {
+            "target": "6 x 8 super sticky notes lined\n内衬有 6 x 8 张超级便利贴",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.20\nUS$0.20",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "94580681913313",
+          "cells": {
+            "target": "6x8 lined sticky notes 4 pads\n6x8 内衬便利贴 4 张纸巾",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.20\nUS$0.20",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "129844294986535",
+          "cells": {
+            "target": "6x8 sticky notes 200 sheets\n6x8 便签纸 200 张",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.20\nUS$0.20",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        }
+      ],
+      "targets_running": true,
+      "verified": true,
+      "status": "verified-running"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "R018",
+    "code": "608NL210_SC",
+    "asin": "B07B8RBCKT",
+    "skus": [
+      "AAAA 4A 608-N-L-210",
+      "4A 608-N-L-210"
+    ],
+    "daily": 2,
+    "bid": 0.08,
+    "keywords": [
+      "6x8 lined sticky notes 210 sheets",
+      "6x8 sticky note thick pad",
+      "6 x 8 lined sticky notes neon"
+    ],
+    "page": 171,
+    "end": "2026-11-10",
+    "match": "EXACT",
+    "strategy": "dynamic down-only",
+    "name": "SP_VC_REVIEW_R018_608NL210_SC_EXACT_20261103",
+    "status": "launched",
+    "stage": "pending-independent-verification",
+    "sent": true,
+    "started_at": "2026-11-03T08:44:34.770Z",
+    "sent_at": "2026-11-03T08:46:21.246Z",
+    "campaignId": "A030465431U85ANCZFINA",
+    "publicCampaignId": "222268354103101",
+    "finished_at": "2026-11-03T08:46:31.340Z",
+    "verification": {
+      "group": "R018",
+      "campaignId": "A030465431U85ANCZFINA",
+      "checked_at": "2026-11-03T09:14:37.133Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 2,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "end_matches": true,
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A030465431U85ANCZFINA/ad-groups/213213968165025/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A030465431U85ANCZFINA/ad-groups/A0354628G8QEHU6J88K1/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "products": [
+        {
+          "id": "A10124273T7M46G691V6D",
+          "cells": {
+            "adName": "4A Lined Sticky Notes, 6 x 8 in, Bright Colors | 210 sheets total for notes and reminders \n\nUS$11.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "AAAA 4A 608-N-L-210\n\nB07B8RBCKT",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        },
+        {
+          "id": "A1012271Z3CQOW54PJTC",
+          "cells": {
+            "adName": "4A Lined Sticky Notes, 6 x 8 in, Bright Colors | 210 sheets total for notes and reminders \n\nUS$11.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A 608-N-L-210\n\nB07B8RBCKT",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ],
+      "products_running": true,
+      "targets": [
+        {
+          "id": "147664424921285",
+          "cells": {
+            "target": "6 x 8 lined sticky notes neon\n6 x 8 行便签霓虹灯",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.08\nUS$0.08",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "48406169616211",
+          "cells": {
+            "target": "6x8 lined sticky notes 210 sheets\n6x8 内衬便利贴 210 张",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.08\nUS$0.08",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "62996729144145",
+          "cells": {
+            "target": "6x8 sticky note thick pad\n6x8 粘性便签厚垫",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.08\nUS$0.08",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        }
+      ],
+      "targets_running": true,
+      "verified": true,
+      "status": "verified-running"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "B12",
+    "code": "PSS32x6_VC",
+    "asin": "B08CVLH794",
+    "skus": [
+      "4A PSS32x6-B08CV-FBM"
+    ],
+    "daily": 2,
+    "bid": 0.25,
+    "keywords": [
+      "0.6 inch sticky note roll",
+      "6 color sticky note rolls with dispenser",
+      "full adhesive sticky note roll 0.6 inch"
+    ],
+    "page": 171,
+    "end": "2026-11-10",
+    "match": "EXACT",
+    "strategy": "dynamic down-only",
+    "name": "SP_VC_REVIEW_B12_PSS32x6_VC_EXACT_20261103",
+    "status": "not-launched",
+    "stage": "manual",
+    "sent": false,
+    "started_at": "2026-11-03T08:46:31.341Z",
+    "error": "Error: Error: Failed to interact with the element with uid 618_2. The element did not become interactive within the configured timeout."
+  },
+  {
+    "group": "B12",
+    "code": "PSS32x6_VC",
+    "asin": "B08CVLH794",
+    "skus": [
+      "4A PSS32x6-B08CV-FBM"
+    ],
+    "daily": 2,
+    "bid": 0.25,
+    "keywords": [
+      "0.6 inch sticky note roll",
+      "6 color sticky note rolls with dispenser",
+      "full adhesive sticky note roll 0.6 inch"
+    ],
+    "page": 171,
+    "end": "2026-11-10",
+    "match": "EXACT",
+    "strategy": "dynamic down-only",
+    "name": "SP_VC_REVIEW_B12_PSS32x6_VC_EXACT_20261103",
+    "status": "launched",
+    "stage": "pending-independent-verification",
+    "sent": true,
+    "started_at": "2026-11-03T08:51:27.241Z",
+    "sent_at": "2026-11-03T08:52:11.321Z",
+    "campaignId": "A08999323M5EPQNASO48Q",
+    "publicCampaignId": "76233215149222",
+    "finished_at": "2026-11-03T08:52:22.496Z",
+    "verification": {
+      "group": "B12",
+      "campaignId": "A08999323M5EPQNASO48Q",
+      "checked_at": "2026-11-03T09:15:28.254Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 2,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "end_matches": true,
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A08999323M5EPQNASO48Q/ad-groups/202470829530235/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A08999323M5EPQNASO48Q/ad-groups/A04964102BM2R7G1X4GKG/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "products": [
+        {
+          "id": "A0582290USR621L9PSGU",
+          "cells": {
+            "adName": "4A Roll Sticky Notes with Dispenser, Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6 \n\nUS$13.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A PSS32x6-B08CV-FBM\n\nB08CVLH794",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ],
+      "products_running": true,
+      "targets": [
+        {
+          "id": "212851464213388",
+          "cells": {
+            "target": "0.6 inch sticky note roll\n0.6 英寸的便利贴纸",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.25\nUS$0.25",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "38438629142541",
+          "cells": {
+            "target": "6 color sticky note rolls with dispenser\n带分配器的 6 种彩色便利贴卷",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.25\nUS$0.25",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "155824531484259",
+          "cells": {
+            "target": "full adhesive sticky note roll 0.6 inch\n全粘便签卷 0.6 英寸",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.25\nUS$0.25",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        }
+      ],
+      "targets_running": true,
+      "verified": true,
+      "status": "verified-running"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "B14",
+    "code": "404ACHolder_VC",
+    "asin": "B07Z2555TN",
+    "skus": [
+      "4A 404-AC-Holder",
+      "4A 404AC-B07Z-FBM"
+    ],
+    "daily": 2,
+    "bid": 0.25,
+    "keywords": [
+      "4x4 acrylic sticky note holder",
+      "4x4 sticky note holder with pen holder",
+      "acrylic sticky note holder set 4x4"
+    ],
+    "page": 171,
+    "end": "2026-11-10",
+    "match": "EXACT",
+    "strategy": "dynamic down-only",
+    "name": "SP_VC_REVIEW_B14_404ACHolder_VC_EXACT_20261103",
+    "status": "launched",
+    "stage": "pending-independent-verification",
+    "sent": true,
+    "started_at": "2026-11-03T08:52:22.497Z",
+    "sent_at": "2026-11-03T08:53:07.259Z",
+    "campaignId": "A08016981TJR1LB581UL8",
+    "publicCampaignId": "204903242817092",
+    "finished_at": "2026-11-03T08:53:14.152Z",
+    "verification": {
+      "group": "B14",
+      "campaignId": "A08016981TJR1LB581UL8",
+      "checked_at": "2026-11-03T09:16:15.307Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 2,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "end_matches": true,
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A08016981TJR1LB581UL8/ad-groups/114551358593926/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A08016981TJR1LB581UL8/ad-groups/A01482471O252E3R7B0XS/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "products": [
+        {
+          "id": "A04089642XE9K119NRZOC",
+          "cells": {
+            "adName": "4A Self-Stick Notes, Neon Assorted, 4A 404-AC-Holder | B07Z2555TN \n\nUS$15.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A 404-AC-Holder\n\nB07Z2555TN",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        },
+        {
+          "id": "A04090641A6G4X9657LYY",
+          "cells": {
+            "adName": "4A Self-Stick Notes, Neon Assorted, 4A 404-AC-Holder | B07Z2555TN \n\nUS$15.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A 404AC-B07Z-FBM\n\nB07Z2555TN",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ],
+      "products_running": true,
+      "targets": [
+        {
+          "id": "120502398445164",
+          "cells": {
+            "target": "4x4 acrylic sticky note holder\n4x4 亚克力便签夹",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.25\nUS$0.25",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "249145423657479",
+          "cells": {
+            "target": "4x4 sticky note holder with pen holder\n带笔架的 4x4 便签夹",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "US$0.48 (US$0.36-US$0.53)\n应用\n—",
+            "bid": "US$0.25\nUS$0.25",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "206857623438304",
+          "cells": {
+            "target": "acrylic sticky note holder set 4x4\n亚克力便签夹套装 4x4",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.25\nUS$0.25",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        }
+      ],
+      "targets_running": true,
+      "verified": true,
+      "status": "verified-running"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "B7",
+    "code": "2028N_VC",
+    "asin": "B07DJXC4PJ",
+    "skus": [
+      "4A 2028-N-FBA",
+      "4A 2028-N-B07DJ-FBM"
+    ],
+    "daily": 1,
+    "bid": 0.1,
+    "keywords": [
+      "2x2 neon sticky notes 8 pads",
+      "2x2 sticky notes 800 sheets",
+      "small neon sticky notes 2x2"
+    ],
+    "page": 171,
+    "end": "2026-11-10",
+    "match": "EXACT",
+    "strategy": "dynamic down-only",
+    "name": "SP_VC_REVIEW_B7_2028N_VC_EXACT_20261103",
+    "status": "launched",
+    "stage": "pending-independent-verification",
+    "sent": true,
+    "started_at": "2026-11-03T08:53:14.152Z",
+    "sent_at": "2026-11-03T08:53:57.542Z",
+    "campaignId": "A07249551GMHP8OWFISJY",
+    "publicCampaignId": "201237300710020",
+    "finished_at": "2026-11-03T08:54:05.175Z",
+    "verification": {
+      "group": "B7",
+      "campaignId": "A07249551GMHP8OWFISJY",
+      "checked_at": "2026-11-03T09:16:56.047Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 1,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "end_matches": true,
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A07249551GMHP8OWFISJY/ad-groups/27277812377394/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A07249551GMHP8OWFISJY/ad-groups/A04392512G9ODRKC5IRTM/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "products": [
+        {
+          "id": "A04336592APUWMSK893SC",
+          "cells": {
+            "adName": "4A 2028-N Sticky Notes, 2 x 2 Inches, Small Size, Self-Stick Notes, 100 Sheets/Pad, 8 Pads/Pack, Neon Color \n\nUS$4.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A 2028-N-FBA\n\nB07DJXC4PJ",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        },
+        {
+          "id": "A04335032DJ0LKIF4PX7G",
+          "cells": {
+            "adName": "4A 2028-N Sticky Notes, 2 x 2 Inches, Small Size, Self-Stick Notes, 100 Sheets/Pad, 8 Pads/Pack, Neon Color \n\nUS$4.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A 2028-N-B07DJ-FBM\n\nB07DJXC4PJ",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ],
+      "products_running": true,
+      "targets": [
+        {
+          "id": "198855822097814",
+          "cells": {
+            "target": "2x2 neon sticky notes 8 pads\n2x2 霓虹便条 8 张纸巾",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.10\nUS$0.10",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "214092918887250",
+          "cells": {
+            "target": "2x2 sticky notes 800 sheets\n2x2 便利贴 800 张",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.10\nUS$0.10",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "212632407892276",
+          "cells": {
+            "target": "small neon sticky notes 2x2\n小霓虹便签 2x2",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.10\nUS$0.10",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        }
+      ],
+      "targets_running": true,
+      "verified": true,
+      "status": "verified-running"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "RE302",
+    "code": "302FULL",
+    "asin": "B0F2TKL2P5",
+    "skus": [
+      "4A 302-Full Adhesive-400"
+    ],
+    "daily": 2,
+    "bid": 0.25,
+    "keywords": [
+      "full stick post it notes"
+    ],
+    "page": 171,
+    "end": "2026-11-10",
+    "match": "EXACT",
+    "strategy": "dynamic down-only",
+    "name": "SP_VC_REVIEW_RE302_302FULL_EXACT_20261103",
+    "status": "launched",
+    "stage": "pending-independent-verification",
+    "sent": true,
+    "started_at": "2026-11-03T08:54:05.176Z",
+    "sent_at": "2026-11-03T08:54:50.216Z",
+    "campaignId": "A04178601Q8I7DWZSLKR0",
+    "publicCampaignId": "83043845792053",
+    "finished_at": "2026-11-03T08:54:57.657Z",
+    "verification": {
+      "group": "RE302",
+      "campaignId": "A04178601Q8I7DWZSLKR0",
+      "checked_at": "2026-11-03T09:17:34.484Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 2,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "end_matches": true,
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A04178601Q8I7DWZSLKR0/ad-groups/184860993175727/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A04178601Q8I7DWZSLKR0/ad-groups/A06654551CZDA27VIB2A0/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "products": [
+        {
+          "id": "A06674563TG7WRFDO14VC",
+          "cells": {
+            "adName": "4A Full Adhesive Sticky Notes 3 x 2 in, Bright Colors, Colorful Small Self-Stick Note Pads for Office, School Supplies, 80 Sheets/Color, 5 Colors/Pack, 400 Sheets Total,4A 302-Full Adhesive-400 \n\nUS$17.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A 302-Full Adhesive-400\n\nB0F2TKL2P5",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ],
+      "products_running": true,
+      "targets": [
+        {
+          "id": "36689448650082",
+          "cells": {
+            "target": "full stick post it notes\n全胶便利贴",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "US$1.09 (US$0.96-US$1.31)\n应用\n—",
+            "bid": "US$0.25\nUS$0.25",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        }
+      ],
+      "targets_running": true,
+      "verified": true,
+      "status": "verified-running"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "RE303",
+    "code": "303FULL",
+    "asin": "B07QXJYTZ7",
+    "skus": [
+      "4A 303-Full Adhesive-400"
+    ],
+    "daily": 2,
+    "bid": 0.25,
+    "keywords": [
+      "full sticky back post it notes"
+    ],
+    "page": 171,
+    "end": "2026-11-10",
+    "match": "EXACT",
+    "strategy": "dynamic down-only",
+    "name": "SP_VC_REVIEW_RE303_303FULL_EXACT_20261103",
+    "status": "launched",
+    "stage": "pending-independent-verification",
+    "sent": true,
+    "started_at": "2026-11-03T08:54:57.659Z",
+    "sent_at": "2026-11-03T08:55:39.215Z",
+    "campaignId": "A0633133G7HGM4YEPSHE",
+    "publicCampaignId": "73428717527736",
+    "finished_at": "2026-11-03T08:55:44.961Z",
+    "verification": {
+      "group": "RE303",
+      "campaignId": "A0633133G7HGM4YEPSHE",
+      "checked_at": "2026-11-03T09:18:11.678Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 2,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "end_matches": true,
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A0633133G7HGM4YEPSHE/ad-groups/100063655417200/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A0633133G7HGM4YEPSHE/ad-groups/A04953063FOXSP20YAOV1/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "products": [
+        {
+          "id": "A09894151VIHQOSAGPDUV",
+          "cells": {
+            "adName": "4A Sticky Full Adhesive Notes,3 1/3 x 3 Inches,80 Sheets/Color,Self-Stick Notes,5 Colors/Pack,400 Sheets Total,4A 303-Full Adhesive-400 \n\nUS$22.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A 303-Full Adhesive-400\n\nB07QXJYTZ7",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ],
+      "products_running": true,
+      "targets": [
+        {
+          "id": "71825437436907",
+          "cells": {
+            "target": "full sticky back post it notes\n全贴背便利贴",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "US$1.39 (US$1.05-US$1.70)\n应用\n—",
+            "bid": "US$0.25\nUS$0.25",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        }
+      ],
+      "targets_running": true,
+      "verified": true,
+      "status": "verified-running"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "R001",
+    "code": "30112N_VC",
+    "asin": "B01LVTWP7Q",
+    "skus": [
+      "4A301x12-N-B01LVT-FBM"
+    ],
+    "daily": 3,
+    "bid": 0.2,
+    "keywords": [
+      "1.5x2 sticky notes 12 pads",
+      "1.5 x 2 neon sticky notes",
+      "small sticky notes 1200 sheets"
+    ],
+    "page": 171,
+    "end": "2026-11-09",
+    "match": "EXACT",
+    "strategy": "dynamic down-only",
+    "note": "advertise new FBM; retain morning354818 as latest union request; no Yduplicatecampaign; FBA base5.99 negative estimated contribution so excluded binding",
+    "name": "SP_VC_REVIEW_R001_30112N_VC_EXACT_20261103",
+    "status": "launched",
+    "stage": "pending-independent-verification",
+    "sent": true,
+    "started_at": "2026-11-03T08:55:44.962Z",
+    "sent_at": "2026-11-03T08:56:27.145Z",
+    "campaignId": "A0219519PE5RDQRTARA9",
+    "publicCampaignId": "201025833740906",
+    "finished_at": "2026-11-03T08:56:34.070Z",
+    "verification": {
+      "group": "R001",
+      "campaignId": "A0219519PE5RDQRTARA9",
+      "checked_at": "2026-11-03T09:18:48.828Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 3,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "end_matches": true,
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A0219519PE5RDQRTARA9/ad-groups/132547789467902/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A0219519PE5RDQRTARA9/ad-groups/A090329210VBY9FNHB3OE/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "products": [
+        {
+          "id": "A03960401HLUAFLRI70Q2",
+          "cells": {
+            "adName": "4A Sticky Notes, 1.5 x 2 in, 12 Pads, Neon Colors | 100 sheets per pad \n\nUS$5.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A301x12-N-B01LVT-FBM\n\nB01LVTWP7Q",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ],
+      "products_running": true,
+      "targets": [
+        {
+          "id": "60617417803643",
+          "cells": {
+            "target": "1.5 x 2 neon sticky notes\n1.5 x 2 霓虹便条",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.20\nUS$0.20",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "151842310074032",
+          "cells": {
+            "target": "1.5x2 sticky notes 12 pads\n1.5x2 便签纸 12 张纸巾",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.20\nUS$0.20",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "69644201067124",
+          "cells": {
+            "target": "small sticky notes 1200 sheets\n小便利贴 1200 张",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.20\nUS$0.20",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        }
+      ],
+      "targets_running": true,
+      "verified": true,
+      "status": "verified-running"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "R009",
+    "code": "30124Y_SC_CARTON48",
+    "asin": "B01N9HHKRM",
+    "skus": [
+      "4A 003"
+    ],
+    "daily": 2,
+    "bid": 0.35,
+    "keywords": [
+      "yellow sticky notes case pack",
+      "sticky notes bulk 1152 pads",
+      "1.5 x 2 yellow sticky notes wholesale"
+    ],
+    "page": 171,
+    "end": "2026-11-09",
+    "match": "EXACT",
+    "strategy": "dynamic down-only",
+    "note": "Currentbuyable48packcarton1152pads; no single24padtargeting; estimatedFOB120,fees37.50 leaves92.48 beforeactualoutbound/packing/ads, actualnetprofitunverified",
+    "name": "SP_VC_REVIEW_R009_30124Y_SC_CARTON48_EXACT_20261103",
+    "status": "paused-user-pack-correction",
+    "stage": "paused-independent-verified",
+    "sent": true,
+    "started_at": "2026-11-03T09:31:10.028Z",
+    "sent_at": "2026-11-03T09:31:59.042Z",
+    "campaignId": "A02428392J4FK7WOMDKK",
+    "publicCampaignId": "21046206238260",
+    "finished_at": "2026-11-03T09:32:05.326Z",
+    "paused_at": "2026-11-03T09:36:50.830Z",
+    "pause_reason": "User confirms301x24 means24padsonepack;48packcartonnotapprovedsalesunit",
+    "pause_verified": true
+  },
+  {
+    "group": "R010",
+    "code": "SMC434_VC",
+    "asin": "B00SMEDUWQ",
+    "skus": [
+      "4A092"
+    ],
+    "daily": 2,
+    "bid": 0.2,
+    "keywords": [
+      "2.5 inch sticky note cube",
+      "bubble patterned sticky note cube",
+      "sticky memo cube 500 sheets"
+    ],
+    "page": 171,
+    "end": "2026-11-09",
+    "match": "EXACT",
+    "strategy": "dynamic down-only",
+    "note": "Launch after verified publicFeaturedOffer restored9.49+8.99; exacthealth no suggestions. Limitedstock6, no globalshippingchanges.",
+    "name": "SP_VC_REVIEW_R010_SMC434_VC_EXACT_20261103",
+    "status": "launched",
+    "stage": "pending-independent-verification",
+    "sent": true,
+    "started_at": "2026-11-03T10:51:29.203Z",
+    "sent_at": "2026-11-03T10:55:47.462Z",
+    "campaignId": "A03038412RJ3XS1AVIN5T",
+    "publicCampaignId": "50542779480330",
+    "finished_at": "2026-11-03T10:55:56.638Z",
+    "verification": {
+      "group": "R010",
+      "campaignId": "A03038412RJ3XS1AVIN5T",
+      "checked_at": "2026-11-03T10:57:52.026Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 2,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "end_matches": true,
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A03038412RJ3XS1AVIN5T/ad-groups/137382193576263/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A03038412RJ3XS1AVIN5T/ad-groups/A09254631C5TMBET1DJHA/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "products": [
+        {
+          "id": "A07658391P03F65IIKEN4",
+          "cells": {
+            "adName": "4A Sticky Memo Cube,2 1/2 Inches,Bubble Patterned Printed On The Four Sides,Self-Stick Notes Cube,About 500 Sheets/Cube,1 Cube/Pack,4A SMC 434 \n\nUS$9.49",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A092\n\nB00SMEDUWQ \n1 条建议",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ],
+      "products_running": true,
+      "targets": [
+        {
+          "id": "88402842488370",
+          "cells": {
+            "target": "2.5 inch sticky note cube\n2.5 英寸便签立方体",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.20\nUS$0.20",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "123907108980409",
+          "cells": {
+            "target": "bubble patterned sticky note cube\n泡泡图案便签立方体",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.20\nUS$0.20",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        },
+        {
+          "id": "214904314229318",
+          "cells": {
+            "target": "sticky memo cube 500 sheets\n粘性备忘录立方体 500 张",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.20\nUS$0.20",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—"
+          }
+        }
+      ],
+      "targets_running": true,
+      "verified": true,
+      "status": "verified-running"
+    },
+    "independently_verified": true
+  }
+]

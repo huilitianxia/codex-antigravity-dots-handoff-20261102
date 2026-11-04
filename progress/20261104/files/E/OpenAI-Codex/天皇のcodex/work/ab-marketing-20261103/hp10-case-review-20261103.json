@@ -1,0 +1,69 @@
+{
+  "case": "22958516811",
+  "case_url": "https://sellercentral.amazon.com/cu/case-dashboard/view-case?caseID=22958516811",
+  "reply_at_Beijing": "2026-11-03 14:23",
+  "case_status": "已回答",
+  "asin": "B00SMEDUWQ",
+  "model": "4A SMC434",
+  "actual_resolution": true,
+  "amazon_determination": "Total item price + shipping exceeds Featured Offer evaluation range; internal reference/packaging criteria not disclosed",
+  "next_required_evidence": [
+    "Brand/manufacturer official exact-product URL",
+    "Same model/brand/currency/USmarket retail URL",
+    "Manufacturer MSRP label photo inUSD",
+    "RelevantPO onlyif tariff claimed"
+  ],
+  "current_VC_offer": {
+    "sku": "4A092",
+    "item": 11.99,
+    "shipping": 8.99,
+    "total": 20.98,
+    "stock": 6,
+    "featured_offer": "absent"
+  },
+  "alternate_SC_offer_readonly": {
+    "asin": "B07FKHNTRK",
+    "FBA_sku": "AAAA 4A SMC 434",
+    "FBA_price": 15.99,
+    "FBA_available": 26,
+    "FBA_30d_units": 19,
+    "featured_offer": 15.99,
+    "FBM_sku": "4A GMSMC 434",
+    "FBM_price": 12.99,
+    "FBM_shipping": 8.99,
+    "FBM_quantity": 979
+  },
+  "source": "hp-case22958516811-current.txt; hp-review-current.txt; hp10-sc-current.txt",
+  "live_price_changes_this_task": 1,
+  "new_case_sent": false,
+  "followup_sent": false,
+  "resolved_at": "2026-11-03T10:51:29.206Z",
+  "controlled_new_price": 9.49,
+  "shipping_unchanged": 8.99,
+  "total": 18.48,
+  "stock": 6,
+  "featured_offer_restored": true,
+  "public_cart_buy_now_enabled": true,
+  "exact_pricing_health": "no suggestions forB00SMEDUWQ",
+  "price_source": "PricingHealth save accepted; independentretailread",
+  "ad_pending": {
+    "group": "R010",
+    "code": "SMC434_VC",
+    "asin": "B00SMEDUWQ",
+    "skus": [
+      "4A092"
+    ],
+    "daily": 2,
+    "bid": 0.2,
+    "keywords": [
+      "2.5 inch sticky note cube",
+      "bubble patterned sticky note cube",
+      "sticky memo cube 500 sheets"
+    ],
+    "page": 171,
+    "end": "2026-11-09",
+    "match": "EXACT",
+    "strategy": "dynamic down-only",
+    "note": "Launch after verified publicFeaturedOffer restored9.49+8.99; exacthealth no suggestions. Limitedstock6, no globalshippingchanges."
+  }
+}

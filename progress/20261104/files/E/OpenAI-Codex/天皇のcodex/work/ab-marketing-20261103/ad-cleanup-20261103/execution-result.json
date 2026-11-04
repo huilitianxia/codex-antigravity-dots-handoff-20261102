@@ -1,0 +1,20 @@
+{
+  "status": "complete",
+  "paused_and_live_verified": 20,
+  "already_ended_no_delivery": 81,
+  "retained_old_effective": 6,
+  "retained_new_exact": 13,
+  "paused_campaign_historical_spend": 735.92,
+  "paused_campaign_historical_attributed_sales": 1597.93,
+  "source_period_label": "2026-10-04 to2026-11-03",
+  "selection_assumption": "Temporary30percentACOSforregrouping,notprofitbreak-even",
+  "report": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261103-ad-cleanup\\4A广告暂停与保留明细_20261103.xlsx",
+  "sha256": "62f8d0e8a605d4f337e9440b8b329cf649440e0a6dedf6a0b28beae0bb0f9e01",
+  "bulk_upload_id": "3332cf2f-1d5f-4049-b5e3-142aaeeea34d",
+  "user_hold": "No new listings/campaign launches; show pauses first then new scope",
+  "scope_review": {
+    "existing_enabled13": 13,
+    "unlaunched_new_products": 3,
+    "unlaunched_rebuild_candidates": 2
+  }
+}

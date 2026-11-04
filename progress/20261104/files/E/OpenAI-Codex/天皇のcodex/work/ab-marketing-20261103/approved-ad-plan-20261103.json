@@ -1,0 +1,284 @@
+{
+  "status": "approved-prelaunch",
+  "specs": [
+    {
+      "group": "R002",
+      "code": "BS1801_VC",
+      "asin": "B07JVSYNYV",
+      "skus": [
+        "4A BS 1801-FBA"
+      ],
+      "daily": 3,
+      "bid": 0.2,
+      "keywords": [
+        "sticky note organizer black leather",
+        "desktop sticky notes organizer set",
+        "sticky notes and index flags organizer"
+      ],
+      "page": 171,
+      "end": "2026-11-10",
+      "match": "EXACT",
+      "strategy": "dynamic down-only"
+    },
+    {
+      "group": "R006",
+      "code": "30124_VC",
+      "asin": "B01LVXOCU2",
+      "skus": [
+        "4A 004",
+        "4A 301x24"
+      ],
+      "daily": 3,
+      "bid": 0.3,
+      "keywords": [
+        "1.5x2 sticky notes 24 pads",
+        "small sticky notes 2400 sheets",
+        "1.5 x 2 sticky notes assorted colors"
+      ],
+      "page": 171,
+      "end": "2026-11-10",
+      "match": "EXACT",
+      "strategy": "dynamic down-only"
+    },
+    {
+      "group": "R007",
+      "code": "5088NL_SC",
+      "asin": "B07RP9MB7Y",
+      "skus": [
+        "4A 5088-N-L",
+        "4A GM5088-N-L"
+      ],
+      "daily": 3,
+      "bid": 0.3,
+      "keywords": [
+        "5x8 lined sticky notes 8 pads",
+        "5x8 lined sticky notes 800 sheets",
+        "large lined sticky notes 5 x 8 assorted colors"
+      ],
+      "page": 171,
+      "end": "2026-11-10",
+      "match": "EXACT",
+      "strategy": "dynamic down-only"
+    },
+    {
+      "group": "R008",
+      "code": "5084NL_SC",
+      "asin": "B07F2B49BL",
+      "skus": [
+        "4A 5084-N-L"
+      ],
+      "daily": 3,
+      "bid": 0.3,
+      "keywords": [
+        "5x8 lined sticky notes 8 pads",
+        "large lined sticky notes 5 x 8",
+        "5x8 sticky notes 400 sheets"
+      ],
+      "page": 171,
+      "end": "2026-11-10",
+      "match": "EXACT",
+      "strategy": "dynamic down-only"
+    },
+    {
+      "group": "R013",
+      "code": "BP1515N4_SC",
+      "asin": "B07R1XLCP4",
+      "skus": [
+        "4A GMBP 1515-Nx4"
+      ],
+      "daily": 2,
+      "bid": 0.3,
+      "keywords": [
+        "15x15 sticky notes 4 pads",
+        "15 x 15 large sticky notes",
+        "giant sticky notes 15x15"
+      ],
+      "page": 171,
+      "end": "2026-11-10",
+      "match": "EXACT",
+      "strategy": "dynamic down-only"
+    },
+    {
+      "group": "R014",
+      "code": "608SL4_VC",
+      "asin": "B073VPHSJ9",
+      "skus": [
+        "4A 608S-Lx4"
+      ],
+      "daily": 2,
+      "bid": 0.2,
+      "keywords": [
+        "6x8 lined sticky notes 4 pads",
+        "6 x 8 super sticky notes lined",
+        "6x8 sticky notes 200 sheets"
+      ],
+      "page": 171,
+      "end": "2026-11-10",
+      "match": "EXACT",
+      "strategy": "dynamic down-only"
+    },
+    {
+      "group": "R018",
+      "code": "608NL210_SC",
+      "asin": "B07B8RBCKT",
+      "skus": [
+        "AAAA 4A 608-N-L-210",
+        "4A 608-N-L-210"
+      ],
+      "daily": 2,
+      "bid": 0.08,
+      "keywords": [
+        "6x8 lined sticky notes 210 sheets",
+        "6x8 sticky note thick pad",
+        "6 x 8 lined sticky notes neon"
+      ],
+      "page": 171,
+      "end": "2026-11-10",
+      "match": "EXACT",
+      "strategy": "dynamic down-only"
+    },
+    {
+      "group": "B12",
+      "code": "PSS32x6_VC",
+      "asin": "B08CVLH794",
+      "skus": [
+        "4A PSS32x6-B08CV-FBM"
+      ],
+      "daily": 2,
+      "bid": 0.25,
+      "keywords": [
+        "0.6 inch sticky note roll",
+        "6 color sticky note rolls with dispenser",
+        "full adhesive sticky note roll 0.6 inch"
+      ],
+      "page": 171,
+      "end": "2026-11-10",
+      "match": "EXACT",
+      "strategy": "dynamic down-only"
+    },
+    {
+      "group": "B14",
+      "code": "404ACHolder_VC",
+      "asin": "B07Z2555TN",
+      "skus": [
+        "4A 404-AC-Holder",
+        "4A 404AC-B07Z-FBM"
+      ],
+      "daily": 2,
+      "bid": 0.25,
+      "keywords": [
+        "4x4 acrylic sticky note holder",
+        "4x4 sticky note holder with pen holder",
+        "acrylic sticky note holder set 4x4"
+      ],
+      "page": 171,
+      "end": "2026-11-10",
+      "match": "EXACT",
+      "strategy": "dynamic down-only"
+    },
+    {
+      "group": "B7",
+      "code": "2028N_VC",
+      "asin": "B07DJXC4PJ",
+      "skus": [
+        "4A 2028-N-FBA",
+        "4A 2028-N-B07DJ-FBM"
+      ],
+      "daily": 1,
+      "bid": 0.1,
+      "keywords": [
+        "2x2 neon sticky notes 8 pads",
+        "2x2 sticky notes 800 sheets",
+        "small neon sticky notes 2x2"
+      ],
+      "page": 171,
+      "end": "2026-11-10",
+      "match": "EXACT",
+      "strategy": "dynamic down-only"
+    },
+    {
+      "group": "RE302",
+      "code": "302FULL",
+      "asin": "B0F2TKL2P5",
+      "skus": [
+        "4A 302-Full Adhesive-400"
+      ],
+      "daily": 2,
+      "bid": 0.25,
+      "keywords": [
+        "full stick post it notes"
+      ],
+      "page": 171,
+      "end": "2026-11-10",
+      "match": "EXACT",
+      "strategy": "dynamic down-only"
+    },
+    {
+      "group": "RE303",
+      "code": "303FULL",
+      "asin": "B07QXJYTZ7",
+      "skus": [
+        "4A 303-Full Adhesive-400"
+      ],
+      "daily": 2,
+      "bid": 0.25,
+      "keywords": [
+        "full sticky back post it notes"
+      ],
+      "page": 171,
+      "end": "2026-11-10",
+      "match": "EXACT",
+      "strategy": "dynamic down-only"
+    },
+    {
+      "group": "R001",
+      "code": "30112N_VC",
+      "asin": "B01LVTWP7Q",
+      "skus": [
+        "4A301x12-N-B01LVT-FBM"
+      ],
+      "daily": 3,
+      "bid": 0.2,
+      "keywords": [
+        "1.5x2 sticky notes 12 pads",
+        "1.5 x 2 neon sticky notes",
+        "small sticky notes 1200 sheets"
+      ],
+      "page": 171,
+      "end": "2026-11-09",
+      "match": "EXACT",
+      "strategy": "dynamic down-only",
+      "note": "advertise new FBM; retain morning354818 as latest union request; no Yduplicatecampaign; FBA base5.99 negative estimated contribution so excluded binding"
+    },
+    {
+      "group": "R009",
+      "code": "30124Y_SC_CARTON48",
+      "asin": "B01N9HHKRM",
+      "skus": [
+        "4A 003"
+      ],
+      "daily": 2,
+      "bid": 0.35,
+      "keywords": [
+        "yellow sticky notes case pack",
+        "sticky notes bulk 1152 pads",
+        "1.5 x 2 yellow sticky notes wholesale"
+      ],
+      "page": 171,
+      "end": "2026-11-09",
+      "match": "EXACT",
+      "strategy": "dynamic down-only",
+      "note": "Currentbuyable48packcarton1152pads; no single24padtargeting; estimatedFOB120,fees37.50 leaves92.48 beforeactualoutbound/packing/ads, actualnetprofitunverified"
+    }
+  ],
+  "new_daily": 27,
+  "pending_extra": [
+    "R001 liveFBM price/margin",
+    "R009 actual24pad SKU/package identity",
+    "R010 existingHighPricecase22958516811"
+  ],
+  "retained13_daily": 39,
+  "combined_daily_for_these": 66,
+  "portfolio_cap_to_set": 650,
+  "portfolio_end_to_set": "2026-11-10"
+}

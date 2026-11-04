@@ -1,0 +1,2543 @@
+{
+  "updated_beijing": "2026-11-03 10:21",
+  "strategy": "在已核真实同款的FBA目标页增FBM承接断货与该页广告，同时保留原FBM源页；不同ASIN不得重复计算完整库存池。",
+  "counts_original27": {
+    "已有FBM": 3,
+    "未补": 22,
+    "已补可售": 1,
+    "已建不可售": 1
+  },
+  "counts_additional22": {
+    "未补": 22
+  },
+  "counts_unique_target49": {
+    "已有FBM": 3,
+    "未补": 44,
+    "已补可售": 1,
+    "已建不可售": 1
+  },
+  "unique_target_asins": 49,
+  "explicit_exceptions": [
+    "B4 30315",
+    "B10 608210"
+  ],
+  "未补44中非明确例外": 42,
+  "meaning": "未补不是都可立即执行；含规格/合规/条码/运费门槛。3原有+1补可售=4目标有已验证MFN，另1已建未可售；非49独立物理款。",
+  "rows": [
+    {
+      "编号": "B1",
+      "产品": "5082-Y-L（5x8 浅黄横线 2 本）",
+      "目标ASIN": "B07F2BHFJH",
+      "源ASIN": [],
+      "四态": "已有FBM",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 5082-Y-L-GM",
+          "asin": "B07F2BHFJH",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "10.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        },
+        {
+          "sku": "4A FBM-5082-Y-L",
+          "asin": "B07F2BHFJH",
+          "fulfillment": "DEFAULT",
+          "quantity": "8898",
+          "price": "11.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        },
+        {
+          "sku": "4A 5082-Y-L",
+          "asin": "B07F2BHFJH",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "5.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [],
+      "已知限制或历史判断": "Target alreadyMFN; no duplicate",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [
+        {
+          "商品": "B07F2BHFJH-4A 5082-Y-L-GM",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "29.97",
+          "ROAS": "2.23",
+          "转化率": "0.2308",
+          "展示次数": "9189",
+          "点击量": "13",
+          "CTR": "0.0014",
+          "花费(USD)": "13.45",
+          "CPC(USD)": "1.03",
+          "订单数量": "3",
+          "ACOS": "0.4489",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "87"
+        },
+        {
+          "商品": "B07F2BHFJH-4A 5082-Y-L",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "0",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.00",
+          "CPC(USD)": "0.00",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B2",
+      "产品": "304 Full Glue（3x4 全胶 100 张）",
+      "目标ASIN": "B00SMEFFRE",
+      "源ASIN": [],
+      "四态": "已有FBM",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 304 Full Glue",
+          "asin": "B00SMEFFRE",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "9.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        },
+        {
+          "sku": "4A 304 Full Glue-FBM",
+          "asin": "B00SMEFFRE",
+          "fulfillment": "DEFAULT",
+          "quantity": "4947",
+          "price": "9.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [],
+      "已知限制或历史判断": "Target alreadyMFN; no duplicate",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [
+        {
+          "商品": "B00SMEFFRE-4A 304 Full Glue",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "19.99",
+          "ROAS": "48.78",
+          "转化率": "0.0000",
+          "展示次数": "279",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.41",
+          "CPC(USD)": "0.00",
+          "订单数量": "1",
+          "ACOS": "0.0205",
+          "NTB 订单数量": "1",
+          "NTB 订单数量百分比": "1.0000",
+          "NTB 销售额(USD)": "19.99",
+          "品牌新客销售额比例": "1.0000",
+          "可见展示量": "86"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B3",
+      "产品": "4012（18 本 PP 盒便签）",
+      "目标ASIN": "B01M3N310M",
+      "源ASIN": [
+        "B07FKJLZNG"
+      ],
+      "四态": "已有FBM",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 4012-B07T-FBM",
+          "asin": "B01M3N310M",
+          "fulfillment": "DEFAULT",
+          "quantity": "390",
+          "price": "12.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        },
+        {
+          "sku": "4A 4012-B07T-FBA",
+          "asin": "B01M3N310M",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "12.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GM4012",
+          "asin": "B07FKJLZNG",
+          "fulfillment": "DEFAULT",
+          "quantity": "780",
+          "price": "11.99",
+          "status": "Active",
+          "shipping_template": "Cube delivery"
+        }
+      ],
+      "已知限制或历史判断": "Target alreadyMFN; no duplicate",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [
+        {
+          "商品": "B01M3N310M-4A 4012-B07T-FBA",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "13",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.00",
+          "CPC(USD)": "0.00",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B4",
+      "产品": "30315（3x3 15 色彩虹便签 15 本）",
+      "目标ASIN": "B07F295DPC",
+      "源ASIN": [
+        "B07FKG29KB"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": true,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 30315",
+          "asin": "B07F295DPC",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "18.99",
+          "status": "Active",
+          "shipping_template": "Cube delivery"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GM30315",
+          "asin": "B07FKG29KB",
+          "fulfillment": "DEFAULT",
+          "quantity": "1054",
+          "price": "15.99",
+          "status": "Active",
+          "shipping_template": "Cube delivery"
+        }
+      ],
+      "已知限制或历史判断": "Userexplicit30315/608210unchanged",
+      "最新策略动作": "用户明确维持30315/608210现状；未新补，不算执行完成。",
+      "目标广告历史行": [
+        {
+          "商品": "B07F295DPC-4A 30315",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "0",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.00",
+          "CPC(USD)": "0.00",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B5",
+      "产品": "30132（1.5x2 迷你便签 32 本大包装）",
+      "目标ASIN": "B07T7PXS32",
+      "源ASIN": [
+        "B07RQ7JMV9"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 30132-FBA",
+          "asin": "B07T7PXS32",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "12.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GM30132",
+          "asin": "B07RQ7JMV9",
+          "fulfillment": "DEFAULT",
+          "quantity": "470",
+          "price": "12.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "CurrentnativeAmazon screenshot source3.8/189 target3.7/43",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。 较好源页保留不再等于终止目标备用FBM；评分建议不是完成状态。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B6",
+      "产品": "354832（1 3/8 x 1 7/8 迷你 32 本）",
+      "目标ASIN": "B07T42DXZ1",
+      "源ASIN": [
+        "B07RP9LR73"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 354832-FBA",
+          "asin": "B07T42DXZ1",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "14.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GM354832",
+          "asin": "B07RP9LR73",
+          "fulfillment": "DEFAULT",
+          "quantity": "435",
+          "price": "15.99",
+          "status": "Active",
+          "shipping_template": "Big size delivery"
+        }
+      ],
+      "已知限制或历史判断": "CurrentnativeAmazon screenshot source3.8/189 target3.7/43",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。 较好源页保留不再等于终止目标备用FBM；评分建议不是完成状态。",
+      "目标广告历史行": [
+        {
+          "商品": "B07T42DXZ1-4A 354832-FBA",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "18",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.00",
+          "CPC(USD)": "0.00",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B7",
+      "产品": "2028-N（2x2 荧光便签 8 色 8 本）",
+      "目标ASIN": "B07DJXC4PJ",
+      "源ASIN": [
+        "B07F295V3S"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 2028-N-FBA",
+          "asin": "B07DJXC4PJ",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "8.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A 2028-N",
+          "asin": "B07F295V3S",
+          "fulfillment": "DEFAULT",
+          "quantity": "1473",
+          "price": "4.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "Targethistoricalratingmissing; source1.0/1 only; liveofferready butpagechoice unresolved",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [
+        {
+          "商品": "B07DJXC4PJ-4A 2028-N-FBA",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "1",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.00",
+          "CPC(USD)": "0.00",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B8",
+      "产品": "406x6（4x6 无线便签 6 本）",
+      "目标ASIN": "B01MDJCWVH",
+      "源ASIN": [
+        "B01MSZS7M3"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "EP-T1V0-IBUZ",
+          "asin": "B01MDJCWVH",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "14.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A 033",
+          "asin": "B01MSZS7M3",
+          "fulfillment": "DEFAULT",
+          "quantity": "957",
+          "price": "11.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "406existingcase22933634461 UPC/photo identity boundary",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B9",
+      "产品": "5088-N-L（5x8 荧光 8 色横线 8 本）",
+      "目标ASIN": "B07T429N23",
+      "源ASIN": [
+        "B07RP9MB7Y"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 5088-N-L-FBA",
+          "asin": "B07T429N23",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "19.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GM5088-N-L",
+          "asin": "B07RP9MB7Y",
+          "fulfillment": "DEFAULT",
+          "quantity": "582",
+          "price": "19.99",
+          "status": "Active",
+          "shipping_template": "Big size delivery"
+        }
+      ],
+      "已知限制或历史判断": "Nov1source4.4/64 target4.2/56; native-region validationreview",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。 较好源页保留不再等于终止目标备用FBM；评分建议不是完成状态。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B10",
+      "产品": "608-N-L-210（6x8 荧光横线 210 张厚砖）",
+      "目标ASIN": "B07HDVVZ1B",
+      "源ASIN": [
+        "B07B8RBCKT"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": true,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 608-N-L-210-FBA",
+          "asin": "B07HDVVZ1B",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "11.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A 608-N-L-210",
+          "asin": "B07B8RBCKT",
+          "fulfillment": "DEFAULT",
+          "quantity": "1518",
+          "price": "12.39",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        },
+        {
+          "sku": "4A 608-NL-210",
+          "asin": "B07B8RBCKT",
+          "fulfillment": "DEFAULT",
+          "quantity": "0",
+          "price": "",
+          "status": "Incomplete",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "Userexplicit30315/608210unchanged",
+      "最新策略动作": "用户明确维持30315/608210现状；未新补，不算执行完成。",
+      "目标广告历史行": [
+        {
+          "商品": "B07HDVVZ1B-4A 608-N-L-210-FBA",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "114",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.00",
+          "CPC(USD)": "0.00",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B11",
+      "产品": "5020x3（拼图形状便签 3 包）",
+      "目标ASIN": "B07T79KGWF",
+      "源ASIN": [
+        "B07RN7WQ81"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 5020x3-FBA",
+          "asin": "B07T79KGWF",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "25.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GM5020x3",
+          "asin": "B07RN7WQ81",
+          "fulfillment": "DEFAULT",
+          "quantity": "1337",
+          "price": "25.99",
+          "status": "Active",
+          "shipping_template": "Cube delivery"
+        }
+      ],
+      "已知限制或历史判断": "Targethistoricalratingmissing; source4.0/29; truepack4pads×3packs",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [
+        {
+          "商品": "B07T79KGWF-4A 5020x3-FBA",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "23",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.00",
+          "CPC(USD)": "0.00",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B12",
+      "产品": "PSS 32x6（滚筒便签带带切割器）",
+      "目标ASIN": "B08CVLH794",
+      "源ASIN": [
+        "B08DKJ2K3T"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A PSS 32x6",
+          "asin": "B08CVLH794",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "13.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GM-SCPSS 32x6",
+          "asin": "B08DKJ2K3T",
+          "fulfillment": "DEFAULT",
+          "quantity": "835",
+          "price": "13.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "Nov1both3.8/223; earlierdifference superseded",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。 较好源页保留不再等于终止目标备用FBM；评分建议不是完成状态。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B13",
+      "产品": "BS 1801（黑色皮质桌面便签盒套装）",
+      "目标ASIN": "B07JVSYNYV",
+      "源ASIN": [
+        "B07K8L4K8K"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A BS 1801-FBA",
+          "asin": "B07JVSYNYV",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "14.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GMBS 1801",
+          "asin": "B07K8L4K8K",
+          "fulfillment": "DEFAULT",
+          "quantity": "1035",
+          "price": "17.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "Historicalsource4.6/22 target4.0/53; datedsourcecomparison",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。 较好源页保留不再等于终止目标备用FBM；评分建议不是完成状态。",
+      "目标广告历史行": [
+        {
+          "商品": "B07JVSYNYV-4A BS 1801-FBA",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "222",
+          "点击量": "6",
+          "CTR": "0.0270",
+          "花费(USD)": "1.47",
+          "CPC(USD)": "0.24",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B14",
+      "产品": "404-AC-Holder（4x4 亚克力笔筒便签盒）",
+      "目标ASIN": "B07Z2555TN",
+      "源ASIN": [
+        "B07WK3JX6K"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 404-AC-Holder",
+          "asin": "B07Z2555TN",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "15.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GMSC404-AC-holder",
+          "asin": "B07WK3JX6K",
+          "fulfillment": "DEFAULT",
+          "quantity": "767",
+          "price": "15.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        },
+        {
+          "sku": "4A 404-AC-holder",
+          "asin": "B07WK3JX6K",
+          "fulfillment": "DEFAULT",
+          "quantity": "0",
+          "price": "",
+          "status": "Incomplete",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "Targethistorical4.1/33, sourceunavailable; notautomaticbetter",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [
+        {
+          "商品": "B07Z2555TN-4A 404-AC-Holder",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "20",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.00",
+          "CPC(USD)": "0.00",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B15",
+      "产品": "303-AC-holder（3x3 亚克力笔筒便签盒）",
+      "目标ASIN": "B07DJP6SNG",
+      "源ASIN": [
+        "B07FKHHTYG"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "303-AC-holder",
+          "asin": "B07DJP6SNG",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "11.6",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GM303-AC-holder",
+          "asin": "B07FKHHTYG",
+          "fulfillment": "DEFAULT",
+          "quantity": "1196",
+          "price": "10.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "Historicalsource4.3/36 target4.1/104",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。 较好源页保留不再等于终止目标备用FBM；评分建议不是完成状态。",
+      "目标广告历史行": [
+        {
+          "商品": "B07DJP6SNG-303-AC-holder",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "55",
+          "点击量": "1",
+          "CTR": "0.0182",
+          "花费(USD)": "0.15",
+          "CPC(USD)": "0.15",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B16",
+      "产品": "5036（心形彩色便签 1 本）",
+      "目标ASIN": "B00SMEEVC4",
+      "源ASIN": [
+        "B01N6IT5IG"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 5036-B00SM-FBA",
+          "asin": "B00SMEEVC4",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "7.2",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A 5036",
+          "asin": "B01N6IT5IG",
+          "fulfillment": "DEFAULT",
+          "quantity": "1404",
+          "price": "6.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "Target4.1/325 sourceunavailable; sharedparentaggregatepossible",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [
+        {
+          "商品": "B00SMEEVC4-4A 5036-B00SM-FBA",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "2",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.00",
+          "CPC(USD)": "0.00",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B17",
+      "产品": "5059（对话气泡形状便签 1 本）",
+      "目标ASIN": "B00SMEEVCO",
+      "源ASIN": [
+        "B01MY06P05"
+      ],
+      "四态": "已补可售",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 5059-B00SM-FBA",
+          "asin": "B00SMEEVCO",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "7.2",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A 5059",
+          "asin": "B01MY06P05",
+          "fulfillment": "DEFAULT",
+          "quantity": "1623",
+          "price": "6.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "已于11/03 00:33独立核新FBM在售10/$6.99；源1613已核。不重复创建。",
+      "最新策略动作": "00:33真实在售10/$6.99；源减至1613已验证。",
+      "目标广告历史行": [
+        {
+          "商品": "B00SMEEVCO-4A 5059-B00SM-FBA",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "44",
+          "点击量": "1",
+          "CTR": "0.0227",
+          "花费(USD)": "0.08",
+          "CPC(USD)": "0.08",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B18",
+      "产品": "5013（箭头形状彩色便签 1 本）",
+      "目标ASIN": "B00SMEEV4C",
+      "源ASIN": [
+        "B01N1U9USQ"
+      ],
+      "四态": "已建不可售",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A5013-B00SM-FBA",
+          "asin": "B00SMEEV4C",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "7.2",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A052",
+          "asin": "B01N1U9USQ",
+          "fulfillment": "DEFAULT",
+          "quantity": "1609",
+          "price": "8.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "已创建但最后高价限制不可售；一次7.20试价提交后尚未最新确认。先核现SKU，不重建或再盲降。",
+      "最新策略动作": "00:40高价限制；00:48已提交一次7.20试价，最后已读仍8.99不可售，需最新复核。",
+      "目标广告历史行": [
+        {
+          "商品": "B00SMEEV4C-4A5013-B00SM-FBA",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "12.99",
+          "ROAS": "43.30",
+          "转化率": "1.0000",
+          "展示次数": "54",
+          "点击量": "1",
+          "CTR": "0.0185",
+          "花费(USD)": "0.30",
+          "CPC(USD)": "0.30",
+          "订单数量": "1",
+          "ACOS": "0.0231",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B19",
+      "产品": "5061（树叶形状彩色便签 1 本）",
+      "目标ASIN": "B00SMEEN40",
+      "源ASIN": [
+        "B01N9JKGO8"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 5061-B00SM-FBA",
+          "asin": "B00SMEEN40",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "7.2",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A054",
+          "asin": "B01N9JKGO8",
+          "fulfillment": "DEFAULT",
+          "quantity": "444",
+          "price": "6.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "Actual23:57SizePack6 againstmaster1pad200; nooffer",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [
+        {
+          "商品": "B00SMEEN40-4A 5061-B00SM-FBA",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "0",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.00",
+          "CPC(USD)": "0.00",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B20",
+      "产品": "5047（大拇指点赞手形便签 1 本）",
+      "目标ASIN": "B00SMEEN8G",
+      "源ASIN": [
+        "B01NCNPD4N"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 5047-B00SM-FBA",
+          "asin": "B00SMEEN8G",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "7.2",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A 5047",
+          "asin": "B01NCNPD4N",
+          "fulfillment": "DEFAULT",
+          "quantity": "20",
+          "price": "6.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        },
+        {
+          "sku": "4A056",
+          "asin": "B01NCNPD4N",
+          "fulfillment": "DEFAULT",
+          "quantity": "0",
+          "price": "6.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "Target4.1/325 sourceunavailable; sharedparentaggregatepossible",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B21",
+      "产品": "6533（周计划便签本，真实52张；旧AG写60张有误）",
+      "目标ASIN": "B01LPKL5IE",
+      "源ASIN": [
+        "B07548QLN8"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 6533-FBA",
+          "asin": "B01LPKL5IE",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "13.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A 6533",
+          "asin": "B07548QLN8",
+          "fulfillment": "DEFAULT",
+          "quantity": "374",
+          "price": "12.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "Targetratingmissing source5.0/2; true52sheetsnotAG60",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [
+        {
+          "商品": "B01LPKL5IE-4A 6533-FBA",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "129",
+          "点击量": "1",
+          "CTR": "0.0078",
+          "花费(USD)": "0.15",
+          "CPC(USD)": "0.15",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B22",
+      "产品": "6034（彩色 PET 索引标签，2卡×60片＝120片；旧AG100片有误）",
+      "目标ASIN": "B00SMEDVEI",
+      "源ASIN": [
+        "B01MU5BGNQ"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A GMVC6034",
+          "asin": "B00SMEDVEI",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "4.49",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A0102",
+          "asin": "B01MU5BGNQ",
+          "fulfillment": "DEFAULT",
+          "quantity": "341",
+          "price": "9.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "Historicalsource4.6/17 target4.4/84",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。 较好源页保留不再等于终止目标备用FBM；评分建议不是完成状态。",
+      "目标广告历史行": [
+        {
+          "商品": "B00SMEDVEI-4A GMVC6034",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "0",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.00",
+          "CPC(USD)": "0.00",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B23",
+      "产品": "BP 1111-Px4（11x11 大便签马卡龙色 4 本）",
+      "目标ASIN": "B07T55RL97",
+      "源ASIN": [
+        "B07QZR9Z3P"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A BP 1111-Px4-FBA",
+          "asin": "B07T55RL97",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "18.59",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GMBP 1111-Px4",
+          "asin": "B07QZR9Z3P",
+          "fulfillment": "DEFAULT",
+          "quantity": "1010",
+          "price": "29.99",
+          "status": "Active",
+          "shipping_template": "Big size delivery"
+        }
+      ],
+      "已知限制或历史判断": "Exactsalespack/currentshippingcost gate; do notcopyoldlargepadprice",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B24",
+      "产品": "BP 1111-Nx4（11x11 大便签荧光色 4 本）",
+      "目标ASIN": "B07T78PWRY",
+      "源ASIN": [
+        "B07QWKYQV7"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A BP 1111-Nx4-FBA",
+          "asin": "B07T78PWRY",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "27.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GMBP 1111-Nx4",
+          "asin": "B07QWKYQV7",
+          "fulfillment": "DEFAULT",
+          "quantity": "839",
+          "price": "37.39",
+          "status": "Active",
+          "shipping_template": "Big size delivery"
+        }
+      ],
+      "已知限制或历史判断": "Exactsalespack/currentshippingcost gate; do notcopyoldlargepadprice",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B25",
+      "产品": "BP 1515-Nx4（15x15 超大便签 4 本）",
+      "目标ASIN": "B07T78QKJ3",
+      "源ASIN": [
+        "B07R1XLCP4"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A BP 1515-Nx4-FBA",
+          "asin": "B07T78QKJ3",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "62.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GMBP 1515-Nx4",
+          "asin": "B07R1XLCP4",
+          "fulfillment": "DEFAULT",
+          "quantity": "461",
+          "price": "59.99",
+          "status": "Active",
+          "shipping_template": "Biger size delivery-25"
+        }
+      ],
+      "已知限制或历史判断": "Exactsalespack/currentshippingcost gate; do notcopyoldlargepadprice",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B26",
+      "产品": "BP 2222-Nx4（22x22 巨型便签 4 本）",
+      "目标ASIN": "B07T79M4MD",
+      "源ASIN": [
+        "B07RT4GTLZ"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A BP 2222-Nx4-FBA",
+          "asin": "B07T79M4MD",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "62.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GMBP 2222-Nx4",
+          "asin": "B07RT4GTLZ",
+          "fulfillment": "DEFAULT",
+          "quantity": "393",
+          "price": "59.99",
+          "status": "Active",
+          "shipping_template": "Biger size delivery-25"
+        }
+      ],
+      "已知限制或历史判断": "Exactsalespack/currentshippingcost gate; do notcopyoldlargepadprice",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "B27",
+      "产品": "PSS 9-1 NGNOx2（绿橙2个带卷分配器＋2个补充卷）",
+      "目标ASIN": "B07T42DY4H",
+      "源ASIN": [
+        "B07QXJY3FH"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A PSS 9-1 NGNOx2-FBA",
+          "asin": "B07T42DY4H",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "19.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GMPSS 9-1 NGNOx2",
+          "asin": "B07QXJY3FH",
+          "fulfillment": "DEFAULT",
+          "quantity": "639",
+          "price": "22.49",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "Differenthistoricaltables target3.9/10 source3.7/34; datesunverified, true2loaded+2refill",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额1",
+      "产品": "4A Sticky Notes, 0.6 x 2 Inches, Small Size,16 colors, Self-Stick Notes, 100 Sheets/Pad,16 Pads/Pack, 4A 501516",
+      "目标ASIN": "B07T42J6FY",
+      "源ASIN": [
+        "B07TSD57BD"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 501516",
+          "asin": "B07T42J6FY",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "7.49",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A SC501516*2",
+          "asin": "B07TSD57BD",
+          "fulfillment": "DEFAULT",
+          "quantity": "873",
+          "price": "13.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": " 主表目标16本单包，源页当前标题2包32本，不能直接同单位搬库存。",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [
+        {
+          "商品": "B07T42J6FY-4A 501516",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "2",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.00",
+          "CPC(USD)": "0.00",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额2",
+      "产品": "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side, Yellow,Self-Stick Notes,100 Sheets/Pad,12 Pads/Box,4A 301x12-Y",
+      "目标ASIN": "B01LVWFZVZ",
+      "源ASIN": [
+        "B01N2YLQ23"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "G4-PV5Z-2519",
+          "asin": "B01LVWFZVZ",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "5.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A000",
+          "asin": "B01N2YLQ23",
+          "fulfillment": "DEFAULT",
+          "quantity": "35",
+          "price": "6.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额3",
+      "产品": "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 301x12-N",
+      "目标ASIN": "B01LVTWP7Q",
+      "源ASIN": [
+        "B07KPF9PFX"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 301x12-N",
+          "asin": "B01LVTWP7Q",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "5.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A SN301x12-N",
+          "asin": "B07KPF9PFX",
+          "fulfillment": "DEFAULT",
+          "quantity": "23263",
+          "price": "5.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [
+        {
+          "商品": "B01LVTWP7Q-4A 301x12-N",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "2",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.00",
+          "CPC(USD)": "0.00",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        },
+        {
+          "商品": "B01LVTWP7Q-4A002",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "无可用数据",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "0",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.00",
+          "CPC(USD)": "0.00",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额4",
+      "产品": "4A Sticky Notes,5 x 8 Inches,Large Size, Yellow,Lined,Self-Stick Notes,50 Sheets/Pad,2 Pads/Pack,100 Sheets/Pack,4A 5082-Y-L",
+      "目标ASIN": "B07DJKB2S9",
+      "源ASIN": [
+        "B07F2BHFJH"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 5082-Y-L-FBA",
+          "asin": "B07DJKB2S9",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "5.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A FBM-5082-Y-L",
+          "asin": "B07F2BHFJH",
+          "fulfillment": "DEFAULT",
+          "quantity": "8898",
+          "price": "11.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额5",
+      "产品": "4A Super Sticky Notes,3 x 3 Inches,Extra Bright Colors Assorted,100 Sheets/Pad,12 Pads/Pack,4A  303Sx12",
+      "目标ASIN": "B01N7D3E0M",
+      "源ASIN": [
+        "B07B9W62T2"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 303Sx12-B01N7D3E0M-FBA",
+          "asin": "B01N7D3E0M",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "18.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GM303Sx12*2",
+          "asin": "B07B9W62T2",
+          "fulfillment": "DEFAULT",
+          "quantity": "52",
+          "price": "19.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额6",
+      "产品": "4A Super Sticky Notes,4 x 4 Inches,Large Size,Neon Assorted,Lined,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,600 Sheets/Pack,4A 404S-Lx6",
+      "目标ASIN": "B073VPFBL6",
+      "源ASIN": [
+        "B07B8JFJZY"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 404S-Lx6",
+          "asin": "B073VPFBL6",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "14.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GM404S-Linex6*2",
+          "asin": "B07B8JFJZY",
+          "fulfillment": "DEFAULT",
+          "quantity": "376",
+          "price": "23.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [
+        {
+          "商品": "B073VPFBL6-4A 404S-Lx6",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "99",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.00",
+          "CPC(USD)": "0.00",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额7",
+      "产品": "4A Super Sticky Notes,6 x 8 Inches,Large Size,Extra Bright Color Assorted,Lined,Self-Stick Notes,50 Sheets/Pad,4 Pads/Pack,200 Sheets/Pack,4A 608S-Lx4",
+      "目标ASIN": "B073VPHSJ9",
+      "源ASIN": [
+        "B07B8DSVRB"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 608S-Lx4",
+          "asin": "B073VPHSJ9",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "13.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GM608S-Linex4*3",
+          "asin": "B07B8DSVRB",
+          "fulfillment": "DEFAULT",
+          "quantity": "117",
+          "price": "26.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [
+        {
+          "商品": "B073VPHSJ9-4A 608S-Lx4",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "49",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.00",
+          "CPC(USD)": "0.00",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额8",
+      "产品": "4A Sticky Notes Value Pack, Neon Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4013",
+      "目标ASIN": "B07T55QCRY",
+      "源ASIN": [
+        "B07RQ6HLK3"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A4013-B07T-FBA",
+          "asin": "B07T55QCRY",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "15.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GM4013",
+          "asin": "B07RQ6HLK3",
+          "fulfillment": "DEFAULT",
+          "quantity": "113",
+          "price": "17.99",
+          "status": "Active",
+          "shipping_template": "Cube delivery"
+        }
+      ],
+      "已知限制或历史判断": "",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [
+        {
+          "商品": "B07T55QCRY-4A4013-B07T-FBA",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "60",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.00",
+          "CPC(USD)": "0.00",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额9",
+      "产品": "4A Shapes Sticky Notes,50 Sheets Neon Assorted and 50 Sheets Pastel Assorted in One Shape,12 Different Shapes Self-Stick Notes,50 Sheets/Pad,24 Pad/Pack,4A 50024",
+      "目标ASIN": "B07T696FKR",
+      "源ASIN": [
+        "B07RP9BW5Z"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 50024-FBA",
+          "asin": "B07T696FKR",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "17.2",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GM50024",
+          "asin": "B07RP9BW5Z",
+          "fulfillment": "DEFAULT",
+          "quantity": "137",
+          "price": "19.99",
+          "status": "Active",
+          "shipping_template": "Cube delivery"
+        }
+      ],
+      "已知限制或历史判断": "",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额10",
+      "产品": "4A Divider Sticky Notes,4 x 6 Inches,Large Size,White Paper,Lined,10 Sheets/Divider,6 Divders/Pack,Self-Stick Notes,60 Sheets Total,4A 40624",
+      "目标ASIN": "B00SMEF4WK",
+      "源ASIN": [
+        "B01MY2AYET"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 40624-FBA",
+          "asin": "B00SMEF4WK",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "5.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A 40624",
+          "asin": "B01MY2AYET",
+          "fulfillment": "DEFAULT",
+          "quantity": "12",
+          "price": "5.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "PAPER_FAMILY_RECENTLY_CHANGED_VERIFY_CURRENT_NO_LOCAL_CODEX_OVERLAP",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额11",
+      "产品": "4A Sticky Note Bundle Set, Colored Rectangular Notes and Index Flags Organizer, With Two Year Calendar, Leather Look Design Holder, Gifts for Students and Teachers! 1800 Sheets/Set, 4A BS 1803",
+      "目标ASIN": "B07J6Q5TTR",
+      "源ASIN": [
+        "B07K8KJ83T"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A BS 1803-FBA",
+          "asin": "B07J6Q5TTR",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "12.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A BS 1803",
+          "asin": "B07K8KJ83T",
+          "fulfillment": "DEFAULT",
+          "quantity": "7",
+          "price": "11.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [
+        {
+          "商品": "B07J6Q5TTR-4A BS 1803-FBA",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "93",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.00",
+          "CPC(USD)": "0.00",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额12",
+      "产品": "4A Roll Sticky Notes,Full Adhesive,Width x Length 2 x 315 Inches,Neon Yellow and Green,Grid,Self-Stick Notes,2 Rolls With Dispenser and 2 Refill Rolls,4A PSS 9-1 Grid-NYNGx2",
+      "目标ASIN": "B07T695C58",
+      "源ASIN": [
+        "B07R2KSW34"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A PSS 9-1 Grid-NYNGx2-FBA",
+          "asin": "B07T695C58",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "22.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A PSS 9-1 NGGrid",
+          "asin": "B07R2KSW34",
+          "fulfillment": "DEFAULT",
+          "quantity": "187",
+          "price": "22.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额13",
+      "产品": "4A Sticky Memo Cube,2.87 x 2.87 Inches,Notes Cube with Love Cat Patterned Printed On The Four Sides,Self-Stick Notes Cube,About 580 Sheets/Cube,1 Cube/Pack,4A SMC 435",
+      "目标ASIN": "B07DLM2QP1",
+      "源ASIN": [
+        "B07F2CWPTH"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A SMC 435-FBA",
+          "asin": "B07DLM2QP1",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "13.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A SMC 435",
+          "asin": "B07F2CWPTH",
+          "fulfillment": "DEFAULT",
+          "quantity": "12",
+          "price": "12.99",
+          "status": "Active",
+          "shipping_template": "Cube delivery"
+        }
+      ],
+      "已知限制或历史判断": "",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [
+        {
+          "商品": "B07DLM2QP1-4A SMC 435-FBA",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "15",
+          "点击量": "1",
+          "CTR": "0.0667",
+          "花费(USD)": "0.30",
+          "CPC(USD)": "0.30",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额14",
+      "产品": "4A Memo Cube,3 1/4  Inches,Wave Patterned Printed On The Four Sides, About 650 Sheets/Cube,1 Cube/Pack,4A MC 434",
+      "目标ASIN": "B00SMEE5HU",
+      "源ASIN": [
+        "B01N0VHWSL"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "MG-ET8D-JLS7",
+          "asin": "B00SMEE5HU",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "13.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A093",
+          "asin": "B01N0VHWSL",
+          "fulfillment": "DEFAULT",
+          "quantity": "419",
+          "price": "13.99",
+          "status": "Active",
+          "shipping_template": "Cube delivery"
+        }
+      ],
+      "已知限制或历史判断": "",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [
+        {
+          "商品": "B00SMEE5HU-MG-ET8D-JLS7",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "28",
+          "点击量": "2",
+          "CTR": "0.0714",
+          "花费(USD)": "0.45",
+          "CPC(USD)": "0.23",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额15",
+      "产品": "4A Sticky Notes Flags Set,Neon Color Page Marker Fluorescent Color Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Page Marker Bookmarks,24 Pads/set,4A 60222",
+      "目标ASIN": "B07T42J2T2",
+      "源ASIN": [
+        "B07RR9CGXY"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 6022+6023",
+          "asin": "B07T42J2T2",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "9.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GM60222",
+          "asin": "B07RR9CGXY",
+          "fulfillment": "DEFAULT",
+          "quantity": "282",
+          "price": "12.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额16",
+      "产品": "4A Pop-up Flags In Dispensers Set,Neon Color Page Marker Fluorescent Color Index Label,Transparent Tabs Flags Stickers,Text Highlighter Strips Writable Labels Page Marker Bookmarks,1/2 x 1 3/4 Inches, 35 Flags/Pad,10 Pads/Set, 2 Sets,700 Flags Total,4A 60121-10x2",
+      "目标ASIN": "B07VDRQNCP",
+      "源ASIN": [
+        "B07RP8FX7N"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 60121-10x2-FBA",
+          "asin": "B07VDRQNCP",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "13.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GM60121-10x2",
+          "asin": "B07RP8FX7N",
+          "fulfillment": "DEFAULT",
+          "quantity": "135",
+          "price": "15.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额17",
+      "产品": "4A  Pop-up Flags Set,Neon Color Page Marker Fluorescent Color Index Label,Transparent Tabs Flags Stickers,Text Highlighter Strips Writable Labels Page Marker Bookmarks, Neon Red/Purple/Blue/Orange/Green/Yellow,50 Flags/Dispenser,8 Dispensers/Pack,400 Flags Total,4A 60122-4",
+      "目标ASIN": "B07T7PLLGL",
+      "源ASIN": [
+        "B07RR924N1"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 60122-4x2",
+          "asin": "B07T7PLLGL",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "15.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GM60122-4x2",
+          "asin": "B07RR924N1",
+          "fulfillment": "DEFAULT",
+          "quantity": "16",
+          "price": "15.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额18",
+      "产品": "4A  Pop-up Flags Set,Neon Color Page Marker Fluorescent Color Index Label,Transparent Tabs Flags Stickers,Text Highlighter Strips Writable Labels Page Marker Bookmarks, Neon Red/Purple/Blue/Orange/Green/Yellow,50 Flags/Dispenser,8 Dispensers/Pack,2 Packs,800 Flags Total,4A 60174-Sign Herex2",
+      "目标ASIN": "B07T7PTYMW",
+      "源ASIN": [
+        "B07RP95GGF"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 60174x2",
+          "asin": "B07T7PTYMW",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "15.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GM60174-Sign Herex2",
+          "asin": "B07RP95GGF",
+          "fulfillment": "DEFAULT",
+          "quantity": "143",
+          "price": "18.49",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额19",
+      "产品": "4A Pop-up Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Tabs Stickers,Writable Labels,Bookmarks,Repositionable,Great Labeling,Flaging,60 Sheets/Pcs,2 Pcs/Pack,4A 6035",
+      "目标ASIN": "B00SMEE3XQ",
+      "源ASIN": [
+        "B01N2YL12Y"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 6035-FBA",
+          "asin": "B00SMEE3XQ",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "8.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A 6035",
+          "asin": "B01N2YL12Y",
+          "fulfillment": "DEFAULT",
+          "quantity": "12",
+          "price": "4.49",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "MASTER_ASIN_REUSED_MULTIPLE_ROWS_CHECK_PACK_VERSION",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [
+        {
+          "商品": "B00SMEE3XQ-4A 6035-FBA",
+          "状态": "",
+          "类型": "",
+          "商品推广使用资格": "符合条件",
+          "销售额(USD)": "0.00",
+          "ROAS": "0.00",
+          "转化率": "0.0000",
+          "展示次数": "76",
+          "点击量": "0",
+          "CTR": "0.0000",
+          "花费(USD)": "0.00",
+          "CPC(USD)": "0.00",
+          "订单数量": "0",
+          "ACOS": "0.0000",
+          "NTB 订单数量": "0",
+          "NTB 订单数量百分比": "0.0000",
+          "NTB 销售额(USD)": "0.00",
+          "品牌新客销售额比例": "0.0000",
+          "可见展示量": "0"
+        }
+      ],
+      "目标广告历史有展示或花费": true,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额20",
+      "产品": "4A Pop-up Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Tabs Stickers,Writable Labels,Bookmarks,Repositionable,Great Labeling,Flaging,60 Sheets/Pcs,2 Pcs/Pack,4A 6035x2",
+      "目标ASIN": "B0CCDCTBBV",
+      "源ASIN": [
+        "B01N2YL12Y"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A 6035x2",
+          "asin": "B0CCDCTBBV",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "8.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A 6035",
+          "asin": "B01N2YL12Y",
+          "fulfillment": "DEFAULT",
+          "quantity": "12",
+          "price": "4.49",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "MASTER_ASIN_REUSED_MULTIPLE_ROWS_CHECK_PACK_VERSION",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额21",
+      "产品": "4 Packs 4A Super Sticky Easel Pad,White Sheets,Meeting Pad,Self-Stick Notes,23  x 31.5 Inches,Large Size,20 Sheets/Pad,1 Pad/Pack,More sticky,4A Meeting-41-W",
+      "目标ASIN": "B07GWXZ4KH",
+      "源ASIN": [
+        "B07KSSBR3G"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "4A Meeting 41x4",
+          "asin": "B07GWXZ4KH",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "19.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A GMMEETING-41-W*4",
+          "asin": "B07KSSBR3G",
+          "fulfillment": "DEFAULT",
+          "quantity": "69",
+          "price": "54.99",
+          "status": "Active",
+          "shipping_template": "Heavy delivery"
+        }
+      ],
+      "已知限制或历史判断": "",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    },
+    {
+      "编号": "额22",
+      "产品": "4A 3D Shape Printed Sticky Notes,Cute Designs,Printed With Snow Ground Squirrel,Self-Stick Notes,3.75 x 4.13 Inches,100 Sheets/Pad,1 Pad/Pack,4A 8079",
+      "目标ASIN": "B01NASUH09",
+      "源ASIN": [
+        "B077Q9ZBBG"
+      ],
+      "四态": "未补",
+      "明确用户保现例外": false,
+      "目标报价旧快照": [
+        {
+          "sku": "IT-7W6W-L1IC",
+          "asin": "B01NASUH09",
+          "fulfillment": "AMAZON_NA",
+          "quantity": "",
+          "price": "5.99",
+          "status": "Inactive",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "源FBM旧快照": [
+        {
+          "sku": "4A 0167",
+          "asin": "B077Q9ZBBG",
+          "fulfillment": "DEFAULT",
+          "quantity": "1",
+          "price": "5.99",
+          "status": "Active",
+          "shipping_template": "Migrated Template"
+        }
+      ],
+      "已知限制或历史判断": "ANIMAL_SCHEMA_CASE_HOLD_NOT_FIRST_BATCH",
+      "最新策略动作": "执行前须刷新目标全部报价去重；保留源页，按同一实物库存池分配，不复制全部库存。",
+      "目标广告历史行": [],
+      "目标广告历史有展示或花费": false,
+      "广告证据日期": "2026-10-26–11-02；非当前启用状态；不含本地新投变化",
+      "实时状态边界": "未重新全店现场扫描；本地可能已新增，执行前必须去重刷新。"
+    }
+  ]
+}

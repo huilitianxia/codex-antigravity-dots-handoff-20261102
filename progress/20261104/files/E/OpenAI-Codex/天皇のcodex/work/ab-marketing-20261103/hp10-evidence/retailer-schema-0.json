@@ -1,0 +1,137 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "WebPage",
+        "ItemPage"
+      ],
+      "@id": "https://www.retailmarket.net/products/4a-sticky-memo-cube2-1-2-inchesbubble-patterned-printed-on-the-four-sidesself-stick-notes-cubeabout-500-sheets-cube1-cube-pack4a-smc-434/",
+      "url": "https://www.retailmarket.net/products/4a-sticky-memo-cube2-1-2-inchesbubble-patterned-printed-on-the-four-sidesself-stick-notes-cubeabout-500-sheets-cube1-cube-pack4a-smc-434/",
+      "name": "4A Sticky Memo Cube - 2.5 Inch Recyclable Note Organizer",
+      "isPartOf": {
+        "@id": "https://www.retailmarket.net/#website"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.retailmarket.net/products/4a-sticky-memo-cube2-1-2-inchesbubble-patterned-printed-on-the-four-sidesself-stick-notes-cubeabout-500-sheets-cube1-cube-pack4a-smc-434/#primaryimage"
+      },
+      "image": {
+        "@id": "https://www.retailmarket.net/products/4a-sticky-memo-cube2-1-2-inchesbubble-patterned-printed-on-the-four-sidesself-stick-notes-cubeabout-500-sheets-cube1-cube-pack4a-smc-434/#primaryimage"
+      },
+      "thumbnailUrl": "https://trm-objects.exceptionalcdn.com/retailmarket/dam/1/objects/18193221/55/6c/ad/dc/bc/24/cf/24/41HfQkjEsmL.jpg",
+      "description": "Discover the 4A Sticky Memo Cube with 500+ bubble-patterned sheets, eco-friendly design, and strong repositionable adhesive for quick notes and ideas.",
+      "breadcrumb": {
+        "@id": "https://www.retailmarket.net/products/4a-sticky-memo-cube2-1-2-inchesbubble-patterned-printed-on-the-four-sidesself-stick-notes-cubeabout-500-sheets-cube1-cube-pack4a-smc-434/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": {
+        "@type": "BuyAction",
+        "target": "https://www.retailmarket.net/products/4a-sticky-memo-cube2-1-2-inchesbubble-patterned-printed-on-the-four-sidesself-stick-notes-cubeabout-500-sheets-cube1-cube-pack4a-smc-434/"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.retailmarket.net/products/4a-sticky-memo-cube2-1-2-inchesbubble-patterned-printed-on-the-four-sidesself-stick-notes-cubeabout-500-sheets-cube1-cube-pack4a-smc-434/#primaryimage",
+      "url": "https://trm-objects.exceptionalcdn.com/retailmarket/dam/1/objects/18193221/55/6c/ad/dc/bc/24/cf/24/41HfQkjEsmL.jpg",
+      "contentUrl": "https://trm-objects.exceptionalcdn.com/retailmarket/dam/1/objects/18193221/55/6c/ad/dc/bc/24/cf/24/41HfQkjEsmL.jpg",
+      "width": 458,
+      "height": 500,
+      "caption": "<p>The 4A Sticky Memo Cube (2 1/2 Inches) features ~500 bubble-patterned, self-stick, recyclable sheets, ideal for quick notes and brainstorming.</p>"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.retailmarket.net/products/4a-sticky-memo-cube2-1-2-inchesbubble-patterned-printed-on-the-four-sidesself-stick-notes-cubeabout-500-sheets-cube1-cube-pack4a-smc-434/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "The Retail Market",
+          "item": "https://www.retailmarket.net/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Catalog",
+          "item": "https://www.retailmarket.net/catalog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Office Product",
+          "item": "https://www.retailmarket.net/department/office-product/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Office Product",
+          "item": "https://www.retailmarket.net/department/office-product/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "4A Sticky Memo Cube,2 1/2 Inches,Bubble Patterned Printed On The Four Sides,Self-Stick Notes Cube,About 500 Sheets/Cube,1 Cube/Pack,4A SMC 434"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.retailmarket.net/#website",
+      "url": "https://www.retailmarket.net/",
+      "name": "The Retail Market",
+      "description": "💸 Fast, Affordable, Premium Shopping",
+      "publisher": {
+        "@id": "https://www.retailmarket.net/#organization"
+      },
+      "alternateName": "The Retail Market, Limited",
+      "potentialAction": [
+        {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.retailmarket.net/search/{search_term_string}/"
+          },
+          "query-input": "required name=search_term_string"
+        }
+      ],
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.retailmarket.net/#organization",
+      "name": "The Retail Market",
+      "alternateName": "The Retail Market, Limited",
+      "url": "https://www.retailmarket.net/",
+      "logo": {
+        "@type": "ImageObject",
+        "inLanguage": "en-US",
+        "@id": "https://www.retailmarket.net/#/schema/logo/image/",
+        "url": "https://trm-objects.exceptionalcdn.com/retailmarket/dam/1/objects/12235140/41/7d/95/e5/98/9f/e3/d4/logo-lettermark-darkish.png",
+        "contentUrl": "https://trm-objects.exceptionalcdn.com/retailmarket/dam/1/objects/12235140/41/7d/95/e5/98/9f/e3/d4/logo-lettermark-darkish.png",
+        "width": 1200,
+        "height": 1200,
+        "caption": "The Retail Market"
+      },
+      "image": {
+        "@id": "https://www.retailmarket.net/#/schema/logo/image/"
+      },
+      "sameAs": [
+        "https://facebook.com/retailmarket.ltd",
+        "https://x.com/retailmarkethq",
+        "https://pinterest.com/retailmarkethq",
+        "https://linkedin.com/company/retailmarket/"
+      ],
+      "description": "Welcome to the Retail Market, the online retail store designed to simplify your shopping experience. Our massive catalog collections and shelves are stocked with an extensive range of products handpicked for their quality, style, and innovation. Whether you’re looking to spruce up your home, outfit your office, create a chef-worthy kitchen, or make the most of the great outdoors, you’ve come to the right place. At the Retail Market, we believe in the power of choice. That’s why we offer an extraordinary assortment of items across multiple categories including Home, Kitchen, Office Products, Furniture, Outdoors, Business Supplies, and Toys. Each of our departments is curated to bring you the latest trends and top brands, all to make your shopping experience hassle-free and enjoyable. We understand that online shopping requires trust. Rest assured, your safety and satisfaction are our top priorities. We implement strict security measures and a straightforward return policy to provide you with a shopping environment as secure as it is convenient. Our dedicated customer service team is always ready to assist you with any questions or concerns as soon as you contact us. At the Retail Market, we don’t just sell products – we strive to deliver joy and satisfaction right to your doorstep. Our mission is to make your life easier, more stylish, and more fun. Whether you’re buying an essential item for your home or seeking the perfect gift for a loved one, we’re here to make sure every purchase is a success. So why wait? Dive into our exciting world of quality, variety, and value. Happy shopping!",
+      "email": "support@retailmarket.net",
+      "legalName": "The Retail Market, Limited",
+      "foundingDate": "2025-07-28",
+      "taxID": "38-4363762",
+      "duns": "144843629",
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "minValue": "11",
+        "maxValue": "50"
+      }
+    }
+  ]
+}

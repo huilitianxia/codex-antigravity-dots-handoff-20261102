@@ -1,0 +1,437 @@
+{
+  "status": "partial",
+  "records": [
+    {
+      "asin": "B07F2BHFJH",
+      "sku": "4A 5082-Y-L-GM",
+      "rating": 4.4,
+      "reviews": 64,
+      "chunk": "      uid=205_17 StaticText \"B07F2BHFJH\"\n      uid=205_18 StaticText \"SKU:\"\n      uid=205_19 StaticText \"4A FBM-5082-Y-L\"\n      uid=205_20 button \"添加\"\n      uid=205_21 button \"添加变体\"\n      uid=205_22 button \"Open tooltip\" haspopup=\"dialog\"\n      uid=205_23 image \"4A 2 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Large Sticky Notes with Lines, Yellow Sticky Note Pads for Home, Office, School, 50 Sheets/Pad, 100 Sheets Total, 4A 5082-Y-L\" url=\"https://m.media-amazon.com/images/I/31jaKggM-xL._SS60_.jpg\"\n      uid=205_24 link \"4A 2 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Large Sticky Notes with Lines, Yellow Sticky Note Pads for Home, Office, School, 50 Sheets/Pad, 100 Sheets Total, 4A 5082-Y-L\" url=\"https://www.amazon.com/dp/B07F2BHFJH\"\n        uid=205_25 StaticText \"4A 2 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Large Sticky Notes with Lines, Yellow Sticky Note Pads for Home, Office, School, 50 Sheets/Pad, 100 Sheets Total, 4A 5082-Y-L\"\n      uid=205_26 image \"4.4 out of 5 stars\"\n      uid=205_27 link \"(64)\" url=\"https://www.amazon.com/product-reviews/B07F2BHFJH\"\n        uid=205_28 StaticText \"(\"\n        uid=205_29 StaticText \"64\"\n        uid=205_30 StaticText \")\"\n      uid=205_31 StaticText \"US$10.99\"\n      uid=205_32 StaticText \"US$11.39\"\n      uid=205_33 StaticText \"有货\"\n      uid=205_34 StaticText \"ASIN:\"\n      uid=205_35 StaticText \"B07F2BHFJH\"\n      uid=205_36 StaticText \"SKU:\"\n      uid=205_37 StaticText \"4A 5082-Y-L-GM\"\n      uid=205_38 button \"添加\"\n      uid=205_39 button \"添加变体\"\n      uid=205_40 button \"Open tooltip\" haspopup=\"dialog\"\n      uid=205_41 image \"4A 2 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Large Sticky Notes with Lines, Yellow Sticky Note Pads for Home, Office, School, 50 Sheets/Pad, 100 Sheets Total, 4A 5082-Y-L\" url=\"https://m.media-amazon.com/images/I/31jaKggM-xL._SS60_.jpg\"\n      uid=205_42 link \"4A 2 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Large Sticky Notes with Lines, Yellow Sticky Note Pads for Home, Office, School, 50 Sheets/Pad, 100 Sheets Total, 4A 5082-Y-L\" url=\"https://www.amazon.com/dp/B07F2BHFJH\"\n        uid=205_43 StaticText \"4A 2 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Large Sticky Notes with Lines, Yellow Sticky Note Pads for Home, Office, School, 50 Sheets/Pad, 100 Sheets Total, 4A 5082-Y-L\"\n      uid=205_44 image \"4.4 out of 5 stars\"\n      uid=205_45 link \"(64)\" url=\"https://www.amazon.com/product-reviews/B07F2BHFJH\"\n        uid=205_46 StaticText \"(\"",
+      "checked_at": "2026-11-03T02:35:53.080Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B1"
+    },
+    {
+      "asin": "B01M3N310M",
+      "sku": "4A 4012-B07T-FBM",
+      "rating": 3.9,
+      "reviews": 213,
+      "chunk": "    uid=7_43 button \"您的商品\" description=\"Your Listings\" haspopup=\"listbox\"\n    uid=47_0 switch \"优选广告商品\"\n    uid=47_1 switch \"所有商品\" checked\n    uid=47_2 StaticText \"显示：\"\n    uid=47_3 button \"显示： 最新优先\" haspopup=\"listbox\"\n    uid=47_4 button \"在此页面上添加全部\"\n    uid=47_5 grid \"grid\" readonly\n      uid=47_6 image \"4A Sticky Notes Value Pack,Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4012\" url=\"https://m.media-amazon.com/images/I/31g7x6qHwmL._SS60_.jpg\"\n      uid=47_7 link \"4A Sticky Notes Value Pack,Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4012\" url=\"https://www.amazon.com/dp/B01M3N310M\"\n        uid=47_8 StaticText \"4A Sticky Notes Value Pack,Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4012\"\n      uid=47_9 image \"3.9 out of 5 stars\"\n      uid=47_10 link \"(213)\" url=\"https://www.amazon.com/product-reviews/B01M3N310M\"\n        uid=47_11 StaticText \"(\"\n        uid=47_12 StaticText \"213\"\n        uid=47_13 StaticText \")\"\n      uid=47_14 StaticText \"US$12.99\"\n      uid=47_15 StaticText \"有货\"\n      uid=47_16 StaticText \"ASIN:\"\n      uid=47_17 StaticText \"B01M3N310M\"\n      uid=47_18 StaticText \"SKU:\"\n      uid=47_19 StaticText \"4A 4012-B07T-FBM\"\n      uid=47_20 button \"添加\"\n      uid=47_21 button \"添加变体\"\n      uid=47_22 button \"Open tooltip\" haspopup=\"dialog\"\n      uid=47_23 image \"4A Sticky Notes Value Pack,Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4012\" url=\"https://m.media-amazon.com/images/I/31g7x6qHwmL._SS60_.jpg\"\n      uid=47_24 link \"4A Sticky Notes Value Pack,Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4012\" url=\"https://www.amazon.com/dp/B01M3N310M\"\n        uid=47_25 StaticText \"4A Sticky Notes Value Pack,Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4012\"\n      uid=47_26 image \"3.9 out of 5 stars\"\n      uid=47_27 link \"(213)\" url=\"https://www.amazon.com/product-reviews/B01M3N310M\"\n        uid=47_28 StaticText \"(\"",
+      "checked_at": "2026-11-03T02:31:33.111Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B3"
+    },
+    {
+      "asin": "B07FKJLZNG",
+      "sku": "AAAA 4A 4012",
+      "rating": 5,
+      "reviews": 1,
+      "chunk": "      uid=50_14 StaticText \"US$11.99\"\n      uid=50_15 StaticText \"低库存\"\n      uid=50_16 StaticText \"ASIN:\"\n      uid=50_17 StaticText \"B07FKJLZNG\"\n      uid=50_18 StaticText \"SKU:\"\n      uid=50_19 StaticText \"4A GM4012\"\n      uid=50_20 button \"添加\"\n      uid=50_21 image \"4A Sticky Notes Value Pack, 18 Pads/Box, 1900 Sheets Total\" url=\"https://m.media-amazon.com/images/I/5135sWY-53L._SS60_.jpg\"\n      uid=50_22 link \"4A Sticky Notes Value Pack, 18 Pads/Box, 1900 Sheets Total\" url=\"https://www.amazon.com/dp/B07FKJLZNG\"\n        uid=50_23 StaticText \"4A Sticky Notes Value Pack, 18 Pads/Box, 1900 Sheets Total\"\n      uid=50_24 image \"5 out of 5 stars\"\n      uid=50_25 link \"(1)\" url=\"https://www.amazon.com/product-reviews/B07FKJLZNG\"\n        uid=50_26 StaticText \"(\"\n        uid=50_27 StaticText \"1\"\n        uid=50_28 StaticText \")\"\n      uid=50_29 StaticText \"US$10.99\"\n      uid=50_30 StaticText \"低库存\"\n      uid=50_31 StaticText \"ASIN:\"\n      uid=50_32 StaticText \"B07FKJLZNG\"\n      uid=50_33 StaticText \"SKU:\"\n      uid=50_34 StaticText \"AAAA 4A 4012\"\n      uid=50_35 button \"添加\"\n    uid=50_36 StaticText \"1-2 of 2 个结果\"\n    uid=50_37 button disableable disabled\n    uid=50_38 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"\n    uid=7_122 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=7_123 link \"选择自动投放或手动投放\" url=\"https://advertising.amazon.com/cb/sp?entityId=ENTITY2EFMPU8GWXHSP&ref=alltoolsnav\"",
+      "checked_at": "2026-11-03T02:31:35.745Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B3"
+    },
+    {
+      "asin": "B07T7PXS32",
+      "sku": "4A 30132-FBA",
+      "rating": 3.7,
+      "reviews": 47,
+      "chunk": "    uid=7_43 button \"您的商品\" description=\"Your Listings\" haspopup=\"listbox\"\n    uid=320_0 switch \"优选广告商品\"\n    uid=320_1 switch \"所有商品\" checked\n    uid=320_2 StaticText \"显示：\"\n    uid=320_3 button \"显示： 最新优先\" haspopup=\"listbox\"\n    uid=320_4 button \"在此页面上添加全部\"\n    uid=320_5 grid \"grid\" readonly\n      uid=320_6 image \"4A Self-Stick Notes, 16 Colors Assorted, 4A 30132-FBA\" url=\"https://m.media-amazon.com/images/I/41UprMxKV4L._SS60_.jpg\"\n      uid=320_7 link \"4A Self-Stick Notes, 16 Colors Assorted, 4A 30132-FBA\" url=\"https://www.amazon.com/dp/B07T7PXS32\"\n        uid=320_8 StaticText \"4A Self-Stick Notes, 16 Colors Assorted, 4A 30132-FBA\"\n      uid=320_9 image \"3.7 out of 5 stars\"\n      uid=320_10 link \"(47)\" url=\"https://www.amazon.com/product-reviews/B07T7PXS32\"\n        uid=320_11 StaticText \"(\"\n        uid=320_12 StaticText \"47\"\n        uid=320_13 StaticText \")\"\n      uid=320_14 StaticText \"US$12.99\"\n      uid=320_15 StaticText \"低库存\"\n      uid=320_16 StaticText \"ASIN:\"\n      uid=320_17 StaticText \"B07T7PXS32\"\n      uid=320_18 StaticText \"SKU:\"\n      uid=320_19 StaticText \"4A 30132-FBA\"\n      uid=320_20 button \"添加\"\n      uid=320_21 button \"添加变体\"\n      uid=320_22 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=320_23 StaticText \"1-1 of 1 个结果\"\n    uid=320_24 button disableable disabled\n    uid=320_25 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T03:14:23.081Z",
+      "evidence_file": "full-coverage/b5-b6-current-page-comparison.json",
+      "id": "B5"
+    },
+    {
+      "asin": "B07RQ7JMV9",
+      "sku": "4A GM30132",
+      "rating": 3.8,
+      "reviews": 189,
+      "chunk": "    uid=7_43 button \"您的商品\" description=\"Your Listings\" haspopup=\"listbox\"\n    uid=314_0 switch \"优选广告商品\"\n    uid=314_1 switch \"所有商品\" checked\n    uid=314_2 StaticText \"显示：\"\n    uid=314_3 button \"显示： 最新优先\" haspopup=\"listbox\"\n    uid=314_4 button \"在此页面上添加全部\"\n    uid=314_5 grid \"grid\" readonly\n      uid=314_6 image \"4A 32 Pads Sticky Notes 1.5 x 2 in, Bright Colors, 100 Sheets/pad\" url=\"https://m.media-amazon.com/images/I/41veiPEYhXL._SS60_.jpg\"\n      uid=314_7 link \"4A 32 Pads Sticky Notes 1.5 x 2 in, Bright Colors, 100 Sheets/pad\" url=\"https://www.amazon.com/dp/B07RQ7JMV9\"\n        uid=314_8 StaticText \"4A 32 Pads Sticky Notes 1.5 x 2 in, Bright Colors, 100 Sheets/pad\"\n      uid=314_9 image \"3.8 out of 5 stars\"\n      uid=314_10 link \"(189)\" url=\"https://www.amazon.com/product-reviews/B07RQ7JMV9\"\n        uid=314_11 StaticText \"(\"\n        uid=314_12 StaticText \"189\"\n        uid=314_13 StaticText \")\"\n      uid=314_14 StaticText \"US$12.99\"\n      uid=314_15 StaticText \"低库存\"\n      uid=314_16 StaticText \"ASIN:\"\n      uid=314_17 StaticText \"B07RQ7JMV9\"\n      uid=314_18 StaticText \"SKU:\"\n      uid=314_19 StaticText \"4A GM30132\"\n      uid=314_20 button \"添加\"\n      uid=314_21 button \"添加变体\"\n      uid=314_22 button \"Open tooltip\" haspopup=\"dialog\"\n      uid=314_23 image \"4A 32 Pads Sticky Notes 1.5 x 2 in, Bright Colors, 100 Sheets/pad\" url=\"https://m.media-amazon.com/images/I/41veiPEYhXL._SS60_.jpg\"\n      uid=314_24 link \"4A 32 Pads Sticky Notes 1.5 x 2 in, Bright Colors, 100 Sheets/pad\" url=\"https://www.amazon.com/dp/B07RQ7JMV9\"\n        uid=314_25 StaticText \"4A 32 Pads Sticky Notes 1.5 x 2 in, Bright Colors, 100 Sheets/pad\"\n      uid=314_26 image \"3.8 out of 5 stars\"\n      uid=314_27 link \"(189)\" url=\"https://www.amazon.com/product-reviews/B07RQ7JMV9\"\n        uid=314_28 StaticText \"(\"",
+      "checked_at": "2026-11-03T03:14:14.937Z",
+      "evidence_file": "full-coverage/b5-b6-current-page-comparison.json",
+      "id": "B5"
+    },
+    {
+      "asin": "B07T42DXZ1",
+      "sku": "4A 354832-FBA",
+      "rating": 3.7,
+      "reviews": 47,
+      "chunk": "    uid=7_43 button \"您的商品\" description=\"Your Listings\" haspopup=\"listbox\"\n    uid=333_0 switch \"优选广告商品\"\n    uid=333_1 switch \"所有商品\" checked\n    uid=333_2 StaticText \"显示：\"\n    uid=333_3 button \"显示： 最新优先\" haspopup=\"listbox\"\n    uid=333_4 button \"在此页面上添加全部\"\n    uid=333_5 grid \"grid\" readonly\n      uid=333_6 image \"4A Self-Stick Notes, 16 Colors Assorted, 4A 354832-FBA\" url=\"https://m.media-amazon.com/images/I/41RRq7ei3VL._SS60_.jpg\"\n      uid=333_7 link \"4A Self-Stick Notes, 16 Colors Assorted, 4A 354832-FBA\" url=\"https://www.amazon.com/dp/B07T42DXZ1\"\n        uid=333_8 StaticText \"4A Self-Stick Notes, 16 Colors Assorted, 4A 354832-FBA\"\n      uid=333_9 image \"3.7 out of 5 stars\"\n      uid=333_10 link \"(47)\" url=\"https://www.amazon.com/product-reviews/B07T42DXZ1\"\n        uid=333_11 StaticText \"(\"\n        uid=333_12 StaticText \"47\"\n        uid=333_13 StaticText \")\"\n      uid=333_14 StaticText \"US$14.99\"\n      uid=333_15 StaticText \"低库存\"\n      uid=333_16 StaticText \"ASIN:\"\n      uid=333_17 StaticText \"B07T42DXZ1\"\n      uid=333_18 StaticText \"SKU:\"\n      uid=333_19 StaticText \"4A 354832-FBA\"\n      uid=333_20 button \"添加\"\n      uid=333_21 button \"添加变体\"\n      uid=333_22 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=333_23 StaticText \"1-1 of 1 个结果\"\n    uid=333_24 button disableable disabled\n    uid=333_25 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T03:14:51.626Z",
+      "evidence_file": "full-coverage/b5-b6-current-page-comparison.json",
+      "id": "B6"
+    },
+    {
+      "asin": "B07RP9LR73",
+      "sku": "4A GM354832",
+      "rating": 3.8,
+      "reviews": 189,
+      "chunk": "    uid=7_43 button \"您的商品\" description=\"Your Listings\" haspopup=\"listbox\"\n    uid=329_0 switch \"优选广告商品\"\n    uid=329_1 switch \"所有商品\" checked\n    uid=329_2 StaticText \"显示：\"\n    uid=329_3 button \"显示： 最新优先\" haspopup=\"listbox\"\n    uid=329_4 button \"在此页面上添加全部\"\n    uid=329_5 grid \"grid\" readonly\n      uid=329_6 image \"4A Sticky Notes, 1.375 x 1.875 in, 32 Pads\" url=\"https://m.media-amazon.com/images/I/41RRq7ei3VL._SS60_.jpg\"\n      uid=329_7 link \"4A Sticky Notes, 1.375 x 1.875 in, 32 Pads\" url=\"https://www.amazon.com/dp/B07RP9LR73\"\n        uid=329_8 StaticText \"4A Sticky Notes, 1.375 x 1.875 in, 32 Pads\"\n      uid=329_9 image \"3.8 out of 5 stars\"\n      uid=329_10 link \"(189)\" url=\"https://www.amazon.com/product-reviews/B07RP9LR73\"\n        uid=329_11 StaticText \"(\"\n        uid=329_12 StaticText \"189\"\n        uid=329_13 StaticText \")\"\n      uid=329_14 StaticText \"US$15.99\"\n      uid=329_15 StaticText \"有货\"\n      uid=329_16 StaticText \"ASIN:\"\n      uid=329_17 StaticText \"B07RP9LR73\"\n      uid=329_18 StaticText \"SKU:\"\n      uid=329_19 StaticText \"4A GM354832\"\n      uid=329_20 button \"添加\"\n      uid=329_21 button \"添加变体\"\n      uid=329_22 button \"Open tooltip\" haspopup=\"dialog\"\n      uid=329_23 image \"4A Sticky Notes, 1.375 x 1.875 in, 32 Pads\" url=\"https://m.media-amazon.com/images/I/41RRq7ei3VL._SS60_.jpg\"\n      uid=329_24 link \"4A Sticky Notes, 1.375 x 1.875 in, 32 Pads\" url=\"https://www.amazon.com/dp/B07RP9LR73\"\n        uid=329_25 StaticText \"4A Sticky Notes, 1.375 x 1.875 in, 32 Pads\"\n      uid=329_26 image \"3.8 out of 5 stars\"\n      uid=329_27 link \"(189)\" url=\"https://www.amazon.com/product-reviews/B07RP9LR73\"\n        uid=329_28 StaticText \"(\"",
+      "checked_at": "2026-11-03T03:14:39.994Z",
+      "evidence_file": "full-coverage/b5-b6-current-page-comparison.json",
+      "id": "B6"
+    },
+    {
+      "asin": "B07DJXC4PJ",
+      "sku": "4A 2028-N-FBA",
+      "rating": 4.1,
+      "reviews": 323,
+      "chunk": "    uid=7_43 button \"您的商品\" description=\"Your Listings\" haspopup=\"listbox\"\n    uid=99_0 switch \"优选广告商品\"\n    uid=99_1 switch \"所有商品\" checked\n    uid=99_2 StaticText \"显示：\"\n    uid=99_3 button \"显示： 最新优先\" haspopup=\"listbox\"\n    uid=99_4 button \"在此页面上添加全部\"\n    uid=99_5 grid \"grid\" readonly\n      uid=99_6 image \"4A 2028-N Sticky Notes, 2 x 2 Inches, Small Size, Self-Stick Notes, 100 Sheets/Pad, 8 Pads/Pack, Neon Color\" url=\"https://m.media-amazon.com/images/I/31UCky41Q6L._SS60_.jpg\"\n      uid=99_7 link \"4A 2028-N Sticky Notes, 2 x 2 Inches, Small Size, Self-Stick Notes, 100 Sheets/Pad, 8 Pads/Pack, Neon Color\" url=\"https://www.amazon.com/dp/B07DJXC4PJ\"\n        uid=99_8 StaticText \"4A 2028-N Sticky Notes, 2 x 2 Inches, Small Size, Self-Stick Notes, 100 Sheets/Pad, 8 Pads/Pack, Neon Color\"\n      uid=99_9 image \"4.1 out of 5 stars\"\n      uid=99_10 link \"(323)\" url=\"https://www.amazon.com/product-reviews/B07DJXC4PJ\"\n        uid=99_11 StaticText \"(\"\n        uid=99_12 StaticText \"323\"\n        uid=99_13 StaticText \")\"\n      uid=99_14 StaticText \"US$8.99\"\n      uid=99_15 StaticText \"低库存\"\n      uid=99_16 StaticText \"ASIN:\"\n      uid=99_17 StaticText \"B07DJXC4PJ\"\n      uid=99_18 StaticText \"SKU:\"\n      uid=99_19 StaticText \"4A 2028-N-FBA\"\n      uid=99_20 button \"添加\"\n      uid=99_21 button \"添加变体\"\n      uid=99_22 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=99_23 StaticText \"1-1 of 1 个结果\"\n    uid=99_24 button disableable disabled\n    uid=99_25 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:33:39.620Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B7"
+    },
+    {
+      "asin": "B07F295V3S",
+      "sku": "4A 2028-N",
+      "rating": 3.8,
+      "reviews": 189,
+      "chunk": "    uid=7_43 button \"您的商品\" description=\"Your Listings\" haspopup=\"listbox\"\n    uid=102_0 switch \"优选广告商品\"\n    uid=102_1 switch \"所有商品\" checked\n    uid=102_2 StaticText \"显示：\"\n    uid=102_3 button \"显示： 最新优先\" haspopup=\"listbox\"\n    uid=102_4 button \"在此页面上添加全部\"\n    uid=102_5 grid \"grid\" readonly\n      uid=102_6 image \"4A 8 Pads Sticky Notes 2 x 2 in, 8 Colors, 100 Sheets/Pad\" url=\"https://m.media-amazon.com/images/I/31Zb3Oyi-dL._SS60_.jpg\"\n      uid=102_7 link \"4A 8 Pads Sticky Notes 2 x 2 in, 8 Colors, 100 Sheets/Pad\" url=\"https://www.amazon.com/dp/B07F295V3S\"\n        uid=102_8 StaticText \"4A 8 Pads Sticky Notes 2 x 2 in, 8 Colors, 100 Sheets/Pad\"\n      uid=102_9 image \"3.8 out of 5 stars\"\n      uid=102_10 link \"(189)\" url=\"https://www.amazon.com/product-reviews/B07F295V3S\"\n        uid=102_11 StaticText \"(\"\n        uid=102_12 StaticText \"189\"\n        uid=102_13 StaticText \")\"\n      uid=102_14 StaticText \"US$4.99\"\n      uid=102_15 StaticText \"有货\"\n      uid=102_16 StaticText \"ASIN:\"\n      uid=102_17 StaticText \"B07F295V3S\"\n      uid=102_18 StaticText \"SKU:\"\n      uid=102_19 StaticText \"4A 2028-N\"\n      uid=102_20 button \"添加\"\n      uid=102_21 button \"添加变体\"\n      uid=102_22 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=102_23 StaticText \"1-1 of 1 个结果\"\n    uid=102_24 button disableable disabled\n    uid=102_25 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:33:42.879Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B7"
+    },
+    {
+      "asin": "B01MSZS7M3",
+      "sku": "4A 033",
+      "rating": 2.8,
+      "reviews": 6,
+      "chunk": "      uid=57_16 StaticText \"ASIN:\"\n      uid=57_17 StaticText \"B01MSZS7M3\"\n      uid=57_18 StaticText \"SKU:\"\n      uid=57_19 StaticText \"4A 406x6\"\n      uid=57_20 button \"添加\"\n      uid=57_21 button \"添加变体\"\n      uid=57_22 button \"Open tooltip\" haspopup=\"dialog\"\n      uid=57_23 image \"4A Sticky Notes 4 x 6 in, Pastel Colors Sticky Note Pads, Large Memo Pads Aesthetic Self-Stick Note Pads, 6 Pads, 100 Sheets/Pad\" url=\"https://m.media-amazon.com/images/I/21E45KNU2VL._SS60_.jpg\"\n      uid=57_24 link \"4A Sticky Notes 4 x 6 in, Pastel Colors Sticky Note Pads, Large Memo Pads Aesthetic Self-Stick Note Pads, 6 Pads, 100 Sheets/Pad\" url=\"https://www.amazon.com/dp/B01MSZS7M3\"\n        uid=57_25 StaticText \"4A Sticky Notes 4 x 6 in, Pastel Colors Sticky Note Pads, Large Memo Pads Aesthetic Self-Stick Note Pads, 6 Pads, 100 Sheets/Pad\"\n      uid=57_26 image \"2.8 out of 5 stars\"\n      uid=57_27 link \"(6)\" url=\"https://www.amazon.com/product-reviews/B01MSZS7M3\"\n        uid=57_28 StaticText \"(\"\n        uid=57_29 StaticText \"6\"\n        uid=57_30 StaticText \")\"\n      uid=57_31 StaticText \"US$11.99\"\n      uid=57_32 StaticText \"低库存\"\n      uid=57_33 StaticText \"ASIN:\"\n      uid=57_34 StaticText \"B01MSZS7M3\"\n      uid=57_35 StaticText \"SKU:\"\n      uid=57_36 StaticText \"4A 033\"\n      uid=57_37 button \"添加\"\n      uid=57_38 button \"添加变体\"\n      uid=57_39 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=57_40 StaticText \"1-2 of 2 个结果\"\n    uid=57_41 button disableable disabled\n    uid=57_42 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:31:45.091Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B8"
+    },
+    {
+      "asin": "B07RP9MB7Y",
+      "sku": "4A 5088-N-L",
+      "rating": 4.4,
+      "reviews": 64,
+      "chunk": "      uid=117_16 StaticText \"ASIN:\"\n      uid=117_17 StaticText \"B07RP9MB7Y\"\n      uid=117_18 StaticText \"SKU:\"\n      uid=117_19 StaticText \"4A GM5088-N-L\"\n      uid=117_20 button \"添加\"\n      uid=117_21 button \"添加变体\"\n      uid=117_22 button \"Open tooltip\" haspopup=\"dialog\"\n      uid=117_23 image \"4A 8 Pads Lined Sticky Notes with Lines 5 x 8 in, 50 Sheets/Pad, 400 Sheets\" url=\"https://m.media-amazon.com/images/I/41KkRyrQ4QL._SS60_.jpg\"\n      uid=117_24 link \"4A 8 Pads Lined Sticky Notes with Lines 5 x 8 in, 50 Sheets/Pad, 400 Sheets\" url=\"https://www.amazon.com/dp/B07RP9MB7Y\"\n        uid=117_25 StaticText \"4A 8 Pads Lined Sticky Notes with Lines 5 x 8 in, 50 Sheets/Pad, 400 Sheets\"\n      uid=117_26 image \"4.4 out of 5 stars\"\n      uid=117_27 link \"(64)\" url=\"https://www.amazon.com/product-reviews/B07RP9MB7Y\"\n        uid=117_28 StaticText \"(\"\n        uid=117_29 StaticText \"64\"\n        uid=117_30 StaticText \")\"\n      uid=117_31 StaticText \"US$19.99\"\n      uid=117_32 StaticText \"低库存\"\n      uid=117_33 StaticText \"ASIN:\"\n      uid=117_34 StaticText \"B07RP9MB7Y\"\n      uid=117_35 StaticText \"SKU:\"\n      uid=117_36 StaticText \"4A 5088-N-L\"\n      uid=117_37 button \"添加\"\n      uid=117_38 button \"添加变体\"\n      uid=117_39 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=117_40 StaticText \"1-2 of 2 个结果\"\n    uid=117_41 button disableable disabled\n    uid=117_42 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:34:00.047Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B9"
+    },
+    {
+      "asin": "B07HDVVZ1B",
+      "sku": "4A 608-N-L-210-FBA",
+      "rating": 4.3,
+      "reviews": 90,
+      "chunk": "    uid=7_43 button \"您的商品\" description=\"Your Listings\" haspopup=\"listbox\"\n    uid=122_0 switch \"优选广告商品\"\n    uid=122_1 switch \"所有商品\" checked\n    uid=122_2 StaticText \"显示：\"\n    uid=122_3 button \"显示： 最新优先\" haspopup=\"listbox\"\n    uid=122_4 button \"在此页面上添加全部\"\n    uid=122_5 grid \"grid\" readonly\n      uid=122_6 image \"4A Sticky Notes, 6 x 8 Inches, 7 Neon color Assorted, Lined, Self-Stick Notes, 210 Sheets/Pad, 1Pad/Pack, 4A 608-N-L-210\" url=\"https://m.media-amazon.com/images/I/31iHG4klhlL._SS60_.jpg\"\n      uid=122_7 link \"4A Sticky Notes, 6 x 8 Inches, 7 Neon color Assorted, Lined, Self-Stick Notes, 210 Sheets/Pad, 1Pad/Pack, 4A 608-N-L-210\" url=\"https://www.amazon.com/dp/B07HDVVZ1B\"\n        uid=122_8 StaticText \"4A Sticky Notes, 6 x 8 Inches, 7 Neon color Assorted, Lined, Self-Stick Notes, 210 Sheets/Pad, 1Pad/Pack, 4A 608-N-L-210\"\n      uid=122_9 image \"4.3 out of 5 stars\"\n      uid=122_10 link \"(90)\" url=\"https://www.amazon.com/product-reviews/B07HDVVZ1B\"\n        uid=122_11 StaticText \"(\"\n        uid=122_12 StaticText \"90\"\n        uid=122_13 StaticText \")\"\n      uid=122_14 StaticText \"US$11.99\"\n      uid=122_15 StaticText \"低库存\"\n      uid=122_16 StaticText \"ASIN:\"\n      uid=122_17 StaticText \"B07HDVVZ1B\"\n      uid=122_18 StaticText \"SKU:\"\n      uid=122_19 StaticText \"4A 608-N-L-210-FBA\"\n      uid=122_20 button \"添加\"\n      uid=122_21 button \"添加变体\"\n      uid=122_22 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=122_23 StaticText \"1-1 of 1 个结果\"\n    uid=122_24 button disableable disabled\n    uid=122_25 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:34:05.838Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B10"
+    },
+    {
+      "asin": "B07B8RBCKT",
+      "sku": "AAAA 4A 608-N-L-210",
+      "rating": 4.2,
+      "reviews": 209,
+      "chunk": "      uid=124_33 StaticText \"ASIN:\"\n      uid=124_34 StaticText \"B07B8RBCKT\"\n      uid=124_35 StaticText \"SKU:\"\n      uid=124_36 StaticText \"4A 608-N-L-210\"\n      uid=124_37 button \"添加\"\n      uid=124_38 button \"添加变体\"\n      uid=124_39 button \"Open tooltip\" haspopup=\"dialog\"\n      uid=124_40 image \"4A Lined Sticky Notes, 6 x 8 in, Bright Colors\" url=\"https://m.media-amazon.com/images/I/51gVHt5iDKL._SS60_.jpg\"\n      uid=124_41 link \"4A Lined Sticky Notes, 6 x 8 in, Bright Colors\" url=\"https://www.amazon.com/dp/B07B8RBCKT\"\n        uid=124_42 StaticText \"4A Lined Sticky Notes, 6 x 8 in, Bright Colors\"\n      uid=124_43 image \"4.2 out of 5 stars\"\n      uid=124_44 link \"(209)\" url=\"https://www.amazon.com/product-reviews/B07B8RBCKT\"\n        uid=124_45 StaticText \"(\"\n        uid=124_46 StaticText \"209\"\n        uid=124_47 StaticText \")\"\n      uid=124_48 StaticText \"US$11.99\"\n      uid=124_49 StaticText \"有货\"\n      uid=124_50 StaticText \"ASIN:\"\n      uid=124_51 StaticText \"B07B8RBCKT\"\n      uid=124_52 StaticText \"SKU:\"\n      uid=124_53 StaticText \"AAAA 4A 608-N-L-210\"\n      uid=124_54 button \"添加\"\n      uid=124_55 button \"添加变体\"\n      uid=124_56 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=124_57 StaticText \"1-3 of 3 个结果\"\n    uid=124_58 button disableable disabled\n    uid=124_59 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:34:09.629Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B10"
+    },
+    {
+      "asin": "B07T79KGWF",
+      "sku": "4A 5020x3-FBA",
+      "rating": 3.8,
+      "reviews": 8,
+      "chunk": "    uid=7_43 button \"您的商品\" description=\"Your Listings\" haspopup=\"listbox\"\n    uid=200_0 switch \"优选广告商品\"\n    uid=200_1 switch \"所有商品\" checked\n    uid=200_2 StaticText \"显示：\"\n    uid=200_3 button \"显示： 最新优先\" haspopup=\"listbox\"\n    uid=200_4 button \"在此页面上添加全部\"\n    uid=200_5 grid \"grid\" readonly\n      uid=200_6 image \"4A Shapes Sticky Notes,Puzzle,2 7/8 x 2 4/7 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,4 Pads/Pack,3 Packs,4A 5020x3\" url=\"https://m.media-amazon.com/images/I/31-Tr9+BQtL._SS60_.jpg\"\n      uid=200_7 link \"4A Shapes Sticky Notes,Puzzle,2 7/8 x 2 4/7 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,4 Pads/Pack,3 Packs,4A 5020x3\" url=\"https://www.amazon.com/dp/B07T79KGWF\"\n        uid=200_8 StaticText \"4A Shapes Sticky Notes,Puzzle,2 7/8 x 2 4/7 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,4 Pads/Pack,3 Packs,4A 5020x3\"\n      uid=200_9 image \"3.8 out of 5 stars\"\n      uid=200_10 link \"(8)\" url=\"https://www.amazon.com/product-reviews/B07T79KGWF\"\n        uid=200_11 StaticText \"(\"\n        uid=200_12 StaticText \"8\"\n        uid=200_13 StaticText \")\"\n      uid=200_14 StaticText \"US$25.99\"\n      uid=200_15 StaticText \"低库存\"\n      uid=200_16 StaticText \"ASIN:\"\n      uid=200_17 StaticText \"B07T79KGWF\"\n      uid=200_18 StaticText \"SKU:\"\n      uid=200_19 StaticText \"4A 5020x3-FBA\"\n      uid=200_20 button \"添加\"\n      uid=200_21 button \"添加变体\"\n      uid=200_22 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=200_23 StaticText \"1-1 of 1 个结果\"\n    uid=200_24 button disableable disabled\n    uid=200_25 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:35:47.929Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B11"
+    },
+    {
+      "asin": "B07RN7WQ81",
+      "sku": "4A 5020x3",
+      "rating": 3.9,
+      "reviews": 86,
+      "chunk": "      uid=203_17 StaticText \"B07RN7WQ81\"\n      uid=203_18 StaticText \"SKU:\"\n      uid=203_19 StaticText \"4A GM5020x3\"\n      uid=203_20 button \"添加\"\n      uid=203_21 button \"添加变体\"\n      uid=203_22 button \"Open tooltip\" haspopup=\"dialog\"\n      uid=203_23 image \"4A 12 Pads Puzzle Shaped Sticky Notes 2 7/8 x 2 4/7 in, 100 Sheets/Pad\" url=\"https://m.media-amazon.com/images/I/31F3P7wAqxL._SS60_.jpg\"\n      uid=203_24 link \"4A 12 Pads Puzzle Shaped Sticky Notes 2 7/8 x 2 4/7 in, 100 Sheets/Pad\" url=\"https://www.amazon.com/dp/B07RN7WQ81\"\n        uid=203_25 StaticText \"4A 12 Pads Puzzle Shaped Sticky Notes 2 7/8 x 2 4/7 in, 100 Sheets/Pad\"\n      uid=203_26 image \"3.9 out of 5 stars\"\n      uid=203_27 link \"(86)\" url=\"https://www.amazon.com/product-reviews/B07RN7WQ81\"\n        uid=203_28 StaticText \"(\"\n        uid=203_29 StaticText \"86\"\n        uid=203_30 StaticText \")\"\n      uid=203_31 StaticText \"US$25.99\"\n      uid=203_32 StaticText \"US$24.69\"\n      uid=203_33 StaticText \"有货\"\n      uid=203_34 StaticText \"ASIN:\"\n      uid=203_35 StaticText \"B07RN7WQ81\"\n      uid=203_36 StaticText \"SKU:\"\n      uid=203_37 StaticText \"4A 5020x3\"\n      uid=203_38 button \"添加\"\n      uid=203_39 button \"添加变体\"\n      uid=203_40 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=203_41 StaticText \"1-2 of 2 个结果\"\n    uid=203_42 button disableable disabled\n    uid=203_43 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:35:50.577Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B11"
+    },
+    {
+      "asin": "B08DKJ2K3T",
+      "sku": "4A SCPSS 32x6",
+      "rating": 3.6,
+      "reviews": 22,
+      "chunk": "      uid=115_22 StaticText \"SKU:\"\n      uid=115_23 StaticText \"4A GM-SCPSS 32x6\"\n      uid=115_24 button \"添加\"\n      uid=115_25 StaticText \"优选广告商品\"\n      uid=115_26 button \"Open tooltip\" haspopup=\"dialog\"\n      uid=115_27 StaticText \"基准化分析\"\n      uid=115_28 button \"Open tooltip\" haspopup=\"dialog\"\n      uid=115_29 image \"4A Roll Sticky Notes with Dispenser,Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6\" url=\"https://m.media-amazon.com/images/I/41rkf5hmshL._SS60_.jpg\"\n      uid=115_30 link \"4A Roll Sticky Notes with Dispenser,Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6\" url=\"https://www.amazon.com/dp/B08DKJ2K3T\"\n        uid=115_31 StaticText \"4A Roll Sticky Notes with Dispenser,Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6\"\n      uid=115_32 image \"3.6 out of 5 stars\"\n      uid=115_33 link \"(22)\" url=\"https://www.amazon.com/product-reviews/B08DKJ2K3T\"\n        uid=115_34 StaticText \"(\"\n        uid=115_35 StaticText \"22\"\n        uid=115_36 StaticText \")\"\n      uid=115_37 StaticText \"US$13.99\"\n      uid=115_38 StaticText \"有货\"\n      uid=115_39 StaticText \"ASIN:\"\n      uid=115_40 StaticText \"B08DKJ2K3T\"\n      uid=115_41 StaticText \"SKU:\"\n      uid=115_42 StaticText \"4A SCPSS 32x6\"\n      uid=115_43 button \"添加\"\n    uid=115_44 StaticText \"1-2 of 2 个结果\"\n    uid=115_45 button disableable disabled\n    uid=115_46 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"\n    uid=7_122 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=7_123 link \"选择自动投放或手动投放\" url=\"https://advertising.amazon.com/cb/sp?entityId=ENTITY2EFMPU8GWXHSP&ref=alltoolsnav\"",
+      "checked_at": "2026-11-03T02:33:57.553Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B12"
+    },
+    {
+      "asin": "B07JVSYNYV",
+      "sku": "4A BS 1801-FBA",
+      "rating": 4.4,
+      "reviews": 510,
+      "chunk": "    uid=7_43 button \"您的商品\" description=\"Your Listings\" haspopup=\"listbox\"\n    uid=24_0 switch \"优选广告商品\"\n    uid=24_1 switch \"所有商品\" checked\n    uid=24_2 StaticText \"显示：\"\n    uid=24_3 button \"显示： 最新优先\" haspopup=\"listbox\"\n    uid=24_4 button \"在此页面上添加全部\"\n    uid=24_5 grid \"grid\" readonly\n      uid=24_6 image \"4A Self-Stick Notes, Classic Assorted, 4A BS 1801-FBA\" url=\"https://m.media-amazon.com/images/I/318fVFUKIOL._SS60_.jpg\"\n      uid=24_7 link \"4A Self-Stick Notes, Classic Assorted, 4A BS 1801-FBA\" url=\"https://www.amazon.com/dp/B07JVSYNYV\"\n        uid=24_8 StaticText \"4A Self-Stick Notes, Classic Assorted, 4A BS 1801-FBA\"\n      uid=24_9 image \"4.4 out of 5 stars\"\n      uid=24_10 link \"(510)\" url=\"https://www.amazon.com/product-reviews/B07JVSYNYV\"\n        uid=24_11 StaticText \"(\"\n        uid=24_12 StaticText \"510\"\n        uid=24_13 StaticText \")\"\n      uid=24_14 StaticText \"US$14.99\"\n      uid=24_15 StaticText \"低库存\"\n      uid=24_16 StaticText \"ASIN:\"\n      uid=24_17 StaticText \"B07JVSYNYV\"\n      uid=24_18 StaticText \"SKU:\"\n      uid=24_19 StaticText \"4A BS 1801-FBA\"\n      uid=24_20 button \"添加\"\n      uid=24_21 button \"添加变体\"\n      uid=24_22 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=24_23 StaticText \"1-1 of 1 个结果\"\n    uid=24_24 button disableable disabled\n    uid=24_25 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:31:06.311Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B13"
+    },
+    {
+      "asin": "B07K8L4K8K",
+      "sku": "4A BS 1801",
+      "rating": 4.2,
+      "reviews": 6,
+      "chunk": "      uid=27_16 StaticText \"ASIN:\"\n      uid=27_17 StaticText \"B07K8L4K8K\"\n      uid=27_18 StaticText \"SKU:\"\n      uid=27_19 StaticText \"4A GMBS 1801\"\n      uid=27_20 button \"添加\"\n      uid=27_21 button \"添加变体\"\n      uid=27_22 button \"Open tooltip\" haspopup=\"dialog\"\n      uid=27_23 image \"4A Sticky Notes and Index Flags Bundle Set, Neon Assorted, 6 Pads/Set\" url=\"https://m.media-amazon.com/images/I/31v3WqLvI1L._SS60_.jpg\"\n      uid=27_24 link \"4A Sticky Notes and Index Flags Bundle Set, Neon Assorted, 6 Pads/Set\" url=\"https://www.amazon.com/dp/B07K8L4K8K\"\n        uid=27_25 StaticText \"4A Sticky Notes and Index Flags Bundle Set, Neon Assorted, 6 Pads/Set\"\n      uid=27_26 image \"4.2 out of 5 stars\"\n      uid=27_27 link \"(6)\" url=\"https://www.amazon.com/product-reviews/B07K8L4K8K\"\n        uid=27_28 StaticText \"(\"\n        uid=27_29 StaticText \"6\"\n        uid=27_30 StaticText \")\"\n      uid=27_31 StaticText \"US$17.99\"\n      uid=27_32 StaticText \"低库存\"\n      uid=27_33 StaticText \"ASIN:\"\n      uid=27_34 StaticText \"B07K8L4K8K\"\n      uid=27_35 StaticText \"SKU:\"\n      uid=27_36 StaticText \"4A BS 1801\"\n      uid=27_37 button \"添加\"\n      uid=27_38 button \"添加变体\"\n      uid=27_39 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=27_40 StaticText \"1-2 of 2 个结果\"\n    uid=27_41 button disableable disabled\n    uid=27_42 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:31:09.584Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B13"
+    },
+    {
+      "asin": "B07Z2555TN",
+      "sku": "4A 404-AC-Holder",
+      "rating": 4.1,
+      "reviews": 33,
+      "chunk": "    uid=7_43 button \"您的商品\" description=\"Your Listings\" haspopup=\"listbox\"\n    uid=176_0 switch \"优选广告商品\"\n    uid=176_1 switch \"所有商品\" checked\n    uid=176_2 StaticText \"显示：\"\n    uid=176_3 button \"显示： 最新优先\" haspopup=\"listbox\"\n    uid=176_4 button \"在此页面上添加全部\"\n    uid=176_5 grid \"grid\" readonly\n      uid=176_6 image \"4A Self-Stick Notes, Neon Assorted, 4A 404-AC-Holder\" url=\"https://m.media-amazon.com/images/I/51n8fRKUufL._SS60_.jpg\"\n      uid=176_7 link \"4A Self-Stick Notes, Neon Assorted, 4A 404-AC-Holder\" url=\"https://www.amazon.com/dp/B07Z2555TN\"\n        uid=176_8 StaticText \"4A Self-Stick Notes, Neon Assorted, 4A 404-AC-Holder\"\n      uid=176_9 image \"4.1 out of 5 stars\"\n      uid=176_10 link \"(33)\" url=\"https://www.amazon.com/product-reviews/B07Z2555TN\"\n        uid=176_11 StaticText \"(\"\n        uid=176_12 StaticText \"33\"\n        uid=176_13 StaticText \")\"\n      uid=176_14 StaticText \"US$15.99\"\n      uid=176_15 StaticText \"低库存\"\n      uid=176_16 StaticText \"ASIN:\"\n      uid=176_17 StaticText \"B07Z2555TN\"\n      uid=176_18 StaticText \"SKU:\"\n      uid=176_19 StaticText \"4A 404-AC-Holder\"\n      uid=176_20 button \"添加\"\n      uid=176_21 button \"添加变体\"\n      uid=176_22 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=176_23 StaticText \"1-1 of 1 个结果\"\n    uid=176_24 button disableable disabled\n    uid=176_25 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:35:15.589Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B14"
+    },
+    {
+      "asin": "B07WK3JX6K",
+      "sku": "4A GMSC404-AC-holder",
+      "rating": null,
+      "reviews": null,
+      "chunk": "    uid=179_4 button \"在此页面上添加全部\"\n    uid=179_5 grid \"grid\" readonly\n      uid=179_6 image \"4A Pen Holder with Lined Sticky Notes, 4 x 4 in, Neon Colors\" url=\"https://m.media-amazon.com/images/I/51n8fRKUufL._SS60_.jpg\"\n      uid=179_7 link \"4A Pen Holder with Lined Sticky Notes, 4 x 4 in, Neon Colors\" url=\"https://www.amazon.com/dp/B07WK3JX6K\"\n        uid=179_8 StaticText \"4A Pen Holder with Lined Sticky Notes, 4 x 4 in, Neon Colors\"\n      uid=179_9 StaticText \"US$0.00\"\n      uid=179_10 StaticText \"有货\"\n      uid=179_11 StaticText \"ASIN:\"\n      uid=179_12 StaticText \"B07WK3JX6K\"\n      uid=179_13 StaticText \"SKU:\"\n      uid=179_14 StaticText \"4A 404-AC-holder\"\n      uid=179_15 button \"添加\"\n      uid=179_16 image \"4A Pen Holder with Lined Sticky Notes, 4 x 4 in, Neon Colors\" url=\"https://m.media-amazon.com/images/I/51n8fRKUufL._SS60_.jpg\"\n      uid=179_17 link \"4A Pen Holder with Lined Sticky Notes, 4 x 4 in, Neon Colors\" url=\"https://www.amazon.com/dp/B07WK3JX6K\"\n        uid=179_18 StaticText \"4A Pen Holder with Lined Sticky Notes, 4 x 4 in, Neon Colors\"\n      uid=179_19 StaticText \"US$15.99\"\n      uid=179_20 StaticText \"有货\"\n      uid=179_21 StaticText \"ASIN:\"\n      uid=179_22 StaticText \"B07WK3JX6K\"\n      uid=179_23 StaticText \"SKU:\"\n      uid=179_24 StaticText \"4A GMSC404-AC-holder\"\n      uid=179_25 button \"添加\"\n      uid=179_26 image \"4A Pen Holder with Lined Sticky Notes, 4 x 4 in, Neon Colors\" url=\"https://m.media-amazon.com/images/I/51n8fRKUufL._SS60_.jpg\"\n      uid=179_27 link \"4A Pen Holder with Lined Sticky Notes, 4 x 4 in, Neon Colors\" url=\"https://www.amazon.com/dp/B07WK3JX6K\"\n        uid=179_28 StaticText \"4A Pen Holder with Lined Sticky Notes, 4 x 4 in, Neon Colors\"\n      uid=179_29 StaticText \"US$15.99\"\n      uid=179_30 StaticText \"有货\"\n      uid=179_31 StaticText \"ASIN:\"\n      uid=179_32 StaticText \"B07WK3JX6K\"\n      uid=179_33 StaticText \"SKU:\"",
+      "checked_at": "2026-11-03T02:35:21.209Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B14"
+    },
+    {
+      "asin": "B07DJP6SNG",
+      "sku": "303-AC-holder",
+      "rating": 4.1,
+      "reviews": 104,
+      "chunk": "    uid=7_43 button \"您的商品\" description=\"Your Listings\" haspopup=\"listbox\"\n    uid=152_0 switch \"优选广告商品\"\n    uid=152_1 switch \"所有商品\" checked\n    uid=152_2 StaticText \"显示：\"\n    uid=152_3 button \"显示： 最新优先\" haspopup=\"listbox\"\n    uid=152_4 button \"在此页面上添加全部\"\n    uid=152_5 grid \"grid\" readonly\n      uid=152_6 image \"4A Sticky Note Dispenser Pen Holder Set, Self-Stick Notes, 8 Ultra Colors 3x3 Inches 400 Neon Sheets Sticky Notes and 1 * 1 3/4 Inches 2x50 Sheets.100 Flags, 303-AC-holder\" url=\"https://m.media-amazon.com/images/I/41XNsw1TfnL._SS60_.jpg\"\n      uid=152_7 link \"4A Sticky Note Dispenser Pen Holder Set, Self-Stick Notes, 8 Ultra Colors 3x3 Inches 400 Neon Sheets Sticky Notes and 1 * 1 3/4 Inches 2x50 Sheets.100 Flags, 303-AC-holder\" url=\"https://www.amazon.com/dp/B07DJP6SNG\"\n        uid=152_8 StaticText \"4A Sticky Note Dispenser Pen Holder Set, Self-Stick Notes, 8 Ultra Colors 3x3 Inches 400 Neon Sheets Sticky Notes and 1 * 1 3/4 Inches 2x50 Sheets.100 Flags, 303-AC-holder\"\n      uid=152_9 image \"4.1 out of 5 stars\"\n      uid=152_10 link \"(104)\" url=\"https://www.amazon.com/product-reviews/B07DJP6SNG\"\n        uid=152_11 StaticText \"(\"\n        uid=152_12 StaticText \"104\"\n        uid=152_13 StaticText \")\"\n      uid=152_14 StaticText \"US$11.60\"\n      uid=152_15 StaticText \"低库存\"\n      uid=152_16 StaticText \"ASIN:\"\n      uid=152_17 StaticText \"B07DJP6SNG\"\n      uid=152_18 StaticText \"SKU:\"\n      uid=152_19 StaticText \"303-AC-holder\"\n      uid=152_20 button \"添加\"\n      uid=152_21 button \"添加变体\"\n      uid=152_22 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=152_23 StaticText \"1-1 of 1 个结果\"\n    uid=152_24 button disableable disabled\n    uid=152_25 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:34:44.222Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B15"
+    },
+    {
+      "asin": "B07FKHHTYG",
+      "sku": "AAAA 4A 303-AC-holder",
+      "rating": 4.5,
+      "reviews": 26,
+      "chunk": "      uid=155_14 StaticText \"US$10.99\"\n      uid=155_15 StaticText \"有货\"\n      uid=155_16 StaticText \"ASIN:\"\n      uid=155_17 StaticText \"B07FKHHTYG\"\n      uid=155_18 StaticText \"SKU:\"\n      uid=155_19 StaticText \"4A GM303-AC-holder\"\n      uid=155_20 button \"添加\"\n      uid=155_21 image \"4A Sticky Note and Pen Holder with 3 x 3 in Notes\" url=\"https://m.media-amazon.com/images/I/41XNsw1TfnL._SS60_.jpg\"\n      uid=155_22 link \"4A Sticky Note and Pen Holder with 3 x 3 in Notes\" url=\"https://www.amazon.com/dp/B07FKHHTYG\"\n        uid=155_23 StaticText \"4A Sticky Note and Pen Holder with 3 x 3 in Notes\"\n      uid=155_24 image \"4.5 out of 5 stars\"\n      uid=155_25 link \"(26)\" url=\"https://www.amazon.com/product-reviews/B07FKHHTYG\"\n        uid=155_26 StaticText \"(\"\n        uid=155_27 StaticText \"26\"\n        uid=155_28 StaticText \")\"\n      uid=155_29 StaticText \"US$17.99\"\n      uid=155_30 StaticText \"有货\"\n      uid=155_31 StaticText \"ASIN:\"\n      uid=155_32 StaticText \"B07FKHHTYG\"\n      uid=155_33 StaticText \"SKU:\"\n      uid=155_34 StaticText \"AAAA 4A 303-AC-holder\"\n      uid=155_35 button \"添加\"\n    uid=155_36 StaticText \"1-2 of 2 个结果\"\n    uid=155_37 button disableable disabled\n    uid=155_38 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"\n    uid=7_122 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=7_123 link \"选择自动投放或手动投放\" url=\"https://advertising.amazon.com/cb/sp?entityId=ENTITY2EFMPU8GWXHSP&ref=alltoolsnav\"",
+      "checked_at": "2026-11-03T02:34:47.941Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B15"
+    },
+    {
+      "asin": "B00SMEEVC4",
+      "sku": "4A 5036-B00SM-FBA",
+      "rating": 3.7,
+      "reviews": 50,
+      "chunk": "    uid=7_43 button \"您的商品\" description=\"Your Listings\" haspopup=\"listbox\"\n    uid=136_0 switch \"优选广告商品\"\n    uid=136_1 switch \"所有商品\" checked\n    uid=136_2 StaticText \"显示：\"\n    uid=136_3 button \"显示： 最新优先\" haspopup=\"listbox\"\n    uid=136_4 button \"在此页面上添加全部\"\n    uid=136_5 grid \"grid\" readonly\n      uid=136_6 image \"4A Shapes Sticky Notes, 3 x 3 in, 200 Sheets/Pad, 1 Pad/Pack\" url=\"https://m.media-amazon.com/images/I/31Av0P71sWL._SS60_.jpg\"\n      uid=136_7 link \"4A Shapes Sticky Notes, 3 x 3 in, 200 Sheets/Pad, 1 Pad/Pack\" url=\"https://www.amazon.com/dp/B00SMEEVC4\"\n        uid=136_8 StaticText \"4A Shapes Sticky Notes, 3 x 3 in, 200 Sheets/Pad, 1 Pad/Pack\"\n      uid=136_9 image \"3.7 out of 5 stars\"\n      uid=136_10 link \"(50)\" url=\"https://www.amazon.com/product-reviews/B00SMEEVC4\"\n        uid=136_11 StaticText \"(\"\n        uid=136_12 StaticText \"50\"\n        uid=136_13 StaticText \")\"\n      uid=136_14 StaticText \"US$7.20\"\n      uid=136_15 StaticText \"低库存\"\n      uid=136_16 StaticText \"ASIN:\"\n      uid=136_17 StaticText \"B00SMEEVC4\"\n      uid=136_18 StaticText \"SKU:\"\n      uid=136_19 StaticText \"4A 5036-B00SM-FBA\"\n      uid=136_20 button \"添加\"\n      uid=136_21 button \"添加变体\"\n      uid=136_22 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=136_23 StaticText \"1-1 of 1 个结果\"\n    uid=136_24 button disableable disabled\n    uid=136_25 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:34:22.590Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B16"
+    },
+    {
+      "asin": "B01N6IT5IG",
+      "sku": "4A 5036",
+      "rating": 3.9,
+      "reviews": 86,
+      "chunk": "    uid=7_43 button \"您的商品\" description=\"Your Listings\" haspopup=\"listbox\"\n    uid=139_0 switch \"优选广告商品\"\n    uid=139_1 switch \"所有商品\" checked\n    uid=139_2 StaticText \"显示：\"\n    uid=139_3 button \"显示： 最新优先\" haspopup=\"listbox\"\n    uid=139_4 button \"在此页面上添加全部\"\n    uid=139_5 grid \"grid\" readonly\n      uid=139_6 image \"4A Heart Sticky Notes 3 x 3 Inches, 5 Bright Colors, Colorful Heart Shaped Sticky Notes Memo Pads for Office, School, Home, 200 Sheets Total, 4A 5036\" url=\"https://m.media-amazon.com/images/I/31Av0P71sWL._SS60_.jpg\"\n      uid=139_7 link \"4A Heart Sticky Notes 3 x 3 Inches, 5 Bright Colors, Colorful Heart Shaped Sticky Notes Memo Pads for Office, School, Home, 200 Sheets Total, 4A 5036\" url=\"https://www.amazon.com/dp/B01N6IT5IG\"\n        uid=139_8 StaticText \"4A Heart Sticky Notes 3 x 3 Inches, 5 Bright Colors, Colorful Heart Shaped Sticky Notes Memo Pads for Office, School, Home, 200 Sheets Total, 4A 5036\"\n      uid=139_9 image \"3.9 out of 5 stars\"\n      uid=139_10 link \"(86)\" url=\"https://www.amazon.com/product-reviews/B01N6IT5IG\"\n        uid=139_11 StaticText \"(\"\n        uid=139_12 StaticText \"86\"\n        uid=139_13 StaticText \")\"\n      uid=139_14 StaticText \"US$6.99\"\n      uid=139_15 StaticText \"有货\"\n      uid=139_16 StaticText \"ASIN:\"\n      uid=139_17 StaticText \"B01N6IT5IG\"\n      uid=139_18 StaticText \"SKU:\"\n      uid=139_19 StaticText \"4A 5036\"\n      uid=139_20 button \"添加\"\n      uid=139_21 button \"添加变体\"\n      uid=139_22 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=139_23 StaticText \"1-1 of 1 个结果\"\n    uid=139_24 button disableable disabled\n    uid=139_25 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:34:26.755Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B16"
+    },
+    {
+      "asin": "B00SMEEVCO",
+      "sku": "4A 5059-B00SM-FBA",
+      "rating": 4.2,
+      "reviews": 65,
+      "chunk": "      uid=107_16 StaticText \"ASIN:\"\n      uid=107_17 StaticText \"B00SMEEVCO\"\n      uid=107_18 StaticText \"SKU:\"\n      uid=107_19 StaticText \"4A 5059-B00SM-FBM\"\n      uid=107_20 button \"添加\"\n      uid=107_21 button \"添加变体\"\n      uid=107_22 button \"Open tooltip\" haspopup=\"dialog\"\n      uid=107_23 image \"4A Speech Bubble Sticky Notes, 3.375 x 1.875 in, 1 Pad, Neon Colors\" url=\"https://m.media-amazon.com/images/I/31MBrTtFSNL._SS60_.jpg\"\n      uid=107_24 link \"4A Speech Bubble Sticky Notes, 3.375 x 1.875 in, 1 Pad, Neon Colors\" url=\"https://www.amazon.com/dp/B00SMEEVCO\"\n        uid=107_25 StaticText \"4A Speech Bubble Sticky Notes, 3.375 x 1.875 in, 1 Pad, Neon Colors\"\n      uid=107_26 image \"4.2 out of 5 stars\"\n      uid=107_27 link \"(65)\" url=\"https://www.amazon.com/product-reviews/B00SMEEVCO\"\n        uid=107_28 StaticText \"(\"\n        uid=107_29 StaticText \"65\"\n        uid=107_30 StaticText \")\"\n      uid=107_31 StaticText \"US$7.20\"\n      uid=107_32 StaticText \"有货\"\n      uid=107_33 StaticText \"ASIN:\"\n      uid=107_34 StaticText \"B00SMEEVCO\"\n      uid=107_35 StaticText \"SKU:\"\n      uid=107_36 StaticText \"4A 5059-B00SM-FBA\"\n      uid=107_37 button \"添加\"\n      uid=107_38 button \"添加变体\"\n      uid=107_39 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=107_40 StaticText \"1-2 of 2 个结果\"\n    uid=107_41 button disableable disabled\n    uid=107_42 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:33:48.464Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B17"
+    },
+    {
+      "asin": "B01MY06P05",
+      "sku": "4A 5059",
+      "rating": 3.9,
+      "reviews": 86,
+      "chunk": "    uid=7_43 button \"您的商品\" description=\"Your Listings\" haspopup=\"listbox\"\n    uid=110_0 switch \"优选广告商品\"\n    uid=110_1 switch \"所有商品\" checked\n    uid=110_2 StaticText \"显示：\"\n    uid=110_3 button \"显示： 最新优先\" haspopup=\"listbox\"\n    uid=110_4 button \"在此页面上添加全部\"\n    uid=110_5 grid \"grid\" readonly\n      uid=110_6 image \"4A Speech Bubble Sticky Notes, 3.375 x 1.875 in, Bright Colors\" url=\"https://m.media-amazon.com/images/I/31xRQ8dweRL._SS60_.jpg\"\n      uid=110_7 link \"4A Speech Bubble Sticky Notes, 3.375 x 1.875 in, Bright Colors\" url=\"https://www.amazon.com/dp/B01MY06P05\"\n        uid=110_8 StaticText \"4A Speech Bubble Sticky Notes, 3.375 x 1.875 in, Bright Colors\"\n      uid=110_9 image \"3.9 out of 5 stars\"\n      uid=110_10 link \"(86)\" url=\"https://www.amazon.com/product-reviews/B01MY06P05\"\n        uid=110_11 StaticText \"(\"\n        uid=110_12 StaticText \"86\"\n        uid=110_13 StaticText \")\"\n      uid=110_14 StaticText \"US$6.99\"\n      uid=110_15 StaticText \"有货\"\n      uid=110_16 StaticText \"ASIN:\"\n      uid=110_17 StaticText \"B01MY06P05\"\n      uid=110_18 StaticText \"SKU:\"\n      uid=110_19 StaticText \"4A 5059\"\n      uid=110_20 button \"添加\"\n      uid=110_21 button \"添加变体\"\n      uid=110_22 button \"Open tooltip\" haspopup=\"dialog\"\n      uid=110_23 image \"4A Speech Bubble Sticky Notes, 3.375 x 1.875 in, Bright Colors\" url=\"https://m.media-amazon.com/images/I/31xRQ8dweRL._SS60_.jpg\"\n      uid=110_24 link \"4A Speech Bubble Sticky Notes, 3.375 x 1.875 in, Bright Colors\" url=\"https://www.amazon.com/dp/B01MY06P05\"\n        uid=110_25 StaticText \"4A Speech Bubble Sticky Notes, 3.375 x 1.875 in, Bright Colors\"\n      uid=110_26 image \"3.9 out of 5 stars\"\n      uid=110_27 link \"(86)\" url=\"https://www.amazon.com/product-reviews/B01MY06P05\"\n        uid=110_28 StaticText \"(\"",
+      "checked_at": "2026-11-03T02:33:51.320Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B17"
+    },
+    {
+      "asin": "B00SMEEV4C",
+      "sku": "4A5013-B00SM-FBA",
+      "rating": 4.1,
+      "reviews": 197,
+      "chunk": "      uid=75_16 StaticText \"ASIN:\"\n      uid=75_17 StaticText \"B00SMEEV4C\"\n      uid=75_18 StaticText \"SKU:\"\n      uid=75_19 StaticText \"4A5013-B00SM-FBM\"\n      uid=75_20 button \"添加\"\n      uid=75_21 button \"添加变体\"\n      uid=75_22 button \"Open tooltip\" haspopup=\"dialog\"\n      uid=75_23 image \"4A Arrow Shaped Sticky Notes, 2.72 x 2.56 in, 1 Pad, Neon Colors\" url=\"https://m.media-amazon.com/images/I/31+WQZRZJ5L._SS60_.jpg\"\n      uid=75_24 link \"4A Arrow Shaped Sticky Notes, 2.72 x 2.56 in, 1 Pad, Neon Colors\" url=\"https://www.amazon.com/dp/B00SMEEV4C\"\n        uid=75_25 StaticText \"4A Arrow Shaped Sticky Notes, 2.72 x 2.56 in, 1 Pad, Neon Colors\"\n      uid=75_26 image \"4.1 out of 5 stars\"\n      uid=75_27 link \"(197)\" url=\"https://www.amazon.com/product-reviews/B00SMEEV4C\"\n        uid=75_28 StaticText \"(\"\n        uid=75_29 StaticText \"197\"\n        uid=75_30 StaticText \")\"\n      uid=75_31 StaticText \"US$7.20\"\n      uid=75_32 StaticText \"低库存\"\n      uid=75_33 StaticText \"ASIN:\"\n      uid=75_34 StaticText \"B00SMEEV4C\"\n      uid=75_35 StaticText \"SKU:\"\n      uid=75_36 StaticText \"4A5013-B00SM-FBA\"\n      uid=75_37 button \"添加\"\n      uid=75_38 button \"添加变体\"\n      uid=75_39 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=75_40 StaticText \"1-2 of 2 个结果\"\n    uid=75_41 button disableable disabled\n    uid=75_42 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:32:03.178Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B18"
+    },
+    {
+      "asin": "B01N1U9USQ",
+      "sku": "4A052",
+      "rating": 3.9,
+      "reviews": 86,
+      "chunk": "      uid=78_16 StaticText \"ASIN:\"\n      uid=78_17 StaticText \"B01N1U9USQ\"\n      uid=78_18 StaticText \"SKU:\"\n      uid=78_19 StaticText \"4A 5013\"\n      uid=78_20 button \"添加\"\n      uid=78_21 button \"添加变体\"\n      uid=78_22 button \"Open tooltip\" haspopup=\"dialog\"\n      uid=78_23 image \"4A Arrow Shaped Sticky Notes, 2.72 x 2.56 in, Bright Colors\" url=\"https://m.media-amazon.com/images/I/31+WQZRZJ5L._SS60_.jpg\"\n      uid=78_24 link \"4A Arrow Shaped Sticky Notes, 2.72 x 2.56 in, Bright Colors\" url=\"https://www.amazon.com/dp/B01N1U9USQ\"\n        uid=78_25 StaticText \"4A Arrow Shaped Sticky Notes, 2.72 x 2.56 in, Bright Colors\"\n      uid=78_26 image \"3.9 out of 5 stars\"\n      uid=78_27 link \"(86)\" url=\"https://www.amazon.com/product-reviews/B01N1U9USQ\"\n        uid=78_28 StaticText \"(\"\n        uid=78_29 StaticText \"86\"\n        uid=78_30 StaticText \")\"\n      uid=78_31 StaticText \"US$8.99\"\n      uid=78_32 StaticText \"有货\"\n      uid=78_33 StaticText \"ASIN:\"\n      uid=78_34 StaticText \"B01N1U9USQ\"\n      uid=78_35 StaticText \"SKU:\"\n      uid=78_36 StaticText \"4A052\"\n      uid=78_37 button \"添加\"\n      uid=78_38 button \"添加变体\"\n      uid=78_39 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=78_40 StaticText \"1-2 of 2 个结果\"\n    uid=78_41 button disableable disabled\n    uid=78_42 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:32:06.262Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B18"
+    },
+    {
+      "asin": "B00SMEEN40",
+      "sku": "4A 5061-B00SM-FBA",
+      "rating": 4.1,
+      "reviews": 197,
+      "chunk": "    uid=7_43 button \"您的商品\" description=\"Your Listings\" haspopup=\"listbox\"\n    uid=63_0 switch \"优选广告商品\"\n    uid=63_1 switch \"所有商品\" checked\n    uid=63_2 StaticText \"显示：\"\n    uid=63_3 button \"显示： 最新优先\" haspopup=\"listbox\"\n    uid=63_4 button \"在此页面上添加全部\"\n    uid=63_5 grid \"grid\" readonly\n      uid=63_6 image \"4A Leaf Shaped Sticky Notes, 2.83 x 2.83 in, 1 Pad, Neon Colors\" url=\"https://m.media-amazon.com/images/I/31kt71PaSqL._SS60_.jpg\"\n      uid=63_7 link \"4A Leaf Shaped Sticky Notes, 2.83 x 2.83 in, 1 Pad, Neon Colors\" url=\"https://www.amazon.com/dp/B00SMEEN40\"\n        uid=63_8 StaticText \"4A Leaf Shaped Sticky Notes, 2.83 x 2.83 in, 1 Pad, Neon Colors\"\n      uid=63_9 image \"4.1 out of 5 stars\"\n      uid=63_10 link \"(197)\" url=\"https://www.amazon.com/product-reviews/B00SMEEN40\"\n        uid=63_11 StaticText \"(\"\n        uid=63_12 StaticText \"197\"\n        uid=63_13 StaticText \")\"\n      uid=63_14 StaticText \"US$7.20\"\n      uid=63_15 StaticText \"低库存\"\n      uid=63_16 StaticText \"ASIN:\"\n      uid=63_17 StaticText \"B00SMEEN40\"\n      uid=63_18 StaticText \"SKU:\"\n      uid=63_19 StaticText \"4A 5061-B00SM-FBA\"\n      uid=63_20 button \"添加\"\n      uid=63_21 button \"添加变体\"\n      uid=63_22 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=63_23 StaticText \"1-1 of 1 个结果\"\n    uid=63_24 button disableable disabled\n    uid=63_25 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:31:51.472Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B19"
+    },
+    {
+      "asin": "B01N9JKGO8",
+      "sku": "4A054",
+      "rating": 3.9,
+      "reviews": 86,
+      "chunk": "      uid=66_16 StaticText \"ASIN:\"\n      uid=66_17 StaticText \"B01N9JKGO8\"\n      uid=66_18 StaticText \"SKU:\"\n      uid=66_19 StaticText \"4A 5061\"\n      uid=66_20 button \"添加\"\n      uid=66_21 button \"添加变体\"\n      uid=66_22 button \"Open tooltip\" haspopup=\"dialog\"\n      uid=66_23 image \"4A Leaf Shaped Sticky Notes, 2.83 x 2.83 in, 5 Bright Colors\" url=\"https://m.media-amazon.com/images/I/31kt71PaSqL._SS60_.jpg\"\n      uid=66_24 link \"4A Leaf Shaped Sticky Notes, 2.83 x 2.83 in, 5 Bright Colors\" url=\"https://www.amazon.com/dp/B01N9JKGO8\"\n        uid=66_25 StaticText \"4A Leaf Shaped Sticky Notes, 2.83 x 2.83 in, 5 Bright Colors\"\n      uid=66_26 image \"3.9 out of 5 stars\"\n      uid=66_27 link \"(86)\" url=\"https://www.amazon.com/product-reviews/B01N9JKGO8\"\n        uid=66_28 StaticText \"(\"\n        uid=66_29 StaticText \"86\"\n        uid=66_30 StaticText \")\"\n      uid=66_31 StaticText \"US$6.99\"\n      uid=66_32 StaticText \"有货\"\n      uid=66_33 StaticText \"ASIN:\"\n      uid=66_34 StaticText \"B01N9JKGO8\"\n      uid=66_35 StaticText \"SKU:\"\n      uid=66_36 StaticText \"4A054\"\n      uid=66_37 button \"添加\"\n      uid=66_38 button \"添加变体\"\n      uid=66_39 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=66_40 StaticText \"1-2 of 2 个结果\"\n    uid=66_41 button disableable disabled\n    uid=66_42 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:31:54.733Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B19"
+    },
+    {
+      "asin": "B00SMEDVEI",
+      "sku": "4A GMVC6034",
+      "rating": 4.5,
+      "reviews": 111,
+      "chunk": "    uid=7_43 button \"您的商品\" description=\"Your Listings\" haspopup=\"listbox\"\n    uid=222_0 switch \"优选广告商品\"\n    uid=222_1 switch \"所有商品\" checked\n    uid=222_2 StaticText \"显示：\"\n    uid=222_3 button \"显示： 最新优先\" haspopup=\"listbox\"\n    uid=222_4 button \"在此页面上添加全部\"\n    uid=222_5 grid \"grid\" readonly\n      uid=222_6 image \"4A Pop-up Durable File Tabs\" url=\"https://m.media-amazon.com/images/I/41DUjbqfaQL._SS60_.jpg\"\n      uid=222_7 link \"4A Pop-up Durable File Tabs\" url=\"https://www.amazon.com/dp/B00SMEDVEI\"\n        uid=222_8 StaticText \"4A Pop-up Durable File Tabs\"\n      uid=222_9 image \"4.5 out of 5 stars\"\n      uid=222_10 link \"(111)\" url=\"https://www.amazon.com/product-reviews/B00SMEDVEI\"\n        uid=222_11 StaticText \"(\"\n        uid=222_12 StaticText \"111\"\n        uid=222_13 StaticText \")\"\n      uid=222_14 StaticText \"US$4.49\"\n      uid=222_15 StaticText \"低库存\"\n      uid=222_16 StaticText \"ASIN:\"\n      uid=222_17 StaticText \"B00SMEDVEI\"\n      uid=222_18 StaticText \"SKU:\"\n      uid=222_19 StaticText \"4A GMVC6034\"\n      uid=222_20 button \"添加\"\n      uid=222_21 button \"添加变体\"\n      uid=222_22 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=222_23 StaticText \"1-1 of 1 个结果\"\n    uid=222_24 button disableable disabled\n    uid=222_25 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:36:14.689Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B22"
+    },
+    {
+      "asin": "B01MU5BGNQ",
+      "sku": "4A0102",
+      "rating": null,
+      "reviews": null,
+      "chunk": "    uid=227_4 button \"在此页面上添加全部\"\n    uid=227_5 grid \"grid\" readonly\n      uid=227_6 image \"4A Pop-up Durable File Tabs\" url=\"https://m.media-amazon.com/images/I/51eWQ5BcA5L._SS60_.jpg\"\n      uid=227_7 link \"4A Pop-up Durable File Tabs\" url=\"https://www.amazon.com/dp/B01MU5BGNQ\"\n        uid=227_8 StaticText \"4A Pop-up Durable File Tabs\"\n      uid=227_9 StaticText \"US$4.49\"\n      uid=227_10 StaticText \"有货\"\n      uid=227_11 StaticText \"ASIN:\"\n      uid=227_12 StaticText \"B01MU5BGNQ\"\n      uid=227_13 StaticText \"SKU:\"\n      uid=227_14 StaticText \"4A 6034\"\n      uid=227_15 button \"添加\"\n      uid=227_16 image \"4A Pop-up Durable File Tabs\" url=\"https://m.media-amazon.com/images/I/51eWQ5BcA5L._SS60_.jpg\"\n      uid=227_17 link \"4A Pop-up Durable File Tabs\" url=\"https://www.amazon.com/dp/B01MU5BGNQ\"\n        uid=227_18 StaticText \"4A Pop-up Durable File Tabs\"\n      uid=227_19 StaticText \"US$9.99\"\n      uid=227_20 StaticText \"有货\"\n      uid=227_21 StaticText \"ASIN:\"\n      uid=227_22 StaticText \"B01MU5BGNQ\"\n      uid=227_23 StaticText \"SKU:\"\n      uid=227_24 StaticText \"4A0102\"\n      uid=227_25 button \"添加\"\n    uid=227_26 StaticText \"1-2 of 2 个结果\"\n    uid=227_27 button disableable disabled\n    uid=227_28 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"\n    uid=7_122 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=7_123 link \"选择自动投放或手动投放\" url=\"https://advertising.amazon.com/cb/sp?entityId=ENTITY2EFMPU8GWXHSP&ref=alltoolsnav\"",
+      "checked_at": "2026-11-03T02:36:21.530Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B22"
+    },
+    {
+      "asin": "B07QZR9Z3P",
+      "sku": "4A BP 1111-Px4",
+      "rating": 2.7,
+      "reviews": 15,
+      "chunk": "      uid=142_16 StaticText \"ASIN:\"\n      uid=142_17 StaticText \"B07QZR9Z3P\"\n      uid=142_18 StaticText \"SKU:\"\n      uid=142_19 StaticText \"4A GMBP 1111-Px4\"\n      uid=142_20 button \"添加\"\n      uid=142_21 button \"添加变体\"\n      uid=142_22 button \"Open tooltip\" haspopup=\"dialog\"\n      uid=142_23 image \"4A 4 Pads Big Sticky Notes 11 x 11 Inches, Pastel Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad, 4A BP 1111-Px4\" url=\"https://m.media-amazon.com/images/I/413xnu8gUML._SS60_.jpg\"\n      uid=142_24 link \"4A 4 Pads Big Sticky Notes 11 x 11 Inches, Pastel Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad, 4A BP 1111-Px4\" url=\"https://www.amazon.com/dp/B07QZR9Z3P\"\n        uid=142_25 StaticText \"4A 4 Pads Big Sticky Notes 11 x 11 Inches, Pastel Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad, 4A BP 1111-Px4\"\n      uid=142_26 image \"2.7 out of 5 stars\"\n      uid=142_27 link \"(15)\" url=\"https://www.amazon.com/product-reviews/B07QZR9Z3P\"\n        uid=142_28 StaticText \"(\"\n        uid=142_29 StaticText \"15\"\n        uid=142_30 StaticText \")\"\n      uid=142_31 StaticText \"US$29.99\"\n      uid=142_32 StaticText \"有货\"\n      uid=142_33 StaticText \"ASIN:\"\n      uid=142_34 StaticText \"B07QZR9Z3P\"\n      uid=142_35 StaticText \"SKU:\"\n      uid=142_36 StaticText \"4A BP 1111-Px4\"\n      uid=142_37 button \"添加\"\n      uid=142_38 button \"添加变体\"\n      uid=142_39 button \"Open tooltip\" haspopup=\"dialog\"\n    uid=142_40 StaticText \"1-2 of 2 个结果\"\n    uid=142_41 button disableable disabled\n    uid=142_42 button disableable disabled\n    uid=7_119 StaticText \"0 件商品\"\n    uid=7_120 StaticText \"添加商品\"\n    uid=7_121 heading \"投放\" level=\"3\"",
+      "checked_at": "2026-11-03T02:34:30.057Z",
+      "evidence_file": "full-coverage/vc-live-product-audit.json",
+      "id": "B23"
+    }
+  ],
+  "missing": [
+    {
+      "id": "B2",
+      "asin": "B00SMEFFRE",
+      "sku": "4A 304 Full Glue"
+    },
+    {
+      "id": "B4",
+      "asin": "B07F295DPC",
+      "sku": "4A 30315"
+    },
+    {
+      "id": "B4",
+      "asin": "B07FKG29KB",
+      "sku": "4A GM30315"
+    },
+    {
+      "id": "B8",
+      "asin": "B01MDJCWVH",
+      "sku": "EP-T1V0-IBUZ"
+    },
+    {
+      "id": "B9",
+      "asin": "B07T429N23",
+      "sku": "4A 5088-N-L-FBA"
+    },
+    {
+      "id": "B12",
+      "asin": "B08CVLH794",
+      "sku": "4A PSS 32x6"
+    },
+    {
+      "id": "B20",
+      "asin": "B00SMEEN8G",
+      "sku": "4A 5047-B00SM-FBA"
+    },
+    {
+      "id": "B20",
+      "asin": "B01NCNPD4N",
+      "sku": "4A 5047"
+    },
+    {
+      "id": "B21",
+      "asin": "B01LPKL5IE",
+      "sku": "4A 6533-FBA"
+    },
+    {
+      "id": "B21",
+      "asin": "B07548QLN8",
+      "sku": "4A 6533"
+    },
+    {
+      "id": "B23",
+      "asin": "B07T55RL97",
+      "sku": "4A BP 1111-Px4-FBA"
+    },
+    {
+      "id": "B24",
+      "asin": "B07T78PWRY",
+      "sku": "4A BP 1111-Nx4-FBA"
+    },
+    {
+      "id": "B24",
+      "asin": "B07QWKYQV7",
+      "sku": "4A GMBP 1111-Nx4"
+    },
+    {
+      "id": "B25",
+      "asin": "B07T78QKJ3",
+      "sku": "4A BP 1515-Nx4-FBA"
+    },
+    {
+      "id": "B25",
+      "asin": "B07R1XLCP4",
+      "sku": "4A GMBP 1515-Nx4"
+    },
+    {
+      "id": "B26",
+      "asin": "B07T79M4MD",
+      "sku": "4A BP 2222-Nx4-FBA"
+    },
+    {
+      "id": "B26",
+      "asin": "B07RT4GTLZ",
+      "sku": "4A GMBP 2222-Nx4"
+    },
+    {
+      "id": "B27",
+      "asin": "B07T42DY4H",
+      "sku": "4A PSS 9-1 NGNOx2-FBA"
+    },
+    {
+      "id": "B27",
+      "asin": "B07QXJY3FH",
+      "sku": "4A GMPSS 9-1 NGNOx2"
+    },
+    {
+      "id": "额4",
+      "asin": "B07DJKB2S9",
+      "sku": "4A 5082-Y-L-FBA"
+    }
+  ]
+}

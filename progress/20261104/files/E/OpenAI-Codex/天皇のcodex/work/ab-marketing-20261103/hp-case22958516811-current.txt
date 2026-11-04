@@ -1,0 +1,209 @@
+## Latest page snapshot
+uid=244_0 RootWebArea "亚马逊" url="https://sellercentral.amazon.com/cu/case-dashboard/view-case?caseID=22958516811"
+  uid=244_1 navigation
+    uid=244_2 button "菜单" expandable
+    uid=244_3 link "Amazon" url="https://sellercentral.amazon.com/amazonsell"
+    uid=244_4 button "4A (USA) LIMITED 美国" expandable
+    uid=244_5 button "账户状况"
+    uid=244_6 textbox "搜索任何内容" haspopup="menu"
+    uid=244_7 button "询问卖家助手" description="卖家助手"
+    uid=244_8 link "新增内容" description="新鲜出巢" url="https://sellercentral.amazon.com/featurereleases"
+    uid=244_9 link "消息" description="您可以在任意页面顶部的搜索和设置旁边找到买家消息，因此无需离开当前工作页面，即可轻松回复买家。" url="https://sellercentral.amazon.com/messaging/inbox-v3?fi=responseNeeded&&"
+    uid=244_10 button "帮助" description="帮助" haspopup="menu"
+    uid=244_11 button "设置" description="设置" haspopup="menu"
+  uid=244_12 navigation
+    uid=244_13 button disableable disabled
+    uid=244_14 link "管理交易" url="https://sellercentral.amazon.com/manage/finance/transactions"
+      uid=244_15 StaticText "管理交易"
+    uid=244_16 link "卖家大学" url="https://sellercentral.amazon.com/su/learn"
+      uid=244_17 StaticText "卖家大学"
+    uid=244_18 link "管理商品" url="https://sellercentral.amazon.com/amazonsell/manage-products"
+      uid=244_19 StaticText "管理商品"
+    uid=244_20 link "广告控制台" url="https://sellercentral.amazon.com/cm?source=ngs"
+      uid=244_21 StaticText "广告控制台"
+    uid=244_22 link "管理货件" url="https://sellercentral.amazon.com/manage/shipments"
+      uid=244_23 StaticText "管理货件"
+    uid=244_24 link "商品商机探测器" url="https://sellercentral.amazon.com/new-product-guidance"
+      uid=244_25 StaticText "商品商机探测器"
+    uid=244_26 link "品牌分析" url="https://sellercentral.amazon.com/brand-analytics"
+      uid=244_27 StaticText "品牌分析"
+    uid=244_28 link "A+ 商品描述管理器" url="https://sellercentral.amazon.com/enhanced-content/ref=xx_ebc_favb_xx"
+      uid=244_29 StaticText "A+ 商品描述管理器"
+    uid=244_30 link "业务报告" url="https://sellercentral.amazon.com/business-reports#/dashboard"
+      uid=244_31 StaticText "业务报告"
+    uid=244_32 link "亚马逊物流库存报告" url="https://sellercentral.amazon.com/reportcentral/WelcomePage"
+      uid=244_33 StaticText "亚马逊物流库存报告"
+    uid=244_34 link "商品报告" url="https://sellercentral.amazon.com/listing/reports"
+      uid=244_35 StaticText "商品报告"
+    uid=244_36 link "绩效通知" url="https://sellercentral.amazon.com/performance/notifications"
+      uid=244_37 StaticText "绩效通知"
+    uid=244_38 link "管理账户状况" url="https://sellercentral.amazon.com/performance/dashboard"
+      uid=244_39 StaticText "管理账户状况"
+    uid=244_40 button
+  uid=244_41 button "✕"
+  uid=244_42 link "查看您的案例和请求日志" url="https://sellercentral.amazon.com/cu/case-lobby?ref=caselog_cont_viewcase"
+    uid=244_43 StaticText "查看您的案例和请求日志"
+  uid=244_44 StaticText "B0821LD25K与推荐报价相关的问题"
+  uid=244_45 button "编辑"
+    uid=244_46 generic
+  uid=244_47 StaticText "最新更新"
+  uid=244_48 button "回复"
+    uid=244_49 generic
+  uid=244_50 StaticText "亚马逊操作"
+  uid=244_51 StaticText "seller@4ausa.com"
+  uid=244_52 StaticText "2026年11月03日"
+  uid=244_53 StaticText "GMT+8 14:23"
+  uid=244_54 StaticText "尊敬的卖家：
+您好！
+
+我们了解到您希望对以下商品的推荐报价（Featured Offer）资格进行逐一说明和审核：B0821LD25K、B07RP8HYCJ、B01LVZ0GV3、B00SMEEVKQ、B01N2YLQ23、B07FKGDMPS、B00SMEDUWQ、B0821GTX3C、B07VGYQXCC、B07RVJB9DL、B0CPM4CP6T。
+
+经过逐一核实，上述商品目前均因总价（商品价格加运费）超出系统定价评估范围而未获得推荐报价资格。
+
+系统在评估推荐报价资格时，会综合考虑商品的总价（即商品价格与运费之和），而非单独评估商品价格或运费。当总价超出系统设定的评估范围时，该报价将不符合推荐报价的展示条件。
+
+关于您提出的参考价来源、计算方式、包装匹配逻辑以及配送差异等细节，这些信息属于亚马逊内部定价评估机制的一部分，出于系统安全和公平性考虑，我们无法向外部披露具体的评估标准和参数。
+
+如果您认为您的定价是合理的并希望提出申诉，您可以通过底部链接新建案例之后，提供以下任意一种证据供我们提交内部专门团队审核：
+
+    品牌或制造商官方网站上的商品页面链接（作为您品牌的所有者，这是最直接的证据方式）
+    其他零售商网站上销售相同商品的页面链接（商品必须品牌、型号完全一致，且为同一币种和商城对应的市场）
+    商品包装上的制造商建议零售价（MSRP）标签照片（价格单位须与商城币种一致）
+    如涉及关税因素，请提供相关的货件编号（PO）
+
+请注意，每个商品需对应各自的证据。收到有效证据后，我们会立即提交给内部定价审核团队进行评估。审核团队将根据亚马逊内部标准独立做出判断，我们无法预判或左右审核结果。
+
+⭐温馨提示⭐： 
+感谢您的信任与配合！如上所述，您在本案件中的疑问已按照标准流程处理完毕。在问题事实和情况未发生变化的前提下，重新打开此案件通常不会改变处理结果。
+如您有新的疑问或需要其他帮助，建议您点击下方链接创建新案例，系统将自动分配至对应的专业团队，为您提供更快速、更精准的服务。
+"
+  uid=244_55 link "https://sellercentral.amazon.com/help/center" url="https://sellercentral.amazon.com/help/center"
+    uid=244_56 StaticText "https://sellercentral.amazon.com/help/center"
+  uid=244_57 StaticText "
+
+
+To help us continually improve, we ask that you take a moment to complete our survey below to tell us about your experience with this specific interaction.
+
+Were you satisfied with the support provided?
+"
+  uid=244_58 LineBreak "
+"
+  uid=244_59 StaticText " "
+  uid=244_60 button " Yes "
+    uid=244_61 generic
+  uid=244_62 StaticText " "
+  uid=244_63 StaticText " "
+  uid=244_64 button " No "
+    uid=244_65 generic
+  uid=244_66 StaticText " "
+  uid=244_67 LineBreak "
+"
+  uid=244_68 StaticText "
+Thank you for selling with Amazon,
+
+Linxi [C] C.
+Amazon.com Seller Support
+=======================================
+MORE WAYS TO GET HELP:
+Visit our Seller Forums for help from other sellers: "
+  uid=244_69 link "http://sellercentral.amazon.com/forums" url="http://sellercentral.amazon.com/forums"
+    uid=244_70 StaticText "http://sellercentral.amazon.com/forums"
+  uid=244_71 StaticText "
+Browse all Seller Help topics: "
+  uid=244_72 link "http://sellercentral.amazon.com/gp/help" url="http://sellercentral.amazon.com/gp/help"
+    uid=244_73 StaticText "http://sellercentral.amazon.com/gp/help"
+  uid=244_74 StaticText "
+"
+  uid=244_75 StaticText "您操作"
+  uid=244_76 StaticText "Thank you for confirming that the assessment for B0821LD25K uses the total price of $21.98 ($12.99 item price + $8.99 shipping)."
+  uid=244_77 StaticText "..."
+  uid=244_78 StaticText "2026年11月03日"
+  uid=244_79 StaticText "GMT+8 12:42"
+  uid=244_80 StaticText "亚马逊操作"
+  uid=244_81 StaticText "尊敬的卖家，您好！
+
+我们了解到您希望咨询商品 B0821LD25K  的推荐报价（Featured Offer）资格问题。
+
+经过核实，您的商品当前总价为 $21.98（商品价格 $12.99 + 运费 $8.99），该价格超出了推荐报价的竞争力参考范围，因此暂时无法获得推荐报价资格。亚马逊的推荐报价系统会综合评估商品在市场上的整体价格竞争力，此政策适用于亚马逊平台上的所有卖家，旨在为买家提供具有竞争力的购物体验。
+
+为了帮助您的商品重新获得推荐报价资格，我们建议您适当降低商品价格和/或运费，使商品总价更具市场竞争力。您可以参考同类商品在各零售渠道的价格水平，作为调价的参考依据。价格调整后，系统将自动重新评估您的推荐报价资格。由于数据是系统自动抓取，因此我们无法给您一个具体的重新评估时间。
+
+如果您认为您的定价已经具有市场竞争力，您也可以通过下方链接新开案例联系我们，并提供其他主要零售渠道上同款商品的价格截图作为参考依据，届时我们将提交给相关团队进行进一步审核。
+
+请注意，审核结果由相关团队根据亚马逊内部政策独立判定，我们无法左右或保证特定的审核结果。
+
+⭐温馨提示⭐： 
+感谢您的信任与配合！如上所述，您在本案件中的疑问已按照标准流程处理完毕。在问题事实和情况未发生变化的前提下，重新打开此案件通常不会改变处理结果。
+如您有新的疑问或需要其他帮助，建议您点击下方链接创建新案例，系统将自动分配至对应的专业团队，为您提供更快速、更精准的服务。
+"
+  uid=244_82 link "https://sellercentral.amazon.com/help/center" url="https://sellercentral.amazon.com/help/center"
+    uid=244_83 StaticText "https://sellercentral.amazon.com/help/center"
+  uid=244_84 StaticText "
+
+To help us continually improve, we ask that you take a moment to complete our survey below to tell us about your experience with this specific interaction.
+
+Were you satisfied with the support provided?
+"
+  uid=244_85 LineBreak "
+"
+  uid=244_86 StaticText " "
+  uid=244_87 button " Yes "
+    uid=244_88 generic
+  uid=244_89 StaticText " "
+  uid=244_90 StaticText " "
+  uid=244_91 button " No "
+    uid=244_92 generic
+  uid=244_93 StaticText " "
+  uid=244_94 LineBreak "
+"
+  uid=244_95 StaticText "
+Thank you for selling with Amazon,
+
+Linxi [C] C.
+Amazon.com Seller Support
+=======================================
+MORE WAYS TO GET HELP:
+Visit our Seller Forums for help from other sellers: "
+  uid=244_96 link "http://sellercentral.amazon.com/forums" url="http://sellercentral.amazon.com/forums"
+    uid=244_97 StaticText "http://sellercentral.amazon.com/forums"
+  uid=244_98 StaticText "
+Browse all Seller Help topics: "
+  uid=244_99 link "http://sellercentral.amazon.com/gp/help" url="http://sellercentral.amazon.com/gp/help"
+    uid=244_100 StaticText "http://sellercentral.amazon.com/gp/help"
+  uid=244_101 StaticText "
+"
+  uid=244_102 StaticText "2026年11月03日"
+  uid=244_103 StaticText "GMT+8 12:02"
+  uid=244_104 StaticText "您操作"
+  uid=244_105 StaticText "Our US Pricing Health page marks the attached SKUs as ineligible for the Featured Offer because of high prices. We would like the specific basis reviewed before changing prices. We are not assuming that shipping charges are the cause."
+  uid=244_77 StaticText "..."
+  uid=244_106 StaticText "2026年11月03日"
+  uid=244_107 StaticText "GMT+8 11:42"
+  uid=244_108 StaticText "您操作"
+  uid=244_109 StaticText "亚马逊已代表您创建此问题单，以便销售伙伴支持团队员工进行调查。目前您无需执行其他操作。完成调查最长可能需要 3 天，我们将通过电子邮件告知您最新消息。"
+  uid=244_110 StaticText "2026年11月03日"
+  uid=244_111 StaticText "GMT+8 11:40"
+  uid=244_112 StaticText "问题一览"
+  uid=244_113 StaticText "编号"
+  uid=244_114 StaticText ":"
+  uid=244_115 StaticText "22958516811"
+  uid=244_116 StaticText "状态"
+  uid=244_117 StaticText ":"
+  uid=244_118 StaticText "已回答"
+  uid=244_119 StaticText "主要电子邮箱"
+  uid=244_120 StaticText ":"
+  uid=244_121 StaticText "seller@4ausa.com"
+  uid=244_122 StaticText "抄送"
+  uid=244_123 StaticText ":"
+  uid=244_124 StaticText "已创建"
+  uid=244_125 StaticText ":"
+  uid=244_126 StaticText "2026年11月03日 GMT+8 11:40"
+  uid=244_127 button "编辑"
+    uid=244_128 generic
+  uid=244_129 link "站点地图" url="https://sellercentral.amazon.com/sitemap"
+    uid=244_130 StaticText "站点地图"
+  uid=244_131 link " 计划政策" url="https://sellercentral.amazon.com/help/hub/reference/521"
+    uid=244_132 StaticText " 计划政策"
+  uid=244_133 StaticText "© 1999-2026，Amazon.com, Inc. 或其附属公司"
+  uid=244_134 link "反馈" url="https://sellercentral.amazon.com/cu/case-dashboard/view-case?caseID=22958516811#"
+    uid=244_135 StaticText "反馈"

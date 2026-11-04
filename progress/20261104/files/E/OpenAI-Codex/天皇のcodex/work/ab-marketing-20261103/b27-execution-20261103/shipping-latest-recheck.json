@@ -1,0 +1,14 @@
+[
+  {
+    "id": "B14",
+    "page": 1,
+    "pricing": "  uid=62_1 StaticText \"您当前的价格[商品价格 + 运费]\"\n  uid=62_2 StaticText \"US$\"\n  uid=62_3 StaticText \"15.99\"\n  uid=62_4 StaticText \"(\"\n  uid=62_5 StaticText \"US$\"\n  uid=62_6 StaticText \"15.99\"\n  uid=62_7 StaticText \" \"\n  uid=62_8 StaticText \"+ \"\n  uid=62_9 StaticText \"US$\"\n  uid=62_10 StaticText \"4.99\"\n  uid=62_11 StaticText \")\"\n  uid=62_12 StaticText \"Update\"\n  uid=62_13 StaticText \"您的最低价\"\n  uid=62_14 StaticText \"US$\"",
+    "at": "2026-11-03T05:46:19.908Z"
+  },
+  {
+    "id": "B7",
+    "page": 12,
+    "pricing": "  uid=65_1 StaticText \"您当前的价格[商品价格 + 运费]\"\n  uid=65_2 StaticText \"US$\"\n  uid=65_3 StaticText \"4.99\"\n  uid=65_4 StaticText \"(\"\n  uid=65_5 StaticText \"US$\"\n  uid=65_6 StaticText \"4.99\"\n  uid=65_7 StaticText \" \"\n  uid=65_8 StaticText \"+ \"\n  uid=65_9 StaticText \"US$\"\n  uid=65_10 StaticText \"4.99\"\n  uid=65_11 StaticText \")\"\n  uid=65_12 StaticText \"Update\"\n  uid=65_13 StaticText \"您的最低价\"\n  uid=65_14 StaticText \"US$\"",
+    "at": "2026-11-03T05:46:25.424Z"
+  }
+]

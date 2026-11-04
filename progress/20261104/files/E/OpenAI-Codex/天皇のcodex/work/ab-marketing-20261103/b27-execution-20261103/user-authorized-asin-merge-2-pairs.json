@@ -1,0 +1,46 @@
+{
+  "authorization": "Explicit catalog merge for both pairs, keep better ASIN per current page comparison; no repeat confirmation required.",
+  "status": "both-official-cases-submitted-pending-amazon-review",
+  "pairs": [
+    {
+      "product": "5084-N-L / 4pads×50sheets /5x8lined4neoncolors",
+      "source_asin_remove": "B07DJPCBLV",
+      "target_asin_keep": "B07F2B49BL",
+      "source_origin": "VC",
+      "target_origin": "SC",
+      "source_upc": "702877124888",
+      "target_upc": "702877124161",
+      "target_fba_available": 160,
+      "target_fbm_quantity": 0,
+      "source_fba_available": 0,
+      "reason": "Same retailpack perofficialmasterrow44; keep currently higher-rated/stocked SC ASIN. UPCdiff MUST disclose, no identifier overwrites.",
+      "case_id": "22960571691",
+      "status": "in-progress-not-merged",
+      "supplement_sent": true,
+      "case_url": "https://sellercentral.amazon.com/cu/case-dashboard/view-case?caseID=22960571691"
+    },
+    {
+      "product": "PSS32x6 /6rollswithdispensers /0.6x393in /6neoncolors",
+      "source_asin_remove": "B08DKJ2K3T",
+      "target_asin_keep": "B08CVLH794",
+      "source_origin": "SC",
+      "target_origin": "VC",
+      "source_upc": "702877126561",
+      "target_upc": "702877126578",
+      "source_fba_available": 39,
+      "source_fba_reserved": 3,
+      "source_fbm_quantity": 0,
+      "target_fba_available": 0,
+      "target_fbm_quantity": 835,
+      "reason": "Same retailpack perofficialmasterrow110; keep higher-rated good ASIN with restored FBM835. UPCdiff MUST disclose. ExistingpendingFBAorderqty1/13.99 remainsnormalfulfillment; sourceFBAinventorynotmanuallyclosed.",
+      "case_id": "22960471201",
+      "status": "in-progress-not-merged",
+      "supplement_sent": true,
+      "case_url": "https://sellercentral.amazon.com/cu/case-dashboard/view-case?caseID=22960471201"
+    }
+  ],
+  "safety": "No parentASIN merges; no inventedGTINs/weight/identity claims; do not delete sourceFBA listing or cancel/replace orders; verify official result and physicalFBAmapping after request",
+  "latest_user_instruction": "我问的不是卷纸能不能倒过来吗，和5084这个一样，直接把两个页面合并得了，一个vc好一个sc好",
+  "workflow_note": "Official G201950590 Chinese help embedded tool unexpectedly displays拆分 with可用ASIN/要拆分ASIN; do not submit that unmerge workflow. Opening inventory menu合并重复商品 instead.",
+  "asof": "2026-11-03T06:13:57.621Z"
+}

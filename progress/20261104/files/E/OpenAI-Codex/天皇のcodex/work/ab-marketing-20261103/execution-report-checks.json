@@ -1,0 +1,13 @@
+{
+  "sums": {
+    "daily": 37,
+    "keywords": 46,
+    "launched": 12,
+    "scope": 102,
+    "discounts": 11,
+    "potential_concession": 1653.0000000000002
+  },
+  "summary": "{\"kind\":\"table\",\"sheet\":\"广告执行\",\"address\":\"B4:I4\",\"rows\":1,\"cols\":8,\"values\":[[\"日预算\",37,\"组合总额上限 USD\",300,\"精准关键词\",46,\"已复核活动\",12]]}",
+  "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+  "filename": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\ab-marketing-20261103\\A-B老品广告与优惠执行结果_20261103.xlsx"
+}

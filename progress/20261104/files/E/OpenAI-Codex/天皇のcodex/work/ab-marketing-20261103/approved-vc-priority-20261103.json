@@ -1,0 +1,58 @@
+{
+  "user_review": "我审查好了：2加入vc的，3等high price回执，45不打，6按vc的打，78按sc的打，9按sc的打，10去处理high price",
+  "at": "2026-11-03T16:23:43.312265",
+  "thread": "01a18a7c-7953-7b83-b51d-1a7f216ae7e1",
+  "window": "01a1a078-feed-75e2-a5c4-dc19108c3867",
+  "decisions": {
+    "1": "301N VC shared-page primary entry; avoid duplicate354818",
+    "2": "VC B07JVSYNYV",
+    "3": "wait case22957468581 HighPrice response; no new launch",
+    "4": "excluded by user",
+    "5": "excluded by user",
+    "6": "VC B01LVXOCU2",
+    "7": "SC B07RP9MB7Y",
+    "8": "SC B07F2B49BL",
+    "9": "SC B01N9HHKRM; confirm actual24pad vs48pack SKU before ad",
+    "10": "investigate SMC434 HighPrice first",
+    "13": "add BP1515N4; SC B07R1XLCP4 candidate due VC wrongrender",
+    "14": "add608SL4; compareVC B073VPHSJ9/SC B07FKPY2V6 same4pad pack",
+    "18": "SC B07B8RBCKT user screenshot"
+  },
+  "authorization": "Latest user explicitly wants union and permits higher budget; launch verified eligible precise ads, preserve existing productive/morning ads, respect 3wait/4-5exclude/10repair. Same common page avoid redundant separateentry spend if301N replaces354818 only after success; no unrelated quote/family mutations.",
+  "status": "live eligibility checks and HighPrice diagnosis pending",
+  "latest_user_union": "我挑的那些加上你之前决定要留的加上早上已经新增了的，不要怕预算超",
+  "scope_union": {
+    "user_vc_rank_picks": [
+      1,
+      2,
+      6,
+      7,
+      8,
+      9,
+      13,
+      14,
+      18
+    ],
+    "wait_high_price": [
+      3
+    ],
+    "exclude": [
+      4,
+      5
+    ],
+    "repair_high_price": [
+      10
+    ],
+    "keep_old_effective_campaigns": 6,
+    "morning_exact_tests": 13,
+    "previous_selected_pending": [
+      "PSS32x6 B08CVLH794",
+      "404 acrylic B07Z2555TN",
+      "2028-N B07DJXC4PJ"
+    ],
+    "rebuild_effective_keyword_candidates": [
+      "302Full B0F2TKL2P5",
+      "303Full B07QXJYTZ7"
+    ]
+  }
+}

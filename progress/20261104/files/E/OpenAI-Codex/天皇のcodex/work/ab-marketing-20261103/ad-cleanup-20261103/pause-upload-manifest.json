@@ -1,0 +1,15 @@
+{
+  "destination": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261103-ad-cleanup\\4A_PAUSE_101_OLD_CAMPAIGNS_20261103.xlsx",
+  "total": 101,
+  "sheets": [
+    {
+      "sheetName": "Sponsored Products Campaigns",
+      "count": 99
+    },
+    {
+      "sheetName": "Sponsored Display Campaigns",
+      "count": 2
+    }
+  ],
+  "inspect": "{\"kind\":\"sheet\",\"id\":\"ws/o5ealp\",\"name\":\"Sponsored Products Campaigns\",\"index\":0,\"range\":\"A1:E100\",\"address\":\"A1:E100\",\"tables\":1}\n{\"kind\":\"table\",\"sheet\":\"Sponsored Products Campaigns\",\"address\":\"A1:E100\",\"rows\":100,\"cols\":5,\"values\":[[\"Product\",\"Entity\",\"Operation\",\"Campaign ID\",\"State\"],[\"Sponsored Products\",\"Campaign\",\"Update\",\"545077711611348\",\"paused\"],[\"Sponsored Products\",\"Campaign\",\"Update\",\"349073231616164\",\"paused\"]],\"valuesTruncated\":true,\"valuesPreviewRows\":3,\"valuesPreviewCols\":5,\"valuesPreviewAddress\":\"A1:E3\"}\n{\"kind\":\"sheet\",\"id\":\"ws/egjmfb\",\"name\":\"Sponsored Display Campaigns\",\"index\":1,\"range\":\"A1:E3\",\"address\":\"A1:E3\",\"tables\":1}\n{\"kind\":\"table\",\"sheet\":\"Sponsored Display Campaigns\",\"address\":\"A1:E3\",\"rows\":3,\"cols\":5,\"values\":[[\"Product\",\"Entity\",\"Operation\",\"Campaign ID\",\"State\"],[\"Sponsored Display\",\"Campaign\",\"Update\",\"462237695025157\",\"paused\"],[\"Sponsored Display\",\"Campaign\",\"Update\",\"379646249602366\",\"paused\"]]}"
+}

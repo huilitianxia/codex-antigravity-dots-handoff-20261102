@@ -1,0 +1,632 @@
+{
+  "source": "D:\\下载文件\\4A_ALL_OLD_PREMIUM_AUDIT_20261103_30D.xlsx",
+  "period": "2026-10-04 to 2026-11-03",
+  "metric_grain": "Sponsored Products product-ad rows; never sum with campaign/keyword rows",
+  "limitations": [
+    "Current export metrics may differ slightly between entity levels due to processing; use SKU rows consistently.",
+    "Ad-attributed orders are not all orders and do not alone establish actual purchased fulfillment channel.",
+    "New FBM SKUs were created today; historical zero metrics for these new SKUs do not measure prior performance.",
+    "Inventory export predates the new FBM creation and stock consolidation; use live readbacks for current quantities."
+  ],
+  "products": [
+    {
+      "code": "30315",
+      "selected_asin": "B07FKG29KB",
+      "previous_or_alternate_asins": [
+        "B07F295DPC"
+      ],
+      "asins": [
+        {
+          "asin": "B07FKG29KB",
+          "ad_rows": 5,
+          "sku_stats": [
+            {
+              "sku": "4A GM30315",
+              "fulfillment_export": "DEFAULT",
+              "export_price": "15.99",
+              "export_quantity": "1054",
+              "export_status": "Active",
+              "ad_rows": 3,
+              "impressions": 0.0,
+              "clicks": 0.0,
+              "spend": 0.0,
+              "attributed_sales": 0.0,
+              "attributed_orders": 0.0,
+              "attributed_units": 0.0,
+              "nonzero_ad_records": []
+            },
+            {
+              "sku": "AAAA 4A 30315",
+              "fulfillment_export": null,
+              "export_price": null,
+              "export_quantity": null,
+              "export_status": null,
+              "ad_rows": 2,
+              "impressions": 0.0,
+              "clicks": 0.0,
+              "spend": 0.0,
+              "attributed_sales": 0.0,
+              "attributed_orders": 0.0,
+              "attributed_units": 0.0,
+              "nonzero_ad_records": []
+            }
+          ],
+          "impressions": 0.0,
+          "clicks": 0.0,
+          "spend": 0.0,
+          "attributed_sales": 0.0,
+          "attributed_orders": 0.0,
+          "attributed_units": 0.0
+        },
+        {
+          "asin": "B07F295DPC",
+          "ad_rows": 4,
+          "sku_stats": [
+            {
+              "sku": "4A 30315",
+              "fulfillment_export": "AMAZON_NA",
+              "export_price": "18.99",
+              "export_quantity": "",
+              "export_status": "Active",
+              "ad_rows": 4,
+              "impressions": 0.0,
+              "clicks": 0.0,
+              "spend": 0.0,
+              "attributed_sales": 0.0,
+              "attributed_orders": 0.0,
+              "attributed_units": 0.0,
+              "nonzero_ad_records": []
+            }
+          ],
+          "impressions": 0.0,
+          "clicks": 0.0,
+          "spend": 0.0,
+          "attributed_sales": 0.0,
+          "attributed_orders": 0.0,
+          "attributed_units": 0.0
+        }
+      ]
+    },
+    {
+      "code": "PSS32x6",
+      "selected_asin": "B08CVLH794",
+      "previous_or_alternate_asins": [
+        "B08DKJ2K3T"
+      ],
+      "asins": [
+        {
+          "asin": "B08CVLH794",
+          "ad_rows": 0,
+          "sku_stats": [
+            {
+              "sku": "4A PSS 32x6",
+              "fulfillment_export": "AMAZON_NA",
+              "export_price": "13.99",
+              "export_quantity": "",
+              "export_status": "Inactive",
+              "ad_rows": 0,
+              "impressions": 0,
+              "clicks": 0,
+              "spend": 0,
+              "attributed_sales": 0,
+              "attributed_orders": 0,
+              "attributed_units": 0,
+              "nonzero_ad_records": []
+            }
+          ],
+          "impressions": 0,
+          "clicks": 0,
+          "spend": 0,
+          "attributed_sales": 0,
+          "attributed_orders": 0,
+          "attributed_units": 0
+        },
+        {
+          "asin": "B08DKJ2K3T",
+          "ad_rows": 6,
+          "sku_stats": [
+            {
+              "sku": "4A GM-SCPSS 32x6",
+              "fulfillment_export": "DEFAULT",
+              "export_price": "13.99",
+              "export_quantity": "835",
+              "export_status": "Active",
+              "ad_rows": 1,
+              "impressions": 0.0,
+              "clicks": 0.0,
+              "spend": 0.0,
+              "attributed_sales": 0.0,
+              "attributed_orders": 0.0,
+              "attributed_units": 0.0,
+              "nonzero_ad_records": []
+            },
+            {
+              "sku": "4A SCPSS 32x6",
+              "fulfillment_export": "AMAZON_NA",
+              "export_price": "13.99",
+              "export_quantity": "",
+              "export_status": "Active",
+              "ad_rows": 5,
+              "impressions": 32482.0,
+              "clicks": 395.0,
+              "spend": 146.55,
+              "attributed_sales": 139.9,
+              "attributed_orders": 10.0,
+              "attributed_units": 10.0,
+              "nonzero_ad_records": [
+                {
+                  "campaign": "SP_PSS 32x6_Defense_HQ",
+                  "campaign_id": "186423324133352",
+                  "impressions": 21730.0,
+                  "clicks": 263.0,
+                  "spend": 87.52,
+                  "attributed_sales": 41.97,
+                  "attributed_orders": 3.0,
+                  "attributed_units": 3.0
+                },
+                {
+                  "campaign": "SP_PSS 32x6_Defense_HQ",
+                  "campaign_id": "186423324133352",
+                  "impressions": 6293.0,
+                  "clicks": 45.0,
+                  "spend": 30.17,
+                  "attributed_sales": 37.97,
+                  "attributed_orders": 3.0,
+                  "attributed_units": 3.0
+                },
+                {
+                  "campaign": "SP_PSS 32x6_Defense_HQ",
+                  "campaign_id": "186423324133352",
+                  "impressions": 207.0,
+                  "clicks": 5.0,
+                  "spend": 1.89,
+                  "attributed_sales": 0.0,
+                  "attributed_orders": 0.0,
+                  "attributed_units": 0.0
+                },
+                {
+                  "campaign": "SP_PSS系列_ASIN定向 竞_20250226",
+                  "campaign_id": "386290566970886",
+                  "impressions": 4252.0,
+                  "clicks": 82.0,
+                  "spend": 26.97,
+                  "attributed_sales": 59.96,
+                  "attributed_orders": 4.0,
+                  "attributed_units": 4.0
+                }
+              ]
+            }
+          ],
+          "impressions": 32482.0,
+          "clicks": 395.0,
+          "spend": 146.55,
+          "attributed_sales": 139.9,
+          "attributed_orders": 10.0,
+          "attributed_units": 10.0
+        }
+      ]
+    },
+    {
+      "code": "404AC-holder",
+      "selected_asin": "B07Z2555TN",
+      "previous_or_alternate_asins": [
+        "B07WK3JX6K"
+      ],
+      "asins": [
+        {
+          "asin": "B07Z2555TN",
+          "ad_rows": 1,
+          "sku_stats": [
+            {
+              "sku": "4A 404-AC-Holder",
+              "fulfillment_export": "AMAZON_NA",
+              "export_price": "15.99",
+              "export_quantity": "",
+              "export_status": "Active",
+              "ad_rows": 1,
+              "impressions": 22.0,
+              "clicks": 0.0,
+              "spend": 0.0,
+              "attributed_sales": 0.0,
+              "attributed_orders": 0.0,
+              "attributed_units": 0.0,
+              "nonzero_ad_records": [
+                {
+                  "campaign": "SP_暑期老品在售_AUTO_捡漏",
+                  "campaign_id": "104617816299940",
+                  "impressions": 22.0,
+                  "clicks": 0.0,
+                  "spend": 0.0,
+                  "attributed_sales": 0.0,
+                  "attributed_orders": 0.0,
+                  "attributed_units": 0.0
+                }
+              ]
+            }
+          ],
+          "impressions": 22.0,
+          "clicks": 0.0,
+          "spend": 0.0,
+          "attributed_sales": 0.0,
+          "attributed_orders": 0.0,
+          "attributed_units": 0.0
+        },
+        {
+          "asin": "B07WK3JX6K",
+          "ad_rows": 0,
+          "sku_stats": [
+            {
+              "sku": "4A 404-AC-holder",
+              "fulfillment_export": "DEFAULT",
+              "export_price": "",
+              "export_quantity": "0",
+              "export_status": "Incomplete",
+              "ad_rows": 0,
+              "impressions": 0,
+              "clicks": 0,
+              "spend": 0,
+              "attributed_sales": 0,
+              "attributed_orders": 0,
+              "attributed_units": 0,
+              "nonzero_ad_records": []
+            },
+            {
+              "sku": "4A GMSC404-AC-holder",
+              "fulfillment_export": "DEFAULT",
+              "export_price": "15.99",
+              "export_quantity": "767",
+              "export_status": "Active",
+              "ad_rows": 0,
+              "impressions": 0,
+              "clicks": 0,
+              "spend": 0,
+              "attributed_sales": 0,
+              "attributed_orders": 0,
+              "attributed_units": 0,
+              "nonzero_ad_records": []
+            },
+            {
+              "sku": "4A SC404-AC-holder",
+              "fulfillment_export": "AMAZON_NA",
+              "export_price": "15.99",
+              "export_quantity": "",
+              "export_status": "Inactive",
+              "ad_rows": 0,
+              "impressions": 0,
+              "clicks": 0,
+              "spend": 0,
+              "attributed_sales": 0,
+              "attributed_orders": 0,
+              "attributed_units": 0,
+              "nonzero_ad_records": []
+            }
+          ],
+          "impressions": 0,
+          "clicks": 0,
+          "spend": 0,
+          "attributed_sales": 0,
+          "attributed_orders": 0,
+          "attributed_units": 0
+        }
+      ]
+    },
+    {
+      "code": "2028-N",
+      "selected_asin": "B07DJXC4PJ",
+      "previous_or_alternate_asins": [
+        "B07F295V3S"
+      ],
+      "asins": [
+        {
+          "asin": "B07DJXC4PJ",
+          "ad_rows": 1,
+          "sku_stats": [
+            {
+              "sku": "4A 2028-N-FBA",
+              "fulfillment_export": "AMAZON_NA",
+              "export_price": "8.99",
+              "export_quantity": "",
+              "export_status": "Active",
+              "ad_rows": 1,
+              "impressions": 1.0,
+              "clicks": 0.0,
+              "spend": 0.0,
+              "attributed_sales": 0.0,
+              "attributed_orders": 0.0,
+              "attributed_units": 0.0,
+              "nonzero_ad_records": [
+                {
+                  "campaign": "SP_暑期老品在售_AUTO_捡漏",
+                  "campaign_id": "104617816299940",
+                  "impressions": 1.0,
+                  "clicks": 0.0,
+                  "spend": 0.0,
+                  "attributed_sales": 0.0,
+                  "attributed_orders": 0.0,
+                  "attributed_units": 0.0
+                }
+              ]
+            }
+          ],
+          "impressions": 1.0,
+          "clicks": 0.0,
+          "spend": 0.0,
+          "attributed_sales": 0.0,
+          "attributed_orders": 0.0,
+          "attributed_units": 0.0
+        },
+        {
+          "asin": "B07F295V3S",
+          "ad_rows": 3,
+          "sku_stats": [
+            {
+              "sku": "4A 2028-N",
+              "fulfillment_export": "DEFAULT",
+              "export_price": "4.99",
+              "export_quantity": "1473",
+              "export_status": "Active",
+              "ad_rows": 3,
+              "impressions": 0.0,
+              "clicks": 0.0,
+              "spend": 0.0,
+              "attributed_sales": 0.0,
+              "attributed_orders": 0.0,
+              "attributed_units": 0.0,
+              "nonzero_ad_records": []
+            }
+          ],
+          "impressions": 0.0,
+          "clicks": 0.0,
+          "spend": 0.0,
+          "attributed_sales": 0.0,
+          "attributed_orders": 0.0,
+          "attributed_units": 0.0
+        }
+      ]
+    },
+    {
+      "code": "5082-Y-L",
+      "selected_asin": "B07F2BHFJH",
+      "previous_or_alternate_asins": [
+        "B07DJKB2S9"
+      ],
+      "asins": [
+        {
+          "asin": "B07F2BHFJH",
+          "ad_rows": 13,
+          "sku_stats": [
+            {
+              "sku": "4A 5082-Y-L",
+              "fulfillment_export": "AMAZON_NA",
+              "export_price": "5.99",
+              "export_quantity": "",
+              "export_status": "Inactive",
+              "ad_rows": 3,
+              "impressions": 0.0,
+              "clicks": 0.0,
+              "spend": 0.0,
+              "attributed_sales": 0.0,
+              "attributed_orders": 0.0,
+              "attributed_units": 0.0,
+              "nonzero_ad_records": []
+            },
+            {
+              "sku": "4A 5082-Y-L-GM",
+              "fulfillment_export": "AMAZON_NA",
+              "export_price": "10.99",
+              "export_quantity": "",
+              "export_status": "Active",
+              "ad_rows": 9,
+              "impressions": 21653.0,
+              "clicks": 47.0,
+              "spend": 49.99,
+              "attributed_sales": 96.91,
+              "attributed_orders": 9.0,
+              "attributed_units": 9.0,
+              "nonzero_ad_records": [
+                {
+                  "campaign": "SP_5082-Y-L_KW PRASE_20250409",
+                  "campaign_id": "461428986976396",
+                  "impressions": 18048.0,
+                  "clicks": 35.0,
+                  "spend": 40.62,
+                  "attributed_sales": 69.44,
+                  "attributed_orders": 6.0,
+                  "attributed_units": 6.0
+                },
+                {
+                  "campaign": "SP_5082-Y-L_ASIN 竞_20250611",
+                  "campaign_id": "308876157259366",
+                  "impressions": 3604.0,
+                  "clicks": 12.0,
+                  "spend": 9.37,
+                  "attributed_sales": 27.47,
+                  "attributed_orders": 3.0,
+                  "attributed_units": 3.0
+                },
+                {
+                  "campaign": "SP_REACTIVATE_B1_5082YL_EXACT_20261102",
+                  "campaign_id": "16557079259795",
+                  "impressions": 1.0,
+                  "clicks": 0.0,
+                  "spend": 0.0,
+                  "attributed_sales": 0.0,
+                  "attributed_orders": 0.0,
+                  "attributed_units": 0.0
+                }
+              ]
+            },
+            {
+              "sku": "4A FBM-5082-Y-L",
+              "fulfillment_export": "DEFAULT",
+              "export_price": "11.99",
+              "export_quantity": "8898",
+              "export_status": "Active",
+              "ad_rows": 1,
+              "impressions": 0.0,
+              "clicks": 0.0,
+              "spend": 0.0,
+              "attributed_sales": 0.0,
+              "attributed_orders": 0.0,
+              "attributed_units": 0.0,
+              "nonzero_ad_records": []
+            }
+          ],
+          "impressions": 21653.0,
+          "clicks": 47.0,
+          "spend": 49.99,
+          "attributed_sales": 96.91,
+          "attributed_orders": 9.0,
+          "attributed_units": 9.0
+        },
+        {
+          "asin": "B07DJKB2S9",
+          "ad_rows": 0,
+          "sku_stats": [
+            {
+              "sku": "4A 5082-Y-L-FBA",
+              "fulfillment_export": "AMAZON_NA",
+              "export_price": "5.99",
+              "export_quantity": "",
+              "export_status": "Inactive",
+              "ad_rows": 0,
+              "impressions": 0,
+              "clicks": 0,
+              "spend": 0,
+              "attributed_sales": 0,
+              "attributed_orders": 0,
+              "attributed_units": 0,
+              "nonzero_ad_records": []
+            }
+          ],
+          "impressions": 0,
+          "clicks": 0,
+          "spend": 0,
+          "attributed_sales": 0,
+          "attributed_orders": 0,
+          "attributed_units": 0
+        }
+      ]
+    },
+    {
+      "code": "304FullGlue",
+      "selected_asin": "B00SMEFFRE",
+      "previous_or_alternate_asins": [],
+      "asins": [
+        {
+          "asin": "B00SMEFFRE",
+          "ad_rows": 10,
+          "sku_stats": [
+            {
+              "sku": "4A 304 Full Glue",
+              "fulfillment_export": "AMAZON_NA",
+              "export_price": "9.99",
+              "export_quantity": "",
+              "export_status": "Active",
+              "ad_rows": 9,
+              "impressions": 1.0,
+              "clicks": 0.0,
+              "spend": 0.0,
+              "attributed_sales": 0.0,
+              "attributed_orders": 0.0,
+              "attributed_units": 0.0,
+              "nonzero_ad_records": [
+                {
+                  "campaign": "SP_REACTIVATE_B2_304FULL_EXACT_20261102",
+                  "campaign_id": "237699244124115",
+                  "impressions": 1.0,
+                  "clicks": 0.0,
+                  "spend": 0.0,
+                  "attributed_sales": 0.0,
+                  "attributed_orders": 0.0,
+                  "attributed_units": 0.0
+                }
+              ]
+            },
+            {
+              "sku": "4A 304 Full Glue-FBM",
+              "fulfillment_export": "DEFAULT",
+              "export_price": "9.99",
+              "export_quantity": "4947",
+              "export_status": "Active",
+              "ad_rows": 1,
+              "impressions": 0.0,
+              "clicks": 0.0,
+              "spend": 0.0,
+              "attributed_sales": 0.0,
+              "attributed_orders": 0.0,
+              "attributed_units": 0.0,
+              "nonzero_ad_records": []
+            }
+          ],
+          "impressions": 1.0,
+          "clicks": 0.0,
+          "spend": 0.0,
+          "attributed_sales": 0.0,
+          "attributed_orders": 0.0,
+          "attributed_units": 0.0
+        }
+      ]
+    },
+    {
+      "code": "4012",
+      "selected_asin": "B01M3N310M",
+      "previous_or_alternate_asins": [],
+      "asins": [
+        {
+          "asin": "B01M3N310M",
+          "ad_rows": 2,
+          "sku_stats": [
+            {
+              "sku": "4A 4012-B07T-FBA",
+              "fulfillment_export": "AMAZON_NA",
+              "export_price": "12.99",
+              "export_quantity": "",
+              "export_status": "Inactive",
+              "ad_rows": 1,
+              "impressions": 13.0,
+              "clicks": 0.0,
+              "spend": 0.0,
+              "attributed_sales": 0.0,
+              "attributed_orders": 0.0,
+              "attributed_units": 0.0,
+              "nonzero_ad_records": [
+                {
+                  "campaign": "SP_暑期老品在售_AUTO_捡漏",
+                  "campaign_id": "104617816299940",
+                  "impressions": 13.0,
+                  "clicks": 0.0,
+                  "spend": 0.0,
+                  "attributed_sales": 0.0,
+                  "attributed_orders": 0.0,
+                  "attributed_units": 0.0
+                }
+              ]
+            },
+            {
+              "sku": "4A 4012-B07T-FBM",
+              "fulfillment_export": "DEFAULT",
+              "export_price": "12.99",
+              "export_quantity": "390",
+              "export_status": "Active",
+              "ad_rows": 1,
+              "impressions": 0.0,
+              "clicks": 0.0,
+              "spend": 0.0,
+              "attributed_sales": 0.0,
+              "attributed_orders": 0.0,
+              "attributed_units": 0.0,
+              "nonzero_ad_records": []
+            }
+          ],
+          "impressions": 13.0,
+          "clicks": 0.0,
+          "spend": 0.0,
+          "attributed_sales": 0.0,
+          "attributed_orders": 0.0,
+          "attributed_units": 0.0
+        }
+      ]
+    }
+  ]
+}

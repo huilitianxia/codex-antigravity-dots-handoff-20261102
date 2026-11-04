@@ -1,0 +1,41 @@
+{
+  "asin": "B00SMEDUWQ",
+  "sku": "4A092",
+  "old_price": 11.99,
+  "shipping_unchanged": 8.99,
+  "old_total": 20.98,
+  "proposed_price": 9.49,
+  "proposed_total": 18.48,
+  "proposed_minimum": 9.49,
+  "comparator_price": 18.49,
+  "comparator_shipping": "0 in product structured data; not independently confirmed at checkout",
+  "comparator_usd": true,
+  "comparator_in_stock": true,
+  "same_model": "4A SMC434,2.5inch,500sheets,1cube,matching mainphoto41HfQkjEsmL",
+  "comparator_url": "https://www.retailmarket.net/products/4a-sticky-memo-cube2-1-2-inchesbubble-patterned-printed-on-the-four-sidesself-stick-notes-cubeabout-500-sheets-cube1-cube-pack4a-smc-434/",
+  "GTIN_difference_disclosed": {
+    "retailer": "702877124000",
+    "Amazon_VC": "702877119617"
+  },
+  "brand_page_price": 9.99,
+  "brand_out_of_stock": true,
+  "cost_estimate": {
+    "FOB": 2,
+    "outbound_reference": 9.99,
+    "referral_rate": 0.15,
+    "estimated_pre_ad_remainder": 3.72,
+    "basis": "existingmaster and user-approved workbook shipping reference, not actual freight bill"
+  },
+  "status": "price-and-minimum-persisted-independent-offer-edit-verified",
+  "case_already_answered": "22958516811",
+  "comparator_basis": "conservative proposed Amazon total18.48 below retailer visible item-price18.49, without relying on retailer shipping assumption",
+  "verified_at": "2026-11-03T09:10:05.963650+00:00",
+  "saved_price": 9.49,
+  "saved_minimum": 9.49,
+  "saved_quantity": 6,
+  "saved_shipping_template": "Cube delivery",
+  "saved_shipping_expected": 8.99,
+  "independent_evidence": "hp10-edit-independent.txt initialsummary9.49; hp10-edit-detail-after-open.txt exactYourPrice9.49 andMin9.49 andQuantity6",
+  "high_price_resolved": false,
+  "frontend_verification": "pending"
+}

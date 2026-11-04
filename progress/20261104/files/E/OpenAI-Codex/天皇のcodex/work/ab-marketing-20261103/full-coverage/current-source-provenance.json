@@ -1,0 +1,20 @@
+{
+  "all_listings": {
+    "file": "D:/下载文件/所有商品报告_11-02-2026.txt",
+    "report_id": "285801020759",
+    "downloaded_beijing": "2026-11-03 08:38",
+    "sha256": "3bd8d1d86682c9950fbd0de58e7295b82e4f47fe18746ab82a1e1fc8fb9b8714"
+  },
+  "fba": {
+    "file": "D:\\下载文件\\285829020760.txt",
+    "report_id": "285829020760",
+    "requested_beijing": "2026-11-03 08:38",
+    "sha256": "b9459988642a05ca7673487acc6aea8f7a4116c1a6278354daa9ec13d36adda5"
+  },
+  "vc_historical": {
+    "file": "E:/xwechat_files/wxid_81xkainbu5d822_de43/msg/file/2026-09/Amazon VC销量汇总(周订单+批发单+直接订单).xlsx",
+    "period": "2015-2024",
+    "reconciled_total_row_units": 286393,
+    "note": "301x12-N总销量69848，年度合计71072，源表差1224；不得静默覆盖或重复加三渠道。"
+  }
+}

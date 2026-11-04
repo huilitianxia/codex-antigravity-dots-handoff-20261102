@@ -1,0 +1,14 @@
+[
+  {
+    "file": "E:\\OpenAI-Codex\\Integrations\\ChromeDevToolsMCP\\node_modules\\chrome-devtools-mcp\\build\\src\\McpPage.js",
+    "original_sha256": "d49b2666cb9c6c5b4d7b9130235c476cb8a3af580363ff224796d9dbde99538d",
+    "patched_sha256": "025ef8a4cccb75ef61a51d8e600939871aee1ed71ddaf458a15900d48273e3d5",
+    "guard": "CODEX_OPS_UI_ONLY=1; default behavior preserved"
+  },
+  {
+    "file": "E:\\OpenAI-Codex\\Integrations\\ChromeDevToolsMCP\\node_modules\\chrome-devtools-mcp\\build\\src\\collectors\\PageCollector.js",
+    "original_sha256": "58128e2eb11524dc3c4997b1962002568fd50c62c8ba77b715e64cb6e7bfc307",
+    "patched_sha256": "2cd52f851d7c448509482c3d33ee71de475a94b9a250bf41ab796805a361dae3",
+    "guard": "CODEX_OPS_UI_ONLY=1; default behavior preserved"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "status": "prepared-request-evidence-not-proof-of-GS1-identity",
+  "pairs": [
+    {
+      "product": "5084-N-L / 4pads×50sheets /5x8lined4neoncolors",
+      "target_keep": "B07F2B49BL",
+      "source_merge": "B07DJPCBLV",
+      "source_gtin": "702877124888",
+      "target_gtin": "702877124161",
+      "identity_basis": "Same manufacturer SKU and retail pack mapped in official2026master; both currentretailtitle/dimensions/quantity match. ExistingUPCdiffdeclaredforcatalogteamreview, noGTINchangeperformed.",
+      "review_caveat": "Keep targetASIN selectable; star rating/review pooling not guaranteed unchanged."
+    },
+    {
+      "product": "PSS32x6 /6rollswithdispensers /0.6x393in /6neoncolors",
+      "target_keep": "B08CVLH794",
+      "source_merge": "B08DKJ2K3T",
+      "source_gtin": "702877126561",
+      "target_gtin": "702877126578",
+      "identity_basis": "Same manufacturer SKU and retail pack mapped in official2026master; both currentretailtitle/dimensions/quantity match. ExistingUPCdiffdeclaredforcatalogteamreview, noGTINchangeperformed.",
+      "review_caveat": "Keep targetASIN selectable; star rating/review pooling not guaranteed unchanged."
+    }
+  ]
+}

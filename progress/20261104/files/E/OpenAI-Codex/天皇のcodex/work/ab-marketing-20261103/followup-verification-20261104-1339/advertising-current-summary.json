@@ -1,0 +1,99 @@
+{
+  "tableDate": "2026-11-03 US",
+  "campaignsRunning": 37,
+  "all": {
+    "budget": 112.0,
+    "impressions": 5675,
+    "clicks": 14,
+    "spend": 10.61,
+    "orders": 2,
+    "sales": 23.98
+  },
+  "old6": {
+    "budget": 27.0,
+    "impressions": 5540,
+    "clicks": 11,
+    "spend": 9.23,
+    "orders": 2,
+    "sales": 23.98
+  },
+  "new31": {
+    "budget": 85.0,
+    "impressions": 135,
+    "clicks": 3,
+    "spend": 1.38,
+    "orders": 0,
+    "sales": 0.0
+  },
+  "core": {
+    "301N": {
+      "budget": 18.0,
+      "impressions": 0,
+      "clicks": 0,
+      "spend": 0.0,
+      "orders": 0,
+      "sales": 0.0
+    },
+    "30315": {
+      "budget": 15.0,
+      "impressions": 0,
+      "clicks": 0,
+      "spend": 0.0,
+      "orders": 0,
+      "sales": 0.0
+    },
+    "4012": {
+      "budget": 12.0,
+      "impressions": 8,
+      "clicks": 0,
+      "spend": 0.0,
+      "orders": 0,
+      "sales": 0.0
+    },
+    "BS1801": {
+      "budget": 10.0,
+      "impressions": 16,
+      "clicks": 1,
+      "spend": 0.28,
+      "orders": 0,
+      "sales": 0.0
+    }
+  },
+  "withOrders": [
+    {
+      "id": "A02315433R9E712848FR",
+      "name": "SP_305满胶100_KW BROAD 1_20250811",
+      "status": "进行中",
+      "budget": 10.0,
+      "impressions": 1561,
+      "clicks": 7,
+      "spend": 5.34,
+      "orders": 1,
+      "sales": 10.99
+    },
+    {
+      "id": "A08519421LOCSOSTAXPTY",
+      "name": "SP_305满胶300_KW BROAD_20250411",
+      "status": "进行中",
+      "budget": 5.0,
+      "impressions": 653,
+      "clicks": 2,
+      "spend": 2.35,
+      "orders": 1,
+      "sales": 12.99
+    }
+  ],
+  "notRunningEnabled": [
+    {
+      "id": "A081635354LYPCKH0XJI",
+      "name": "Advertising",
+      "status": "未投放",
+      "budget": 20.0,
+      "impressions": 0,
+      "clicks": 0,
+      "spend": 0.0,
+      "orders": 0,
+      "sales": 0.0
+    }
+  ]
+}

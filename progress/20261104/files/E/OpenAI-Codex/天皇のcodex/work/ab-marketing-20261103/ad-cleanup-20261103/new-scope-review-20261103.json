@@ -1,0 +1,195 @@
+{
+  "user_hold": "先看停投，再看新范围；不新增报价，不新启动广告，不扩大预算。现有13条保留状态单列披露。",
+  "scope": [
+    {
+      "status": "此前已启用，当前未加开",
+      "product": "B1_5082YL",
+      "asin": "B07F2BHFJH",
+      "skus": "4A 5082-Y-L-GM；4A FBM-5082-Y-L",
+      "keywords": "large yellow lined sticky notes；lined sticky notes 5x8；5x8 sticky notes lined；large lined sticky notes",
+      "match": "精准",
+      "daily": 5,
+      "gate": "先审阅范围，不新增、不扩大预算。精准匹配中的泛词仍需逐词收窄。"
+    },
+    {
+      "status": "此前已启用，当前未加开",
+      "product": "B2_304FULL",
+      "asin": "B00SMEFFRE",
+      "skus": "4A 304 Full Glue；4A 304 Full Glue-FBM",
+      "keywords": "full sticky notes；sticky notes full back adhesive；fully adhesive sticky notes；full adhesive sticky notes",
+      "match": "精准",
+      "daily": 4,
+      "gate": "先审阅范围，不新增、不扩大预算。精准匹配中的泛词仍需逐词收窄。"
+    },
+    {
+      "status": "此前已启用，当前未加开",
+      "product": "A5_30318Y",
+      "asin": "B01NGWHSK1",
+      "skus": "4A 020",
+      "keywords": "sticky notes 3x3 yellow；yellow sticky notes bulk；sticky notes 18 pads；pastel yellow sticky notes",
+      "match": "精准",
+      "daily": 3,
+      "gate": "先审阅范围，不新增、不扩大预算。精准匹配中的泛词仍需逐词收窄。"
+    },
+    {
+      "status": "此前已启用，当前未加开",
+      "product": "B3_4012",
+      "asin": "B01M3N310M",
+      "skus": "4A 4012-B07T-FBM",
+      "keywords": "sticky notes value pack；sticky notes assorted sizes；sticky notes 18 pads；sticky notes variety pack",
+      "match": "精准",
+      "daily": 4,
+      "gate": "先审阅范围，不新增、不扩大预算。精准匹配中的泛词仍需逐词收窄。"
+    },
+    {
+      "status": "此前已启用，当前未加开",
+      "product": "A2_PSS91",
+      "asin": "B07FK7PBHJ",
+      "skus": "4A GM-SC-PSS 9-1 NYNRx2",
+      "keywords": "2 inch sticky note roll；repositionable sticky roll；sticky note roll dispenser；full adhesive sticky note roll",
+      "match": "精准",
+      "daily": 2,
+      "gate": "先审阅范围，不新增、不扩大预算。精准匹配中的泛词仍需逐词收窄。"
+    },
+    {
+      "status": "此前已启用，当前未加开",
+      "product": "B4_30315",
+      "asin": "B07FKG29KB",
+      "skus": "4A GM30315",
+      "keywords": "colored sticky notes 3x3；3x3 sticky notes 1500 sheets；sticky notes 3x3 assorted colors；3x3 sticky notes bulk；sticky notes 15 pads",
+      "match": "精准",
+      "daily": 5,
+      "gate": "先审阅范围，不新增、不扩大预算。精准匹配中的泛词仍需逐词收窄。"
+    },
+    {
+      "status": "此前已启用，当前未加开",
+      "product": "B17_5059",
+      "asin": "B00SMEEVCO",
+      "skus": "4A 5059-B00SM-FBM；4A 5059-B00SM-FBA",
+      "keywords": "speech bubble sticky notes；bubble shaped sticky notes；speech bubble notes",
+      "match": "精准",
+      "daily": 1,
+      "gate": "先审阅范围，不新增、不扩大预算。精准匹配中的泛词仍需逐词收窄。"
+    },
+    {
+      "status": "此前已启用，当前未加开",
+      "product": "A4_6043",
+      "asin": "B01M986R0Y",
+      "skus": "4A 6043-FBA；4A GMVC6043",
+      "keywords": "binder page markers；writable binder tabs；binder index tabs；durable file tabs",
+      "match": "精准",
+      "daily": 2,
+      "gate": "先审阅范围，不新增、不扩大预算。精准匹配中的泛词仍需逐词收窄。"
+    },
+    {
+      "status": "此前已启用，当前未加开",
+      "product": "S1_354818",
+      "asin": "B07DJKDB63",
+      "skus": "4A 354818",
+      "keywords": "mini sticky notes；mini sticky notes bulk；sticky notes 18 colors；small sticky notes assorted colors；small sticky notes 18 pads",
+      "match": "精准",
+      "daily": 2,
+      "gate": "先审阅范围，不新增、不扩大预算。精准匹配中的泛词仍需逐词收窄。"
+    },
+    {
+      "status": "此前已启用，当前未加开",
+      "product": "B5_30132",
+      "asin": "B07RQ7JMV9",
+      "skus": "4A 30132；4A GM30132",
+      "keywords": "mini sticky notes bulk；sticky notes 32 pads；small sticky notes 1.5 x 2；small colored sticky notes",
+      "match": "精准",
+      "daily": 3,
+      "gate": "先审阅范围，不新增、不扩大预算。精准匹配中的泛词仍需逐词收窄。"
+    },
+    {
+      "status": "此前已启用，当前未加开",
+      "product": "A8_MEETING52",
+      "asin": "B082WMV9NQ",
+      "skus": "4A-MEETING-52X4",
+      "keywords": "4a sticky notes；4a self stick notes",
+      "match": "精准",
+      "daily": 2,
+      "gate": "先审阅范围，不新增、不扩大预算。精准匹配中的泛词仍需逐词收窄。"
+    },
+    {
+      "status": "此前已启用，当前未加开",
+      "product": "A7_4046N",
+      "asin": "B01MXYQPE1",
+      "skus": "4A 030",
+      "keywords": "sticky notes 4x4；4x4 sticky notes neon；4 inch sticky notes；large square sticky notes",
+      "match": "精准",
+      "daily": 3,
+      "gate": "先审阅范围，不新增、不扩大预算。精准匹配中的泛词仍需逐词收窄。"
+    },
+    {
+      "status": "此前已启用，当前未加开",
+      "product": "B6_354832",
+      "asin": "B07RP9LR73",
+      "skus": "4A GM354832",
+      "keywords": "sticky notes 32 pads；mini sticky notes；mini sticky notes assorted colors；small sticky notes bulk",
+      "match": "精准",
+      "daily": 3,
+      "gate": "先审阅范围，不新增、不扩大预算。精准匹配中的泛词仍需逐词收窄。"
+    },
+    {
+      "status": "拟新增草案，未启动",
+      "product": "PSS32x6卷纸",
+      "asin": "B08CVLH794",
+      "skus": "4A PSS32x6-B08CV-FBM",
+      "keywords": "0.6 inch sticky note roll；6 color sticky note rolls with dispenser；full adhesive sticky note roll 0.6 inch；4a pss32x6",
+      "match": "精准",
+      "daily": 2,
+      "gate": "保留页FBM835件已核；合并工单22960471201待审。FBA39件关联未验收，暂不纳入广告SKU。"
+    },
+    {
+      "status": "拟新增草案，未启动",
+      "product": "404亚克力笔筒便签盒",
+      "asin": "B07Z2555TN",
+      "skus": "4A 404-AC-Holder；4A 404AC-B07Z-FBM",
+      "keywords": "4x4 sticky note holder with pen holder；acrylic sticky note holder 4x4；4a 404 sticky note holder",
+      "match": "精准",
+      "daily": 2,
+      "gate": "仅本ASIN；现有FBA和新增FBM共用一份单品预算。最终启用SKU须在启动前再验广告资格。"
+    },
+    {
+      "status": "拟新增草案，未启动",
+      "product": "2028-N 2x2荧光便签8本",
+      "asin": "B07DJXC4PJ",
+      "skus": "4A 2028-N-FBA；4A 2028-N-B07DJ-FBM",
+      "keywords": "2x2 sticky notes 8 pads；2x2 neon sticky notes 100 sheets；4a 2028 n sticky notes",
+      "match": "精准",
+      "daily": 1,
+      "gate": "FBM1473件已核；Amazon自营低价竞争仍需评估，不盲目跟价，广告资格复核后才可启动。"
+    },
+    {
+      "status": "旧活动重建候选，未启动",
+      "product": "302满胶400",
+      "asin": "B0F2TKL2P5",
+      "skus": "4A 302-Full Adhesive-400",
+      "keywords": "full stick post it notes",
+      "match": "拟改精准",
+      "daily": null,
+      "gate": "原广泛关键词层级4单，花费9.88、归因销售80.81、ACOS12.2%；仅作为重建候选，不恢复整个旧广泛活动。"
+    },
+    {
+      "status": "旧活动重建候选，未启动",
+      "product": "303满胶400",
+      "asin": "B07QXJYTZ7",
+      "skus": "4A 303-Full Adhesive-400",
+      "keywords": "full sticky back post it notes",
+      "match": "精准",
+      "daily": null,
+      "gate": "关键词层级18单，花费87.80、归因销售341.07、ACOS25.7%；高成本泛词不随之恢复。"
+    }
+  ],
+  "review_status": "priority-needs-revision-after-VC-sales-ranking-user-review",
+  "priority_correction": {
+    "main_candidate": "B01LVTWP7Q",
+    "existing_shared_page_alternatives": [
+      "B07DJKDB63",
+      "B01LVWFZVZ"
+    ],
+    "rule": "VC2015-2024 amountfirst; do notcreate3duplicatecampaignsfortheexistingcommonpage",
+    "executed": false
+  }
+}

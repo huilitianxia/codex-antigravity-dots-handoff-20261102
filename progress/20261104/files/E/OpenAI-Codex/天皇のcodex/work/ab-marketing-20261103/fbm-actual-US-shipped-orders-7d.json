@@ -1,0 +1,55 @@
+{
+  "read_at": "2026-11-03T11:21:21.549Z",
+  "url": "https://sellercentral.amazon.com/orders-v3/mfn/shipped?salesChannelMFN=ATVPDKIKX0DER&page=1&date-range=last-7",
+  "date": "过去 7 天",
+  "rows": [
+    {
+      "order": "111-5581504-5458663",
+      "date": "19 小时 前\n2026/11/2\n08:33 PST",
+      "asin": "B01N6J0VZO",
+      "sku": "4A 302 Full Glue",
+      "quantity": "1",
+      "item_subtotal": "US$2.99"
+    },
+    {
+      "order": "113-1498108-9484208",
+      "date": "20 小时 前\n2026/11/2\n06:57 PST",
+      "asin": "B01MSZSEBW",
+      "sku": "4A 406x6-N",
+      "quantity": "1",
+      "item_subtotal": "US$11.99"
+    },
+    {
+      "order": "113-5204302-5317845",
+      "date": "2 天 前\n2026/10/31\n21:39 PDT",
+      "asin": "B07FK8ML41",
+      "sku": "4A GM302-Full Glue*3",
+      "quantity": "1",
+      "item_subtotal": "US$7.99"
+    },
+    {
+      "order": "112-4834983-0088232",
+      "date": "4 天 前\n2026/10/30\n15:58 PDT",
+      "asin": "B00V9Z5PS2",
+      "sku": "4A PSS 9-5 NB",
+      "quantity": "1",
+      "item_subtotal": "US$8.99"
+    },
+    {
+      "order": "111-8884304-4326628",
+      "date": "4 天 前\n2026/10/30\n07:34 PDT",
+      "asin": "B01MU5BGNQ",
+      "sku": "4A0102",
+      "quantity": "3",
+      "item_subtotal": "US$29.97"
+    },
+    {
+      "order": "113-3942928-8209854",
+      "date": "6 天 前\n2026/10/28\n05:39 PDT",
+      "asin": "B07FKGDMPS",
+      "sku": "4A GMSCMC 434",
+      "quantity": "1",
+      "item_subtotal": "US$17.99"
+    }
+  ]
+}

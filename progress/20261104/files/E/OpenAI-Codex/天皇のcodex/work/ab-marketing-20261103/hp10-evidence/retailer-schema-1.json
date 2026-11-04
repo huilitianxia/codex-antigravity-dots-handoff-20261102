@@ -1,0 +1,497 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://www.retailmarket.net/products/4a-sticky-memo-cube2-1-2-inchesbubble-patterned-printed-on-the-four-sidesself-stick-notes-cubeabout-500-sheets-cube1-cube-pack4a-smc-434/#product",
+      "name": "4A Sticky Memo Cube,2 1/2 Inches,Bubble Patterned Printed On The Four Sides,Self-Stick Notes Cube,About 500 Sheets/Cube,1 Cube/Pack,4A SMC",
+      "url": "https://www.retailmarket.net/products/4a-sticky-memo-cube2-1-2-inchesbubble-patterned-printed-on-the-four-sidesself-stick-notes-cubeabout-500-sheets-cube1-cube-pack4a-smc-434/",
+      "description": "The 4A Sticky Memo Cube (2 1/2 Inches) features ~500 bubble-patterned, self-stick, recyclable sheets, ideal for quick notes and brainstorming.",
+      "image": {
+        "@id": "https://www.retailmarket.net/products/4a-sticky-memo-cube2-1-2-inchesbubble-patterned-printed-on-the-four-sidesself-stick-notes-cubeabout-500-sheets-cube1-cube-pack4a-smc-434/#primaryimage"
+      },
+      "sku": "RP2999313556",
+      "offers": [
+        {
+          "@type": "Offer",
+          "priceSpecification": {
+            "price": "18.49",
+            "priceCurrency": "USD",
+            "valueAddedTaxIncluded": false,
+            "@type": "PriceSpecification"
+          },
+          "availability": "http://schema.org/InStock",
+          "url": "https://www.retailmarket.net/products/4a-sticky-memo-cube2-1-2-inchesbubble-patterned-printed-on-the-four-sidesself-stick-notes-cubeabout-500-sheets-cube1-cube-pack4a-smc-434/",
+          "seller": {
+            "@id": "https://www.retailmarket.net/#organization"
+          },
+          "@id": "https://www.retailmarket.net/#/schema/offer/7404726-0",
+          "priceValidUntil": "2027-01-03",
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "applicableCountry": [
+              "AU",
+              "AT",
+              "BE",
+              "BR",
+              "CA",
+              "CL",
+              "CO",
+              "CZ",
+              "DK",
+              "FI",
+              "FR",
+              "DE",
+              "GR",
+              "HK",
+              "HU",
+              "IE",
+              "IT",
+              "JP",
+              "KW",
+              "MX",
+              "NL",
+              "NZ",
+              "NO",
+              "PL",
+              "PT",
+              "RO",
+              "SA",
+              "ES",
+              "SE",
+              "CH",
+              "AE",
+              "GB",
+              "US",
+              "PK",
+              "IN",
+              "ZA",
+              "QA",
+              "YE",
+              "ID",
+              "KR",
+              "MY",
+              "ZW",
+              "ZM",
+              "VE",
+              "VA",
+              "UG",
+              "UA",
+              "UY",
+              "UZ",
+              "VU"
+            ],
+            "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 60,
+            "itemDefectReturnFees": "https://schema.org/FreeReturn",
+            "customerRemorseReturnFees": "https://schema.org/FreeReturn",
+            "returnFees": "https://schema.org/FreeReturn",
+            "returnMethod": "https://schema.org/ReturnByMail",
+            "merchantReturnLink": "https://www.retailmarket.net/legal/refund-policy/",
+            "inStoreReturnsOffered": false
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": 0,
+              "currency": "USD"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 1,
+                "maxValue": 2,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 2,
+                "maxValue": 4,
+                "unitCode": "DAY"
+              }
+            },
+            "shippingDestination": [
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "AU"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "AT"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "BE"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "BR"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "CA"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "CL"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "CO"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "CZ"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "DK"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "FI"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "FR"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "DE"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "GR"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "HK"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "HU"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "IE"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "IT"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "JP"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "KW"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "MX"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "NL"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "NZ"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "NO"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "PL"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "PT"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "RO"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "SA"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "ES"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "SE"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "CH"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "AE"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "GB"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "PK"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "IN"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "ZA"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "QA"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "YE"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "ID"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "KR"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "MY"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "ZW"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "ZM"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "VE"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "VA"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "UG"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "UA"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "UY"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "UZ"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "VU"
+              }
+            ]
+          },
+          "hasEnergyConsumptionDetails": {
+            "@type": "EnergyConsumptionDetails",
+            "hasEnergyEfficiencyCategory": "https://schema.org/EUEnergyEfficiencyCategoryA3Plus",
+            "energyEfficiencyScaleMin": "https://schema.org/EUEnergyEfficiencyCategoryA",
+            "energyEfficiencyScaleMax": "https://schema.org/EUEnergyEfficiencyCategoryG"
+          }
+        }
+      ],
+      "mainEntityOfPage": {
+        "@id": "https://www.retailmarket.net/products/4a-sticky-memo-cube2-1-2-inchesbubble-patterned-printed-on-the-four-sidesself-stick-notes-cubeabout-500-sheets-cube1-cube-pack4a-smc-434/"
+      },
+      "gtin": "702877124000",
+      "gtin12": "702877124000",
+      "brand": {
+        "@type": "Brand",
+        "name": "4A"
+      },
+      "mpn": "RP2999313556",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.3,
+        "reviewCount": 8131,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Customer 9982554"
+          },
+          "reviewBody": "The shipping was super fast!",
+          "datePublished": "2026-10-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 4,
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Customer 754097"
+          },
+          "reviewBody": "The shipping was super fast!",
+          "datePublished": "2026-09-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 4,
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Customer 8210058"
+          },
+          "reviewBody": "Their return policy is excellent and hassle-free!",
+          "datePublished": "2026-10-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5,
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Customer 5788365"
+          },
+          "reviewBody": "The user experience on the website is fantastic!",
+          "datePublished": "2026-08-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 4,
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Customer 1433687"
+          },
+          "reviewBody": "The packaging of the product was secure and eco-friendly!",
+          "datePublished": "2026-09-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 4,
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Customer 1353142"
+          },
+          "reviewBody": "The customer service was outstanding!",
+          "datePublished": "2026-08-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5,
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Customer 8589880"
+          },
+          "reviewBody": "The user experience on the website is fantastic!",
+          "datePublished": "2026-09-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 4,
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Customer 1768553"
+          },
+          "reviewBody": "The speed of the website is incredible!",
+          "datePublished": "2026-08-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5,
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Customer 5071256"
+          },
+          "reviewBody": "Their return policy is excellent and hassle-free!",
+          "datePublished": "2026-09-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 4,
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Customer 7945784"
+          },
+          "reviewBody": "The shipping was super fast!",
+          "datePublished": "2026-10-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5,
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

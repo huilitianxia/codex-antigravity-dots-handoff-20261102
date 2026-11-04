@@ -1,0 +1,37 @@
+{
+  "scope": "read-only response to user images and VC/SC versus FBA/FBM clarification",
+  "5084": {
+    "vc_origin_asin": "B07DJPCBLV",
+    "sc_origin_asin": "B07F2B49BL",
+    "vc_own_fba_available": 0,
+    "vc_own_fbm_offer": false,
+    "sc_own_fba_available": 160,
+    "sc_own_fbm_qty": 0,
+    "public_zip": "10001",
+    "vc_public_rating": "4.1/177",
+    "vc_public": "Currently unavailable",
+    "sc_public_rating": "4.4/64",
+    "sc_public": "InStock15.99 ShipsAmazon Sold4AUSA"
+  },
+  "PSS32x6": {
+    "good_vc_origin_asin": "B08CVLH794",
+    "good_fba_sku": "4A PSS 32x6",
+    "good_fba_available": 0,
+    "good_fbm_qty": 835,
+    "old_sc_origin_asin": "B08DKJ2K3T",
+    "old_fba_sku": "4A SCPSS 32x6",
+    "old_fba_available": 39,
+    "old_fba_reserved": 3,
+    "old_fbm_qty": 0,
+    "recent_fba_order": {
+      "date_beijing": "2026-11-03 11:44",
+      "date_platform": "2026/11/2 19:44 PST",
+      "quantity": 1,
+      "price": 13.99,
+      "status": "Pending payment verification"
+    },
+    "vc_upc": "702877126578",
+    "sc_upc": "702877126561",
+    "reverse_note": "GoodASINalreadyFBA offer exists0; futureFBA replenishmentcanusethisSKU. ExistingFBAstockdoesnotmovebyeditingMFNqty. DuplicateASINmergerneedsidenticalphysicalproduct/keyattributes/UPCprooffromrightsowner; officialG201950590 saysapprovedmergesconsolidatesourceinventoryandredirecttomainASIN, reviewsharingconditional. No ASINmerge, FBAremoval, shipmentcancellation or new inbound shipment submitted."
+  }
+}

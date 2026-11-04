@@ -1,0 +1,127 @@
+
+Update available: 1.10.1 -> 1.12.0
+Run `npm install chrome-devtools-mcp@latest` to update.
+
+chrome-devtools-mcp exposes content of the browser instance to the MCP clients allowing them to inspect,
+debug, and modify any data in the browser or DevTools.
+Avoid sharing sensitive or personal information that you do not want to share with MCP clients.
+
+Update available: 1.10.1 -> 1.12.0
+Run `npm install chrome-devtools-mcp@latest` to update.
+
+chrome-devtools-mcp exposes content of the browser instance to the MCP clients allowing them to inspect,
+debug, and modify any data in the browser or DevTools.
+Avoid sharing sensitive or personal information that you do not want to share with MCP clients.
+
+<--- Last few GCs --->
+
+[283744:00000211ACB56000]  4094629 ms: Mark-Compact 4088.7 (4098.5) -> 4086.4 (4099.0) MB, pooled: 0 MB, 948.60 / 0.00 ms  (average mu = 0.182, current mu = 0.009) task; scavenge might not succeed
+[283744:00000211ACB56000]  4095425 ms: Mark-Compact 4088.0 (4099.3) -> 4086.8 (4098.3) MB, pooled: 2 MB, 790.24 / 0.00 ms  (average mu = 0.102, current mu = 0.007) task; scavenge might not succeed
+
+FATAL ERROR: Ineffective mark-compacts near heap limit Allocation failed - JavaScript heap out of memory
+----- Native stack trace -----
+
+ 1: 00007FF6DE6990C6 node::SetAbortHandler+54
+ 2: 00007FF6DE699604 node::OnFatalError+1284
+ 3: 00007FF6DD2A3617 v8::Function::NewInstance+423
+ 4: 00007FF6DD0A3E57 X509_STORE_CTX_get_cert_crl+54423
+ 5: 00007FF6DD0A7B64 X509_STORE_CTX_get_cert_crl+70052
+ 6: 00007FF6DD0B6ACC v8::internal::StrongRootAllocatorBase::deallocate_impl+16604
+ 7: 00007FF6DD0B630B v8::internal::StrongRootAllocatorBase::deallocate_impl+14619
+ 8: 00007FF6DE9C3BAD node::AsyncResource::CallbackScope::CallbackScope+2124541
+ 9: 00007FF6DD0A1920 X509_STORE_CTX_get_cert_crl+44896
+10: 00007FF6DD051EC2 EVP_PKEY_asn1_set_get_priv_key+86258
+11: 00007FF6DE5DC1F5 node::GetNodeReport+103733
+12: 00007FF6DE5DA560 node::GetNodeReport+96416
+13: 00007FF6DD309BBB uv_run+1851
+14: 00007FF6DD30972F uv_run+687
+15: 00007FF6DE7BA13F node::DecodeWrite+351
+16: 00007FF6DE6254E6 node::MultiIsolatePlatform::DisposeIsolate+297062
+17: 00007FF6DE6FC149 node::Start+3897
+18: 00007FF6DE7BD312 node::AsyncResource::CallbackScope::CallbackScope+610
+19: 00007FF6DE9CD3C4 node::AsyncResource::CallbackScope::CallbackScope+2163476
+20: 00007FFABC8CDDA7 BaseThreadInitThunk+23
+21: 00007FFABE79EE4C RtlUserThreadStart+44
+
+Update available: 1.10.1 -> 1.12.0
+Run `npm install chrome-devtools-mcp@latest` to update.
+
+chrome-devtools-mcp exposes content of the browser instance to the MCP clients allowing them to inspect,
+debug, and modify any data in the browser or DevTools.
+Avoid sharing sensitive or personal information that you do not want to share with MCP clients.
+
+Update available: 1.10.1 -> 1.12.0
+Run `npm install chrome-devtools-mcp@latest` to update.
+
+chrome-devtools-mcp exposes content of the browser instance to the MCP clients allowing them to inspect,
+debug, and modify any data in the browser or DevTools.
+Avoid sharing sensitive or personal information that you do not want to share with MCP clients.
+
+<--- Last few GCs --->
+
+[274248:000001ADF4369000]  3886111 ms: Mark-Compact 6134.2 (6146.7) -> 6133.0 (6151.0) MB, pooled: 0 MB, 1201.33 / 0.00 ms  (average mu = 0.068, current mu = 0.004) task; scavenge might not succeed
+[274248:000001ADF4369000]  3887335 ms: Mark-Compact 6136.2 (6151.0) -> 6133.8 (6152.0) MB, pooled: 0 MB, 1216.30 / 0.00 ms  (average mu = 0.037, current mu = 0.006) task; scavenge might not succeed
+
+FATAL ERROR: Ineffective mark-compacts near heap limit Allocation failed - JavaScript heap out of memory
+----- Native stack trace -----
+
+ 1: 00007FF6DE6990C6 node::SetAbortHandler+54
+ 2: 00007FF6DE699604 node::OnFatalError+1284
+ 3: 00007FF6DD2A3617 v8::Function::NewInstance+423
+ 4: 00007FF6DD0A3E57 X509_STORE_CTX_get_cert_crl+54423
+ 5: 00007FF6DD0A7B64 X509_STORE_CTX_get_cert_crl+70052
+ 6: 00007FF6DD0B6ACC v8::internal::StrongRootAllocatorBase::deallocate_impl+16604
+ 7: 00007FF6DD0B630B v8::internal::StrongRootAllocatorBase::deallocate_impl+14619
+ 8: 00007FF6DE9C3BAD node::AsyncResource::CallbackScope::CallbackScope+2124541
+ 9: 00007FF6DD0A1920 X509_STORE_CTX_get_cert_crl+44896
+10: 00007FF6DD051EC2 EVP_PKEY_asn1_set_get_priv_key+86258
+11: 00007FF6DE5DC1F5 node::GetNodeReport+103733
+12: 00007FF6DE5DA560 node::GetNodeReport+96416
+13: 00007FF6DD309BBB uv_run+1851
+14: 00007FF6DD30972F uv_run+687
+15: 00007FF6DE7BA13F node::DecodeWrite+351
+16: 00007FF6DE6254E6 node::MultiIsolatePlatform::DisposeIsolate+297062
+17: 00007FF6DE6FC149 node::Start+3897
+18: 00007FF6DE7BD312 node::AsyncResource::CallbackScope::CallbackScope+610
+19: 00007FF6DE9CD3C4 node::AsyncResource::CallbackScope::CallbackScope+2163476
+20: 00007FFABC8CDDA7 BaseThreadInitThunk+23
+21: 00007FFABE79EE4C RtlUserThreadStart+44
+
+Update available: 1.10.1 -> 1.12.0
+Run `npm install chrome-devtools-mcp@latest` to update.
+
+chrome-devtools-mcp exposes content of the browser instance to the MCP clients allowing them to inspect,
+debug, and modify any data in the browser or DevTools.
+Avoid sharing sensitive or personal information that you do not want to share with MCP clients.
+
+<--- Last few GCs --->
+
+[271556:000001FE54455000]  5152265 ms: Mark-Compact 6134.2 (6148.7) -> 6128.3 (6156.9) MB, pooled: 0 MB, 1538.18 / 0.00 ms  (average mu = 0.276, current mu = 0.054) task; scavenge might not succeed
+[271556:000001FE54455000]  5153802 ms: Mark-Compact (reduce) 6135.7 (6156.9) -> 6134.8 (6145.9) MB, pooled: 0 MB, 62.70 / 0.00 ms  (+ 957.8 ms in 495 steps since start of marking, biggest step 5.0 ms, walltime since start of marking 1194 ms) (average mu =
+FATAL ERROR: Reached heap limit Allocation failed - JavaScript heap out of memory
+----- Native stack trace -----
+
+ 1: 00007FF6DE6990C6 node::SetAbortHandler+54
+ 2: 00007FF6DE699604 node::OnFatalError+1284
+ 3: 00007FF6DD2A3617 v8::Function::NewInstance+423
+ 4: 00007FF6DD0A3E57 X509_STORE_CTX_get_cert_crl+54423
+ 5: 00007FF6DD0A1AF6 X509_STORE_CTX_get_cert_crl+45366
+ 6: 00007FF6DD09AA84 X509_STORE_CTX_get_cert_crl+16580
+ 7: 00007FF6DE5DC1F5 node::GetNodeReport+103733
+ 8: 00007FF6DE5DA560 node::GetNodeReport+96416
+ 9: 00007FF6DD309BBB uv_run+1851
+10: 00007FF6DD30972F uv_run+687
+11: 00007FF6DE7BA13F node::DecodeWrite+351
+12: 00007FF6DE6254E6 node::MultiIsolatePlatform::DisposeIsolate+297062
+13: 00007FF6DE6FC149 node::Start+3897
+14: 00007FF6DE7BD312 node::AsyncResource::CallbackScope::CallbackScope+610
+15: 00007FF6DE9CD3C4 node::AsyncResource::CallbackScope::CallbackScope+2163476
+16: 00007FFABC8CDDA7 BaseThreadInitThunk+23
+17: 00007FFABE79EE4C RtlUserThreadStart+44
+
+Update available: 1.10.1 -> 1.12.0
+Run `npm install chrome-devtools-mcp@latest` to update.
+
+chrome-devtools-mcp exposes content of the browser instance to the MCP clients allowing them to inspect,
+debug, and modify any data in the browser or DevTools.
+Avoid sharing sensitive or personal information that you do not want to share with MCP clients.

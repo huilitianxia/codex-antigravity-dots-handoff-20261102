@@ -1,0 +1,917 @@
+{
+  "headers": [
+    {
+      "col": "ag-Grid-SelectionColumn",
+      "text": "全选"
+    },
+    {
+      "col": "campaignHealth",
+      "text": ""
+    },
+    {
+      "col": "state",
+      "text": "进行中"
+    },
+    {
+      "col": "name",
+      "text": "广告活动名称"
+    },
+    {
+      "col": "clicks",
+      "text": "点击量"
+    },
+    {
+      "col": "ctr",
+      "text": "点击率"
+    },
+    {
+      "col": "spend",
+      "text": "总成本"
+    },
+    {
+      "col": "cpc",
+      "text": "CPC"
+    },
+    {
+      "col": "detailPageViews",
+      "text": "商品详情页浏览量"
+    },
+    {
+      "col": "orders",
+      "text": "购买量"
+    },
+    {
+      "col": "sales",
+      "text": "销售额"
+    },
+    {
+      "col": "acos",
+      "text": "ACOS"
+    },
+    {
+      "col": "roas",
+      "text": "ROAS"
+    }
+  ],
+  "rows": [
+    {
+      "id": null,
+      "text": "全选\n\n进行中\n广告活动名称",
+      "cells": [],
+      "links": []
+    },
+    {
+      "id": null,
+      "text": "点击量\n点击率\n总成本\nCPC\n商品详情页浏览量\n购买量\n销售额\nACOS\nROAS",
+      "cells": [],
+      "links": []
+    },
+    {
+      "id": "461428986976396",
+      "text": "SP_5082-Y-L_KW PRASE_20250409\nA0180987YZGIZB3W70KF",
+      "cells": [
+        {
+          "col": "ag-Grid-SelectionColumn",
+          "text": ""
+        },
+        {
+          "col": "campaignHealth",
+          "text": ""
+        },
+        {
+          "col": "state",
+          "text": ""
+        },
+        {
+          "col": "name",
+          "text": "SP_5082-Y-L_KW PRASE_20250409\nA0180987YZGIZB3W70KF"
+        }
+      ],
+      "links": [
+        {
+          "text": "SP_5082-Y-L_KW PRASE_20250409",
+          "href": "https://advertising.amazon.com/cm/sp/campaigns/A0180987YZGIZB3W70KF?entityId=ENTITY2EFMPU8GWXHSP"
+        }
+      ]
+    },
+    {
+      "id": "308876157259366",
+      "text": "SP_5082-Y-L_ASIN 竞_20250611\nA04281763PE9HTM0FX945",
+      "cells": [
+        {
+          "col": "ag-Grid-SelectionColumn",
+          "text": ""
+        },
+        {
+          "col": "campaignHealth",
+          "text": ""
+        },
+        {
+          "col": "state",
+          "text": ""
+        },
+        {
+          "col": "name",
+          "text": "SP_5082-Y-L_ASIN 竞_20250611\nA04281763PE9HTM0FX945"
+        }
+      ],
+      "links": [
+        {
+          "text": "SP_5082-Y-L_ASIN 竞_20250611",
+          "href": "https://advertising.amazon.com/cm/sp/campaigns/A04281763PE9HTM0FX945?entityId=ENTITY2EFMPU8GWXHSP"
+        }
+      ]
+    },
+    {
+      "id": "374167236771880",
+      "text": "SP_5082-Y-L_AUTO CLOSE_20250430\nA01011731MC6NID44JPU9",
+      "cells": [
+        {
+          "col": "ag-Grid-SelectionColumn",
+          "text": ""
+        },
+        {
+          "col": "campaignHealth",
+          "text": ""
+        },
+        {
+          "col": "state",
+          "text": ""
+        },
+        {
+          "col": "name",
+          "text": "SP_5082-Y-L_AUTO CLOSE_20250430\nA01011731MC6NID44JPU9"
+        }
+      ],
+      "links": [
+        {
+          "text": "SP_5082-Y-L_AUTO CLOSE_20250430",
+          "href": "https://advertising.amazon.com/cm/sp/campaigns/A01011731MC6NID44JPU9?entityId=ENTITY2EFMPU8GWXHSP"
+        }
+      ]
+    },
+    {
+      "id": "415827187287573",
+      "text": "SP_5082-Y-L_AUTO ASIN_20250507\nA0636057273NO1MWHSG0K",
+      "cells": [
+        {
+          "col": "ag-Grid-SelectionColumn",
+          "text": ""
+        },
+        {
+          "col": "campaignHealth",
+          "text": ""
+        },
+        {
+          "col": "state",
+          "text": ""
+        },
+        {
+          "col": "name",
+          "text": "SP_5082-Y-L_AUTO ASIN_20250507\nA0636057273NO1MWHSG0K"
+        }
+      ],
+      "links": [
+        {
+          "text": "SP_5082-Y-L_AUTO ASIN_20250507",
+          "href": "https://advertising.amazon.com/cm/sp/campaigns/A0636057273NO1MWHSG0K?entityId=ENTITY2EFMPU8GWXHSP"
+        }
+      ]
+    },
+    {
+      "id": "517606677834497",
+      "text": "SP_5082-Y-L_KW EXACT_20250507\nA034599339S9BZSSCBFPW",
+      "cells": [
+        {
+          "col": "ag-Grid-SelectionColumn",
+          "text": ""
+        },
+        {
+          "col": "campaignHealth",
+          "text": ""
+        },
+        {
+          "col": "state",
+          "text": ""
+        },
+        {
+          "col": "name",
+          "text": "SP_5082-Y-L_KW EXACT_20250507\nA034599339S9BZSSCBFPW"
+        }
+      ],
+      "links": [
+        {
+          "text": "SP_5082-Y-L_KW EXACT_20250507",
+          "href": "https://advertising.amazon.com/cm/sp/campaigns/A034599339S9BZSSCBFPW?entityId=ENTITY2EFMPU8GWXHSP"
+        }
+      ]
+    },
+    {
+      "id": "493676027000961",
+      "text": "SP_5082-Y-L_ASIN 防_20250526\nA0201995ZOP0KFE53D2C",
+      "cells": [
+        {
+          "col": "ag-Grid-SelectionColumn",
+          "text": ""
+        },
+        {
+          "col": "campaignHealth",
+          "text": ""
+        },
+        {
+          "col": "state",
+          "text": ""
+        },
+        {
+          "col": "name",
+          "text": "SP_5082-Y-L_ASIN 防_20250526\nA0201995ZOP0KFE53D2C"
+        }
+      ],
+      "links": [
+        {
+          "text": "SP_5082-Y-L_ASIN 防_20250526",
+          "href": "https://advertising.amazon.com/cm/sp/campaigns/A0201995ZOP0KFE53D2C?entityId=ENTITY2EFMPU8GWXHSP"
+        }
+      ]
+    },
+    {
+      "id": "519338775636296",
+      "text": "SP_5082-Y-L_KW EXACT_20250626\nA06665812V4CYJMEFZX4H",
+      "cells": [
+        {
+          "col": "ag-Grid-SelectionColumn",
+          "text": ""
+        },
+        {
+          "col": "campaignHealth",
+          "text": ""
+        },
+        {
+          "col": "state",
+          "text": ""
+        },
+        {
+          "col": "name",
+          "text": "SP_5082-Y-L_KW EXACT_20250626\nA06665812V4CYJMEFZX4H"
+        }
+      ],
+      "links": [
+        {
+          "text": "SP_5082-Y-L_KW EXACT_20250626",
+          "href": "https://advertising.amazon.com/cm/sp/campaigns/A06665812V4CYJMEFZX4H?entityId=ENTITY2EFMPU8GWXHSP"
+        }
+      ]
+    },
+    {
+      "id": "445121795445558",
+      "text": "SP_5082_KW BROAD_20250725\nA06290643QR7IS0RTCUB9",
+      "cells": [
+        {
+          "col": "ag-Grid-SelectionColumn",
+          "text": ""
+        },
+        {
+          "col": "campaignHealth",
+          "text": ""
+        },
+        {
+          "col": "state",
+          "text": ""
+        },
+        {
+          "col": "name",
+          "text": "SP_5082_KW BROAD_20250725\nA06290643QR7IS0RTCUB9"
+        }
+      ],
+      "links": [
+        {
+          "text": "SP_5082_KW BROAD_20250725",
+          "href": "https://advertising.amazon.com/cm/sp/campaigns/A06290643QR7IS0RTCUB9?entityId=ENTITY2EFMPU8GWXHSP"
+        }
+      ]
+    },
+    {
+      "id": "337215708798853",
+      "text": "SP_5082-Y-Lx2_AUTO CLOSE_20250729\nA06890473UIN1JTS7CTK5",
+      "cells": [
+        {
+          "col": "ag-Grid-SelectionColumn",
+          "text": ""
+        },
+        {
+          "col": "campaignHealth",
+          "text": ""
+        },
+        {
+          "col": "state",
+          "text": ""
+        },
+        {
+          "col": "name",
+          "text": "SP_5082-Y-Lx2_AUTO CLOSE_20250729\nA06890473UIN1JTS7CTK5"
+        }
+      ],
+      "links": [
+        {
+          "text": "SP_5082-Y-Lx2_AUTO CLOSE_20250729",
+          "href": "https://advertising.amazon.com/cm/sp/campaigns/A06890473UIN1JTS7CTK5?entityId=ENTITY2EFMPU8GWXHSP"
+        }
+      ]
+    },
+    {
+      "id": "324590213771716",
+      "text": "SP_5082-Y-Lx2_ASIN 竞_20250729\nA0796638M3WGPIDAZ0PF",
+      "cells": [
+        {
+          "col": "ag-Grid-SelectionColumn",
+          "text": ""
+        },
+        {
+          "col": "campaignHealth",
+          "text": ""
+        },
+        {
+          "col": "state",
+          "text": ""
+        },
+        {
+          "col": "name",
+          "text": "SP_5082-Y-Lx2_ASIN 竞_20250729\nA0796638M3WGPIDAZ0PF"
+        }
+      ],
+      "links": [
+        {
+          "text": "SP_5082-Y-Lx2_ASIN 竞_20250729",
+          "href": "https://advertising.amazon.com/cm/sp/campaigns/A0796638M3WGPIDAZ0PF?entityId=ENTITY2EFMPU8GWXHSP"
+        }
+      ]
+    },
+    {
+      "id": "480233053368681",
+      "text": "SP_305满胶100_KW BROAD 2_20250820\nA04930348ZV5W2KHC6DU",
+      "cells": [
+        {
+          "col": "ag-Grid-SelectionColumn",
+          "text": ""
+        },
+        {
+          "col": "campaignHealth",
+          "text": ""
+        },
+        {
+          "col": "state",
+          "text": ""
+        },
+        {
+          "col": "name",
+          "text": "SP_305满胶100_KW BROAD 2_20250820\nA04930348ZV5W2KHC6DU"
+        }
+      ],
+      "links": [
+        {
+          "text": "SP_305满胶100_KW BROAD 2_20250820",
+          "href": "https://advertising.amazon.com/cm/sp/campaigns/A04930348ZV5W2KHC6DU?entityId=ENTITY2EFMPU8GWXHSP"
+        }
+      ]
+    },
+    {
+      "id": "461428986976396",
+      "text": "35\n0.19%\nUS$40.62\nUS$1.16\n—\n6\nUS$69.44\n58.50%\n1.71",
+      "cells": [
+        {
+          "col": "clicks",
+          "text": "35"
+        },
+        {
+          "col": "ctr",
+          "text": "0.19%"
+        },
+        {
+          "col": "spend",
+          "text": "US$40.62"
+        },
+        {
+          "col": "cpc",
+          "text": "US$1.16"
+        },
+        {
+          "col": "detailPageViews",
+          "text": "—"
+        },
+        {
+          "col": "orders",
+          "text": "6"
+        },
+        {
+          "col": "sales",
+          "text": "US$69.44"
+        },
+        {
+          "col": "acos",
+          "text": "58.50%"
+        },
+        {
+          "col": "roas",
+          "text": "1.71"
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "308876157259366",
+      "text": "12\n0.33%\nUS$9.37\nUS$0.78\n—\n3\nUS$27.47\n34.11%\n2.93",
+      "cells": [
+        {
+          "col": "clicks",
+          "text": "12"
+        },
+        {
+          "col": "ctr",
+          "text": "0.33%"
+        },
+        {
+          "col": "spend",
+          "text": "US$9.37"
+        },
+        {
+          "col": "cpc",
+          "text": "US$0.78"
+        },
+        {
+          "col": "detailPageViews",
+          "text": "—"
+        },
+        {
+          "col": "orders",
+          "text": "3"
+        },
+        {
+          "col": "sales",
+          "text": "US$27.47"
+        },
+        {
+          "col": "acos",
+          "text": "34.11%"
+        },
+        {
+          "col": "roas",
+          "text": "2.93"
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "374167236771880",
+      "text": "—\n—\n—\n—\n—\n—\n—\n—\n—",
+      "cells": [
+        {
+          "col": "clicks",
+          "text": "—"
+        },
+        {
+          "col": "ctr",
+          "text": "—"
+        },
+        {
+          "col": "spend",
+          "text": "—"
+        },
+        {
+          "col": "cpc",
+          "text": "—"
+        },
+        {
+          "col": "detailPageViews",
+          "text": "—"
+        },
+        {
+          "col": "orders",
+          "text": "—"
+        },
+        {
+          "col": "sales",
+          "text": "—"
+        },
+        {
+          "col": "acos",
+          "text": "—"
+        },
+        {
+          "col": "roas",
+          "text": "—"
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "415827187287573",
+      "text": "—\n—\n—\n—\n—\n—\n—\n—\n—",
+      "cells": [
+        {
+          "col": "clicks",
+          "text": "—"
+        },
+        {
+          "col": "ctr",
+          "text": "—"
+        },
+        {
+          "col": "spend",
+          "text": "—"
+        },
+        {
+          "col": "cpc",
+          "text": "—"
+        },
+        {
+          "col": "detailPageViews",
+          "text": "—"
+        },
+        {
+          "col": "orders",
+          "text": "—"
+        },
+        {
+          "col": "sales",
+          "text": "—"
+        },
+        {
+          "col": "acos",
+          "text": "—"
+        },
+        {
+          "col": "roas",
+          "text": "—"
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "517606677834497",
+      "text": "—\n—\n—\n—\n—\n—\n—\n—\n—",
+      "cells": [
+        {
+          "col": "clicks",
+          "text": "—"
+        },
+        {
+          "col": "ctr",
+          "text": "—"
+        },
+        {
+          "col": "spend",
+          "text": "—"
+        },
+        {
+          "col": "cpc",
+          "text": "—"
+        },
+        {
+          "col": "detailPageViews",
+          "text": "—"
+        },
+        {
+          "col": "orders",
+          "text": "—"
+        },
+        {
+          "col": "sales",
+          "text": "—"
+        },
+        {
+          "col": "acos",
+          "text": "—"
+        },
+        {
+          "col": "roas",
+          "text": "—"
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "493676027000961",
+      "text": "—\n—\n—\n—\n—\n—\n—\n—\n—",
+      "cells": [
+        {
+          "col": "clicks",
+          "text": "—"
+        },
+        {
+          "col": "ctr",
+          "text": "—"
+        },
+        {
+          "col": "spend",
+          "text": "—"
+        },
+        {
+          "col": "cpc",
+          "text": "—"
+        },
+        {
+          "col": "detailPageViews",
+          "text": "—"
+        },
+        {
+          "col": "orders",
+          "text": "—"
+        },
+        {
+          "col": "sales",
+          "text": "—"
+        },
+        {
+          "col": "acos",
+          "text": "—"
+        },
+        {
+          "col": "roas",
+          "text": "—"
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "519338775636296",
+      "text": "—\n—\n—\n—\n—\n—\n—\n—\n—",
+      "cells": [
+        {
+          "col": "clicks",
+          "text": "—"
+        },
+        {
+          "col": "ctr",
+          "text": "—"
+        },
+        {
+          "col": "spend",
+          "text": "—"
+        },
+        {
+          "col": "cpc",
+          "text": "—"
+        },
+        {
+          "col": "detailPageViews",
+          "text": "—"
+        },
+        {
+          "col": "orders",
+          "text": "—"
+        },
+        {
+          "col": "sales",
+          "text": "—"
+        },
+        {
+          "col": "acos",
+          "text": "—"
+        },
+        {
+          "col": "roas",
+          "text": "—"
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "445121795445558",
+      "text": "—\n—\n—\n—\n—\n—\n—\n—\n—",
+      "cells": [
+        {
+          "col": "clicks",
+          "text": "—"
+        },
+        {
+          "col": "ctr",
+          "text": "—"
+        },
+        {
+          "col": "spend",
+          "text": "—"
+        },
+        {
+          "col": "cpc",
+          "text": "—"
+        },
+        {
+          "col": "detailPageViews",
+          "text": "—"
+        },
+        {
+          "col": "orders",
+          "text": "—"
+        },
+        {
+          "col": "sales",
+          "text": "—"
+        },
+        {
+          "col": "acos",
+          "text": "—"
+        },
+        {
+          "col": "roas",
+          "text": "—"
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "337215708798853",
+      "text": "—\n—\n—\n—\n—\n—\n—\n—\n—",
+      "cells": [
+        {
+          "col": "clicks",
+          "text": "—"
+        },
+        {
+          "col": "ctr",
+          "text": "—"
+        },
+        {
+          "col": "spend",
+          "text": "—"
+        },
+        {
+          "col": "cpc",
+          "text": "—"
+        },
+        {
+          "col": "detailPageViews",
+          "text": "—"
+        },
+        {
+          "col": "orders",
+          "text": "—"
+        },
+        {
+          "col": "sales",
+          "text": "—"
+        },
+        {
+          "col": "acos",
+          "text": "—"
+        },
+        {
+          "col": "roas",
+          "text": "—"
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "324590213771716",
+      "text": "—\n—\n—\n—\n—\n—\n—\n—\n—",
+      "cells": [
+        {
+          "col": "clicks",
+          "text": "—"
+        },
+        {
+          "col": "ctr",
+          "text": "—"
+        },
+        {
+          "col": "spend",
+          "text": "—"
+        },
+        {
+          "col": "cpc",
+          "text": "—"
+        },
+        {
+          "col": "detailPageViews",
+          "text": "—"
+        },
+        {
+          "col": "orders",
+          "text": "—"
+        },
+        {
+          "col": "sales",
+          "text": "—"
+        },
+        {
+          "col": "acos",
+          "text": "—"
+        },
+        {
+          "col": "roas",
+          "text": "—"
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "480233053368681",
+      "text": "—\n—\n—\n—\n—\n—\n—\n—\n—",
+      "cells": [
+        {
+          "col": "clicks",
+          "text": "—"
+        },
+        {
+          "col": "ctr",
+          "text": "—"
+        },
+        {
+          "col": "spend",
+          "text": "—"
+        },
+        {
+          "col": "cpc",
+          "text": "—"
+        },
+        {
+          "col": "detailPageViews",
+          "text": "—"
+        },
+        {
+          "col": "orders",
+          "text": "—"
+        },
+        {
+          "col": "sales",
+          "text": "—"
+        },
+        {
+          "col": "acos",
+          "text": "—"
+        },
+        {
+          "col": "roas",
+          "text": "—"
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "[object Object]",
+      "text": "总计: 11",
+      "cells": [
+        {
+          "col": "ag-Grid-SelectionColumn",
+          "text": ""
+        },
+        {
+          "col": "campaignHealth",
+          "text": ""
+        },
+        {
+          "col": "state",
+          "text": ""
+        },
+        {
+          "col": "name",
+          "text": "总计: 11"
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "[object Object]",
+      "text": "47\n0.22%\nUS$49.99\nUS$1.06\n—\n9\nUS$96.91\n51.58%\n1.94",
+      "cells": [
+        {
+          "col": "clicks",
+          "text": "47"
+        },
+        {
+          "col": "ctr",
+          "text": "0.22%"
+        },
+        {
+          "col": "spend",
+          "text": "US$49.99"
+        },
+        {
+          "col": "cpc",
+          "text": "US$1.06"
+        },
+        {
+          "col": "detailPageViews",
+          "text": "—"
+        },
+        {
+          "col": "orders",
+          "text": "9"
+        },
+        {
+          "col": "sales",
+          "text": "US$96.91"
+        },
+        {
+          "col": "acos",
+          "text": "51.58%"
+        },
+        {
+          "col": "roas",
+          "text": "1.94"
+        }
+      ],
+      "links": []
+    }
+  ]
+}

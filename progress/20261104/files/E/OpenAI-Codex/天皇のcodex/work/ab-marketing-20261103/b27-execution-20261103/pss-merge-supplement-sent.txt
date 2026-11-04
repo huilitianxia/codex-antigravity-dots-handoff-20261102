@@ -1,0 +1,5 @@
+Please merge duplicate product detail pages for 4A PSS 32x6. Retain target ASIN B08CVLH794 and merge source ASIN B08DKJ2K3T into it; do not reverse this direction.
+
+Both pages describe the same manufacturer model and retail pack: six full-adhesive sticky-note rolls with dispensers, six neon colors, 0.6 x 393 inches per roll. The 2026 product master maps both ASINs to PSS 32x6. Their catalog UPCs differ: target 702877126578; source 702877126561. Please verify product identity and resolve the catalog/brand discrepancy before approving the merge. The target detail page currently displays brand 4A.
+
+Source ASIN has 39 available FBA units and a recent pending FBA order. Target already has an FBA SKU with zero available stock and an active FBM offer, SKU 4A PSS32x6-B08CV-FBM, with 835 units. Please preserve existing orders and fulfillment method, correctly associate existing FBA inventory/FNSKUs with the retained ASIN, and prevent stranded or duplicated inventory. FBM stock must remain separate from physical FBA stock. Please confirm the retained ASIN, offer/inventory mapping, and merge result.

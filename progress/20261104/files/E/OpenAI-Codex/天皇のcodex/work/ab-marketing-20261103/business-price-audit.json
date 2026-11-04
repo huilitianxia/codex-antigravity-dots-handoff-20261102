@@ -1,0 +1,40 @@
+{
+  "rule": "Business Catalog Rule by Amazon",
+  "state": "ACTIVE",
+  "linkedSkuCount": 102,
+  "base": 0.02,
+  "tiers": [
+    {
+      "qty": 2,
+      "discount": 0.03
+    },
+    {
+      "qty": 5,
+      "discount": 0.05
+    },
+    {
+      "qty": 10,
+      "discount": 0.07
+    }
+  ],
+  "relativeTo": "STANDARD",
+  "preserveManualPrices": true,
+  "samples": [
+    {
+      "sku": "4A 304 Full Glue-FBM",
+      "standard": 9.99,
+      "business": 9.79
+    },
+    {
+      "sku": "4A FBM-5082-Y-L",
+      "standard": 11.99,
+      "business": 11.75
+    },
+    {
+      "sku": "4A 5059-B00SM-FBM",
+      "standard": 6.99,
+      "business": 6.85
+    }
+  ],
+  "buyerCheckoutTested": false
+}

@@ -1,0 +1,94 @@
+## Latest page snapshot
+uid=1183_0 RootWebArea "Amazon" url="https://sellercentral.amazon.com/automatepricingv2/managelistings/98584996612-CATALOG_B2B_QD?selectedMarketplace=ATVPDKIKX0DER"
+  uid=1183_1 navigation
+    uid=1183_2 button "菜单" expandable
+    uid=1183_3 link "Amazon" url="https://sellercentral.amazon.com/amazonsell"
+    uid=1183_4 button "4A (USA) LIMITED 美国" expandable
+    uid=1183_5 button "账户状况"
+    uid=1183_6 textbox "搜索任何内容" haspopup="menu"
+    uid=1183_7 button "询问卖家助手" description="卖家助手"
+    uid=1183_8 link "新增内容" description="新鲜出巢" url="https://sellercentral.amazon.com/featurereleases"
+    uid=1183_9 link "消息" description="您可以在任意页面顶部的搜索和设置旁边找到买家消息，因此无需离开当前工作页面，即可轻松回复买家。" url="https://sellercentral.amazon.com/messaging/inbox-v3?fi=responseNeeded&&"
+    uid=1183_10 button "帮助" description="帮助" haspopup="menu"
+    uid=1183_11 button "设置" description="设置" haspopup="menu"
+  uid=1183_12 navigation
+    uid=1183_13 button disableable disabled
+    uid=1183_14 link "管理交易" url="https://sellercentral.amazon.com/manage/finance/transactions"
+      uid=1183_15 StaticText "管理交易"
+    uid=1183_16 link "卖家大学" url="https://sellercentral.amazon.com/su/learn"
+      uid=1183_17 StaticText "卖家大学"
+    uid=1183_18 link "管理商品" url="https://sellercentral.amazon.com/amazonsell/manage-products"
+      uid=1183_19 StaticText "管理商品"
+    uid=1183_20 link "广告控制台" url="https://sellercentral.amazon.com/cm?source=ngs"
+      uid=1183_21 StaticText "广告控制台"
+    uid=1183_22 link "管理货件" url="https://sellercentral.amazon.com/manage/shipments"
+      uid=1183_23 StaticText "管理货件"
+    uid=1183_24 link "商品商机探测器" url="https://sellercentral.amazon.com/new-product-guidance"
+      uid=1183_25 StaticText "商品商机探测器"
+    uid=1183_26 link "品牌分析" url="https://sellercentral.amazon.com/brand-analytics"
+      uid=1183_27 StaticText "品牌分析"
+    uid=1183_28 link "A+ 商品描述管理器" url="https://sellercentral.amazon.com/enhanced-content/ref=xx_ebc_favb_xx"
+      uid=1183_29 StaticText "A+ 商品描述管理器"
+    uid=1183_30 link "业务报告" url="https://sellercentral.amazon.com/business-reports#/dashboard"
+      uid=1183_31 StaticText "业务报告"
+    uid=1183_32 link "亚马逊物流库存报告" url="https://sellercentral.amazon.com/reportcentral/WelcomePage"
+      uid=1183_33 StaticText "亚马逊物流库存报告"
+    uid=1183_34 link "商品报告" url="https://sellercentral.amazon.com/listing/reports"
+      uid=1183_35 StaticText "商品报告"
+    uid=1183_36 link "绩效通知" url="https://sellercentral.amazon.com/performance/notifications"
+      uid=1183_37 StaticText "绩效通知"
+    uid=1183_38 link "管理账户状况" url="https://sellercentral.amazon.com/performance/dashboard"
+      uid=1183_39 StaticText "管理账户状况"
+    uid=1183_40 button
+  uid=1183_41 button "✕"
+  uid=1183_42 link "自动定价" url="https://sellercentral.amazon.com/automatepricingv2/pricingrules/ref=xx_v2_brdcrmb_xx"
+    uid=1183_43 StaticText "自动定价"
+  uid=1183_44 StaticText "管理 SKU"
+  uid=1183_45 heading "管理 SKU" level="1"
+  uid=1183_46 link "了解更多信息" url="https://sellercentral.amazon.com/gp/help/201994820"
+    uid=1183_47 StaticText "了解更多信息"
+  uid=1183_48 link "常见问题" url="https://sell.amazon.com/tools/automate-pricing"
+    uid=1183_49 StaticText "常见问题"
+  uid=1183_50 StaticText "|"
+  uid=1183_51 link "帮助" url="https://sellercentral.amazon.com/help/hub/reference/201994820"
+    uid=1183_52 StaticText "帮助"
+  uid=1183_53 StaticText "将 SKU 添加到您的“Business Catalog Rule by Amazon”规则"
+  uid=1183_54 StaticText "店铺"
+  uid=1183_55 StaticText ":"
+  uid=1183_56 generic "美国"
+    uid=1183_57 StaticText "美国"
+    uid=1183_58 StaticText "("
+    uid=1183_59 StaticText "US"
+    uid=1183_60 StaticText ")"
+  uid=1183_62 StaticText "搜索所有字段"
+  uid=1183_63 textbox "搜索 SKU、商品名称、ISBN 等" disableable disabled value="4A GM30315"
+  uid=1183_64 button "搜索" disableable disabled
+    uid=1183_65 generic disableable disabled
+  uid=1183_67 StaticText "筛选条件"
+  uid=1183_68 button "更多筛选条件" disableable disabled
+    uid=1183_69 generic disableable disabled
+  uid=1183_70 checkbox "undefined" disableable disabled
+  uid=1183_71 StaticText "仅显示已暂停的报价？"
+  uid=1183_72 button "通过上传文件来管理 SKU"
+    uid=1183_73 generic
+  uid=1183_74 StaticText "50 条结果"
+  uid=1245_0 button "清除所有筛选条件"
+    uid=1245_1 generic
+  uid=1183_2448 StaticText "每页显示的结果数"
+  uid=1183_2450 StaticText "50"
+  uid=1183_2451 button "上一页" disableable disabled
+    uid=1183_2452 generic disableable disabled
+  uid=1183_2453 StaticText "页"
+  uid=1183_2454 StaticText " "
+  uid=1183_2455 StaticText "1"
+  uid=1183_2456 button "下一页" disableable disabled
+    uid=1183_2457 generic disableable disabled
+  uid=1183_2458 generic live="polite" relevant="additions text"
+  uid=1183_2459 link "站点地图" url="https://sellercentral.amazon.com/sitemap"
+    uid=1183_2460 StaticText "站点地图"
+  uid=1183_2461 link " 计划政策" url="https://sellercentral.amazon.com/help/hub/reference/521"
+    uid=1183_2462 StaticText " 计划政策"
+  uid=1183_2463 StaticText "© 1999-2026，Amazon.com, Inc. 或其附属公司"
+  uid=1183_2464 link "反馈" url="https://sellercentral.amazon.com/automatepricingv2/managelistings/98584996612-CATALOG_B2B_QD?selectedMarketplace=ATVPDKIKX0DER#"
+    uid=1183_2465 StaticText "反馈"
+  uid=1183_2466 generic live="polite" relevant="additions text"

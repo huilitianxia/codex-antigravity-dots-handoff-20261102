@@ -1,0 +1,102 @@
+{
+  "tags": [
+    "NAVIGATION-FAVORITES-BUTTON",
+    "KAT-MODAL",
+    "KAT-LINK",
+    "KAT-BUTTON",
+    "KAT-BLUEPRINT-WORKFLOW",
+    "KAT-BLUEPRINT-WORKFLOW-IDENTIFY",
+    "KAT-PAGE-HEADER",
+    "KAT-LAYOUT",
+    "KAT-BLUEPRINT-WORKFLOW-FOCUS",
+    "KAT-WORKFLOWTRACKER",
+    "KAT-WORKFLOWTRACKER-STEP",
+    "KAT-ICON",
+    "KAT-INPUT",
+    "KAT-LABEL",
+    "KAT-TOOLTIP",
+    "KAT-REGION-SELECTOR",
+    "KAT-RADIOBUTTON-GROUP",
+    "KAT-RADIOBUTTON",
+    "KAT-DATE-PICKER",
+    "KAT-ACTION-BAR",
+    "KAT-TOAST-GROUP"
+  ],
+  "selectors": [
+    {
+      "tag": "KAT-INPUT",
+      "label": "促销名称",
+      "value": "",
+      "attrs": {
+        "label": "促销名称",
+        "type": "text",
+        "placeholder": "输入促销名称（最多 100 个字符）"
+      }
+    },
+    {
+      "tag": "KAT-REGION-SELECTOR",
+      "label": null,
+      "value": "",
+      "attrs": {
+        "value": ""
+      }
+    },
+    {
+      "tag": "KAT-INPUT",
+      "label": null,
+      "value": "",
+      "attrs": {
+        "placeholder": "搜索卖家......",
+        "value": "",
+        "type": "text"
+      }
+    },
+    {
+      "tag": "KAT-INPUT",
+      "label": null,
+      "value": "",
+      "attrs": {
+        "type": "number",
+        "placeholder": "输入总折扣金额"
+      }
+    },
+    {
+      "tag": "KAT-INPUT",
+      "label": null,
+      "value": "百分比折扣 2026/11/03 3-8-50-899",
+      "attrs": {
+        "type": "text"
+      }
+    },
+    {
+      "tag": "KAT-DATE-PICKER",
+      "label": null,
+      "value": "",
+      "attrs": {}
+    },
+    {
+      "tag": "KAT-INPUT",
+      "label": null,
+      "value": "00:00:00",
+      "attrs": {
+        "type": "time",
+        "value": "00:00:00"
+      }
+    },
+    {
+      "tag": "KAT-DATE-PICKER",
+      "label": null,
+      "value": "",
+      "attrs": {}
+    },
+    {
+      "tag": "KAT-INPUT",
+      "label": null,
+      "value": "23:59:59",
+      "attrs": {
+        "type": "time",
+        "value": "23:59:59"
+      }
+    }
+  ]
+}

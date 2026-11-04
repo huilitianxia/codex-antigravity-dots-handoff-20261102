@@ -1,0 +1,22 @@
+{
+  "status": "running",
+  "records": [
+    {
+      "id": "B14",
+      "asin": "B07Z2555TN",
+      "sku": "4A 404AC-B07Z-FBM",
+      "present": true,
+      "chunk": "  uid=159_22 checkbox\n  uid=159_23 StaticText \"报价缺失\"\n  uid=159_24 StaticText \"报价缺失\"\n  uid=159_25 link \"添加缺失的商品详情\" url=\"https://sellercentral.amazon.com/interactive/listing/workflow/edit?sku=4A+404AC-B07Z-FBM&asin=B07Z2555TN&marketplaceID=ATVPDKIKX0DER&productType=SELF_STICK_NOTE&ref_=myp_unknown_target\"\n    uid=159_26 StaticText \"添加缺失的商品详情\"\n  uid=159_27 generic live=\"polite\" relevant=\"additions text\"\n  uid=159_28 StaticText \"2026年11月2日 23:38\"\n  uid=159_29 image \"商品图片\" url=\"https://m.media-amazon.com/images/I/51n8fRKUufL._SS65_.jpg\"\n  uid=159_30 link \"4A Self-Stick Notes, Neon Assorted, 4A 404-AC-Holder\" url=\"https://www.amazon.com/dp/B07Z2555TN\"\n    uid=159_31 StaticText \"4A\"\n    uid=159_32 StaticText \"Self-Stick\"\n    uid=159_33 StaticText \"Notes,\"\n    uid=159_34 StaticText \"Neon\"\n    uid=159_35 StaticText \"Assorted,\"\n    uid=159_36 StaticText \"4A\"\n    uid=159_37 StaticText \"404-AC-Holder\"\n  uid=159_38 StaticText \"B07Z2555TN\"\n  uid=159_39 StaticText \"ASIN\"\n  uid=159_40 StaticText \"B07Z2555TN\"\n  uid=159_41 StaticText \"SKU\"\n  uid=159_42 link \"4A 404AC-B07Z-FBM\" url=\"https://sellercentral.amazon.com/skucentral?mSku=4A+404AC-B07Z-FBM&condition=New&ref_=myp_skuc\"\n    uid=159_43 StaticText \"4A 404AC-B07Z-FBM\"\n  uid=159_44 StaticText \"状况\"\n  uid=159_45 StaticText \"新品\"\n  uid=159_46 StaticText \"销售额\"\n  uid=159_47 StaticText \"销售额\"\n  uid=159_48 StaticText \"--\"\n  uid=159_49 StaticText \"--\"\n  uid=159_50 StaticText \"售出件数\"\n  uid=159_51 StaticText \"--\"\n  uid=159_52 StaticText \"页面浏览量\"\n  uid=159_53 StaticText \"--\"\n  uid=159_54 StaticText \"销售排名\"\n  uid=159_55 StaticText \"316,433\"\n  uid=159_56 StaticText \"(Office Products)\"\n  uid=159_57 StaticText \"有货（卖家自配送）\"\n  uid=159_58 StaticText \"有货（卖家自配送）\"\n  uid=159_59 textbox required value=\"0\"\n  uid=159_60 StaticText \"配送模板\"\n  uid=159_61 link \"Migrated Template\" url=\"https://sellercentral.amazon.com/sbr?ref=myi_shiptemplate_sbr#legacy-template-id\"\n    uid=159_62 StaticText \"Migrated Template\"\n  uid=159_63 LineBreak \"\n\"\n  uid=159_64 StaticText \"推荐报价\"\n  uid=159_65 StaticText \"--\"\n  uid=159_66 StaticText \"有竞争力的价格\"\n  uid=159_67 StaticText \"--\"\n  uid=159_68 StaticText \"最低价\"\n  uid=159_69 StaticText \"--\"\n  uid=159_70 note \"Info: 设置企业商品价格以优化商品信息，促进企业买家销售。\"\n  uid=159_71 StaticText \"企业商品价格\"\n  uid=159_72 StaticText \"设置\"\n  uid=159_73 generic live=\"polite\" relevant=\"additions text\"\n  uid=159_74 StaticText \"查看参考价\"\n  uid=159_75 StaticText \"查看参考价\"\n  uid=159_76 button \"打开下拉菜单\" expandable haspopup=\"menu\"",
+      "checked_at": "2026-11-03T04:40:39.852Z"
+    },
+    {
+      "id": "B7",
+      "asin": "B07DJXC4PJ",
+      "sku": "4A 2028-N-B07DJ-FBM",
+      "present": false,
+      "chunk": null,
+      "checked_at": "2026-11-03T04:40:45.096Z"
+    }
+  ],
+  "current": "B7"
+}

@@ -1,0 +1,64 @@
+{
+  "status": "draft-no-launch",
+  "new_daily": 5,
+  "current_13_daily": 39,
+  "combined_batch_daily_if_all_3": 44,
+  "end": "2026-11-10",
+  "bidding": "dynamic down-only",
+  "match": "EXACT only",
+  "records": [
+    {
+      "group": "B12",
+      "code": "PSS32x6",
+      "asin": "B08CVLH794",
+      "skus": [
+        "4A PSS32x6-B08CV-FBM"
+      ],
+      "daily": 2,
+      "bid": 0.25,
+      "keywords": [
+        "full adhesive sticky note roll",
+        "sticky note roll with dispenser",
+        "repositionable sticky paper roll",
+        "0.6 inch sticky note roll"
+      ],
+      "gate": "All selected new FBM offers independently buyable; newSKUstock/price/ASIN verified; no existing exact duplicate"
+    },
+    {
+      "group": "B14",
+      "code": "404ACHolder",
+      "asin": "B07Z2555TN",
+      "skus": [
+        "4A 404-AC-Holder",
+        "4A 404AC-B07Z-FBM"
+      ],
+      "daily": 2,
+      "bid": 0.25,
+      "keywords": [
+        "sticky note and pen holder",
+        "4x4 sticky note holder",
+        "acrylic sticky note holder with pen holder",
+        "sticky note holder set"
+      ],
+      "gate": "MFN shipping-- unresolved; do not launch yet"
+    },
+    {
+      "group": "B7",
+      "code": "2028N",
+      "asin": "B07DJXC4PJ",
+      "skus": [
+        "4A 2028-N-FBA",
+        "4A 2028-N-B07DJ-FBM"
+      ],
+      "daily": 1,
+      "bid": 0.1,
+      "keywords": [
+        "2x2 sticky notes",
+        "colored sticky notes 2x2",
+        "sticky notes 8 pads",
+        "2x2 sticky notes bulk"
+      ],
+      "gate": "MFN shipping-- unresolved; Amazon retail4.52 vsownFBA8.99 do not blindly match loss price; qualify before launch"
+    }
+  ]
+}

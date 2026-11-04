@@ -1,0 +1,158 @@
+{
+  "read_at": "2026-11-03T11:17:40.462Z",
+  "url": "https://sellercentral.amazon.com/orders-v3/mfn/shipped?date-range=last-30&salesChannelMFN=ATVPDKIKX0DER&page=1",
+  "date": "最近 30 天",
+  "headers": [
+    "",
+    "订单日期",
+    "订单详情",
+    "图片",
+    "商品名称",
+    "指导详细信息",
+    "订单类型",
+    "订单状态",
+    "操作"
+  ],
+  "rows": [
+    {
+      "order": "111-5581504-5458663",
+      "date": "19 小时 前\n2026/11/2\n08:33 PST",
+      "asin": "B01N6J0VZO",
+      "sku": "4A 302 Full Glue",
+      "quantity": "1",
+      "item_subtotal": "US$2.99",
+      "status": null,
+      "product_links": []
+    },
+    {
+      "order": "113-1498108-9484208",
+      "date": "20 小时 前\n2026/11/2\n06:57 PST",
+      "asin": "B01MSZSEBW",
+      "sku": "4A 406x6-N",
+      "quantity": "1",
+      "item_subtotal": "US$11.99",
+      "status": null,
+      "product_links": []
+    },
+    {
+      "order": "113-5204302-5317845",
+      "date": "2 天 前\n2026/10/31\n21:39 PDT",
+      "asin": "B07FK8ML41",
+      "sku": "4A GM302-Full Glue*3",
+      "quantity": "1",
+      "item_subtotal": "US$7.99",
+      "status": null,
+      "product_links": []
+    },
+    {
+      "order": "112-4834983-0088232",
+      "date": "4 天 前\n2026/10/30\n15:58 PDT",
+      "asin": "B00V9Z5PS2",
+      "sku": "4A PSS 9-5 NB",
+      "quantity": "1",
+      "item_subtotal": "US$8.99",
+      "status": null,
+      "product_links": []
+    },
+    {
+      "order": "111-8884304-4326628",
+      "date": "4 天 前\n2026/10/30\n07:34 PDT",
+      "asin": "B01MU5BGNQ",
+      "sku": "4A0102",
+      "quantity": "3",
+      "item_subtotal": "US$29.97",
+      "status": null,
+      "product_links": []
+    },
+    {
+      "order": "113-3942928-8209854",
+      "date": "6 天 前\n2026/10/28\n05:39 PDT",
+      "asin": "B07FKGDMPS",
+      "sku": "4A GMSCMC 434",
+      "quantity": "1",
+      "item_subtotal": "US$17.99",
+      "status": null,
+      "product_links": []
+    },
+    {
+      "order": "111-5008539-7415433",
+      "date": "1 周 前\n2026/10/26\n12:58 PDT",
+      "asin": "B01MU5BGNQ",
+      "sku": "4A0102",
+      "quantity": "1",
+      "item_subtotal": "US$9.99",
+      "status": null,
+      "product_links": []
+    },
+    {
+      "order": "112-7414353-4523403",
+      "date": "1 周 前\n2026/10/26\n06:19 PDT",
+      "asin": "B00SMEF542",
+      "sku": "4A 40623",
+      "quantity": "1",
+      "item_subtotal": "US$7.39",
+      "status": null,
+      "product_links": []
+    },
+    {
+      "order": "111-2144827-7886620",
+      "date": "1 周 前\n2026/10/25\n18:28 PDT",
+      "asin": "B077Q9ZBBG",
+      "sku": "4A 0167",
+      "quantity": "1",
+      "item_subtotal": "US$5.99",
+      "status": null,
+      "product_links": []
+    },
+    {
+      "order": "112-6771639-7321023",
+      "date": "2 周 前\n2026/10/20\n13:41 PDT",
+      "asin": "B07K8KJ83T",
+      "sku": "4A BS 1803",
+      "quantity": "1",
+      "item_subtotal": "US$11.99",
+      "status": null,
+      "product_links": []
+    },
+    {
+      "order": "111-7800385-1537818",
+      "date": "2 周 前\n2026/10/17\n22:31 PDT",
+      "asin": "B00SMEDUWQ",
+      "sku": "4A092",
+      "quantity": "2",
+      "item_subtotal": "US$23.98",
+      "status": null,
+      "product_links": []
+    },
+    {
+      "order": "112-9804661-4782608",
+      "date": "3 周 前\n2026/10/15\n07:00 PDT",
+      "asin": "B00V9Z5PS2",
+      "sku": "4A PSS 9-5 NB",
+      "quantity": "1",
+      "item_subtotal": "US$8.99",
+      "status": null,
+      "product_links": []
+    },
+    {
+      "order": "114-2000491-7582643",
+      "date": "3 周 前\n2026/10/15\n00:58 PDT",
+      "asin": "B07KPF9PFX",
+      "sku": "4A SN301x12-N",
+      "quantity": "8",
+      "item_subtotal": "US$55.92",
+      "status": null,
+      "product_links": []
+    },
+    {
+      "order": "112-4497197-9856212",
+      "date": "4 周 前\n2026/10/7\n10:26 PDT",
+      "asin": "B01MDJ91BV",
+      "sku": "4A094",
+      "quantity": "1",
+      "item_subtotal": "US$11.39",
+      "status": null,
+      "product_links": []
+    }
+  ]
+}

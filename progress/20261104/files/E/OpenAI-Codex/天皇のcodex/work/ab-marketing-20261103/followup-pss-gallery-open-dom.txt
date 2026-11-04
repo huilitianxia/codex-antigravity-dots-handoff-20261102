@@ -1,0 +1,22 @@
+## Latest page snapshot
+uid=2421_0 RootWebArea "Amazon.com : 4A Roll Sticky Notes with Dispenser,Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6 : Office Products" url="https://www.amazon.com/dp/B08DKJ2K3T?th=1"
+  uid=2421_1 StaticText "卖家精灵"
+  uid=2421_1392 generic atomic live="polite" relevant="additions text"
+  uid=2422_0 dialog "ImmersiveView" modal
+    uid=2422_1 generic
+    uid=2422_2 button "Close" focusable focused
+    uid=2422_3 tab "视频" selectable
+      uid=2422_4 link "视频" url="https://www.amazon.com/dp/B08DKJ2K3T?th=1#"
+    uid=2422_5 tab "图片" selectable selected
+      uid=2422_6 link "图片" url="https://www.amazon.com/dp/B08DKJ2K3T?th=1#"
+    uid=2422_7 button "放大"
+    uid=2422_8 button "缩小" disableable disabled
+    uid=2422_9 button "放大图像"
+    uid=2422_10 StaticText "4A Roll Sticky Notes with Dispenser,Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6"
+    uid=2422_11 button "Thumbnail image 1" pressed
+    uid=2422_12 button "Thumbnail image 2"
+    uid=2422_13 button "Thumbnail image 3"
+    uid=2422_14 button "Thumbnail image 4"
+    uid=2422_15 button "Thumbnail image 5"
+    uid=2422_16 button "Thumbnail image 6"
+    uid=2422_17 generic

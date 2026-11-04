@@ -1,0 +1,106 @@
+{
+  "@context": "https://schema.org/",
+  "@graph": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "name": "Home",
+            "@id": "https://4apaper.com"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "name": "Memo Cube",
+            "@id": "https://4apaper.com/product-category/memo-cube/"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "name": "4A Sticky memo cube,2 1/2-inches, bubble patterned on the sides, About 500 sheets/cube,1 cube/pack, 4A SMC 434",
+            "@id": "https://4apaper.com/product/4a-sticky-memo-cube-2-1-2-inches-bubble-patterned-on-the-sides-about-500-sheets-cube-1-cube-pack-4a-smc-434/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "@id": "https://4apaper.com/product/4a-sticky-memo-cube-2-1-2-inches-bubble-patterned-on-the-sides-about-500-sheets-cube-1-cube-pack-4a-smc-434/#product",
+      "name": "4A Sticky memo cube,2 1/2-inches, bubble patterned on the sides, About 500 sheets/cube,1 cube/pack, 4A SMC 434",
+      "url": "https://4apaper.com/product/4a-sticky-memo-cube-2-1-2-inches-bubble-patterned-on-the-sides-about-500-sheets-cube-1-cube-pack-4a-smc-434/",
+      "description": "[Color and size] 2 1/2 inches, Bubble Patterned On The Sides,About 500 Sheets/Cube,1 Cube/Pack\r\n\r\n \t\r\n[Features] Unique design makes Sticky notes look more special, paper edge cutting is smooth, unique shape looks cute\r\n\r\n \t\r\n[Application] Great for jotting down quick messages and brainstorming meetings where ideas get captured\r\n\r\n \t\r\n[Recyclable] 4A sticky notes are recyclable\r\n\r\n \t\r\n[4A brand] High quality,good price!\r\n\r\n \t\r\nUPC: 702877124000",
+      "image": "https://4apaper.com/wp-content/uploads/2015/08/1-4A-SMC-434.jpg",
+      "sku": "4A SMC 434",
+      "offers": [
+        {
+          "@type": "Offer",
+          "priceSpecification": [
+            {
+              "@type": "UnitPriceSpecification",
+              "price": "9.99",
+              "priceCurrency": "USD",
+              "validThrough": "2027-12-31",
+              "valueAddedTaxIncluded": false
+            }
+          ],
+          "priceValidUntil": "2027-12-31",
+          "availability": "https://schema.org/OutOfStock",
+          "url": "https://4apaper.com/product/4a-sticky-memo-cube-2-1-2-inches-bubble-patterned-on-the-sides-about-500-sheets-cube-1-cube-pack-4a-smc-434/",
+          "seller": {
+            "@type": "Organization",
+            "name": "High Quality Sticky Notes by 4A",
+            "url": "https://4apaper.com"
+          },
+          "price": "9.99",
+          "priceCurrency": "USD"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5.00",
+        "reviewCount": 2
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "bestRating": "5",
+            "ratingValue": "5",
+            "worstRating": "1"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Paul"
+          },
+          "reviewBody": "Love these cubes; perfect for me.",
+          "datePublished": "2019-02-26T02:41:24-08:00"
+        },
+        {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "bestRating": "5",
+            "ratingValue": "5",
+            "worstRating": "1"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Michael"
+          },
+          "reviewBody": "Cute design! I love it!",
+          "datePublished": "2019-02-25T23:02:07-08:00"
+        }
+      ]
+    }
+  ]
+}

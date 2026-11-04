@@ -1,0 +1,16 @@
+Subject: Two Active US MFN offers have unresolved shipping quotes and are absent from buying options
+
+Please investigate two US seller-fulfilled offers that show Active with 10 units each in Seller Central, but are absent from buying options for US ZIP 75001. Shipping is shown as "--" in SKU Central, not as a confirmed $0 shipping charge.
+
+1. ASIN B07Z2555TN; SKU 4A 404AC-B07Z-FBM; item price $15.99; quantity 10.
+2. ASIN B07DJXC4PJ; SKU 4A 2028-N-B07DJ-FBM; item price $4.99; quantity 10.
+
+Both are New/MFN and assigned to Migrated Template (legacy-template-id). The existing FBA offers on these ASINs remain available. The original MFN counterparts are still maintained on B07WK3JX6K and B07F295V3S; stock was allocated between the old and new SKUs rather than duplicated.
+
+Working control: ASIN B08CVLH794, SKU 4A PSS32x6-B08CV-FBM, using the same Migrated Template, is publicly buyable for ZIP 75001 at $13.99 plus $4.99 shipping. Its consolidated MFN inventory is 835.
+
+For the two affected offers, the offer start date is November 2, 2026. No future restock date is set. Handling-time overrides are blank, as on the working control. Catalog package-weight values exist; we have not invented or overwritten weights.
+
+We reassigned the original template for the 404 SKU and also switched that SKU temporarily to an existing alternative, then restored Migrated Template. Independent reloads and US buying-options checks still show unresolved shipping and no MFN offer for these two SKUs.
+
+Please inspect the resolved merchant shipping-group ID, default ship-from routing, shipping-quote failure code and actual buyability reason for both SKUs. Recalculate/refresh the offer associations or tell us the specific correction required. Please preserve item prices, inventory allocations, FBA offers and shared shipping-template rules.

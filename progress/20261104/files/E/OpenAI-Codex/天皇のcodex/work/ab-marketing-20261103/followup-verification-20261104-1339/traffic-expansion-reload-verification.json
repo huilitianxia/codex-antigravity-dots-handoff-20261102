@@ -1,0 +1,69 @@
+[
+  {
+    "product": "301N",
+    "campaignId": "A1002295TRUEWQ3Y1Z9M",
+    "bids": [
+      0.75,
+      0.75,
+      0.7,
+      0.5
+    ],
+    "enabled": [
+      true,
+      false,
+      true,
+      true
+    ],
+    "verifiedAt": "2026-11-04T07:28:51.242Z"
+  },
+  {
+    "product": "30315",
+    "campaignId": "A021503112Y3T4D71FBB",
+    "bids": [
+      0.75,
+      0.75,
+      0.65,
+      0.5
+    ],
+    "enabled": [
+      true,
+      false,
+      true,
+      true
+    ],
+    "verifiedAt": "2026-11-04T07:29:42.676Z"
+  },
+  {
+    "product": "4012",
+    "bids": [
+      0.7,
+      0.75,
+      0.6,
+      0.5
+    ],
+    "enabled": [
+      true,
+      false,
+      true,
+      true
+    ],
+    "verifiedAt": "2026-11-04T07:31:59.110Z"
+  },
+  {
+    "product": "BS1801",
+    "campaignId": "A00035661LNO7Z0N7F87A",
+    "bids": [
+      0.75,
+      0.75,
+      0.75,
+      0.45
+    ],
+    "enabled": [
+      true,
+      false,
+      true,
+      true
+    ],
+    "verifiedAt": "2026-11-04T07:32:16.477Z"
+  }
+]
