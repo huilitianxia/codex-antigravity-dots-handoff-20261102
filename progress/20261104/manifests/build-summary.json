@@ -25,5 +25,6 @@
   "dragon_cloud_export_included": false,
   "large_release_files": 1,
   "large_release_file_bytes": 149436186,
-  "business_files_including_release": 3684
+  "business_files_including_release": 3684,
+  "excluded_runtime_directories": 5
 }

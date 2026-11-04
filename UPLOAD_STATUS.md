@@ -1,5 +1,7 @@
 # 上传与校验完成
 
+> **最新补充已上传并验收：北京时间 2026-11-04 18:14。** [Antigravity 接手入口](progress/20261104/README.md) · [验收回执](progress/20261104/manifests/UPLOAD_RECEIPT.json) · [原片附件](https://github.com/huilitianxia/codex-antigravity-dots-handoff-20261102/releases/tag/4a-amazon-update-20261104)。638 条近期对话消息、6,033 条公开记录、3,683 份直接入库的业务文件、114 张嵌入图片，以及 1 段 149 MB 原片均已实际上传；数据提交全部 Git 文件哈希和原片服务器 SHA-256 一致，关键入口及附件均可匿名读取。旧归档保留，Dragon 另行导入；用户冻结后的店铺和广告未再改动。下文为 11/2 原始上传记录。
+
 完成日期：2026-11-02（北京时间）。仓库保持私有。
 
 - 20个业务记录来源：Codex 9个、Antigravity 11个，包含相关子代理；无关对话已排除。
