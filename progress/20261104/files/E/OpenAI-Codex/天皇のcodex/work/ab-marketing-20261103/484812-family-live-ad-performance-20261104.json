@@ -1,0 +1,37 @@
+{
+  "source": "D:\\下载文件\\Campaign_Nov_4_2026 (11).csv",
+  "US_date": "2026-11-03",
+  "rows": [
+    {
+      "campaign": "A076106617HP171QF1Y50",
+      "name": "SP_REACTIVATE_B5_30132_EXACT_20261102",
+      "status": "进行中",
+      "budget": "US$1.00",
+      "impressions": 0,
+      "clicks": 0,
+      "spend": "US$0.00",
+      "orders": 0
+    },
+    {
+      "campaign": "A01532032232LQS5VVH5H",
+      "name": "SP_REACTIVATE_B6_354832_EXACT_20261102",
+      "status": "进行中",
+      "budget": "US$1.00",
+      "impressions": 0,
+      "clicks": 0,
+      "spend": "US$0.00",
+      "orders": 0
+    },
+    {
+      "campaign": "A065124016N4SI5FF9GDM",
+      "name": "SP_VC_REVIEW_R006_30124_VC_EXACT_20261103",
+      "status": "进行中",
+      "budget": "US$2.00",
+      "impressions": 0,
+      "clicks": 0,
+      "spend": "US$0.00",
+      "orders": 0
+    }
+  ],
+  "combined_daily_budget": 4
+}

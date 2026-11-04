@@ -1,0 +1,91 @@
+{
+  "url": "https://advertising.amazon.com/cm/sp/campaigns/A02033959R3UYQEOUERA/ad-groups/A088295636BHV6O0CQIA5/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+  "footer": "3\n导出\nPress SPACE to select this row​\n\n全选\n\n进行中\n关键词\n投放匹配类型\n状态\n建议竞价\n竞价\n0 条规则已生效\n展示量\n搜索结果首页首位展示量份额\n总成本\n购买量\n5x8 lined sticky notes 4 pads\n5x8 内衬便利贴 4 张纸巾\n5x8 lined sticky notes 8 pads\n5x8 内衬便利贴 8 张纸巾\n5x8 sticky notes 200 sheets\n5x8 便利贴 200 张\n5x8 sticky notes 400 sheets\n5x8 便利贴 400 张\nlarge lined sticky notes 5 x 8\n大号内衬便利贴 5 x 8\n精准\n\n进行中\n\n无最新数据\n—\nUS$0.30\nUS$0.30\n—\n—\n—\n—\n精准\n\n已暂停\n\n无最新数据\n—\nUS$0.30\nUS$0.30\n—\n—\n—\n—\n精准\n\n进行中\n\n无最新数据\n—\nUS$0.30\nUS$0.30\n—\n—\n—\n—\n精准\n\n已暂停\n\n无最新数据\n—\nUS$0.30\nUS$0.30\n—\n—\n—\n—\n精准\n\n进行中\n\n无最新数据\n—\nUS$0.30\nUS$0.30\n—\n—\n—\n—\n总计: 5\n—\n—\n—\n—\n© 2026 Amazon.com, Inc. 或其附属公司。\n使用条款\n隐私声明\n亚马逊广告协议\n請求支持\n状态",
+  "rows": [
+    {
+      "id": "72025852145188",
+      "cells": {
+        "target": "5x8 lined sticky notes 4 pads\n5x8 内衬便利贴 4 张纸巾",
+        "matchType": "精准",
+        "status": "进行中",
+        "suggestedBid": "无最新数据\n—",
+        "bid": "US$0.30\nUS$0.30",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—"
+      },
+      "enabled": "true"
+    },
+    {
+      "id": "252388226398185",
+      "cells": {
+        "target": "5x8 lined sticky notes 8 pads\n5x8 内衬便利贴 8 张纸巾",
+        "matchType": "精准",
+        "status": "已暂停",
+        "suggestedBid": "无最新数据\n—",
+        "bid": "US$0.30\nUS$0.30",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—"
+      },
+      "enabled": "false"
+    },
+    {
+      "id": "225667925078352",
+      "cells": {
+        "target": "5x8 sticky notes 200 sheets\n5x8 便利贴 200 张",
+        "matchType": "精准",
+        "status": "进行中",
+        "suggestedBid": "无最新数据\n—",
+        "bid": "US$0.30\nUS$0.30",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—"
+      },
+      "enabled": "true"
+    },
+    {
+      "id": "160298084526409",
+      "cells": {
+        "target": "5x8 sticky notes 400 sheets\n5x8 便利贴 400 张",
+        "matchType": "精准",
+        "status": "已暂停",
+        "suggestedBid": "无最新数据\n—",
+        "bid": "US$0.30\nUS$0.30",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—"
+      },
+      "enabled": "false"
+    },
+    {
+      "id": "191879747713292",
+      "cells": {
+        "target": "large lined sticky notes 5 x 8\n大号内衬便利贴 5 x 8",
+        "matchType": "精准",
+        "status": "进行中",
+        "suggestedBid": "无最新数据\n—",
+        "bid": "US$0.30\nUS$0.30",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—"
+      },
+      "enabled": "true"
+    },
+    {
+      "id": "[object Object]",
+      "cells": {
+        "target": "总计: 5",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—"
+      }
+    }
+  ]
+}

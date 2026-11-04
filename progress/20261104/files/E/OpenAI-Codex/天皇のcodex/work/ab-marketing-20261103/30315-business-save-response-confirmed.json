@@ -1,0 +1,35 @@
+{
+  "at": "2026-11-03T13:06:38.736Z",
+  "calls": [
+    {
+      "kind": "xhr",
+      "method": "PUT",
+      "path": "https://sellercentral.amazon.com/b2b-insights-service/api/save-b2b-prices",
+      "body": {
+        "asin": "B07FKG29KB",
+        "sku": "4A GM30315",
+        "clientId": "MYP",
+        "b2bPrice": "11.49",
+        "quantityDiscount": {
+          "quantityDiscountTiers": [
+            {
+              "quantity": 3,
+              "price": "3"
+            },
+            {
+              "quantity": 5,
+              "price": "5"
+            },
+            {
+              "quantity": 10,
+              "price": "7"
+            }
+          ],
+          "quantityDiscountType": "PERCENT"
+        }
+      },
+      "status": 200,
+      "response": "[non-JSON body]"
+    }
+  ]
+}

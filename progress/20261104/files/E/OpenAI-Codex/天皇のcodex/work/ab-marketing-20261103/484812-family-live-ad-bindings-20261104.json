@@ -1,0 +1,209 @@
+{
+  "at": "2026-11-04T01:16:58.308Z",
+  "familyASINs": [
+    "B07PWM2X8Y",
+    "B07RP9LR73",
+    "B07FK6867S",
+    "B07FKGPCQM",
+    "B01N2YLQ23",
+    "B01LVXOCU2",
+    "B07FKF8M2B",
+    "B07FK81CQ6",
+    "B07RP9MSSG",
+    "B07MGH2KWS",
+    "B07RQ7JMV9",
+    "B07KPF9PFX",
+    "B07FK8LN8D",
+    "B0F7LW38FX",
+    "B07Q1ZPL56",
+    "B07F2B6JT9"
+  ],
+  "ads": [
+    {
+      "source": "approved-new",
+      "group": "R006",
+      "asin": "B01LVXOCU2",
+      "skus": [
+        "4A 004",
+        "4A 301x24"
+      ],
+      "campaign": "A065124016N4SI5FF9GDM",
+      "configuration": {
+        "campaign": "A065124016N4SI5FF9GDM",
+        "name": "SP_VC_REVIEW_R006_30124_VC_EXACT_20261103",
+        "group": "R006",
+        "budget": 2,
+        "actual": 2,
+        "status": "进行中",
+        "pass": true
+      },
+      "page": 238,
+      "url": "https://advertising.amazon.com/cm/sp/campaigns/A065124016N4SI5FF9GDM/ad-groups/180909644241765/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "live": {
+        "url": "https://advertising.amazon.com/cm/sp/campaigns/A065124016N4SI5FF9GDM/ad-groups/A03547763W1IOMAK57AMK/ads?entityId=ENTITY2EFMPU8GWXHSP",
+        "rows": [
+          {
+            "id": "A0404072EBO8C9SIDJ6S",
+            "cells": {
+              "adName": "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24 \n\nUS$12.99",
+              "status": "进行中",
+              "videoDetails": "添加视频",
+              "videoStatus": "无可用数据",
+              "asin": "4A 004\n\nB01LVXOCU2",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          {
+            "id": "A04039163FPRJ3Q4A4CFM",
+            "cells": {
+              "adName": "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24 \n\nUS$12.99",
+              "status": "进行中",
+              "videoDetails": "添加视频",
+              "videoStatus": "无可用数据",
+              "asin": "4A 301x24\n\nB01LVXOCU2",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          {
+            "id": "[object Object]",
+            "cells": {
+              "adName": "总计: 2",
+              "videoDetails": "总计: 2",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "source": "morning-retained",
+      "group": "B5",
+      "asin": "B07RQ7JMV9",
+      "skus": [
+        "4A GM30132",
+        "4A 30132"
+      ],
+      "campaign": "A076106617HP171QF1Y50",
+      "configuration": {
+        "campaign": "A076106617HP171QF1Y50",
+        "name": "SP_REACTIVATE_B5_30132_EXACT_20261102",
+        "group": "B5",
+        "budget": 1,
+        "actual": 1,
+        "status": "进行中",
+        "pass": true
+      },
+      "page": 239,
+      "url": "https://advertising.amazon.com/cm/sp/campaigns/A076106617HP171QF1Y50/ad-groups/A068068412ISHHTWCWVIF/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "live": {
+        "url": "https://advertising.amazon.com/cm/sp/campaigns/A076106617HP171QF1Y50/ad-groups/A068068412ISHHTWCWVIF/ads?entityId=ENTITY2EFMPU8GWXHSP",
+        "rows": [
+          {
+            "id": "A06968593CLFVNFUWMT3Q",
+            "cells": {
+              "adName": "4A 32 Pads Sticky Notes 1.5 x 2 in, Bright Colors, 100 Sheets/pad | Colored Small Sticky Notes Pads for Home, 3200 Sheets Total \n\nUS$11.04",
+              "status": "进行中",
+              "videoDetails": "添加视频",
+              "videoStatus": "无可用数据",
+              "asin": "4A GM30132\n\nB07RQ7JMV9 \n1 条建议",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          {
+            "id": "A069695930P0BQPO7D1H7",
+            "cells": {
+              "adName": "4A 32 Pads Sticky Notes 1.5 x 2 in, Bright Colors, 100 Sheets/pad | Colored Small Sticky Notes Pads for Home, 3200 Sheets Total \n\nUS$11.04",
+              "status": "进行中",
+              "videoDetails": "添加视频",
+              "videoStatus": "无可用数据",
+              "asin": "4A 30132\n\nB07RQ7JMV9 \n1 条建议",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          {
+            "id": "[object Object]",
+            "cells": {
+              "adName": "总计: 2",
+              "videoDetails": "总计: 2",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "source": "morning-retained",
+      "group": "B6",
+      "asin": "B07RP9LR73",
+      "skus": [
+        "4A GM354832"
+      ],
+      "campaign": "A01532032232LQS5VVH5H",
+      "configuration": {
+        "campaign": "A01532032232LQS5VVH5H",
+        "name": "SP_REACTIVATE_B6_354832_EXACT_20261102",
+        "group": "B6",
+        "budget": 1,
+        "actual": 1,
+        "status": "进行中",
+        "pass": true
+      },
+      "page": 240,
+      "url": "https://advertising.amazon.com/cm/sp/campaigns/A01532032232LQS5VVH5H/ad-groups/A0171491GLR5B0IYOAOJ/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "live": {
+        "url": "https://advertising.amazon.com/cm/sp/campaigns/A01532032232LQS5VVH5H/ad-groups/A0171491GLR5B0IYOAOJ/ads?entityId=ENTITY2EFMPU8GWXHSP",
+        "rows": [
+          {
+            "id": "A09715992EM01OM730HWA",
+            "cells": {
+              "adName": "4A Sticky Notes, 1.375 x 1.875 in, 32 Pads | 100 sheets per pad, 3200 sheets total \n\nUS$13.99",
+              "status": "进行中",
+              "videoDetails": "添加视频",
+              "videoStatus": "无可用数据",
+              "asin": "4A GM354832\n\nB07RP9LR73 \n1 条建议",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          {
+            "id": "[object Object]",
+            "cells": {
+              "adName": "总计: 1",
+              "videoDetails": "总计: 1",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "directThreePackAdvertised": false
+}

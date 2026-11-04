@@ -1,0 +1,33 @@
+{
+  "asin": "B01N9HHKRM",
+  "sku": "4A 003",
+  "decision": "selected-currently-active-48pack-carton-for-bounded-precise-test",
+  "user_answer": "优先选能挂能赚的？",
+  "pack": {
+    "packs": 48,
+    "pads_per_pack": 24,
+    "total_pads": 1152,
+    "sheets": 115200
+  },
+  "quantity_cartons": 88,
+  "stock_basis": "88*48=4224 packs; historical inactive singleSKU4229packs, no new inventoryallocation",
+  "price": 244.99,
+  "shipping_income_NY": 4.99,
+  "order_total": 249.98,
+  "FOB_per_pack": 2.5,
+  "FOB_per_carton": 120,
+  "reference_goods_weight_lb": 38.4,
+  "referral_estimate": 37.5,
+  "headroom_before_outbound_packaging_ads": 92.48,
+  "actual_outbound_cost": null,
+  "actual_net_profit": "unverified; must not describe headroom as netprofit",
+  "advertising_decision": "Exactcartonterms only,$2/day0.35bid,sevendaytest; actualnetprofitunverified, no singlepackterms; actualoutboundmustbe reconciled before scaling",
+  "planned_keywords": [
+    "yellow sticky notes case pack",
+    "sticky notes bulk 1152 pads",
+    "1.5 x 2 yellow sticky notes wholesale"
+  ],
+  "prepared_at": "2026-11-03T09:28:30.125595+00:00",
+  "public_buyable_verified": true,
+  "public_evidence": "R009-carton-public-readback.json: exactASIN,48packs1152pads,4Aseller244.99+4.99AddToCart"
+}

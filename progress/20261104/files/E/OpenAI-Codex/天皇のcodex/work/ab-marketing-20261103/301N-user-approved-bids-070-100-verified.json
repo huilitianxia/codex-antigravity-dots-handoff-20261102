@@ -1,0 +1,140 @@
+{
+  "at": "2026-11-03T18:16:05.671Z",
+  "campaign": "A0219519PE5RDQRTARA9",
+  "asin": "B01LVTWP7Q",
+  "dailyBudget": 8,
+  "before": [
+    {
+      "id": "60617417803643",
+      "cells": {
+        "target": "1.5 x 2 neon sticky notes\n1.5 x 2 霓虹便条",
+        "matchType": "精准",
+        "status": "进行中",
+        "suggestedBid": "无最新数据\n—",
+        "bid": "US$0.65\nUS$0.65",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—",
+        "sales": "—",
+        "roas": "—"
+      },
+      "enabled": "true"
+    },
+    {
+      "id": "151842310074032",
+      "cells": {
+        "target": "1.5x2 sticky notes 12 pads\n1.5x2 便签纸 12 张纸巾",
+        "matchType": "精准",
+        "status": "进行中",
+        "suggestedBid": "无最新数据\n—",
+        "bid": "US$0.55\nUS$0.55",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—",
+        "sales": "—",
+        "roas": "—"
+      },
+      "enabled": "true"
+    },
+    {
+      "id": "14932584876876",
+      "cells": {
+        "target": "mini sticky notes 1.5 x 2\n1.5 x 2迷你便利贴",
+        "matchType": "短语",
+        "status": "进行中",
+        "suggestedBid": "US$1.05 (US$0.79-US$1.31)\n应用\n—",
+        "bid": "US$0.80\nUS$0.80",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—",
+        "sales": "—",
+        "roas": "—"
+      },
+      "enabled": "true"
+    },
+    {
+      "id": "64414658029541",
+      "cells": {
+        "target": "small neon sticky notes\n小号荧光便利贴",
+        "matchType": "短语",
+        "status": "进行中",
+        "suggestedBid": "US$2.54 (US$1.39-US$3.13)\n应用\n—",
+        "bid": "US$0.55\nUS$0.55",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—",
+        "sales": "—",
+        "roas": "—"
+      },
+      "enabled": "true"
+    },
+    {
+      "id": "69644201067124",
+      "cells": {
+        "target": "small sticky notes 1200 sheets\n小便利贴 1200 张",
+        "matchType": "精准",
+        "status": "进行中",
+        "suggestedBid": "无最新数据\n—",
+        "bid": "US$0.40\nUS$0.40",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—",
+        "sales": "—",
+        "roas": "—"
+      },
+      "enabled": "true"
+    }
+  ],
+  "checks": [
+    {
+      "id": "60617417803643",
+      "term": "1.5 x 2 neon sticky notes",
+      "bid": 0.9,
+      "actual": 0.9,
+      "match": "精准",
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "id": "151842310074032",
+      "term": "1.5x2 sticky notes 12 pads",
+      "bid": 0.85,
+      "actual": 0.85,
+      "match": "精准",
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "id": "14932584876876",
+      "term": "mini sticky notes 1.5 x 2",
+      "bid": 1,
+      "actual": 1,
+      "match": "短语",
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "id": "64414658029541",
+      "term": "small neon sticky notes",
+      "bid": 0.8,
+      "actual": 0.8,
+      "match": "短语",
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "id": "69644201067124",
+      "term": "small sticky notes 1200 sheets",
+      "bid": 0.7,
+      "actual": 0.7,
+      "match": "精准",
+      "status": "进行中",
+      "pass": true
+    }
+  ]
+}

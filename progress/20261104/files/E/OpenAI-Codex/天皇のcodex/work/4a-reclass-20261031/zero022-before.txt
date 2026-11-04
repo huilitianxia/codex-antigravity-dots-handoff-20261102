@@ -1,0 +1,539 @@
+- navigation:
+  - button "菜单":
+  - generic: 菜单
+  - button:
+  - navigation:
+    - searchbox
+    - link:
+      - /url: /amazonsell/business
+      - generic: 我的业务
+    - button:
+      - generic: 商品
+    - link:
+      - /url: /amazonsell/listings
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/manage-products
+      - text: 管理商品
+      - button:
+    - link:
+      - /url: /pricing/health
+      - text: 管理定价
+      - button:
+    - link:
+      - /url: /product-search
+      - text: 添加商品
+      - button:
+    - link:
+      - /url: /feedback-manager/index.html
+      - text: 分析评论
+      - button:
+    - link:
+      - /url: /new-product-guidance
+      - text: 研究商品
+      - button:
+    - link:
+      - /url: /gex
+      - text: 全球开店
+      - button:
+    - link:
+      - /url: /listing/reports
+      - text: 商品报告
+      - button:
+    - button:
+      - generic: 供应链
+    - link:
+      - /url: /amazonsell/inventory
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/fba-inventory
+      - text: 管理亚马逊库存
+      - button:
+    - link:
+      - /url: /global-store
+      - text: 管理海外购
+      - button:
+    - link:
+      - /url: /seller-fulfilled-product/analytics
+      - text: 管理卖家自配送库存
+      - button:
+    - link:
+      - /url: /manage/shipments
+      - text: 管理货件
+      - button:
+    - link:
+      - /url: /fba/sendtoamazon
+      - text: Send to Amazon
+      - button:
+    - link:
+      - /url: /channel-manager
+      - text: 管理渠道目的地
+      - button:
+    - link:
+      - /url: https://supplychain.amazon.com/scp/login?utm_source=ngs_persistence_link
+      - text: 供应链控制面板
+      - button:
+    - link:
+      - /url: /reportcentral/WelcomePage
+      - text: 供应链报告
+      - button:
+    - button:
+      - generic: 订单
+    - link:
+      - /url: /amazonsell/orders
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/orders/mfn
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /amazonsell/orders/fba
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /business/manage-quotes
+      - text: 管理报价
+      - button:
+    - link:
+      - /url: /manage/returns/mfn
+      - text: 管理退货
+      - button:
+    - link:
+      - /url: /gp/chargebacks/home.html
+      - text: 管理索赔
+      - button:
+    - link:
+      - /url: /order-reports-and-feeds/reports
+      - text: 订单报告
+      - button:
+    - button:
+      - generic: 营销推广
+    - link:
+      - /url: /amazonsell/marketing
+      - text: 工作区
+    - link:
+      - /url: /promotion-central/dashboard
+      - text: 管理促销和特惠
+      - button:
+    - link:
+      - /url: /brand-analytics
+      - text: 品牌分析
+      - button:
+    - link:
+      - /url: /cm?source=ngs
+      - text: 广告控制台
+      - button:
+    - link:
+      - /url: /vine
+      - text: Vine
+      - button:
+    - button:
+      - generic: 财务人员
+    - link:
+      - /url: /amazonsell/payments
+      - text: 工作区
+    - link:
+      - /url: /manage/finance/transactions
+      - text: 管理交易
+      - button:
+    - link:
+      - /url: /managetaxes/global-transaction-reports
+      - text: 管理税费
+      - button:
+    - link:
+      - /url: /economics
+      - text: 利润分析
+      - button:
+    - link:
+      - /url: /manage/finance/reports
+      - text: 财务报告
+      - button:
+    - button:
+      - generic: 账户状况
+    - link:
+      - /url: /performance/dashboard
+      - text: 管理账户状况
+      - button:
+    - button:
+      - generic: 计划和应用程序
+    - link:
+      - /url: /recommended-programs
+      - text: 了解计划
+      - button:
+    - link:
+      - /url: /selling-partner-appstore
+      - text: 销售伙伴应用商店
+      - button:
+    - link:
+      - /url: /tsba
+      - text: 浏览服务
+      - button:
+  - link:
+    - /url: /sitemap
+    - text: 站点地图
+  - link:
+    - /url: /home?ngs_do_not_redirect_flag=1
+    - text: 传统卖家平台
+  - link "Amazon":
+    - /url: /amazonsell
+  - button "4A (USA) LIMITED 美国":
+    - generic: 4A (USA) LIMITED
+    - generic: 美国
+  - button "账户状况":
+    - generic: 账户状况
+    - generic: 存在风险
+  - textbox "搜索任何内容"
+  - button "询问卖家助手":
+    - generic: 卖家助手
+  - link "新增内容":
+    - /url: /featurereleases
+  - link "消息":
+    - /url: /messaging/inbox-v3?fi=responseNeeded&&
+  - button "帮助":
+  - button "设置":
+- navigation:
+  - button:
+  - link "管理交易":
+    - /url: /manage/finance/transactions
+    - generic: 管理交易
+  - link "卖家大学":
+    - /url: /su/learn
+    - generic: 卖家大学
+  - link "管理商品":
+    - /url: /amazonsell/manage-products
+    - generic: 管理商品
+  - link "广告控制台":
+    - /url: /cm?source=ngs
+    - generic: 广告控制台
+  - link "管理货件":
+    - /url: /manage/shipments
+    - generic: 管理货件
+  - link "商品商机探测器":
+    - /url: /new-product-guidance
+    - generic: 商品商机探测器
+  - link "品牌分析":
+    - /url: /brand-analytics
+    - generic: 品牌分析
+  - link "A+ 商品描述管理器":
+    - /url: /enhanced-content/ref=xx_ebc_favb_xx
+    - generic: A+ 商品描述管理器
+  - link "业务报告":
+    - /url: /business-reports#/dashboard
+    - generic: 业务报告
+  - link "亚马逊物流库存报告":
+    - /url: /reportcentral/WelcomePage
+    - generic: 亚马逊物流库存报告
+  - link "商品报告":
+    - /url: /listing/reports
+    - generic: 商品报告
+  - link "绩效通知":
+    - /url: /performance/notifications
+    - generic: 绩效通知
+  - link "管理账户状况":
+    - /url: /performance/dashboard
+    - generic: 管理账户状况
+  - button:
+- list:
+  - link "管理商品":
+    - /url: /amazonsell/manage-products
+  - link "管理 A+ 商品描述":
+    - /url: /enhanced-content/content-manager
+  - link "管理图片":
+    - /url: /imaging/manage
+  - link "管理视频":
+    - /url: /creatorhub/video/library
+  - link "管理试验":
+    - /url: /experiments/dashboard
+  - link "查看销售申请":
+    - /url: /hz/myqdashboard
+- button "✕"
+- navigation "面包屑":
+  - list:
+    - link "商品":
+      - /url: /amazonsell/listings
+    - generic: 管理商品
+- generic: 管理所有库存
+- link "了解更多信息":
+  - /url: /learn/courses?moduleId=1d80536d-d066-49dc-883f-0f8c578d1cb0&ref_=myp_lm
+  - generic: 了解更多信息
+- link "查看商品演示":
+  - /url: javascript:void(0);
+  - generic: 查看商品演示
+- link "提供反馈":
+  - /url: javascript:void(0);
+  - generic: 提供反馈
+- button "添加一个变体":
+  - generic: 添加一个变体
+- button "添加新商品":
+  - generic: 添加新商品
+- text: 所有商品
+- generic: "913"
+- text: 补全草稿
+- generic: "101"
+- text: 启售商品
+- generic: "354"
+- text: 改善商品信息
+- generic: "3"
+- generic "spacer"
+- generic "发表评论":
+  - generic: 您对此页面上的功能的满意度如何？
+  - generic: 请选择一个主题
+- generic: 快速筛选：
+- generic: 全部 (913)
+- generic: Variations (31)
+- generic: "|"
+- generic: 显示：
+- generic: 收藏
+- generic: 经常查看
+- generic: 建议使用亚马逊物流
+- generic: 搜索
+- generic "所有":
+  - generic: 所有
+  - generic: 
+- textbox "搜索 SKU、商品名称/关键词、FNSKU、ASIN、UPC/EAN": 4A 022
+- generic: 
+- generic: 
+- generic: 商品状态
+- generic "全部 (913)":
+  - generic: 全部 (913)
+  - generic: 
+- generic: 全部 (913)
+- generic: 在售 (332)
+- generic: 在搜索结果中禁止显示 (5)
+- generic: 改善商品信息 (3)
+- generic: 不可售 (349)
+- generic: 详情页面已删除 (7)
+- generic: 缺货 (270)
+- generic: 缺少报价 (98)
+- generic: 定价问题 (1)
+- generic: 需要批准 (1)
+- generic: 已停售 (70)
+- generic: 商品信息草稿
+- generic: 缺少的信息 (100)
+- generic: 订单配送方
+- generic "全部":
+  - generic: 全部
+  - generic: 
+- button "所有筛选条件":
+  - generic: 
+  - generic: 所有筛选条件
+- button:
+  - generic: 
+- generic: 1 - 2 共 2
+- generic: "排序依据 :"
+- generic: 创建日期： 从新到旧
+- generic: 
+- checkbox
+- generic: 商品状态
+- generic: 商品状态
+- generic: 下一步
+- generic: 商品详情
+- generic: 商品详情
+- generic: 图片、商品名称、ASIN 和 SKU
+- generic: 绩效
+- generic: 绩效
+- generic: 
+- generic: 最近 30 天
+- generic: 库存
+- generic: 库存
+- generic: 配送方和数量
+- generic: 价格和运费
+- generic: 价格和运费
+- generic: 定价详情
+- generic: 预计费用
+- generic: 预计费用
+- generic: 按每件售出商品收费
+- checkbox
+- generic "0 星级":
+- generic: 报价缺失
+- generic: 报价缺失
+- link "添加缺失的商品详情":
+  - /url: /interactive/listing/workflow/edit?sku=4A+sticky+022-22&asin=B07KS13HT8&marketplaceID=ATVPDKIKX0DER&productType=SELF_STICK_NOTE&ref_=myp_unknown_target
+- generic: 2018年11月22日 06:12
+- generic: 2018年11月22日 06:12
+- img "商品图片"
+- link "4A Sticky Big Pad,Large Size,Self-Stick Notes,30 Sheets/Pad,1 Pad/Pack,4A Sticky 022-22":
+  - /url: https://www.amazon.com/dp/B07KS13HT8
+  - generic: 4A
+  - generic: Sticky
+  - generic: Big
+  - generic: Pad,Large
+  - generic: Size,Self-Stick
+  - generic: Notes,30
+  - generic: Sheets/Pad,1
+  - generic: Pad/Pack,4A
+  - generic: Sticky
+  - generic: 022-22
+- generic: ASIN
+- generic: B07KS13HT8
+- generic: SKU
+- link "4A sticky 022-22":
+  - /url: /skucentral?mSku=4A+sticky+022-22&condition=New&ref_=myp_skuc
+- generic: 状况
+- generic: 新品
+- generic: 销售额
+- generic: 销售额
+- generic: "--"
+- generic: "--"
+- generic: 售出件数
+- generic: "--"
+- generic: 页面浏览量
+- generic: "--"
+- generic: 销售排名
+- generic: "--"
+- generic: 有货（卖家自配送）
+- generic: 有货（卖家自配送）
+- textbox: "0"
+- generic: 配送模板
+- link "Migrated Template":
+  - /url: /sbr?ref=myi_shiptemplate_sbr#legacy-template-id
+- generic: 价格
+- generic: USD
+- generic: USD
+- textbox: "0.00"
+- generic: 最低价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 最高价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 推荐报价
+- generic: "--"
+- generic: 有竞争力的价格
+- generic: "--"
+- generic: 最低价
+- generic: "--"
+- 'note "Info: 设置企业商品价格以优化商品信息，促进企业买家销售。"':
+  - generic: 
+- generic: 企业商品价格
+- generic: 设置
+- generic: 查看参考价
+- generic: 查看参考价
+- generic: 总费用
+- generic: 总费用
+- generic: "--"
+- generic: "--"
+- button "打开下拉菜单":
+  - generic: 
+- checkbox
+- generic "0 星级":
+- generic: 缺货
+- generic: 缺货
+- link "补货":
+  - /url: /gp/ssof/workflow/sendinventory.html?mSku.0=4A+022&action=send&ref_=myp_sendtoamz
+- generic: 2025年5月22日 04:59
+- generic: 2018年3月5日 05:05
+- img "商品图片"
+- link "4A Sticky Notes, 3 x 3 in, 18 Pads, Neon Colors":
+  - /url: https://www.amazon.com/dp/B01M6181P0
+  - generic: 4A
+  - generic: Sticky
+  - generic: Notes,
+  - generic: "3"
+  - generic: x
+  - generic: "3"
+  - generic: in,
+  - generic: "18"
+  - generic: Pads,
+  - generic: Neon
+  - generic: Colors
+- generic: 100 sheets per pad
+- generic: ASIN
+- generic: B01M6181P0
+- generic: SKU
+- link "4A 022":
+  - /url: /skucentral?mSku=4A+022&condition=New&ref_=myp_skuc
+- generic: UPC
+- generic: "702877118818"
+- generic: FNSKU
+- generic: X004MPPUM3
+- generic: 状况
+- generic: 新品
+- button "Variation Family Details":
+  - generic: Variation Family Details
+- generic: 销售额
+- generic: 销售额
+- generic: "--"
+- generic: "--"
+- generic: 售出件数
+- generic: "--"
+- generic: 页面浏览量
+- generic: "--"
+- generic: 销售排名
+- generic: 1,100,896
+- text: (Office Products)
+- generic: 现货（亚马逊物流）
+- generic: 现货（亚马逊物流）
+- generic: "0"
+- generic: 可售
+- generic: "0"
+- generic: 入库
+- generic: "0"
+- generic: 不可售
+- generic: "0"
+- generic: 预留
+- generic: "0"
+- generic: 价格
+- generic: USD
+- generic: USD
+- textbox: "13.99"
+- generic: 最低价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 最高价格
+- generic: USD
+- generic: USD
+- textbox
+- generic: 推荐报价
+- generic: "--"
+- generic: 有竞争力的价格
+- generic: "--"
+- generic: 最低价
+- generic: "--"
+- 'note "Info: 设置企业商品价格以优化商品信息，促进企业买家销售。"':
+  - generic: 
+- generic: 企业商品价格
+- generic: 设置
+- generic: 查看参考价
+- generic: 查看参考价
+- generic: 总费用
+- generic: 总费用
+- generic: $8.47
+- generic: $8.47
+- generic: 亚马逊物流费用
+- generic: $6.37
+- link "计算收入":
+  - /url: javascript:void(0);
+  - generic: 计算收入
+- button "打开下拉菜单":
+  - generic: 
+- generic: 页面
+- generic: 页面
+- spinbutton: "1"
+- generic: 共 1 页
+- generic: 共 1 页
+- button "前往" [disabled]:
+  - generic: 前往
+- navigation "分页":
+  - generic "向后导航":
+    - generic: 
+  - list:
+    - generic "页面 1": "1"
+  - generic "向前导航":
+    - generic: 
+- generic "每页 25 个搜索结果":
+  - generic: 每页 25 个搜索结果
+  - generic: 
+- generic "发表评论":
+  - generic: 您对此页面上的功能的满意度如何？
+  - generic: 请选择一个主题
+- link "站点地图":
+  - /url: /sitemap
+- link "计划政策":
+  - /url: /help/hub/reference/521
+- generic: © 1999-2026，Amazon.com, Inc. 或其附属公司
+- link "反馈":
+  - /url: "#"

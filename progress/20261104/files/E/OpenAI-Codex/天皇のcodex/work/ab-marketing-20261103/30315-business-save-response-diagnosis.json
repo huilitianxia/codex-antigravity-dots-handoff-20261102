@@ -1,0 +1,79 @@
+[
+  {
+    "kind": "xhr",
+    "method": "POST",
+    "path": "/tricorder/e/",
+    "body": "[non-JSON body]",
+    "status": 200
+  },
+  {
+    "kind": "xhr",
+    "method": "POST",
+    "path": "/tricorder/e/",
+    "body": "[non-JSON body]",
+    "status": 200
+  },
+  {
+    "kind": "xhr",
+    "method": "POST",
+    "path": "/tricorder/e/",
+    "body": "[non-JSON body]",
+    "status": 200
+  },
+  {
+    "kind": "xhr",
+    "method": "POST",
+    "path": "/tricorder/e/",
+    "body": "[non-JSON body]",
+    "status": 200
+  },
+  {
+    "kind": "xhr",
+    "method": "POST",
+    "path": "/tricorder/e/",
+    "body": "[non-JSON body]",
+    "status": 200
+  },
+  {
+    "kind": "xhr",
+    "method": "POST",
+    "path": "/tricorder/e/",
+    "body": "[non-JSON body]",
+    "status": 200
+  },
+  {
+    "kind": "xhr",
+    "method": "POST",
+    "path": "/tricorder/e/",
+    "body": "[non-JSON body]",
+    "status": 200
+  },
+  {
+    "kind": "xhr",
+    "method": "PUT",
+    "path": "https://sellercentral.amazon.com/b2b-insights-service/api/save-b2b-prices",
+    "body": {
+      "asin": "B07FKG29KB",
+      "sku": "4A GM30315",
+      "clientId": "MYP",
+      "b2bPrice": "11.49",
+      "quantityDiscount": {
+        "quantityDiscountTiers": [
+          {
+            "quantity": 3,
+            "price": "3"
+          },
+          {
+            "quantity": 5,
+            "price": "5"
+          },
+          {
+            "quantity": 10,
+            "price": "7"
+          }
+        ],
+        "quantityDiscountType": "PERCENT"
+      }
+    }
+  }
+]

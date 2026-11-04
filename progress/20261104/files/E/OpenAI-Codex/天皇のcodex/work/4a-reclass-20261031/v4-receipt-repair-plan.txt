@@ -1,0 +1,167 @@
+V4回执只读修复准备
+146条：20 SUCCESS，126 SUCCESS(OTHER ERROR)，0FAILED。OTHERERROR不代表整行失败。
+97条100476均未在v4写标题/highlight；Partial Update空白未删除旧title_differentiation。优先按选择器删除可选highlight，不全店缩标题。
+8541有27次、26SKU（NRGrid重复）；颜色/制造商/商品分类均未在v4写入，需先核真实身份。
+3条99300回执AT是第一bullet，v4仅改第五；需要完整五条事实文案。189/001装量冲突暂不写总包数。
+18155是本次最低价联动遗漏：20.39未覆盖企业19.99及最深19.19；主代理已专项处理，先回读。
+13013精确SKU 4A 301x24，不自动重建。CR012两SKU需真实合规资料。101265仅模型销售预测，不是故障。
+源字段、最新回执逐注释、具体修改草案、技术删除方法详见同名JSON；冻结v4未改，未进行线上动作。
+
+具体可准备文案：
+4A 189 | {"attribute": "bullet_point", "operation": "replace_all_five", "draft": ["Lined sticky note pads for written notes and lists.", "Each note measures 6 x 8 inches.", "Assorted bright colors help separate notes by topic.", "Use the notes for reminders at home, school or the office.", "Write tasks, messages and meeting notes on the lined paper."], "precondition": "先核当前页面与源尺寸/形态一致；189与001装量身份待核，不写3包600张或25包30000张；不改变颜色制造商价格", "unverified_claims_removed": ["recyclable", "holds longer and stronger than original", "no residue", "high quality/good price", "free shipping"]}
+4A Meeting-51 | {"attribute": "item_name", "operation": "replace_after_current_readback", "draft": "4A Tabletop Easel Pad and Dry Erase Board, 20 x 23 in, 20 Sheets", "basis": "源表已有尺寸/20张/2合1桌面支架事实，去掉重复pad及premium等修饰"}
+4A001 | {"attribute": "bullet_point", "operation": "replace_all_five", "draft": ["Small sticky note pads for brief notes and reminders.", "Each note measures 1.5 x 2 inches.", "Adhesive is positioned along the shorter edge.", "Use the notes to label tasks and organize written reminders.", "Compact notes for use at a desk, study area or workstation."], "precondition": "先核当前页面与源尺寸/形态一致；189与001装量身份待核，不写3包600张或25包30000张；不改变颜色制造商价格", "unverified_claims_removed": ["recyclable", "holds longer and stronger than original", "no residue", "high quality/good price", "free shipping"]}
+4A078 | {"attribute": "bullet_point", "operation": "replace_all_five", "draft": ["Red sticky note paper in a roll format.", "The roll measures 2 inches wide and 315 inches long.", "Cut sections to suit the length of your notes.", "Writable paper for reminders, lists and page marking.", "Keep the roll at a desk or study area for everyday note taking."], "precondition": "先核当前页面与源尺寸/形态一致；189与001装量身份待核，不写3包600张或25包30000张；不改变颜色制造商价格", "unverified_claims_removed": ["recyclable", "holds longer and stronger than original", "no residue", "high quality/good price", "free shipping"]}
+
+逐SKU代码（修复方式按上文及JSON，不可据代码直接覆盖属性）：
+4A 012 | B01NBKUSIP | 100476
+4A 0127 | B07FKNMSJH | 100476
+4A 0129 | B0756Z8N8X | 8541
+4A 0131 | B075CZBSR9 | 8541
+4A 0132 | B075D8CHKS | 8541
+4A 0133 | B075FS5K2T | 8541
+4A 0134 | B075JDN7D7 | 8541
+4A 0135 | B075JDKV77 | 8541
+4A 0138 | SUCCESS，无回执错误
+4A 0140 | SUCCESS，无回执错误
+4A 0146 | B0778HMZ9W | 100095,100476
+4A 0147 | B07796X7LB | 8541
+4A 015 | B01M58HPUJ | 8541
+4A 0156 | B077QN985Q | 100476
+4A 0170 | B077QBYMYW | 8541
+4A 0173 | B077QBYDFN | 100476
+4A 0174 | SUCCESS，无回执错误
+4A 0177 | B077QBDGMG | 100476
+4A 023 | B01MZ02HS7 | 8541
+4A 038 | B01MSZSP8F | 8541
+4A 185 | B07B8JFJZY | 8541
+4A 189 | B07B8DSVRB | 8541,99300
+4A 301x24 | B01N5FAJAR | 13013
+4A 303 Full Glue | B01N4G81QO | 100476
+4A 303 x 6-N | B01NAJDMHK | 100476
+4A 303 x 6-N-L | B01N4E81MZ | 100476
+4A 303 x 6-N-Z | B01MSZBMWF | 100476
+4A 303 x 6-Z | B01NBKUSIP | 100476
+4A 303 x12 | B01M58HPUJ | 8541
+4A 303 x12-N | SUCCESS，无回执错误
+4A 303 x12-Z | B01NAJHK0Y | 100476
+4A 303 x18-N-Z | B01MZ02HS7 | 100476
+4A 303 x18-Y | B01NGWHSK1 | 100476
+4A 3032 | B00SMEFEFM | 8541
+4A 3033 | B01N2UNPY8 | 100476
+4A 3035 | B07546FW69 | 100476
+4A 3036 | B01MXZU9PX | 100893,8541
+4A 3037 | B01NBM1PR6 | 100893,8541
+4A 303MZ24 | B07RN7VHK1 | 100476
+4A 303x18-N | SUCCESS，无回执错误
+4A 303x18-N*4 | B07MCTZGL7 | 100476
+4A 404 x 6-N | B01MXYQPE1 | 100476
+4A 404x6-N*2 | B07PWM293Q | 100476
+4A 40606*2 | B01N6KX8DW | 100476,100720
+4A 40607x4 | B07RN7FQ1R | 100476
+4A 40622 | SUCCESS，无回执错误
+4A 5018 | B01MQXZ2LP | 100476
+4A 60121-10x2 | SUCCESS，无回执错误
+4A 60171 | SUCCESS，无回执错误
+4A 60174-Sign Herex2 | SUCCESS，无回执错误
+4A 601867 | B07RP9K57J | 100476
+4A 602378 | B07RQ67FHW | 100476
+4A 608-N-L-210*2 | B07PZ56WXD | 100476
+4A 6084-NL | SUCCESS，无回执错误
+4A 66113 | SUCCESS，无回执错误
+4A 661134 | B07RQ73GTZ | 100476
+4A 66114 | B01M2UDADZ | 8541
+4A 8086 | SUCCESS，无回执错误
+4A 8088 | B0784GHTD2 | 100476
+4A 8664 | B07FKNMSJH | 100476
+4A BP1515 NGORY | B07MK2Z3VK | 100476
+4A BP2222 NGPOY | B07M854GPK | 100476
+4A GM303-Full Glue*2 | B07FK6RSPL | 100476
+4A GMGR4066 | SUCCESS，无回执错误
+4A GMSCCR 012 | B0822QC8Z2 | 100390,100477
+4A GMSCLB 1902 | SUCCESS，无回执错误
+4A GR4066 | SUCCESS，无回执错误
+4A MEETING-41-B*4 | B07KSTGGTB | 100476
+4A MEETING-41-Y*4 | B07GWWVNNK | 101265,8541
+4A MEETING-51*4 | B07KSX2V6M | 100476
+4A Meeting-41-W*12 | B07RN7VS7F | 100476
+4A Meeting-51 | B07GBYPK92 | 100470,100476,100893
+4A PSS 9-1 NPGrid | B00V9Z5UMI | 8541
+4A PSS 9-1 NR | B00V9Z5YCO | 100476,100899
+4A PSS 9-1 NRGrid | B01N5K2ERV | 100893,8541
+4A PSS 9-1 NYRGBGRID | B07M8552ZZ | 100476
+4A PSS 9-1 NYRPOGRID | SUCCESS，无回执错误
+4A PSS-9-1 NGPRY | B07MQW2J3T | 100476
+4A PSS-9-1 NGYOP | B07MCTZK9Z | 100476
+4A SC404-AC-holder | SUCCESS，无回执错误
+4A SCCR 012 | B0822QC8Z2 | 100390,100477
+4A SCLB 1901 | B0821GML8W | 100476
+4A SCLB 1902 | SUCCESS，无回执错误
+4A SCLB 1903 | B0821LGDKQ | 8541
+4A SCPOPUP303 | B0827QX86D | 100470,8541
+4A SNL608-0B | B07KT71XX3 | 100476
+4A001 | B01NCQST12 | 8541,99300
+4A0103 | B01N2YL12Y | 100476
+4A0118 | B01NH0W2IN | 100476
+4A043 | B01N2UNPY8 | 100476
+4A045 | B07546FW69 | 100476
+4A050 | B01MZ1PQQ8 | 100476
+4A058 | B01MRZCNY9 | 100476
+4A059 | B01MQXZ2LP | 100476
+4A063 | B01N4G81QO | 100476
+4A076 | B01MU4PJGV | 100476
+4A078 | B01NCQ7U0X | 8541,99300
+4A080 | B01MT35G2V | 100476
+4A085 | B01MZ4FB7O | 100899,8541
+AAAA 4A 3031 | B07FK8FM6W | 100476
+AAAA 4A 3032 | B07FK5VJXR | 100476
+AAAA 4A 3033 | B07FKF3MXV | 100476,8801
+AAAA 4A 3034 | B07FK8MBLS | 100476,8801
+AAAA 4A 3035 | B07FK7C2PY | 100476,8801
+AAAA 4A 3036 | B07FK8DX1J | 100476,8801
+AAAA 4A 3037 | B07FK8R3J3 | 100476,8801
+AAAA 4A 303x6-Z | B07FKB3BMH | 100476
+AAAA 4A 60122x6-N | B07FKNGL34 | 100476
+AAAA 4A 6413+6414 | B07FKKGK7J | 100476
+AAAA 4A 6417+6418 | B07FKJ9G7F | 100476
+AAAA 4A 65000x8 | B01MYXK4U1 | 100476
+AAAA 4A 6524+6525 | B07FKJVB1L | 100476
+AAAA 4A 8066+8067 | B07FKL3L4S | 100476
+AAAA 4A 8068+8065 | B07FKHZVL1 | 100476
+AAAA 4A 8069+8070 | B07FKLCV98 | 100476
+AAAA 4A 8071+8083 | B07FKL8LC9 | 100476
+AAAA 4A 8072+8073 | B07FKMR9CV | 100476
+AAAA 4A 8074+8067 | B07FKNJB33 | 100476
+AAAA 4A 8075+8076 | B07FKLB97D | 100476
+AAAA 4A 8077+8079 | B07FKQ77PG | 100476
+AAAA 4A 8078+8080 | B07FKS5QGR | 100476
+AAAA 4A 8084+ 8082 | B07FKJ43F3 | 100476
+AAAA 4A 8085+8086 | B07FKHKDJC | 100476
+AAAA 4A 8087+8088 | B07FKJVC5M | 100476
+AAAA 4A 8089+8081 | B07FKJ6XRW | 100476
+AAAA 4A 8665+8666 | B07FKPGMSM | 100476
+AAAA 4A 8667+ 8666 | B07FKJC95S | 100476
+AAAA 4A Meeting-41-W | B07FKN1VYG | 100476
+AAAA 4A PSS 9-3 BGR | B07FKCSH65 | 100476
+AAAA 4A SMC 435 | B07FKS6ZQP | 100476
+4A 305-Full Adhesive | B0FBG138ND | 100476
+AAAA 4A 304-Full Glue | B07FK975YB | 100476
+4A 302-Full Adhesive-400 | B0F2TKL2P5 | 100476
+4A 305-Full Adhesive-300 | B07QXJZKHC | 100476
+AAAA 4A 305-Full Glue | SUCCESS，无回执错误
+4A PSS 9-3 2 Sets | B0DYNL5SMR | 18155
+4A 305 x 6 | B01MSZM8IC | 100476
+4A PSS 9-3 Refill | B0DY12Y8FK | 100476
+4A MG30312 | B01MU0JZHU | 100476
+4A BP 2222-Nx4 | B07RT4GTLZ | 100476
+4A 305x6-N-Lx4 | B0F28LXKKF | 100476
+4A 30132 | B07RQ7JMV9 | 100476
+4A 303M-PNx12*4 | B07M855HVB | 100476
+4A SC303M15-Popup | B07WDWY3B2 | 100476
+4A 0130 | B0756ZY4F8 | 100476
+4A 30512-L | B07RQ7B9QR | 100476
+
+官方方法：
+https://developer-docs.amazon/sp-api/docs/submit-modular-titles
+https://developer-docs.amazon/sp-api/docs/partially-update-a-listing
+https://developer-docs.amazon/sp-api/reference/patchlistingsitem

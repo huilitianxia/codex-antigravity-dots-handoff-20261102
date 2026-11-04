@@ -1,0 +1,47 @@
+{
+  "url": "https://advertising.amazon.com/cm/sp/campaigns/A0219519PE5RDQRTARA9/ad-groups/A090329210VBY9FNHB3OE/ads?entityId=ENTITY2EFMPU8GWXHSP",
+  "footer": "CT\n状态:正在投放\n广告\n定向策略\n否定投放\n搜索词\n广告组设置\n历史记录\n整体表现\n提示词\n视频\nNew\n新增\n选择指标\n总成本\n—\n选择指标\n销售额\n—\n选择指标\nROAS\n—\n选择指标\n购买量\n—\n隐藏图表\n无数据\n\n要查看图表，请选择不同的指标或筛选条件\n\n添加商品\nSearch\n筛选条件\n选择行以启用批量操作。\n视图：默认\n列\n2026-11-03\n导出\n\n全选\n\n进行中\n广告名称\n状态\n视频详情\nVideo status\nSKU/ASIN\n总成本\n购买量\n销售额\nROAS\n4A Sticky Notes, 1.5 x 2 in, 12 Pads, Neon Colors | 100 sheets per pad \n\nUS$5.99\n\n4A Sticky Notes, 1.5 x 2 in, 12 Pads, Neon Colors | 100 sheets per pad \n\nUS$5.99\n\n进行中\n\n添加视频\n\n无可用数据\n\n4A301x12-N-B01LVT-FBM\n\nB01LVTWP7Q \n—\n—\n—\n—\n\n进行中\n\n添加视频\n\n无可用数据\n\n4A 301x12-N\n\nB01LVTWP7Q \n—\n—\n—\n—\n总计: 2\n总计: 2\n—\n—\n—\n—\n© 2026 Amazon.com, Inc. 或其附属公司。\n使用条款\n隐私声明\n亚马逊广告协议\n請求支持\n状态",
+  "rows": [
+    {
+      "id": "A03960401HLUAFLRI70Q2",
+      "cells": {
+        "adName": "4A Sticky Notes, 1.5 x 2 in, 12 Pads, Neon Colors | 100 sheets per pad \n\nUS$5.99",
+        "status": "进行中",
+        "videoDetails": "添加视频",
+        "videoStatus": "无可用数据",
+        "asin": "4A301x12-N-B01LVT-FBM\n\nB01LVTWP7Q",
+        "spend": "—",
+        "orders": "—",
+        "sales": "—",
+        "roas": "—"
+      },
+      "enabled": "true"
+    },
+    {
+      "id": "A0380917ABL5KVUB1ZQU",
+      "cells": {
+        "adName": "4A Sticky Notes, 1.5 x 2 in, 12 Pads, Neon Colors | 100 sheets per pad \n\nUS$5.99",
+        "status": "进行中",
+        "videoDetails": "添加视频",
+        "videoStatus": "无可用数据",
+        "asin": "4A 301x12-N\n\nB01LVTWP7Q",
+        "spend": "—",
+        "orders": "—",
+        "sales": "—",
+        "roas": "—"
+      },
+      "enabled": "true"
+    },
+    {
+      "id": "[object Object]",
+      "cells": {
+        "adName": "总计: 2",
+        "videoDetails": "总计: 2",
+        "spend": "—",
+        "orders": "—",
+        "sales": "—",
+        "roas": "—"
+      }
+    }
+  ]
+}

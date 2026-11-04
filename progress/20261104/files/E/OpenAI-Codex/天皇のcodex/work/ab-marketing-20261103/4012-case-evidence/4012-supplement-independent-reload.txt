@@ -1,0 +1,223 @@
+## Latest page snapshot
+uid=1543_0 RootWebArea "亚马逊" url="https://sellercentral.amazon.com/cu/case-dashboard/view-case?caseID=22957468581"
+  uid=1543_1 navigation
+    uid=1543_2 button "菜单" expandable
+    uid=1543_3 link "Amazon" url="https://sellercentral.amazon.com/amazonsell"
+    uid=1543_4 button "4A (USA) LIMITED 美国" expandable
+    uid=1543_5 button "账户状况"
+    uid=1543_6 textbox "搜索任何内容" haspopup="menu"
+    uid=1543_7 button "询问卖家助手" description="卖家助手"
+    uid=1543_8 link "新增内容" description="新鲜出巢" url="https://sellercentral.amazon.com/featurereleases"
+    uid=1543_9 link "消息" description="您可以在任意页面顶部的搜索和设置旁边找到买家消息，因此无需离开当前工作页面，即可轻松回复买家。" url="https://sellercentral.amazon.com/messaging/inbox-v3?fi=responseNeeded&&"
+    uid=1543_10 button "帮助" description="帮助" haspopup="menu"
+    uid=1543_11 button "设置" description="设置" haspopup="menu"
+  uid=1543_12 navigation
+    uid=1543_13 button disableable disabled
+    uid=1543_14 link "管理交易" url="https://sellercentral.amazon.com/manage/finance/transactions"
+      uid=1543_15 StaticText "管理交易"
+    uid=1543_16 link "卖家大学" url="https://sellercentral.amazon.com/su/learn"
+      uid=1543_17 StaticText "卖家大学"
+    uid=1543_18 link "管理商品" url="https://sellercentral.amazon.com/amazonsell/manage-products"
+      uid=1543_19 StaticText "管理商品"
+    uid=1543_20 link "广告控制台" url="https://sellercentral.amazon.com/cm?source=ngs"
+      uid=1543_21 StaticText "广告控制台"
+    uid=1543_22 link "管理货件" url="https://sellercentral.amazon.com/manage/shipments"
+      uid=1543_23 StaticText "管理货件"
+    uid=1543_24 link "商品商机探测器" url="https://sellercentral.amazon.com/new-product-guidance"
+      uid=1543_25 StaticText "商品商机探测器"
+    uid=1543_26 link "品牌分析" url="https://sellercentral.amazon.com/brand-analytics"
+      uid=1543_27 StaticText "品牌分析"
+    uid=1543_28 link "A+ 商品描述管理器" url="https://sellercentral.amazon.com/enhanced-content/ref=xx_ebc_favb_xx"
+      uid=1543_29 StaticText "A+ 商品描述管理器"
+    uid=1543_30 link "业务报告" url="https://sellercentral.amazon.com/business-reports#/dashboard"
+      uid=1543_31 StaticText "业务报告"
+    uid=1543_32 link "亚马逊物流库存报告" url="https://sellercentral.amazon.com/reportcentral/WelcomePage"
+      uid=1543_33 StaticText "亚马逊物流库存报告"
+    uid=1543_34 link "商品报告" url="https://sellercentral.amazon.com/listing/reports"
+      uid=1543_35 StaticText "商品报告"
+    uid=1543_36 link "绩效通知" url="https://sellercentral.amazon.com/performance/notifications"
+      uid=1543_37 StaticText "绩效通知"
+    uid=1543_38 link "管理账户状况" url="https://sellercentral.amazon.com/performance/dashboard"
+      uid=1543_39 StaticText "管理账户状况"
+    uid=1543_40 button
+  uid=1543_41 button "✕"
+  uid=1543_42 link "查看您的案例和请求日志" url="https://sellercentral.amazon.com/cu/case-lobby?ref=caselog_cont_viewcase"
+    uid=1543_43 StaticText "查看您的案例和请求日志"
+  uid=1543_44 StaticText "B01M3N310M与推荐报价相关的问题"
+  uid=1543_45 button "编辑"
+    uid=1543_46 generic
+  uid=1543_47 StaticText "最新更新"
+  uid=1543_48 button "回复"
+    uid=1543_49 generic
+  uid=1543_50 button "关闭此案例"
+    uid=1543_51 generic
+  uid=1543_52 StaticText "您操作"
+  uid=1543_53 StaticText "2026年11月03日"
+  uid=1543_54 StaticText "GMT+8 19:10"
+  uid=1543_55 StaticText "您好，补充贵团队要求的第3类证据：亚马逊以外网站的同款产品价格。请继续在原工单22957468581中复核。
+
+ASIN：B01M3N310M
+卖家SKU：4A 4012-B07T-FBM
+产品：4A 4012，一盒18本便签，合计1900张，常用尺寸组合，PP盒包装。
+
+2026年11月3日核实，The Retail Market的下列同款产品页面显示有货，可加入购物车，当前商品售价为USD22.49。页面明确列出品牌4A、型号4012、18 Pads/Box、1900 Sheets Total及UPC702877117644。型号、包装数量及图片均与本次复核产品相符。
+
+"
+  uid=1543_56 link "https://www.retailmarket.net/products/4a-sticky-notes-value-packassorted-the-most-commonly-used-sizes-in-one-pp-boxself-stick-notes18-pads-box1900-sheets-total4a-4012/" url="https://www.retailmarket.net/products/4a-sticky-notes-value-packassorted-the-most-commonly-used-sizes-in-one-pp-boxself-stick-notes18-pads-box1900-sheets-total4a-4012/"
+    uid=1543_57 StaticText "https://www.retailmarket.net/products/4a-sticky-notes-value-packassorted-the-most-commonly-used-sizes-in-one-pp-boxself-stick-notes18-pads-box1900-sheets-total4a-4012/"
+  uid=1543_58 StaticText "
+
+我们的当前商品价USD12.99，运费USD4.99，含运费总价USD17.98，低于该站外同款商品价USD22.49。对方运费未在结账页核实，因此此处仅引用其商品价，没有将对方运费视为免费。附件为本次核实的原网页截图，含型号、18本/1900张规格、有货状态及USD22.49售价。请按站外同款价格证据继续调查，并重新评估该SKU的High Price标记及推荐报价资格。
+
+早上已提交的订单113-6617483-0807433为付款完成的FBA订单，3件合计USD38.97，单件USD12.99。该记录用于佐证实际成交及产品身份，不代表MFN运费成交证据；已取消的订单未作为证据。
+
+请转交相关定价团队复核。若仍缺少材料，请具体说明需要补充的字段，避免将本次补证当作重复的单笔订单证明。谢谢。"
+  uid=1543_59 StaticText "附件："
+  uid=1543_60 StaticText "附件："
+  uid=1543_61 link "4012-retailer-22.49-current.png" url="[signed attachment URL redacted]"
+    uid=1543_62 StaticText "4012-retailer-22.49-current.png"
+  uid=1543_63 StaticText "亚马逊操作"
+  uid=1543_64 StaticText "请注意，我们需要获得更多信息才能解决您的问题单。如果您仍需要帮助，请回复本邮件，并提供我们要求的下列详细信息。
+
+如果您的问题已得到解决，则您无需执行任何其他操作，我们将关闭此问题单。
+
+亚马逊支持 
+
+
+-- 初始消息 --
+
+
+尊敬的卖家：您好！感谢您联系亚马逊销售伙伴支持团队。
+
+我们已收到您关于ASIN B01M3N310M（卖家SKU：4A 4012-B07T-FBM）推荐报价资格及高价标记的问题，并已完成初步调查。
+
+由于您目前提供的订单数量不足，相关团队无法支持进一步的调查处理。为了继续协助您，请您提供以下材料之一：
+
+1、 多笔已完成的订单记录；
+
+2、品牌或制造商官方网站上的产品价格（该价格须大于或等于参考价格）；
+
+3、亚马逊以外的竞争对手网站上的产品价格（该价格须大于或等于参考价格）。
+
+请您提供上述证据后，我们将继续为您跟进调查。
+
+祝您生活愉快，工作顺利！
+
+To help us continually improve, we ask that you take a moment to complete our survey below to tell us about your experience with this specific interaction.
+
+Were you satisfied with the support provided?
+"
+  uid=1543_65 LineBreak "
+"
+  uid=1543_66 StaticText " "
+  uid=1543_67 button " Yes "
+    uid=1543_68 generic
+  uid=1543_69 StaticText " "
+  uid=1543_70 StaticText " "
+  uid=1543_71 button " No "
+    uid=1543_72 generic
+  uid=1543_73 StaticText " "
+  uid=1543_74 LineBreak "
+"
+  uid=1543_75 StaticText "
+Thank you for selling with Amazon,
+
+Chengfang [C] L.
+Amazon.com Seller Support
+=======================================
+MORE WAYS TO GET HELP:
+Visit our Seller Forums for help from other sellers: "
+  uid=1543_76 link "http://sellercentral.amazon.com/forums" url="http://sellercentral.amazon.com/forums"
+    uid=1543_77 StaticText "http://sellercentral.amazon.com/forums"
+  uid=1543_78 StaticText "
+Browse all Seller Help topics: "
+  uid=1543_79 link "http://sellercentral.amazon.com/gp/help" url="http://sellercentral.amazon.com/gp/help"
+    uid=1543_80 StaticText "http://sellercentral.amazon.com/gp/help"
+  uid=1543_81 StaticText "
+"
+  uid=1543_82 StaticText "2026年11月03日"
+  uid=1543_83 StaticText "GMT+8 15:57"
+  uid=1543_84 StaticText "亚马逊操作"
+  uid=1543_85 StaticText "尊敬的卖家：您好！感谢您联系亚马逊销售伙伴支持团队。
+
+我们已收到您关于ASIN B01M3N310M（卖家SKU：4A 4012-B07T-FBM）推荐报价资格及高价标记的问题，并已完成初步调查。
+
+由于您目前提供的订单数量不足，相关团队无法支持进一步的调查处理。为了继续协助您，请您提供以下材料之一：
+
+1、 多笔已完成的订单记录；
+
+2、品牌或制造商官方网站上的产品价格（该价格须大于或等于参考价格）；
+
+3、亚马逊以外的竞争对手网站上的产品价格（该价格须大于或等于参考价格）。
+
+请您提供上述证据后，我们将继续为您跟进调查。
+
+祝您生活愉快，工作顺利！
+
+To help us continually improve, we ask that you take a moment to complete our survey below to tell us about your experience with this specific interaction.
+
+Were you satisfied with the support provided?
+"
+  uid=1543_86 LineBreak "
+"
+  uid=1543_87 StaticText " "
+  uid=1543_88 button " Yes "
+    uid=1543_89 generic
+  uid=1543_90 StaticText " "
+  uid=1543_91 StaticText " "
+  uid=1543_92 button " No "
+    uid=1543_93 generic
+  uid=1543_94 StaticText " "
+  uid=1543_95 LineBreak "
+"
+  uid=1543_96 StaticText "
+Thank you for selling with Amazon,
+
+Chengfang [C] L.
+Amazon.com Seller Support
+=======================================
+MORE WAYS TO GET HELP:
+Visit our Seller Forums for help from other sellers: "
+  uid=1543_97 link "http://sellercentral.amazon.com/forums" url="http://sellercentral.amazon.com/forums"
+    uid=1543_98 StaticText "http://sellercentral.amazon.com/forums"
+  uid=1543_99 StaticText "
+Browse all Seller Help topics: "
+  uid=1543_100 link "http://sellercentral.amazon.com/gp/help" url="http://sellercentral.amazon.com/gp/help"
+    uid=1543_101 StaticText "http://sellercentral.amazon.com/gp/help"
+  uid=1543_102 StaticText "
+"
+  uid=1543_103 StaticText "2026年11月03日"
+  uid=1543_104 StaticText "GMT+8 11:49"
+  uid=1543_105 StaticText "您操作"
+  uid=1543_106 StaticText "Please review Featured Offer pricing eligibility and the High Price flag for ASIN B01M3N310M, seller SKU 4A 4012-B07T-FBM. This is one PP box containing 18 sticky-note pads, 1,900 sheets total (4A 4012)."
+  uid=1543_107 StaticText "..."
+  uid=1543_108 StaticText "2026年11月03日"
+  uid=1543_109 StaticText "GMT+8 10:57"
+  uid=1543_110 StaticText "您操作"
+  uid=1543_111 StaticText "亚马逊已代表您创建此问题单，以便销售伙伴支持团队员工进行调查。目前您无需执行其他操作。完成调查最长可能需要 3 天，我们将通过电子邮件告知您最新消息。"
+  uid=1543_112 StaticText "2026年11月03日"
+  uid=1543_113 StaticText "GMT+8 10:49"
+  uid=1543_114 StaticText "问题一览"
+  uid=1543_115 StaticText "编号"
+  uid=1543_116 StaticText ":"
+  uid=1543_117 StaticText "22957468581"
+  uid=1543_118 StaticText "状态"
+  uid=1543_119 StaticText ":"
+  uid=1543_120 StaticText "正在处理"
+  uid=1543_121 StaticText "主要电子邮箱"
+  uid=1543_122 StaticText ":"
+  uid=1543_123 StaticText "seller@4ausa.com"
+  uid=1543_124 StaticText "抄送"
+  uid=1543_125 StaticText ":"
+  uid=1543_126 StaticText "已创建"
+  uid=1543_127 StaticText ":"
+  uid=1543_128 StaticText "2026年11月03日 GMT+8 10:49"
+  uid=1543_129 button "编辑"
+    uid=1543_130 generic
+  uid=1543_131 link "站点地图" url="https://sellercentral.amazon.com/sitemap"
+    uid=1543_132 StaticText "站点地图"
+  uid=1543_133 link " 计划政策" url="https://sellercentral.amazon.com/help/hub/reference/521"
+    uid=1543_134 StaticText " 计划政策"
+  uid=1543_135 StaticText "© 1999-2026，Amazon.com, Inc. 或其附属公司"
+  uid=1543_136 link "反馈" url="https://sellercentral.amazon.com/cu/case-dashboard/view-case?caseID=22957468581#"
+    uid=1543_137 StaticText "反馈"

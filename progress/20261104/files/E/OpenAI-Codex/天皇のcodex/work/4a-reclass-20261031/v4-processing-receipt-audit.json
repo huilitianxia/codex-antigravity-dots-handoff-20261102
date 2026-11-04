@@ -1,0 +1,2373 @@
+{
+  "file": "D:\\下载文件\\04-reviewed-nonincident-fixes-processing-summary (1).xlsm",
+  "statuses": {
+    "SUCCESS (OTHER ERROR)": 126,
+    "SUCCESS": 20
+  },
+  "overview": [
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K)",
+      "sku_or_count": "97"
+    },
+    {
+      "code": "99300",
+      "severity": "ERROR",
+      "message": "Bullet Point contains false/promotional claims or external links. Update content to comply with Product detail page policy before resubmitting. See guidelines https://sellercentral.amazon.com/help/hub/reference/external/G200390640",
+      "field": "Bullet Point (AT)",
+      "sku_or_count": "3"
+    },
+    {
+      "code": "100390",
+      "severity": "ERROR",
+      "message": "In order to sell this product on the Amazon marketplace, you must provide documents related to ps_toys_dv_us. Failure to provide these documentations by 2026-02-26T02:27:06.249Z may result in suppression of this ASIN from the Amazon website.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "2"
+    },
+    {
+      "code": "100477",
+      "severity": "WARNING",
+      "message": "In order to sell this product on the Amazon store, please refer to the Amazon policy at https://sellercentral.amazon.com/help/hub/reference/external/G55N3JF2WQS7RVNE",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "2"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B075D8CHKS, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"Neon Color-cat\", en_CA: \"Neon Color-cat\", en_AE: \"Neon Color-cat\" and 4 other variant(s) en_AU, it_IT, de_DE, fr_FR]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B075D8CHKS, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "13013",
+      "severity": "WARNING",
+      "message": "Your inventory cannot be updated because the SKU is not in the catalog or has been deleted. Check your product data, correct any errors, and resubmit with the original UPC/GTIN instead of a suggested ASIN. If you are listing a product in another marketplace, it may require few hours for the listing to be available. Please check your seller account for progress or any issues.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "100893",
+      "severity": "ERROR",
+      "message": "Your product variation can't be created because required attributes are missing from child ASIN B01N5K2ERV. Provide [size.value] to link it with parent ASIN B0HPTC18T2.",
+      "field": "Size (BN)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B075JDKV77, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"Neon Color-peking Opera\", en_CA: \"Neon Color-peking Opera\", en_IN: \"Neon Color-peking Opera\" and 5 other variant(s) en_AU, en_AE, fr_FR, de_DE, it_IT]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B075JDKV77, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8801",
+      "severity": "WARNING",
+      "message": "The child SKU 'AAAA 4A 3035' could not be added to parent SKU 'PARENT-4A-MEMO-NOTE-CUBES' because another SKU 'AAAA 4A 3031' has the same variation attributes [\"color_name\",\"size_name\"] and is already associated with the parent SKU.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "100893",
+      "severity": "ERROR",
+      "message": "Your product variation can't be created because required attributes are missing from child ASIN B01MXZU9PX. Provide [color.value] to link it with parent ASIN B0HPTDMBSS.",
+      "field": "Color (BM)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07GWWVNNK, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'manufacturer' (Merchant [en_CA: \"China\", en_US: \"China\", es_MX: \"China\"] / Amazon [en_CA: \"4A（USA）LIMITED\", en_US: \"4A（USA）LIMITED\", es_MX: \"4A（USA）LIMITED\" and 15 other variant(s) en_GB, en_IN, en_SG, en_AU, en_AE, es_ES, de_DE, fr_FR, it_IT, ja_JP, pl_PL, fr_BE, sv_SE, pt_BR, nl_NL]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07GWWVNNK, then update your listing's 'manufacturer' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "100899",
+      "severity": "ERROR",
+      "message": "Your child ASIN B00V9Z5YCO cannot be added because another child ASIN [B07FKCSH65] already shares the same [color.value, size.value] with parent ASIN B0HPTC18T2.",
+      "field": "Size (BN)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "101265",
+      "severity": "WARNING",
+      "message": "165.0 USD sales forecast on FBA conversion for this offer in the next 90 days. Moving from MFN to FBA for fulfillment can improve sales by this estimated amount. This forecast was generated through a Machine Learning Model",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "100899",
+      "severity": "ERROR",
+      "message": "Your child ASIN B00V9Z5YCO cannot be added because another child ASIN [B07FKCSH65] already shares the same [color.value, size.value] with parent ASIN B0HPTC18T2.",
+      "field": "Color Map (HN)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8801",
+      "severity": "WARNING",
+      "message": "The child SKU 'AAAA 4A 3037' could not be added to parent SKU 'PARENT-4A-MEMO-NOTE-CUBES' because another SKU 'AAAA 4A 3031' has the same variation attributes [\"color_name\",\"size_name\"] and is already associated with the parent SKU.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01NCQST12, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Canary Yellow\"] / Amazon [en_US: \"Pastel Assorted-12 Pads\", en_CA: \"Pastel Assorted-12 Pads\", it_IT: \"Pastel Assorted-12 Pads\" and 2 other variant(s) de_DE, fr_FR]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01NCQST12, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "100899",
+      "severity": "ERROR",
+      "message": "Your child ASIN B01MZ4FB7O cannot be added because another child ASIN [B00V9Z5UMI] already shares the same [color.value, size.value] with parent ASIN B0HPTC18T2.",
+      "field": "Color (BM)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "100893",
+      "severity": "ERROR",
+      "message": "Your product variation can't be created because required attributes are missing from child ASIN B01MXZU9PX. Provide [color.value] to link it with parent ASIN B0HPTDMBSS.",
+      "field": "Color Map (HN)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01NBM1PR6, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Colors-3037\", en_CA: \"Colors-3037\", en_AE: \"Colors-3037\" and 2 other variant(s) de_DE, fr_FR]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01NBM1PR6, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B00SMEFEFM, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'manufacturer' (Merchant [en_CA: \"China\", en_US: \"China\", es_MX: \"China\"] / Amazon [en_CA: \"4A\", en_US: \"4A（USA）LIMITED\", es_MX: \"4A\" and 17 other variant(s) en_IE, en_GB, en_IN, en_SG, en_AU, en_AE, es_ES, fr_FR, de_DE, it_IT, pl_PL, zh_CN, fr_BE, pt_BR, sv_SE, nl_NL, ja_JP]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B00SMEFEFM, then update your listing's 'manufacturer' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B075JDN7D7, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"Neon Color-whale\", en_GB: \"Neon Color-whale\", en_CA: \"Neon Color-whale\" and 7 other variant(s) en_IN, en_AU, en_AE, es_ES, it_IT, de_DE, fr_FR]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B075JDN7D7, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01M58HPUJ, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'manufacturer' (Merchant [en_CA: \"China\", en_US: \"China\", es_MX: \"China\"] / Amazon [en_CA: \"4A（USA）LIMITED\", en_US: \"4A（USA）LIMITED\", es_MX: \"4A（USA）LIMITED\" and 18 other variant(s) en_IE, en_GB, en_AU, en_SG, en_AE, en_IN, es_ES, de_DE, fr_FR, ja_JP, it_IT, pl_PL, tr_TR, fr_BE, pt_BR, sv_SE, nl_NL, zh_CN]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01M58HPUJ, then update your listing's 'manufacturer' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "100893",
+      "severity": "ERROR",
+      "message": "Your product variation can't be created because required attributes are missing from child ASIN B07GBYPK92. Provide [size.value] to link it with parent ASIN B07CXS2GT7.",
+      "field": "Size (BN)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "100095",
+      "severity": "ERROR",
+      "message": "The value '办公室' of the attribute 'Recommended Uses For Product' is not a valid value. Please provide a valid value.",
+      "field": "Recommended Uses For Product (EV)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "100720",
+      "severity": "ERROR",
+      "message": "Invalid language data provided for in marketplace www.amazon.com (ATVPDKIKX0DER) for attributes Manufacturer",
+      "field": "Manufacturer (S)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B075CZBSR9, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"Neon Color-panda\", en_CA: \"Neon Color-panda\", en_IN: \"Neon Color-panda\" and 7 other variant(s) en_AE, en_AU, en_GB, it_IT, es_ES, de_DE, fr_FR]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B075CZBSR9, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01MZ4FB7O, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Pink Grid\", en_IN: \"Pink Grid\", en_GB: \"Pink Grid\" and 6 other variant(s) en_CA, zh_CN, es_ES, zh_TW, es_US, de_DE]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01MZ4FB7O, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "100899",
+      "severity": "ERROR",
+      "message": "Your child ASIN B01MZ4FB7O cannot be added because another child ASIN [B00V9Z5UMI] already shares the same [color.value, size.value] with parent ASIN B0HPTC18T2.",
+      "field": "Color Map (HN)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B00V9Z5UMI, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Pink Grid\", en_CA: \"Pink Grid\", en_AE: \"Pink Grid\" and 16 other variant(s) en_AU, en_GB, en_SG, en_IN, pt_BR, es_ES, es_MX, ar_AE, it_IT, nl_NL, ja_JP, zh_CN, es_US, de_DE, fr_FR, pl_PL]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B00V9Z5UMI, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "100899",
+      "severity": "ERROR",
+      "message": "Your child ASIN B00V9Z5YCO cannot be added because another child ASIN [B07FKCSH65] already shares the same [color.value, size.value] with parent ASIN B0HPTC18T2.",
+      "field": "Color (BM)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B077QBYMYW, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"White-glaze Macaw Parrot\", de_DE: \"White-glaze Macaw Parrot\", fr_FR: \"White-glaze Macaw Parrot\" and 1 other variant(s) it_IT]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B077QBYMYW, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B0827QX86D, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'item_classification' (Merchant [\"base_product\"] / Amazon []). To fix the issue, please follow these steps 1) If the product you are listing is the same as B0827QX86D, then update your listing's 'item_classification' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8801",
+      "severity": "WARNING",
+      "message": "The child SKU 'AAAA 4A 3033' could not be added to parent SKU 'PARENT-4A-MEMO-NOTE-CUBES' because another SKU 'AAAA 4A 3031' has the same variation attributes [\"color_name\",\"size_name\"] and is already associated with the parent SKU.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07B8JFJZY, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Extra Colors 4 X 4-6 Pads\", en_AE: \"Extra Colors 4 X 4-6 Pads\", en_AU: \"Extra Colors 4 X 4-6 Pads\" and 7 other variant(s) en_GB, en_CA, zh_CN, fr_FR, pt_BR, it_IT, de_DE]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07B8JFJZY, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B075FS5K2T, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"Neon Color-rabbit\", en_AU: \"Neon Color-rabbit\", en_AE: \"Neon Color-rabbit\" and 5 other variant(s) en_IN, en_CA, fr_FR, de_DE, it_IT]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B075FS5K2T, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01MSZSP8F, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Green&red\", en_AU: \"Green&red\", en_SG: \"Green&red\" and 11 other variant(s) en_CA, en_AE, ko_KR, tr_TR, pt_BR, ar_AE, it_IT, de_DE, zh_CN, es_US, fr_CA]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01MSZSP8F, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "100893",
+      "severity": "ERROR",
+      "message": "Your product variation can't be created because required attributes are missing from child ASIN B01NBM1PR6. Provide [color.value] to link it with parent ASIN B0HPTDMBSS.",
+      "field": "Color Map (HN)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "18155",
+      "severity": "ERROR",
+      "message": "Your selling price is below your minimum price threshold. Check if you entered the correct price and review your minimum and maximum price thresholds. You'll need to adjust your product price.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07796X7LB, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Yellow-1 Pack\", en_CA: \"Yellow-1 Pack\", it_IT: \"Yellow-1 Pack\" and 2 other variant(s) fr_FR, de_DE]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07796X7LB, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "100470",
+      "severity": "ERROR",
+      "message": "You have used the following words more than twice in Title: [4a]. To fix, please resubmit with the correct data.",
+      "field": "Item Name (J)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "100893",
+      "severity": "ERROR",
+      "message": "Your product variation can't be created because required attributes are missing from child ASIN B01NBM1PR6. Provide [color.value] to link it with parent ASIN B0HPTDMBSS.",
+      "field": "Color (BM)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8801",
+      "severity": "WARNING",
+      "message": "The child SKU 'AAAA 4A 3034' could not be added to parent SKU 'PARENT-4A-MEMO-NOTE-CUBES' because another SKU 'AAAA 4A 3031' has the same variation attributes [\"color_name\",\"size_name\"] and is already associated with the parent SKU.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01MXZU9PX, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_GB: \"color7\", en_CA: \"Colors-3036\", it_IT: \"Colors-3036\"]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01MXZU9PX, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01NCQ7U0X, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Red\", en_GB: \"Red\", en_CA: \"Red\" and 11 other variant(s) de_DE, es_ES, ko_KR, ar_AE, fr_FR, it_IT, fr_CA, es_US, pt_BR, zh_CN, zh_TW]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01NCQ7U0X, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01M58HPUJ, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'manufacturer' (Merchant [en_US: \"China\"] / Amazon [en_US: \"4A（USA）LIMITED\", en_IE: \"4A（USA）LIMITED\", en_GB: \"4A（USA）LIMITED\" and 18 other variant(s) en_CA, en_AU, en_SG, en_AE, en_IN, de_DE, fr_FR, ja_JP, it_IT, pl_PL, es_MX, tr_TR, fr_BE, es_ES, pt_BR, sv_SE, nl_NL, zh_CN]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01M58HPUJ, then update your listing's 'manufacturer' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "100720",
+      "severity": "ERROR",
+      "message": "Invalid language data provided for in marketplace www.amazon.com (ATVPDKIKX0DER) for attributes Brand Name",
+      "field": "Brand Name (L)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01M2UDADZ, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Colors-66114\", en_GB: \"Colors-66114\", en_AE: \"Colors-66114\" and 25 other variant(s) en_CA, en_ZA, en_SG, en_IN, en_IE, en_AU, nl_NL, es_US, ar_AE, fr_FR, ja_JP, fr_BE, hi_IN, nl_BE, zh_CN, it_IT, ko_KR, tr_TR, fr_CA, pl_PL, es_ES, sv_SE, es_MX, pt_BR, de_DE]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01M2UDADZ, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "100470",
+      "severity": "ERROR",
+      "message": "You have used the following words more than twice in Title: [pad]. To fix, please resubmit with the correct data.",
+      "field": "Item Name (J)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "100899",
+      "severity": "ERROR",
+      "message": "Your child ASIN B01MZ4FB7O cannot be added because another child ASIN [B00V9Z5UMI] already shares the same [color.value, size.value] with parent ASIN B0HPTC18T2.",
+      "field": "Size (BN)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The standard product ids (such as UPC, ISBN, EAN, or JAN codes) provided matches ASIN B01N5K2ERV, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Red Grid\", en_US: \"Red\", en_CA: \"Red Grid\" and 13 other variant(s) en_IN, en_CA, en_GB, fr_CA, es_MX, es_ES, it_IT, pt_BR, de_DE, fr_FR, es_US, zh_CN, zh_TW]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01N5K2ERV, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the standard product ids (such as UPC, ISBN, EAN, or JAN codes) provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B0821LGDKQ, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'manufacturer' (Merchant [en_US: \"China\"] / Amazon [en_US: \"4A (USA) LIMITED\", en_ZA: \"4A (USA) LIMITED\", en_AU: \"4A (USA) LIMITED\" and 18 other variant(s) en_SG, en_GB, en_CA, en_IN, en_AE, es_ES, it_IT, fr_BE, pl_PL, pt_BR, de_DE, fr_FR, ja_JP, tr_TR, sv_SE, es_MX, nl_NL, zh_CN]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B0821LGDKQ, then update your listing's 'manufacturer' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01MZ02HS7, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Pastel Assorted\"] / Amazon [en_US: \"Neon Assorted-18 Pads\", en_AU: \"Neon Assorted-18 Pads\", en_CA: \"Neon Assorted-18 Pads\" and 5 other variant(s) en_GB, de_DE, fr_FR, zh_CN, it_IT]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01MZ02HS7, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The ean, ean provided matches ASIN B01N5K2ERV, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Red Grid\", en_US: \"Red\", en_CA: \"Red Grid\" and 13 other variant(s) en_IN, en_CA, en_GB, fr_CA, es_MX, es_ES, it_IT, pt_BR, de_DE, fr_FR, es_US, zh_CN, zh_TW]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01N5K2ERV, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the ean, ean provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B0756Z8N8X, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"Neon Color-india Taj Mahal\", en_AU: \"Neon Color-india Taj Mahal\", en_AE: \"Neon Color-india Taj Mahal\" and 4 other variant(s) en_CA, fr_FR, de_DE, it_IT]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B0756Z8N8X, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07B8DSVRB, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Bright Ultra Colors\"] / Amazon [en_US: \"Extra Colors 6 X 8-4 Pads\", en_AU: \"Extra Colors 6 X 8-4 Pads\", en_AE: \"Extra Colors 6 X 8-4 Pads\" and 10 other variant(s) en_CA, en_GB, de_DE, pt_BR, fr_FR, zh_CN, ar_AE, es_ES, es_US, it_IT]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07B8DSVRB, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    },
+    {
+      "code": "8801",
+      "severity": "WARNING",
+      "message": "The child SKU 'AAAA 4A 3036' could not be added to parent SKU 'PARENT-4A-MEMO-NOTE-CUBES' because another SKU 'AAAA 4A 3031' has the same variation attributes [\"color_name\",\"size_name\"] and is already associated with the parent SKU.",
+      "field": "Number of attributes with errors (B)",
+      "sku_or_count": "1"
+    }
+  ],
+  "errors": [
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K7)",
+      "sku_or_count": "4A 012"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K8)",
+      "sku_or_count": "4A 0127"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B0756Z8N8X, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"Neon Color-india Taj Mahal\", en_AU: \"Neon Color-india Taj Mahal\", en_AE: \"Neon Color-india Taj Mahal\" and 4 other variant(s) en_CA, fr_FR, de_DE, it_IT]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B0756Z8N8X, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B9)",
+      "sku_or_count": "4A 0129"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B075CZBSR9, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"Neon Color-panda\", en_CA: \"Neon Color-panda\", en_IN: \"Neon Color-panda\" and 7 other variant(s) en_AE, en_AU, en_GB, it_IT, es_ES, de_DE, fr_FR]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B075CZBSR9, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B10)",
+      "sku_or_count": "4A 0131"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B075D8CHKS, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"Neon Color-cat\", en_CA: \"Neon Color-cat\", en_AE: \"Neon Color-cat\" and 4 other variant(s) en_AU, it_IT, de_DE, fr_FR]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B075D8CHKS, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B11)",
+      "sku_or_count": "4A 0132"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B075FS5K2T, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"Neon Color-rabbit\", en_AU: \"Neon Color-rabbit\", en_AE: \"Neon Color-rabbit\" and 5 other variant(s) en_IN, en_CA, fr_FR, de_DE, it_IT]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B075FS5K2T, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B12)",
+      "sku_or_count": "4A 0133"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B075JDN7D7, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"Neon Color-whale\", en_GB: \"Neon Color-whale\", en_CA: \"Neon Color-whale\" and 7 other variant(s) en_IN, en_AU, en_AE, es_ES, it_IT, de_DE, fr_FR]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B075JDN7D7, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B13)",
+      "sku_or_count": "4A 0134"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B075JDKV77, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"Neon Color-peking Opera\", en_CA: \"Neon Color-peking Opera\", en_IN: \"Neon Color-peking Opera\" and 5 other variant(s) en_AU, en_AE, fr_FR, de_DE, it_IT]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B075JDKV77, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B14)",
+      "sku_or_count": "4A 0135"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K17)",
+      "sku_or_count": "4A 0146"
+    },
+    {
+      "code": "100095",
+      "severity": "ERROR",
+      "message": "The value '办公室' of the attribute 'Recommended Uses For Product' is not a valid value. Please provide a valid value.",
+      "field": "Recommended Uses For Product (EV17)",
+      "sku_or_count": "4A 0146"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07796X7LB, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Yellow-1 Pack\", en_CA: \"Yellow-1 Pack\", it_IT: \"Yellow-1 Pack\" and 2 other variant(s) fr_FR, de_DE]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07796X7LB, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B18)",
+      "sku_or_count": "4A 0147"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01M58HPUJ, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'manufacturer' (Merchant [en_CA: \"China\", en_US: \"China\", es_MX: \"China\"] / Amazon [en_CA: \"4A（USA）LIMITED\", en_US: \"4A（USA）LIMITED\", es_MX: \"4A（USA）LIMITED\" and 18 other variant(s) en_IE, en_GB, en_AU, en_SG, en_AE, en_IN, es_ES, de_DE, fr_FR, ja_JP, it_IT, pl_PL, tr_TR, fr_BE, pt_BR, sv_SE, nl_NL, zh_CN]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01M58HPUJ, then update your listing's 'manufacturer' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B19)",
+      "sku_or_count": "4A 015"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K20)",
+      "sku_or_count": "4A 0156"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B077QBYMYW, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Classic Assorted\"] / Amazon [en_US: \"White-glaze Macaw Parrot\", de_DE: \"White-glaze Macaw Parrot\", fr_FR: \"White-glaze Macaw Parrot\" and 1 other variant(s) it_IT]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B077QBYMYW, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B21)",
+      "sku_or_count": "4A 0170"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K22)",
+      "sku_or_count": "4A 0173"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K24)",
+      "sku_or_count": "4A 0177"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01MZ02HS7, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Pastel Assorted\"] / Amazon [en_US: \"Neon Assorted-18 Pads\", en_AU: \"Neon Assorted-18 Pads\", en_CA: \"Neon Assorted-18 Pads\" and 5 other variant(s) en_GB, de_DE, fr_FR, zh_CN, it_IT]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01MZ02HS7, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B25)",
+      "sku_or_count": "4A 023"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01MSZSP8F, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Green&red\", en_AU: \"Green&red\", en_SG: \"Green&red\" and 11 other variant(s) en_CA, en_AE, ko_KR, tr_TR, pt_BR, ar_AE, it_IT, de_DE, zh_CN, es_US, fr_CA]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01MSZSP8F, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B26)",
+      "sku_or_count": "4A 038"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07B8JFJZY, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Extra Colors 4 X 4-6 Pads\", en_AE: \"Extra Colors 4 X 4-6 Pads\", en_AU: \"Extra Colors 4 X 4-6 Pads\" and 7 other variant(s) en_GB, en_CA, zh_CN, fr_FR, pt_BR, it_IT, de_DE]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07B8JFJZY, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B27)",
+      "sku_or_count": "4A 185"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07B8DSVRB, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Bright Ultra Colors\"] / Amazon [en_US: \"Extra Colors 6 X 8-4 Pads\", en_AU: \"Extra Colors 6 X 8-4 Pads\", en_AE: \"Extra Colors 6 X 8-4 Pads\" and 10 other variant(s) en_CA, en_GB, de_DE, pt_BR, fr_FR, zh_CN, ar_AE, es_ES, es_US, it_IT]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07B8DSVRB, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B28)",
+      "sku_or_count": "4A 189"
+    },
+    {
+      "code": "99300",
+      "severity": "ERROR",
+      "message": "Bullet Point contains false/promotional claims or external links. Update content to comply with Product detail page policy before resubmitting. See guidelines https://sellercentral.amazon.com/help/hub/reference/external/G200390640",
+      "field": "Bullet Point (AT28)",
+      "sku_or_count": "4A 189"
+    },
+    {
+      "code": "13013",
+      "severity": "WARNING",
+      "message": "Your inventory cannot be updated because the SKU is not in the catalog or has been deleted. Check your product data, correct any errors, and resubmit with the original UPC/GTIN instead of a suggested ASIN. If you are listing a product in another marketplace, it may require few hours for the listing to be available. Please check your seller account for progress or any issues.",
+      "field": "Number of attributes with errors (B29)",
+      "sku_or_count": "4A 301x24"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K30)",
+      "sku_or_count": "4A 303 Full Glue"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K31)",
+      "sku_or_count": "4A 303 x 6-N"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K32)",
+      "sku_or_count": "4A 303 x 6-N-L"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K33)",
+      "sku_or_count": "4A 303 x 6-N-Z"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K34)",
+      "sku_or_count": "4A 303 x 6-Z"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01M58HPUJ, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'manufacturer' (Merchant [en_US: \"China\"] / Amazon [en_US: \"4A（USA）LIMITED\", en_IE: \"4A（USA）LIMITED\", en_GB: \"4A（USA）LIMITED\" and 18 other variant(s) en_CA, en_AU, en_SG, en_AE, en_IN, de_DE, fr_FR, ja_JP, it_IT, pl_PL, es_MX, tr_TR, fr_BE, es_ES, pt_BR, sv_SE, nl_NL, zh_CN]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01M58HPUJ, then update your listing's 'manufacturer' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B35)",
+      "sku_or_count": "4A 303 x12"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K37)",
+      "sku_or_count": "4A 303 x12-Z"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K38)",
+      "sku_or_count": "4A 303 x18-N-Z"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K39)",
+      "sku_or_count": "4A 303 x18-Y"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B00SMEFEFM, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'manufacturer' (Merchant [en_CA: \"China\", en_US: \"China\", es_MX: \"China\"] / Amazon [en_CA: \"4A\", en_US: \"4A（USA）LIMITED\", es_MX: \"4A\" and 17 other variant(s) en_IE, en_GB, en_IN, en_SG, en_AU, en_AE, es_ES, fr_FR, de_DE, it_IT, pl_PL, zh_CN, fr_BE, pt_BR, sv_SE, nl_NL, ja_JP]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B00SMEFEFM, then update your listing's 'manufacturer' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B40)",
+      "sku_or_count": "4A 3032"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K41)",
+      "sku_or_count": "4A 3033"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K42)",
+      "sku_or_count": "4A 3035"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01MXZU9PX, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_GB: \"color7\", en_CA: \"Colors-3036\", it_IT: \"Colors-3036\"]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01MXZU9PX, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B43)",
+      "sku_or_count": "4A 3036"
+    },
+    {
+      "code": "100893",
+      "severity": "ERROR",
+      "message": "Your product variation can't be created because required attributes are missing from child ASIN B01MXZU9PX. Provide [color.value] to link it with parent ASIN B0HPTDMBSS.",
+      "field": "Color (BM43)",
+      "sku_or_count": "4A 3036"
+    },
+    {
+      "code": "100893",
+      "severity": "ERROR",
+      "message": "Your product variation can't be created because required attributes are missing from child ASIN B01MXZU9PX. Provide [color.value] to link it with parent ASIN B0HPTDMBSS.",
+      "field": "Color Map (HN43)",
+      "sku_or_count": "4A 3036"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01NBM1PR6, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Colors-3037\", en_CA: \"Colors-3037\", en_AE: \"Colors-3037\" and 2 other variant(s) de_DE, fr_FR]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01NBM1PR6, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B44)",
+      "sku_or_count": "4A 3037"
+    },
+    {
+      "code": "100893",
+      "severity": "ERROR",
+      "message": "Your product variation can't be created because required attributes are missing from child ASIN B01NBM1PR6. Provide [color.value] to link it with parent ASIN B0HPTDMBSS.",
+      "field": "Color (BM44)",
+      "sku_or_count": "4A 3037"
+    },
+    {
+      "code": "100893",
+      "severity": "ERROR",
+      "message": "Your product variation can't be created because required attributes are missing from child ASIN B01NBM1PR6. Provide [color.value] to link it with parent ASIN B0HPTDMBSS.",
+      "field": "Color Map (HN44)",
+      "sku_or_count": "4A 3037"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K45)",
+      "sku_or_count": "4A 303MZ24"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K47)",
+      "sku_or_count": "4A 303x18-N*4"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K48)",
+      "sku_or_count": "4A 404 x 6-N"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K49)",
+      "sku_or_count": "4A 404x6-N*2"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K50)",
+      "sku_or_count": "4A 40606*2"
+    },
+    {
+      "code": "100720",
+      "severity": "ERROR",
+      "message": "Invalid language data provided for in marketplace www.amazon.com (ATVPDKIKX0DER) for attributes Brand Name",
+      "field": "Brand Name (L50)",
+      "sku_or_count": "4A 40606*2"
+    },
+    {
+      "code": "100720",
+      "severity": "ERROR",
+      "message": "Invalid language data provided for in marketplace www.amazon.com (ATVPDKIKX0DER) for attributes Manufacturer",
+      "field": "Manufacturer (S50)",
+      "sku_or_count": "4A 40606*2"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K51)",
+      "sku_or_count": "4A 40607x4"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K53)",
+      "sku_or_count": "4A 5018"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K57)",
+      "sku_or_count": "4A 601867"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K58)",
+      "sku_or_count": "4A 602378"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K59)",
+      "sku_or_count": "4A 608-N-L-210*2"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K62)",
+      "sku_or_count": "4A 661134"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01M2UDADZ, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Colors-66114\", en_GB: \"Colors-66114\", en_AE: \"Colors-66114\" and 25 other variant(s) en_CA, en_ZA, en_SG, en_IN, en_IE, en_AU, nl_NL, es_US, ar_AE, fr_FR, ja_JP, fr_BE, hi_IN, nl_BE, zh_CN, it_IT, ko_KR, tr_TR, fr_CA, pl_PL, es_ES, sv_SE, es_MX, pt_BR, de_DE]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01M2UDADZ, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B63)",
+      "sku_or_count": "4A 66114"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K65)",
+      "sku_or_count": "4A 8088"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K66)",
+      "sku_or_count": "4A 8664"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K67)",
+      "sku_or_count": "4A BP1515 NGORY"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K68)",
+      "sku_or_count": "4A BP2222 NGPOY"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K69)",
+      "sku_or_count": "4A GM303-Full Glue*2"
+    },
+    {
+      "code": "100477",
+      "severity": "WARNING",
+      "message": "In order to sell this product on the Amazon store, please refer to the Amazon policy at https://sellercentral.amazon.com/help/hub/reference/external/G55N3JF2WQS7RVNE",
+      "field": "Number of attributes with errors (B71)",
+      "sku_or_count": "4A GMSCCR 012"
+    },
+    {
+      "code": "100390",
+      "severity": "ERROR",
+      "message": "In order to sell this product on the Amazon marketplace, you must provide documents related to ps_toys_dv_us. Failure to provide these documentations by 2026-02-26T02:27:06.249Z may result in suppression of this ASIN from the Amazon website.",
+      "field": "Number of attributes with errors (B71)",
+      "sku_or_count": "4A GMSCCR 012"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K74)",
+      "sku_or_count": "4A MEETING-41-B*4"
+    },
+    {
+      "code": "101265",
+      "severity": "WARNING",
+      "message": "165.0 USD sales forecast on FBA conversion for this offer in the next 90 days. Moving from MFN to FBA for fulfillment can improve sales by this estimated amount. This forecast was generated through a Machine Learning Model",
+      "field": "Number of attributes with errors (B75)",
+      "sku_or_count": "4A MEETING-41-Y*4"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B07GWWVNNK, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'manufacturer' (Merchant [en_CA: \"China\", en_US: \"China\", es_MX: \"China\"] / Amazon [en_CA: \"4A（USA）LIMITED\", en_US: \"4A（USA）LIMITED\", es_MX: \"4A（USA）LIMITED\" and 15 other variant(s) en_GB, en_IN, en_SG, en_AU, en_AE, es_ES, de_DE, fr_FR, it_IT, ja_JP, pl_PL, fr_BE, sv_SE, pt_BR, nl_NL]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B07GWWVNNK, then update your listing's 'manufacturer' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B75)",
+      "sku_or_count": "4A MEETING-41-Y*4"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K76)",
+      "sku_or_count": "4A MEETING-51*4"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K77)",
+      "sku_or_count": "4A Meeting-41-W*12"
+    },
+    {
+      "code": "100470",
+      "severity": "ERROR",
+      "message": "You have used the following words more than twice in Title: [pad]. To fix, please resubmit with the correct data.",
+      "field": "Item Name (J78)",
+      "sku_or_count": "4A Meeting-51"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K78)",
+      "sku_or_count": "4A Meeting-51"
+    },
+    {
+      "code": "100893",
+      "severity": "ERROR",
+      "message": "Your product variation can't be created because required attributes are missing from child ASIN B07GBYPK92. Provide [size.value] to link it with parent ASIN B07CXS2GT7.",
+      "field": "Size (BN78)",
+      "sku_or_count": "4A Meeting-51"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B00V9Z5UMI, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Pink Grid\", en_CA: \"Pink Grid\", en_AE: \"Pink Grid\" and 16 other variant(s) en_AU, en_GB, en_SG, en_IN, pt_BR, es_ES, es_MX, ar_AE, it_IT, nl_NL, ja_JP, zh_CN, es_US, de_DE, fr_FR, pl_PL]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B00V9Z5UMI, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B79)",
+      "sku_or_count": "4A PSS 9-1 NPGrid"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K80)",
+      "sku_or_count": "4A PSS 9-1 NR"
+    },
+    {
+      "code": "100899",
+      "severity": "ERROR",
+      "message": "Your child ASIN B00V9Z5YCO cannot be added because another child ASIN [B07FKCSH65] already shares the same [color.value, size.value] with parent ASIN B0HPTC18T2.",
+      "field": "Color (BM80)",
+      "sku_or_count": "4A PSS 9-1 NR"
+    },
+    {
+      "code": "100899",
+      "severity": "ERROR",
+      "message": "Your child ASIN B00V9Z5YCO cannot be added because another child ASIN [B07FKCSH65] already shares the same [color.value, size.value] with parent ASIN B0HPTC18T2.",
+      "field": "Size (BN80)",
+      "sku_or_count": "4A PSS 9-1 NR"
+    },
+    {
+      "code": "100899",
+      "severity": "ERROR",
+      "message": "Your child ASIN B00V9Z5YCO cannot be added because another child ASIN [B07FKCSH65] already shares the same [color.value, size.value] with parent ASIN B0HPTC18T2.",
+      "field": "Color Map (HN80)",
+      "sku_or_count": "4A PSS 9-1 NR"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The ean, ean provided matches ASIN B01N5K2ERV, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Red Grid\", en_US: \"Red\", en_CA: \"Red Grid\" and 13 other variant(s) en_IN, en_CA, en_GB, fr_CA, es_MX, es_ES, it_IT, pt_BR, de_DE, fr_FR, es_US, zh_CN, zh_TW]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01N5K2ERV, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the ean, ean provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B81)",
+      "sku_or_count": "4A PSS 9-1 NRGrid"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The standard product ids (such as UPC, ISBN, EAN, or JAN codes) provided matches ASIN B01N5K2ERV, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Red Grid\", en_US: \"Red\", en_CA: \"Red Grid\" and 13 other variant(s) en_IN, en_CA, en_GB, fr_CA, es_MX, es_ES, it_IT, pt_BR, de_DE, fr_FR, es_US, zh_CN, zh_TW]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01N5K2ERV, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the standard product ids (such as UPC, ISBN, EAN, or JAN codes) provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B81)",
+      "sku_or_count": "4A PSS 9-1 NRGrid"
+    },
+    {
+      "code": "100893",
+      "severity": "ERROR",
+      "message": "Your product variation can't be created because required attributes are missing from child ASIN B01N5K2ERV. Provide [size.value] to link it with parent ASIN B0HPTC18T2.",
+      "field": "Size (BN81)",
+      "sku_or_count": "4A PSS 9-1 NRGrid"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K82)",
+      "sku_or_count": "4A PSS 9-1 NYRGBGRID"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K84)",
+      "sku_or_count": "4A PSS-9-1 NGPRY"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K85)",
+      "sku_or_count": "4A PSS-9-1 NGYOP"
+    },
+    {
+      "code": "100477",
+      "severity": "WARNING",
+      "message": "In order to sell this product on the Amazon store, please refer to the Amazon policy at https://sellercentral.amazon.com/help/hub/reference/external/G55N3JF2WQS7RVNE",
+      "field": "Number of attributes with errors (B87)",
+      "sku_or_count": "4A SCCR 012"
+    },
+    {
+      "code": "100390",
+      "severity": "ERROR",
+      "message": "In order to sell this product on the Amazon marketplace, you must provide documents related to ps_toys_dv_us. Failure to provide these documentations by 2026-02-26T02:27:06.249Z may result in suppression of this ASIN from the Amazon website.",
+      "field": "Number of attributes with errors (B87)",
+      "sku_or_count": "4A SCCR 012"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K88)",
+      "sku_or_count": "4A SCLB 1901"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B0821LGDKQ, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'manufacturer' (Merchant [en_US: \"China\"] / Amazon [en_US: \"4A (USA) LIMITED\", en_ZA: \"4A (USA) LIMITED\", en_AU: \"4A (USA) LIMITED\" and 18 other variant(s) en_SG, en_GB, en_CA, en_IN, en_AE, es_ES, it_IT, fr_BE, pl_PL, pt_BR, de_DE, fr_FR, ja_JP, tr_TR, sv_SE, es_MX, nl_NL, zh_CN]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B0821LGDKQ, then update your listing's 'manufacturer' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B90)",
+      "sku_or_count": "4A SCLB 1903"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B0827QX86D, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'item_classification' (Merchant [\"base_product\"] / Amazon []). To fix the issue, please follow these steps 1) If the product you are listing is the same as B0827QX86D, then update your listing's 'item_classification' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B91)",
+      "sku_or_count": "4A SCPOPUP303"
+    },
+    {
+      "code": "100470",
+      "severity": "ERROR",
+      "message": "You have used the following words more than twice in Title: [4a]. To fix, please resubmit with the correct data.",
+      "field": "Item Name (J91)",
+      "sku_or_count": "4A SCPOPUP303"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K92)",
+      "sku_or_count": "4A SNL608-0B"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01NCQST12, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Canary Yellow\"] / Amazon [en_US: \"Pastel Assorted-12 Pads\", en_CA: \"Pastel Assorted-12 Pads\", it_IT: \"Pastel Assorted-12 Pads\" and 2 other variant(s) de_DE, fr_FR]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01NCQST12, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B93)",
+      "sku_or_count": "4A001"
+    },
+    {
+      "code": "99300",
+      "severity": "ERROR",
+      "message": "Bullet Point contains false/promotional claims or external links. Update content to comply with Product detail page policy before resubmitting. See guidelines https://sellercentral.amazon.com/help/hub/reference/external/G200390640",
+      "field": "Bullet Point (AT93)",
+      "sku_or_count": "4A001"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K94)",
+      "sku_or_count": "4A0103"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K95)",
+      "sku_or_count": "4A0118"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K96)",
+      "sku_or_count": "4A043"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K97)",
+      "sku_or_count": "4A045"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K98)",
+      "sku_or_count": "4A050"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K99)",
+      "sku_or_count": "4A058"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K100)",
+      "sku_or_count": "4A059"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K101)",
+      "sku_or_count": "4A063"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K102)",
+      "sku_or_count": "4A076"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01NCQ7U0X, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Red\", en_GB: \"Red\", en_CA: \"Red\" and 11 other variant(s) de_DE, es_ES, ko_KR, ar_AE, fr_FR, it_IT, fr_CA, es_US, pt_BR, zh_CN, zh_TW]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01NCQ7U0X, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B103)",
+      "sku_or_count": "4A078"
+    },
+    {
+      "code": "99300",
+      "severity": "ERROR",
+      "message": "Bullet Point contains false/promotional claims or external links. Update content to comply with Product detail page policy before resubmitting. See guidelines https://sellercentral.amazon.com/help/hub/reference/external/G200390640",
+      "field": "Bullet Point (AT103)",
+      "sku_or_count": "4A078"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K104)",
+      "sku_or_count": "4A080"
+    },
+    {
+      "code": "8541",
+      "severity": "ERROR",
+      "message": "The Listing data provided is different from what's already in the Amazon catalog. The item_id provided matches ASIN B01MZ4FB7O, but some of the listing data contradicts what is already in the Amazon catalog. The following listing attribute value(s) conflict with Amazon catalog value(s): 'color' (Merchant [en_US: \"Neon Assorted\"] / Amazon [en_US: \"Pink Grid\", en_IN: \"Pink Grid\", en_GB: \"Pink Grid\" and 6 other variant(s) en_CA, zh_CN, es_ES, zh_TW, es_US, de_DE]). To fix the issue, please follow these steps 1) If the product you are listing is the same as B01MZ4FB7O, then update your listing's 'color' attribute(s) to match Amazon's catalog value, 2) If it's not the right ASIN, make sure the item_id provided is correct, or 3) If you disagree with the data in Amazon catalog contact Selling Partner Support to start the appeal process.",
+      "field": "Number of attributes with errors (B105)",
+      "sku_or_count": "4A085"
+    },
+    {
+      "code": "100899",
+      "severity": "ERROR",
+      "message": "Your child ASIN B01MZ4FB7O cannot be added because another child ASIN [B00V9Z5UMI] already shares the same [color.value, size.value] with parent ASIN B0HPTC18T2.",
+      "field": "Color (BM105)",
+      "sku_or_count": "4A085"
+    },
+    {
+      "code": "100899",
+      "severity": "ERROR",
+      "message": "Your child ASIN B01MZ4FB7O cannot be added because another child ASIN [B00V9Z5UMI] already shares the same [color.value, size.value] with parent ASIN B0HPTC18T2.",
+      "field": "Size (BN105)",
+      "sku_or_count": "4A085"
+    },
+    {
+      "code": "100899",
+      "severity": "ERROR",
+      "message": "Your child ASIN B01MZ4FB7O cannot be added because another child ASIN [B00V9Z5UMI] already shares the same [color.value, size.value] with parent ASIN B0HPTC18T2.",
+      "field": "Color Map (HN105)",
+      "sku_or_count": "4A085"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K106)",
+      "sku_or_count": "AAAA 4A 3031"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K107)",
+      "sku_or_count": "AAAA 4A 3032"
+    },
+    {
+      "code": "8801",
+      "severity": "WARNING",
+      "message": "The child SKU 'AAAA 4A 3033' could not be added to parent SKU 'PARENT-4A-MEMO-NOTE-CUBES' because another SKU 'AAAA 4A 3031' has the same variation attributes [\"color_name\",\"size_name\"] and is already associated with the parent SKU.",
+      "field": "Number of attributes with errors (B108)",
+      "sku_or_count": "AAAA 4A 3033"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K108)",
+      "sku_or_count": "AAAA 4A 3033"
+    },
+    {
+      "code": "8801",
+      "severity": "WARNING",
+      "message": "The child SKU 'AAAA 4A 3034' could not be added to parent SKU 'PARENT-4A-MEMO-NOTE-CUBES' because another SKU 'AAAA 4A 3031' has the same variation attributes [\"color_name\",\"size_name\"] and is already associated with the parent SKU.",
+      "field": "Number of attributes with errors (B109)",
+      "sku_or_count": "AAAA 4A 3034"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K109)",
+      "sku_or_count": "AAAA 4A 3034"
+    },
+    {
+      "code": "8801",
+      "severity": "WARNING",
+      "message": "The child SKU 'AAAA 4A 3035' could not be added to parent SKU 'PARENT-4A-MEMO-NOTE-CUBES' because another SKU 'AAAA 4A 3031' has the same variation attributes [\"color_name\",\"size_name\"] and is already associated with the parent SKU.",
+      "field": "Number of attributes with errors (B110)",
+      "sku_or_count": "AAAA 4A 3035"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K110)",
+      "sku_or_count": "AAAA 4A 3035"
+    },
+    {
+      "code": "8801",
+      "severity": "WARNING",
+      "message": "The child SKU 'AAAA 4A 3036' could not be added to parent SKU 'PARENT-4A-MEMO-NOTE-CUBES' because another SKU 'AAAA 4A 3031' has the same variation attributes [\"color_name\",\"size_name\"] and is already associated with the parent SKU.",
+      "field": "Number of attributes with errors (B111)",
+      "sku_or_count": "AAAA 4A 3036"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K111)",
+      "sku_or_count": "AAAA 4A 3036"
+    },
+    {
+      "code": "8801",
+      "severity": "WARNING",
+      "message": "The child SKU 'AAAA 4A 3037' could not be added to parent SKU 'PARENT-4A-MEMO-NOTE-CUBES' because another SKU 'AAAA 4A 3031' has the same variation attributes [\"color_name\",\"size_name\"] and is already associated with the parent SKU.",
+      "field": "Number of attributes with errors (B112)",
+      "sku_or_count": "AAAA 4A 3037"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K112)",
+      "sku_or_count": "AAAA 4A 3037"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K113)",
+      "sku_or_count": "AAAA 4A 303x6-Z"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K114)",
+      "sku_or_count": "AAAA 4A 60122x6-N"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K115)",
+      "sku_or_count": "AAAA 4A 6413+6414"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K116)",
+      "sku_or_count": "AAAA 4A 6417+6418"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K117)",
+      "sku_or_count": "AAAA 4A 65000x8"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K118)",
+      "sku_or_count": "AAAA 4A 6524+6525"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K119)",
+      "sku_or_count": "AAAA 4A 8066+8067"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K120)",
+      "sku_or_count": "AAAA 4A 8068+8065"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K121)",
+      "sku_or_count": "AAAA 4A 8069+8070"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K122)",
+      "sku_or_count": "AAAA 4A 8071+8083"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K123)",
+      "sku_or_count": "AAAA 4A 8072+8073"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K124)",
+      "sku_or_count": "AAAA 4A 8074+8067"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K125)",
+      "sku_or_count": "AAAA 4A 8075+8076"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K126)",
+      "sku_or_count": "AAAA 4A 8077+8079"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K127)",
+      "sku_or_count": "AAAA 4A 8078+8080"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K128)",
+      "sku_or_count": "AAAA 4A 8084+ 8082"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K129)",
+      "sku_or_count": "AAAA 4A 8085+8086"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K130)",
+      "sku_or_count": "AAAA 4A 8087+8088"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K131)",
+      "sku_or_count": "AAAA 4A 8089+8081"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K132)",
+      "sku_or_count": "AAAA 4A 8665+8666"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K133)",
+      "sku_or_count": "AAAA 4A 8667+ 8666"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K134)",
+      "sku_or_count": "AAAA 4A Meeting-41-W"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K135)",
+      "sku_or_count": "AAAA 4A PSS 9-3 BGR"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K136)",
+      "sku_or_count": "AAAA 4A SMC 435"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K137)",
+      "sku_or_count": "4A 305-Full Adhesive"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K138)",
+      "sku_or_count": "AAAA 4A 304-Full Glue"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K139)",
+      "sku_or_count": "4A 302-Full Adhesive-400"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K140)",
+      "sku_or_count": "4A 305-Full Adhesive-300"
+    },
+    {
+      "code": "18155",
+      "severity": "ERROR",
+      "message": "Your selling price is below your minimum price threshold. Check if you entered the correct price and review your minimum and maximum price thresholds. You'll need to adjust your product price.",
+      "field": "Number of attributes with errors (B142)",
+      "sku_or_count": "4A PSS 9-3 2 Sets"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K143)",
+      "sku_or_count": "4A 305 x 6"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K144)",
+      "sku_or_count": "4A PSS 9-3 Refill"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K145)",
+      "sku_or_count": "4A MG30312"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K146)",
+      "sku_or_count": "4A BP 2222-Nx4"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K147)",
+      "sku_or_count": "4A 305x6-N-Lx4"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K148)",
+      "sku_or_count": "4A 30132"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K149)",
+      "sku_or_count": "4A 303M-PNx12*4"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K150)",
+      "sku_or_count": "4A SC303M15-Popup"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K151)",
+      "sku_or_count": "4A 0130"
+    },
+    {
+      "code": "100476",
+      "severity": "ERROR",
+      "message": "Provide an Item Name that is 75 characters or less to use Item Highlights. Additional details can be found in the tool tip.",
+      "field": "Item Highlight (K152)",
+      "sku_or_count": "4A 30512-L"
+    }
+  ],
+  "items": [
+    {
+      "sku": "4A 012",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 0127",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 0129",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 0131",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 0132",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 0133",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 0134",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 0135",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 0138",
+      "status": "SUCCESS",
+      "error_count": "0",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 0140",
+      "status": "SUCCESS",
+      "error_count": "0",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 0146",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "2",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 0147",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 015",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 0156",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 0170",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 0173",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 0174",
+      "status": "SUCCESS",
+      "error_count": "0",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 0177",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 023",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 038",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 185",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 189",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 2,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 301x24",
+      "status": "SUCCESS",
+      "error_count": 0,
+      "warning_count": "1"
+    },
+    {
+      "sku": "4A 303 Full Glue",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 303 x 6-N",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 303 x 6-N-L",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 303 x 6-N-Z",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 303 x 6-Z",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 303 x12",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 303 x12-N",
+      "status": "SUCCESS",
+      "error_count": "0",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 303 x12-Z",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 303 x18-N-Z",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 303 x18-Y",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 3032",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 3033",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 3035",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 3036",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 3,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 3037",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 3,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 303MZ24",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 303x18-N",
+      "status": "SUCCESS",
+      "error_count": "0",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 303x18-N*4",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 404 x 6-N",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 404x6-N*2",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 40606*2",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "3",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 40607x4",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 40622",
+      "status": "SUCCESS",
+      "error_count": "0",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 5018",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 60121-10x2",
+      "status": "SUCCESS",
+      "error_count": "0",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 60171",
+      "status": "SUCCESS",
+      "error_count": "0",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 60174-Sign Herex2",
+      "status": "SUCCESS",
+      "error_count": "0",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 601867",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 602378",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 608-N-L-210*2",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 6084-NL",
+      "status": "SUCCESS",
+      "error_count": "0",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 66113",
+      "status": "SUCCESS",
+      "error_count": "0",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 661134",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 66114",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 8086",
+      "status": "SUCCESS",
+      "error_count": "0",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 8088",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 8664",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A BP1515 NGORY",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A BP2222 NGPOY",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A GM303-Full Glue*2",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A GMGR4066",
+      "status": "SUCCESS",
+      "error_count": "0",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A GMSCCR 012",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "1"
+    },
+    {
+      "sku": "4A GMSCLB 1902",
+      "status": "SUCCESS",
+      "error_count": "0",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A GR4066",
+      "status": "SUCCESS",
+      "error_count": "0",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A MEETING-41-B*4",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A MEETING-41-Y*4",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "1"
+    },
+    {
+      "sku": "4A MEETING-51*4",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A Meeting-41-W*12",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A Meeting-51",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "3",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A PSS 9-1 NPGrid",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A PSS 9-1 NR",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "4",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A PSS 9-1 NRGrid",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 2,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A PSS 9-1 NYRGBGRID",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A PSS 9-1 NYRPOGRID",
+      "status": "SUCCESS",
+      "error_count": "0",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A PSS-9-1 NGPRY",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A PSS-9-1 NGYOP",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A SC404-AC-holder",
+      "status": "SUCCESS",
+      "error_count": "0",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A SCCR 012",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "1"
+    },
+    {
+      "sku": "4A SCLB 1901",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A SCLB 1902",
+      "status": "SUCCESS",
+      "error_count": "0",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A SCLB 1903",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A SCPOPUP303",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 2,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A SNL608-0B",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A001",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 2,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A0103",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A0118",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A043",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A045",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A050",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A058",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A059",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A063",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A076",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A078",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 2,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A080",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A085",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 4,
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 3031",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 3032",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 3033",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "1"
+    },
+    {
+      "sku": "AAAA 4A 3034",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "1"
+    },
+    {
+      "sku": "AAAA 4A 3035",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "1"
+    },
+    {
+      "sku": "AAAA 4A 3036",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "1"
+    },
+    {
+      "sku": "AAAA 4A 3037",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "1"
+    },
+    {
+      "sku": "AAAA 4A 303x6-Z",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 60122x6-N",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 6413+6414",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 6417+6418",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 65000x8",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 6524+6525",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 8066+8067",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 8068+8065",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 8069+8070",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 8071+8083",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 8072+8073",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 8074+8067",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 8075+8076",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 8077+8079",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 8078+8080",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 8084+ 8082",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 8085+8086",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 8087+8088",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 8089+8081",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 8665+8666",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 8667+ 8666",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A Meeting-41-W",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A PSS 9-3 BGR",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A SMC 435",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 305-Full Adhesive",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 304-Full Glue",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 302-Full Adhesive-400",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 305-Full Adhesive-300",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "AAAA 4A 305-Full Glue",
+      "status": "SUCCESS",
+      "error_count": "0",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A PSS 9-3 2 Sets",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": 1,
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 305 x 6",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A PSS 9-3 Refill",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A MG30312",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A BP 2222-Nx4",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 305x6-N-Lx4",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 30132",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 303M-PNx12*4",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A SC303M15-Popup",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 0130",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    },
+    {
+      "sku": "4A 30512-L",
+      "status": "SUCCESS (OTHER ERROR)",
+      "error_count": "1",
+      "warning_count": "0"
+    }
+  ]
+}

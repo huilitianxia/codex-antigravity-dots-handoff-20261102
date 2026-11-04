@@ -1,0 +1,26 @@
+{
+  "file": "E:\\OpenAI-Codex\\\u5929\u7687\u306ecodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261031-urgent-fixes\\06-three-skus-five-bullets-only.xlsm",
+  "sha256": "eb6476fc07d20ae222c1bfc202182074318bc75c52c842a593f37687da7be390",
+  "rows": 3,
+  "asins": 3,
+  "bullets": 15,
+  "populated_columns": [
+    "C",
+    "D",
+    "E",
+    "L",
+    "M",
+    "AS",
+    "AT",
+    "AU",
+    "AV",
+    "AW"
+  ],
+  "all_columns_checked": true,
+  "non_target_fields": 0,
+  "changed_zip_parts": [
+    "xl/worksheets/sheet5.xml"
+  ],
+  "headers_macros_other_tabs_unchanged": true,
+  "uploaded": false
+}

@@ -1,0 +1,22 @@
+{
+  "asin": "B07FKG29KB",
+  "sku": "4A GM30315",
+  "before": {
+    "regular": 15.99,
+    "sale": 14.99,
+    "min": 13.49,
+    "business": 15.67,
+    "shipping": 8.99,
+    "shipping_template": "Cube delivery",
+    "fixed_price_discount": 13.5
+  },
+  "target": {
+    "regular": 7.99,
+    "business": 7.49,
+    "min": 7.19,
+    "shipping": "pending clarification8.99or4.99"
+  },
+  "quantity_preserve": 1054,
+  "stage": "staged-not-committed",
+  "at": "2026-11-03T11:54:59.101Z"
+}

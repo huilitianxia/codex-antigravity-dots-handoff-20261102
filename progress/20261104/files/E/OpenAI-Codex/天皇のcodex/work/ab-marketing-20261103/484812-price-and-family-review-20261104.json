@@ -1,0 +1,73 @@
+{
+  "at": "2026-11-04T01:17:55.618Z",
+  "price": {
+    "sku": "4A GM484812-N*3",
+    "asin": "B07PWM2X8Y",
+    "packs": 3,
+    "pads": 36,
+    "sheets": 3600,
+    "orderItemPrice": 17.99,
+    "orderStatus": "等待企业买家批准",
+    "publicItemPrice": 17.99,
+    "publicShippingNY10001": 4.99,
+    "masterPerBasePack": 5.99,
+    "masterThreePackEquivalent": 17.97,
+    "priceConclusion": "matches Excel benchmark; no live price edit"
+  },
+  "FBMUSNov3": {
+    "unshipped": 1,
+    "pendingEnterpriseApproval": 1
+  },
+  "family": {
+    "visibleASINs": [
+      "B07PWM2X8Y",
+      "B07RP9LR73",
+      "B07FK6867S",
+      "B07FKGPCQM",
+      "B01N2YLQ23",
+      "B01LVXOCU2",
+      "B07FKF8M2B",
+      "B07FK81CQ6",
+      "B07RP9MSSG",
+      "B07MGH2KWS",
+      "B07RQ7JMV9",
+      "B07KPF9PFX",
+      "B07FK8LN8D",
+      "B0F7LW38FX",
+      "B07Q1ZPL56",
+      "B07F2B6JT9"
+    ],
+    "directThreePackAdvertised": false,
+    "advertised": [
+      {
+        "model": "301x24Neon",
+        "asin": "B01LVXOCU2",
+        "campaign": "A065124016N4SI5FF9GDM",
+        "dailyBudget": 2,
+        "productAdsVerified": true
+      },
+      {
+        "model": "30132",
+        "asin": "B07RQ7JMV9",
+        "campaign": "A076106617HP171QF1Y50",
+        "dailyBudget": 1,
+        "productAdsVerified": true
+      },
+      {
+        "model": "354832",
+        "asin": "B07RP9LR73",
+        "campaign": "A01532032232LQS5VVH5H",
+        "dailyBudget": 1,
+        "productAdsVerified": true
+      }
+    ],
+    "combinedDailyBudget": 4,
+    "performanceFile": "484812-family-live-ad-performance-20261104.json"
+  },
+  "mutations": [],
+  "evidence": [
+    "484812-master-price-fresh-evidence-20261104.json",
+    "484812-family-visible-ASINs-20261104.json",
+    "484812-family-live-ad-bindings-20261104.json"
+  ]
+}

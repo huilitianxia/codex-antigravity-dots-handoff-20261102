@@ -1,0 +1,907 @@
+有货FBA逐SKU页面与双报价执行台账
+统计：{"rows": 129, "asins": 128, "priority04_rows": 29, "fba_units_scan": 6030, "routes": {"KEEP_CURRENT_ASIN_VERIFY_EXISTING_MFN": 18, "KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED": 54, "KEEP_CURRENT_ASIN_DUAL_OFFER": 55, "30315_CASE_PENDING": 1, "301_PARALLEL_EXCEPTION": 1}, "with_active_same_asin_mfn": 55, "with_cross_asin_candidates": 80}
+扫描129有货FBA报价覆盖全部128 ASIN。优先列04草案29条；所有新增价格方案冻结。
+同ASIN报价存在由本次完整快照支持；跨ASIN只列身份候选，不自动认定同款/最佳页。
+
+[04优先] 4A 304-Full Adhesive-400 | B07QXJWDPL | FBA 533 | 近30天FBA 10 | KEEP_CURRENT_ASIN_VERIFY_EXISTING_MFN
+保留当前有货页与18.99既有促销；旧页B07T42DY5K缺货且约3.0分不足以支持迁移
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07T42DY5K", "source_excel_row": 59, "source_title": "4A Sticky Full Adhesive Notes,4 x 3 Inches,80 Sheets/Color,5 Colors/Pack,Self-Stick Notes,400 Sheets Total,4A 304-Full Adhesive-400", "upc_equal": false, "vc_upc": "702877124314", "sc_upc": "702877121870", "active_offers": [], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": ["3"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page05.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+[04优先] 4A 305-Full Adhesive | B0FBG138ND | FBA 427 | 近30天FBA 123 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page06.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+[04优先] AAAA 4A 304-Full Glue | B07FK975YB | FBA 372 | 近30天FBA 49 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page07.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+[04优先] 4A 302-Full Adhesive-400 | B0F2TKL2P5 | FBA 338 | 近30天FBA 75 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page08.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+[04优先] 4A 305-Full Adhesive-300 | B07QXJZKHC | FBA 180 | 近30天FBA 11 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM305-Full Adhesive-300", "quantity": 784, "price": 21.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T42DM1R", "source_excel_row": 60, "source_title": "4A Sticky Full Adhesive Notes,5 x 3 Inches,60 Sheets/Color,5 Colors/Pack,Self-Stick Notes,300 Sheets Total,4A 305-Full Adhesive-300", "upc_equal": false, "vc_upc": "702877124321", "sc_upc": "702877121887", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page11.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+[04优先] AAAA 4A 305-Full Glue | B07FK9BYHW | FBA 60 | 近30天FBA 2 | KEEP_CURRENT_ASIN_VERIFY_EXISTING_MFN
+保留原FBA SKU/FNSKU；同ASIN存在目录MFN记录但未见本次有货报价，核查库存与启售
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page16.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+[04优先] 4A 004 | B01LVXOCU2 | FBA 59 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B01N5FAJAR", "source_excel_row": 11, "source_title": "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24", "upc_equal": false, "vc_upc": "702877117248", "sc_upc": "702877118634", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page17.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+[04优先] AAAA 4A 301x12-N | B07FK8LN8D | FBA 45 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page18.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+[04优先] 4A 301x24x2 | B0F7LW38FX | FBA 43 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page18.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+[04优先] 4A PSS 9-3 2 Sets | B0DYNL5SMR | FBA 33 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B0CPM4CP6T", "source_excel_row": 118, "source_title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 0.6 x 315 Inches,Neon Yellow/Orange/Red,Neon Blue/Green/Red,3 Color/ Roll,2 Rolls With Dispenser and 2 Refill Rolls,4A PSS 9-3 2 Sets", "upc_equal": false, "vc_upc": "702877126585", "sc_upc": "702877125304", "active_offers": [{"sku": "4A PSS 9-3 2 Sets-FBA", "channel": "AFN", "quantity": 3, "sales_units_ui": null}], "fba_units": 3.0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page19.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+[04优先] 4A BP 1111-Nx4 | B07QWKYQV7 | FBA 25 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GMBP 1111-Nx4", "quantity": 839, "price": 27.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T78PWRY", "source_excel_row": 161, "source_title": "4A Sticky Big Pad,11 x 11 In,Large Size,Neon Yellow,Orange,Red and Green,Self-Stick Notes,30 Sheets/Pad,4 Pad/Pack,4A BP 1111-Nx4", "upc_equal": false, "vc_upc": "702877124512", "sc_upc": "702877121900", "active_offers": [], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page20.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+[04优先] 4A 301M32 | B07RQ7G57D | FBA 23 | 近30天FBA 0 | KEEP_CURRENT_ASIN_VERIFY_EXISTING_MFN
+保留原FBA SKU/FNSKU；同ASIN存在目录MFN记录但未见本次有货报价，核查库存与启售
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page21.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+[04优先] 4A 305 x 6 | B01MSZM8IC | FBA 23 | 近30天FBA 0 | KEEP_CURRENT_ASIN_VERIFY_EXISTING_MFN
+保留原FBA SKU/FNSKU；同ASIN存在目录MFN记录但未见本次有货报价，核查库存与启售
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page21.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+[04优先] 4A PSS 9-3 Refill | B0DY12Y8FK | FBA 22 | 近30天FBA 9 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page21.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+[04优先] AAAA 4A PSS 9-5 NB | B07QXJX2BV | FBA 22 | 近30天FBA 4 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GMPSS 9-5 Refill", "quantity": 413, "price": 16.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T78GX66", "source_excel_row": 123, "source_title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 0.4 x 315 Inches,Neon Assorted,Self-Stick Notes,5 Color/Roll,4 Refill Rolls,4A PSS 9-5 Refill", "upc_equal": false, "vc_upc": "702877127117", "sc_upc": "702877121856", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page21.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+[04优先] 4A 20232 | B07RP9MSSG | FBA 21 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM20232", "quantity": 182, "price": 18.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T7PXS3F", "source_excel_row": 18, "source_title": "4A Sticky Notes,2 x 2 Inches,Small Size,Neon Assorted,16 Colors,Self-Stick Notes,100 Sheets/Pad,32 Pads/Pack,4A 20232", "upc_equal": false, "vc_upc": "702877124604", "sc_upc": "702877120958", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page21.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+[04优先] 4A MG30312 | B01MU0JZHU | FBA 21 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page21.txt, fba-fees-page6.txt, fba-potential-from-orders.json
+
+[04优先] 4A BP 2222-Nx4 | B07RT4GTLZ | FBA 19 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GMBP 2222-Nx4", "quantity": 393, "price": 59.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T79M4MD", "source_excel_row": 163, "source_title": "4A Sticky Big Pad,22 x 22 In,Large Size,Neon Yellow,Orange,Red and Green,Self-Stick Notes,20 Sheets/Pad,4 Pads/Pack,4A BP 2222-Nx4", "upc_equal": false, "vc_upc": "702877124499", "sc_upc": "702877126929", "active_offers": [], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page23.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+[04优先] 4A MG30124 | B01N9LOE7P | FBA 18 | 近30天FBA 0 | KEEP_CURRENT_ASIN_VERIFY_EXISTING_MFN
+保留原FBA SKU/FNSKU；同ASIN存在目录MFN记录但未见本次有货报价，核查库存与启售
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page23.txt, fba-fees-page6.txt, fba-potential-from-orders.json
+
+[04优先] 4A 305x6-N-Lx4 | B0F28LXKKF | FBA 17 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page23.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+[04优先] 4A 30132 | B07RQ7JMV9 | FBA 16 | 近30天FBA 1 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM30132", "quantity": 470, "price": 12.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T7PXS32", "source_excel_row": 12, "source_title": "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,16 Colors,Self-Stick Notes,100 Sheets/Pad,32 Pads/Box,4A 30132", "upc_equal": false, "vc_upc": "702877124598", "sc_upc": "702877120934", "active_offers": [], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": ["3.7"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page23.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+[04优先] 4A 303S-20 | B07RP8HYCJ | FBA 16 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM303S-20", "quantity": 179, "price": 19.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T55QHDC", "source_excel_row": 67, "source_title": "4A Super Sticky Notes,3 x 3 Inches,Extra Bright Colors Assorted,5 Colors,80 Sheets/Pad,20 Pads/Pack,4A 303S-20", "upc_equal": false, "vc_upc": "702877127001", "sc_upc": "702877121924", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page23.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+[04优先] AAAA 4A 2028-N | B07FKGPCQM | FBA 13 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM2028-N*3", "quantity": 491, "price": 12.99, "sales_units_ui": null}]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page23.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+[04优先] 4A 303M-PNx12*4 | B07M855HVB | FBA 12 | 近30天FBA 0 | KEEP_CURRENT_ASIN_VERIFY_EXISTING_MFN
+保留原FBA SKU/FNSKU；同ASIN存在目录MFN记录但未见本次有货报价，核查库存与启售
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page25.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+[04优先] 4A PSS 9-5 Refill | B07QXJX2BV | FBA 10 | 近30天FBA 4 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GMPSS 9-5 Refill", "quantity": 413, "price": 16.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T78GX66", "source_excel_row": 123, "source_title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 0.4 x 315 Inches,Neon Assorted,Self-Stick Notes,5 Color/Roll,4 Refill Rolls,4A PSS 9-5 Refill", "upc_equal": false, "vc_upc": "702877127117", "sc_upc": "702877121856", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page27.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+[04优先] 4A 0130 | B0756ZY4F8 | FBA 8 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B01LYXPGQH", "source_excel_row": 181, "source_title": "4A Printed Sticky Notes,Cute Designs, Self-Stick Notes,MERRY CHRISTMAS, Close Size: 4 1/2 x 6 Inches,50 Sheets/Pad,7 Pads/Pack,4A 8667\n2 x 4/5 Inches x3 Pads,\n2 x 1 3/4 Inches x2 Pads,\n2 1/6 x 2 1/2 Inches x1 Pad,\n3 1/3 x 2 1/6Inches x1 Pad,", "upc_equal": false, "vc_upc": "702877125533", "sc_upc": "702877120453", "active_offers": [{"sku": "4A 8667", "channel": "MFN", "quantity": 1009, "sales_units_ui": null}], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page28.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+[04优先] 4A SC303M15-Popup | B07WDWY3B2 | FBA 8 | 近30天FBA 0 | KEEP_CURRENT_ASIN_VERIFY_EXISTING_MFN
+保留原FBA SKU/FNSKU；同ASIN存在目录MFN记录但未见本次有货报价，核查库存与启售
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page28.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+[04优先] 4A 30512-L | B07RQ7B9QR | FBA 6 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM30512-L", "quantity": 55, "price": 18.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T79KGSF", "source_excel_row": 33, "source_title": "4A Sticky Notes,3 x 5 Inches,Neon Assorted,Lined,12 Colors,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 30512-L", "upc_equal": false, "vc_upc": "702877124567", "sc_upc": "702877120996", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page29.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+[04优先] 4A PSS 9-3 2 Sets-FBA | B0CPM4CP6T | FBA 3 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B0DYNL5SMR", "source_excel_row": 118, "source_title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 0.6 x 315 Inches,Neon Yellow/Orange/Red,Neon Blue/Green/Red,3 Color/ Roll,2 Rolls With Dispenser and 2 Refill Rolls,4A PSS 9-3 2 Sets", "upc_equal": false, "vc_upc": "702877126585", "sc_upc": "702877125304", "active_offers": [{"sku": "4A PSS 9-3 2 Sets", "channel": "AFN", "quantity": 33, "sales_units_ui": null}], "fba_units": 33.0, "units30_fba": 0, "historical_ratings_unverified": ["3.9"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page32.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+AAAA 4A 40609 | B07FKBHTDG | FBA 612 | 近30天FBA 26 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM40609*2", "quantity": 337, "price": 9.99, "sales_units_ui": null}]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page04.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+4A 304 Full Glue | B00SMEFFRE | FBA 332 | 近30天FBA 68 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B01N0UHIJB", "source_excel_row": 52, "source_title": "4A Sticky Full Adhesive Notes,4 x 3 Inches,20 Sheets/Color,5 Colors/Pack,Self-Stick Notes,100 Sheets Total,4A 304 Full Glue  ", "upc_equal": false, "vc_upc": "702877118542", "sc_upc": "702877119334", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page08.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+4A 5082-Y-Lx2 | B0F9L5G6XQ | FBA 292 | 近30天FBA 68 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page08.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+4A PSS 9-1 NYNRx2 | B07QWKWWP2 | FBA 162 | 近30天FBA 2 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM-PSS 9-1 NYNRx2", "quantity": 132, "price": 19.99, "sales_units_ui": 0}]
+跨ASIN候选：[{"asin": "B07T79F2JF", "source_excel_row": 114, "source_title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 2 x 315 Inches,Neon Yellow and Red,Self-Stick Notes,2 Rolls With Dispenser and 2 Refill Rolls,4A PSS 9-1 NYNRx2", "upc_equal": false, "vc_upc": "702877127049", "sc_upc": "702877121818", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page11.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+AAAA 4A 5084-N-L | B07FKJM2LX | FBA 161 | 近30天FBA 3 | KEEP_CURRENT_ASIN_VERIFY_EXISTING_MFN
+保留原FBA SKU/FNSKU；同ASIN存在目录MFN记录但未见本次有货报价，核查库存与启售
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page11.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+4A 5084-N-L | B07F2B49BL | FBA 143 | 近30天FBA 4 | KEEP_CURRENT_ASIN_VERIFY_EXISTING_MFN
+保留原FBA SKU/FNSKU；同ASIN存在目录MFN记录但未见本次有货报价，核查库存与启售
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07DJPCBLV", "source_excel_row": 44, "source_title": "4A Sticky Notes,5 x 8 Inches,Large Size,Neon Assorted,Lined,4 Neon Colors,Self-Stick Notes,50 Sheets/Pad,4 Pads/Pack,200 Sheets/Pack,4A 5084-N-L", "upc_equal": false, "vc_upc": "702877124888", "sc_upc": "702877124161", "active_offers": [], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page12.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+4A055 | B00SMEENOU | FBA 140 | 近30天FBA 0 | KEEP_CURRENT_ASIN_VERIFY_EXISTING_MFN
+保留原FBA SKU/FNSKU；同ASIN存在目录MFN记录但未见本次有货报价，核查库存与启售
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B01NBMJNTU", "source_excel_row": 79, "source_title": "4A Shapes Sticky Note,Tree Shape,2.6 x 2.71 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5037", "upc_equal": false, "vc_upc": "702877120125", "sc_upc": "702877119259", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page12.txt, fba-fees-page6.txt, fba-potential-from-orders.json
+
+4A PSS 9-1 Grid-NYNGx2 | B07R2KSW34 | FBA 130 | 近30天FBA 1 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A PSS 9-1 NGGrid", "quantity": 187, "price": 22.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T695C58", "source_excel_row": 112, "source_title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 2 x 315 Inches,Neon Yellow and Green,Grid,Self-Stick Notes,2 Rolls With Dispenser and 2 Refill Rolls,4A PSS 9-1 Grid-NYNGx2", "upc_equal": false, "vc_upc": "702877127063", "sc_upc": "702877121795", "active_offers": [], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page13.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+AAAA 4A PSS 9-1 NGGrid | B07FK7PBHJ | FBA 98 | 近30天FBA 0 | KEEP_CURRENT_ASIN_VERIFY_EXISTING_MFN
+保留原FBA SKU/FNSKU；同ASIN存在目录MFN记录但未见本次有货报价，核查库存与启售
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；SKU写NGGrid但当前标题写NYNR双卷套装，先核实实物配置和页面身份，暂不促销放量
+证据：category-report-audit.json, coupon-fullscan-page14.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+4A 6031x4 | B07RP9K6KV | FBA 77 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM6031x4", "quantity": 288, "price": 11.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T7PLZGP", "source_excel_row": 148, "source_title": "4A Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Stickers, Writable,Bookmarks,Repositionable,Great Labeling,Flaging,Retrieving Folders&Documents,25 Pads/set,4 Sets,4A 6031x4", "upc_equal": false, "vc_upc": "702877120293", "sc_upc": "702877124383", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page15.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+4A PSS 9-1 Refill | B07QVKPZXX | FBA 67 | 近30天FBA 9 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GMPSS 9-1 Refill", "quantity": 408, "price": 17.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T2ZR129", "source_excel_row": 116, "source_title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 2 x 315 Inches,Neon Assorted,Self-Stick Notes,4 Refill Rolls,4A PSS 9-1 Refill", "upc_equal": false, "vc_upc": "702877127094", "sc_upc": "702877121832", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page16.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+AAAA 4A PSS 9-1 NRGrid | B07FKF5V92 | FBA 63 | 近30天FBA 2 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM-SC-PSS 9-1 Grid Refill", "quantity": 379, "price": 17.39, "sales_units_ui": null}]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page16.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+4A 5082-Y-L-GM | B07F2BHFJH | FBA 62 | 近30天FBA 16 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07DJKB2S9", "source_excel_row": 43, "source_title": "4A Sticky Notes,5 x 8 Inches,Large Size, Yellow,Lined,Self-Stick Notes,50 Sheets/Pad,2 Pads/Pack,100 Sheets/Pack,4A 5082-Y-L", "upc_equal": false, "vc_upc": "702877124895", "sc_upc": "702877124178", "active_offers": [], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page16.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+4A 303-Full Adhesive-400 | B07QXJYTZ7 | FBA 60 | 近30天FBA 179 | KEEP_CURRENT_ASIN_VERIFY_EXISTING_MFN
+保留原FBA SKU/FNSKU；同ASIN存在目录MFN记录但未见本次有货报价，核查库存与启售
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07T55RL8M", "source_excel_row": 58, "source_title": "4A Sticky Full Adhesive Notes,3 x 3 Inches,80 Sheets/Color,Self-Stick Notes,5 Colors/Pack,400 Sheets Total,4A 303-Full Adhesive-400", "upc_equal": false, "vc_upc": "702877124307", "sc_upc": "702877121863", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页；近30天179件、当前约60件，保留现有价格及企业优惠，优先补货
+证据：category-report-audit.json, coupon-fullscan-page17.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+4A073 | B00SMEEVKQ | FBA 60 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A 40607", "quantity": 346, "price": 4.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B01N7M9YNN", "source_excel_row": 91, "source_title": "4A Divider Sticky Notes,Note Tabs,3 3/8  x 2 3/4 Inches,160 Gsm White Paper,Lined,15 Sheets/Divider,4 Divders/Pack,Self-Stick Notes,60 Sheets Total,4A 40607", "upc_equal": false, "vc_upc": "702877120057", "sc_upc": "702877119426", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页；售价4.99、企业价4.49及已有数量优惠，保留低价，不为达到Coupon门槛涨价
+证据：category-report-audit.json, coupon-fullscan-page16.txt, fba-fees-page6.txt, fba-potential-from-orders.json
+
+4A 5088-Rainbow | B0F2YHTD8T | FBA 52 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page17.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+4A 5020x3 | B07RN7WQ81 | FBA 51 | 近30天FBA 23 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM5020x3", "quantity": 1337, "price": 25.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T79KGWF", "source_excel_row": 82, "source_title": "4A Shapes Sticky Notes,Puzzle,2 7/8 x 2 4/7 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,4 Pads/Pack,3 Packs,4A 5020x3", "upc_equal": false, "vc_upc": "702877120286", "sc_upc": "702877122952", "active_offers": [{"sku": "4A 5020x3-FBA", "channel": "AFN", "quantity": 5, "sales_units_ui": null}], "fba_units": 5.0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page17.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+AAAA 4A PSS 9-1 NBGrid | B07FK8MF91 | FBA 48 | 近30天FBA 1 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GMPSS 9-1 NBGrid", "quantity": 70, "price": 8.99, "sales_units_ui": null}]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page17.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+4A PSS 9-1 Grid-NBNPx2 | B07QWKYMGM | FBA 46 | 近30天FBA 2 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GMPSS 9-1 Grid-NBNPx2", "quantity": 358, "price": 22.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T77NCFP", "source_excel_row": 111, "source_title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 2 x 315 Inches,Neon Blue and Pink,Grid,Self-Stick Notes,2 Rolls With Dispenser and 2 Refill Rolls,4A PSS 9-1 Grid-NBNPx2", "upc_equal": false, "vc_upc": "702877127070", "sc_upc": "702877121788", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page18.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+4A 303-Holder+Flag | B0F2TJ7ZL7 | FBA 44 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page18.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+AAAA 4A 303-AC-holder | B07FKHHTYG | FBA 44 | 近30天FBA 1 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM303-AC-holder", "quantity": 1196, "price": 10.99, "sales_units_ui": 0}]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page18.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+4A PSS 9-3 YORx2 | B07FK9S7S8 | FBA 43 | 近30天FBA 7 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page18.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+4A BS 1801 Refill | B0F2TJZ8GM | FBA 37 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page19.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+4A 5037x2 | B0F1TZ114W | FBA 35 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page19.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+4A SCPSS 32x6 | B08DKJ2K3T | FBA 34 | 近30天FBA 37 | KEEP_CURRENT_ASIN_DUAL_OFFER
+PSS32x6同ASIN双报价作为目标结构；保留两履约，另修错误变体标签
+同ASIN有货MFN：[{"sku": "4A GM-SCPSS 32x6", "quantity": 835, "price": 13.99, "sales_units_ui": 0}]
+跨ASIN候选：[{"asin": "B08CVLH794", "source_excel_row": 110, "source_title": "4A Roll Sticky Notes with Dispenser, Full Adhesive,Width x Length 0.6 x 393 Inches,6 different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6", "upc_equal": false, "vc_upc": "702877126578", "sc_upc": "702877126561", "active_offers": [], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": ["4"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page19.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+AAAA 4A 124418 | B07DJKB4FZ | FBA 34 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07F2CWVQ7", "source_excel_row": 2, "source_title": "4A Page Maker 1/2x1 3/4 Inches,Small Size,Neon Assorted,Self-Stick Notes,16 Colors,50 sheets/Pad,16 Pads/Pack,800 Sheets/Pack,4A 124418", "upc_equal": false, "vc_upc": "702877124819", "sc_upc": "702877124154", "active_offers": [{"sku": "4A 124418", "channel": "MFN", "quantity": 12, "sales_units_ui": null}], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page19.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+4A 5036x2 | B0F1TTFTKQ | FBA 33 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page19.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+AAAA 4A 40622 | B07FKFMJTL | FBA 33 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM40622*2", "quantity": 65, "price": 3.99, "sales_units_ui": null}]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page19.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+4A PSS 9-5 NANBx2 | B07QXJYKJN | FBA 32 | 近30天FBA 6 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07T791NDQ", "source_excel_row": 115, "source_title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 0.4 x 315 Inches,Neon Assorted,Self-Stick Notes,5 Color/Roll,2 Rolls With Dispenser and 2 Refill Rolls,4A PSS 9-5 NANBx2", "upc_equal": false, "vc_upc": "702877127087", "sc_upc": "702877121825", "active_offers": [], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page20.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+4A BP 1111-Px4 | B07QZR9Z3P | FBA 28 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GMBP 1111-Px4", "quantity": 1010, "price": 29.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T55RL97", "source_excel_row": 160, "source_title": "4A Sticky Big Pad,11 x 11 In,Large Size,Pastel Yellow,Blue,Pink,Green,Self-Stick Notes,30 Sheets/Pad,4 Pad/Pack,4A BP 1111-Px4", "upc_equal": false, "vc_upc": "702877124536", "sc_upc": "702877121894", "active_offers": [], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page20.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+4A PSS 9-1 NGNOx2 | B07QXJY3FH | FBA 27 | 近30天FBA 2 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GMPSS 9-1 NGNOx2", "quantity": 639, "price": 19.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T42DY4H", "source_excel_row": 113, "source_title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 2 x 315 Inches,Neon Green and Orange,Self-Stick Notes,2 Rolls With Dispenser and 2 Refill Rolls,4A PSS 9-1 NGNOx2", "upc_equal": false, "vc_upc": "702877127056", "sc_upc": "702877121801", "active_offers": [], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page20.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+4A 60144x2 | B07T7PTYQ2 | FBA 26 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page20.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+AAAA 4A SMC 434 | B07FKHNTRK | FBA 26 | 近30天FBA 19 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GMSMC 434", "quantity": 979, "price": 12.99, "sales_units_ui": null}]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page20.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+AAAA 4A PSS 9-1 NYGrid | B07FKB3BRZ | FBA 25 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GMPSS 9-1 NYGrid", "quantity": 182, "price": 7.38, "sales_units_ui": 0}]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page20.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+AAAA 4A 608-N-L-210 | B07B8RBCKT | FBA 24 | 近30天FBA 2 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A 608-N-L-210", "quantity": 1518, "price": 11.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07HDVVZ1B", "source_excel_row": 47, "source_title": "4A Sticky Notes,6 x 8 Inches,Large Size,7 Neon Color Assorted,Lined,Self-Stick Notes,210 Sheets/Pad,1Pad/Pack,4A 608-N-L-210", "upc_equal": false, "vc_upc": "702877124901", "sc_upc": "702877121153", "active_offers": [{"sku": "4A 608-N-L-210-FBA", "channel": "AFN", "quantity": 3, "sales_units_ui": null}], "fba_units": 3.0, "units30_fba": 0, "historical_ratings_unverified": ["4.4"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page21.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+4A 30315 | B07F295DPC | FBA 22 | 近30天FBA 0 | 30315_CASE_PENDING
+保留原报价并跟进case22923307871；不得直接改FBA ASIN
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；30315已有15.99促销，目录合并Case 22923307871待审，本批保留价格
+证据：category-report-audit.json, coupon-fullscan-page21.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+4A 354818 | B07DJKDB63 | FBA 22 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07F2BTFS1", "source_excel_row": 13, "source_title": "4A Sticky Notes,1 3/8 x 1 7/8 Inches,Small Size,The Adhesive On Longer Side,Neon Assorted,Self-Stick Notes,18 Colors,100 Sheets/Pad,18 Pads/Pack,4A 354818", "upc_equal": false, "vc_upc": "702877124826", "sc_upc": "702877124079", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page21.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+4A 50024 | B07RP9BW5Z | FBA 21 | 近30天FBA 1 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM50024", "quantity": 137, "price": 19.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T696FKR", "source_excel_row": 81, "source_title": "4A Shapes Sticky Notes,50 Sheets Neon Assorted and 50 Sheets Pastel Assorted in One Shape,12 Different Shapes Self-Stick Notes,50 Sheets/Pad,24 Pad/Pack,4A 50024", "upc_equal": false, "vc_upc": "702877126950", "sc_upc": "702877122945", "active_offers": [], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page21.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+4A 5084-N-L*4 | B07MQVWLSY | FBA 20 | 近30天FBA 1 | KEEP_CURRENT_ASIN_VERIFY_EXISTING_MFN
+保留原FBA SKU/FNSKU；同ASIN存在目录MFN记录但未见本次有货报价，核查库存与启售
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page22.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+4A BS 1801-FBA | B07JVSYNYV | FBA 20 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07K8L4K8K", "source_excel_row": 104, "source_title": "4A Sticky Note Bundle Set, Colored Rectangular Notes and Index Flags Organizer, Gifts for Students and Teachers! 100 Sheets/Pad, 6 Pads/Set, 600 Sheets/Set, 4A BS 1801", "upc_equal": false, "vc_upc": "702877121429", "sc_upc": "702877126707", "active_offers": [{"sku": "4A GMBS 1801", "channel": "MFN", "quantity": 1035, "sales_units_ui": null}, {"sku": "4A BS 1801", "channel": "AFN", "quantity": 1, "sales_units_ui": 1}], "fba_units": 1.0, "units30_fba": 1, "historical_ratings_unverified": ["4.6"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page22.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+AAAA 4A 406x6-N | B07FKHHTY4 | FBA 20 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM406x6-N", "quantity": 521, "price": 13.99, "sales_units_ui": null}]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page22.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+4A 301x12-N | B01LVTWP7Q | FBA 18 | 近30天FBA 0 | 301_PARALLEL_EXCEPTION
+保留FBA老页与B07KPF9PFX的FBM并行；遵循用户例外，暂不强并
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07KPF9PFX", "source_excel_row": 9, "source_title": "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 301x12-N", "upc_equal": false, "vc_upc": "702877117224", "sc_upc": "702877118610", "active_offers": [{"sku": "4A SN301x12-N", "channel": "MFN", "quantity": 23263, "sales_units_ui": 8}], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page23.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+AAAA 4A 4012 | B07FKJLZNG | FBA 17 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM4012", "quantity": 780, "price": 11.99, "sales_units_ui": null}]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page23.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+4A GM-PSS 9-3 YOR | B01MZ4FDN5 | FBA 13 | 近30天FBA 3 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A PSS 9-3 YOR", "quantity": 2463, "price": 9.9, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B00SMEE4BW", "source_excel_row": 120, "source_title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 0.6 x 315 Inches,Neon Yellow/Orange/Red,Self-Stick Notes,3 Color/ Roll,1 Roll/Pack,4A PSS 9-3 YOR", "upc_equal": false, "vc_upc": "702877123027", "sc_upc": "702877119563", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page23.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+4A 032 | B01N0RJSTU | FBA 12 | 近30天FBA 9 | KEEP_CURRENT_ASIN_VERIFY_EXISTING_MFN
+保留原FBA SKU/FNSKU；同ASIN存在目录MFN记录但未见本次有货报价，核查库存与启售
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B01M986NWB", "source_excel_row": 38, "source_title": "4A  Sticky Notes,4 x 6 Inches,Large Size, Yellow,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 406x6-Y           ", "upc_equal": false, "vc_upc": "702877117453", "sc_upc": "702877118917", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page25.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+4A 039 | B01N1T23HH | FBA 12 | 近30天FBA 0 | KEEP_CURRENT_ASIN_VERIFY_EXISTING_MFN
+保留原FBA SKU/FNSKU；同ASIN存在目录MFN记录但未见本次有货报价，核查库存与启售
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page25.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+4A GM6035x5 | B07T55VHS6 | FBA 12 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A 6035x5", "quantity": 353, "price": 22.49, "sales_units_ui": null}]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page24.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+4A 0175 | B077QGRH89 | FBA 10 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A 8087", "quantity": 20, "price": 5.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B01N6QVU6T", "source_excel_row": 215, "source_title": "4A 3D Shape Printed Sticky Notes,Cute Designs,Printed With Lagenodelphis Hosei,Self-Stick Notes,3.75 x 4.13 Inches,100 Sheets/Pad,1 Pad/Pack,4A 8087", "upc_equal": false, "vc_upc": "702877118429", "sc_upc": "702877120897", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page27.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+4A SMC 438 | B07F298JNC | FBA 10 | 近30天FBA 2 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07DLQ14G6", "source_excel_row": 130, "source_title": "4A Sticky Memo Cube,2.87 x 2.87 Inches,Notes Cube with Wearing Collar Dog Patterned Printed On The Four Sides, Self-Stick Notes Cube,About 580 Sheets/Cube,1 Cube/Pack, 4A SMC 438", "upc_equal": false, "vc_upc": "702877124062", "sc_upc": "702877124215", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page27.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+4A 6035-FBA | B00SMEE3XQ | FBA 9 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B01N2YL12Y", "source_excel_row": 153, "source_title": "4A Pop-up Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Tabs Stickers,Writable Labels,Bookmarks,Repositionable,Great Labeling,Flaging,60 Sheets/Pcs,2 Pcs/Pack,4A 6035", "upc_equal": false, "vc_upc": "702877122051", "sc_upc": "702877119976", "active_offers": [{"sku": "4A 6035", "channel": "MFN", "quantity": 12, "sales_units_ui": null}, {"sku": "4A0103", "channel": "AFN", "quantity": 3, "sales_units_ui": null}], "fba_units": 3.0, "units30_fba": 0, "historical_ratings_unverified": ["4.6"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page27.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A SC501521*2 | B08DKFCQBB | FBA 9 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A-501521*2", "quantity": 130, "price": 5.16, "sales_units_ui": 0}]
+跨ASIN候选：[{"asin": "B08CVKHGYT", "source_excel_row": 4, "source_title": "4A Sticky Notes, 50x15mm, Small Size,21 colors, Self-Stick Notes, 100 Sheets/Pad,4200 Sheets,21 Pads/Pack, 4A 501521", "upc_equal": false, "vc_upc": "702877124956", "sc_upc": "702877126547", "active_offers": [], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页；双包装描述、原始总张数及FBM报价不一致，先核实包装后定价
+证据：category-report-audit.json, coupon-fullscan-page27.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+4A 5061x2 | B0F1TW5LS8 | FBA 8 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page28.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+4A 40609x4 | B07T2ZNTGK | FBA 7 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM40609x4", "quantity": 658, "price": 18.99, "sales_units_ui": null}]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page29.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+4A Meeting 52x4 | B07RBVWVY4 | FBA 7 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GMSC-MEETING-52x4", "quantity": 12, "price": 64.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B082WMV9NQ", "source_excel_row": 184, "source_title": "4 Packs 4A Super Sticky Table Top Dry Erase Pad+Easel Pad 2 In 1, Meeting Pad ,Portable White Premium Self Stick Paper,Built-in Easel Stand,Self-Stick Notes,20X23 Inches,Large Size,25 Sheets/Pad,4A Meeting 52x4", "upc_equal": false, "vc_upc": "702877120408", "sc_upc": "702877126981", "active_offers": [], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page28.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+4A SCPSS 7 | B0821LD25K | FBA 7 | 近30天FBA 7 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GMSCPSS 7", "quantity": 1155, "price": 11.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B0821FRJM7", "source_excel_row": 99, "source_title": "4A Pop-up Note Dispenser, Black, Work with 4A Sticky Pop-up Notes, for 100 Sheets 3x3 Notes, 1 Dispenser/Pack, 4A PSS 7", "upc_equal": false, "vc_upc": "702877124710", "sc_upc": "702877125694", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page28.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+AAAA 4A 406x6 | B07FKL263W | FBA 7 | 近30天FBA 14 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page28.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+AAAA 4A 6032 | B07FK81CQ7 | FBA 7 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM6032*2", "quantity": 90, "price": 23.99, "sales_units_ui": null}]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page28.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+4A 406x6-N*2 | B07PVWYS9T | FBA 6 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM406x6-N*2", "quantity": 260, "price": 23.49, "sales_units_ui": null}]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page29.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+4A SC501516 | B07TSD57BD | FBA 6 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A SC501516*2", "quantity": 873, "price": 13.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T42J6FY", "source_excel_row": 3, "source_title": "4A Sticky Notes, 0.6 x 2 Inches, Small Size,16 colors, Self-Stick Notes, 100 Sheets/Pad,16 Pads/Pack, 4A 501516", "upc_equal": false, "vc_upc": "702877121511", "sc_upc": "702877126943", "active_offers": [{"sku": "4A 501516", "channel": "AFN", "quantity": 5, "sales_units_ui": null}], "fba_units": 5.0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页；同ASIN存在单双包价格来源冲突，保留现价待核实
+证据：category-report-audit.json, coupon-fullscan-page29.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+4A 0165 | B077QLHHVH | FBA 5 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B01MZ9PZE6", "source_excel_row": 205, "source_title": "4A 3D Shape Printed Sticky Notes,Cute Designs,Printed With Pinna Fox (Big Ears For Small Desert Fox),Self-Stick Notes,3.75 x 4.13 Inches,100 Sheets/Pad,1 Pad/Pack,4A 8077", "upc_equal": false, "vc_upc": "702877118320", "sc_upc": "702877120798", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page31.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+4A 040 | B01N7IT411 | FBA 5 | 近30天FBA 0 | KEEP_CURRENT_ASIN_VERIFY_EXISTING_MFN
+保留原FBA SKU/FNSKU；同ASIN存在目录MFN记录但未见本次有货报价，核查库存与启售
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page31.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+4A 404-AC-Holder | B07Z2555TN | FBA 5 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07WK3JX6K", "source_excel_row": 103, "source_title": "4A Sticky Note Dispenser Pen Holder Set, Self-Stick Notes, 8 Ultra Colors 4x4 Inches, Lined 400 Neon Sheets Sticky Notes, 4A 404-AC-Holder", "upc_equal": false, "vc_upc": "702877124680", "sc_upc": "702877126899", "active_offers": [{"sku": "4A GMSC404-AC-holder", "channel": "MFN", "quantity": 767, "sales_units_ui": 0}], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page31.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A 404S-Lx6 | B073VPFBL6 | FBA 5 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07B8JFJZY", "source_excel_row": 63, "source_title": "4A Super Sticky Notes,4 x 4 Inches,Large Size,Neon Assorted,Lined,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,600 Sheets/Pack,4A 404S-Lx6", "upc_equal": false, "vc_upc": "702877120194", "sc_upc": "702877121122", "active_offers": [{"sku": "4A GM404S-Linex6*2", "channel": "MFN", "quantity": 376, "sales_units_ui": null}], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page31.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A 40608*2 | B01N6KXLJ5 | FBA 5 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A 40608", "quantity": 12, "price": 4.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B00SMEEVL0", "source_excel_row": 92, "source_title": "4A Divider Sticky Notes,Note Tabs,2 2/3 x 2 7/8 Inches,Neon Assorted,15 Sheets/Divider,4 Divders/Pack,Self-Stick Notes,60 Sheets Total,4A 40608", "upc_equal": false, "vc_upc": "702877120064", "sc_upc": "702877119433", "active_offers": [{"sku": "AAAA 4A 40608", "channel": "MFN", "quantity": 83, "sales_units_ui": null}], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page31.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+4A 484812-N-FBA | B07DJG1W71 | FBA 5 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07F29DHNS", "source_excel_row": 15, "source_title": "4A Sticky Notes,1 7/8 x 1 7/8 Inches,Small Size,Neon Assorted,12 Colors,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 484812-N", "upc_equal": false, "vc_upc": "702877124864", "sc_upc": "702877124086", "active_offers": [], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": ["3.9"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page30.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A 501516 | B07T42J6FY | FBA 5 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07TSD57BD", "source_excel_row": 3, "source_title": "4A Sticky Notes, 0.6 x 2 Inches, Small Size,16 colors, Self-Stick Notes, 100 Sheets/Pad,16 Pads/Pack, 4A 501516", "upc_equal": false, "vc_upc": "702877121511", "sc_upc": "702877126943", "active_offers": [{"sku": "4A SC501516*2", "channel": "MFN", "quantity": 873, "sales_units_ui": null}, {"sku": "4A SC501516", "channel": "AFN", "quantity": 6, "sales_units_ui": null}], "fba_units": 6.0, "units30_fba": 0, "historical_ratings_unverified": ["3.8"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page30.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A 5020x3-FBA | B07T79KGWF | FBA 5 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07RN7WQ81", "source_excel_row": 82, "source_title": "4A Shapes Sticky Notes,Puzzle,2 7/8 x 2 4/7 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,4 Pads/Pack,3 Packs,4A 5020x3", "upc_equal": false, "vc_upc": "702877120286", "sc_upc": "702877122952", "active_offers": [{"sku": "4A GM5020x3", "channel": "MFN", "quantity": 1337, "sales_units_ui": null}, {"sku": "4A 5020x3", "channel": "AFN", "quantity": 51, "sales_units_ui": 35}], "fba_units": 51.0, "units30_fba": 23, "historical_ratings_unverified": ["4"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page30.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A 5036-B00SM-FBA | B00SMEEVC4 | FBA 5 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B01N6IT5IG", "source_excel_row": 75, "source_title": "4A Shapes Sticky Notes,Heart Shape,3 x 3 Inches,Fluorescent Collection,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5036", "upc_equal": false, "vc_upc": "702877120088", "sc_upc": "702877119211", "active_offers": [{"sku": "4A 5036", "channel": "MFN", "quantity": 1404, "sales_units_ui": null}], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page30.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A 5059-B00SM-FBA | B00SMEEVCO | FBA 5 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B01MY06P05", "source_excel_row": 77, "source_title": "4A Shapes Sticky Notes,Bubble Shape,3 3/8 x 1 7/8 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5059", "upc_equal": false, "vc_upc": "702877120101", "sc_upc": "702877119235", "active_offers": [{"sku": "4A 5059", "channel": "MFN", "quantity": 1623, "sales_units_ui": null}], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": ["4"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page30.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A 5061-B00SM-FBA | B00SMEEN40 | FBA 5 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B01N9JKGO8", "source_excel_row": 78, "source_title": "4A Shapes Sticky Notes,Leaf Shape,2.83 x 2.83 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5061", "upc_equal": false, "vc_upc": "702877120118", "sc_upc": "702877119242", "active_offers": [{"sku": "4A054", "channel": "MFN", "quantity": 444, "sales_units_ui": null}], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": ["4"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page30.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A 5088-N-L | B07RP9MB7Y | FBA 5 | 近30天FBA 8 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM5088-N-L", "quantity": 582, "price": 19.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T429N23", "source_excel_row": 45, "source_title": "4A Sticky Notes,5 x 8 Inches,Large Size,Neon Assorted,Lined,8 Colors,Self-Stick Notes,50 Sheets/Pad,8 Pads/Pack,400 Sheets/Pack,4A 5088-N-L", "upc_equal": false, "vc_upc": "702877124673", "sc_upc": "702877121757", "active_offers": [], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": ["4.2"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page30.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+4A 608S-Lx4 | B073VPHSJ9 | FBA 5 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07B8DSVRB", "source_excel_row": 66, "source_title": "4A Super Sticky Notes,6 x 8 Inches,Large Size,Extra Bright Color Assorted,Lined,Self-Stick Notes,50 Sheets/Pad,4 Pads/Pack,200 Sheets/Pack,4A 608S-Lx4", "upc_equal": false, "vc_upc": "702877120217", "sc_upc": "702877121160", "active_offers": [{"sku": "4A GM608S-Linex4*3", "channel": "MFN", "quantity": 117, "sales_units_ui": null}], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page30.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A BS 1803-FBA | B07J6Q5TTR | FBA 5 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07K8KJ83T", "source_excel_row": 107, "source_title": "4A Sticky Note Bundle Set, Colored Rectangular Notes and Index Flags Organizer, With Two Year Calendar, Leather Look Design Holder, Gifts for Students and Teachers! 1800 Sheets/Set, 4A BS 1803", "upc_equal": false, "vc_upc": "702877121443", "sc_upc": "702877126721", "active_offers": [{"sku": "4A BS 1803", "channel": "MFN", "quantity": 7, "sales_units_ui": 1}], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page30.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A SCLB 1901 | B0821GML8W | FBA 5 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GMSCLB 1901", "quantity": 187, "price": 12.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B0823RCMNJ", "source_excel_row": 171, "source_title": "4A Color Coding Labels Dot Labels, 16 Colors, 3/4\" Round, Removable Labels, Round Labels, 70 Labels/Sheet, 4 Sheets/Color, 4480 Labels Total, 4A LB 1901", "upc_equal": false, "vc_upc": "702877124734", "sc_upc": "702877126820", "active_offers": [], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page30.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+4A SMC 435-FBA | B07DLM2QP1 | FBA 5 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07F2CWPTH", "source_excel_row": 127, "source_title": "4A Sticky Memo Cube,2.87 x 2.87 Inches,Notes Cube with Love Cat Patterned Printed On The Four Sides,Self-Stick Notes Cube,About 580 Sheets/Cube,1 Cube/Pack,4A SMC 435", "upc_equal": false, "vc_upc": "702877124031", "sc_upc": "702877124185", "active_offers": [{"sku": "4A SMC 435", "channel": "MFN", "quantity": 12, "sales_units_ui": null}], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page29.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A4013-B07T-FBA | B07T55QCRY | FBA 5 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07RQ6HLK3", "source_excel_row": 73, "source_title": "4A Sticky Notes Value Pack, Neon Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4013", "upc_equal": false, "vc_upc": "702877124703", "sc_upc": "702877121962", "active_offers": [{"sku": "4A GM4013", "channel": "MFN", "quantity": 113, "sales_units_ui": null}], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": ["4.6"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page29.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A5013-B00SM-FBA | B00SMEEV4C | FBA 5 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B01N1U9USQ", "source_excel_row": 76, "source_title": "4A Shapes Sticky Notes,Arrow Shape,2.72 x 2.56 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5013", "upc_equal": false, "vc_upc": "702877120095", "sc_upc": "702877119228", "active_offers": [{"sku": "4A052", "channel": "MFN", "quantity": 1609, "sales_units_ui": null}], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": ["4"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page29.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+AAAA 4A 40607 | B07FK8CJ76 | FBA 5 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM40607*3", "quantity": 145, "price": 9.49, "sales_units_ui": null}]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page29.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+MG-ET8D-JLS7 | B00SMEE5HU | FBA 5 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B01N0VHWSL", "source_excel_row": 131, "source_title": "4A Memo Cube,3 1/4  Inches,Wave Patterned Printed On The Four Sides, About 650 Sheets/Cube,1 Cube/Pack,4A MC 434", "upc_equal": false, "vc_upc": "702877124017", "sc_upc": "702877119624", "active_offers": [{"sku": "4A093", "channel": "MFN", "quantity": 419, "sales_units_ui": 0}], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page29.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A 60122-8 | B07RR924N1 | FBA 4 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM60122-4x2", "quantity": 16, "price": 15.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T7PLLGL", "source_excel_row": 139, "source_title": "4A  Pop-up Flags Set,Neon Color Page Marker Fluorescent Color Index Label,Transparent Tabs Flags Stickers,Text Highlighter Strips Writable Labels Page Marker Bookmarks, Neon Red/Purple/Blue/Orange/Green/Yellow,50 Flags/Dispenser,8 Dispensers/Pack,400 Flags Total,4A 60122-4", "upc_equal": false, "vc_upc": "702877120255", "sc_upc": "702877124413", "active_offers": [], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page31.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+4A GMVC6034 | B00SMEDVEI | FBA 4 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B01MU5BGNQ", "source_excel_row": 151, "source_title": "4A Pop-up Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Tabs Stickers,Writable Labels,Bookmarks,Repositionable, Great Labeling,Flaging,60 Sheets/Pcs,2 Pcs/Pack,4A 6034", "upc_equal": false, "vc_upc": "702877122044", "sc_upc": "702877119969", "active_offers": [{"sku": "4A0102", "channel": "MFN", "quantity": 341, "sales_units_ui": 1}], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": ["4.6"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页；只余4件且低价4.49，保留现价，避免过度压缩回款
+证据：category-report-audit.json, coupon-fullscan-page31.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+AAAA 4A 608S-Linex4 | B07FKPY2V6 | FBA 4 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM608S-Linex4", "quantity": 351, "price": 10.39, "sales_units_ui": null}]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page31.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+303-AC-holder | B07DJP6SNG | FBA 3 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07F2FCHLK", "source_excel_row": 101, "source_title": "4A Sticky Note Dispenser Pen Holder Set,Self-Stick Notes,8 Ultra Colors 3X3 Inches 400 Neon Sheets Sticky Notes and 1*1 3/4 Inches 2X50 Sheets.100 Flags,4A 303-AC-holder", "upc_equal": false, "vc_upc": "702877124765", "sc_upc": "702877124123", "active_offers": [{"sku": "4A 303-AC-holder", "channel": "MFN", "quantity": 12, "sales_units_ui": null}], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page32.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A 0166 | B0784GHSVJ | FBA 3 | 近30天FBA 1 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B01N33USF5", "source_excel_row": 206, "source_title": "4A 3D Shape Printed Sticky Notes,Cute Designs,Printed With Ocean World of The Atlantic Ocean,Self-Stick Notes,3.75 x 4.13 Inches,100 Sheets/Pad,1 Pad/Pack,4A 8078", "upc_equal": false, "vc_upc": "702877118337", "sc_upc": "702877120804", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page32.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+4A 031 | B01MATRHXM | FBA 3 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B01MQWQ61I", "source_excel_row": 25, "source_title": "4A Sticky Notes,4 x 4 Inches,Neon Assorted,Lined,Self-Stick Notes,100 Sheets/Pad,6 Pad/Pack,4A 404x6-N-L    ", "upc_equal": false, "vc_upc": "702877117446", "sc_upc": "702877118900", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页；只余3件、无365天以上库龄，保留当前10.49及8.73最低价
+证据：category-report-audit.json, coupon-fullscan-page32.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+4A 2028-N-FBA | B07DJXC4PJ | FBA 3 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07F295V3S", "source_excel_row": 17, "source_title": "4A Sticky Notes,2 x 2 Inches,Small Size,Neon Assorted,8 Colors,Self-Stick Notes,100 Sheets/Pad,8 Pads/Pack,4A 2028-N", "upc_equal": false, "vc_upc": "702877124833", "sc_upc": "702877124109", "active_offers": [{"sku": "4A 2028-N", "channel": "MFN", "quantity": 1473, "sales_units_ui": null}], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page32.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A 4012-B07T-FBA | B01M3N310M | FBA 3 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B01MZ1PQQ8", "source_excel_row": 72, "source_title": "4A Sticky Notes Value Pack,Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4012", "upc_equal": false, "vc_upc": "702877117644", "sc_upc": "702877119952", "active_offers": [{"sku": "4A GM4012*2", "channel": "MFN", "quantity": 390, "sales_units_ui": null}], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": ["4.6"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page32.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A 40612 | B07RVJB9DL | FBA 3 | 近30天FBA 2 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM40612", "quantity": 109, "price": 21.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07T55RL48", "source_excel_row": 41, "source_title": "4A Sticky Notes,4 x 6 Inches,Neon Assorted,12 Colors,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 40612", "upc_equal": false, "vc_upc": "702877120347", "sc_upc": "702877121467", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page32.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+4A 6043-FBA | B01M986R0Y | FBA 3 | 近30天FBA 0 | KEEP_CURRENT_ASIN_VERIFY_EXISTING_MFN
+保留原FBA SKU/FNSKU；同ASIN存在目录MFN记录但未见本次有货报价，核查库存与启售
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B01MZ4GWAS", "source_excel_row": 157, "source_title": "4A Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Stickers, Writable Labels,Bookmarks,Repositionable,Great Labeling,Flaging,With hole Fit For Binder,2 Pads/set,4A 6043", "upc_equal": false, "vc_upc": "702877121061", "sc_upc": "702877119686", "active_offers": [{"sku": "4A099", "channel": "MFN", "quantity": 284, "sales_units_ui": null}], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": ["4.6"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page32.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A 608-N-L-210-FBA | B07HDVVZ1B | FBA 3 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07B8RBCKT", "source_excel_row": 47, "source_title": "4A Sticky Notes,6 x 8 Inches,Large Size,7 Neon Color Assorted,Lined,Self-Stick Notes,210 Sheets/Pad,1Pad/Pack,4A 608-N-L-210", "upc_equal": false, "vc_upc": "702877124901", "sc_upc": "702877121153", "active_offers": [{"sku": "4A 608-N-L-210", "channel": "MFN", "quantity": 1518, "sales_units_ui": null}, {"sku": "AAAA 4A 608-N-L-210", "channel": "AFN", "quantity": 24, "sales_units_ui": 2}], "fba_units": 24.0, "units30_fba": 2, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page32.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A0103 | B01N2YL12Y | FBA 3 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A 6035", "quantity": 12, "price": 4.49, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B00SMEE3XQ", "source_excel_row": 153, "source_title": "4A Pop-up Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Tabs Stickers,Writable Labels,Bookmarks,Repositionable,Great Labeling,Flaging,60 Sheets/Pcs,2 Pcs/Pack,4A 6035", "upc_equal": false, "vc_upc": "702877122051", "sc_upc": "702877119976", "active_offers": [{"sku": "4A 6035-FBA", "channel": "AFN", "quantity": 9, "sales_units_ui": null}], "fba_units": 9.0, "units30_fba": 0, "historical_ratings_unverified": []}, {"asin": "B0CCDCTBBV", "source_excel_row": 154, "source_title": "4A Pop-up Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Tabs Stickers,Writable Labels,Bookmarks,Repositionable,Great Labeling,Flaging,60 Sheets/Pcs,2 Pcs/Pack,4A 6035x2", "upc_equal": false, "vc_upc": 702877125243, "sc_upc": "702877119976", "active_offers": [], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page31.txt, fba-fees-page6.txt, fba-potential-from-orders.json
+
+AAAA 4A Meeting-6 | B07FKJGDJR | FBA 3 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GMMeeting-6", "quantity": 536, "price": 15.99, "sales_units_ui": null}]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page31.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+4A 037 | B01M617ZTH | FBA 2 | 近30天FBA 1 | KEEP_CURRENT_ASIN_VERIFY_EXISTING_MFN
+保留原FBA SKU/FNSKU；同ASIN存在目录MFN记录但未见本次有货报价，核查库存与启售
+同ASIN有货MFN：[]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page33.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+4A 354832-FBA | B07T42DXZ1 | FBA 2 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07RP9LR73", "source_excel_row": 14, "source_title": "4A Sticky Notes,1 3/8 x 1 7/8 Inches,Small Size,The Adhesive On Longer Side,Neon Assorted,Self-Stick Notes,16 Colors,100 Sheets/Pad,32 Pads/Pack,4A 354832", "upc_equal": false, "vc_upc": "702877124406", "sc_upc": "702877120941", "active_offers": [{"sku": "4A GM354832", "channel": "MFN", "quantity": 435, "sales_units_ui": null}], "fba_units": 0, "units30_fba": 0, "historical_ratings_unverified": ["3.4"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page33.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A 6087-NL-420 | B07T77N118 | FBA 2 | 近30天FBA 1 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GM6087-NL-420", "quantity": 157, "price": 23.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07RQ6L8X5", "source_excel_row": 48, "source_title": "4A Sticky Notes,6 x 8 Inches,Large Size,7 Colors,Lined,Self-Stick Notes,60 Sheets/Pad,7 Pads/Pack,4A 6087-NL-420", "upc_equal": false, "vc_upc": "702877124628", "sc_upc": "702877121771", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page33.txt, fba-fees-page3.txt, fba-potential-from-orders.json
+
+4A 66114 | B01M2UDADZ | FBA 2 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A095", "quantity": 719, "price": 6.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B00SMEEDZO", "source_excel_row": 134, "source_title": "4A Sticky Notes Flags Set,Neon Color Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Page Marker Bookmarks,Assorted Printed,5 Pads/set,4A 66114", "upc_equal": true, "vc_upc": "702877121016", "sc_upc": "702877121016", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page33.txt, fba-fees-page5.txt, fba-potential-from-orders.json
+
+4A 6533-FBA | B01LPKL5IE | FBA 1 | 近30天FBA 0 | KEEP_CURRENT_ASIN_MFN_IDENTITY_REQUIRED
+保留原FBA SKU/FNSKU；没有同ASIN有货MFN证据，先核实实物配置后决定是否新增MFN报价
+同ASIN有货MFN：[]
+跨ASIN候选：[{"asin": "B07548QLN8", "source_excel_row": 175, "source_title": "4A Weekly Planner/Monthly Planner Sticky Pads,Self-Stick Notes,11 x 10 Inches,Large Size,52 Sheets/Pad,1 Pad/Pack,4A 6533", "upc_equal": false, "vc_upc": "702877125465", "sc_upc": "702877119983", "active_offers": [{"sku": "4A 6533", "channel": "MFN", "quantity": 374, "sales_units_ui": null}], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page33.txt, fba-fees-page1.txt, fba-potential-from-orders.json
+
+4A BS 1801 | B07K8L4K8K | FBA 1 | 近30天FBA 1 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GMBS 1801", "quantity": 1035, "price": 17.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B07JVSYNYV", "source_excel_row": 104, "source_title": "4A Sticky Note Bundle Set, Colored Rectangular Notes and Index Flags Organizer, Gifts for Students and Teachers! 100 Sheets/Pad, 6 Pads/Set, 600 Sheets/Set, 4A BS 1801", "upc_equal": false, "vc_upc": "702877121429", "sc_upc": "702877126707", "active_offers": [{"sku": "4A BS 1801-FBA", "channel": "AFN", "quantity": 20, "sales_units_ui": null}], "fba_units": 20.0, "units30_fba": 0, "historical_ratings_unverified": ["4"]}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page33.txt, fba-fees-page4.txt, fba-potential-from-orders.json
+
+4A SCLB 1902 | B0821GTX3C | FBA 1 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GMSCLB 1902", "quantity": 297, "price": 9.99, "sales_units_ui": null}]
+跨ASIN候选：[{"asin": "B0821KTFS6", "source_excel_row": 172, "source_title": "4A Black Chalkboard Labels, About 2.5x3.5 Inches, 96 Chalkboard Stickers, Waterproof Reuseable and Remove Cleanly, for Jars, Glass, Cups, Organize Your Kitchen, 4A LB 1902", "upc_equal": false, "vc_upc": "702877124741", "sc_upc": "702877126837", "active_offers": [], "fba_units": 0, "units30_fba": null, "historical_ratings_unverified": []}]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN；存在Excel同款候选但UPC/装量/胶型须验证；当前不据此合并或宣称最佳页
+证据：category-report-audit.json, coupon-fullscan-page33.txt, fba-fees-page2.txt, fba-potential-from-orders.json
+
+AAAA 4A SMC 436 | B07FKJDBFT | FBA 1 | 近30天FBA 0 | KEEP_CURRENT_ASIN_DUAL_OFFER
+保留原FBA SKU/FNSKU；同ASIN有货MFN已在扫描中，核对两报价买家可买及包装一致
+同ASIN有货MFN：[{"sku": "4A GMSCSMC 436", "quantity": 534, "price": 12.99, "sales_units_ui": null}]
+跨ASIN候选：[]
+阻碍：实时子ASIN评分与评论归属尚未全量核实；历史评分不得直接用于迁移决策；所有新增价格/优惠冻结；本清单不授权迁移FBA库存或修改ASIN
+证据：category-report-audit.json, coupon-fullscan-page33.txt, fba-fees-page4.txt, fba-potential-from-orders.json

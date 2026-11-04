@@ -1,0 +1,509 @@
+[
+  {
+    "page": 5,
+    "asin": "B07QXJWDPL",
+    "sku": "4A 304-Full Adhesive-400",
+    "price": 21.99,
+    "units_current": 533,
+    "channel": "AFN",
+    "sales_units_ui": 12,
+    "selected": false,
+    "disabled": false,
+    "reasons": [
+      "您的商品目前不符合此优惠券的要求，因为该 ASIN 的星级评分未达到最低反馈要求。"
+    ],
+    "selectable": false,
+    "visible_row": "- 'row \"4A Full Adhesive Sticky Notes, 3 x 4 in, 5 Pads, Bright Colors 4A Full Adhesive Sticky Notes, 3 x 4 in, 5 Pads, Bright Colors ASIN: B07QXJWDPL SKU: 4A 304-Full Adhesive-400 您的商品目前不符合此优惠券的要求，因为该 ASIN 的星级评分未达到最低反馈要求。 销量 : 258 售出商品数量 : 12 页面浏览量 : - 销量排行 : #18,415 $21.99 533 件数 AFN\" [level=1]':",
+    "units30_fba": 10,
+    "age365plus": 0,
+    "title_current": "4A Full Adhesive Sticky Notes, 3 x 4 in, 5 Pads, Bright Colors",
+    "b2b": 18.49,
+    "fba_fee": 4.64,
+    "sale_visible": 18.99,
+    "minimum": null,
+    "v4": null,
+    "audit_route": "verify_existing_promotion_only",
+    "preserve_ordinary_price": true
+  },
+  {
+    "page": 7,
+    "asin": "B07FK975YB",
+    "sku": "AAAA 4A 304-Full Glue",
+    "price": 12.99,
+    "units_current": 372,
+    "channel": "AFN",
+    "sales_units_ui": 52,
+    "selected": false,
+    "disabled": false,
+    "reasons": [
+      "您的商品目前不符合此优惠券的要求，因为该 ASIN 的星级评分未达到最低反馈要求。"
+    ],
+    "selectable": false,
+    "visible_row": "- 'row \"4A 10 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 20 Sheets/Pad, 200 Sheets Total, 4A 304-Full Gluex2 4A 10 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 20 Sheets/Pad, 200 Sheets Total, 4A 304-Full Gluex2 ASIN: B07FK975YB SKU: AAAA 4A 304-Full Glue 您的商品目前不符合此优惠券的要求，因为该 ASIN 的星级评分未达到最低反馈要求。 销量 : 664 售出商品数量 : 52 页面浏览量 : - 销量排行 : #18,415 $12.99 372 件数 AFN\" [level=1]':",
+    "units30_fba": 49,
+    "age365plus": 0,
+    "title_current": "4A 10 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 20 Sheets/Pad, 200 Sheets Total, 4A 304-Full Gluex2",
+    "b2b": 12.49,
+    "fba_fee": 3.74,
+    "sale_visible": null,
+    "minimum": null,
+    "v4": {
+      "sku": "AAAA 4A 304-Full Glue",
+      "asin": "B07FK975YB",
+      "allowed_price_cells": {
+        "MN": 11.04,
+        "MO": "2026-11-01",
+        "MP": "2026-11-30",
+        "MS": 10.99,
+        "MX": "Percent",
+        "MY": 2,
+        "MZ": 3,
+        "NA": 5,
+        "NB": 5,
+        "NC": 10,
+        "ND": 8
+      },
+      "regular_price_unchanged": 12.99,
+      "sale_price": 11.04,
+      "business_price": 10.99,
+      "minimum_business_unit_price": 10.11,
+      "maximum_stack_cash": 4.85,
+      "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+      "evidence": [
+        "fba-fees-page5.txt",
+        "category-report-raw.json 全五档阶梯无未覆盖残留",
+        "promotion-active-dashboard-v4.txt",
+        "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+      ],
+      "old_tiers": {
+        "MX": "Percent",
+        "MY": 2,
+        "MZ": "3.0",
+        "NA": null,
+        "NB": null,
+        "NC": null,
+        "ND": null,
+        "NE": null,
+        "NF": null,
+        "NG": null,
+        "NH": null
+      },
+      "ordinary_base": 12.99,
+      "effective_after": 11.04,
+      "sale_before": null,
+      "sale_new": 11.04,
+      "sale_drop_percent": 15.01,
+      "sale_start": "2026-11-01",
+      "sale_end_exclusive": "2026-11-30",
+      "business_tiers": [
+        [
+          2,
+          3
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          10,
+          8
+        ]
+      ],
+      "maximum_cumulative_business_discount_percent": 22.17
+    },
+    "audit_route": "verify_existing_promotion_only",
+    "preserve_ordinary_price": true
+  },
+  {
+    "page": 11,
+    "asin": "B07QXJZKHC",
+    "sku": "4A 305-Full Adhesive-300",
+    "price": 21.99,
+    "units_current": 180,
+    "channel": "AFN",
+    "sales_units_ui": 11,
+    "selected": false,
+    "disabled": false,
+    "reasons": [
+      "您的商品目前不符合此优惠券的要求，因为该 ASIN 的星级评分未达到最低反馈要求。"
+    ],
+    "selectable": false,
+    "visible_row": "- 'row \"4A 5 Pads Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Sticky Notes Full Adhesive Back for Home Office School Supplies, 60 Sheets/Pad, 300 Sheets Total, 4A 305-Full Adhesive-300 4A 5 Pads Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Sticky Notes Full Adhesive Back for Home Office School Supplies, 60 Sheets/Pad, 300 Sheets Total, 4A 305-Full Adhesive-300 ASIN: B07QXJZKHC SKU: 4A 305-Full Adhesive-300 您的商品目前不符合此优惠券的要求，因为该 ASIN 的星级评分未达到最低反馈要求。 销量 : 204 售出商品数量 : 11 页面浏览量 : - 销量排行 : #18,064 $21.99 180 件数 AFN\" [level=1]':",
+    "units30_fba": 11,
+    "age365plus": 0,
+    "title_current": "4A 5 Pads Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Sticky Notes Full Adhesive Back for Home Office School Supplies, 60 Sheets/Pad, 300 Sheets Total, 4A 305-Full Adhesive-300",
+    "b2b": 18.99,
+    "fba_fee": 4.64,
+    "sale_visible": null,
+    "minimum": null,
+    "v4": {
+      "sku": "4A 305-Full Adhesive-300",
+      "asin": "B07QXJZKHC",
+      "allowed_price_cells": {
+        "MN": 18.69,
+        "MO": "2026-11-01",
+        "MP": "2026-11-30",
+        "MS": 18.49,
+        "MX": "Percent",
+        "MY": 2,
+        "MZ": 3,
+        "NA": 5,
+        "NB": 5,
+        "NC": 10,
+        "ND": 8
+      },
+      "regular_price_unchanged": 21.99,
+      "sale_price": 18.69,
+      "business_price": 18.49,
+      "minimum_business_unit_price": 17.01,
+      "maximum_stack_cash": 9.82,
+      "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+      "evidence": [
+        "fba-fees-page3.txt",
+        "category-report-raw.json 全五档阶梯无未覆盖残留",
+        "promotion-active-dashboard-v4.txt",
+        "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+      ],
+      "old_tiers": {
+        "MX": "Percent",
+        "MY": 2,
+        "MZ": "3.0",
+        "NA": null,
+        "NB": null,
+        "NC": null,
+        "ND": null,
+        "NE": null,
+        "NF": null,
+        "NG": null,
+        "NH": null
+      },
+      "ordinary_base": 21.99,
+      "effective_after": 18.69,
+      "sale_before": null,
+      "sale_new": 18.69,
+      "sale_drop_percent": 15.01,
+      "sale_start": "2026-11-01",
+      "sale_end_exclusive": "2026-11-30",
+      "business_tiers": [
+        [
+          2,
+          3
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          10,
+          8
+        ]
+      ],
+      "maximum_cumulative_business_discount_percent": 22.65
+    },
+    "audit_route": "verify_existing_promotion_only",
+    "preserve_ordinary_price": true
+  },
+  {
+    "page": 14,
+    "asin": "B07FK7PBHJ",
+    "sku": "AAAA 4A PSS 9-1 NGGrid",
+    "price": 19.99,
+    "units_current": 98,
+    "channel": "AFN",
+    "sales_units_ui": null,
+    "selected": false,
+    "disabled": false,
+    "reasons": [
+      "您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。"
+    ],
+    "selectable": false,
+    "visible_row": "- 'row \"4A 2 Full Adhesive Roll Sticky Notes with Dispenser and 2 Refills, Neon Yellow and Rose Red, 2 x 315 Inches, Colorful Sticky Rolls for Book, Notebook, Office, Home, 4A PSS 9-1 NYNRx2 4A 2 Full Adhesive Roll Sticky Notes with Dispenser and 2 Refills, Neon Yellow and Rose Red, 2 x 315 Inches, Colorful Sticky Rolls for Book, Notebook, Office, Home, 4A PSS 9-1 NYNRx2 ASIN: B07FK7PBHJ SKU: AAAA 4A PSS 9-1 NGGrid 您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。 销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #78,382 $19.99 98 件数 AFN\" [level=1]':",
+    "units30_fba": 0,
+    "age365plus": 0,
+    "title_current": "4A 2 Full Adhesive Roll Sticky Notes with Dispenser and 2 Refills, Neon Yellow and Rose Red, 2 x 315 Inches, Colorful Sticky Rolls for Book, Notebook, Office, Home, 4A PSS 9-1 NYNRx2",
+    "b2b": 19.98,
+    "fba_fee": 4.11,
+    "sale_visible": null,
+    "minimum": null,
+    "v4": null,
+    "audit_route": "evaluate_new_non_coupon_promotion",
+    "preserve_ordinary_price": true
+  },
+  {
+    "page": 16,
+    "asin": "B07FK9BYHW",
+    "sku": "AAAA 4A 305-Full Glue",
+    "price": 14.99,
+    "units_current": 60,
+    "channel": "AFN",
+    "sales_units_ui": 2,
+    "selected": false,
+    "disabled": false,
+    "reasons": [
+      "您的商品目前不符合此优惠券的要求，因为该 ASIN 的星级评分未达到最低反馈要求。"
+    ],
+    "selectable": false,
+    "visible_row": "- 'row \"4A 2 Packs Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Full Sticky Back Sticky Notes for Home Office School Supplies, 20 Sheets/Color, 5 Colors/Pack, 200 Sheets Total, 4A 305-Full Gluex2 4A 2 Packs Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Full Sticky Back Sticky Notes for Home Office School Supplies, 20 Sheets/Color, 5 Colors/Pack, 200 Sheets Total, 4A 305-Full Gluex2 ASIN: B07FK9BYHW SKU: AAAA 4A 305-Full Glue 您的商品目前不符合此优惠券的要求，因为该 ASIN 的星级评分未达到最低反馈要求。 销量 : 29 售出商品数量 : 2 页面浏览量 : - 销量排行 : #18,064 $14.99 60 件数 AFN\" [level=1]':",
+    "units30_fba": 2,
+    "age365plus": 56,
+    "title_current": "4A 2 Packs Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Full Sticky Back Sticky Notes for Home Office School Supplies, 20 Sheets/Color, 5 Colors/Pack, 200 Sheets Total, 4A 305-Full Gluex2",
+    "b2b": null,
+    "fba_fee": 4.36,
+    "sale_visible": null,
+    "minimum": null,
+    "v4": {
+      "sku": "AAAA 4A 305-Full Glue",
+      "asin": "B07FK9BYHW",
+      "allowed_price_cells": {
+        "MN": 12.74,
+        "MO": "2026-11-01",
+        "MP": "2026-11-30",
+        "MS": 12.49,
+        "MX": "Percent",
+        "MY": 2,
+        "MZ": 3,
+        "NA": 5,
+        "NB": 5,
+        "NC": 10,
+        "ND": 8
+      },
+      "regular_price_unchanged": 14.99,
+      "sale_price": 12.74,
+      "business_price": 12.49,
+      "minimum_business_unit_price": 11.49,
+      "maximum_stack_cash": 5.41,
+      "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+      "evidence": [
+        "fba-fees-page5.txt",
+        "category-report-raw.json 全五档阶梯无未覆盖残留",
+        "promotion-active-dashboard-v4.txt",
+        "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+      ],
+      "old_tiers": {
+        "MX": null,
+        "MY": null,
+        "MZ": null,
+        "NA": null,
+        "NB": null,
+        "NC": null,
+        "ND": null,
+        "NE": null,
+        "NF": null,
+        "NG": null,
+        "NH": null
+      },
+      "ordinary_base": 14.99,
+      "effective_after": 12.74,
+      "sale_before": null,
+      "sale_new": 12.74,
+      "sale_drop_percent": 15.01,
+      "sale_start": "2026-11-01",
+      "sale_end_exclusive": "2026-11-30",
+      "business_tiers": [
+        [
+          2,
+          3
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          10,
+          8
+        ]
+      ],
+      "maximum_cumulative_business_discount_percent": 23.35
+    },
+    "audit_route": "verify_existing_promotion_only",
+    "preserve_ordinary_price": true
+  },
+  {
+    "page": 16,
+    "asin": "B00SMEEVKQ",
+    "sku": "4A073",
+    "price": 4.99,
+    "units_current": 60,
+    "channel": "AFN",
+    "sales_units_ui": null,
+    "selected": false,
+    "disabled": false,
+    "reasons": [
+      "您的商品价格过低，无法使用此优惠券。 为确保优惠券对买家有价值，参与优惠券的商品必须满足最低价格门槛。"
+    ],
+    "selectable": false,
+    "visible_row": "- 'row \"4A Divider Sticky Notes,Note Tabs,3 3/8 x 2 3/4 Inches,160 Gsm White Paper,Lined,15 Sheets/Divider,4 Divders/Pack,Self-Stick Notes,60 Sheets Total,4A 40607 4A Divider Sticky Notes,Note Tabs,3 3/8 x 2 3/4 Inches,160 Gsm White Paper,Lined,15 Sheets/Divider,4 Divders/Pack,Self-Stick Notes,60 Sheets Total,4A 40607 ASIN: B00SMEEVKQ SKU: 4A073 您的商品价格过低，无法使用此优惠券。 为确保优惠券对买家有价值，参与优惠券的商品必须满足最低价格门槛。 销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #820,866 $4.99 60 件数 AFN\" [level=1]':",
+    "units30_fba": 0,
+    "age365plus": 58,
+    "title_current": "4A Divider Sticky Notes,Note Tabs,3 3/8 x 2 3/4 Inches,160 Gsm White Paper,Lined,15 Sheets/Divider,4 Divders/Pack,Self-Stick Notes,60 Sheets Total,4A 40607",
+    "b2b": 4.49,
+    "fba_fee": 2.77,
+    "sale_visible": null,
+    "minimum": null,
+    "v4": null,
+    "audit_route": "evaluate_new_non_coupon_promotion",
+    "preserve_ordinary_price": true
+  },
+  {
+    "page": 17,
+    "asin": "B01LVXOCU2",
+    "sku": "4A 004",
+    "price": 9.49,
+    "units_current": 59,
+    "channel": "AFN",
+    "sales_units_ui": 0,
+    "selected": false,
+    "disabled": false,
+    "reasons": [
+      "您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。"
+    ],
+    "selectable": false,
+    "visible_row": "- 'row \"4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24 4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24 ASIN: B01LVXOCU2 SKU: 4A 004 您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。 销量 : 0 售出商品数量 : 0 页面浏览量 : - 销量排行 : #322,259 $9.49 59 件数 AFN\" [level=1]':",
+    "units30_fba": 0,
+    "age365plus": 59,
+    "title_current": "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24",
+    "b2b": null,
+    "fba_fee": 4.21,
+    "sale_visible": null,
+    "minimum": null,
+    "v4": null,
+    "audit_route": "evaluate_new_non_coupon_promotion",
+    "preserve_ordinary_price": true
+  },
+  {
+    "page": 18,
+    "asin": "B07FK8LN8D",
+    "sku": "AAAA 4A 301x12-N",
+    "price": 16.99,
+    "units_current": 45,
+    "channel": "AFN",
+    "sales_units_ui": null,
+    "selected": false,
+    "disabled": false,
+    "reasons": [
+      "您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。"
+    ],
+    "selectable": false,
+    "visible_row": "- 'row \"4A 24 Pads Small Sticky Notes 1.5 x 2 in, Bright Colors, Half-Adhesive, Mini Sticky Notes Self-Stick Note Pads for Office School Supplies, 100 Sheets/Pad, 2400 Sheets Total, 4A 301x12-Nx2 4A 24 Pads Small Sticky Notes 1.5 x 2 in, Bright Colors, Half-Adhesive, Mini Sticky Notes Self-Stick Note Pads for Office School Supplies, 100 Sheets/Pad, 2400 Sheets Total, 4A 301x12-Nx2 ASIN: B07FK8LN8D SKU: AAAA 4A 301x12-N 您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。 销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #322,684 $16.99 45 件数 AFN\" [level=1]':",
+    "units30_fba": 0,
+    "age365plus": 45,
+    "title_current": "4A 24 Pads Small Sticky Notes 1.5 x 2 in, Bright Colors, Half-Adhesive, Mini Sticky Notes Self-Stick Note Pads for Office School Supplies, 100 Sheets/Pad, 2400 Sheets Total, 4A 301x12-Nx2",
+    "b2b": null,
+    "fba_fee": 5.06,
+    "sale_visible": null,
+    "minimum": null,
+    "v4": null,
+    "audit_route": "evaluate_new_non_coupon_promotion",
+    "preserve_ordinary_price": true
+  },
+  {
+    "page": 18,
+    "asin": "B0F7LW38FX",
+    "sku": "4A 301x24x2",
+    "price": 25.99,
+    "units_current": 43,
+    "channel": "AFN",
+    "sales_units_ui": null,
+    "selected": false,
+    "disabled": false,
+    "reasons": [
+      "您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。"
+    ],
+    "selectable": false,
+    "visible_row": "- 'row \"4A 48 Pads Sticky Notes 1.5 x 2 in, Neon Assorted, Colorful Small Sticky Notes Self-Stick Note Pads for Book Office School Supplies, 100 Sheets/Pad, 4800 Sheets Total, 4A 301x24 4A 48 Pads Sticky Notes 1.5 x 2 in, Neon Assorted, Colorful Small Sticky Notes Self-Stick Note Pads for Book Office School Supplies, 100 Sheets/Pad, 4800 Sheets Total, 4A 301x24 ASIN: B0F7LW38FX SKU: 4A 301x24x2 您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。 销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #322,684 $25.99 43 件数 AFN\" [level=1]':",
+    "units30_fba": 0,
+    "age365plus": 43,
+    "title_current": "4A 48 Pads Sticky Notes 1.5 x 2 in, Neon Assorted, Colorful Small Sticky Notes Self-Stick Note Pads for Book Office School Supplies, 100 Sheets/Pad, 4800 Sheets Total, 4A 301x24",
+    "b2b": null,
+    "fba_fee": 6.0,
+    "sale_visible": null,
+    "minimum": null,
+    "v4": null,
+    "audit_route": "evaluate_new_non_coupon_promotion",
+    "preserve_ordinary_price": true
+  },
+  {
+    "page": 19,
+    "asin": "B0DYNL5SMR",
+    "sku": "4A PSS 9-3 2 Sets",
+    "price": 23.99,
+    "units_current": 33,
+    "channel": "AFN",
+    "sales_units_ui": null,
+    "selected": false,
+    "disabled": false,
+    "reasons": [
+      "您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。"
+    ],
+    "selectable": false,
+    "visible_row": "- 'row \"4A Sticky Note Rolls with Dispenser and Refills, 0.6 x 315 in 4A Sticky Note Rolls with Dispenser and Refills, 0.6 x 315 in ASIN: B0DYNL5SMR SKU: 4A PSS 9-3 2 Sets 您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。 销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #78,667 $23.99 33 件数 AFN\" [level=1]':",
+    "units30_fba": 0,
+    "age365plus": 0,
+    "title_current": "4A Sticky Note Rolls with Dispenser and Refills, 0.6 x 315 in",
+    "b2b": 23.99,
+    "fba_fee": 4.64,
+    "sale_visible": null,
+    "minimum": 23.99,
+    "v4": {
+      "sku": "4A PSS 9-3 2 Sets",
+      "asin": "B0DYNL5SMR",
+      "allowed_price_cells": {
+        "MN": 20.39,
+        "MO": "2026-11-01",
+        "MP": "2026-11-30",
+        "ML": 20.39,
+        "MS": 19.99,
+        "MX": "Percent",
+        "MY": 3,
+        "MZ": 2,
+        "NA": 5,
+        "NB": 4
+      },
+      "regular_price_unchanged": 23.99,
+      "sale_price": 20.39,
+      "business_price": 19.99,
+      "minimum_business_unit_price": 19.19,
+      "maximum_stack_cash": 11.67,
+      "cash_definition": "最深本批企业阶梯价扣15%估算佣金和当前FBA费；现有券无ASIN交集，统一促销总览及品牌定制活动由主代理现场核验；未扣采购、头程、仓储、广告、退货",
+      "evidence": [
+        "fba-fees-page2.txt",
+        "category-report-raw.json 全五档阶梯无未覆盖残留",
+        "promotion-active-dashboard-v4.txt",
+        "brand-promotions-v4.txt 全部五项2025完成或取消；promotion-types-and-active-v4.txt 仅两券"
+      ],
+      "old_tiers": {
+        "MX": "Percent",
+        "MY": 5,
+        "MZ": "24.99",
+        "NA": 30,
+        "NB": "22.49",
+        "NC": null,
+        "ND": null,
+        "NE": null,
+        "NF": null,
+        "NG": null,
+        "NH": null
+      },
+      "ordinary_base": 23.99,
+      "effective_after": 20.39,
+      "sale_before": null,
+      "sale_new": 20.39,
+      "sale_drop_percent": 15.01,
+      "sale_start": "2026-11-01",
+      "sale_end_exclusive": "2026-11-30",
+      "business_tiers": [
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "maximum_cumulative_business_discount_percent": 20.01
+    },
+    "audit_route": "verify_existing_promotion_only",
+    "preserve_ordinary_price": true
+  }
+]

@@ -1,0 +1,5288 @@
+{
+  "basis": "US,USD,noncancelled,FBA; PDT calendar dates;28 transition;29-30 complete;31 partial through08:14; pending included; item-price before refunds; discounts separately reported",
+  "rows": [
+    {
+      "asin": "B07QXJYTZ7",
+      "skus": [
+        "4A 303-Full Adhesive-400"
+      ],
+      "category": "满胶平叠便签",
+      "stock10_30": 57,
+      "periods": {
+        "before28": {
+          "orders": 118,
+          "units": 156,
+          "sales": 3473.64,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 8,
+          "units": 10,
+          "sales": 228.75,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 11,
+          "units": 13,
+          "sales": 286.54,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-01": {
+          "orders": 3,
+          "units": 3,
+          "sales": 67.82,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-02": {
+          "orders": 6,
+          "units": 8,
+          "sales": 172.08,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-04": {
+          "orders": 2,
+          "units": 2,
+          "sales": 45.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-05": {
+          "orders": 5,
+          "units": 6,
+          "sales": 132.02,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-06": {
+          "orders": 10,
+          "units": 11,
+          "sales": 245.82,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-07": {
+          "orders": 5,
+          "units": 5,
+          "sales": 112.65,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-08": {
+          "orders": 3,
+          "units": 3,
+          "sales": 65.52,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-09": {
+          "orders": 3,
+          "units": 4,
+          "sales": 87.19,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-10": {
+          "orders": 2,
+          "units": 3,
+          "sales": 68.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-11": {
+          "orders": 4,
+          "units": 4,
+          "sales": 91.96,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-12": {
+          "orders": 5,
+          "units": 7,
+          "sales": 152.05,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-13": {
+          "orders": 2,
+          "units": 2,
+          "sales": 45.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-14": {
+          "orders": 2,
+          "units": 3,
+          "sales": 64.2,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-15": {
+          "orders": 5,
+          "units": 5,
+          "sales": 111.5,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-16": {
+          "orders": 3,
+          "units": 3,
+          "sales": 68.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-17": {
+          "orders": 1,
+          "units": 1,
+          "sales": 21.84,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-18": {
+          "orders": 2,
+          "units": 3,
+          "sales": 67.82,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-19": {
+          "orders": 6,
+          "units": 10,
+          "sales": 226.28,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-20": {
+          "orders": 9,
+          "units": 11,
+          "sales": 243.52,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-21": {
+          "orders": 9,
+          "units": 11,
+          "sales": 247.14,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-22": {
+          "orders": 11,
+          "units": 28,
+          "sales": 614.93,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-23": {
+          "orders": 4,
+          "units": 4,
+          "sales": 91.96,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-24": {
+          "orders": 2,
+          "units": 2,
+          "sales": 44.83,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-25": {
+          "orders": 4,
+          "units": 4,
+          "sales": 91.96,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-26": {
+          "orders": 5,
+          "units": 6,
+          "sales": 132.02,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-27": {
+          "orders": 5,
+          "units": 7,
+          "sales": 158.63,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-28": {
+          "orders": 8,
+          "units": 10,
+          "sales": 228.75,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-29": {
+          "orders": 7,
+          "units": 9,
+          "sales": 198.03,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-30": {
+          "orders": 4,
+          "units": 4,
+          "sales": 88.51,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B0FBG138ND",
+      "skus": [
+        "4A 305-Full Adhesive"
+      ],
+      "category": "满胶平叠便签",
+      "stock10_30": 428,
+      "periods": {
+        "before28": {
+          "orders": 76,
+          "units": 102,
+          "sales": 1073.38,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 6,
+          "units": 10,
+          "sales": 108.4,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 10,
+          "units": 11,
+          "sales": 117.89,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-01": {
+          "orders": 2,
+          "units": 2,
+          "sales": 21.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-02": {
+          "orders": 4,
+          "units": 4,
+          "sales": 42.46,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-03": {
+          "orders": 1,
+          "units": 1,
+          "sales": 10.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-05": {
+          "orders": 2,
+          "units": 2,
+          "sales": 20.48,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-06": {
+          "orders": 1,
+          "units": 1,
+          "sales": 10.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-07": {
+          "orders": 4,
+          "units": 4,
+          "sales": 43.96,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-08": {
+          "orders": 4,
+          "units": 4,
+          "sales": 42.46,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-09": {
+          "orders": 4,
+          "units": 5,
+          "sales": 53.45,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-10": {
+          "orders": 2,
+          "units": 3,
+          "sales": 32.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-11": {
+          "orders": 2,
+          "units": 2,
+          "sales": 21.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-12": {
+          "orders": 4,
+          "units": 8,
+          "sales": 79.02,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-13": {
+          "orders": 2,
+          "units": 2,
+          "sales": 21.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-14": {
+          "orders": 5,
+          "units": 7,
+          "sales": 70.09,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-15": {
+          "orders": 2,
+          "units": 5,
+          "sales": 53.45,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-16": {
+          "orders": 1,
+          "units": 1,
+          "sales": 10.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-17": {
+          "orders": 2,
+          "units": 2,
+          "sales": 21.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-18": {
+          "orders": 1,
+          "units": 1,
+          "sales": 10.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-19": {
+          "orders": 5,
+          "units": 8,
+          "sales": 87.92,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-20": {
+          "orders": 3,
+          "units": 4,
+          "sales": 38.9,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-21": {
+          "orders": 4,
+          "units": 4,
+          "sales": 43.96,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-22": {
+          "orders": 2,
+          "units": 3,
+          "sales": 32.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-23": {
+          "orders": 4,
+          "units": 5,
+          "sales": 54.95,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-24": {
+          "orders": 2,
+          "units": 2,
+          "sales": 21.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-25": {
+          "orders": 3,
+          "units": 3,
+          "sales": 32.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-26": {
+          "orders": 8,
+          "units": 17,
+          "sales": 167.53,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-27": {
+          "orders": 2,
+          "units": 2,
+          "sales": 21.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-28": {
+          "orders": 6,
+          "units": 10,
+          "sales": 108.4,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-29": {
+          "orders": 5,
+          "units": 5,
+          "sales": 53.45,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-30": {
+          "orders": 5,
+          "units": 6,
+          "sales": 64.44,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B0F9L5G6XQ",
+      "skus": [
+        "4A 5082-Y-Lx2"
+      ],
+      "category": "日常便签",
+      "stock10_30": 292,
+      "periods": {
+        "before28": {
+          "orders": 33,
+          "units": 58,
+          "sales": 958.49,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 1,
+          "units": 1,
+          "sales": 19.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 3,
+          "units": 9,
+          "sales": 155.62,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-01": {
+          "orders": 3,
+          "units": 3,
+          "sales": 48.47,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-02": {
+          "orders": 3,
+          "units": 3,
+          "sales": 54.22,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-03": {
+          "orders": 4,
+          "units": 5,
+          "sales": 99.95,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-05": {
+          "orders": 2,
+          "units": 6,
+          "sales": 95.22,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-06": {
+          "orders": 1,
+          "units": 1,
+          "sales": 19.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-07": {
+          "orders": 1,
+          "units": 1,
+          "sales": 19.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-08": {
+          "orders": 1,
+          "units": 1,
+          "sales": 19.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-09": {
+          "orders": 3,
+          "units": 3,
+          "sales": 59.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-10": {
+          "orders": 2,
+          "units": 19,
+          "sales": 268.57,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-11": {
+          "orders": 1,
+          "units": 2,
+          "sales": 39.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-14": {
+          "orders": 1,
+          "units": 2,
+          "sales": 27.62,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-15": {
+          "orders": 2,
+          "units": 2,
+          "sales": 34.23,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-18": {
+          "orders": 1,
+          "units": 1,
+          "sales": 14.24,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-19": {
+          "orders": 1,
+          "units": 1,
+          "sales": 19.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-21": {
+          "orders": 2,
+          "units": 3,
+          "sales": 47.61,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-23": {
+          "orders": 3,
+          "units": 3,
+          "sales": 54.22,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-26": {
+          "orders": 1,
+          "units": 1,
+          "sales": 14.24,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-27": {
+          "orders": 1,
+          "units": 1,
+          "sales": 19.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-28": {
+          "orders": 1,
+          "units": 1,
+          "sales": 19.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-29": {
+          "orders": 1,
+          "units": 1,
+          "sales": 14.24,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-30": {
+          "orders": 2,
+          "units": 8,
+          "sales": 141.38,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07QVKPZXX",
+      "skus": [
+        "4A PSS 9-1 Refill"
+      ],
+      "category": "满胶卷带",
+      "stock10_30": 67,
+      "periods": {
+        "before28": {
+          "orders": 2,
+          "units": 2,
+          "sales": 37.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 2,
+          "units": 7,
+          "sales": 132.93,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-08": {
+          "orders": 1,
+          "units": 1,
+          "sales": 18.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-15": {
+          "orders": 1,
+          "units": 1,
+          "sales": 18.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-29": {
+          "orders": 1,
+          "units": 2,
+          "sales": 37.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-30": {
+          "orders": 1,
+          "units": 5,
+          "sales": 94.95,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B0F2TKL2P5",
+      "skus": [
+        "4A 302-Full Adhesive-400"
+      ],
+      "category": "满胶平叠便签",
+      "stock10_30": 340,
+      "periods": {
+        "before28": {
+          "orders": 64,
+          "units": 69,
+          "sales": 1228.19,
+          "discount": 0.9,
+          "discount_ids": 1,
+          "promo_ids": 1,
+          "promo_labels": [
+            "FBA Subscribe & Save Discount"
+          ]
+        },
+        "28transition": {
+          "orders": 1,
+          "units": 1,
+          "sales": 17.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 4,
+          "units": 4,
+          "sales": 71.1,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 1,
+          "units": 1,
+          "sales": 17.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-01": {
+          "orders": 2,
+          "units": 2,
+          "sales": 35.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-02": {
+          "orders": 2,
+          "units": 2,
+          "sales": 35.55,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-04": {
+          "orders": 4,
+          "units": 4,
+          "sales": 71.96,
+          "discount": 0.9,
+          "discount_ids": 1,
+          "promo_ids": 1,
+          "promo_labels": [
+            "FBA Subscribe & Save Discount"
+          ]
+        },
+        "2026-10-05": {
+          "orders": 3,
+          "units": 3,
+          "sales": 53.54,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-06": {
+          "orders": 4,
+          "units": 5,
+          "sales": 87.53,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-07": {
+          "orders": 5,
+          "units": 5,
+          "sales": 89.52,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-08": {
+          "orders": 2,
+          "units": 2,
+          "sales": 35.55,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-09": {
+          "orders": 1,
+          "units": 2,
+          "sales": 34.42,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-10": {
+          "orders": 3,
+          "units": 3,
+          "sales": 53.54,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-11": {
+          "orders": 2,
+          "units": 3,
+          "sales": 52.41,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-12": {
+          "orders": 1,
+          "units": 1,
+          "sales": 17.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-13": {
+          "orders": 3,
+          "units": 3,
+          "sales": 53.54,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-14": {
+          "orders": 4,
+          "units": 4,
+          "sales": 71.1,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-15": {
+          "orders": 2,
+          "units": 3,
+          "sales": 52.41,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-16": {
+          "orders": 2,
+          "units": 2,
+          "sales": 35.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-17": {
+          "orders": 1,
+          "units": 1,
+          "sales": 17.56,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-19": {
+          "orders": 3,
+          "units": 3,
+          "sales": 53.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-20": {
+          "orders": 5,
+          "units": 5,
+          "sales": 88.66,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-21": {
+          "orders": 1,
+          "units": 1,
+          "sales": 17.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-23": {
+          "orders": 3,
+          "units": 3,
+          "sales": 53.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-24": {
+          "orders": 4,
+          "units": 4,
+          "sales": 71.53,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-25": {
+          "orders": 2,
+          "units": 2,
+          "sales": 35.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-26": {
+          "orders": 1,
+          "units": 1,
+          "sales": 17.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-27": {
+          "orders": 4,
+          "units": 5,
+          "sales": 89.52,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-28": {
+          "orders": 1,
+          "units": 1,
+          "sales": 17.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-29": {
+          "orders": 2,
+          "units": 2,
+          "sales": 35.12,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-30": {
+          "orders": 2,
+          "units": 2,
+          "sales": 35.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-31": {
+          "orders": 1,
+          "units": 1,
+          "sales": 17.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B08DKJ2K3T",
+      "skus": [
+        "4A SCPSS 32x6"
+      ],
+      "category": "满胶卷带",
+      "stock10_30": 33,
+      "periods": {
+        "before28": {
+          "orders": 30,
+          "units": 30,
+          "sales": 417.6,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 1,
+          "promo_labels": [
+            "FBA Subscribe & Save Discount"
+          ]
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 3,
+          "units": 6,
+          "sales": 83.24,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 1,
+          "units": 1,
+          "sales": 13.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 1,
+          "promo_labels": [
+            "PLM-6de47649-9a49-4c38-9310-5261c67f26ee"
+          ]
+        }
+      },
+      "daily": {
+        "2026-10-01": {
+          "orders": 3,
+          "units": 3,
+          "sales": 41.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-04": {
+          "orders": 1,
+          "units": 1,
+          "sales": 13.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-05": {
+          "orders": 2,
+          "units": 2,
+          "sales": 27.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-06": {
+          "orders": 2,
+          "units": 2,
+          "sales": 27.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-07": {
+          "orders": 1,
+          "units": 1,
+          "sales": 13.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-08": {
+          "orders": 3,
+          "units": 3,
+          "sales": 41.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-10": {
+          "orders": 2,
+          "units": 2,
+          "sales": 27.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-11": {
+          "orders": 2,
+          "units": 2,
+          "sales": 27.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-13": {
+          "orders": 1,
+          "units": 1,
+          "sales": 13.29,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-18": {
+          "orders": 2,
+          "units": 2,
+          "sales": 27.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-19": {
+          "orders": 1,
+          "units": 1,
+          "sales": 13.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-20": {
+          "orders": 2,
+          "units": 2,
+          "sales": 27.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-21": {
+          "orders": 1,
+          "units": 1,
+          "sales": 13.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-22": {
+          "orders": 1,
+          "units": 1,
+          "sales": 13.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-23": {
+          "orders": 1,
+          "units": 1,
+          "sales": 13.29,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-24": {
+          "orders": 2,
+          "units": 2,
+          "sales": 27.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 1,
+          "promo_labels": [
+            "FBA Subscribe & Save Discount"
+          ]
+        },
+        "2026-10-25": {
+          "orders": 1,
+          "units": 1,
+          "sales": 13.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-26": {
+          "orders": 2,
+          "units": 2,
+          "sales": 27.28,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-29": {
+          "orders": 1,
+          "units": 4,
+          "sales": 55.96,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-30": {
+          "orders": 2,
+          "units": 2,
+          "sales": 27.28,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-31": {
+          "orders": 1,
+          "units": 1,
+          "sales": 13.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 1,
+          "promo_labels": [
+            "PLM-6de47649-9a49-4c38-9310-5261c67f26ee"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B07RP9MB7Y",
+      "skus": [
+        "4A 5088-N-L"
+      ],
+      "category": "日常便签",
+      "stock10_30": 5,
+      "periods": {
+        "before28": {
+          "orders": 4,
+          "units": 4,
+          "sales": 79.96,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 1,
+          "promo_labels": [
+            "FBA Subscribe & Save Discount"
+          ]
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 3,
+          "units": 4,
+          "sales": 79.96,
+          "discount": 1.0,
+          "discount_ids": 1,
+          "promo_ids": 1,
+          "promo_labels": [
+            "Subscribe and Save Promotion V2-1-aoUsizTNjf"
+          ]
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-08": {
+          "orders": 1,
+          "units": 1,
+          "sales": 19.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-15": {
+          "orders": 1,
+          "units": 1,
+          "sales": 19.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 1,
+          "promo_labels": [
+            "FBA Subscribe & Save Discount"
+          ]
+        },
+        "2026-10-27": {
+          "orders": 2,
+          "units": 2,
+          "sales": 39.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-29": {
+          "orders": 2,
+          "units": 2,
+          "sales": 39.98,
+          "discount": 1.0,
+          "discount_ids": 1,
+          "promo_ids": 1,
+          "promo_labels": [
+            "Subscribe and Save Promotion V2-1-aoUsizTNjf"
+          ]
+        },
+        "2026-10-30": {
+          "orders": 1,
+          "units": 2,
+          "sales": 39.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07FK975YB",
+      "skus": [
+        "AAAA 4A 304-Full Glue"
+      ],
+      "category": "满胶平叠便签",
+      "stock10_30": 372,
+      "periods": {
+        "before28": {
+          "orders": 41,
+          "units": 42,
+          "sales": 532.59,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 5,
+          "units": 5,
+          "sales": 64.95,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-01": {
+          "orders": 4,
+          "units": 4,
+          "sales": 51.96,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-02": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-04": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-05": {
+          "orders": 3,
+          "units": 3,
+          "sales": 38.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-07": {
+          "orders": 3,
+          "units": 4,
+          "sales": 51.96,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-09": {
+          "orders": 2,
+          "units": 2,
+          "sales": 25.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-10": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-11": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-12": {
+          "orders": 3,
+          "units": 3,
+          "sales": 38.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-14": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-16": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-17": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-18": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-19": {
+          "orders": 2,
+          "units": 2,
+          "sales": 25.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-20": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-21": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-22": {
+          "orders": 4,
+          "units": 4,
+          "sales": 51.96,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-23": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-24": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-25": {
+          "orders": 2,
+          "units": 2,
+          "sales": 25.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-26": {
+          "orders": 4,
+          "units": 4,
+          "sales": 51.96,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-27": {
+          "orders": 2,
+          "units": 2,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-28": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-29": {
+          "orders": 2,
+          "units": 2,
+          "sales": 25.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-30": {
+          "orders": 3,
+          "units": 3,
+          "sales": 38.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-31": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B00SMEFFRE",
+      "skus": [
+        "4A 304 Full Glue"
+      ],
+      "category": "满胶平叠便签",
+      "stock10_30": 333,
+      "periods": {
+        "before28": {
+          "orders": 55,
+          "units": 61,
+          "sales": 603.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 2,
+          "units": 2,
+          "sales": 19.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 4,
+          "units": 4,
+          "sales": 39.96,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 1,
+          "units": 1,
+          "sales": 9.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-01": {
+          "orders": 2,
+          "units": 3,
+          "sales": 29.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-02": {
+          "orders": 4,
+          "units": 6,
+          "sales": 57.03,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-03": {
+          "orders": 3,
+          "units": 3,
+          "sales": 29.47,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-04": {
+          "orders": 2,
+          "units": 2,
+          "sales": 19.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-05": {
+          "orders": 3,
+          "units": 4,
+          "sales": 39.96,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-06": {
+          "orders": 4,
+          "units": 4,
+          "sales": 39.46,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-07": {
+          "orders": 1,
+          "units": 1,
+          "sales": 9.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-08": {
+          "orders": 1,
+          "units": 1,
+          "sales": 9.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-09": {
+          "orders": 1,
+          "units": 1,
+          "sales": 9.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-10": {
+          "orders": 3,
+          "units": 4,
+          "sales": 39.46,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-12": {
+          "orders": 3,
+          "units": 3,
+          "sales": 29.47,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-13": {
+          "orders": 6,
+          "units": 6,
+          "sales": 59.94,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-14": {
+          "orders": 3,
+          "units": 3,
+          "sales": 29.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-16": {
+          "orders": 4,
+          "units": 4,
+          "sales": 39.96,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-17": {
+          "orders": 2,
+          "units": 2,
+          "sales": 19.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-19": {
+          "orders": 1,
+          "units": 1,
+          "sales": 9.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-20": {
+          "orders": 2,
+          "units": 2,
+          "sales": 19.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-22": {
+          "orders": 4,
+          "units": 5,
+          "sales": 49.95,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-25": {
+          "orders": 1,
+          "units": 1,
+          "sales": 9.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-26": {
+          "orders": 1,
+          "units": 1,
+          "sales": 9.49,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-27": {
+          "orders": 4,
+          "units": 4,
+          "sales": 39.96,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-28": {
+          "orders": 2,
+          "units": 2,
+          "sales": 19.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-29": {
+          "orders": 2,
+          "units": 2,
+          "sales": 19.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-30": {
+          "orders": 2,
+          "units": 2,
+          "sales": 19.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-31": {
+          "orders": 1,
+          "units": 1,
+          "sales": 9.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07FKBHTDG",
+      "skus": [
+        "AAAA 4A 40609"
+      ],
+      "category": "纸质分隔便签",
+      "stock10_30": 612,
+      "periods": {
+        "before28": {
+          "orders": 20,
+          "units": 23,
+          "sales": 252.77,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 1,
+          "units": 1,
+          "sales": 10.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 1,
+          "units": 2,
+          "sales": 21.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-01": {
+          "orders": 2,
+          "units": 4,
+          "sales": 43.96,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-02": {
+          "orders": 1,
+          "units": 1,
+          "sales": 10.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-05": {
+          "orders": 1,
+          "units": 1,
+          "sales": 10.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-06": {
+          "orders": 2,
+          "units": 2,
+          "sales": 21.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-08": {
+          "orders": 1,
+          "units": 1,
+          "sales": 10.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-10": {
+          "orders": 2,
+          "units": 2,
+          "sales": 21.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-13": {
+          "orders": 1,
+          "units": 1,
+          "sales": 10.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-14": {
+          "orders": 3,
+          "units": 3,
+          "sales": 32.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-16": {
+          "orders": 2,
+          "units": 2,
+          "sales": 21.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-19": {
+          "orders": 1,
+          "units": 1,
+          "sales": 10.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-21": {
+          "orders": 1,
+          "units": 1,
+          "sales": 10.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-22": {
+          "orders": 1,
+          "units": 1,
+          "sales": 10.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-24": {
+          "orders": 1,
+          "units": 2,
+          "sales": 21.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-27": {
+          "orders": 1,
+          "units": 1,
+          "sales": 10.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-28": {
+          "orders": 1,
+          "units": 1,
+          "sales": 10.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-29": {
+          "orders": 1,
+          "units": 2,
+          "sales": 21.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07FKHNTRK",
+      "skus": [
+        "AAAA 4A SMC 434"
+      ],
+      "category": "便签砖",
+      "stock10_30": 26,
+      "periods": {
+        "before28": {
+          "orders": 15,
+          "units": 17,
+          "sales": 265.83,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 2,
+          "units": 2,
+          "sales": 31.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-03": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-05": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-06": {
+          "orders": 1,
+          "units": 1,
+          "sales": 14.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-07": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-08": {
+          "orders": 4,
+          "units": 4,
+          "sales": 61.96,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-13": {
+          "orders": 1,
+          "units": 1,
+          "sales": 14.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-15": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-17": {
+          "orders": 2,
+          "units": 2,
+          "sales": 30.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-18": {
+          "orders": 1,
+          "units": 3,
+          "sales": 47.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-19": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-20": {
+          "orders": 1,
+          "units": 1,
+          "sales": 14.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-28": {
+          "orders": 2,
+          "units": 2,
+          "sales": 31.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07F2B49BL",
+      "skus": [
+        "4A 5084-N-L"
+      ],
+      "category": "日常便签",
+      "stock10_30": 129,
+      "periods": {
+        "before28": {
+          "orders": 2,
+          "units": 2,
+          "sales": 28.33,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 2,
+          "units": 2,
+          "sales": 28.33,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-26": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-27": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.34,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-29": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.34,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-30": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07RN7WQ81",
+      "skus": [
+        "4A 5020x3"
+      ],
+      "category": "印花与异形",
+      "stock10_30": 50,
+      "periods": {
+        "before28": {
+          "orders": 9,
+          "units": 22,
+          "sales": 549.78,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 1,
+          "units": 1,
+          "sales": 24.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-08": {
+          "orders": 2,
+          "units": 5,
+          "sales": 124.95,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-11": {
+          "orders": 1,
+          "units": 1,
+          "sales": 24.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-13": {
+          "orders": 1,
+          "units": 1,
+          "sales": 24.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-20": {
+          "orders": 1,
+          "units": 2,
+          "sales": 49.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-25": {
+          "orders": 1,
+          "units": 1,
+          "sales": 24.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-27": {
+          "orders": 3,
+          "units": 12,
+          "sales": 299.88,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-29": {
+          "orders": 1,
+          "units": 1,
+          "sales": 24.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07QXJYKJN",
+      "skus": [
+        "4A PSS 9-5 NANBx2"
+      ],
+      "category": "满胶卷带",
+      "stock10_30": 31,
+      "periods": {
+        "before28": {
+          "orders": 5,
+          "units": 5,
+          "sales": 124.95,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 1,
+          "units": 1,
+          "sales": 24.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-04": {
+          "orders": 1,
+          "units": 1,
+          "sales": 24.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-05": {
+          "orders": 1,
+          "units": 1,
+          "sales": 24.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-13": {
+          "orders": 1,
+          "units": 1,
+          "sales": 24.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-19": {
+          "orders": 1,
+          "units": 1,
+          "sales": 24.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-27": {
+          "orders": 1,
+          "units": 1,
+          "sales": 24.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-28": {
+          "orders": 1,
+          "units": 1,
+          "sales": 24.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07QWKWWP2",
+      "skus": [
+        "4A PSS 9-1 NYNRx2"
+      ],
+      "category": "满胶卷带",
+      "stock10_30": 162,
+      "periods": {
+        "before28": {
+          "orders": 1,
+          "units": 1,
+          "sales": 22.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 1,
+          "units": 1,
+          "sales": 22.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-17": {
+          "orders": 1,
+          "units": 1,
+          "sales": 22.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-29": {
+          "orders": 1,
+          "units": 1,
+          "sales": 22.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B01N0RJSTU",
+      "skus": [
+        "4A 032"
+      ],
+      "category": "日常便签",
+      "stock10_30": 12,
+      "periods": {
+        "before28": {
+          "orders": 6,
+          "units": 7,
+          "sales": 77.43,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 1,
+          "units": 2,
+          "sales": 22.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-01": {
+          "orders": 1,
+          "units": 1,
+          "sales": 10.49,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-05": {
+          "orders": 1,
+          "units": 1,
+          "sales": 11.49,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-14": {
+          "orders": 1,
+          "units": 2,
+          "sales": 20.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-16": {
+          "orders": 2,
+          "units": 2,
+          "sales": 22.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-27": {
+          "orders": 1,
+          "units": 1,
+          "sales": 11.49,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-30": {
+          "orders": 1,
+          "units": 2,
+          "sales": 22.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07QXJZKHC",
+      "skus": [
+        "4A 305-Full Adhesive-300"
+      ],
+      "category": "满胶平叠便签",
+      "stock10_30": 174,
+      "periods": {
+        "before28": {
+          "orders": 8,
+          "units": 10,
+          "sales": 205.62,
+          "discount": 1.1,
+          "discount_ids": 1,
+          "promo_ids": 1,
+          "promo_labels": [
+            "Subscribe and Save Promotion V2-1-aoUsizTNjf"
+          ]
+        },
+        "28transition": {
+          "orders": 1,
+          "units": 1,
+          "sales": 21.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-09": {
+          "orders": 1,
+          "units": 2,
+          "sales": 36.84,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-12": {
+          "orders": 1,
+          "units": 1,
+          "sales": 21.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-15": {
+          "orders": 1,
+          "units": 1,
+          "sales": 21.99,
+          "discount": 1.1,
+          "discount_ids": 1,
+          "promo_ids": 1,
+          "promo_labels": [
+            "Subscribe and Save Promotion V2-1-aoUsizTNjf"
+          ]
+        },
+        "2026-10-16": {
+          "orders": 1,
+          "units": 1,
+          "sales": 21.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-19": {
+          "orders": 1,
+          "units": 1,
+          "sales": 21.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-20": {
+          "orders": 1,
+          "units": 1,
+          "sales": 21.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-26": {
+          "orders": 1,
+          "units": 2,
+          "sales": 36.84,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-27": {
+          "orders": 1,
+          "units": 1,
+          "sales": 21.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-28": {
+          "orders": 1,
+          "units": 1,
+          "sales": 21.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07QXJWDPL",
+      "skus": [
+        "4A 304-Full Adhesive-400"
+      ],
+      "category": "满胶平叠便签",
+      "stock10_30": 533,
+      "periods": {
+        "before28": {
+          "orders": 7,
+          "units": 9,
+          "sales": 192.25,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 1,
+          "units": 1,
+          "sales": 18.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-02": {
+          "orders": 1,
+          "units": 1,
+          "sales": 20.89,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-08": {
+          "orders": 1,
+          "units": 2,
+          "sales": 43.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-09": {
+          "orders": 1,
+          "units": 1,
+          "sales": 21.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-15": {
+          "orders": 1,
+          "units": 2,
+          "sales": 40.52,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-24": {
+          "orders": 1,
+          "units": 1,
+          "sales": 21.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-26": {
+          "orders": 2,
+          "units": 2,
+          "sales": 42.88,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-29": {
+          "orders": 1,
+          "units": 1,
+          "sales": 18.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07FK9S7S8",
+      "skus": [
+        "4A PSS 9-3 YORx2"
+      ],
+      "category": "满胶卷带",
+      "stock10_30": 43,
+      "periods": {
+        "before28": {
+          "orders": 2,
+          "units": 6,
+          "sales": 113.94,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 1,
+          "units": 1,
+          "sales": 18.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-07": {
+          "orders": 1,
+          "units": 1,
+          "sales": 18.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-13": {
+          "orders": 1,
+          "units": 5,
+          "sales": 94.95,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-28": {
+          "orders": 1,
+          "units": 1,
+          "sales": 18.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07F298JNC",
+      "skus": [
+        "4A SMC 438"
+      ],
+      "category": "便签砖",
+      "stock10_30": 10,
+      "periods": {
+        "before28": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-26": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-29": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07F2BHFJH",
+      "skus": [
+        "4A 5082-Y-L-GM"
+      ],
+      "category": "日常便签",
+      "stock10_30": 65,
+      "periods": {
+        "before28": {
+          "orders": 15,
+          "units": 16,
+          "sales": 186.84,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 1,
+          "promo_labels": [
+            "FBA Subscribe & Save Discount"
+          ]
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-02": {
+          "orders": 1,
+          "units": 1,
+          "sales": 11.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-04": {
+          "orders": 1,
+          "units": 1,
+          "sales": 11.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-06": {
+          "orders": 1,
+          "units": 1,
+          "sales": 11.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-08": {
+          "orders": 1,
+          "units": 1,
+          "sales": 11.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-10": {
+          "orders": 1,
+          "units": 1,
+          "sales": 11.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-11": {
+          "orders": 1,
+          "units": 1,
+          "sales": 11.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-13": {
+          "orders": 1,
+          "units": 1,
+          "sales": 11.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-15": {
+          "orders": 1,
+          "units": 1,
+          "sales": 11.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-20": {
+          "orders": 1,
+          "units": 1,
+          "sales": 9.49,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-21": {
+          "orders": 1,
+          "units": 1,
+          "sales": 9.49,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-23": {
+          "orders": 1,
+          "units": 1,
+          "sales": 11.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-24": {
+          "orders": 1,
+          "units": 2,
+          "sales": 23.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-26": {
+          "orders": 2,
+          "units": 2,
+          "sales": 23.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 1,
+          "promo_labels": [
+            "FBA Subscribe & Save Discount"
+          ]
+        },
+        "2026-10-27": {
+          "orders": 1,
+          "units": 1,
+          "sales": 11.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07FKJM2LX",
+      "skus": [
+        "AAAA 4A 5084-N-L"
+      ],
+      "category": "日常便签",
+      "stock10_30": 129,
+      "periods": {
+        "before28": {
+          "orders": 3,
+          "units": 3,
+          "sales": 59.96,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-24": {
+          "orders": 1,
+          "units": 1,
+          "sales": 19.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-26": {
+          "orders": 1,
+          "units": 1,
+          "sales": 19.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-27": {
+          "orders": 1,
+          "units": 1,
+          "sales": 19.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07QXJX2BV",
+      "skus": [
+        "4A PSS 9-5 Refill",
+        "AAAA 4A PSS 9-5 NB"
+      ],
+      "category": "满胶卷带",
+      "stock10_30": 32,
+      "periods": {
+        "before28": {
+          "orders": 4,
+          "units": 4,
+          "sales": 79.94,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-06": {
+          "orders": 2,
+          "units": 2,
+          "sales": 39.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-08": {
+          "orders": 1,
+          "units": 1,
+          "sales": 19.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-27": {
+          "orders": 1,
+          "units": 1,
+          "sales": 19.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07FKGDMPS",
+      "skus": [
+        "AAAA 4A MC 434"
+      ],
+      "category": "便签砖",
+      "stock10_30": 0,
+      "periods": {
+        "before28": {
+          "orders": 21,
+          "units": 22,
+          "sales": 347.78,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-01": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-03": {
+          "orders": 2,
+          "units": 2,
+          "sales": 31.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-05": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.19,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-06": {
+          "orders": 3,
+          "units": 3,
+          "sales": 47.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-08": {
+          "orders": 2,
+          "units": 2,
+          "sales": 31.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-09": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-10": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-12": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-13": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-14": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.19,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-15": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-16": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.19,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-17": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-21": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-26": {
+          "orders": 2,
+          "units": 3,
+          "sales": 47.17,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-27": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.19,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07RQ7JMV9",
+      "skus": [
+        "4A 30132"
+      ],
+      "category": "日常便签",
+      "stock10_30": 16,
+      "periods": {
+        "before28": {
+          "orders": 1,
+          "units": 1,
+          "sales": 14.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-26": {
+          "orders": 1,
+          "units": 1,
+          "sales": 14.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07R2KSW34",
+      "skus": [
+        "4A PSS 9-1 Grid-NYNGx2"
+      ],
+      "category": "满胶卷带",
+      "stock10_30": 130,
+      "periods": {
+        "before28": {
+          "orders": 1,
+          "units": 1,
+          "sales": 22.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-26": {
+          "orders": 1,
+          "units": 1,
+          "sales": 22.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B01M617ZTH",
+      "skus": [
+        "4A 037"
+      ],
+      "category": "日常便签",
+      "stock10_30": 2,
+      "periods": {
+        "before28": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-25": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07FKF5V92",
+      "skus": [
+        "AAAA 4A PSS 9-1 NRGrid"
+      ],
+      "category": "满胶卷带",
+      "stock10_30": 63,
+      "periods": {
+        "before28": {
+          "orders": 2,
+          "units": 2,
+          "sales": 39.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-01": {
+          "orders": 1,
+          "units": 1,
+          "sales": 19.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-25": {
+          "orders": 1,
+          "units": 1,
+          "sales": 19.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B0821LD25K",
+      "skus": [
+        "4A SCPSS 7"
+      ],
+      "category": "桌面配件",
+      "stock10_30": 7,
+      "periods": {
+        "before28": {
+          "orders": 7,
+          "units": 7,
+          "sales": 90.93,
+          "discount": 0.65,
+          "discount_ids": 1,
+          "promo_ids": 1,
+          "promo_labels": [
+            "FBA Subscribe & Save Discount"
+          ]
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-02": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-07": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-09": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-19": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.65,
+          "discount_ids": 1,
+          "promo_ids": 1,
+          "promo_labels": [
+            "FBA Subscribe & Save Discount"
+          ]
+        },
+        "2026-10-20": {
+          "orders": 2,
+          "units": 2,
+          "sales": 25.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-24": {
+          "orders": 1,
+          "units": 1,
+          "sales": 12.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B0DY12Y8FK",
+      "skus": [
+        "4A PSS 9-3 Refill"
+      ],
+      "category": "满胶卷带",
+      "stock10_30": 22,
+      "periods": {
+        "before28": {
+          "orders": 2,
+          "units": 9,
+          "sales": 233.91,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-13": {
+          "orders": 1,
+          "units": 8,
+          "sales": 207.92,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-23": {
+          "orders": 1,
+          "units": 1,
+          "sales": 25.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07QXJY3FH",
+      "skus": [
+        "4A PSS 9-1 NGNOx2"
+      ],
+      "category": "满胶卷带",
+      "stock10_30": 27,
+      "periods": {
+        "before28": {
+          "orders": 2,
+          "units": 2,
+          "sales": 45.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-03": {
+          "orders": 1,
+          "units": 1,
+          "sales": 22.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-22": {
+          "orders": 1,
+          "units": 1,
+          "sales": 22.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07FKL263W",
+      "skus": [
+        "AAAA 4A 406x6"
+      ],
+      "category": "日常便签",
+      "stock10_30": 7,
+      "periods": {
+        "before28": {
+          "orders": 11,
+          "units": 14,
+          "sales": 188.86,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-06": {
+          "orders": 1,
+          "units": 1,
+          "sales": 13.49,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-08": {
+          "orders": 2,
+          "units": 2,
+          "sales": 26.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-09": {
+          "orders": 2,
+          "units": 2,
+          "sales": 26.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-12": {
+          "orders": 1,
+          "units": 1,
+          "sales": 13.49,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-13": {
+          "orders": 1,
+          "units": 1,
+          "sales": 13.49,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-15": {
+          "orders": 2,
+          "units": 4,
+          "sales": 53.96,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-18": {
+          "orders": 1,
+          "units": 1,
+          "sales": 13.49,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-21": {
+          "orders": 1,
+          "units": 2,
+          "sales": 26.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07K8L4K8K",
+      "skus": [
+        "4A BS 1801"
+      ],
+      "category": "桌面套装",
+      "stock10_30": 1,
+      "periods": {
+        "before28": {
+          "orders": 1,
+          "units": 1,
+          "sales": 17.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-21": {
+          "orders": 1,
+          "units": 1,
+          "sales": 17.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07FKHHTYG",
+      "skus": [
+        "AAAA 4A 303-AC-holder"
+      ],
+      "category": "桌面套装",
+      "stock10_30": 44,
+      "periods": {
+        "before28": {
+          "orders": 1,
+          "units": 1,
+          "sales": 17.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-19": {
+          "orders": 1,
+          "units": 1,
+          "sales": 17.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B01MDJCWVH",
+      "skus": [
+        "EP-T1V0-IBUZ"
+      ],
+      "category": "日常便签",
+      "stock10_30": 0,
+      "periods": {
+        "before28": {
+          "orders": 1,
+          "units": 3,
+          "sales": 44.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-16": {
+          "orders": 1,
+          "units": 3,
+          "sales": 44.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B0784GHSVJ",
+      "skus": [
+        "4A 0166"
+      ],
+      "category": "印花与异形",
+      "stock10_30": 3,
+      "periods": {
+        "before28": {
+          "orders": 1,
+          "units": 1,
+          "sales": 5.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-15": {
+          "orders": 1,
+          "units": 1,
+          "sales": 5.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07VGYQXCC",
+      "skus": [
+        "4A 5021X2"
+      ],
+      "category": "印花与异形",
+      "stock10_30": 0,
+      "periods": {
+        "before28": {
+          "orders": 1,
+          "units": 3,
+          "sales": 31.26,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-15": {
+          "orders": 1,
+          "units": 3,
+          "sales": 31.26,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07MQVWLSY",
+      "skus": [
+        "4A 5084-N-L*4"
+      ],
+      "category": "日常便签",
+      "stock10_30": 20,
+      "periods": {
+        "before28": {
+          "orders": 1,
+          "units": 1,
+          "sales": 35.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-09": {
+          "orders": 1,
+          "units": 1,
+          "sales": 35.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07RVJB9DL",
+      "skus": [
+        "4A 40612"
+      ],
+      "category": "日常便签",
+      "stock10_30": 3,
+      "periods": {
+        "before28": {
+          "orders": 1,
+          "units": 2,
+          "sales": 45.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-08": {
+          "orders": 1,
+          "units": 2,
+          "sales": 45.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07FK9BYHW",
+      "skus": [
+        "AAAA 4A 305-Full Glue"
+      ],
+      "category": "满胶平叠便签",
+      "stock10_30": 60,
+      "periods": {
+        "before28": {
+          "orders": 2,
+          "units": 2,
+          "sales": 29.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-02": {
+          "orders": 1,
+          "units": 1,
+          "sales": 14.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-08": {
+          "orders": 1,
+          "units": 1,
+          "sales": 14.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07FK8MF91",
+      "skus": [
+        "AAAA 4A PSS 9-1 NBGrid"
+      ],
+      "category": "满胶卷带",
+      "stock10_30": 48,
+      "periods": {
+        "before28": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-07": {
+          "orders": 1,
+          "units": 1,
+          "sales": 15.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B01MZ4FDN5",
+      "skus": [
+        "4A GM-PSS 9-3 YOR"
+      ],
+      "category": "满胶卷带",
+      "stock10_30": 13,
+      "periods": {
+        "before28": {
+          "orders": 3,
+          "units": 3,
+          "sales": 35.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-06": {
+          "orders": 3,
+          "units": 3,
+          "sales": 35.97,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07QWKYMGM",
+      "skus": [
+        "4A PSS 9-1 Grid-NBNPx2"
+      ],
+      "category": "满胶卷带",
+      "stock10_30": 46,
+      "periods": {
+        "before28": {
+          "orders": 2,
+          "units": 2,
+          "sales": 45.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-02": {
+          "orders": 1,
+          "units": 1,
+          "sales": 22.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-05": {
+          "orders": 1,
+          "units": 1,
+          "sales": 22.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07T77N118",
+      "skus": [
+        "4A 6087-NL-420"
+      ],
+      "category": "日常便签",
+      "stock10_30": 2,
+      "periods": {
+        "before28": {
+          "orders": 1,
+          "units": 1,
+          "sales": 28.49,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-05": {
+          "orders": 1,
+          "units": 1,
+          "sales": 28.49,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07B8RBCKT",
+      "skus": [
+        "AAAA 4A 608-N-L-210"
+      ],
+      "category": "日常便签",
+      "stock10_30": 24,
+      "periods": {
+        "before28": {
+          "orders": 2,
+          "units": 2,
+          "sales": 29.98,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-01": {
+          "orders": 1,
+          "units": 1,
+          "sales": 14.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "2026-10-05": {
+          "orders": 1,
+          "units": 1,
+          "sales": 14.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    },
+    {
+      "asin": "B07RP9BW5Z",
+      "skus": [
+        "4A 50024"
+      ],
+      "category": "印花与异形",
+      "stock10_30": 21,
+      "periods": {
+        "before28": {
+          "orders": 1,
+          "units": 1,
+          "sales": 19.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "28transition": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "29to30": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        },
+        "31partial": {
+          "orders": 0,
+          "units": 0,
+          "sales": 0.0,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      },
+      "daily": {
+        "2026-10-02": {
+          "orders": 1,
+          "units": 1,
+          "sales": 19.99,
+          "discount": 0.0,
+          "discount_ids": 0,
+          "promo_ids": 0,
+          "promo_labels": []
+        }
+      }
+    }
+  ]
+}

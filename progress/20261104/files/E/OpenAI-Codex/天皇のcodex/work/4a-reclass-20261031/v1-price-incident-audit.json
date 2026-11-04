@@ -1,0 +1,3772 @@
+{
+  "summary": {
+    "total_upload_rows": 106,
+    "regular_changes": 82,
+    "upload_mismatches": [],
+    "drop_ge30": 17,
+    "classifications": {
+      "已确认错误：主代理正在回退": 1,
+      "待复核：有货FBA且降幅至少30%": 1,
+      "待复核：FBA运费口径": 14,
+      "未发现相同高降幅FBA模式；并非核准价格": 58,
+      "待复核：有货MFN大降幅": 8
+    },
+    "scope": "只读审查。未更改线上或上传文件。现价/数量来自本次会话保存的34页Coupon快照，非本子代理重新读取后台。",
+    "b2b_changes": 29,
+    "b2b_following_regular_drop": 8
+  },
+  "records": [
+    {
+      "sku": "4A 5082-Y-L-GM",
+      "asin": "B07F2BHFJH",
+      "old": 11.99,
+      "new": 5.99,
+      "drop_pct": 50.042,
+      "old_effective": 11.99,
+      "old_b2b": 9.49,
+      "new_b2b": 5.99,
+      "old_channel": "AMAZON_US2MX_RAFN",
+      "channel": "AFN",
+      "quantity": 62,
+      "sales_ui": 17,
+      "sales_30_snapshot": 15,
+      "snapshot_price": 5.99,
+      "coupon_page": 16,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 43,
+          "sku": "4A 5082-Y-L",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 5.99,
+          "sale": null,
+          "title": "4A Sticky Notes,5 x 8 Inches,Large Size, Yellow,Lined,Self-Stick Notes,50 Sheets/Pad,2 Pads/Pack,100 Sheets/Pack,4A 5082-Y-L"
+        }
+      ],
+      "status": "已确认错误：主代理正在回退",
+      "flags": [
+        "降幅至少30%",
+        "FBA价格直接取另列物流的表价，须复核包邮口径"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 5082-Y-L",
+          "price": 5.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 004",
+      "asin": "B01LVXOCU2",
+      "old": 15.99,
+      "new": 9.49,
+      "drop_pct": 40.65,
+      "old_effective": 15.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "AMAZON_US2CA_RAFN",
+      "channel": "AFN",
+      "quantity": 59,
+      "sales_ui": 0,
+      "sales_30_snapshot": 0,
+      "snapshot_price": 9.49,
+      "coupon_page": 17,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 11,
+          "sku": "4A 301x24",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 10.99,
+          "sale": "9.49",
+          "title": "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24"
+        }
+      ],
+      "status": "待复核：有货FBA且降幅至少30%",
+      "flags": [
+        "降幅至少30%",
+        "FBA价格直接取另列物流的表价，须复核包邮口径"
+      ],
+      "other_same_asin": []
+    },
+    {
+      "sku": "4A GM-PSS 9-3 YOR",
+      "asin": "B01MZ4FDN5",
+      "old": 11.99,
+      "new": 9.99,
+      "drop_pct": 16.681,
+      "old_effective": 11.99,
+      "old_b2b": 11.49,
+      "new_b2b": 9.99,
+      "old_channel": "AMAZON_US2MX_RAFN",
+      "channel": "AFN",
+      "quantity": 13,
+      "sales_ui": 4,
+      "sales_30_snapshot": 4,
+      "snapshot_price": 9.99,
+      "coupon_page": 23,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 120,
+          "sku": "4A PSS 9-3 YOR",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 9.99,
+          "sale": null,
+          "title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 0.6 x 315 Inches,Neon Yellow/Orange/Red,Self-Stick Notes,3 Color/ Roll,1 Roll/Pack,4A PSS 9-3 YOR"
+        }
+      ],
+      "status": "待复核：FBA运费口径",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A PSS 9-3 YOR",
+          "price": 9.9,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 4012-B07T-FBA",
+      "asin": "B01M3N310M",
+      "old": 12.99,
+      "new": 10.99,
+      "drop_pct": 15.396,
+      "old_effective": 12.99,
+      "old_b2b": 14.49,
+      "new_b2b": 10.99,
+      "old_channel": "AMAZON_US2CA_RAFN",
+      "channel": "AFN",
+      "quantity": 3,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 10.99,
+      "coupon_page": 32,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 72,
+          "sku": "4A 4012",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 12.99,
+          "sale": "10.99",
+          "title": "4A Sticky Notes Value Pack,Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4012"
+        }
+      ],
+      "status": "待复核：FBA运费口径",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径"
+      ],
+      "other_same_asin": []
+    },
+    {
+      "sku": "4A PSS 9-5 Refill",
+      "asin": "B07QXJX2BV",
+      "old": 19.99,
+      "new": 16.99,
+      "drop_pct": 15.008,
+      "old_effective": 19.99,
+      "old_b2b": 19.98,
+      "new_b2b": 16.99,
+      "old_channel": "AMAZON_US2MX_RAFN",
+      "channel": "AFN",
+      "quantity": 10,
+      "sales_ui": 3,
+      "sales_30_snapshot": 3,
+      "snapshot_price": 16.99,
+      "coupon_page": 27,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 123,
+          "sku": "4A PSS 9-5 Refill",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 16.99,
+          "sale": null,
+          "title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 0.4 x 315 Inches,Neon Assorted,Self-Stick Notes,5 Color/Roll,4 Refill Rolls,4A PSS 9-5 Refill"
+        }
+      ],
+      "status": "待复核：FBA运费口径",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A GMPSS 9-5 Refill",
+          "price": 19.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        },
+        {
+          "sku": "AAAA 4A PSS 9-5 NB",
+          "price": 16.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A PSS 9-1 NGNOx2",
+      "asin": "B07QXJY3FH",
+      "old": 22.99,
+      "new": 19.99,
+      "drop_pct": 13.049,
+      "old_effective": 22.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "AMAZON_US2MX_RAFN",
+      "channel": "AFN",
+      "quantity": 27,
+      "sales_ui": 2,
+      "sales_30_snapshot": 2,
+      "snapshot_price": 19.99,
+      "coupon_page": 20,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 113,
+          "sku": "4A PSS 9-1 NGNOx2",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 19.99,
+          "sale": null,
+          "title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 2 x 315 Inches,Neon Green and Orange,Self-Stick Notes,2 Rolls With Dispenser and 2 Refill Rolls,4A PSS 9-1 NGNOx2"
+        }
+      ],
+      "status": "待复核：FBA运费口径",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A GMPSS 9-1 NGNOx2",
+          "price": 22.49,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A PSS 9-1 NYNRx2",
+      "asin": "B07QWKWWP2",
+      "old": 22.99,
+      "new": 19.99,
+      "drop_pct": 13.049,
+      "old_effective": 22.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "AMAZON_US2MX_RAFN",
+      "channel": "AFN",
+      "quantity": 162,
+      "sales_ui": 1,
+      "sales_30_snapshot": 2,
+      "snapshot_price": 19.99,
+      "coupon_page": 11,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 114,
+          "sku": "4A PSS 9-1 NYNRx2",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 19.99,
+          "sale": null,
+          "title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 2 x 315 Inches,Neon Yellow and Red,Self-Stick Notes,2 Rolls With Dispenser and 2 Refill Rolls,4A PSS 9-1 NYNRx2"
+        }
+      ],
+      "status": "待复核：FBA运费口径",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A GM-PSS 9-1 NYNRx2",
+          "price": 19.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 032",
+      "asin": "B01N0RJSTU",
+      "old": 11.49,
+      "new": 10.49,
+      "drop_pct": 8.703,
+      "old_effective": 11.49,
+      "old_b2b": 10.49,
+      "new_b2b": null,
+      "old_channel": "AMAZON_US2MX_RAFN",
+      "channel": "AFN",
+      "quantity": 12,
+      "sales_ui": 8,
+      "sales_30_snapshot": 7,
+      "snapshot_price": 10.49,
+      "coupon_page": 25,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 38,
+          "sku": "4A 406x6-Y",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 12.49,
+          "sale": "10.49",
+          "title": "4A  Sticky Notes,4 x 6 Inches,Large Size, Yellow,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 406x6-Y           "
+        }
+      ],
+      "status": "待复核：FBA运费口径",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 406x6-Y",
+          "price": 10.49,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A MG30124",
+      "asin": "B01N9LOE7P",
+      "old": 11.99,
+      "new": 10.99,
+      "drop_pct": 8.34,
+      "old_effective": 11.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "AMAZON_US2MX_RAFN",
+      "channel": "AFN",
+      "quantity": 18,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 10.99,
+      "coupon_page": 23,
+      "source": [
+        {
+          "sheet": "Sheet3",
+          "row": 13,
+          "sku": "MG 30124",
+          "freight_code": "B",
+          "freight_header": null,
+          "list": 6,
+          "sale": 10.99,
+          "title": "4A Magic Cyclic Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,4 Neon Color Assorted, Each Color Sheets Cyclic,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301M  x 24,More Easy&Efficient! "
+        }
+      ],
+      "status": "待复核：FBA运费口径",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4AGM301MX24",
+          "price": 10.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A SCPSS 7",
+      "asin": "B0821LD25K",
+      "old": 12.99,
+      "new": 11.99,
+      "drop_pct": 7.698,
+      "old_effective": 12.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "AMAZON_US2MX_RAFN",
+      "channel": "AFN",
+      "quantity": 7,
+      "sales_ui": 8,
+      "sales_30_snapshot": 7,
+      "snapshot_price": 11.99,
+      "coupon_page": 28,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 99,
+          "sku": "4A PSS 7",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 14.99,
+          "sale": "11.99",
+          "title": "4A Pop-up Note Dispenser, Black, Work with 4A Sticky Pop-up Notes, for 100 Sheets 3x3 Notes, 1 Dispenser/Pack, 4A PSS 7"
+        }
+      ],
+      "status": "待复核：FBA运费口径",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A GMSCPSS 7",
+          "price": 12.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A055",
+      "asin": "B00SMEENOU",
+      "old": 7.51,
+      "new": 6.99,
+      "drop_pct": 6.924,
+      "old_effective": 7.51,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "AMAZON_US2MX_RAFN",
+      "channel": "AFN",
+      "quantity": 140,
+      "sales_ui": 1,
+      "sales_30_snapshot": 0,
+      "snapshot_price": 6.99,
+      "coupon_page": 12,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 79,
+          "sku": "4A 5037",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 7.99,
+          "sale": "6.99",
+          "title": "4A Shapes Sticky Note,Tree Shape,2.6 x 2.71 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5037"
+        }
+      ],
+      "status": "待复核：FBA运费口径",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 5037",
+          "price": 6.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A Meeting 52x4",
+      "asin": "B07RBVWVY4",
+      "old": 84.99,
+      "new": 79.99,
+      "drop_pct": 5.883,
+      "old_effective": 84.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "AMAZON_US2MX_RAFN",
+      "channel": "AFN",
+      "quantity": 7,
+      "sales_ui": 0,
+      "sales_30_snapshot": 0,
+      "snapshot_price": 79.99,
+      "coupon_page": 28,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 184,
+          "sku": "4A Meeting 52x4",
+          "freight_code": "2H",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 79.99,
+          "sale": "79.99",
+          "title": "4 Packs 4A Super Sticky Table Top Dry Erase Pad+Easel Pad 2 In 1, Meeting Pad ,Portable White Premium Self Stick Paper,Built-in Easel Stand,Self-Stick Notes,20X23 Inches,Large Size,25 Sheets/Pad,4A Meeting 52x4"
+        }
+      ],
+      "status": "待复核：FBA运费口径",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A GMSC-MEETING-52x4",
+          "price": 64.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "303-AC-holder",
+      "asin": "B07DJP6SNG",
+      "old": 11.6,
+      "new": 10.99,
+      "drop_pct": 5.259,
+      "old_effective": 11.6,
+      "old_b2b": 12.49,
+      "new_b2b": 10.99,
+      "old_channel": "AMAZON_US2CA_RAFN",
+      "channel": "AFN",
+      "quantity": 3,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 10.99,
+      "coupon_page": 32,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 101,
+          "sku": "4A 303-AC-holder",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 12.99,
+          "sale": "10.99",
+          "title": "4A Sticky Note Dispenser Pen Holder Set,Self-Stick Notes,8 Ultra Colors 3X3 Inches 400 Neon Sheets Sticky Notes and 1*1 3/4 Inches 2X50 Sheets.100 Flags,4A 303-AC-holder"
+        }
+      ],
+      "status": "待复核：FBA运费口径",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径"
+      ],
+      "other_same_asin": []
+    },
+    {
+      "sku": "4A 5059-B00SM-FBA",
+      "asin": "B00SMEEVCO",
+      "old": 7.2,
+      "new": 6.99,
+      "drop_pct": 2.917,
+      "old_effective": 7.2,
+      "old_b2b": 5.69,
+      "new_b2b": null,
+      "old_channel": "AMAZON_US2BR_RAFN",
+      "channel": "AFN",
+      "quantity": 5,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 6.99,
+      "coupon_page": 30,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 77,
+          "sku": "4A 5059",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 7.99,
+          "sale": "6.99",
+          "title": "4A Shapes Sticky Notes,Bubble Shape,3 3/8 x 1 7/8 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5059"
+        }
+      ],
+      "status": "待复核：FBA运费口径",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径"
+      ],
+      "other_same_asin": []
+    },
+    {
+      "sku": "4A 5061-B00SM-FBA",
+      "asin": "B00SMEEN40",
+      "old": 7.2,
+      "new": 6.99,
+      "drop_pct": 2.917,
+      "old_effective": 7.2,
+      "old_b2b": 6.85,
+      "new_b2b": null,
+      "old_channel": "AMAZON_US2BR_RAFN",
+      "channel": "AFN",
+      "quantity": 5,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 6.99,
+      "coupon_page": 30,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 78,
+          "sku": "4A 5061",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 7.99,
+          "sale": "6.99",
+          "title": "4A Shapes Sticky Notes,Leaf Shape,2.83 x 2.83 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5061"
+        }
+      ],
+      "status": "待复核：FBA运费口径",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径"
+      ],
+      "other_same_asin": []
+    },
+    {
+      "sku": "4A5013-B00SM-FBA",
+      "asin": "B00SMEEV4C",
+      "old": 7.2,
+      "new": 6.99,
+      "drop_pct": 2.917,
+      "old_effective": 7.2,
+      "old_b2b": 9.69,
+      "new_b2b": 6.99,
+      "old_channel": "AMAZON_US2BR_RAFN",
+      "channel": "AFN",
+      "quantity": 5,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 6.99,
+      "coupon_page": 29,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 76,
+          "sku": "4A 5013",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 7.99,
+          "sale": "6.99",
+          "title": "4A Shapes Sticky Notes,Arrow Shape,2.72 x 2.56 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5013"
+        }
+      ],
+      "status": "待复核：FBA运费口径",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径"
+      ],
+      "other_same_asin": []
+    },
+    {
+      "sku": "4A 305 x 6-Y",
+      "asin": "B01N0R4QI8",
+      "old": 11.99,
+      "new": 5.99,
+      "drop_pct": 50.042,
+      "old_effective": 11.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Amazon (NA)",
+      "channel": null,
+      "quantity": 0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 29,
+          "sku": "4A 305x6-Y",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 6.99,
+          "sale": "5.99",
+          "title": "4A Sticky Notes,3 x 5 Inches, Yellow,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 305x6-Y "
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "降幅至少30%",
+        "FBA价格直接取另列物流的表价，须复核包邮口径",
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 305x6-Y",
+          "price": 5.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A ST303X12NZ",
+      "asin": "B07FKL115P",
+      "old": 21.98,
+      "new": 10.99,
+      "drop_pct": 50.0,
+      "old_effective": 21.98,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 858,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 10.99,
+      "coupon_page": 3,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 28,
+          "sku": "4A 303x12-N-Z",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 12.99,
+          "sale": "10.99",
+          "title": "4A Sticky Pop-up Notes,3 x 3 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 303x12-N-Z    "
+        }
+      ],
+      "status": "待复核：有货MFN大降幅",
+      "flags": [
+        "降幅至少30%",
+        "改价前目录报价终止日已过"
+      ],
+      "other_same_asin": []
+    },
+    {
+      "sku": "4A GM406SL-10",
+      "asin": "B07RP85C2P",
+      "old": 33.49,
+      "new": 17.49,
+      "drop_pct": 47.775,
+      "old_effective": 33.49,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 466,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 17.49,
+      "coupon_page": 5,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 69,
+          "sku": "4A 406SL-10",
+          "freight_code": "H",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 24.99,
+          "sale": "17.49",
+          "title": "4A Super Sticky Notes,4 x 6 Inches,Extra Bright Colors Assorted,Lined,5 Colors,80 Sheets/Pad,10 Pads/Pack,4A 406SL-10"
+        }
+      ],
+      "status": "待复核：有货MFN大降幅",
+      "flags": [
+        "降幅至少30%"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 406SL-10",
+          "price": 17.49,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A071",
+      "asin": "B01MY2AYET",
+      "old": 10.99,
+      "new": 5.99,
+      "drop_pct": 45.496,
+      "old_effective": 10.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "AMAZON_US2MX_RAFN",
+      "channel": null,
+      "quantity": 0,
+      "sales_ui": null,
+      "sales_30_snapshot": 0,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 89,
+          "sku": "4A 40624",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 7.99,
+          "sale": "5.99",
+          "title": "4A Divider Sticky Notes,4 x 6 Inches,Large Size,White Paper,Lined,10 Sheets/Divider,6 Divders/Pack,Self-Stick Notes,60 Sheets Total,4A 40624"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "降幅至少30%",
+        "FBA价格直接取另列物流的表价，须复核包邮口径",
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 40624",
+          "price": 5.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A MG30312-Z",
+      "asin": "B01JGGQ4WQ",
+      "old": 18.25,
+      "new": 10.32,
+      "drop_pct": 43.452,
+      "old_effective": 18.25,
+      "old_b2b": 11.99,
+      "new_b2b": 10.32,
+      "old_channel": "Fulfillment by Amazon (NA)",
+      "channel": null,
+      "quantity": 0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet3",
+          "row": 16,
+          "sku": "4A 303M-PN-Zx12",
+          "freight_code": "B",
+          "freight_header": null,
+          "list": 6,
+          "sale": 10.32,
+          "title": "4A Magic Cyclic Pop-up Sticky Notes,4 Neon Color Assorted, Each Color Sheets Cyclic,Self-Stick Notes,3 x 3 Inches,100 Sheets/Pad,12 Pads/Box,4A 303M-PN-Zx12, More Easy&Efficient! "
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "降幅至少30%",
+        "FBA价格直接取另列物流的表价，须复核包邮口径",
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A GM303M-PN-Zx12",
+          "price": 10.32,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A SCBS 1804",
+      "asin": "B07WDQGB3G",
+      "old": 18.99,
+      "new": 10.99,
+      "drop_pct": 42.127,
+      "old_effective": 18.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Amazon (NA)",
+      "channel": null,
+      "quantity": 0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 108,
+          "sku": "4A BS 1804",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 12.99,
+          "sale": "10.99",
+          "title": "4A Sticky Note Bundle Set, Colored Rectangular Notes and Pop-up Flags Index Flags Organizer, Gifts for Students and Teachers! 1180 Sheets Total, 4A BS 1804"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "降幅至少30%",
+        "FBA价格直接取另列物流的表价，须复核包邮口径",
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A BS 1804",
+          "price": null,
+          "status": "Active",
+          "channel": null,
+          "offer_stop_passed": false
+        },
+        {
+          "sku": "4A GMSCBS 1804",
+          "price": 9.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 303 x 6-Y-Z",
+      "asin": "B01MQW96JR",
+      "old": 8.49,
+      "new": 4.99,
+      "drop_pct": 41.225,
+      "old_effective": 8.49,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Amazon (NA)",
+      "channel": null,
+      "quantity": 0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 27,
+          "sku": "4A 303x6-Y-Z",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 5.99,
+          "sale": "4.99",
+          "title": "4A Sticky Pop-up Notes,3 x 3 Inches, Yellow,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 303x6-Y-Z "
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "降幅至少30%",
+        "FBA价格直接取另列物流的表价，须复核包邮口径",
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验",
+        "改价前目录报价终止日已过"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 011",
+          "price": 5.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": true
+        },
+        {
+          "sku": "4A 303x6-Y-Z",
+          "price": 4.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GM40612-L",
+      "asin": "B07RT4GQJK",
+      "old": 38.99,
+      "new": 22.99,
+      "drop_pct": 41.036,
+      "old_effective": 38.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 119,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 22.99,
+      "coupon_page": 13,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 42,
+          "sku": "4A 40612-L",
+          "freight_code": "H",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 29.99,
+          "sale": "22.99",
+          "title": "4A Sticky Notes,4 x 6 Inches,Lined,Neon Assorted,12 Colors,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 40612-L"
+        }
+      ],
+      "status": "待复核：有货MFN大降幅",
+      "flags": [
+        "降幅至少30%"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 40612-L",
+          "price": 22.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GM6032x5",
+      "asin": "B07RQ5MBBB",
+      "old": 24.99,
+      "new": 14.99,
+      "drop_pct": 40.016,
+      "old_effective": 24.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 180,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 14.99,
+      "coupon_page": 11,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 150,
+          "sku": "4A 6032x5",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 24.99,
+          "sale": 14.99,
+          "title": "4A Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Stickers, Writable,Bookmarks,Repositionable,Great Labeling,Flaging,Retrieving Folders&Documents,24 Pads/set,5 Sets,4A 6032x5"
+        }
+      ],
+      "status": "待复核：有货MFN大降幅",
+      "flags": [
+        "降幅至少30%"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 6032x5",
+          "price": 14.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A068",
+      "asin": "B01NCQ6Q1T",
+      "old": 7.99,
+      "new": 4.99,
+      "drop_pct": 37.547,
+      "old_effective": 7.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": null,
+      "quantity": 0.0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 86,
+          "sku": "4A 40621",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 6.49,
+          "sale": "4.99",
+          "title": "4A Divider Sticky Notes,4 x 6 Inches,Large Size,Neon Assorted,Lined,20 Sheets/Divider,3 Divders/Pack,Self-Stick Notes,60 Sheets Total,4A 40621  "
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "降幅至少30%",
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 40621",
+          "price": 4.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": true
+        }
+      ]
+    },
+    {
+      "sku": "4A GM6031x4",
+      "asin": "B07RP9K6KV",
+      "old": 18.99,
+      "new": 11.99,
+      "drop_pct": 36.862,
+      "old_effective": 18.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 288,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 11.99,
+      "coupon_page": 9,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 148,
+          "sku": "4A 6031x4",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 9.99,
+          "sale": 11.99,
+          "title": "4A Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Stickers, Writable,Bookmarks,Repositionable,Great Labeling,Flaging,Retrieving Folders&Documents,25 Pads/set,4 Sets,4A 6031x4"
+        }
+      ],
+      "status": "待复核：有货MFN大降幅",
+      "flags": [
+        "降幅至少30%"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 6031x4",
+          "price": 11.99,
+          "status": "Active",
+          "channel": "AMAZON_US2MX_RAFN",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GM608SL-5",
+      "asin": "B07RN7W756",
+      "old": 28.49,
+      "new": 18.99,
+      "drop_pct": 33.345,
+      "old_effective": 28.49,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 106,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 18.99,
+      "coupon_page": 14,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 70,
+          "sku": "4A 608SL-5",
+          "freight_code": "H",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 25.99,
+          "sale": "18.99",
+          "title": "4A Super Sticky Notes,6 x 8 Inches,Large Size,Extra Bright Color Assorted,Lined,Self-Stick Notes,5 Colors,80 Sheets/Pad,5 Pads/Pack,400 Sheets/Pack,4A 608SL-5"
+        }
+      ],
+      "status": "待复核：有货MFN大降幅",
+      "flags": [
+        "降幅至少30%"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 608SL-5",
+          "price": 18.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GM40612",
+      "asin": "B07RVJB9DL",
+      "old": 32.49,
+      "new": 21.99,
+      "drop_pct": 32.318,
+      "old_effective": 32.49,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 109,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 21.99,
+      "coupon_page": 14,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 41,
+          "sku": "4A 40612",
+          "freight_code": "H",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 27.99,
+          "sale": "21.99",
+          "title": "4A Sticky Notes,4 x 6 Inches,Neon Assorted,12 Colors,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 40612"
+        }
+      ],
+      "status": "待复核：有货MFN大降幅",
+      "flags": [
+        "降幅至少30%"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 40612",
+          "price": 21.99,
+          "status": "Active",
+          "channel": "AMAZON_US2MX_RAFN",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GM404SL-15",
+      "asin": "B07RQ69Q1Q",
+      "old": 38.99,
+      "new": 26.49,
+      "drop_pct": 32.06,
+      "old_effective": 38.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 44,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 26.49,
+      "coupon_page": 18,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 68,
+          "sku": "4A 404SL-15",
+          "freight_code": "H",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 31.99,
+          "sale": "26.49",
+          "title": "4A Super Sticky Notes,4 x 4 Inches,Extra Bright Colors Assorted,Lined,5 Colors,80 Sheets/Pad,15 Pads/Pack,4A 404SL-15"
+        }
+      ],
+      "status": "待复核：有货MFN大降幅",
+      "flags": [
+        "降幅至少30%"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 404SL-15",
+          "price": 26.49,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A053",
+      "asin": "B01MY06P05",
+      "old": 9.99,
+      "new": 6.99,
+      "drop_pct": 30.03,
+      "old_effective": 9.99,
+      "old_b2b": 6.99,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Amazon (NA)",
+      "channel": null,
+      "quantity": 0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 77,
+          "sku": "4A 5059",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 7.99,
+          "sale": "6.99",
+          "title": "4A Shapes Sticky Notes,Bubble Shape,3 3/8 x 1 7/8 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5059"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "降幅至少30%",
+        "FBA价格直接取另列物流的表价，须复核包邮口径",
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 5059",
+          "price": 6.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GMBP 1111-Nx4",
+      "asin": "B07QWKYQV7",
+      "old": 37.39,
+      "new": 27.99,
+      "drop_pct": 25.14,
+      "old_effective": 37.39,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 839,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 27.99,
+      "coupon_page": 3,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 161,
+          "sku": "4A BP 1111-Nx4",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 27.99,
+          "sale": null,
+          "title": "4A Sticky Big Pad,11 x 11 In,Large Size,Neon Yellow,Orange,Red and Green,Self-Stick Notes,30 Sheets/Pad,4 Pad/Pack,4A BP 1111-Nx4"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A BP 1111-Nx4",
+          "price": 27.99,
+          "status": "Active",
+          "channel": "AMAZON_US2MX_RAFN",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 016",
+      "asin": "B01LWA44KM",
+      "old": 12.99,
+      "new": 9.99,
+      "drop_pct": 23.095,
+      "old_effective": 12.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Amazon (NA)",
+      "channel": null,
+      "quantity": 0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 19,
+          "sku": "4A 303x12-N",
+          "freight_code": "H",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 12.99,
+          "sale": "9.99",
+          "title": "4A Sticky Notes,3 x 3 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 303x12-N"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径",
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 303 x12-N",
+          "price": 12.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        },
+        {
+          "sku": "4A 303x12-N",
+          "price": 9.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 303 x12-N",
+      "asin": "B01LWA44KM",
+      "old": 12.99,
+      "new": 9.99,
+      "drop_pct": 23.095,
+      "old_effective": 12.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": null,
+      "quantity": 0.0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 19,
+          "sku": "4A 303x12-N",
+          "freight_code": "H",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 12.99,
+          "sale": "9.99",
+          "title": "4A Sticky Notes,3 x 3 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 303x12-N"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 016",
+          "price": 12.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        },
+        {
+          "sku": "4A 303x12-N",
+          "price": 9.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GM60222",
+      "asin": "B07RR9CGXY",
+      "old": 12.99,
+      "new": 9.99,
+      "drop_pct": 23.095,
+      "old_effective": 12.99,
+      "old_b2b": 12.99,
+      "new_b2b": 9.99,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 282,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 9.99,
+      "coupon_page": 9,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 137,
+          "sku": "4A 6022+6023",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 10.99,
+          "sale": "9.99",
+          "title": "4A Sticky Notes Flags Set,Neon Color Page Marker Fluorescent Color Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Page Marker Bookmarks,24 Pads/set,4A 60222"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A 60222",
+          "price": 10.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A052",
+      "asin": "B01N1U9USQ",
+      "old": 8.99,
+      "new": 6.99,
+      "drop_pct": 22.247,
+      "old_effective": 8.99,
+      "old_b2b": 6.99,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 1609,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 6.99,
+      "coupon_page": 1,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 76,
+          "sku": "4A 5013",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 7.99,
+          "sale": "6.99",
+          "title": "4A Shapes Sticky Notes,Arrow Shape,2.72 x 2.56 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5013"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A 5013",
+          "price": 6.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 022",
+      "asin": "B01M6181P0",
+      "old": 17.99,
+      "new": 13.99,
+      "drop_pct": 22.235,
+      "old_effective": 17.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Amazon (NA)",
+      "channel": null,
+      "quantity": 0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 21,
+          "sku": "4A 303x18-N",
+          "freight_code": "H",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 14.99,
+          "sale": "13.99",
+          "title": "4A Sticky Notes,3 x 3 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,18 Pads/Box,4A 303x18-N"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径",
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 303x18-N",
+          "price": 13.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 0185",
+      "asin": "B07B7G1DKQ",
+      "old": 13.99,
+      "new": 10.99,
+      "drop_pct": 21.444,
+      "old_effective": 13.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Amazon (NA)",
+      "channel": null,
+      "quantity": 0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 219,
+          "sku": "4A 301Mx24",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 6,
+          "sale": 10.99,
+          "title": "4A Magic Cyclic Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,4 Neon Color Assorted, Each Color Sheets Cyclic,100 Sheets/Pad,24 Pads/Box,4A 301M  x 24,More Easy&Efficient! "
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径",
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 301Mx24",
+          "price": 10.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GM40412-L",
+      "asin": "B07RP8FC4D",
+      "old": 28.99,
+      "new": 23.49,
+      "drop_pct": 18.972,
+      "old_effective": 28.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 120,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 23.49,
+      "coupon_page": 13,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 35,
+          "sku": "4A 40412-L",
+          "freight_code": "H",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 27.99,
+          "sale": "23.49",
+          "title": "4A Sticky Notes,4 x 4 Inches,Neon Assorted,Lined,12 Colors,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 40412-L"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A 40412-L",
+          "price": 23.49,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 011",
+      "asin": "B01MQW96JR",
+      "old": 5.99,
+      "new": 4.99,
+      "drop_pct": 16.694,
+      "old_effective": 5.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": null,
+      "quantity": 0.0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 27,
+          "sku": "4A 303x6-Y-Z",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 5.99,
+          "sale": "4.99",
+          "title": "4A Sticky Pop-up Notes,3 x 3 Inches, Yellow,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 303x6-Y-Z "
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验",
+        "改价前目录报价终止日已过"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 303 x 6-Y-Z",
+          "price": 8.49,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": true
+        },
+        {
+          "sku": "4A 303x6-Y-Z",
+          "price": 4.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 0157",
+      "asin": "B078BQV25Y",
+      "old": 5.99,
+      "new": 4.99,
+      "drop_pct": 16.694,
+      "old_effective": 5.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": null,
+      "quantity": 0.0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 197,
+          "sku": "4A 8069",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 4.99,
+          "sale": null,
+          "title": "4A 3D Shape Printed Sticky Notes,Cute Designs,Printed With White Tiger,Self-Stick Notes,3.35 x 3.75 Inches,100 Sheets/Pad,1 Pad/Pack,4A 8069"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 8069",
+          "price": 5.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 8086",
+      "asin": "B077QC33J2",
+      "old": 5.99,
+      "new": 4.99,
+      "drop_pct": 16.694,
+      "old_effective": 5.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": null,
+      "quantity": 0.0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 214,
+          "sku": "4A 8086",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 4.99,
+          "sale": null,
+          "title": "4A 3D Shape Printed Sticky Notes,Cute Designs,Printed With Panda,Self-Stick Notes,3.75 x 4.13 Inches,100 Sheets/Pad,1 Pad/Pack,4A 8086"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验",
+        "改价前目录报价终止日已过"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 0174",
+          "price": 4.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": true
+        }
+      ]
+    },
+    {
+      "sku": "AAAA 4A 40608",
+      "asin": "B00SMEEVL0",
+      "old": 5.99,
+      "new": 4.99,
+      "drop_pct": 16.694,
+      "old_effective": 5.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 83,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 4.99,
+      "coupon_page": 15,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 92,
+          "sku": "4A 40608",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 4.99,
+          "sale": "4.99",
+          "title": "4A Divider Sticky Notes,Note Tabs,2 2/3 x 2 7/8 Inches,Neon Assorted,15 Sheets/Divider,4 Divders/Pack,Self-Stick Notes,60 Sheets Total,4A 40608"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": []
+    },
+    {
+      "sku": "4A 305 x 6-N",
+      "asin": "B01MXYR202",
+      "old": 8.99,
+      "new": 7.49,
+      "drop_pct": 16.685,
+      "old_effective": 8.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Amazon (NA)",
+      "channel": null,
+      "quantity": 0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 31,
+          "sku": "4A 305x6-N",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 8.99,
+          "sale": "7.49",
+          "title": "4A Sticky Notes,3 x 5 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 305x6-N       "
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径",
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 027",
+          "price": 7.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        },
+        {
+          "sku": "4A 305x6-N",
+          "price": 7.49,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GMSCLB 1902",
+      "asin": "B0821GTX3C",
+      "old": 11.99,
+      "new": 9.99,
+      "drop_pct": 16.681,
+      "old_effective": 11.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 297,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 9.99,
+      "coupon_page": 8,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 172,
+          "sku": "4A LB 1902",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 9.99,
+          "sale": null,
+          "title": "4A Black Chalkboard Labels, About 2.5x3.5 Inches, 96 Chalkboard Stickers, Waterproof Reuseable and Remove Cleanly, for Jars, Glass, Cups, Organize Your Kitchen, 4A LB 1902"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A LB 1902",
+          "price": null,
+          "status": "Active",
+          "channel": null,
+          "offer_stop_passed": false
+        },
+        {
+          "sku": "4A SCLB 1902",
+          "price": 9.99,
+          "status": "Active",
+          "channel": "AMAZON_US2MX_RAFN",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 021",
+      "asin": "B01MA0ZWWR",
+      "old": 15.99,
+      "new": 13.49,
+      "drop_pct": 15.635,
+      "old_effective": 15.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": null,
+      "quantity": 0.0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 20,
+          "sku": "4A 303x18",
+          "freight_code": "H",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 14.99,
+          "sale": "13.49",
+          "title": "4A Sticky Notes,3 x 3 Inches, Pastel Assorted,Self-Stick Notes,100 Sheets/Pad,18 Pads/Box,4A 303x18    "
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 303x18",
+          "price": 13.49,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 6533",
+      "asin": "B07548QLN8",
+      "old": 12.99,
+      "new": 10.99,
+      "drop_pct": 15.396,
+      "old_effective": 12.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 374,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 10.99,
+      "coupon_page": 7,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 175,
+          "sku": "4A 6533",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 10.99,
+          "sale": "10.99",
+          "title": "4A Weekly Planner/Monthly Planner Sticky Pads,Self-Stick Notes,11 x 10 Inches,Large Size,52 Sheets/Pad,1 Pad/Pack,4A 6533"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": []
+    },
+    {
+      "sku": "4A GMGR4066",
+      "asin": "B07RP9MSSL",
+      "old": 19.99,
+      "new": 16.99,
+      "drop_pct": 15.008,
+      "old_effective": 19.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": null,
+      "quantity": 0.0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 165,
+          "sku": "4A GR 4066",
+          "freight_code": "H",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 16.99,
+          "sale": "16.99",
+          "title": "4A Grid Sticky Notes,4 in x 6 in,Large Size,The Adhesive On Shorter Side,White Paper With Black Grid,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A GR4066"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A GR 4066",
+          "price": null,
+          "status": "Active",
+          "channel": null,
+          "offer_stop_passed": false
+        },
+        {
+          "sku": "4A GR4066",
+          "price": 16.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GMPSS 9-5 Refill",
+      "asin": "B07QXJX2BV",
+      "old": 19.99,
+      "new": 16.99,
+      "drop_pct": 15.008,
+      "old_effective": 19.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 413,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 16.99,
+      "coupon_page": 6,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 123,
+          "sku": "4A PSS 9-5 Refill",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 16.99,
+          "sale": null,
+          "title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 0.4 x 315 Inches,Neon Assorted,Self-Stick Notes,5 Color/Roll,4 Refill Rolls,4A PSS 9-5 Refill"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A PSS 9-5 Refill",
+          "price": 19.99,
+          "status": "Active",
+          "channel": "AMAZON_US2MX_RAFN",
+          "offer_stop_passed": false
+        },
+        {
+          "sku": "AAAA 4A PSS 9-5 NB",
+          "price": 16.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A SN301x12-N",
+      "asin": "B07KPF9PFX",
+      "old": 6.99,
+      "new": 5.99,
+      "drop_pct": 14.306,
+      "old_effective": 6.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 23263,
+      "sales_ui": 8,
+      "sales_30_snapshot": null,
+      "snapshot_price": 5.99,
+      "coupon_page": 1,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 9,
+          "sku": "4A 301x12-N",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 6.99,
+          "sale": "5.99",
+          "title": "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 301x12-N"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": []
+    },
+    {
+      "sku": "4A 60171",
+      "asin": "B00SMEEE6M",
+      "old": 4.1,
+      "new": 3.56,
+      "drop_pct": 13.171,
+      "old_effective": 4.1,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Amazon (NA)",
+      "channel": null,
+      "quantity": 0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 147,
+          "sku": "4A 60171",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 3.56,
+          "sale": "3.56",
+          "title": "4A Pop-up Flags,Sign Here And Note Set, Color Page Marker Fluorescent Color Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Bookmarks,100 Flags/Set,4A 60171"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径",
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 190",
+          "price": 3.56,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A PSS 9-1 NYRPOGRID",
+      "asin": "B07M854SFQ",
+      "old": 26.99,
+      "new": 23.49,
+      "drop_pct": 12.968,
+      "old_effective": 26.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": null,
+      "quantity": 0.0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 124,
+          "sku": "4A PSS 9-1 NYRPOGRID",
+          "freight_code": null,
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 26.99,
+          "sale": "23.49",
+          "title": "Roll Sticky Notes,Full Adhesive,Width x Length 2 x 315 Inches,Neon Yellow,Red,Pink and Orange,Grid,Self-Stick Notes,4 Roll/Pack,4A PSS 9-1 NYRPOGRID"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验",
+        "改价前目录报价终止日已过"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A GMPSS 9-1 NYRPOGRID",
+          "price": 23.49,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": true
+        }
+      ]
+    },
+    {
+      "sku": "4A GM354832",
+      "asin": "B07RP9LR73",
+      "old": 15.99,
+      "new": 13.99,
+      "drop_pct": 12.508,
+      "old_effective": 15.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 435,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 13.99,
+      "coupon_page": 6,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 14,
+          "sku": "4A 354832",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 15.99,
+          "sale": 13.99,
+          "title": "4A Sticky Notes,1 3/8 x 1 7/8 Inches,Small Size,The Adhesive On Longer Side,Neon Assorted,Self-Stick Notes,16 Colors,100 Sheets/Pad,32 Pads/Pack,4A 354832"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A 354832",
+          "price": 13.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A094",
+      "asin": "B01MDJ91BV",
+      "old": 11.39,
+      "new": 9.99,
+      "drop_pct": 12.291,
+      "old_effective": 11.39,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 663,
+      "sales_ui": 1,
+      "sales_30_snapshot": null,
+      "snapshot_price": 9.99,
+      "coupon_page": 4,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 133,
+          "sku": "4A 66113",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 11.99,
+          "sale": "9.99",
+          "title": "4A Sticky Notes Flags Set,Neon Color Page Marker Fluorescent Color Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Page Marker Bookmarks,6 Pads/set,4A 66113"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A 66113",
+          "price": 9.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 034",
+      "asin": "B01MSZSEBW",
+      "old": 13.49,
+      "new": 11.99,
+      "drop_pct": 11.119,
+      "old_effective": 13.49,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 521,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 11.99,
+      "coupon_page": 5,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 40,
+          "sku": "4A 406x6-N",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 13.99,
+          "sale": "11.99",
+          "title": "4A  Sticky Notes,4 x 6 Inches,Large Size,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 406x6-N         "
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A 406x6-N",
+          "price": 11.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GM60121-10x2",
+      "asin": "B07RP8FX7N",
+      "old": 17.99,
+      "new": 15.99,
+      "drop_pct": 11.117,
+      "old_effective": 17.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 135,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 15.99,
+      "coupon_page": 12,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 138,
+          "sku": "4A 60121-10x2",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 19.99,
+          "sale": 15.99,
+          "title": "4A Pop-up Flags In Dispensers Set,Neon Color Page Marker Fluorescent Color Index Label,Transparent Tabs Flags Stickers,Text Highlighter Strips Writable Labels Page Marker Bookmarks,1/2 x 1 3/4 Inches, 35 Flags/Pad,10 Pads/Set, 2 Sets,700 Flags Total,4A 60121-10x2"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A 60121-10x2",
+          "price": 15.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GMPSS 9-1 NGNOx2",
+      "asin": "B07QXJY3FH",
+      "old": 22.49,
+      "new": 19.99,
+      "drop_pct": 11.116,
+      "old_effective": 22.49,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 639,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 19.99,
+      "coupon_page": 4,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 113,
+          "sku": "4A PSS 9-1 NGNOx2",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 19.99,
+          "sale": null,
+          "title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 2 x 315 Inches,Neon Green and Orange,Self-Stick Notes,2 Rolls With Dispenser and 2 Refill Rolls,4A PSS 9-1 NGNOx2"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A PSS 9-1 NGNOx2",
+          "price": 22.99,
+          "status": "Active",
+          "channel": "AMAZON_US2MX_RAFN",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GMVC6043",
+      "asin": "B01M986R0Y",
+      "old": 9.99,
+      "new": 8.99,
+      "drop_pct": 10.01,
+      "old_effective": 9.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": null,
+      "quantity": 0.0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 157,
+          "sku": "4A 6043",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 9.99,
+          "sale": "8.99",
+          "title": "4A Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Stickers, Writable Labels,Bookmarks,Repositionable,Great Labeling,Flaging,With hole Fit For Binder,2 Pads/set,4A 6043"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验",
+        "改价前目录报价终止日已过"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 6043-FBA",
+          "price": 8.99,
+          "status": "Active",
+          "channel": "AMAZON_US2MX_RAFN",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A PSS 9-3 BGR",
+      "asin": "B01N1WZFFL",
+      "old": 9.99,
+      "new": 8.99,
+      "drop_pct": 10.01,
+      "old_effective": 9.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": null,
+      "quantity": 0.0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 121,
+          "sku": "4A PSS 9-3 BGR",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 8.99,
+          "sale": null,
+          "title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 0.6 x 315 Inches,Neon Blue/Green/Red,Self-Stick Notes,3 Color/Roll,1 Roll/Pack,4A PSS 9-3 BGR"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验",
+        "改价前目录报价终止日已过"
+      ],
+      "other_same_asin": []
+    },
+    {
+      "sku": "4A PSS 9-3 BOG",
+      "asin": "B01N9M9OT4",
+      "old": 9.99,
+      "new": 8.99,
+      "drop_pct": 10.01,
+      "old_effective": 9.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": null,
+      "quantity": 0.0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 122,
+          "sku": "4A PSS 9-3 BOG",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 8.99,
+          "sale": null,
+          "title": "4A Roll Sticky Notes,Full Adhesive,Width x Length 0.6 x 315 Inches,Neon Blue/Orange/Green,Self-Stick Notes,3 Color/Roll,1 Roll/Pack,4A PSS 9-3 BOG"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验",
+        "改价前目录报价终止日已过"
+      ],
+      "other_same_asin": []
+    },
+    {
+      "sku": "4A 017",
+      "asin": "B01NAJHE5O",
+      "old": 10.99,
+      "new": 9.99,
+      "drop_pct": 9.099,
+      "old_effective": 10.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": null,
+      "quantity": 0.0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 26,
+          "sku": "4A 303x12-Y-Z",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 10.99,
+          "sale": "9.99",
+          "title": "4A  Sticky Pop-up Notes,3 x 3 Inches, Yellow,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 303x12-Y-Z    "
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 303 x12-Y-Z",
+          "price": 10.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": true
+        },
+        {
+          "sku": "4A 303x12-Y-Z",
+          "price": 9.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 303 x12-Y-Z",
+      "asin": "B01NAJHE5O",
+      "old": 10.99,
+      "new": 9.99,
+      "drop_pct": 9.099,
+      "old_effective": 10.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Amazon (NA)",
+      "channel": null,
+      "quantity": 0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 26,
+          "sku": "4A 303x12-Y-Z",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 10.99,
+          "sale": "9.99",
+          "title": "4A  Sticky Pop-up Notes,3 x 3 Inches, Yellow,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 303x12-Y-Z    "
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径",
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验",
+        "改价前目录报价终止日已过"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 017",
+          "price": 10.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        },
+        {
+          "sku": "4A 303x12-Y-Z",
+          "price": 9.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 60222",
+      "asin": "B07RR9CGXY",
+      "old": 10.99,
+      "new": 9.99,
+      "drop_pct": 9.099,
+      "old_effective": 10.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Amazon (NA)",
+      "channel": null,
+      "quantity": 0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 137,
+          "sku": "4A 6022+6023",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 10.99,
+          "sale": "9.99",
+          "title": "4A Sticky Notes Flags Set,Neon Color Page Marker Fluorescent Color Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Page Marker Bookmarks,24 Pads/set,4A 60222"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径",
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A GM60222",
+          "price": 12.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GM303S-20",
+      "asin": "B07RP8HYCJ",
+      "old": 21.99,
+      "new": 19.99,
+      "drop_pct": 9.095,
+      "old_effective": 21.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 179,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 19.99,
+      "coupon_page": 11,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 67,
+          "sku": "4A 303S-20",
+          "freight_code": "H",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 25.99,
+          "sale": "19.99",
+          "title": "4A Super Sticky Notes,3 x 3 Inches,Extra Bright Colors Assorted,5 Colors,80 Sheets/Pad,20 Pads/Pack,4A 303S-20"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A 303S-20",
+          "price": 19.99,
+          "status": "Active",
+          "channel": "AMAZON_US2MX_RAFN",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 033",
+      "asin": "B01MSZS7M3",
+      "old": 11.99,
+      "new": 10.99,
+      "drop_pct": 8.34,
+      "old_effective": 11.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 957,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 10.99,
+      "coupon_page": 2,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 39,
+          "sku": "4A 406x6",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 11.99,
+          "sale": "10.99",
+          "title": "4A  Sticky Notes,4 x 6 Inches,Large Size,Pastel Assorted,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 406x6        "
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A 406x6",
+          "price": 10.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 028",
+      "asin": "B01M3N33QH",
+      "old": 12.99,
+      "new": 11.99,
+      "drop_pct": 7.698,
+      "old_effective": 12.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": null,
+      "quantity": 0.0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 24,
+          "sku": "4A 305x6-N-L",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 12.99,
+          "sale": "11.99",
+          "title": "4A Sticky Notes,3 x 5 Inches,Neon Assorted,Lined,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 305x6-N-L       "
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 305 x 6-N-L",
+          "price": 8.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GMSCPSS 7",
+      "asin": "B0821LD25K",
+      "old": 12.99,
+      "new": 11.99,
+      "drop_pct": 7.698,
+      "old_effective": 12.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 1155,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 11.99,
+      "coupon_page": 2,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 99,
+          "sku": "4A PSS 7",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 14.99,
+          "sale": "11.99",
+          "title": "4A Pop-up Note Dispenser, Black, Work with 4A Sticky Pop-up Notes, for 100 Sheets 3x3 Notes, 1 Dispenser/Pack, 4A PSS 7"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A SCPSS 7",
+          "price": 12.99,
+          "status": "Active",
+          "channel": "AMAZON_US2MX_RAFN",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 027",
+      "asin": "B01MXYR202",
+      "old": 7.99,
+      "new": 7.49,
+      "drop_pct": 6.258,
+      "old_effective": 7.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": null,
+      "quantity": 0.0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 31,
+          "sku": "4A 305x6-N",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 8.99,
+          "sale": "7.49",
+          "title": "4A Sticky Notes,3 x 5 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 305x6-N       "
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 305 x 6-N",
+          "price": 8.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        },
+        {
+          "sku": "4A 305x6-N",
+          "price": 7.49,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GMSC404-AC-holder",
+      "asin": "B07WK3JX6K",
+      "old": 15.99,
+      "new": 14.99,
+      "drop_pct": 6.254,
+      "old_effective": 15.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 767,
+      "sales_ui": 0,
+      "sales_30_snapshot": null,
+      "snapshot_price": 14.99,
+      "coupon_page": 3,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 103,
+          "sku": "4A 404-AC-holder",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 17.99,
+          "sale": "14.99",
+          "title": "4A Sticky Note Dispenser Pen Holder Set, Self-Stick Notes, 8 Ultra Colors 4x4 Inches, Lined 400 Neon Sheets Sticky Notes, 4A 404-AC-Holder"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A 404-AC-holder",
+          "price": null,
+          "status": "Active",
+          "channel": null,
+          "offer_stop_passed": false
+        },
+        {
+          "sku": "4A SC404-AC-holder",
+          "price": 15.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A SC404-AC-holder",
+      "asin": "B07WK3JX6K",
+      "old": 15.99,
+      "new": 14.99,
+      "drop_pct": 6.254,
+      "old_effective": 15.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Amazon (NA)",
+      "channel": null,
+      "quantity": 0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 103,
+          "sku": "4A 404-AC-holder",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 17.99,
+          "sale": "14.99",
+          "title": "4A Sticky Note Dispenser Pen Holder Set, Self-Stick Notes, 8 Ultra Colors 4x4 Inches, Lined 400 Neon Sheets Sticky Notes, 4A 404-AC-Holder"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径",
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 404-AC-holder",
+          "price": null,
+          "status": "Active",
+          "channel": null,
+          "offer_stop_passed": false
+        },
+        {
+          "sku": "4A GMSC404-AC-holder",
+          "price": 15.99,
+          "status": "Active",
+          "channel": "Fulfillment by Merchant (Default)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GM6084-NL",
+      "asin": "B07RR95YW7",
+      "old": 26.49,
+      "new": 24.99,
+      "drop_pct": 5.663,
+      "old_effective": 26.49,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 198,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 24.99,
+      "coupon_page": 10,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 46,
+          "sku": "4A 6084-NL",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 27.49,
+          "sale": "24.99",
+          "title": "4A Sticky Notes,6 x 8 Inches,Large Size,4 Colors,Neon Blue,Red,Yellow and Green,Lined,Self-Stick Notes,100 Sheets/Pad,4 Pads/Pack,4A 6084-NL"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A 6084-NL",
+          "price": 24.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GM4013",
+      "asin": "B07RQ6HLK3",
+      "old": 17.99,
+      "new": 16.99,
+      "drop_pct": 5.559,
+      "old_effective": 17.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 113,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 16.99,
+      "coupon_page": 13,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 73,
+          "sku": "4A 4013",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 19.99,
+          "sale": "16.99",
+          "title": "4A Sticky Notes Value Pack, Neon Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4013"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A 4013",
+          "price": 16.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GM5021X2",
+      "asin": "B07VGYQXCC",
+      "old": 17.99,
+      "new": 16.99,
+      "drop_pct": 5.559,
+      "old_effective": 17.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 128,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 16.99,
+      "coupon_page": 13,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 83,
+          "sku": "4A 5021X2",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 17.99,
+          "sale": "16.99",
+          "title": "4A Shapes Sticky Notes,Door Lock Sticky Notes,With Hole Can Hang In Door Lock,2.84 x 7.09 Inches,Large Size,Neon Assorted,Self-Stick Notes,25 Sheets/Pad,4 Pads/Pack,100 Sheets/Pack,2 Packs,4A 5021X2"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A 5021X2",
+          "price": 16.99,
+          "status": "Active",
+          "channel": "AMAZON_US2MX_RAFN",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GM20232",
+      "asin": "B07RP9MSSG",
+      "old": 19.99,
+      "new": 18.99,
+      "drop_pct": 5.003,
+      "old_effective": 19.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 182,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 18.99,
+      "coupon_page": 10,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 18,
+          "sku": "4A 20232",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 22.99,
+          "sale": "18.99",
+          "title": "4A Sticky Notes,2 x 2 Inches,Small Size,Neon Assorted,16 Colors,Self-Stick Notes,100 Sheets/Pad,32 Pads/Pack,4A 20232"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A 20232",
+          "price": 18.99,
+          "status": "Active",
+          "channel": "AMAZON_US2MX_RAFN",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GM301M32",
+      "asin": "B07RQ7G57D",
+      "old": 19.99,
+      "new": 18.99,
+      "drop_pct": 5.003,
+      "old_effective": 19.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": null,
+      "quantity": 0.0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet3",
+          "row": 14,
+          "sku": "4A 301M32",
+          "freight_code": "B",
+          "freight_header": null,
+          "list": 10,
+          "sale": 18.99,
+          "title": "4A Magic Cyclic Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,4 Neon Color Assorted, Each Color Sheets Cyclic,100 Sheets/Pad,32 Pads/Box,4A 301M32"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 301M32",
+          "price": 18.99,
+          "status": "Active",
+          "channel": "AMAZON_US2MX_RAFN",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GM40412",
+      "asin": "B07RP8KWS8",
+      "old": 22.49,
+      "new": 21.49,
+      "drop_pct": 4.446,
+      "old_effective": 22.49,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 98,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 21.49,
+      "coupon_page": 14,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 34,
+          "sku": "4A 40412",
+          "freight_code": "H",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 25.99,
+          "sale": "21.49",
+          "title": "4A Sticky Notes,4 x 4 Inches,Neon Assorted,12 Colors,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 40412"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A 40412",
+          "price": 21.49,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GM304-Full Adhesive-400",
+      "asin": "B07QXJWDPL",
+      "old": 22.99,
+      "new": 21.99,
+      "drop_pct": 4.35,
+      "old_effective": 22.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": null,
+      "quantity": 0.0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 59,
+          "sku": "4A 304-Full Adhesive-400",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 21.99,
+          "sale": null,
+          "title": "4A Sticky Full Adhesive Notes,4 x 3 Inches,80 Sheets/Color,5 Colors/Pack,Self-Stick Notes,400 Sheets Total,4A 304-Full Adhesive-400"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": [
+        {
+          "sku": "4A 304-Full Adhesive-400",
+          "price": 21.99,
+          "status": "Active",
+          "channel": "AMAZON_US2MX_RAFN",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GM6087-NL-420",
+      "asin": "B07T77N118",
+      "old": 24.99,
+      "new": 23.99,
+      "drop_pct": 4.002,
+      "old_effective": 24.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 157,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 23.99,
+      "coupon_page": 11,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 48,
+          "sku": "4A 6087-NL-420",
+          "freight_code": "H",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 27.99,
+          "sale": "23.99",
+          "title": "4A Sticky Notes,6 x 8 Inches,Large Size,7 Colors,Lined,Self-Stick Notes,60 Sheets/Pad,7 Pads/Pack,4A 6087-NL-420"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A 6087-NL-420",
+          "price": 23.99,
+          "status": "Active",
+          "channel": "AMAZON_US2CA_RAFN",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 608-N-L-210",
+      "asin": "B07B8RBCKT",
+      "old": 12.39,
+      "new": 11.99,
+      "drop_pct": 3.228,
+      "old_effective": 12.39,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 1518,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 11.99,
+      "coupon_page": 1,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 47,
+          "sku": "4A 608-NL-210",
+          "freight_code": "B",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 13.99,
+          "sale": "11.99",
+          "title": "4A Sticky Notes,6 x 8 Inches,Large Size,7 Neon Color Assorted,Lined,Self-Stick Notes,210 Sheets/Pad,1Pad/Pack,4A 608-N-L-210"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A 608-NL-210",
+          "price": null,
+          "status": "Active",
+          "channel": null,
+          "offer_stop_passed": false
+        },
+        {
+          "sku": "AAAA 4A 608-N-L-210",
+          "price": 11.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A 5047-B00SM-FBA",
+      "asin": "B00SMEEN8G",
+      "old": 7.2,
+      "new": 6.99,
+      "drop_pct": 2.917,
+      "old_effective": 7.2,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Amazon (NA)",
+      "channel": null,
+      "quantity": 0,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": null,
+      "coupon_page": null,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 80,
+          "sku": "4A 5047",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 7.99,
+          "sale": "6.99",
+          "title": "4A Shapes Sticky Notes,Thumb Up Shape,Hand Shape,2.83 x 2.83 Inches,Neon Assorted,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5047"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [
+        "FBA价格直接取另列物流的表价，须复核包邮口径",
+        "完整Coupon扫描未出现该SKU，不等于已停售；须单独核验"
+      ],
+      "other_same_asin": []
+    },
+    {
+      "sku": "4A GM60174-Sign Herex2",
+      "asin": "B07RP95GGF",
+      "old": 18.49,
+      "new": 17.99,
+      "drop_pct": 2.704,
+      "old_effective": 18.49,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 143,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 17.99,
+      "coupon_page": 12,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 140,
+          "sku": "4A 60174-Sign Herex2",
+          "freight_code": "N",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 21.99,
+          "sale": 17.99,
+          "title": "4A  Pop-up Flags Set,Neon Color Page Marker Fluorescent Color Index Label,Transparent Tabs Flags Stickers,Text Highlighter Strips Writable Labels Page Marker Bookmarks, Neon Red/Purple/Blue/Orange/Green/Yellow,50 Flags/Dispenser,8 Dispensers/Pack,2 Packs,800 Flags Total,4A 60174-Sign Herex2"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A 60174-Sign Herex2",
+          "price": 17.99,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    },
+    {
+      "sku": "4A GM30512",
+      "asin": "B07RR9KFM5",
+      "old": 21.99,
+      "new": 21.49,
+      "drop_pct": 2.274,
+      "old_effective": 21.99,
+      "old_b2b": null,
+      "new_b2b": null,
+      "old_channel": "Fulfillment by Merchant (Default)",
+      "channel": "MFN",
+      "quantity": 203,
+      "sales_ui": null,
+      "sales_30_snapshot": null,
+      "snapshot_price": 21.49,
+      "coupon_page": 10,
+      "source": [
+        {
+          "sheet": "Sheet1",
+          "row": 32,
+          "sku": "4A 30512",
+          "freight_code": "H",
+          "freight_header": "物流N4.99/B9.99/H11.99/2H22.99",
+          "list": 23.99,
+          "sale": "21.49",
+          "title": "4A Sticky Notes,3 x 5 Inches,Neon Assorted,12 Colors,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,4A 30512"
+        }
+      ],
+      "status": "未发现相同高降幅FBA模式；并非核准价格",
+      "flags": [],
+      "other_same_asin": [
+        {
+          "sku": "4A 30512",
+          "price": 21.49,
+          "status": "Active",
+          "channel": "Fulfillment by Amazon (NA)",
+          "offer_stop_passed": false
+        }
+      ]
+    }
+  ],
+  "b2b_changes": [
+    {
+      "sku": "303-AC-holder",
+      "asin": "B07DJP6SNG",
+      "old_b2b": 12.49,
+      "new_b2b": 10.99,
+      "old_regular": 11.6,
+      "new_regular": 10.99,
+      "channel": "AFN",
+      "quantity": 3,
+      "note": "跟随本批普通降价联动，若回退普通价需回退企业价"
+    },
+    {
+      "sku": "4A 0126",
+      "asin": "B07568HKLZ",
+      "old_b2b": 7.99,
+      "new_b2b": 4.99,
+      "old_regular": 4.99,
+      "new_regular": null,
+      "channel": "MFN",
+      "quantity": 12,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A 0136",
+      "asin": "B07B65PV21",
+      "old_b2b": 4.99,
+      "new_b2b": 3.99,
+      "old_regular": 3.99,
+      "new_regular": null,
+      "channel": null,
+      "quantity": null,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A 0137",
+      "asin": "B07B68TZ84",
+      "old_b2b": 4.99,
+      "new_b2b": 3.99,
+      "old_regular": 3.99,
+      "new_regular": null,
+      "channel": null,
+      "quantity": null,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A 0138",
+      "asin": "B07B5YYGRL",
+      "old_b2b": 4.99,
+      "new_b2b": 3.99,
+      "old_regular": 3.99,
+      "new_regular": null,
+      "channel": null,
+      "quantity": null,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A 0139",
+      "asin": "B07B63WC97",
+      "old_b2b": 4.99,
+      "new_b2b": 3.99,
+      "old_regular": 3.99,
+      "new_regular": null,
+      "channel": null,
+      "quantity": null,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A 0140",
+      "asin": "B07B6438D1",
+      "old_b2b": 4.99,
+      "new_b2b": 3.99,
+      "old_regular": 3.99,
+      "new_regular": null,
+      "channel": null,
+      "quantity": null,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A 0141",
+      "asin": "B07B5V29BQ",
+      "old_b2b": 4.99,
+      "new_b2b": 3.99,
+      "old_regular": 3.99,
+      "new_regular": null,
+      "channel": null,
+      "quantity": null,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A 0142",
+      "asin": "B07B63Q29Z",
+      "old_b2b": 4.99,
+      "new_b2b": 3.99,
+      "old_regular": 3.99,
+      "new_regular": null,
+      "channel": null,
+      "quantity": null,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A 0143",
+      "asin": "B07B64GTPF",
+      "old_b2b": 4.99,
+      "new_b2b": 3.99,
+      "old_regular": 3.99,
+      "new_regular": null,
+      "channel": null,
+      "quantity": null,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A 0144",
+      "asin": "B07B5W21KL",
+      "old_b2b": 4.99,
+      "new_b2b": 3.99,
+      "old_regular": 3.99,
+      "new_regular": null,
+      "channel": null,
+      "quantity": null,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A 20232",
+      "asin": "B07RP9MSSG",
+      "old_b2b": 19.98,
+      "new_b2b": 18.99,
+      "old_regular": 18.99,
+      "new_regular": null,
+      "channel": "AFN",
+      "quantity": 21,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A 301x12-N",
+      "asin": "B01LVTWP7Q",
+      "old_b2b": 6.29,
+      "new_b2b": 5.99,
+      "old_regular": 5.99,
+      "new_regular": null,
+      "channel": "AFN",
+      "quantity": 18,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A 4012-B07T-FBA",
+      "asin": "B01M3N310M",
+      "old_b2b": 14.49,
+      "new_b2b": 10.99,
+      "old_regular": 12.99,
+      "new_regular": 10.99,
+      "channel": "AFN",
+      "quantity": 3,
+      "note": "跟随本批普通降价联动，若回退普通价需回退企业价"
+    },
+    {
+      "sku": "4A 501516",
+      "asin": "B07T42J6FY",
+      "old_b2b": 8.69,
+      "new_b2b": 7.49,
+      "old_regular": 7.49,
+      "new_regular": null,
+      "channel": "AFN",
+      "quantity": 5,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A 5082-Y-L-GM",
+      "asin": "B07F2BHFJH",
+      "old_b2b": 9.49,
+      "new_b2b": 5.99,
+      "old_regular": 11.99,
+      "new_regular": 5.99,
+      "channel": "AFN",
+      "quantity": 62,
+      "note": "跟随本批普通降价联动，若回退普通价需回退企业价"
+    },
+    {
+      "sku": "4A 608-N-L-210-FBA",
+      "asin": "B07HDVVZ1B",
+      "old_b2b": 15.19,
+      "new_b2b": 11.99,
+      "old_regular": 11.99,
+      "new_regular": null,
+      "channel": "AFN",
+      "quantity": 3,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A GM-PSS 9-1 NYNRx2",
+      "asin": "B07QWKWWP2",
+      "old_b2b": 23.99,
+      "new_b2b": 19.99,
+      "old_regular": 19.99,
+      "new_regular": null,
+      "channel": "MFN",
+      "quantity": 132,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A GM-PSS 9-3 YOR",
+      "asin": "B01MZ4FDN5",
+      "old_b2b": 11.49,
+      "new_b2b": 9.99,
+      "old_regular": 11.99,
+      "new_regular": 9.99,
+      "channel": "AFN",
+      "quantity": 13,
+      "note": "跟随本批普通降价联动，若回退普通价需回退企业价"
+    },
+    {
+      "sku": "4A GM303M-PN-Zx12",
+      "asin": "B01JGGQ4WQ",
+      "old_b2b": 11.32,
+      "new_b2b": 10.32,
+      "old_regular": 10.32,
+      "new_regular": null,
+      "channel": null,
+      "quantity": null,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A GM5084-N-L*2",
+      "asin": "B07FKJM2LX",
+      "old_b2b": 19.99,
+      "new_b2b": 18.98,
+      "old_regular": 18.98,
+      "new_regular": null,
+      "channel": null,
+      "quantity": null,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A GM60222",
+      "asin": "B07RR9CGXY",
+      "old_b2b": 12.99,
+      "new_b2b": 9.99,
+      "old_regular": 12.99,
+      "new_regular": 9.99,
+      "channel": "MFN",
+      "quantity": 282,
+      "note": "跟随本批普通降价联动，若回退普通价需回退企业价"
+    },
+    {
+      "sku": "4A GM608S-Linex4",
+      "asin": "B07FKPY2V6",
+      "old_b2b": 11.99,
+      "new_b2b": 10.39,
+      "old_regular": 10.39,
+      "new_regular": null,
+      "channel": "MFN",
+      "quantity": 351,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A GMSMC 434",
+      "asin": "B07FKHNTRK",
+      "old_b2b": 14.99,
+      "new_b2b": 12.99,
+      "old_regular": 12.99,
+      "new_regular": null,
+      "channel": "MFN",
+      "quantity": 979,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A MG30312-Z",
+      "asin": "B01JGGQ4WQ",
+      "old_b2b": 11.99,
+      "new_b2b": 10.32,
+      "old_regular": 18.25,
+      "new_regular": 10.32,
+      "channel": null,
+      "quantity": null,
+      "note": "跟随本批普通降价联动，若回退普通价需回退企业价"
+    },
+    {
+      "sku": "4A PSS 9-3 2 Sets",
+      "asin": "B0DYNL5SMR",
+      "old_b2b": 29.99,
+      "new_b2b": 23.99,
+      "old_regular": 23.99,
+      "new_regular": null,
+      "channel": "AFN",
+      "quantity": 33,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A PSS 9-5 Refill",
+      "asin": "B07QXJX2BV",
+      "old_b2b": 19.98,
+      "new_b2b": 16.99,
+      "old_regular": 19.99,
+      "new_regular": 16.99,
+      "channel": "AFN",
+      "quantity": 10,
+      "note": "跟随本批普通降价联动，若回退普通价需回退企业价"
+    },
+    {
+      "sku": "4A069",
+      "asin": "B01N6KX7PE",
+      "old_b2b": 4.99,
+      "new_b2b": 3.99,
+      "old_regular": 3.99,
+      "new_regular": null,
+      "channel": "MFN",
+      "quantity": 1,
+      "note": "仅将企业价从高于普通价改为等于原普通有效价，未新增低于普通价的优惠"
+    },
+    {
+      "sku": "4A5013-B00SM-FBA",
+      "asin": "B00SMEEV4C",
+      "old_b2b": 9.69,
+      "new_b2b": 6.99,
+      "old_regular": 7.2,
+      "new_regular": 6.99,
+      "channel": "AFN",
+      "quantity": 5,
+      "note": "跟随本批普通降价联动，若回退普通价需回退企业价"
+    }
+  ]
+}

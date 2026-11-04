@@ -1,0 +1,158 @@
+{
+  "at": "2026-11-03T11:43:29.774Z",
+  "inputs": [
+    {
+      "id": "contribution_sku-0-value",
+      "label": "SKU",
+      "value": "4A GM30315",
+      "attribute": "4A GM30315"
+    },
+    {
+      "id": "fulfillment_availability-0-quantity",
+      "label": "数量",
+      "value": "1054",
+      "attribute": "1054"
+    },
+    {
+      "id": "fulfillment_availability-0-lead_time_to_ship_max_days",
+      "label": "处理时间",
+      "value": "",
+      "attribute": ""
+    },
+    {
+      "id": "purchasable_offer[audience=ALL]-0-map_price-0-schedule-0-value_with_tax",
+      "label": "最低广告价格",
+      "value": "",
+      "attribute": ""
+    },
+    {
+      "id": "purchasable_offer[audience=ALL]-0-our_price-0-schedule-0-value_with_tax",
+      "label": "您的价格",
+      "value": "15.99",
+      "attribute": "15.99"
+    },
+    {
+      "id": "purchasable_offer[audience=ALL]-0-minimum_seller_allowed_price-0-schedule-0-value_with_tax",
+      "label": "卖方允许的最低价格",
+      "value": "13.49",
+      "attribute": "13.49"
+    },
+    {
+      "id": "purchasable_offer[audience=ALL]-0-maximum_seller_allowed_price-0-schedule-0-value_with_tax",
+      "label": "卖方允许的最高价格",
+      "value": "",
+      "attribute": ""
+    },
+    {
+      "id": "purchasable_offer[audience=ALL]-0-discounted_price-0-schedule-0-value_with_tax",
+      "label": "销售价格",
+      "value": "14.99",
+      "attribute": "14.99"
+    },
+    {
+      "id": "list_price-0-value",
+      "label": "不含税价目表",
+      "value": "15.99",
+      "attribute": "15.99"
+    },
+    {
+      "id": "max_order_quantity-0-value",
+      "label": "最大订单数量",
+      "value": "",
+      "attribute": ""
+    },
+    {
+      "id": "deprecated_map_price-0-value",
+      "label": "最低广告价",
+      "value": "",
+      "attribute": ""
+    },
+    {
+      "id": "item_dimensions-0-height-value",
+      "label": "商品高度",
+      "value": "",
+      "attribute": null
+    },
+    {
+      "id": "item_dimensions-0-length-value",
+      "label": "商品长度",
+      "value": "",
+      "attribute": null
+    },
+    {
+      "id": "item_dimensions-0-width-value",
+      "label": "商品宽度",
+      "value": "",
+      "attribute": null
+    },
+    {
+      "id": "item_package_dimensions-0-height-value",
+      "label": "包装高度",
+      "value": "",
+      "attribute": null
+    },
+    {
+      "id": "item_package_dimensions-0-length-value",
+      "label": "包装长度",
+      "value": "",
+      "attribute": null
+    },
+    {
+      "id": "item_package_dimensions-0-width-value",
+      "label": "包装宽度",
+      "value": "",
+      "attribute": null
+    },
+    {
+      "id": "item_package_weight-0-value",
+      "label": "包装重量",
+      "value": "",
+      "attribute": null
+    },
+    {
+      "id": "master_pack_layers_per_pallet_quantity-0-value",
+      "label": "每托盘主包装层数",
+      "value": "",
+      "attribute": ""
+    },
+    {
+      "id": "master_packs_per_layer_quantity-0-value",
+      "label": "每层主包装数量",
+      "value": "",
+      "attribute": ""
+    }
+  ],
+  "numbers": [],
+  "shipping": [
+    {
+      "id": "merchant_shipping_group-0-value",
+      "value": "151ddc45-0305-417e-8a73-767721cadd35",
+      "options": [
+        {
+          "value": "3b2a0a26-971f-4390-8758-0c647c7052ed",
+          "text": "4A Parcel 7.99 plus 2.99 per lb"
+        },
+        {
+          "value": "7bee48d0-254d-41d9-9196-57f087cfff59",
+          "text": "Big size delivery"
+        },
+        {
+          "value": "9409e540-3467-4dce-bcfe-b452be975f5e",
+          "text": "Biger size delivery-25"
+        },
+        {
+          "value": "151ddc45-0305-417e-8a73-767721cadd35",
+          "text": "Cube delivery"
+        },
+        {
+          "value": "9f2cd5aa-5103-4b7b-bdba-becbf955256d",
+          "text": "Heavy delivery"
+        },
+        {
+          "value": "legacy-template-id",
+          "text": "Migrated Template"
+        }
+      ]
+    }
+  ]
+}

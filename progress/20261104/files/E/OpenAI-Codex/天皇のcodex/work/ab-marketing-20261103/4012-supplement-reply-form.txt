@@ -1,0 +1,226 @@
+## Latest page snapshot
+uid=1497_0 RootWebArea "亚马逊" url="https://sellercentral.amazon.com/cu/case-dashboard/view-case?caseID=22957468581"
+  uid=1497_1 navigation
+    uid=1497_2 button "菜单" expandable
+    uid=1497_3 link "Amazon" url="https://sellercentral.amazon.com/amazonsell"
+    uid=1497_4 button "4A (USA) LIMITED 美国" expandable
+    uid=1497_5 button "账户状况"
+    uid=1497_6 textbox "搜索任何内容" haspopup="menu"
+    uid=1497_7 button "询问卖家助手" description="卖家助手"
+    uid=1497_8 link "新增内容" description="新鲜出巢" url="https://sellercentral.amazon.com/featurereleases"
+    uid=1497_9 link "消息" description="您可以在任意页面顶部的搜索和设置旁边找到买家消息，因此无需离开当前工作页面，即可轻松回复买家。" url="https://sellercentral.amazon.com/messaging/inbox-v3?fi=responseNeeded&&"
+    uid=1497_10 button "帮助" description="帮助" haspopup="menu"
+    uid=1497_11 button "设置" description="设置" haspopup="menu"
+  uid=1497_12 navigation
+    uid=1497_13 button disableable disabled
+    uid=1497_14 link "管理交易" url="https://sellercentral.amazon.com/manage/finance/transactions"
+      uid=1497_15 StaticText "管理交易"
+    uid=1497_16 link "卖家大学" url="https://sellercentral.amazon.com/su/learn"
+      uid=1497_17 StaticText "卖家大学"
+    uid=1497_18 link "管理商品" url="https://sellercentral.amazon.com/amazonsell/manage-products"
+      uid=1497_19 StaticText "管理商品"
+    uid=1497_20 link "广告控制台" url="https://sellercentral.amazon.com/cm?source=ngs"
+      uid=1497_21 StaticText "广告控制台"
+    uid=1497_22 link "管理货件" url="https://sellercentral.amazon.com/manage/shipments"
+      uid=1497_23 StaticText "管理货件"
+    uid=1497_24 link "商品商机探测器" url="https://sellercentral.amazon.com/new-product-guidance"
+      uid=1497_25 StaticText "商品商机探测器"
+    uid=1497_26 link "品牌分析" url="https://sellercentral.amazon.com/brand-analytics"
+      uid=1497_27 StaticText "品牌分析"
+    uid=1497_28 link "A+ 商品描述管理器" url="https://sellercentral.amazon.com/enhanced-content/ref=xx_ebc_favb_xx"
+      uid=1497_29 StaticText "A+ 商品描述管理器"
+    uid=1497_30 link "业务报告" url="https://sellercentral.amazon.com/business-reports#/dashboard"
+      uid=1497_31 StaticText "业务报告"
+    uid=1497_32 link "亚马逊物流库存报告" url="https://sellercentral.amazon.com/reportcentral/WelcomePage"
+      uid=1497_33 StaticText "亚马逊物流库存报告"
+    uid=1497_34 link "商品报告" url="https://sellercentral.amazon.com/listing/reports"
+      uid=1497_35 StaticText "商品报告"
+    uid=1497_36 link "绩效通知" url="https://sellercentral.amazon.com/performance/notifications"
+      uid=1497_37 StaticText "绩效通知"
+    uid=1497_38 link "管理账户状况" url="https://sellercentral.amazon.com/performance/dashboard"
+      uid=1497_39 StaticText "管理账户状况"
+    uid=1497_40 button
+  uid=1497_41 button "✕"
+  uid=1497_42 link "查看您的案例和请求日志" url="https://sellercentral.amazon.com/cu/case-lobby?ref=caselog_cont_viewcase"
+    uid=1497_43 StaticText "查看您的案例和请求日志"
+  uid=1497_44 StaticText "B01M3N310M与推荐报价相关的问题"
+  uid=1497_45 button "编辑"
+    uid=1497_46 generic
+  uid=1497_47 StaticText "最新更新"
+  uid=1535_0 form
+    uid=1535_1 tab "电子邮件" selectable selected
+    uid=1535_2 tabpanel "电子邮件"
+      uid=1535_3 StaticText "收件人:"
+      uid=1535_4 StaticText "收件人:"
+      uid=1535_5 StaticText "亚马逊"
+      uid=1535_6 StaticText "抄送:"
+      uid=1535_7 StaticText "抄送:"
+      uid=1535_8 StaticText "添加 CC"
+      uid=1535_9 StaticText "发件人:"
+      uid=1535_10 StaticText "发件人:"
+      uid=1535_11 StaticText "seller@4ausa.com"
+      uid=1535_12 StaticText "请在此处输入正文"
+      uid=1535_13 StaticText "请在此处输入正文"
+      uid=1535_14 textbox multiline
+      uid=1535_15 generic live="polite" relevant="additions text"
+      uid=1535_16 StaticText "请勿包含任何个人信息或敏感信息"
+      uid=1535_17 StaticText "附加相关文件（可选）"
+      uid=1535_18 StaticText "附加相关文件（可选）"
+      uid=1535_19 button "上传文件" value="未选择任何文件"
+      uid=1535_20 button "上传文件"
+        uid=1535_21 generic
+      uid=1535_22 StaticText "将文件拖到此处进行上传"
+      uid=1535_23 StaticText "格式：PPT, ODT, ODS, BMP, TSV, RTF, TIF, PPTX, GIF, DOC, MSG, WEBP, XLSX, PNG, PDF, JPG, XML, ZIP, CSV, DOCX, TXT, XLS, RAR, XLSM"
+      uid=1535_24 StaticText "所有文件组合：最大 10MB"
+      uid=1535_25 StaticText "最大文件数量：6"
+      uid=1535_26 button "清除所有文件" disableable disabled
+      uid=1535_27 button "取消"
+        uid=1535_28 generic
+      uid=1535_29 button "发送"
+        uid=1535_30 generic
+  uid=1497_52 StaticText "亚马逊操作"
+  uid=1497_53 StaticText "seller@4ausa.com"
+  uid=1497_54 StaticText "2026年11月03日"
+  uid=1497_55 StaticText "GMT+8 15:57"
+  uid=1497_56 StaticText "请注意，我们需要获得更多信息才能解决您的问题单。如果您仍需要帮助，请回复本邮件，并提供我们要求的下列详细信息。
+
+如果您的问题已得到解决，则您无需执行任何其他操作，我们将关闭此问题单。
+
+亚马逊支持 
+
+
+-- 初始消息 --
+
+
+尊敬的卖家：您好！感谢您联系亚马逊销售伙伴支持团队。
+
+我们已收到您关于ASIN B01M3N310M（卖家SKU：4A 4012-B07T-FBM）推荐报价资格及高价标记的问题，并已完成初步调查。
+
+由于您目前提供的订单数量不足，相关团队无法支持进一步的调查处理。为了继续协助您，请您提供以下材料之一：
+
+1、 多笔已完成的订单记录；
+
+2、品牌或制造商官方网站上的产品价格（该价格须大于或等于参考价格）；
+
+3、亚马逊以外的竞争对手网站上的产品价格（该价格须大于或等于参考价格）。
+
+请您提供上述证据后，我们将继续为您跟进调查。
+
+祝您生活愉快，工作顺利！
+
+To help us continually improve, we ask that you take a moment to complete our survey below to tell us about your experience with this specific interaction.
+
+Were you satisfied with the support provided?
+"
+  uid=1497_57 LineBreak "
+"
+  uid=1497_58 StaticText " "
+  uid=1497_59 button " Yes "
+    uid=1497_60 generic
+  uid=1497_61 StaticText " "
+  uid=1497_62 StaticText " "
+  uid=1497_63 button " No "
+    uid=1497_64 generic
+  uid=1497_65 StaticText " "
+  uid=1497_66 LineBreak "
+"
+  uid=1497_67 StaticText "
+Thank you for selling with Amazon,
+
+Chengfang [C] L.
+Amazon.com Seller Support
+=======================================
+MORE WAYS TO GET HELP:
+Visit our Seller Forums for help from other sellers: "
+  uid=1497_68 link "http://sellercentral.amazon.com/forums" url="http://sellercentral.amazon.com/forums"
+    uid=1497_69 StaticText "http://sellercentral.amazon.com/forums"
+  uid=1497_70 StaticText "
+Browse all Seller Help topics: "
+  uid=1497_71 link "http://sellercentral.amazon.com/gp/help" url="http://sellercentral.amazon.com/gp/help"
+    uid=1497_72 StaticText "http://sellercentral.amazon.com/gp/help"
+  uid=1497_73 StaticText "
+"
+  uid=1497_74 StaticText "亚马逊操作"
+  uid=1497_75 StaticText "尊敬的卖家：您好！感谢您联系亚马逊销售伙伴支持团队。
+
+我们已收到您关于ASIN B01M3N310M（卖家SKU：4A 4012-B07T-FBM）推荐报价资格及高价标记的问题，并已完成初步调查。
+
+由于您目前提供的订单数量不足，相关团队无法支持进一步的调查处理。为了继续协助您，请您提供以下材料之一：
+
+1、 多笔已完成的订单记录；
+
+2、品牌或制造商官方网站上的产品价格（该价格须大于或等于参考价格）；
+
+3、亚马逊以外的竞争对手网站上的产品价格（该价格须大于或等于参考价格）。
+
+请您提供上述证据后，我们将继续为您跟进调查。
+
+祝您生活愉快，工作顺利！
+
+To help us continually improve, we ask that you take a moment to complete our survey below to tell us about your experience with this specific interaction.
+
+Were you satisfied with the support provided?
+"
+  uid=1497_76 LineBreak "
+"
+  uid=1497_77 StaticText " "
+  uid=1497_78 button " Yes "
+    uid=1497_79 generic
+  uid=1497_80 StaticText " "
+  uid=1497_81 StaticText " "
+  uid=1497_82 button " No "
+    uid=1497_83 generic
+  uid=1497_84 StaticText " "
+  uid=1497_85 LineBreak "
+"
+  uid=1497_86 StaticText "
+Thank you for selling with Amazon,
+
+Chengfang [C] L.
+Amazon.com Seller Support
+=======================================
+MORE WAYS TO GET HELP:
+Visit our Seller Forums for help from other sellers: "
+  uid=1497_87 link "http://sellercentral.amazon.com/forums" url="http://sellercentral.amazon.com/forums"
+    uid=1497_88 StaticText "http://sellercentral.amazon.com/forums"
+  uid=1497_89 StaticText "
+Browse all Seller Help topics: "
+  uid=1497_90 link "http://sellercentral.amazon.com/gp/help" url="http://sellercentral.amazon.com/gp/help"
+    uid=1497_91 StaticText "http://sellercentral.amazon.com/gp/help"
+  uid=1497_92 StaticText "
+"
+  uid=1497_93 StaticText "2026年11月03日"
+  uid=1497_94 StaticText "GMT+8 11:49"
+  uid=1497_95 StaticText "您操作"
+  uid=1497_96 StaticText "Please review Featured Offer pricing eligibility and the High Price flag for ASIN B01M3N310M, seller SKU 4A 4012-B07T-FBM. This is one PP box containing 18 sticky-note pads, 1,900 sheets total (4A 4012)."
+  uid=1497_97 StaticText "..."
+  uid=1497_98 StaticText "2026年11月03日"
+  uid=1497_99 StaticText "GMT+8 10:57"
+  uid=1497_100 StaticText "您操作"
+  uid=1497_101 StaticText "亚马逊已代表您创建此问题单，以便销售伙伴支持团队员工进行调查。目前您无需执行其他操作。完成调查最长可能需要 3 天，我们将通过电子邮件告知您最新消息。"
+  uid=1497_102 StaticText "2026年11月03日"
+  uid=1497_103 StaticText "GMT+8 10:49"
+  uid=1497_104 StaticText "问题一览"
+  uid=1497_105 StaticText "编号"
+  uid=1497_106 StaticText ":"
+  uid=1497_107 StaticText "22957468581"
+  uid=1497_108 StaticText "状态"
+  uid=1497_109 StaticText ":"
+  uid=1497_110 StaticText "需要注意"
+  uid=1497_111 StaticText "主要电子邮箱"
+  uid=1497_112 StaticText ":"
+  uid=1497_113 StaticText "seller@4ausa.com"
+  uid=1497_114 StaticText "抄送"
+  uid=1497_115 StaticText ":"
+  uid=1497_116 StaticText "已创建"
+  uid=1497_117 StaticText ":"
+  uid=1497_118 StaticText "2026年11月03日 GMT+8 10:49"
+  uid=1497_119 button "编辑"
+    uid=1497_120 generic
+  uid=1497_121 link "站点地图" url="https://sellercentral.amazon.com/sitemap"
+    uid=1497_122 StaticText "站点地图"
+  uid=1497_123 link " 计划政策" url="https://sellercentral.amazon.com/help/hub/reference/521"
+    uid=1497_124 StaticText " 计划政策"
+  uid=1497_125 StaticText "© 1999-2026，Amazon.com, Inc. 或其附属公司"
+  uid=1497_126 link "反馈" url="https://sellercentral.amazon.com/cu/case-dashboard/view-case?caseID=22957468581#"
+    uid=1497_127 StaticText "反馈"

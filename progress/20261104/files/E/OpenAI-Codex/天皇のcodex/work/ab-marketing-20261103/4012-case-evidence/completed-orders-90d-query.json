@@ -1,0 +1,34 @@
+{
+  "url": "https://sellercentral.amazon.com/orders-v3/search?page=1&q=B01M3N310M&qt=asin&date-range=last-90",
+  "date": "最近 90 天",
+  "rows": [
+    {
+      "order": "113-6617483-0807433",
+      "date": "2 天 前\n2026/11/1\n09:12 PST",
+      "product": "4A Sticky Notes Value Pack,Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4012\nASIN: B01M3N310M\nSKU: 4A 4012-B07T-FBA\n数量: 3\n商品小计: US$38.97",
+      "orderType": "加急",
+      "status": "付款完成",
+      "fulfillment": null,
+      "links": [
+        {
+          "text": "113-6617483-0807433",
+          "href": "https://sellercentral.amazon.com/orders-v3/order/113-6617483-0807433"
+        }
+      ]
+    },
+    {
+      "order": "113-0964157-4201827",
+      "date": "4 天 前\n2026/10/30\n15:45 PDT",
+      "product": "4A Sticky Notes Value Pack,Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4012\nASIN: B01M3N310M\nSKU: 4A 4012-B07T-FBA\n商品小计: US$12.99",
+      "orderType": "",
+      "status": "已取消",
+      "fulfillment": null,
+      "links": [
+        {
+          "text": "113-0964157-4201827",
+          "href": "https://sellercentral.amazon.com/orders-v3/order/113-0964157-4201827"
+        }
+      ]
+    }
+  ]
+}

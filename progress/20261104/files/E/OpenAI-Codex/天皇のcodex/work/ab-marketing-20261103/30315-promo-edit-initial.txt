@@ -1,0 +1,16 @@
+## Latest page snapshot
+uid=1612_0 RootWebArea "Price Discounts" busy url="https://sellercentral.amazon.com/discounts/detail/US/a73d11e5-fbca-46f2-ad48-a3bf7fa0bc30?region=NA&mons_sel_dir_mcid=amzn1.merchant.d.AACUJDOEV2BOLBDV32LS4TSGVIAA&mons_sel_mkid=ATVPDKIKX0DER"
+  uid=1612_1 navigation
+    uid=1612_2 link "Amazon" url="https://sellercentral.amazon.com/amazonsell"
+  uid=1612_3 navigation
+    uid=1612_4 button disableable disabled
+    uid=1612_5 button
+    uid=1612_6 button
+  uid=1612_7 button "✕"
+  uid=1612_8 link "站点地图" url="https://sellercentral.amazon.com/sitemap"
+    uid=1612_9 StaticText "站点地图"
+  uid=1612_10 link " 计划政策" url="https://sellercentral.amazon.com/help/hub/reference/521"
+    uid=1612_11 StaticText " 计划政策"
+  uid=1612_12 StaticText "© 1999-2026，Amazon.com, Inc. 或其附属公司"
+  uid=1612_13 link "反馈" url="https://sellercentral.amazon.com/discounts/detail/US/a73d11e5-fbca-46f2-ad48-a3bf7fa0bc30?region=NA&mons_sel_dir_mcid=amzn1.merchant.d.AACUJDOEV2BOLBDV32LS4TSGVIAA&mons_sel_mkid=ATVPDKIKX0DER#"
+    uid=1612_14 StaticText "反馈"

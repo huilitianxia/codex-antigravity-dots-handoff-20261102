@@ -1,0 +1,35 @@
+{
+  "at": "2026-11-03T18:22:52.510Z",
+  "campaign": "A092452820HCLVUYOMQHY",
+  "budget": 5,
+  "applied": [
+    {
+      "id": "86664209718644",
+      "term": "desktop sticky notes organizer set",
+      "to": 0.75,
+      "from": 0.4,
+      "match": "精准"
+    },
+    {
+      "id": "109156535490858",
+      "term": "sticky note organizer black leather",
+      "to": 0.6,
+      "from": 0.2,
+      "match": "精准"
+    },
+    {
+      "id": "36825385520891",
+      "term": "sticky note organizer set",
+      "to": 0.7,
+      "from": 0.4,
+      "match": "短语"
+    },
+    {
+      "id": "29071898252801",
+      "term": "sticky notes and index flags organizer",
+      "to": 0.7,
+      "from": 0.4,
+      "match": "精准"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { Workbook, SpreadsheetFile } from '@oai/artifact-tool';
+
+const base = path.dirname(fileURLToPath(import.meta.url));
+const data = JSON.parse(await fs.readFile(path.join(base,'report-data.json'),'utf8'));
+const raw = JSON.parse(await fs.readFile(path.join(base,'all-ad-type-rows.json'),'utf8'));
+const newScope = JSON.parse(await fs.readFile(path.join(base,'new-scope-review-20261103.json'),'utf8'));
+const output = 'E:/OpenAI-Codex/天皇のcodex/outputs/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/20261103-ad-cleanup';
+const workbook = Workbook.create();
+const dateValue = value => value && /^\d{8}$/.test(String(value)) ? new Date(`${String(value).slice(0,4)}-${String(value).slice(4,6)}-${String(value).slice(6,8)}T00:00:00Z`) : null;
+const rank = c => c.status_label.startsWith('已暂停') ? 0 : c.status_label.startsWith('早已') ? 1 : c.decision === 'retain-old-effective6' ? 2 : 3;
+const campaigns = [...data.plan.campaigns].sort((a,b) => rank(a)-rank(b) || b.spend-a.spend || a.name.localeCompare(b.name));
+const sheet = workbook.worksheets.add('活动结果');
+sheet.showGridLines = false;
+sheet.getRange('A2').values = [['4A 广告暂停与保留明细']];
+sheet.getRange('A2').format.font = {name:'Arial',size:14,bold:true};
+sheet.getRange('A4:J4').values = [['已暂停',null,'早已结束',null,'保留有效旧活动',null,null,null,'保留新精准测试',null]];
+const firstRow = 9, lastRow = firstRow + campaigns.length - 1;
+sheet.getRange('B4').formulas = [[`=COUNTIFS(A${firstRow}:A${lastRow},"已暂停（实时核验）")`]];
+sheet.getRange('D4').formulas = [[`=COUNTIFS(A${firstRow}:A${lastRow},"早已结束，不再投放")`]];
+sheet.getRange('F4').formulas = [[`=COUNTIFS(A${firstRow}:A${lastRow},"保留近期有效旧活动")`]];
+sheet.getRange('J4').formulas = [[`=COUNTIFS(A${firstRow}:A${lastRow},"保留新精准测试")`]];
+sheet.getRange('A5').values = [['来源：Amazon Ads完整批量导出，文件区间2026-10-04至2026-11-03，2026-11-03上午生成；20条暂停于当日下午逐条实时核验。']];
+sheet.getRange('A6').values = [['30% ACOS为本轮集中预算的暂定筛选线，不是产品盈亏线。销售额为广告归因销售额，SD可能包含浏览归因。零销售额的ACOS记为n.a.。']];
+sheet.getRange('A7').values = [['商品ASIN指被推广商品；投放到的竞品ASIN、关键词和受众另见“投放明细”。子层级数据不跨层级相加，活动总额以本页为准。']];
+const headers = ['执行结果','活动名称','配置启用商品SKU','广告商品ASIN','配置启用投放概况','花费（USD）','点击','订单','销售额（USD）','ACOS','处理原因','开始日期','结束日期','活动编号'];
+const values = campaigns.map(c => {
+  const original = raw[c.sheet].rows.find(r => r['实体层级']==='广告活动' && String(r['广告活动编号'])===c.id);
+  return [c.status_label,c.name,c.product_summary,c.enabled_asins.slice(0,3).join('；')+(c.enabled_asins.length>3?` 等${c.enabled_asins.length}个ASIN`:''),c.target_summary,c.spend,original['点击量']||0,c.orders,c.sales,null,c.reason_zh,dateValue(c.start_date),dateValue(c.end_date),c.id];
+});
+sheet.getRange(`A8:N${lastRow}`).values = [headers,...values];
+sheet.getRange(`A${firstRow}:N${lastRow}`).format.rowHeight = 58;
+sheet.getRange(`A8:N${lastRow}`).format.font = {name:'Arial',size:10};
+sheet.getRange(`A8:N${lastRow}`).format.verticalAlignment = 'center';
+for (const column of ['A','B','C','D','E','K']) sheet.getRange(`${column}${firstRow}:${column}${lastRow}`).format.wrapText = true;
+for (const [column,width] of [['A',23],['B',45],['C',34],['D',29],['E',44],['F',14],['G',10],['H',10],['I',17],['J',12],['K',44],['L',14],['M',14],['N',25]]) sheet.getRange(`${column}1:${column}${lastRow}`).format.columnWidth = width;
+sheet.getRange(`F${firstRow}:F${lastRow}`).setNumberFormat('$#,##0.00');
+sheet.getRange(`I${firstRow}:I${lastRow}`).setNumberFormat('$#,##0.00');
+sheet.getRange(`G${firstRow}:H${lastRow}`).setNumberFormat('#,##0');
+sheet.getRange(`J${firstRow}:J${lastRow}`).formulas = values.map((_,i)=>[`=IF(I${firstRow+i}=0,"n.a.",F${firstRow+i}/I${firstRow+i})`]);
+sheet.getRange(`J${firstRow}:J${lastRow}`).setNumberFormat('0.0%');
+sheet.getRange(`L${firstRow}:M${lastRow}`).setNumberFormat('yyyy-mm-dd');
+sheet.getRange(`N${firstRow}:N${lastRow}`).setNumberFormat('0');
+sheet.getRange('A5:A7').format.font = {name:'Arial',size:9,color:'#595959'};
+sheet.freezePanes.freezeRows(8);
+sheet.freezePanes.freezeColumns(2);
+sheet.tables.add(`A8:N${lastRow}`,true,'CampaignReview');
+
+function addDetail(name, headers, rows, widths, currencyColumns, integerColumns, percentColumns = []) {
+  const s=workbook.worksheets.add(name);s.showGridLines=false;
+  const last=rows.length+1;
+  s.getRangeByIndexes(0,0,last,headers.length).values=[headers,...rows];
+  s.getRangeByIndexes(0,0,last,headers.length).format.font={name:'Arial',size:10};
+  s.getRangeByIndexes(0,0,last,headers.length).format.rowHeight=24;
+  s.getRange(`B2:B${last}`).setNumberFormat('0');
+  for(const [column,width] of widths) s.getRange(`${column}1:${column}${last}`).format.columnWidth=width;
+  for(const column of currencyColumns)s.getRange(`${column}2:${column}${last}`).setNumberFormat('$#,##0.00');
+  for(const column of integerColumns)s.getRange(`${column}2:${column}${last}`).setNumberFormat('#,##0');
+  for(const column of percentColumns)s.getRange(`${column}2:${column}${last}`).setNumberFormat('0.0%');
+  const endColumn=String.fromCharCode(64+headers.length);
+  s.tables.add(`A1:${endColumn}${last}`,true,name==='商品映射'?'ProductMapping':name==='新范围待审阅'?'NewScopeReview':'TargetDetails');
+  s.freezePanes.freezeRows(1);s.freezePanes.freezeColumns(1);
+  return s;
+}
+const scopeSheet=addDetail('新范围待审阅',['状态','商品','ASIN','广告SKU范围','关键词范围','匹配方式','拟日预算（USD）','限制与待核事项'],newScope.scope.map(c=>[c.status,c.product,c.asin,c.skus,c.keywords,c.match,c.daily,c.gate]),[['A',28],['B',32],['C',22],['D',48],['E',95],['F',16],['G',21],['H',95]],['G'],[]);
+scopeSheet.getRange(`A2:H${newScope.scope.length+1}`).format.wrapText=true;
+scopeSheet.getRange(`A2:H${newScope.scope.length+1}`).format.verticalAlignment='center';
+scopeSheet.getRange(`A2:H${newScope.scope.length+1}`).format.rowHeight=48;
+addDetail('商品映射',['活动名称','活动编号','活动执行结果','广告组','商品SKU','广告商品ASIN','商品配置状态（导出时）','资格（导出时）','花费（USD）','订单','销售额（USD）','广告编号'],data.products,[['A',48],['B',24],['C',25],['D',42],['E',36],['F',22],['G',26],['H',25],['I',15],['J',12],['K',18],['L',25]],['I','K'],['J']);
+const targetSheet=addDetail('投放明细',['活动名称','活动编号','活动执行结果','广告组','投放层级','配置状态（导出时）','匹配类型','关键词或投放表达式','花费（USD）','点击','订单','销售额（USD）','ACOS','投放编号'],data.targets,[['A',48],['B',24],['C',25],['D',42],['E',22],['F',26],['G',18],['H',100],['I',15],['J',12],['K',12],['L',18],['M',13],['N',25]],['I','L'],['J','K'],['M']);
+targetSheet.getRange(`H2:H${data.targets.length+1}`).format.wrapText=true;
+for(let index=0;index<data.targets.length;index++)if(String(data.targets[index][7]).length>90)targetSheet.getRange(`A${index+2}:N${index+2}`).format.rowHeight=48;
+workbook.recalculate();
+const inspection=await workbook.inspect({kind:'region',sheetId:'活动结果',range:'A4:J16',maxChars:3500,tableMaxRows:13,tableMaxCols:10});
+await fs.writeFile(path.join(base,'report-inspection.ndjson'),inspection.ndjson);
+const errors=await workbook.inspect({kind:'match',searchTerm:'#REF!|#DIV/0!|#VALUE!|#NAME\\?|#N/A|#NUM!|#NULL!|#SPILL!|#CALC!',options:{useRegex:true,maxResults:50},maxChars:1200});
+await fs.writeFile(path.join(base,'report-formula-errors.ndjson'),errors.ndjson);
+for(const [name,range,file] of [['新范围待审阅','A14:H19','cleanup-new-scope-preview.png']]) {
+  const img=await workbook.render({sheetName:name,range,scale:1.2,format:'png'});
+  await fs.writeFile(path.join(base,file),new Uint8Array(await img.arrayBuffer()));
+}
+const result=await SpreadsheetFile.exportXlsx(workbook);
+const destination=path.join(output,'4A广告暂停与保留明细_20261103.xlsx');
+await result.save(destination);
+console.log(JSON.stringify({destination,campaigns:campaigns.length,products:data.products.length,targets:data.targets.length}));

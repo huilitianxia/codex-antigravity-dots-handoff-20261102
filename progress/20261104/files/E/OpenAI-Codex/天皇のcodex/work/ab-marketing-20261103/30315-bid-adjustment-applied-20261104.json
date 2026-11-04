@@ -1,0 +1,49 @@
+{
+  "at": "2026-11-03T18:22:35.164Z",
+  "campaign": "A0625560C81W26ZWQFAG",
+  "budget": 7,
+  "applied": [
+    {
+      "id": "63252716272764",
+      "term": "3x3 sticky notes 1500 sheets",
+      "to": 0.75,
+      "from": 0.55,
+      "match": "精准"
+    },
+    {
+      "id": "110115049123620",
+      "term": "3x3 sticky notes assorted colors",
+      "to": 0.9,
+      "from": 0.5,
+      "match": "短语"
+    },
+    {
+      "id": "189800989136857",
+      "term": "3x3 sticky notes bulk",
+      "to": 0.9,
+      "from": 0.65,
+      "match": "精准"
+    },
+    {
+      "id": "20955361404728",
+      "term": "colored sticky notes 3x3",
+      "to": 0.95,
+      "from": 0.65,
+      "match": "精准"
+    },
+    {
+      "id": "30393094120593",
+      "term": "sticky notes 15 pads",
+      "to": 0.75,
+      "from": 0.55,
+      "match": "精准"
+    },
+    {
+      "id": "268058507043824",
+      "term": "sticky notes 3x3 assorted colors",
+      "to": 1,
+      "from": 0.65,
+      "match": "精准"
+    }
+  ]
+}

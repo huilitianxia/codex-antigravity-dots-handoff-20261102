@@ -1,0 +1,35 @@
+{
+  "at": "2026-11-03T18:23:03.318Z",
+  "campaign": "A08305252J4LVVEZ5N1BI",
+  "budget": 4,
+  "applied": [
+    {
+      "id": "93514431277663",
+      "term": "sticky notes 18 pads",
+      "to": 0.7,
+      "from": 0.45,
+      "match": "精准"
+    },
+    {
+      "id": "255249945431126",
+      "term": "sticky notes assorted sizes",
+      "to": 1,
+      "from": 0.45,
+      "match": "精准"
+    },
+    {
+      "id": "198559922287180",
+      "term": "sticky notes value pack",
+      "to": 0.85,
+      "from": 0.45,
+      "match": "精准"
+    },
+    {
+      "id": "141917023075567",
+      "term": "sticky notes variety pack",
+      "to": 0.9,
+      "from": 0.45,
+      "match": "精准"
+    }
+  ]
+}

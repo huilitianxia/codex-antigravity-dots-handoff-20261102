@@ -1,0 +1,865 @@
+- navigation:
+  - button "菜单":
+  - generic: 菜单
+  - button:
+  - navigation:
+    - searchbox
+    - link:
+      - /url: /amazonsell/business
+      - generic: 我的业务
+    - button:
+      - generic: 商品
+    - link:
+      - /url: /amazonsell/listings
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/manage-products
+      - text: 管理商品
+      - button:
+    - link:
+      - /url: /pricing/health
+      - text: 管理定价
+      - button:
+    - link:
+      - /url: /product-search
+      - text: 添加商品
+      - button:
+    - link:
+      - /url: /feedback-manager/index.html
+      - text: 分析评论
+      - button:
+    - link:
+      - /url: /new-product-guidance
+      - text: 研究商品
+      - button:
+    - link:
+      - /url: /gex
+      - text: 全球开店
+      - button:
+    - link:
+      - /url: /listing/reports
+      - text: 商品报告
+      - button:
+    - button:
+      - generic: 供应链
+    - link:
+      - /url: /amazonsell/inventory
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/fba-inventory
+      - text: 管理亚马逊库存
+      - button:
+    - link:
+      - /url: /global-store
+      - text: 管理海外购
+      - button:
+    - link:
+      - /url: /seller-fulfilled-product/analytics
+      - text: 管理卖家自配送库存
+      - button:
+    - link:
+      - /url: /manage/shipments
+      - text: 管理货件
+      - button:
+    - link:
+      - /url: /fba/sendtoamazon
+      - text: Send to Amazon
+      - button:
+    - link:
+      - /url: /channel-manager
+      - text: 管理渠道目的地
+      - button:
+    - link:
+      - /url: https://supplychain.amazon.com/scp/login?utm_source=ngs_persistence_link
+      - text: 供应链控制面板
+      - button:
+    - link:
+      - /url: /reportcentral/WelcomePage
+      - text: 供应链报告
+      - button:
+    - button:
+      - generic: 订单
+    - link:
+      - /url: /amazonsell/orders
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/orders/mfn
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /amazonsell/orders/fba
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /business/manage-quotes
+      - text: 管理报价
+      - button:
+    - link:
+      - /url: /manage/returns/mfn
+      - text: 管理退货
+      - button:
+    - link:
+      - /url: /gp/chargebacks/home.html
+      - text: 管理索赔
+      - button:
+    - link:
+      - /url: /order-reports-and-feeds/reports
+      - text: 订单报告
+      - button:
+    - button:
+      - generic: 营销推广
+    - link:
+      - /url: /amazonsell/marketing
+      - text: 工作区
+    - link:
+      - /url: /promotion-central/dashboard
+      - text: 管理促销和特惠
+      - button:
+    - link:
+      - /url: /brand-analytics
+      - text: 品牌分析
+      - button:
+    - link:
+      - /url: /cm?source=ngs
+      - text: 广告控制台
+      - button:
+    - link:
+      - /url: /vine
+      - text: Vine
+      - button:
+    - button:
+      - generic: 财务人员
+    - link:
+      - /url: /amazonsell/payments
+      - text: 工作区
+    - link:
+      - /url: /manage/finance/transactions
+      - text: 管理交易
+      - button:
+    - link:
+      - /url: /managetaxes/global-transaction-reports
+      - text: 管理税费
+      - button:
+    - link:
+      - /url: /economics
+      - text: 利润分析
+      - button:
+    - link:
+      - /url: /manage/finance/reports
+      - text: 财务报告
+      - button:
+    - button:
+      - generic: 账户状况
+    - link:
+      - /url: /performance/dashboard
+      - text: 管理账户状况
+      - button:
+    - button:
+      - generic: 计划和应用程序
+    - link:
+      - /url: /recommended-programs
+      - text: 了解计划
+      - button:
+    - link:
+      - /url: /selling-partner-appstore
+      - text: 销售伙伴应用商店
+      - button:
+    - link:
+      - /url: /tsba
+      - text: 浏览服务
+      - button:
+  - link:
+    - /url: /sitemap
+    - text: 站点地图
+  - link:
+    - /url: /home?ngs_do_not_redirect_flag=1
+    - text: 传统卖家平台
+  - link "Amazon":
+    - /url: /amazonsell
+  - button "4A (USA) LIMITED 美国":
+    - generic: 4A (USA) LIMITED
+    - generic: 美国
+  - button "账户状况":
+    - generic: 账户状况
+    - generic: 存在风险
+  - textbox "搜索任何内容"
+  - button "询问卖家助手":
+    - generic: 卖家助手
+  - link "新增内容":
+    - /url: /featurereleases
+  - link "消息":
+    - /url: /messaging/inbox-v3?fi=responseNeeded&&
+  - button "帮助":
+  - button "设置":
+- navigation:
+  - button:
+  - link "管理交易":
+    - /url: /manage/finance/transactions
+    - generic: 管理交易
+  - link "卖家大学":
+    - /url: /su/learn
+    - generic: 卖家大学
+  - link "管理商品":
+    - /url: /amazonsell/manage-products
+    - generic: 管理商品
+  - link "广告控制台":
+    - /url: /cm?source=ngs
+    - generic: 广告控制台
+  - link "管理货件":
+    - /url: /manage/shipments
+    - generic: 管理货件
+  - link "商品商机探测器":
+    - /url: /new-product-guidance
+    - generic: 商品商机探测器
+  - link "品牌分析":
+    - /url: /brand-analytics
+    - generic: 品牌分析
+  - link "A+ 商品描述管理器":
+    - /url: /enhanced-content/ref=xx_ebc_favb_xx
+    - generic: A+ 商品描述管理器
+  - link "业务报告":
+    - /url: /business-reports#/dashboard
+    - generic: 业务报告
+  - link "亚马逊物流库存报告":
+    - /url: /reportcentral/WelcomePage
+    - generic: 亚马逊物流库存报告
+  - link "商品报告":
+    - /url: /listing/reports
+    - generic: 商品报告
+  - link "绩效通知":
+    - /url: /performance/notifications
+    - generic: 绩效通知
+  - link "管理账户状况":
+    - /url: /performance/dashboard
+    - generic: 管理账户状况
+  - button:
+- list
+- button "✕"
+- generic: 
+- generic: 关闭报告菜单
+- generic: 控制面板
+- generic: 控制面板
+- link "销售控制面板":
+  - /url: "#/dashboard"
+- generic: 业务报告
+- generic: 业务报告
+- paragraph: 按日期
+- link "销售和流量":
+  - /url: "#/report?id=102:SalesTrafficTimeSeries"
+- link "详情页面销售和流量":
+  - /url: "#/report?id=102:DetailSalesTrafficByTime"
+- link "卖家绩效":
+  - /url: "#/report?id=102:SellerPerformanceForMerchants"
+- paragraph: 按 ASIN
+- link "详情页面销售和流量":
+  - /url: "#/report?id=102:DetailSalesTrafficBySKU"
+- link "详情页面销售和流量（按父商品）":
+  - /url: "#/report?id=102:DetailSalesTrafficByParentItem"
+- link "详情页面销售和流量（按子商品）":
+  - /url: "#/report?id=102:DetailSalesTrafficByChildItem"
+- paragraph: 其他
+- link "各月销售额和订单数量":
+  - /url: "#/report?id=SalesOrderByMonth"
+- generic: 
+- generic: 通过定制分析解锁 200+ 项指标
+- generic: 在定制分析中获取您在业务报告中使用的功能，以及更多其他功能。 探索销售额、流量、搜索、库存、评论等内容。 在年底前切换。
+- link "查看最新功能":
+  - /url: /custom-analytics/dashboard/br-sales-traffic-seller-performance-template?utm_source=br-banner&utm_medium=in-product&utm_campaign=sc-ca-br-banner-q4-2026&utm_content=date-sales-and-traffic&ref=br_banner
+  - generic: 查看最新功能
+- button "忽略":
+  - generic: 
+- strong: 业务报告 |
+- text: 销售和流量
+- generic: 了解更多信息
+- checkbox "undefined" [checked]
+- generic: 隐藏图表
+- generic: 订单商品总数
+- generic: 
+- generic: 会话数 - 总计
+- generic: 
+- generic: 查看
+- generic: 查看
+- group "null":
+  - button "按天":
+    - generic: 按天
+  - button "按周":
+    - generic: 按周
+  - button "按月":
+    - generic: 按月
+- generic: 缩放
+- generic: 缩放
+- group "null":
+  - button "7 天":
+    - generic: 7 天
+  - button "1 个月":
+    - generic: 1 个月
+  - button "3 个月":
+    - generic: 3 个月
+  - button "6 个月":
+    - generic: 6 个月
+  - button "1 年":
+    - generic: 1 年
+  - button "2 年":
+    - generic: 2 年
+- generic: 日期
+- generic: 日期
+- generic "定制":
+  - generic: 定制
+  - generic: 
+- button "日历":
+  - generic: 
+- textbox "undefined":
+  - /placeholder: YYYY/MM/DD
+  - text: 2026/09/30
+- button "日历":
+  - generic: 
+- textbox "undefined":
+  - /placeholder: YYYY/MM/DD
+  - text: 2026/10/30
+- generic: 控制面板视图
+- generic: 控制面板视图
+- generic "默认":
+  - generic: 默认
+  - generic: 
+- generic: 
+- generic: 可能尚未完全提供自 2026/10/30 以后的数据
+- button "下载 (.csv)":
+  - generic: 下载 (.csv)
+- generic: 查看 SKU 绩效
+- checkbox
+- text: 日期
+- generic: 
+- generic: 添加至图表
+- generic: 删除列
+- generic: 
+- text: 已订购商品销售额
+- generic: 
+- generic: 添加至图表
+- generic: 删除列
+- generic: 
+- text: 已订购商品销售额 - B2B
+- generic: 
+- generic: 添加至图表
+- generic: 删除列
+- generic: 
+- text: 已订购商品数量
+- generic: 
+- generic: 添加至图表
+- generic: 删除列
+- generic: 
+- text: 已订购商品数量 - B2B
+- generic: 
+- generic: 添加至图表
+- generic: 删除列
+- generic: 
+- text: 订单商品总数
+- generic: 
+- generic: 从图表中移除
+- generic: 删除列
+- generic: 
+- text: 订单商品总数 - B2B
+- generic: 
+- generic: 添加至图表
+- generic: 删除列
+- generic: 
+- text: 每种订单商品的平均销售额
+- generic: 
+- generic: 添加至图表
+- generic: 删除列
+- generic: 
+- text: 每种订单商品的平均销售额 - B2B
+- generic: 
+- generic: 添加至图表
+- generic: 删除列
+- generic: 
+- text: 每种订单商品的平均数量
+- generic: 
+- generic: 添加至图表
+- generic: 删除列
+- generic: 
+- text: 每种订单商品的平均数量 - B2B
+- generic: 
+- generic: 添加至图表
+- generic: 删除列
+- generic: 
+- text: 平均售价
+- generic: 
+- generic: 添加至图表
+- generic: 删除列
+- generic: 
+- text: 平均售价 - B2B
+- generic: 
+- generic: 添加至图表
+- generic: 删除列
+- generic: 
+- text: 会话数 - 总计
+- generic: 
+- generic: 从图表中移除
+- generic: 删除列
+- generic: 
+- text: 会话 - 总计 - B2B
+- generic: 
+- generic: 添加至图表
+- generic: 删除列
+- generic: 
+- text: 订单商品会话百分比
+- generic: 
+- generic: 添加至图表
+- generic: 删除列
+- generic: 
+- text: 订单商品转化率 - B2B
+- generic: 
+- generic: 添加至图表
+- generic: 删除列
+- generic: 
+- text: 平均商品数量
+- generic: 
+- generic: 添加至图表
+- generic: 删除列
+- generic: 
+- checkbox
+- generic: 2026/9/30
+- generic: US$725.62
+- generic: US$193.98
+- generic: "47"
+- generic: "10"
+- generic: "36"
+- generic: "9"
+- generic: US$20.16
+- generic: US$21.55
+- generic: "1.31"
+- generic: "1.11"
+- generic: US$15.44
+- generic: US$19.40
+- checkbox
+- generic: 2026/10/01
+- generic: US$431.55
+- generic: US$121.76
+- generic: "30"
+- generic: "9"
+- generic: "27"
+- generic: "7"
+- generic: US$15.98
+- generic: US$17.39
+- generic: "1.11"
+- generic: "1.29"
+- generic: US$14.38
+- generic: US$13.53
+- checkbox
+- generic: 2026/10/02
+- generic: US$520.04
+- generic: US$270.31
+- generic: "34"
+- generic: "16"
+- generic: "30"
+- generic: "12"
+- generic: US$17.33
+- generic: US$22.53
+- generic: "1.13"
+- generic: "1.33"
+- generic: US$15.30
+- generic: US$16.89
+- checkbox
+- generic: 2026/10/03
+- generic: US$211.37
+- generic: US$9.49
+- generic: "13"
+- generic: "1"
+- generic: "12"
+- generic: "1"
+- generic: US$17.61
+- generic: US$9.49
+- generic: "1.08"
+- generic: "1"
+- generic: US$16.26
+- generic: US$9.49
+- checkbox
+- generic: 2026/10/04
+- generic: US$201.88
+- generic: US$0.00
+- generic: "12"
+- generic: "0"
+- generic: "12"
+- generic: "0"
+- generic: US$16.82
+- generic: US$0.00
+- generic: "1"
+- generic: "0"
+- generic: US$16.82
+- generic: US$0.00
+- checkbox
+- generic: 2026/10/05
+- generic: US$553.29
+- generic: US$208.51
+- generic: "34"
+- generic: "12"
+- generic: "28"
+- generic: "8"
+- generic: US$19.76
+- generic: US$26.06
+- generic: "1.21"
+- generic: "1.5"
+- generic: US$16.27
+- generic: US$17.38
+- checkbox
+- generic: 2026/10/06
+- generic: US$618.14
+- generic: US$212.89
+- generic: "37"
+- generic: "12"
+- generic: "35"
+- generic: "10"
+- generic: US$17.66
+- generic: US$21.29
+- generic: "1.06"
+- generic: "1.2"
+- generic: US$16.71
+- generic: US$17.74
+- checkbox
+- generic: 2026/10/07
+- generic: US$417.41
+- generic: US$100.21
+- generic: "26"
+- generic: "6"
+- generic: "25"
+- generic: "5"
+- generic: US$16.70
+- generic: US$20.04
+- generic: "1.04"
+- generic: "1.2"
+- generic: US$16.05
+- generic: US$16.70
+- checkbox
+- generic: 2026/10/08
+- generic: US$648.24
+- generic: US$224.49
+- generic: "37"
+- generic: "12"
+- generic: "32"
+- generic: "11"
+- generic: US$20.26
+- generic: US$20.41
+- generic: "1.16"
+- generic: "1.09"
+- generic: US$17.52
+- generic: US$18.71
+- checkbox
+- generic: 2026/10/09
+- generic: US$421.78
+- generic: US$171.93
+- generic: "25"
+- generic: "10"
+- generic: "21"
+- generic: "7"
+- generic: US$20.08
+- generic: US$24.56
+- generic: "1.19"
+- generic: "1.43"
+- generic: US$16.87
+- generic: US$17.19
+- checkbox
+- generic: 2026/10/10
+- generic: US$554.44
+- generic: US$275.63
+- generic: "39"
+- generic: "20"
+- generic: "19"
+- generic: "3"
+- generic: US$29.18
+- generic: US$91.88
+- generic: "2.05"
+- generic: "6.67"
+- generic: US$14.22
+- generic: US$13.78
+- checkbox
+- generic: 2026/10/11
+- generic: US$284.28
+- generic: US$34.42
+- generic: "16"
+- generic: "2"
+- generic: "14"
+- generic: "1"
+- generic: US$20.31
+- generic: US$34.42
+- generic: "1.14"
+- generic: "2"
+- generic: US$17.77
+- generic: US$17.21
+- checkbox
+- generic: 2026/10/12
+- generic: US$368.97
+- generic: US$184.60
+- generic: "25"
+- generic: "12"
+- generic: "19"
+- generic: "6"
+- generic: US$19.42
+- generic: US$30.77
+- generic: "1.32"
+- generic: "2"
+- generic: US$14.76
+- generic: US$15.38
+- checkbox
+- generic: 2026/10/13
+- generic: US$615.03
+- generic: US$303.23
+- generic: "34"
+- generic: "14"
+- generic: "23"
+- generic: "7"
+- generic: US$26.74
+- generic: US$43.32
+- generic: "1.48"
+- generic: "2"
+- generic: US$18.09
+- generic: US$21.66
+- checkbox
+- generic: 2026/10/14
+- generic: US$345.11
+- generic: US$224.21
+- generic: "26"
+- generic: "16"
+- generic: "21"
+- generic: "11"
+- generic: US$16.43
+- generic: US$20.38
+- generic: "1.24"
+- generic: "1.45"
+- generic: US$13.27
+- generic: US$14.01
+- checkbox
+- generic: 2026/10/15
+- generic: US$553.17
+- generic: US$314.83
+- generic: "40"
+- generic: "24"
+- generic: "24"
+- generic: "11"
+- generic: US$23.05
+- generic: US$28.62
+- generic: "1.67"
+- generic: "2.18"
+- generic: US$13.83
+- generic: US$13.12
+- checkbox
+- generic: 2026/10/16
+- generic: US$296.00
+- generic: US$94.14
+- generic: "20"
+- generic: "6"
+- generic: "18"
+- generic: "4"
+- generic: US$16.44
+- generic: US$23.54
+- generic: "1.11"
+- generic: "1.5"
+- generic: US$14.80
+- generic: US$15.69
+- checkbox
+- generic: 2026/10/17
+- generic: US$188.29
+- generic: US$67.38
+- generic: "13"
+- generic: "4"
+- generic: "12"
+- generic: "4"
+- generic: US$15.69
+- generic: US$16.84
+- generic: "1.08"
+- generic: "1"
+- generic: US$14.48
+- generic: US$16.84
+- checkbox
+- generic: 2026/10/18
+- generic: US$195.48
+- generic: US$36.08
+- generic: "12"
+- generic: "2"
+- generic: "9"
+- generic: "2"
+- generic: US$21.72
+- generic: US$18.04
+- generic: "1.33"
+- generic: "1"
+- generic: US$16.29
+- generic: US$18.04
+- checkbox
+- generic: 2026/10/19
+- generic: US$543.06
+- generic: US$53.35
+- generic: "32"
+- generic: "3"
+- generic: "25"
+- generic: "2"
+- generic: US$21.72
+- generic: US$26.68
+- generic: "1.28"
+- generic: "1.5"
+- generic: US$16.97
+- generic: US$17.78
+- checkbox
+- generic: 2026/10/20
+- generic: US$566.45
+- generic: US$269.62
+- generic: "33"
+- generic: "16"
+- generic: "29"
+- generic: "14"
+- generic: US$19.53
+- generic: US$19.26
+- generic: "1.14"
+- generic: "1.14"
+- generic: US$17.17
+- generic: US$16.85
+- checkbox
+- generic: 2026/10/21
+- generic: US$465.12
+- generic: US$146.31
+- generic: "27"
+- generic: "8"
+- generic: "24"
+- generic: "7"
+- generic: US$19.38
+- generic: US$20.90
+- generic: "1.12"
+- generic: "1.14"
+- generic: US$17.23
+- generic: US$18.29
+- checkbox
+- generic: 2026/10/22
+- generic: US$797.78
+- generic: US$375.03
+- generic: "43"
+- generic: "18"
+- generic: "25"
+- generic: "5"
+- generic: US$31.91
+- generic: US$75.01
+- generic: "1.72"
+- generic: "3.6"
+- generic: US$18.55
+- generic: US$20.84
+- checkbox
+- generic: 2026/10/23
+- generic: US$319.36
+- generic: US$53.52
+- generic: "19"
+- generic: "3"
+- generic: "18"
+- generic: "3"
+- generic: US$17.74
+- generic: US$17.84
+- generic: "1.06"
+- generic: "1"
+- generic: US$16.81
+- generic: US$17.84
+- checkbox
+- generic: 2026/10/24
+- generic: US$280.24
+- generic: US$61.38
+- generic: "18"
+- generic: "4"
+- generic: "16"
+- generic: "3"
+- generic: US$17.52
+- generic: US$20.46
+- generic: "1.12"
+- generic: "1.33"
+- generic: US$15.57
+- generic: US$15.34
+- checkbox
+- generic: 2026/10/25
+- generic: US$274.83
+- generic: US$0.00
+- generic: "17"
+- generic: "0"
+- generic: "17"
+- generic: "0"
+- generic: US$16.17
+- generic: US$0.00
+- generic: "1"
+- generic: "0"
+- generic: US$16.17
+- generic: US$0.00
+- checkbox
+- generic: 2026/10/26
+- generic: US$675.70
+- generic: US$356.52
+- generic: "48"
+- generic: "26"
+- generic: "36"
+- generic: "15"
+- generic: US$18.77
+- generic: US$23.77
+- generic: "1.33"
+- generic: "1.73"
+- generic: US$14.08
+- generic: US$13.71
+- checkbox
+- generic: 2026/10/27
+- generic: US$831.88
+- generic: US$174.72
+- generic: "44"
+- generic: "9"
+- generic: "32"
+- generic: "8"
+- generic: US$26.00
+- generic: US$21.84
+- generic: "1.38"
+- generic: "1.12"
+- generic: US$18.91
+- generic: US$19.41
+- checkbox
+- generic: 2026/10/28
+- generic: US$535.03
+- generic: US$31.33
+- generic: "32"
+- generic: "2"
+- generic: "26"
+- generic: "2"
+- generic: US$20.58
+- generic: US$15.66
+- generic: "1.23"
+- generic: "1"
+- generic: US$16.72
+- generic: US$15.66
+- checkbox
+- generic: 2026/10/29
+- generic: US$595.00
+- generic: US$238.23
+- generic: "36"
+- generic: "13"
+- generic: "29"
+- generic: "10"
+- generic: US$20.52
+- generic: US$23.82
+- generic: "1.24"
+- generic: "1.3"
+- generic: US$16.53
+- generic: US$18.33
+- generic: 总计
+- generic: US$14,034.54
+- generic: US$4,808.10
+- generic: "869"
+- generic: "290"
+- generic: "694"
+- generic: "188"
+- generic: US$20.04
+- generic: US$25.21
+- generic: "1.24"
+- generic: "1.53"
+- generic: US$16.13
+- generic: US$15.56
+- generic: 5,548
+- generic: "628"
+- generic: 12.27%
+- generic: 30.75%
+- generic: "311.77"
+- generic: 显示/隐藏列
+- link "站点地图":
+  - /url: /sitemap
+- link "计划政策":
+  - /url: /help/hub/reference/521
+- generic: © 1999-2026，Amazon.com, Inc. 或其附属公司
+- link "反馈":
+  - /url: "#"

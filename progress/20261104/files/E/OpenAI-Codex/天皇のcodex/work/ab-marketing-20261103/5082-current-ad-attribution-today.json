@@ -1,0 +1,33 @@
+{
+  "url": "https://advertising.amazon.com/campaign-manager/all-campaigns?entityId=ENTITY2EFMPU8GWXHSP",
+  "date": "\n2026-11-03\n\n",
+  "footer": "法带来销量的投放目标，将预算集中在可转化的地方。\n\n12/445\n\n有点击量但销量为零的目标\n\n最近 14 天\n\n1 位广告主\n美国\n查看投放数据\nSearch\n带来订单的广告活动，按销量排序\n获得搜索结果首页首位展示量的投放，按点击量排序\n有支出但未带来订单的广告活动\n\n筛选条件\n\n进行中\n:\n已启用\nremove\n国家/地区\n:\n美国\nremove\n删除所有\n创建广告活动\nSearch\nClear search terms\n筛选条件\n选择行以启用批量操作。\n视图：默认\n列\n2026-11-03\n导出\n\n全选\n\n进行中\n广告活动名称\n国家/地区\n状态\n广告组合名称\n广告活动竞价方案\n广告活动开始日期\n广告活动预算金额\n费用类型\n展示量\n搜索结果首页首位展示量份额\n搜索结果首页首位竞价调整\nSP_REACTIVATE_B1_5082YL_EXACT_20261102\nA07292273M47U0OO99X85\n美国\n\n进行中\n\nOLD_PRODUCTS_REACTIVATE_20261103_DAILY\n动态竞价（只降低）\n2026-11-02\n2026-11-02\nUS$5.00 - 每天\nUS$5.00 - 每天\nCPC\n1\n—\n0%\n0%\n总计: 1\n1\n—\n—\n© 2026 Amazon.com, Inc. 或其附属公司。\n使用条款\n隐私声明\n亚马逊广告协议\n請求支持\n状态",
+  "rows": [
+    {
+      "id": "16557079259795",
+      "cells": {
+        "name": "SP_REACTIVATE_B1_5082YL_EXACT_20261102\nA07292273M47U0OO99X85",
+        "country": "美国",
+        "status": "进行中",
+        "portfolio": "OLD_PRODUCTS_REACTIVATE_20261103_DAILY",
+        "smartBiddingStrategy": "动态竞价（只降低）",
+        "startDate": "2026-11-02\n2026-11-02",
+        "budget": "US$5.00 - 每天\nUS$5.00 - 每天",
+        "costType": "CPC",
+        "impressions": "1",
+        "topOfSearchImpressionShare": "—",
+        "tcisBidAdjustment": "0%\n0%"
+      },
+      "enabled": "true"
+    },
+    {
+      "id": "[object Object]",
+      "cells": {
+        "name": "总计: 1",
+        "impressions": "1",
+        "topOfSearchImpressionShare": "—",
+        "tcisBidAdjustment": "—"
+      }
+    }
+  ]
+}

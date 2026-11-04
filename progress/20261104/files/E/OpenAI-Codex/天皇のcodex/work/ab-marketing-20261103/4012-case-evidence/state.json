@@ -1,0 +1,14 @@
+{
+  "id": "22957468581",
+  "status": "pending-platform-review",
+  "sent_at": "2026-11-03T02:49:11.466Z",
+  "reply_sent_at": "2026-11-03T02:56:56.744Z",
+  "attachmentVerified": true,
+  "ordinary_price": 12.99,
+  "buyer_shipping": 4.99,
+  "minimum": 11.69,
+  "body": "Please review Featured Offer pricing eligibility and the High Price flag for ASIN B01M3N310M, seller SKU 4A 4012-B07T-FBM. This is one PP box containing 18 sticky-note pads, 1,900 sheets total (4A 4012).\n\nCurrent FBM item price is USD 12.99 plus USD 4.99 shipping (USD 17.98 total), business price USD 12.73, minimum item price USD 11.69. Pricing Health displays an average offer reference price of USD 11.94 and says the offer is ineligible due to significantly high pricing; the issue is dated Nov 2, 2026, 03:19 +08. The price-discount promotion has now been removed from this SKU.\n\nRecent evidence: completed FBA order 113-6617483-0807433 on Nov 1, 2026 at 09:12 PST was for 3 units of the same ASIN, SKU 4A 4012-B07T-FBA, with item subtotal USD 38.97 (USD 12.99 per unit). FBA inventory is currently zero; the available offer is FBM. Our manufacturer price workbook also lists USD 12.99 for this single 18-pad box.\n\nPlease verify the accuracy and current relevance of the USD 11.94 reference, confirm that comparisons use the same pack quantity and item, and explain which reference or competitive external price is actually causing ineligibility and what total-price threshold is required. Please re-evaluate Featured Offer eligibility and remove the High Price flag if the comparison is stale or mismatched; otherwise provide the specific actionable pricing requirement. Please escalate to the pricing team if needed. Keep our current item price, shipping charge and minimum-price settings unchanged during this review. We can provide the completed-order screenshot.\n\nAttached is the order-list screenshot. It shows the completed 3-unit FBA order at USD 38.97. The separate cancelled order visible below is excluded from our completed-sales evidence.",
+  "frontend_high_price_still_visible": true,
+  "final_frontend_check_beijing": "2026-11-03 10:59",
+  "resolution_verified": false
+}

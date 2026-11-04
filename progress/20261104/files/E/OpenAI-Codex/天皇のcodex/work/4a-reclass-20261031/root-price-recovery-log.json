@@ -1,0 +1,69 @@
+{
+  "scope": "Root-agent price restoration log; verification states kept distinct",
+  "records": [
+    {
+      "sku": "4A 5082-Y-L-GM",
+      "asin": "B07F2BHFJH",
+      "ordinary": 11.99,
+      "business": 9.49,
+      "status": "verified_inventory_featured_and_business",
+      "evidence": "5082-b2b949-verified.txt"
+    },
+    {
+      "sku": "4A 004",
+      "asin": "B01LVXOCU2",
+      "ordinary": 15.99,
+      "status": "verified_inventory_ordinary_and_featured",
+      "evidence": "004-live-restored-final.txt"
+    },
+    {
+      "sku": "AAAA 4A 2028-N",
+      "asin": "B07FKGPCQM",
+      "ordinary": 19.99,
+      "status": "verified_inventory_ordinary_and_featured_min_blank",
+      "evidence": "2028-live-restored-final.txt"
+    },
+    {
+      "sku": "4A071",
+      "asin": "B01MY2AYET",
+      "ordinary": 10.99,
+      "status": "verified_inventory_price_zero_stock",
+      "evidence": "zero-root-071-submitted.txt"
+    },
+    {
+      "sku": "4A 305 x 6-Y",
+      "asin": "B01N0R4QI8",
+      "ordinary": 11.99,
+      "status": "formal_offer_saved_inventory_old_frozen_zero_stock",
+      "evidence": "zero-root-305y-submitted.txt"
+    },
+    {
+      "sku": "4A MG30312-Z",
+      "asin": "B01JGGQ4WQ",
+      "ordinary": 18.25,
+      "business": 11.99,
+      "status": "formal_offer_saved_inventory_ordinary_and_business_old_zero_stock",
+      "evidence": "zero-root-mg303-b2b-submitted.txt"
+    },
+    {
+      "sku": "4A SCBS 1804",
+      "asin": "B07WDQGB3G",
+      "ordinary": 18.99,
+      "status": "formal_offer_saved_inventory_old_zero_stock"
+    },
+    {
+      "sku": "4A 303 x 6-Y-Z",
+      "asin": "B01MQW96JR",
+      "ordinary": 8.49,
+      "status": "verified_inventory_price_zero_stock"
+    },
+    {
+      "sku": "4A073",
+      "asin": "B00SMEEVKQ",
+      "ordinary": 10.99,
+      "business": 4.49,
+      "status": "submitted_pending_propagation",
+      "evidence": "073-restoration-submitted.txt"
+    }
+  ]
+}

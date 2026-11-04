@@ -1,0 +1,498 @@
+{
+  "asof": "2026-11-01T13:00:16.157526",
+  "scope": "16 approved v4 FBA promotional offers; inventory configuration and business tiers; buyer-side sale activation not certified",
+  "rows": [
+    {
+      "sku": "4A 305-Full Adhesive",
+      "asin": "B0FBG138ND",
+      "regular": 10.99,
+      "sale_configured": 10.44,
+      "business": 9.49,
+      "expected_tiers": [
+        [
+          2,
+          3
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          10,
+          8
+        ]
+      ],
+      "tiers_read": [],
+      "inventory_evidence": "v4-live-inventory-0.txt",
+      "tier_evidence": "previous dedicated acceptance",
+      "prices_match": true,
+      "tiers_match": null
+    },
+    {
+      "sku": "AAAA 4A 304-Full Glue",
+      "asin": "B07FK975YB",
+      "regular": 12.99,
+      "sale_configured": 11.04,
+      "business": 10.99,
+      "expected_tiers": [
+        [
+          2,
+          3
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          10,
+          8
+        ]
+      ],
+      "tiers_read": [
+        [
+          2,
+          3.0
+        ],
+        [
+          5,
+          5.0
+        ],
+        [
+          10,
+          8.0
+        ]
+      ],
+      "inventory_evidence": "v4-live-inventory-1.txt",
+      "tier_evidence": "v4-live-business-1.txt",
+      "prices_match": true,
+      "tiers_match": true
+    },
+    {
+      "sku": "4A 302-Full Adhesive-400",
+      "asin": "B0F2TKL2P5",
+      "regular": 17.99,
+      "sale_configured": 16.19,
+      "business": 15.99,
+      "expected_tiers": [
+        [
+          2,
+          3
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          10,
+          8
+        ]
+      ],
+      "tiers_read": [
+        [
+          2,
+          3.0
+        ],
+        [
+          5,
+          5.0
+        ],
+        [
+          10,
+          8.0
+        ]
+      ],
+      "inventory_evidence": "v4-live-inventory-2.txt",
+      "tier_evidence": "v4-live-business-2.txt",
+      "prices_match": true,
+      "tiers_match": true
+    },
+    {
+      "sku": "4A 305-Full Adhesive-300",
+      "asin": "B07QXJZKHC",
+      "regular": 21.99,
+      "sale_configured": 18.69,
+      "business": 18.49,
+      "expected_tiers": [
+        [
+          2,
+          3
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          10,
+          8
+        ]
+      ],
+      "tiers_read": [
+        [
+          2,
+          3.0
+        ],
+        [
+          5,
+          5.0
+        ],
+        [
+          10,
+          8.0
+        ]
+      ],
+      "inventory_evidence": "v4-live-inventory-3.txt",
+      "tier_evidence": "v4-live-business-3.txt",
+      "prices_match": true,
+      "tiers_match": true
+    },
+    {
+      "sku": "AAAA 4A 305-Full Glue",
+      "asin": "B07FK9BYHW",
+      "regular": 14.99,
+      "sale_configured": 12.74,
+      "business": 12.49,
+      "expected_tiers": [
+        [
+          2,
+          3
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          10,
+          8
+        ]
+      ],
+      "tiers_read": [
+        [
+          2,
+          3.0
+        ],
+        [
+          5,
+          5.0
+        ],
+        [
+          10,
+          8.0
+        ]
+      ],
+      "inventory_evidence": "v4-live-inventory-4.txt",
+      "tier_evidence": "v4-live-business-4.txt",
+      "prices_match": true,
+      "tiers_match": true
+    },
+    {
+      "sku": "4A PSS 9-3 2 Sets",
+      "asin": "B0DYNL5SMR",
+      "regular": 23.99,
+      "sale_configured": 20.39,
+      "business": 19.99,
+      "expected_tiers": [
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "tiers_read": [],
+      "inventory_evidence": "v4-live-inventory-5.txt",
+      "tier_evidence": "previous dedicated acceptance",
+      "prices_match": true,
+      "tiers_match": null
+    },
+    {
+      "sku": "4A 305 x 6",
+      "asin": "B01MSZM8IC",
+      "regular": 14.99,
+      "sale_configured": 12.74,
+      "business": 12.74,
+      "expected_tiers": [
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "tiers_read": [
+        [
+          3,
+          2.0
+        ],
+        [
+          5,
+          4.0
+        ]
+      ],
+      "inventory_evidence": "v4-live-inventory-6.txt",
+      "tier_evidence": "v4-live-business-6.txt",
+      "prices_match": true,
+      "tiers_match": true
+    },
+    {
+      "sku": "4A PSS 9-3 Refill",
+      "asin": "B0DY12Y8FK",
+      "regular": 25.99,
+      "sale_configured": 24.69,
+      "business": 24.69,
+      "expected_tiers": [
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "tiers_read": [
+        [
+          3,
+          2.0
+        ],
+        [
+          5,
+          4.0
+        ]
+      ],
+      "inventory_evidence": "v4-live-inventory-7.txt",
+      "tier_evidence": "v4-live-business-7.txt",
+      "prices_match": true,
+      "tiers_match": true
+    },
+    {
+      "sku": "4A MG30312",
+      "asin": "B01MU0JZHU",
+      "regular": 10.99,
+      "sale_configured": 9.34,
+      "business": 9.34,
+      "expected_tiers": [
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "tiers_read": [
+        [
+          3,
+          2.0
+        ],
+        [
+          5,
+          4.0
+        ]
+      ],
+      "inventory_evidence": "v4-live-inventory-8.txt",
+      "tier_evidence": "v4-live-business-8.txt",
+      "prices_match": true,
+      "tiers_match": true
+    },
+    {
+      "sku": "4A BP 2222-Nx4",
+      "asin": "B07RT4GTLZ",
+      "regular": 63.99,
+      "sale_configured": 54.39,
+      "business": 54.39,
+      "expected_tiers": [
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "tiers_read": [
+        [
+          3,
+          2.0
+        ],
+        [
+          5,
+          4.0
+        ]
+      ],
+      "inventory_evidence": "v4-live-inventory-9.txt",
+      "tier_evidence": "v4-live-business-9.txt",
+      "prices_match": true,
+      "tiers_match": true
+    },
+    {
+      "sku": "4A 305x6-N-Lx4",
+      "asin": "B0F28LXKKF",
+      "regular": 35.99,
+      "sale_configured": 30.59,
+      "business": 30.59,
+      "expected_tiers": [
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "tiers_read": [
+        [
+          3,
+          2.0
+        ],
+        [
+          5,
+          4.0
+        ]
+      ],
+      "inventory_evidence": "v4-live-inventory-10.txt",
+      "tier_evidence": "v4-live-business-10.txt",
+      "prices_match": true,
+      "tiers_match": true
+    },
+    {
+      "sku": "4A 30132",
+      "asin": "B07RQ7JMV9",
+      "regular": 12.99,
+      "sale_configured": 11.04,
+      "business": 11.04,
+      "expected_tiers": [
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "tiers_read": [
+        [
+          3,
+          2.0
+        ],
+        [
+          5,
+          4.0
+        ]
+      ],
+      "inventory_evidence": "v4-live-inventory-11.txt",
+      "tier_evidence": "v4-live-business-11.txt",
+      "prices_match": true,
+      "tiers_match": true
+    },
+    {
+      "sku": "4A 303M-PNx12*4",
+      "asin": "B07M855HVB",
+      "regular": 39.99,
+      "sale_configured": 33.99,
+      "business": 33.99,
+      "expected_tiers": [
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "tiers_read": [
+        [
+          3,
+          2.0
+        ],
+        [
+          5,
+          4.0
+        ]
+      ],
+      "inventory_evidence": "v4-live-inventory-12.txt",
+      "tier_evidence": "v4-live-business-12.txt",
+      "prices_match": true,
+      "tiers_match": true
+    },
+    {
+      "sku": "4A SC303M15-Popup",
+      "asin": "B07WDWY3B2",
+      "regular": 18.99,
+      "sale_configured": 16.14,
+      "business": 16.14,
+      "expected_tiers": [
+        [
+          2,
+          2
+        ]
+      ],
+      "tiers_read": [
+        [
+          2,
+          2.0
+        ]
+      ],
+      "inventory_evidence": "v4-live-inventory-13.txt",
+      "tier_evidence": "v4-live-business-13.txt",
+      "prices_match": true,
+      "tiers_match": true
+    },
+    {
+      "sku": "4A 0130",
+      "asin": "B0756ZY4F8",
+      "regular": 11.99,
+      "sale_configured": 10.19,
+      "business": 10.19,
+      "expected_tiers": [
+        [
+          2,
+          2
+        ]
+      ],
+      "tiers_read": [
+        [
+          2,
+          2.0
+        ]
+      ],
+      "inventory_evidence": "v4-live-inventory-14.txt",
+      "tier_evidence": "v4-live-business-14.txt",
+      "prices_match": true,
+      "tiers_match": true
+    },
+    {
+      "sku": "4A 30512-L",
+      "asin": "B07RQ7B9QR",
+      "regular": 23.99,
+      "sale_configured": 20.39,
+      "business": 20.39,
+      "expected_tiers": [
+        [
+          2,
+          2
+        ]
+      ],
+      "tiers_read": [
+        [
+          2,
+          2.0
+        ]
+      ],
+      "inventory_evidence": "v4-live-inventory-15.txt",
+      "tier_evidence": "v4-live-business-15.txt",
+      "prices_match": true,
+      "tiers_match": true
+    }
+  ],
+  "price_matches": 16,
+  "tier_matches_in_files": 14
+}

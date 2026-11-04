@@ -1,0 +1,755 @@
+## Latest page snapshot
+uid=1603_0 RootWebArea "编辑商品信息" url="https://sellercentral.amazon.com/interactive/listing/workflow/edit/offer?sku=4A+GM30315&asin=B07FKG29KB&productType=SELF_STICK_NOTE&marketplaceID=ATVPDKIKX0DER&isVariationParent=false&ref_=myp_unknown_target"
+  uid=1603_1 navigation
+    uid=1603_2 button "菜单" expandable
+    uid=1603_3 link "Amazon" url="https://sellercentral.amazon.com/amazonsell"
+    uid=1603_4 button "4A (USA) LIMITED 美国" expandable
+    uid=1603_5 button "账户状况"
+    uid=1603_6 textbox "搜索任何内容" haspopup="menu"
+    uid=1603_7 button "询问卖家助手" description="卖家助手"
+    uid=1603_8 link "新增内容" description="新鲜出巢" url="https://sellercentral.amazon.com/featurereleases"
+    uid=1603_9 link "消息" description="您可以在任意页面顶部的搜索和设置旁边找到买家消息，因此无需离开当前工作页面，即可轻松回复买家。" url="https://sellercentral.amazon.com/messaging/inbox-v3?fi=responseNeeded&&"
+    uid=1603_10 button "帮助" description="帮助" haspopup="menu"
+    uid=1603_11 button "设置" description="设置" haspopup="menu"
+  uid=1603_12 navigation
+    uid=1603_13 button disableable disabled
+    uid=1603_14 link "管理交易" url="https://sellercentral.amazon.com/manage/finance/transactions"
+      uid=1603_15 StaticText "管理交易"
+    uid=1603_16 link "卖家大学" url="https://sellercentral.amazon.com/su/learn"
+      uid=1603_17 StaticText "卖家大学"
+    uid=1603_18 link "管理商品" url="https://sellercentral.amazon.com/amazonsell/manage-products"
+      uid=1603_19 StaticText "管理商品"
+    uid=1603_20 link "广告控制台" url="https://sellercentral.amazon.com/cm?source=ngs"
+      uid=1603_21 StaticText "广告控制台"
+    uid=1603_22 link "管理货件" url="https://sellercentral.amazon.com/manage/shipments"
+      uid=1603_23 StaticText "管理货件"
+    uid=1603_24 link "商品商机探测器" url="https://sellercentral.amazon.com/new-product-guidance"
+      uid=1603_25 StaticText "商品商机探测器"
+    uid=1603_26 link "品牌分析" url="https://sellercentral.amazon.com/brand-analytics"
+      uid=1603_27 StaticText "品牌分析"
+    uid=1603_28 link "A+ 商品描述管理器" url="https://sellercentral.amazon.com/enhanced-content/ref=xx_ebc_favb_xx"
+      uid=1603_29 StaticText "A+ 商品描述管理器"
+    uid=1603_30 link "业务报告" url="https://sellercentral.amazon.com/business-reports#/dashboard"
+      uid=1603_31 StaticText "业务报告"
+    uid=1603_32 link "亚马逊物流库存报告" url="https://sellercentral.amazon.com/reportcentral/WelcomePage"
+      uid=1603_33 StaticText "亚马逊物流库存报告"
+    uid=1603_34 link "商品报告" url="https://sellercentral.amazon.com/listing/reports"
+      uid=1603_35 StaticText "商品报告"
+    uid=1603_36 link "绩效通知" url="https://sellercentral.amazon.com/performance/notifications"
+      uid=1603_37 StaticText "绩效通知"
+    uid=1603_38 link "管理账户状况" url="https://sellercentral.amazon.com/performance/dashboard"
+      uid=1603_39 StaticText "管理账户状况"
+    uid=1603_40 button
+  uid=1603_41 button "✕"
+  uid=1603_42 heading "编辑商品信息" level="2"
+  uid=1603_43 StaticText "SKU：4A GM30315"
+  uid=1603_44 StaticText "4A 15 Pads Sticky Notes 3 x 3 in, Assorted Colors, Colorful Stick Notes Self-Stick Note Pads for Office, Home, School Supplies, 100 Sheets/Pad, 1500 Sheets Total, 4A 30315"
+  uid=1603_45 StaticText "ASIN: B07FKG29KB"
+  uid=1603_46 StaticText "品牌代表"
+  uid=1603_47 generic live="polite" relevant="additions text"
+  uid=1603_48 StaticText "产品识别"
+  uid=1603_49 StaticText "产品识别"
+  uid=1603_50 StaticText "无编辑"
+  uid=1603_51 StaticText "无编辑"
+  uid=1603_52 StaticText "描述"
+  uid=1603_53 StaticText "描述"
+  uid=1603_54 StaticText "无编辑"
+  uid=1603_55 StaticText "无编辑"
+  uid=1603_56 StaticText "产品详情"
+  uid=1603_57 StaticText "产品详情"
+  uid=1603_58 StaticText "无编辑"
+  uid=1603_59 StaticText "无编辑"
+  uid=1603_60 StaticText "报价"
+  uid=1603_61 StaticText "报价"
+  uid=1603_62 StaticText "3"
+  uid=1615_0 StaticText "3"
+  uid=1615_1 StaticText "个错误"
+  uid=1615_2 StaticText "个错误"
+  uid=1603_64 StaticText "安全与合规"
+  uid=1603_65 StaticText "安全与合规"
+  uid=1603_66 StaticText "无编辑"
+  uid=1603_67 StaticText "无编辑"
+  uid=1603_68 StaticText "商品信息质量："
+  uid=1603_69 StaticText "良好"
+  uid=1603_70 StaticText "查看 AI 建议"
+  uid=1603_71 button "查看"
+    uid=1603_72 generic
+  uid=1603_73 button "商品信息采用的语言：English"
+    uid=1603_74 generic
+  uid=1603_75 button "提交"
+    uid=1603_76 generic
+  uid=1603_77 button "取消"
+    uid=1603_78 generic
+  uid=1603_79 StaticText "添加商品价格和库存"
+  uid=1603_80 generic
+    uid=1603_81 StaticText "全部"
+  uid=1603_82 button "筛选属性: 全部"
+    uid=1603_83 generic
+  uid=1603_84 StaticText "在其他商城销售"
+  uid=1603_85 StaticText "在其他商城销售"
+  uid=1603_86 StaticText "您可以在其他商城中销售此商品。 请为每个商城提供商品价格和数量。 如果商品详情页面尚不存在，亚马逊将尝试自动翻译您当地商城中的内容，翻译服务免费。 之后，您可以修改翻译的内容。 全球商城将使用相同的 SKU 及商品状况。"
+  uid=1603_87 StaticText "您可以在其他商城中销售此商品。 请为每个商城提供商品价格和数量。 如果商品详情页面尚不存在，亚马逊将尝试自动翻译您当地商城中的内容，翻译服务免费。 之后，您可以修改翻译的内容。 全球商城将使用相同的 SKU 及商品状况。"
+  uid=1603_88 link "了解更多信息" url="https://sellercentral.amazon.com/gp/help/201062890"
+    uid=1603_89 StaticText "了解更多信息"
+  uid=1603_90 checkbox "undefined" checked
+  uid=1603_91 StaticText "来源商城报价"
+  uid=1603_92 StaticText "来源商城报价"
+  uid=1603_93 StaticText "美国"
+  uid=1603_94 StaticText "美国"
+  uid=1603_95 StaticText "在售"
+  uid=1603_96 StaticText "|"
+  uid=1603_97 button "编辑"
+    uid=1603_98 generic
+  uid=1615_3 StaticText "3 个错误"
+  uid=1603_105 StaticText "美洲"
+  uid=1603_106 StaticText "美洲"
+  uid=1603_107 generic live="polite" relevant="additions text"
+  uid=1603_108 StaticText "美国"
+  uid=1603_109 StaticText "美国"
+  uid=1603_110 StaticText "请在表单顶部编辑来源商城报价。"
+  uid=1603_111 StaticText "请在表单顶部编辑来源商城报价。"
+  uid=1603_112 StaticText "墨西哥"
+  uid=1603_113 StaticText "墨西哥"
+  uid=1603_114 button "添加新商品"
+    uid=1603_115 generic
+  uid=1603_116 StaticText "此商城中没有 ASIN。"
+  uid=1603_117 StaticText "加拿大"
+  uid=1603_118 StaticText "加拿大"
+  uid=1603_119 button "Request Approval via Seller Central."
+    uid=1603_120 generic
+  uid=1603_121 StaticText "您需要获得批准，才能发布此品牌的商品。"
+  uid=1603_122 StaticText "巴西"
+  uid=1603_123 StaticText "巴西"
+  uid=1603_124 button "添加新商品"
+    uid=1603_125 generic
+  uid=1603_126 StaticText "此商城中没有 ASIN。"
+  uid=1603_127 StaticText "欧洲"
+  uid=1603_128 StaticText "欧洲"
+  uid=1603_129 generic live="polite" relevant="additions text"
+  uid=1603_130 StaticText "法国"
+  uid=1603_131 StaticText "法国"
+  uid=1603_132 button "添加新商品"
+    uid=1603_133 generic
+  uid=1603_134 StaticText "此商城中没有 ASIN。"
+  uid=1603_135 StaticText "英国"
+  uid=1603_136 StaticText "英国"
+  uid=1603_137 button "添加新商品"
+    uid=1603_138 generic
+  uid=1603_139 StaticText "此商城中没有 ASIN。"
+  uid=1603_140 StaticText "德国"
+  uid=1603_141 StaticText "德国"
+  uid=1603_142 button "Request Approval via Seller Central."
+    uid=1603_143 generic
+  uid=1603_144 StaticText "您需要获得批准，才能发布此品牌的商品。"
+  uid=1603_145 StaticText "西班牙"
+  uid=1603_146 StaticText "西班牙"
+  uid=1603_147 button "添加新商品"
+    uid=1603_148 generic
+  uid=1603_149 StaticText "此商城中没有 ASIN。"
+  uid=1603_150 StaticText "意大利"
+  uid=1603_151 StaticText "意大利"
+  uid=1603_152 button "添加新商品"
+    uid=1603_153 generic
+  uid=1603_154 StaticText "此商城中没有 ASIN。"
+  uid=1603_155 StaticText "日本"
+  uid=1603_156 StaticText "日本"
+  uid=1603_157 generic live="polite" relevant="additions text"
+  uid=1603_158 StaticText "日本"
+  uid=1603_159 StaticText "日本"
+  uid=1603_160 button "添加新商品"
+    uid=1603_161 generic
+  uid=1603_162 StaticText "此商城中没有 ASIN。"
+  uid=1617_0 dialog "panel" live="polite" relevant="additions text"
+    uid=1617_1 StaticText "美国"
+    uid=1617_2 StaticText "美国"
+    uid=1617_3 button "close"
+    uid=1617_4 generic
+      uid=1617_5 StaticText "全部"
+    uid=1617_6 StaticText "筛选属性: 全部"
+    uid=1617_7 StaticText "SKU"
+    uid=1617_8 StaticText "SKU"
+    uid=1617_9 generic live="polite" relevant="additions text"
+    uid=1617_10 generic live="polite" relevant="additions text"
+    uid=1617_11 textbox "SKU" disableable disabled value="4A GM30315"
+    uid=1617_12 StaticText "配送渠道代码"
+    uid=1617_13 StaticText "配送渠道代码"
+    uid=1617_14 generic live="polite" relevant="additions text"
+    uid=1617_15 generic live="polite" relevant="additions text"
+    uid=1617_16 radio "我希望通过亚马逊配送（亚马逊物流）配送我的商品，并在商品售出后由亚马逊提供客户服务。" disableable disabled
+    uid=1617_17 StaticText "我希望通过亚马逊配送（亚马逊物流）配送我的商品，并在商品售出后由亚马逊提供客户服务。"
+    uid=1617_18 StaticText "我希望通过亚马逊配送（亚马逊物流）配送我的商品，并在商品售出后由亚马逊提供客户服务。"
+    uid=1617_19 StaticText "（亚马逊配送）"
+    uid=1617_20 StaticText "（亚马逊配送）"
+    uid=1617_21 radio "我想自行配送此商品，或者在其售出后使用亚马逊 Easy Ship。" checked disableable disabled
+    uid=1617_22 StaticText "我想自行配送此商品，或者在其售出后使用亚马逊 Easy Ship。"
+    uid=1617_23 StaticText "我想自行配送此商品，或者在其售出后使用亚马逊 Easy Ship。"
+    uid=1617_24 StaticText "（卖家自配送）"
+    uid=1617_25 StaticText "（卖家自配送）"
+    uid=1617_26 StaticText "数量"
+    uid=1617_27 StaticText "数量"
+    uid=1617_28 generic live="polite" relevant="additions text"
+    uid=1617_29 spinbutton "数量" value="1054" valuemax="0" valuemin="0" valuetext="1054"
+    uid=1617_30 StaticText "处理时间"
+    uid=1617_31 StaticText "处理时间"
+    uid=1617_32 generic live="polite" relevant="additions text"
+    uid=1617_33 spinbutton "处理时间" valuemax="120" valuemin="0" valuetext=""
+    uid=1617_34 StaticText "重新库存日期"
+    uid=1617_35 StaticText "重新库存日期"
+    uid=1617_36 generic live="polite" relevant="additions text"
+    uid=1617_37 button "Calendar" expandable
+    uid=1617_38 textbox "重新库存日期"
+    uid=1617_39 StaticText "最低广告价格"
+    uid=1617_40 StaticText "最低广告价格"
+    uid=1617_41 generic live="polite" relevant="additions text"
+    uid=1617_42 StaticText "USD$"
+    uid=1617_43 StaticText "USD$"
+    uid=1617_44 textbox "最低广告价格"
+    uid=1603_96 StaticText "*"
+    uid=1617_45 StaticText "您的价格"
+    uid=1617_46 StaticText "您的价格"
+    uid=1617_47 generic live="polite" relevant="additions text"
+    uid=1617_48 StaticText "USD$"
+    uid=1617_49 StaticText "USD$"
+    uid=1617_50 textbox "您的价格" value="12.99"
+    uid=1617_52 StaticText "最低价"
+    uid=1617_53 StaticText "最低价"
+    uid=1617_54 StaticText "卖方允许的最低价格"
+    uid=1617_55 StaticText "卖方允许的最低价格"
+    uid=1617_56 generic live="polite" relevant="additions text"
+    uid=1617_57 StaticText "USD$"
+    uid=1617_58 StaticText "USD$"
+    uid=1617_59 textbox "卖方允许的最低价格" value="11.49"
+    uid=1617_60 StaticText "卖方允许的最高价格"
+    uid=1617_61 StaticText "卖方允许的最高价格"
+    uid=1617_62 generic live="polite" relevant="additions text"
+    uid=1617_63 StaticText "USD$"
+    uid=1617_64 StaticText "USD$"
+    uid=1617_65 textbox "卖方允许的最高价格"
+    uid=1603_96 StaticText "*"
+    uid=1617_66 StaticText "销售截止日期"
+    uid=1617_67 StaticText "销售截止日期"
+    uid=1617_68 generic live="polite" relevant="additions text"
+    uid=1617_69 button "Calendar" expandable
+    uid=1617_70 textbox "销售截止日期" value="2026-11-09"
+    uid=1603_96 StaticText "*"
+    uid=1617_71 StaticText "销售开始日期"
+    uid=1617_72 StaticText "销售开始日期"
+    uid=1617_73 generic live="polite" relevant="additions text"
+    uid=1617_74 button "Calendar" expandable
+    uid=1617_75 textbox "销售开始日期" value="2026-11-03"
+    uid=1617_76 StaticText "销售价格"
+    uid=1617_77 StaticText "销售价格"
+    uid=1617_78 generic live="polite" relevant="additions text"
+    uid=1617_79 StaticText "USD$"
+    uid=1617_80 StaticText "USD$"
+    uid=1617_81 textbox "销售价格" value="11.99"
+    uid=1617_82 StaticText "提供发布日期"
+    uid=1617_83 StaticText "提供发布日期"
+    uid=1617_84 generic live="polite" relevant="additions text"
+    uid=1617_85 button "Calendar" expandable
+    uid=1617_86 textbox "提供发布日期" value="2019-01-03"
+    uid=1617_87 StaticText "商品状况"
+    uid=1617_88 StaticText "商品状况"
+    uid=1617_89 generic live="polite" relevant="additions text"
+    uid=1617_90 generic live="polite" relevant="additions text"
+    uid=1617_91 StaticText "New"
+    uid=1603_96 StaticText "*"
+    uid=1617_92 StaticText "不含税价目表"
+    uid=1617_93 StaticText "不含税价目表"
+    uid=1617_94 generic live="polite" relevant="additions text"
+    uid=1617_95 StaticText "15.99"
+    uid=1617_96 StaticText "USD$"
+    uid=1617_97 StaticText "USD$"
+    uid=1617_98 textbox "不含税价目表" value="12.99"
+    uid=1617_99 StaticText "产品税码"
+    uid=1617_100 StaticText "产品税码"
+    uid=1617_101 generic live="polite" relevant="additions text"
+    uid=1617_102 textbox "产品税码" focusable focused
+    uid=1621_0 generic
+      uid=1621_1 generic
+        uid=1621_2 StaticText "A1_ANIMAL14"
+      uid=1621_3 generic
+        uid=1621_4 StaticText "A1_TOOLS1"
+      uid=1621_5 generic
+        uid=1621_6 StaticText "A3_SERV73"
+      uid=1621_7 generic
+        uid=1621_8 StaticText "A3_SERV74"
+      uid=1621_9 generic
+        uid=1621_10 StaticText "A3_SERV_AP1"
+      uid=1621_11 generic
+        uid=1621_12 StaticText "A3_SERV_AP2"
+      uid=1621_13 generic
+        uid=1621_14 StaticText "A3_SERV_HCP1"
+      uid=1621_15 generic
+        uid=1621_16 StaticText "A_AUTOMOTIVE_MOTOROIL"
+      uid=1621_17 generic
+        uid=1621_18 StaticText "A_BABY_BRSTPUMP"
+      uid=1621_19 generic
+        uid=1621_20 StaticText "A_BABY_CARSEAT"
+      uid=1621_21 generic
+        uid=1621_22 StaticText "A_BABY_CLOTH"
+      uid=1621_23 generic
+        uid=1621_24 StaticText "A_BABY_DIAPER"
+      uid=1621_25 generic
+        uid=1621_26 StaticText "A_BOOKS_GEN"
+      uid=1621_27 generic
+        uid=1621_28 StaticText "A_BOOKS_RELIG"
+      uid=1621_29 generic
+        uid=1621_30 StaticText "A_BOOKS_RENTAL"
+      uid=1621_31 generic
+        uid=1621_32 StaticText "A_BUNDLE_PERDCL"
+      uid=1621_33 generic
+        uid=1621_34 StaticText "A_CLSFD_52W-4Q"
+      uid=1621_35 generic
+        uid=1621_36 StaticText "A_CLSFD_52WKLY"
+      uid=1621_37 generic
+        uid=1621_38 StaticText "A_CLSFD_ANNUAL"
+      uid=1621_39 generic
+        uid=1621_40 StaticText "A_CLSFD_SEMIANNL"
+      uid=1621_41 generic
+        uid=1621_42 StaticText "A_CLTH_ATHL"
+      uid=1621_43 generic
+        uid=1621_44 StaticText "A_CLTH_BATH"
+      uid=1621_45 generic
+        uid=1621_46 StaticText "A_CLTH_BOOKBAG"
+      uid=1621_47 generic
+        uid=1621_48 StaticText "A_CLTH_BUCKLS"
+      uid=1621_49 generic
+        uid=1621_50 StaticText "A_CLTH_COMPON"
+      uid=1621_51 generic
+        uid=1621_52 StaticText "A_CLTH_CSTUMS"
+      uid=1621_53 generic
+        uid=1621_54 StaticText "A_CLTH_FORMAL"
+      uid=1621_55 generic
+        uid=1621_56 StaticText "A_CLTH_FUR"
+      uid=1621_57 generic
+        uid=1621_58 StaticText "A_CLTH_GEN"
+      uid=1621_59 generic
+        uid=1621_60 StaticText "A_CLTH_HAIRACCESSORIES"
+      uid=1621_61 generic
+        uid=1621_62 StaticText "A_CLTH_HANDKE"
+      uid=1621_63 generic
+        uid=1621_64 StaticText "A_CLTH_HBAGS"
+      uid=1621_65 generic
+        uid=1621_66 StaticText "A_CLTH_IFUR"
+      uid=1621_67 generic
+        uid=1621_68 StaticText "A_CLTH_PROTECTIVE"
+      uid=1621_69 generic
+        uid=1621_70 StaticText "A_CLTH_UMBRELLA"
+      uid=1621_71 generic
+        uid=1621_72 StaticText "A_COLLECTIBLE_COIN"
+      uid=1621_73 generic
+        uid=1621_74 StaticText "A_COMP_COMPUTER"
+      uid=1621_75 generic
+        uid=1621_76 StaticText "A_COMP_EDUSOFT"
+      uid=1621_77 generic
+        uid=1621_78 StaticText "A_COMP_EREADER"
+      uid=1621_79 generic
+        uid=1621_80 StaticText "A_COMP_GAMPER"
+      uid=1621_81 generic
+        uid=1621_82 StaticText "A_COMP_PDA"
+      uid=1621_83 generic
+        uid=1621_84 StaticText "A_COMP_PERIPH"
+      uid=1621_85 generic
+        uid=1621_86 StaticText "A_COMP_PRINT"
+      uid=1621_87 generic
+        uid=1621_88 StaticText "A_COMP_PRTSUP"
+      uid=1621_89 generic
+        uid=1621_90 StaticText "A_COMP_SCANNER"
+      uid=1621_91 generic
+        uid=1621_92 StaticText "A_COMP_SOFTOP"
+      uid=1621_93 generic
+        uid=1621_94 StaticText "A_COMP_SOFTRC"
+      uid=1621_95 generic
+        uid=1621_96 StaticText "A_COMP_SOUNDANDVIDEOCARDS"
+      uid=1621_97 generic
+        uid=1621_98 StaticText "A_COMP_STORAGEMEDIA"
+      uid=1621_99 generic
+        uid=1621_100 StaticText "A_EGOODS_DIGITALAUDIOBOOKS"
+      uid=1621_101 generic
+        uid=1621_102 StaticText "A_EGOODS_DIGITALBOOKS"
+      uid=1621_103 generic
+        uid=1621_104 StaticText "A_EGOODS_DIGITALBOOK_RENTAL"
+      uid=1621_105 generic
+        uid=1621_106 StaticText "A_EGOODS_DIGITALGAMES"
+      uid=1621_107 generic
+        uid=1621_108 StaticText "A_EGOODS_DIGITALMUSIC"
+      uid=1621_109 generic
+        uid=1621_110 StaticText "A_EGOODS_DIGITALNEWS"
+      uid=1621_111 generic
+        uid=1621_112 StaticText "A_EGOODS_DIGITALNEWSSUBS"
+      uid=1621_113 generic
+        uid=1621_114 StaticText "A_EGOODS_DIGITALPERDCL"
+      uid=1621_115 generic
+        uid=1621_116 StaticText "A_EGOODS_DIGITALPERDCLSUBS"
+      uid=1621_117 generic
+        uid=1621_118 StaticText "A_EGOODS_MISC1"
+      uid=1621_119 generic
+        uid=1621_120 StaticText "A_EGOODS_ONLINEGAMINGSUBS"
+      uid=1621_121 generic
+        uid=1621_122 StaticText "A_EGOODS_SOFT"
+      uid=1621_123 generic
+        uid=1621_124 StaticText "A_EMERGENCY_SUPPLIES"
+      uid=1621_125 generic
+        uid=1621_126 StaticText "A_FOOD_BKTCDY50-90"
+      uid=1621_127 generic
+        uid=1621_128 StaticText "A_FOOD_BKTGN50-75"
+      uid=1621_129 generic
+        uid=1621_130 StaticText "A_FOOD_BKTGN76-90"
+      uid=1621_131 generic
+        uid=1621_132 StaticText "A_FOOD_CARBFLAVORWTR_NONSWEET"
+      uid=1621_133 generic
+        uid=1621_134 StaticText "A_FOOD_CARBSFTDK"
+      uid=1621_135 generic
+        uid=1621_136 StaticText "A_FOOD_CARBWTR"
+      uid=1621_137 generic
+        uid=1621_138 StaticText "A_FOOD_CNDY"
+      uid=1621_139 generic
+        uid=1621_140 StaticText "A_FOOD_CNDYFL"
+      uid=1621_141 generic
+        uid=1621_142 StaticText "A_FOOD_FLAVORWATER_NONSWEET"
+      uid=1621_143 generic
+        uid=1621_144 StaticText "A_FOOD_GEN"
+      uid=1621_145 generic
+        uid=1621_146 StaticText "A_FOOD_JUICE0-50"
+      uid=1621_147 generic
+        uid=1621_148 StaticText "A_FOOD_JUICE51-99"
+      uid=1621_149 generic
+        uid=1621_150 StaticText "A_FOOD_NCARBWTR"
+      uid=1621_151 generic
+        uid=1621_152 StaticText "A_FOOD_PETFOOD"
+      uid=1621_153 generic
+        uid=1621_154 StaticText "A_FOOD_WINE"
+      uid=1621_155 generic
+        uid=1621_156 StaticText "A_GEN_NOTAX"
+      uid=1621_157 generic
+        uid=1621_158 StaticText "A_GEN_RENTAL"
+      uid=1621_159 generic
+        uid=1621_160 StaticText "A_GEN_TAX"
+      uid=1621_161 generic
+        uid=1621_162 StaticText "A_HLTH_BABYSUPPLS"
+      uid=1621_163 generic
+        uid=1621_164 StaticText "A_HLTH_BANDKIT"
+      uid=1621_165 generic
+        uid=1621_166 StaticText "A_HLTH_BRAILLE"
+      uid=1621_167 generic
+        uid=1621_168 StaticText "A_HLTH_CONTACTSOLN"
+      uid=1621_169 generic
+        uid=1621_170 StaticText "A_HLTH_CONTRCEPV"
+      uid=1621_171 generic
+        uid=1621_172 StaticText "A_HLTH_COSMETIC"
+      uid=1621_173 generic
+        uid=1621_174 StaticText "A_HLTH_DIABSUPPLS"
+      uid=1621_175 generic
+        uid=1621_176 StaticText "A_HLTH_DIETSUPMT"
+      uid=1621_177 generic
+        uid=1621_178 StaticText "A_HLTH_DISPOSABLE_PACK"
+      uid=1621_179 generic
+        uid=1621_180 StaticText "A_HLTH_FACIALTISSUE"
+      uid=1621_181 generic
+        uid=1621_182 StaticText "A_HLTH_FAMPLANTEST"
+      uid=1621_183 generic
+        uid=1621_184 StaticText "A_HLTH_FEMHYG"
+      uid=1621_185 generic
+        uid=1621_186 StaticText "A_HLTH_FEMHYGSPRAY"
+      uid=1621_187 generic
+        uid=1621_188 StaticText "A_HLTH_HANDSANITIZER"
+      uid=1621_189 generic
+        uid=1621_190 StaticText "A_HLTH_HEARINGAID_BATT"
+      uid=1621_191 generic
+        uid=1621_192 StaticText "A_HLTH_INCONT"
+      uid=1621_193 generic
+        uid=1621_194 StaticText "A_HLTH_INCONTPADS"
+      uid=1621_195 generic
+        uid=1621_196 StaticText "A_HLTH_INCONTPADS_DISP"
+      uid=1621_197 generic
+        uid=1621_198 StaticText "A_HLTH_MEDHAIRLOSS"
+      uid=1621_199 generic
+        uid=1621_200 StaticText "A_HLTH_MISCDURABLEMED"
+      uid=1621_201 generic
+        uid=1621_202 StaticText "A_HLTH_MISCMOBILITY1"
+      uid=1621_203 generic
+        uid=1621_204 StaticText "A_HLTH_MISCMOBILITY2"
+      uid=1621_205 generic
+        uid=1621_206 StaticText "A_HLTH_MOBILITY"
+      uid=1621_207 generic
+        uid=1621_208 StaticText "A_HLTH_MONITOR"
+      uid=1621_209 generic
+        uid=1621_210 StaticText "A_HLTH_NASALSTRIP"
+      uid=1621_211 generic
+        uid=1621_212 StaticText "A_HLTH_OTCMED"
+      uid=1621_213 generic
+        uid=1621_214 StaticText "A_HLTH_PROSTHETIC"
+      uid=1621_215 generic
+        uid=1621_216 StaticText "A_HLTH_REMEDY"
+      uid=1621_217 generic
+        uid=1621_218 StaticText "A_HLTH_SPFCORALHYG"
+      uid=1621_219 generic
+        uid=1621_220 StaticText "A_HLTH_SPFCOTCMED"
+      uid=1621_221 generic
+        uid=1621_222 StaticText "A_HLTH_SUNSCRN"
+      uid=1621_223 generic
+        uid=1621_224 StaticText "A_HLTH_TENS"
+      uid=1621_225 generic
+        uid=1621_226 StaticText "A_HLTH_THRMTR"
+      uid=1621_227 generic
+        uid=1621_228 StaticText "A_HLTH_TISSUETOW"
+      uid=1621_229 generic
+        uid=1621_230 StaticText "A_HLTH_TOOTHPASTEFL"
+      uid=1621_231 generic
+        uid=1621_232 StaticText "A_HOUSEHOLD_LINEN"
+      uid=1621_233 generic
+        uid=1621_234 StaticText "A_HOUSEHOLD_PAPERPRODS"
+      uid=1621_235 generic
+        uid=1621_236 StaticText "A_HOUSEHOLD_SOLAR"
+      uid=1621_237 generic
+        uid=1621_238 StaticText "A_NEWS_104PLUS"
+      uid=1621_239 generic
+        uid=1621_240 StaticText "A_NEWS_12MTHLY"
+      uid=1621_241 generic
+        uid=1621_242 StaticText "A_NEWS_26BIWKLY"
+      uid=1621_243 generic
+        uid=1621_244 StaticText "A_NEWS_4QTLY"
+      uid=1621_245 generic
+        uid=1621_246 StaticText "A_NEWS_52WKLY"
+      uid=1621_247 generic
+        uid=1621_248 StaticText "A_ORDER_FEE12"
+      uid=1621_249 generic
+        uid=1621_250 StaticText "A_ORDER_FEE13"
+      uid=1621_251 generic
+        uid=1621_252 StaticText "A_ORDER_FEE15"
+      uid=1621_253 generic
+        uid=1621_254 StaticText "A_PERDCL_104PLUS"
+      uid=1621_255 generic
+        uid=1621_256 StaticText "A_PERDCL_52W-4Q"
+      uid=1621_257 generic
+        uid=1621_258 StaticText "A_PERDCL_52WKLY"
+      uid=1621_259 generic
+        uid=1621_260 StaticText "A_PERDCL_ANNUAL"
+      uid=1621_261 generic
+        uid=1621_262 StaticText "A_PERDCL_SEMIANNL"
+      uid=1621_263 generic
+        uid=1621_264 StaticText "A_REST_COLDPREPARED"
+      uid=1621_265 generic
+        uid=1621_266 StaticText "A_REST_DELIVERY"
+      uid=1621_267 generic
+        uid=1621_268 StaticText "A_REST_HOTPREPARED"
+      uid=1621_269 generic
+        uid=1621_270 StaticText "A_SCHL_GRAPHCALC"
+      uid=1621_271 generic
+        uid=1621_272 StaticText "A_SCHL_INSTRUMENT"
+      uid=1621_273 generic
+        uid=1621_274 StaticText "A_SCHL_SUPPLS"
+      uid=1621_275 generic
+        uid=1621_276 StaticText "A_SERV_CLEAN"
+      uid=1621_277 generic
+        uid=1621_278 StaticText "A_SERV_INSTALL"
+      uid=1621_279 generic
+        uid=1621_280 StaticText "A_SPORT_ASUPPORT"
+      uid=1621_281 generic
+        uid=1621_282 StaticText "A_SPORT_ATHLSHOES"
+      uid=1621_283 generic
+        uid=1621_284 StaticText "A_SPORT_BIKEHLMT"
+      uid=1621_285 generic
+        uid=1621_286 StaticText "A_SPORT_MISCSPORTS1"
+      uid=1621_287 generic
+        uid=1621_288 StaticText "A_SPORT_PROTECTIVEGEAR"
+      uid=1621_289 generic
+        uid=1621_290 StaticText "A_SPORT_SKISUIT"
+      uid=1621_291 generic
+        uid=1621_292 StaticText "A_SPORT_WINTERSPORTBOOTS"
+      uid=1621_293 generic
+        uid=1621_294 StaticText "A_WARR_PARTSNSVCE"
+    uid=1617_103 StaticText "发售日期"
+    uid=1617_104 StaticText "发售日期"
+    uid=1617_105 generic live="polite" relevant="additions text"
+    uid=1617_106 button "Calendar" expandable
+    uid=1617_107 textbox "发售日期"
+    uid=1617_108 StaticText "配送模板"
+    uid=1617_109 StaticText "配送模板"
+    uid=1617_110 generic live="polite" relevant="additions text"
+    uid=1617_111 generic
+      uid=1617_112 StaticText "Cube delivery"
+      uid=1617_113 button "清除"
+    uid=1617_114 StaticText "最大订单数量"
+    uid=1617_115 StaticText "最大订单数量"
+    uid=1617_116 generic live="polite" relevant="additions text"
+    uid=1617_117 spinbutton "最大订单数量" valuemax="0" valuemin="1" valuetext=""
+    uid=1617_118 StaticText "礼品选项"
+    uid=1617_119 StaticText "礼品选项"
+    uid=1617_120 generic live="polite" relevant="additions text"
+    uid=1617_121 StaticText "可以提供礼品信息"
+    uid=1617_122 StaticText "可以提供礼品信息"
+    uid=1617_123 generic live="polite" relevant="additions text"
+    uid=1617_124 radio "是"
+    uid=1617_125 StaticText "是"
+    uid=1617_126 StaticText "是"
+    uid=1617_127 radio "否" checked
+    uid=1617_128 StaticText "否"
+    uid=1617_129 StaticText "否"
+    uid=1617_130 StaticText "表示礼品包装可用"
+    uid=1617_131 StaticText "表示礼品包装可用"
+    uid=1617_132 generic live="polite" relevant="additions text"
+    uid=1617_133 radio "是"
+    uid=1617_134 StaticText "是"
+    uid=1617_135 StaticText "是"
+    uid=1617_136 radio "否" checked
+    uid=1617_137 StaticText "否"
+    uid=1617_138 StaticText "否"
+    uid=1617_139 StaticText "最低广告价"
+    uid=1617_140 StaticText "最低广告价"
+    uid=1617_141 generic live="polite" relevant="additions text"
+    uid=1617_142 StaticText "USD$"
+    uid=1617_143 StaticText "USD$"
+    uid=1617_144 textbox "最低广告价"
+    uid=1617_145 StaticText "补充状况信息"
+    uid=1617_146 StaticText "补充状况信息"
+    uid=1617_147 generic live="polite" relevant="additions text"
+    uid=1617_148 StaticText "配件"
+    uid=1617_149 StaticText "配件"
+    uid=1617_150 generic live="polite" relevant="additions text"
+    uid=1617_151 generic
+      uid=1617_152 StaticText "示例： Generic"
+    uid=1617_153 StaticText "电池电量百分比"
+    uid=1617_154 StaticText "电池电量百分比"
+    uid=1617_155 generic live="polite" relevant="additions text"
+    uid=1617_156 generic
+      uid=1617_157 StaticText "示例： >90%"
+    uid=1617_158 StaticText "化妆品"
+    uid=1617_159 StaticText "化妆品"
+    uid=1617_160 generic live="polite" relevant="additions text"
+    uid=1617_161 generic
+      uid=1617_162 StaticText "示例： No Sign of Use"
+    uid=1617_163 StaticText "功能"
+    uid=1617_164 StaticText "功能"
+    uid=1617_165 generic live="polite" relevant="additions text"
+    uid=1617_166 generic
+      uid=1617_167 StaticText "示例： Green Refurbishment"
+    uid=1617_168 link "添加更多" url="javascript:void(0);"
+      uid=1617_169 StaticText "添加更多"
+    uid=1617_170 StaticText "功能状况"
+    uid=1617_171 StaticText "功能状况"
+    uid=1617_172 generic live="polite" relevant="additions text"
+    uid=1617_173 generic
+      uid=1617_174 StaticText "示例： Fully Functional"
+    uid=1617_175 StaticText "包装"
+    uid=1617_176 StaticText "包装"
+    uid=1617_177 generic live="polite" relevant="additions text"
+    uid=1617_178 generic
+      uid=1617_179 StaticText "示例： OEM Original"
+    uid=1617_180 StaticText "翻新等级"
+    uid=1617_181 StaticText "翻新等级"
+    uid=1617_182 generic live="polite" relevant="additions text"
+    uid=1617_183 generic
+      uid=1617_184 StaticText "示例： Renewed - Excellent"
+    uid=1617_185 StaticText "来源类型"
+    uid=1617_186 StaticText "来源类型"
+    uid=1617_187 generic live="polite" relevant="additions text"
+    uid=1617_188 generic
+      uid=1617_189 StaticText "示例： Returned Never Used"
+    uid=1617_190 StaticText "产品尺寸"
+    uid=1617_191 StaticText "产品尺寸"
+    uid=1617_192 generic live="polite" relevant="additions text"
+    uid=1617_193 StaticText "商品高度单位"
+    uid=1617_194 StaticText "商品高度单位"
+    uid=1617_195 generic live="polite" relevant="additions text"
+    uid=1617_196 StaticText "Inches"
+    uid=1617_197 generic
+      uid=1617_198 StaticText "示例： Inches"
+    uid=1617_199 StaticText "商品高度"
+    uid=1617_200 StaticText "商品高度"
+    uid=1617_201 generic live="polite" relevant="additions text"
+    uid=1617_202 StaticText "3.07"
+    uid=1617_203 spinbutton "商品高度" valuemax="0" valuemin="0" valuetext=""
+    uid=1617_204 StaticText "商品长度单位"
+    uid=1617_205 StaticText "商品长度单位"
+    uid=1617_206 generic live="polite" relevant="additions text"
+    uid=1617_207 StaticText "Inches"
+    uid=1617_208 generic
+      uid=1617_209 StaticText "示例： Inches"
+    uid=1617_210 StaticText "商品长度"
+    uid=1617_211 StaticText "商品长度"
+    uid=1617_212 generic live="polite" relevant="additions text"
+    uid=1617_213 StaticText "6.38"
+    uid=1617_214 spinbutton "商品长度" valuemax="0" valuemin="0" valuetext=""
+    uid=1617_215 StaticText "商品宽度单位"
+    uid=1617_216 StaticText "商品宽度单位"
+    uid=1617_217 generic live="polite" relevant="additions text"
+    uid=1617_218 StaticText "Inches"
+    uid=1617_219 generic
+      uid=1617_220 StaticText "示例： Inches"
+    uid=1617_221 StaticText "商品宽度"
+    uid=1617_222 StaticText "商品宽度"
+    uid=1617_223 generic live="polite" relevant="additions text"
+    uid=1617_224 StaticText "3.15"
+    uid=1617_225 spinbutton "商品宽度" valuemax="0" valuemin="0" valuetext=""
+    uid=1617_226 StaticText "包装尺寸"
+    uid=1617_227 StaticText "包装尺寸"
+    uid=1617_228 generic live="polite" relevant="additions text"
+    uid=1617_229 StaticText "包装高度单位"
+    uid=1617_230 StaticText "包装高度单位"
+    uid=1617_231 generic live="polite" relevant="additions text"
+    uid=1617_232 StaticText "Centimeters"
+    uid=1617_233 generic
+      uid=1617_234 StaticText "示例： Inches"
+    uid=1617_235 StaticText "包装高度"
+    uid=1617_236 StaticText "包装高度"
+    uid=1617_237 generic live="polite" relevant="additions text"
+    uid=1617_238 StaticText "16.6878"
+    uid=1617_239 spinbutton "包装高度" valuemax="0" valuemin="0" valuetext=""
+    uid=1617_240 StaticText "包装长度单位"
+    uid=1617_241 StaticText "包装长度单位"
+    uid=1617_242 generic live="polite" relevant="additions text"
+    uid=1617_243 StaticText "Centimeters"
+    uid=1617_244 generic
+      uid=1617_245 StaticText "示例： Inches"
+    uid=1617_246 StaticText "包装长度"
+    uid=1617_247 StaticText "包装长度"
+    uid=1617_248 generic live="polite" relevant="additions text"
+    uid=1617_249 StaticText "7.3914"
+    uid=1617_250 spinbutton "包装长度" valuemax="0" valuemin="0" valuetext=""
+    uid=1617_251 StaticText "包装宽度单位"
+    uid=1617_252 StaticText "包装宽度单位"
+    uid=1617_253 generic live="polite" relevant="additions text"
+    uid=1617_254 StaticText "Centimeters"
+    uid=1617_255 generic
+      uid=1617_256 StaticText "示例： Inches"
+    uid=1617_257 StaticText "包装宽度"
+    uid=1617_258 StaticText "包装宽度"
+    uid=1617_259 generic live="polite" relevant="additions text"
+    uid=1617_260 StaticText "8.1026"
+    uid=1617_261 spinbutton "包装宽度" valuemax="0" valuemin="0" valuetext=""
+    uid=1617_262 StaticText "包裹重量"
+    uid=1617_263 StaticText "包裹重量"
+    uid=1617_264 generic live="polite" relevant="additions text"
+    uid=1617_265 StaticText "包装重量"
+    uid=1617_266 StaticText "包装重量"
+    uid=1617_267 generic live="polite" relevant="additions text"
+    uid=1617_268 StaticText "0.649"
+    uid=1617_269 spinbutton "包装重量" valuemax="0" valuemin="0" valuetext=""
+    uid=1617_270 StaticText "包装重量单位"
+    uid=1617_271 StaticText "包装重量单位"
+    uid=1617_272 generic live="polite" relevant="additions text"
+    uid=1617_273 StaticText "Kilograms"
+    uid=1617_274 generic
+      uid=1617_275 StaticText "示例： Pounds"
+    uid=1617_276 StaticText "每托盘主包装层数"
+    uid=1617_277 StaticText "每托盘主包装层数"
+    uid=1617_278 generic live="polite" relevant="additions text"
+    uid=1617_279 spinbutton "每托盘主包装层数" valuemax="10000" valuemin="1" valuetext=""
+    uid=1617_280 StaticText "每层主包装数量"
+    uid=1617_281 StaticText "每层主包装数量"
+    uid=1617_282 generic live="polite" relevant="additions text"
+    uid=1617_283 spinbutton "每层主包装数量" valuemax="10000" valuemin="1" valuetext=""
+    uid=1617_284 button "取消"
+      uid=1617_285 generic
+    uid=1617_286 button "保存"
+      uid=1617_287 generic
+  uid=1603_163 StaticText "继续 安全与合规"
+  uid=1603_164 link "站点地图" url="https://sellercentral.amazon.com/sitemap"
+    uid=1603_165 StaticText "站点地图"
+  uid=1603_166 link " 计划政策" url="https://sellercentral.amazon.com/help/hub/reference/521"
+    uid=1603_167 StaticText " 计划政策"
+  uid=1603_168 StaticText "© 1999-2026，Amazon.com, Inc. 或其附属公司"
+  uid=1603_169 link "反馈" url="https://sellercentral.amazon.com/interactive/listing/workflow/edit/offer?sku=4A+GM30315&asin=B07FKG29KB&productType=SELF_STICK_NOTE&marketplaceID=ATVPDKIKX0DER&isVariationParent=false&ref_=myp_unknown_target#"
+    uid=1603_170 StaticText "反馈"

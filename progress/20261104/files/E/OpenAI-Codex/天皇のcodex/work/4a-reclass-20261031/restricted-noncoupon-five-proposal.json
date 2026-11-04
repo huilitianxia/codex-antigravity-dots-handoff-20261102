@@ -1,0 +1,382 @@
+{
+  "created": "2026-11-01T14:37:58.305908",
+  "status": "DRAFT_FOR_PARENT_REVIEW_QUALIFICATION_PENDING_NOT_SUBMITTED",
+  "scope": "5 original FBA SKUs; ordinary prices unchanged; temporary public discount at most10.01% due cents; business mild tiers",
+  "rows": [
+    {
+      "page": 14,
+      "asin": "B07FK7PBHJ",
+      "sku": "AAAA 4A PSS 9-1 NGGrid",
+      "price": 19.99,
+      "units_current": 98,
+      "channel": "AFN",
+      "sales_units_ui": null,
+      "selected": false,
+      "disabled": false,
+      "reasons": [
+        "您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。"
+      ],
+      "selectable": false,
+      "visible_row": "- 'row \"4A 2 Full Adhesive Roll Sticky Notes with Dispenser and 2 Refills, Neon Yellow and Rose Red, 2 x 315 Inches, Colorful Sticky Rolls for Book, Notebook, Office, Home, 4A PSS 9-1 NYNRx2 4A 2 Full Adhesive Roll Sticky Notes with Dispenser and 2 Refills, Neon Yellow and Rose Red, 2 x 315 Inches, Colorful Sticky Rolls for Book, Notebook, Office, Home, 4A PSS 9-1 NYNRx2 ASIN: B07FK7PBHJ SKU: AAAA 4A PSS 9-1 NGGrid 您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。 销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #78,382 $19.99 98 件数 AFN\" [level=1]':",
+      "units30_fba": 0,
+      "age365plus": 0,
+      "title_current": "4A 2 Full Adhesive Roll Sticky Notes with Dispenser and 2 Refills, Neon Yellow and Rose Red, 2 x 315 Inches, Colorful Sticky Rolls for Book, Notebook, Office, Home, 4A PSS 9-1 NYNRx2",
+      "b2b": 19.98,
+      "fba_fee": 4.11,
+      "sale_visible": null,
+      "minimum": null,
+      "v4": null,
+      "audit_route": "evaluate_new_non_coupon_promotion",
+      "preserve_ordinary_price": true,
+      "current_ordinary_price": 19.99,
+      "current_business_price": 19.98,
+      "current_fba_fee": 4.11,
+      "current_sellable": 98,
+      "current_sale_price": null,
+      "current_business_tiers": [
+        [
+          2,
+          3.0
+        ]
+      ],
+      "proposed_ordinary_price": 19.99,
+      "write_ordinary_price": false,
+      "proposed_sale_price": 17.99,
+      "proposed_business_price": 17.49,
+      "proposed_business_tiers": [
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          10,
+          5
+        ]
+      ],
+      "proposed_regular_sale_discount_percent": 10.01,
+      "proposed_deepest_business_unit": 16.62,
+      "proposed_lowest_applicable_unit": 16.62,
+      "proposed_deepest_cash_before_goods_other_costs": 10.02,
+      "current_deepest_business_unit": 19.38,
+      "current_deepest_cash_before_goods_other_costs": 12.36,
+      "route_preference": "Price Discounts all-customers if eligible; otherwise Sale Price + business tiers in separate batch after main-agent review",
+      "eligibility": {
+        "coupon": "restricted_at_prior_fullscan",
+        "price_discounts": "product_level_pending",
+        "outlet": "pending",
+        "cart_multi_buy": "pending; do not stack on this plan until explicit combined review"
+      },
+      "evidence": [
+        "restricted-live-B07FK7PBHJ.txt",
+        "restricted-tiers-B07FK7PBHJ.txt"
+      ],
+      "notes": "No existing sale price seen; current ordinary remains unchanged."
+    },
+    {
+      "page": 16,
+      "asin": "B00SMEEVKQ",
+      "sku": "4A073",
+      "price": 4.99,
+      "units_current": 60,
+      "channel": "AFN",
+      "sales_units_ui": null,
+      "selected": false,
+      "disabled": false,
+      "reasons": [
+        "您的商品价格过低，无法使用此优惠券。 为确保优惠券对买家有价值，参与优惠券的商品必须满足最低价格门槛。"
+      ],
+      "selectable": false,
+      "visible_row": "- 'row \"4A Divider Sticky Notes,Note Tabs,3 3/8 x 2 3/4 Inches,160 Gsm White Paper,Lined,15 Sheets/Divider,4 Divders/Pack,Self-Stick Notes,60 Sheets Total,4A 40607 4A Divider Sticky Notes,Note Tabs,3 3/8 x 2 3/4 Inches,160 Gsm White Paper,Lined,15 Sheets/Divider,4 Divders/Pack,Self-Stick Notes,60 Sheets Total,4A 40607 ASIN: B00SMEEVKQ SKU: 4A073 您的商品价格过低，无法使用此优惠券。 为确保优惠券对买家有价值，参与优惠券的商品必须满足最低价格门槛。 销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #820,866 $4.99 60 件数 AFN\" [level=1]':",
+      "units30_fba": 0,
+      "age365plus": 58,
+      "title_current": "4A Divider Sticky Notes,Note Tabs,3 3/8 x 2 3/4 Inches,160 Gsm White Paper,Lined,15 Sheets/Divider,4 Divders/Pack,Self-Stick Notes,60 Sheets Total,4A 40607",
+      "b2b": 4.49,
+      "fba_fee": 2.77,
+      "sale_visible": null,
+      "minimum": null,
+      "v4": null,
+      "audit_route": "evaluate_new_non_coupon_promotion",
+      "preserve_ordinary_price": true,
+      "current_ordinary_price": 10.99,
+      "current_business_price": 4.49,
+      "current_fba_fee": 3.74,
+      "current_sellable": 60,
+      "current_sale_price": null,
+      "current_business_tiers": [
+        [
+          10,
+          8.0
+        ]
+      ],
+      "proposed_ordinary_price": 10.99,
+      "write_ordinary_price": false,
+      "proposed_sale_price": 9.89,
+      "proposed_business_price": 9.49,
+      "proposed_business_tiers": [
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          10,
+          5
+        ]
+      ],
+      "proposed_regular_sale_discount_percent": 10.01,
+      "proposed_deepest_business_unit": 9.02,
+      "proposed_lowest_applicable_unit": 9.02,
+      "proposed_deepest_cash_before_goods_other_costs": 3.93,
+      "current_deepest_business_unit": 4.13,
+      "current_deepest_cash_before_goods_other_costs": -0.23,
+      "route_preference": "Price Discounts all-customers if eligible; otherwise Sale Price + business tiers in separate batch after main-agent review",
+      "eligibility": {
+        "coupon": "restricted_at_prior_fullscan",
+        "price_discounts": "product_level_pending",
+        "outlet": "pending",
+        "cart_multi_buy": "pending; do not stack on this plan until explicit combined review"
+      },
+      "evidence": [
+        "restricted-live-B00SMEEVKQ.txt",
+        "restricted-tiers-B00SMEEVKQ.txt"
+      ],
+      "notes": "073 old business price was retained during prior ordinary restoration; not a newly introduced error. Currentfee3.74 is conservative and may change below$10; not actual settlement loss proof."
+    },
+    {
+      "page": 17,
+      "asin": "B01LVXOCU2",
+      "sku": "4A 004",
+      "price": 9.49,
+      "units_current": 59,
+      "channel": "AFN",
+      "sales_units_ui": 0,
+      "selected": false,
+      "disabled": false,
+      "reasons": [
+        "您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。"
+      ],
+      "selectable": false,
+      "visible_row": "- 'row \"4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24 4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24 ASIN: B01LVXOCU2 SKU: 4A 004 您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。 销量 : 0 售出商品数量 : 0 页面浏览量 : - 销量排行 : #322,259 $9.49 59 件数 AFN\" [level=1]':",
+      "units30_fba": 0,
+      "age365plus": 59,
+      "title_current": "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24",
+      "b2b": null,
+      "fba_fee": 4.21,
+      "sale_visible": null,
+      "minimum": null,
+      "v4": null,
+      "audit_route": "evaluate_new_non_coupon_promotion",
+      "preserve_ordinary_price": true,
+      "current_ordinary_price": 15.99,
+      "current_business_price": null,
+      "current_fba_fee": 5.06,
+      "current_sellable": 59,
+      "current_sale_price": null,
+      "current_business_tiers": [],
+      "proposed_ordinary_price": 15.99,
+      "write_ordinary_price": false,
+      "proposed_sale_price": 14.39,
+      "proposed_business_price": 13.99,
+      "proposed_business_tiers": [
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          10,
+          5
+        ]
+      ],
+      "proposed_regular_sale_discount_percent": 10.01,
+      "proposed_deepest_business_unit": 13.29,
+      "proposed_lowest_applicable_unit": 13.29,
+      "proposed_deepest_cash_before_goods_other_costs": 6.24,
+      "current_deepest_business_unit": 15.99,
+      "current_deepest_cash_before_goods_other_costs": 8.53,
+      "route_preference": "Price Discounts all-customers if eligible; otherwise Sale Price + business tiers in separate batch after main-agent review",
+      "eligibility": {
+        "coupon": "restricted_at_prior_fullscan",
+        "price_discounts": "product_level_pending",
+        "outlet": "pending",
+        "cart_multi_buy": "pending; do not stack on this plan until explicit combined review"
+      },
+      "evidence": [
+        "restricted-live-B01LVXOCU2.txt"
+      ],
+      "notes": "No existing sale price seen; current ordinary remains unchanged."
+    },
+    {
+      "page": 18,
+      "asin": "B07FK8LN8D",
+      "sku": "AAAA 4A 301x12-N",
+      "price": 16.99,
+      "units_current": 45,
+      "channel": "AFN",
+      "sales_units_ui": null,
+      "selected": false,
+      "disabled": false,
+      "reasons": [
+        "您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。"
+      ],
+      "selectable": false,
+      "visible_row": "- 'row \"4A 24 Pads Small Sticky Notes 1.5 x 2 in, Bright Colors, Half-Adhesive, Mini Sticky Notes Self-Stick Note Pads for Office School Supplies, 100 Sheets/Pad, 2400 Sheets Total, 4A 301x12-Nx2 4A 24 Pads Small Sticky Notes 1.5 x 2 in, Bright Colors, Half-Adhesive, Mini Sticky Notes Self-Stick Note Pads for Office School Supplies, 100 Sheets/Pad, 2400 Sheets Total, 4A 301x12-Nx2 ASIN: B07FK8LN8D SKU: AAAA 4A 301x12-N 您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。 销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #322,684 $16.99 45 件数 AFN\" [level=1]':",
+      "units30_fba": 0,
+      "age365plus": 45,
+      "title_current": "4A 24 Pads Small Sticky Notes 1.5 x 2 in, Bright Colors, Half-Adhesive, Mini Sticky Notes Self-Stick Note Pads for Office School Supplies, 100 Sheets/Pad, 2400 Sheets Total, 4A 301x12-Nx2",
+      "b2b": null,
+      "fba_fee": 5.06,
+      "sale_visible": null,
+      "minimum": null,
+      "v4": null,
+      "audit_route": "evaluate_new_non_coupon_promotion",
+      "preserve_ordinary_price": true,
+      "current_ordinary_price": 16.99,
+      "current_business_price": null,
+      "current_fba_fee": 5.06,
+      "current_sellable": 45,
+      "current_sale_price": null,
+      "current_business_tiers": [],
+      "proposed_ordinary_price": 16.99,
+      "write_ordinary_price": false,
+      "proposed_sale_price": 15.29,
+      "proposed_business_price": 14.99,
+      "proposed_business_tiers": [
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          10,
+          5
+        ]
+      ],
+      "proposed_regular_sale_discount_percent": 10.01,
+      "proposed_deepest_business_unit": 14.24,
+      "proposed_lowest_applicable_unit": 14.24,
+      "proposed_deepest_cash_before_goods_other_costs": 7.04,
+      "current_deepest_business_unit": 16.99,
+      "current_deepest_cash_before_goods_other_costs": 9.38,
+      "route_preference": "Price Discounts all-customers if eligible; otherwise Sale Price + business tiers in separate batch after main-agent review",
+      "eligibility": {
+        "coupon": "restricted_at_prior_fullscan",
+        "price_discounts": "product_level_pending",
+        "outlet": "pending",
+        "cart_multi_buy": "pending; do not stack on this plan until explicit combined review"
+      },
+      "evidence": [
+        "restricted-live-B07FK8LN8D.txt"
+      ],
+      "notes": "No existing sale price seen; current ordinary remains unchanged."
+    },
+    {
+      "page": 18,
+      "asin": "B0F7LW38FX",
+      "sku": "4A 301x24x2",
+      "price": 25.99,
+      "units_current": 43,
+      "channel": "AFN",
+      "sales_units_ui": null,
+      "selected": false,
+      "disabled": false,
+      "reasons": [
+        "您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。"
+      ],
+      "selectable": false,
+      "visible_row": "- 'row \"4A 48 Pads Sticky Notes 1.5 x 2 in, Neon Assorted, Colorful Small Sticky Notes Self-Stick Note Pads for Book Office School Supplies, 100 Sheets/Pad, 4800 Sheets Total, 4A 301x24 4A 48 Pads Sticky Notes 1.5 x 2 in, Neon Assorted, Colorful Small Sticky Notes Self-Stick Note Pads for Book Office School Supplies, 100 Sheets/Pad, 4800 Sheets Total, 4A 301x24 ASIN: B0F7LW38FX SKU: 4A 301x24x2 您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。 销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #322,684 $25.99 43 件数 AFN\" [level=1]':",
+      "units30_fba": 0,
+      "age365plus": 43,
+      "title_current": "4A 48 Pads Sticky Notes 1.5 x 2 in, Neon Assorted, Colorful Small Sticky Notes Self-Stick Note Pads for Book Office School Supplies, 100 Sheets/Pad, 4800 Sheets Total, 4A 301x24",
+      "b2b": null,
+      "fba_fee": 6.0,
+      "sale_visible": null,
+      "minimum": null,
+      "v4": null,
+      "audit_route": "evaluate_new_non_coupon_promotion",
+      "preserve_ordinary_price": true,
+      "current_ordinary_price": 25.99,
+      "current_business_price": null,
+      "current_fba_fee": 6.0,
+      "current_sellable": 43,
+      "current_sale_price": null,
+      "current_business_tiers": [],
+      "proposed_ordinary_price": 25.99,
+      "write_ordinary_price": false,
+      "proposed_sale_price": 23.39,
+      "proposed_business_price": 22.99,
+      "proposed_business_tiers": [
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          10,
+          5
+        ]
+      ],
+      "proposed_regular_sale_discount_percent": 10.0,
+      "proposed_deepest_business_unit": 21.84,
+      "proposed_lowest_applicable_unit": 21.84,
+      "proposed_deepest_cash_before_goods_other_costs": 12.56,
+      "current_deepest_business_unit": 25.99,
+      "current_deepest_cash_before_goods_other_costs": 16.09,
+      "route_preference": "Price Discounts all-customers if eligible; otherwise Sale Price + business tiers in separate batch after main-agent review",
+      "eligibility": {
+        "coupon": "restricted_at_prior_fullscan",
+        "price_discounts": "product_level_pending",
+        "outlet": "pending",
+        "cart_multi_buy": "pending; do not stack on this plan until explicit combined review"
+      },
+      "evidence": [
+        "restricted-live-B0F7LW38FX.txt"
+      ],
+      "notes": "No existing sale price seen; current ordinary remains unchanged."
+    }
+  ],
+  "current_sellable_total": 305,
+  "schedule_proposal": {
+    "marketplace": "US",
+    "timezone": "America/Los_Angeles",
+    "start": "2026-11-01 00:00 or first allowed future time",
+    "end_exclusive": "2026-11-16 00:00",
+    "qualification_form_only_dates": "2026-11-02 to2026-11-15; not submitted,main agent finalizes schedule"
+  },
+  "preserve_existing_promotion_asins": [
+    "B07QXJWDPL",
+    "B07FK975YB",
+    "B07QXJZKHC",
+    "B07FK9BYHW",
+    "B0DYNL5SMR"
+  ],
+  "protected_stars": [
+    "B07QXJYTZ7",
+    "B0FBG138ND",
+    "B0F2TKL2P5",
+    "B00SMEFFRE"
+  ],
+  "assumptions": [
+    "Conservative15% referral plus current UI FBA fee; no claimed actual settlement profit",
+    "Exclude goods,inbound,storage,ads,refunds and any Price Discount fixed/event fees",
+    "Sale and B2B are alternative offer prices,minimum chosen; no additional coupon/cart promo added",
+    "Existing B2B tiers must be replaced intentionally,not appended; business tiers persist after sale ends unless removed",
+    "First confirm live eligibility and any required reference prices; never invent reference price or change ordinary price for eligibility"
+  ]
+}

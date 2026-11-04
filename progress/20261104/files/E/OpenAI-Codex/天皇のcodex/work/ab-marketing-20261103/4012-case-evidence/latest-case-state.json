@@ -1,0 +1,18 @@
+{
+  "case": "22957468581",
+  "checked_at": "2026-11-03T10:57:52.026Z",
+  "status": "needs-attention",
+  "latest_Amazon_message_Beijing": "2026-11-03 15:57",
+  "request": "More completed orders OR officialmanufacturerprice OR offAmazonexactproductretailprice at leastreferenceprice",
+  "original_submission": "2026-11-03 10:49",
+  "morning_order_evidence_followup": "2026-11-03 10:57",
+  "first_substantive_reply": "2026-11-03 11:49",
+  "highprice_still_present": true,
+  "current_offer": {
+    "item": 12.99,
+    "shipping": 4.99,
+    "total": 17.98,
+    "minimum": 11.69
+  },
+  "new_ad_launched": false
+}

@@ -1,0 +1,45 @@
+{
+  "at": "2026-11-03T12:40:48.559Z",
+  "row": {
+    "sku": "4A GM30315",
+    "text": "在售\n2023年8月19日 13:51\n2019年1月3日 21:16\n4A\n15\nPads\nSticky\nNotes\n3\nx\n3\nin,\nAssorted\nColors,\nColorful\nStick\nNotes\nSelf-Stick\nNote\nPads\nfor\nOffice,\nHome,\nSchool\nSupplies,\n100\nSheets/Pad,\n1500\nSheets\nTotal,\n4A\n30315\nASIN\nB07FKG29KB\nSKU\n4A GM30315\n状况\n新品\n销售额\n--\n售出件数\n--\n页面浏览量\n--\n销售排名\n--\n有货（卖家自配送）\n配送模板\nCube delivery\n\nUS$3,013 销售预测 \n价格\nUSD\n运费\n+ $8.99\n最低价格\nUSD\n最高价格\nUSD\n促销价格\n$11.99 + $8.99\n推荐报价\n$11.99 + $8.99\n有竞争力的价格\n--\n最低价\n$11.99 + $8.99\n企业商品价格\n$15.67 + $8.99\n查看参考价\n总费用\n$3.15",
+    "controls": [
+      {
+        "value": "1,054",
+        "label": null,
+        "name": null
+      },
+      {
+        "value": "12.99",
+        "label": null,
+        "name": null
+      },
+      {
+        "value": "10.69",
+        "label": null,
+        "name": null
+      },
+      {
+        "value": "",
+        "label": null,
+        "name": null
+      }
+    ]
+  },
+  "fields": [
+    "  uid=1668_89 textbox \"搜索 SKU、商品名称/关键词、FNSKU、ASIN、UPC/EAN\" value=\"B07FKG29KB\"",
+    "  uid=1668_181 textbox required value=\"1,054\"",
+    "  uid=1668_193 textbox required value=\"12.99\"",
+    "  uid=1668_199 textbox value=\"10.69\"",
+    "  uid=1668_230 spinbutton value=\"1\" valuemax=\"1\" valuemin=\"1\" valuetext=\"1\"",
+    "    uid=1672_29 textbox value=\"15.67\"",
+    "    uid=1672_46 radio \"% 优惠\"",
+    "    uid=1672_49 radio \"固定价格\" checked",
+    "    uid=1672_52 spinbutton required value=\"2\" valuemax=\"0\" valuemin=\"2\" valuetext=\"2\"",
+    "    uid=1672_56 textbox required value=\"15.52\"",
+    "    uid=1672_60 spinbutton required value=\"5\" valuemax=\"0\" valuemin=\"2\" valuetext=\"5\"",
+    "    uid=1672_64 textbox required value=\"15.20\"",
+    "    uid=1672_68 spinbutton required value=\"10\" valuemax=\"0\" valuemin=\"2\" valuetext=\"10\"",
+    "    uid=1672_72 textbox required value=\"14.88\""
+  ]
+}
