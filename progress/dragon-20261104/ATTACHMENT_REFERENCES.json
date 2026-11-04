@@ -1,0 +1,887 @@
+[
+  {
+    "message_id": "Sentinel_1c0535abbd4c8191982e2ebc71cf2e00",
+    "sent_at": "2026-11-02T12:14:17.785143+00:00",
+    "library_file_id": "libfile_c02b14ef53a48191a33499b989036bd2",
+    "name": "54e9e66aea89600f59c3cd8de99e0091.png",
+    "mime_type": "image/png",
+    "size_bytes": 423069,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "000",
+    "sha256": "13b7c5a2cd5d624917a06756f4ea1ac37f6985db9358afbf8d21c755aecb235b",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      2048,
+      1052
+    ]
+  },
+  {
+    "message_id": "Sentinel_6650890f90d481919f4148ec793d9542",
+    "sent_at": "2026-11-02T12:29:09.565061+00:00",
+    "library_file_id": "libfile_412b364c5c60819194ef5538a226a808",
+    "name": "image(20261102-122908).png",
+    "mime_type": "image/png",
+    "size_bytes": 77614,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "001",
+    "sha256": "6136a334be3f01e8171c3b6bb2445830a78db939548db5771ee83f652099c2d3",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1796,
+      222
+    ]
+  },
+  {
+    "message_id": "Sentinel_530043a8830c8191aa10f9d63085099a",
+    "sent_at": "2026-11-02T12:47:39.525289+00:00",
+    "library_file_id": "libfile_2b99a8fc31c081918a09d1c932d5acf6",
+    "name": "image(20261102-124737).png",
+    "mime_type": "image/png",
+    "size_bytes": 51939,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "002",
+    "sha256": "2b80126cf87b64bbd6c4ac4b4603ad5e0516cc1273057b178cf3234c8a007371",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1823,
+      139
+    ]
+  },
+  {
+    "message_id": "Sentinel_d81270723b2c8191aa5c2aa72fc9808d",
+    "sent_at": "2026-11-02T13:46:52.942075+00:00",
+    "library_file_id": "libfile_84b962dd19c081919e01ba467d45da72",
+    "name": "image(20261102-134651).png",
+    "mime_type": "image/png",
+    "size_bytes": 27520,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "003",
+    "sha256": "ab8e4bd2be9ed961ea8339295a37a9e70774ecab4428984afa58e20255eb1e22",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1821,
+      79
+    ]
+  },
+  {
+    "message_id": "Sentinel_dafc853a52b88191a6739bcdc54a5e1d",
+    "sent_at": "2026-11-02T13:50:04.710043+00:00",
+    "library_file_id": "libfile_b6216767016c8191be67361bcb66aff5",
+    "name": "image(20261102-135002).png",
+    "mime_type": "image/png",
+    "size_bytes": 510014,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "004",
+    "sha256": "88aa1263a802aa5297418f9871c060b4630500a905eb4f45f8622e98fb6b80cd",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      911
+    ]
+  },
+  {
+    "message_id": "Sentinel_dafc853a52b88191a6739bcdc54a5e1d",
+    "sent_at": "2026-11-02T13:50:04.710043+00:00",
+    "library_file_id": "libfile_b2d5fef805c881918ed75671b1a782d1",
+    "name": "image(20261102-135003).png",
+    "mime_type": "image/png",
+    "size_bytes": 535800,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "005",
+    "sha256": "aa73dd2b07e455d755964de7386ebe95ad932fd29342d8ab8461d4555e7e0f5c",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      911
+    ]
+  },
+  {
+    "message_id": "Sentinel_dafc853a52b88191a6739bcdc54a5e1d",
+    "sent_at": "2026-11-02T13:50:04.710043+00:00",
+    "library_file_id": "libfile_666538e36acc819188c0dafdab33e139",
+    "name": "image(20261102-135004).png",
+    "mime_type": "image/png",
+    "size_bytes": 637525,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "006",
+    "sha256": "3ba7abc166aab1f37b5f4a0f086560953071d8dc3c382912d44991087f891c40",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      911
+    ]
+  },
+  {
+    "message_id": "Sentinel_dafc853a52b88191a6739bcdc54a5e1d",
+    "sent_at": "2026-11-02T13:50:04.710043+00:00",
+    "library_file_id": "libfile_de5d29a64564819197fa07be7204db74",
+    "name": "image(20261102-135005).png",
+    "mime_type": "image/png",
+    "size_bytes": 500406,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "007",
+    "sha256": "ccc1b3854331a7c9f8eda0d5152889a12a46230be524d8697eaa20acbf69bb07",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      911
+    ]
+  },
+  {
+    "message_id": "Sentinel_dafc853a52b88191a6739bcdc54a5e1d",
+    "sent_at": "2026-11-02T13:50:04.710043+00:00",
+    "library_file_id": "libfile_80f50cd0da488191baefcbbab1b0d72a",
+    "name": "image(20261102-135006).png",
+    "mime_type": "image/png",
+    "size_bytes": 441226,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "008",
+    "sha256": "88ba7ad6ff1497cc9a07881b7dd2922eb192075b7cc1f9ea13c30d92af907486",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      911
+    ]
+  },
+  {
+    "message_id": "Sentinel_dafc853a52b88191a6739bcdc54a5e1d",
+    "sent_at": "2026-11-02T13:50:04.710043+00:00",
+    "library_file_id": "libfile_b22c151fa730819193fd19e5be3ab5fc",
+    "name": "image(20261102-135007).png",
+    "mime_type": "image/png",
+    "size_bytes": 472876,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "009",
+    "sha256": "6704e7d02d38b5eaca3f935de4ca10c32fbb078e6577f317b54b587ff604124d",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      911
+    ]
+  },
+  {
+    "message_id": "Sentinel_73e720d487808191861181fdc44b9f28",
+    "sent_at": "2026-11-03T02:11:52.896280+00:00",
+    "library_file_id": "libfile_915ac0e7a1d881919a31028de366a1f4",
+    "name": "image(20261103-021151).png",
+    "mime_type": "image/png",
+    "size_bytes": 390027,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "010",
+    "sha256": "6ff80b04ed41d0a870b56547413388897571588c8a5003af0432d78fca0371d9",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_73e720d487808191861181fdc44b9f28",
+    "sent_at": "2026-11-03T02:11:52.896280+00:00",
+    "library_file_id": "libfile_692ce99b31588191b184655c7ae11f39",
+    "name": "image(20261103-021152).png",
+    "mime_type": "image/png",
+    "size_bytes": 441985,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "011",
+    "sha256": "e05b04dbc8128683bd12e9c0412e4cdf82c5175e2bd206d9440cf48cd0ed1b30",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_48846d0ac0788191a59edeacf1d198b7",
+    "sent_at": "2026-11-03T02:50:43.564048+00:00",
+    "library_file_id": "libfile_85c503f7ed84819181698adafaaea2e1",
+    "name": "image(20261103-025042).png",
+    "mime_type": "image/png",
+    "size_bytes": 314126,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "012",
+    "sha256": "e5acaf2be6bf097bdff42008ae49e423aad286f2fa4bfae1a52a159074e544df",
+    "publication_candidate": false,
+    "review_note": "包含其他会话标题与本地工作界面；不公开原图。",
+    "dimensions": [
+      1400,
+      900
+    ]
+  },
+  {
+    "message_id": "Sentinel_5a247528b9a081919703955690e74da1",
+    "sent_at": "2026-11-03T02:58:21.447282+00:00",
+    "library_file_id": "libfile_18c7ae462df8819181b6768d8bdd7cb4",
+    "name": "image(20261103-025820).png",
+    "mime_type": "image/png",
+    "size_bytes": 428234,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "013",
+    "sha256": "f1a4d27224949ac6329d661c3388b85e84be1b5a4f24e3bdc5b914e8449e83c9",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_5a247528b9a081919703955690e74da1",
+    "sent_at": "2026-11-03T02:58:21.447282+00:00",
+    "library_file_id": "libfile_9afca382dbbc81919761a3cf84c934d4",
+    "name": "image(20261103-025821).png",
+    "mime_type": "image/png",
+    "size_bytes": 357260,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "014",
+    "sha256": "30119d3b8a48c39a2e585b28a260d1c9dcb00df5f750dd055a102cb757d6898d",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_f80eb2e487c081919c3d916df40cd9c2",
+    "sent_at": "2026-11-03T03:30:03.684066+00:00",
+    "library_file_id": "libfile_ef4155feab1c8191b6adeb5f39adae09",
+    "name": "image(20261103-033002).png",
+    "mime_type": "image/png",
+    "size_bytes": 224298,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "015",
+    "sha256": "d884cc63ff5ece3fb41200fde70c454dd384fcc0b08c74e98ddf1408bb1c5e9c",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      871,
+      588
+    ]
+  },
+  {
+    "message_id": "Sentinel_465e6ee743b08191a6b9fc6057f297d7",
+    "sent_at": "2026-11-03T04:28:10.660301+00:00",
+    "library_file_id": "libfile_9f0bc8c8bbec8191a79e3fcc32a1d943",
+    "name": "B27与额4_最新核查结果_20261103.csv",
+    "mime_type": "application/octet-stream",
+    "size_bytes": 6311,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "016",
+    "sha256": "3cf8acfd9a7cf5f165d9758b11ada5531aed730e77c8897562bd844c98d3e2f9",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。"
+  },
+  {
+    "message_id": "Sentinel_465e6ee743b08191a6b9fc6057f297d7",
+    "sent_at": "2026-11-03T04:28:10.660301+00:00",
+    "library_file_id": "libfile_f7b55a6c26788191bff03757bdf14af3",
+    "name": "image(20261103-042814).png",
+    "mime_type": "image/png",
+    "size_bytes": 66355,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "017",
+    "sha256": "9e88c864d3dd5c0841493cfdb139cf32269df7b8a04035d7be0581acdc50c488",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      846,
+      398
+    ]
+  },
+  {
+    "message_id": "Sentinel_64d3cd2faed48191a1544d1abea70387",
+    "sent_at": "2026-11-03T05:12:39.917673+00:00",
+    "library_file_id": "libfile_28e0e830da7c8191813b5b0dd5fcbc92",
+    "name": "image(20261103-051238).png",
+    "mime_type": "image/png",
+    "size_bytes": 386746,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "018",
+    "sha256": "8d2e06e1a8dd7666d06133e85c9bc3a2efdd5262b39c77b4cc59b17084c34e55",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_6538726113708191945cdc4fbce752ad",
+    "sent_at": "2026-11-03T05:15:48.837121+00:00",
+    "library_file_id": "libfile_7bc059f18ed48191bc3cc4874f711733",
+    "name": "image(20261103-051547).png",
+    "mime_type": "image/png",
+    "size_bytes": 117740,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "019",
+    "sha256": "0c606e406e87786d5be808db865ec63107ec1e655699463045692bf3b5a2a480",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1834,
+      299
+    ]
+  },
+  {
+    "message_id": "Sentinel_5f2c4ba943908191bb56ba9ce2640324",
+    "sent_at": "2026-11-03T05:18:07.754907+00:00",
+    "library_file_id": "libfile_b2448f803ff881919f31741cc695a266",
+    "name": "image(20261103-051806).png",
+    "mime_type": "image/png",
+    "size_bytes": 550959,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "020",
+    "sha256": "7aaa7ad6d405ba2deace0e6595a1e5264d3b6079aa444e0056da2f43db18467d",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_099a63d6cfcc8191891e02d4dc36baff",
+    "sent_at": "2026-11-03T05:19:12.674444+00:00",
+    "library_file_id": "libfile_2c26ea9dc434819185abca857c80ad68",
+    "name": "image(20261103-051912).png",
+    "mime_type": "image/png",
+    "size_bytes": 673784,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "021",
+    "sha256": "4845e351c2f8ffef613dc9804e2cc13b8fb6780aace8bfca6e2f828fe8e342ab",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_d2d2ef633d3881918204798546f0983a",
+    "sent_at": "2026-11-03T05:21:52.764522+00:00",
+    "library_file_id": "libfile_dad45b3ad48881918a81f3df0b044ba7",
+    "name": "image(20261103-052151).png",
+    "mime_type": "image/png",
+    "size_bytes": 722275,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "022",
+    "sha256": "626d1fce121f64089b4a34faf592ee4fddab34f2cfc1b27ab4cc9cfc1b5e1595",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_d2d2ef633d3881918204798546f0983a",
+    "sent_at": "2026-11-03T05:21:52.764522+00:00",
+    "library_file_id": "libfile_c7537fb1f6848191974b4feb398579c4",
+    "name": "image(20261103-052152).png",
+    "mime_type": "image/png",
+    "size_bytes": 637197,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "023",
+    "sha256": "586debe7e18c8513ae0759de98e76d5d3630668c30f29853e0bf5d18719a272b",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_d2d2ef633d3881918204798546f0983a",
+    "sent_at": "2026-11-03T05:21:52.764522+00:00",
+    "library_file_id": "libfile_b1f72ae2a848819185da68d7f2092646",
+    "name": "image(20261103-052153).png",
+    "mime_type": "image/png",
+    "size_bytes": 678591,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "024",
+    "sha256": "42d050f6d5dbfd24d25c4d7246836cc65764378f813dcdd1847b31f2877f77ac",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_5ba14ec8d6c08191876257e9332d686b",
+    "sent_at": "2026-11-03T05:46:56.146130+00:00",
+    "library_file_id": "libfile_c0244aaea3d8819191454bc41a2c5361",
+    "name": "image(20261103-054655).png",
+    "mime_type": "image/png",
+    "size_bytes": 452878,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "025",
+    "sha256": "c157422ae2bdc0fd1d73dd8dba9be6adc2f1734402ce17168094cece703ce223",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_6418526549c88191beac117d1f52acb1",
+    "sent_at": "2026-11-03T06:12:11.113319+00:00",
+    "library_file_id": "libfile_b56dde8d1e1881919fe03dae06c34db7",
+    "name": "image(20261103-061210).png",
+    "mime_type": "image/png",
+    "size_bytes": 36574,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "026",
+    "sha256": "6cfd5635bbb5730f7a050e7ea42b93a047cc7039a44c314b664d0cafc8c3607c",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1778,
+      90
+    ]
+  },
+  {
+    "message_id": "Sentinel_a75c57b014dc8191b188ffc6233e485f",
+    "sent_at": "2026-11-03T06:15:13.510663+00:00",
+    "library_file_id": "libfile_9d9c27050dd48191b4c3281ac79d3f77",
+    "name": "image(20261103-061512).png",
+    "mime_type": "image/png",
+    "size_bytes": 66346,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "027",
+    "sha256": "a9861a02f6b0fb5d3c2399870c04ba99c8866888c64db08ad51fa6c48c1db523",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1778,
+      176
+    ]
+  },
+  {
+    "message_id": "Sentinel_54cff7f471488191aa8a4c30a071615f",
+    "sent_at": "2026-11-03T06:39:06.756276+00:00",
+    "library_file_id": "libfile_b994702b2a18819187f0c61164336892",
+    "name": "image(20261103-063904).png",
+    "mime_type": "image/png",
+    "size_bytes": 491056,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "028",
+    "sha256": "c405aa24a598b869bef9e05b8ecdfb727ee2cfc6fda706f132279bdbf9b72085",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_54cff7f471488191aa8a4c30a071615f",
+    "sent_at": "2026-11-03T06:39:06.756276+00:00",
+    "library_file_id": "libfile_257af7bdceac8191997ca20576752d42",
+    "name": "image(20261103-063905).png",
+    "mime_type": "image/png",
+    "size_bytes": 416098,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "029",
+    "sha256": "cc1c50e7fd9a02cee5f0e809c11c0626550d95f7f8f72a28dd1a7f23ae857605",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_54cff7f471488191aa8a4c30a071615f",
+    "sent_at": "2026-11-03T06:39:06.756276+00:00",
+    "library_file_id": "libfile_cf38412d9f9481918cf0cdd0f3489d25",
+    "name": "image(20261103-063906).png",
+    "mime_type": "image/png",
+    "size_bytes": 397350,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "030",
+    "sha256": "d15879a6cb6a083c1f98d8bc2e91f88113eae48bac24d6dd949d38cbeaeb331a",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_54cff7f471488191aa8a4c30a071615f",
+    "sent_at": "2026-11-03T06:39:06.756276+00:00",
+    "library_file_id": "libfile_a703c7e01e748191b84169e601c63e8a",
+    "name": "image(20261103-063908).png",
+    "mime_type": "image/png",
+    "size_bytes": 419005,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "031",
+    "sha256": "aef0ec4401e13fe1be746820da66f166b5838369b566ba4b8e957e6c4d83ca27",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_54cff7f471488191aa8a4c30a071615f",
+    "sent_at": "2026-11-03T06:39:06.756276+00:00",
+    "library_file_id": "libfile_ffc9167ab64481918360503e439aaffe",
+    "name": "flags_6043_one_child_partial_REVIEW_NOT_SUBMITTED-processing-summary.xlsm",
+    "mime_type": "application/octet-stream",
+    "size_bytes": 1714707,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "032",
+    "sha256": "c1d470ab7e44ec971cf0c5a29bb766ea1daa7a644d01e41ce548e978c8eae3ab",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。"
+  },
+  {
+    "message_id": "Sentinel_8aeb860648cc8191ac94d88007e290c6",
+    "sent_at": "2026-11-03T06:52:22.143809+00:00",
+    "library_file_id": "libfile_3043c410a9188191a70aecf88e32f870",
+    "name": "image(20261103-065220).png",
+    "mime_type": "image/png",
+    "size_bytes": 214810,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "033",
+    "sha256": "2b90faffdca5049b0bc5f175ae9f612fdd3fdc33cb96c7f696d8ab62f78202e0",
+    "publication_candidate": false,
+    "review_note": "包含本地文件夹和个人桌面导航；不公开原图。",
+    "dimensions": [
+      1258,
+      808
+    ]
+  },
+  {
+    "message_id": "Sentinel_07dcec08f1c08191b2afb676b1ea1f3f",
+    "sent_at": "2026-11-03T06:58:56.332417+00:00",
+    "library_file_id": "libfile_5b0daf88f68c8191b64e748b878b51ae",
+    "name": "image(20261103-065855).png",
+    "mime_type": "image/png",
+    "size_bytes": 110194,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "034",
+    "sha256": "dca2a9b4dbe00deea78baf38ce84dc3628db1dd66d757d1eb493fb638c3da5fd",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1861,
+      259
+    ]
+  },
+  {
+    "message_id": "Sentinel_c5adcaf0191881918c67f0eb23d23d01",
+    "sent_at": "2026-11-03T06:59:54.176764+00:00",
+    "library_file_id": "libfile_2bd455caf6588191b95acc67c1613b50",
+    "name": "wide_roll_four_child_partial_20261103-processing-summary.xlsm",
+    "mime_type": "application/octet-stream",
+    "size_bytes": 1714953,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "035",
+    "sha256": "5f3f6a044f7705f1bb710777a111ed41d086bd711ab797ee1e721ae672c5a75a",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。"
+  },
+  {
+    "message_id": "Sentinel_a3c70eb5b54881919d81947cda821ece",
+    "sent_at": "2026-11-03T07:40:25.192545+00:00",
+    "library_file_id": "libfile_d9edd7c68df08191abc35c620f39d60f",
+    "name": "image(20261103-074024).png",
+    "mime_type": "image/png",
+    "size_bytes": 23575,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "036",
+    "sha256": "251cdf2de1b91bae1521ef139d04b849b89c2b9bac4259f50720b547aaf170c3",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1803,
+      51
+    ]
+  },
+  {
+    "message_id": "Sentinel_23d2c7daad6c8191a96b93232bcde9ab",
+    "sent_at": "2026-11-03T07:57:04.458370+00:00",
+    "library_file_id": "libfile_6b47673b24108191ba0282f9ba7ce7c9",
+    "name": "image(20261103-075701).png",
+    "mime_type": "image/png",
+    "size_bytes": 425884,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "037",
+    "sha256": "3b3d2ee9e37addcb5baf00c21a97864eb17f61827bc24f7cb88f0d15c15e2b9e",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_23d2c7daad6c8191a96b93232bcde9ab",
+    "sent_at": "2026-11-03T07:57:04.458370+00:00",
+    "library_file_id": "libfile_96233fb517288191938612b4df83e845",
+    "name": "image(20261103-075702).png",
+    "mime_type": "image/png",
+    "size_bytes": 510334,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "038",
+    "sha256": "13455bf6bf77ba568862a774b86ae13980bf38157c11c6939a814d3b1c99d319",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_23d2c7daad6c8191a96b93232bcde9ab",
+    "sent_at": "2026-11-03T07:57:04.458370+00:00",
+    "library_file_id": "libfile_5061ab646d6881918a5a2dabc90677a3",
+    "name": "image(20261103-075704).png",
+    "mime_type": "image/png",
+    "size_bytes": 257146,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "039",
+    "sha256": "bbc3b9dde1a9b71e73e48388cb37a7acab117ef774d5eb4ba94bc7a0f46e04d9",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_23d2c7daad6c8191a96b93232bcde9ab",
+    "sent_at": "2026-11-03T07:57:04.458370+00:00",
+    "library_file_id": "libfile_7dc20d2b947c819191b212e1dbb56bad",
+    "name": "image(20261103-075705).png",
+    "mime_type": "image/png",
+    "size_bytes": 685497,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "040",
+    "sha256": "3d3c3aff873ea247d3790bb916d8a52911ab29a33220fe258c09fe4d905f7014",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_0f54bf0038e88191ba6b67b3adb2776c",
+    "sent_at": "2026-11-03T08:00:28.541624+00:00",
+    "library_file_id": "libfile_f1166f685094819190b6cdb4ac34eeed",
+    "name": "image(20261103-080026).png",
+    "mime_type": "image/png",
+    "size_bytes": 400570,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "041",
+    "sha256": "f0365cc8009bda5165ec5872a5bf1110cc90984d620f8407ed05c0ccb9e92bcb",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_0f54bf0038e88191ba6b67b3adb2776c",
+    "sent_at": "2026-11-03T08:00:28.541624+00:00",
+    "library_file_id": "libfile_e96efd95f5a4819198159b5eafbaed96",
+    "name": "image(20261103-080027).png",
+    "mime_type": "image/png",
+    "size_bytes": 439999,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "042",
+    "sha256": "1adcef094f915f4628ff1c9627d2c643037d68b21c64ab05c5d42d4877f4e5ab",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_be2ba02f73208191bbef4289ce16cd69",
+    "sent_at": "2026-11-04T03:49:14.193473+00:00",
+    "library_file_id": "libfile_43cf3eadc4d881918ff1efc853f37c9a",
+    "name": "image(20261104-034913).png",
+    "mime_type": "image/png",
+    "size_bytes": 297937,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "043",
+    "sha256": "235cb40cf676645c189acb7260b017af29055dcf1c95c08b65841b084321f7f3",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_83ca213701d8819195500b594f095a3b",
+    "sent_at": "2026-11-04T03:51:17.520192+00:00",
+    "library_file_id": "libfile_d23b3650e6888191a61a1e459b4bf033",
+    "name": "image(20261104-035117).png",
+    "mime_type": "image/png",
+    "size_bytes": 565769,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "044",
+    "sha256": "a8a964143931c9b4294c854fb9e3ca48cde22940c859452ab628d80627152719",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_717fb250c31081918546ae0d7c335469",
+    "sent_at": "2026-11-04T04:45:33.887832+00:00",
+    "library_file_id": "libfile_255b5447f7a08191a558284384d14323",
+    "name": "image(20261104-044533).png",
+    "mime_type": "image/png",
+    "size_bytes": 93774,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "045",
+    "sha256": "54177f1619a79c37f9b233fa77c3418292092bd046cb737c69b0aa3214711915",
+    "publication_candidate": false,
+    "review_note": "第三方私人聊天截图及头像；改用业务摘要，不公开原图。",
+    "dimensions": [
+      1218,
+      695
+    ]
+  },
+  {
+    "message_id": "Sentinel_717fb250c31081918546ae0d7c335469",
+    "sent_at": "2026-11-04T04:45:33.887832+00:00",
+    "library_file_id": "libfile_883485c2be748191a838acc5feedd438",
+    "name": "70d8fefddfa677490860c791d7ef3113.png",
+    "mime_type": "image/png",
+    "size_bytes": 33423,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "046",
+    "sha256": "57c6e84a3b0b9c334519ada9638199ccc616325cdc4b53430766490e9ab898bd",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1029,
+      192
+    ]
+  },
+  {
+    "message_id": "Sentinel_644891871b60819190f6453644daf4a8",
+    "sent_at": "2026-11-04T05:14:52.714483+00:00",
+    "library_file_id": "libfile_36d216edebf48191a15be4ab025d333f",
+    "name": "image(20261104-051450).png",
+    "mime_type": "image/png",
+    "size_bytes": 208650,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "047",
+    "sha256": "d5033b6e2fbd53187f3a9e2b368cce821be42136f796d98728f36f335a79a1bb",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_bea16fda14ac8191916f57429524810a",
+    "sent_at": "2026-11-04T05:16:40.818788+00:00",
+    "library_file_id": "libfile_52bf78173844819196eac4741eb020bf",
+    "name": "1793769360_1793731397.csv",
+    "mime_type": "text/plain",
+    "size_bytes": 893,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "048",
+    "sha256": "9caaa47bb0d870c5f8dc923b8a6fbd6c82cb10753632cce90a30187f443baf99",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。"
+  },
+  {
+    "message_id": "Sentinel_5589c18d5e6c81918b5feaab8b645a92",
+    "sent_at": "2026-11-04T05:24:44.289338+00:00",
+    "library_file_id": "libfile_ee0464dba0f48191a3aee6077c4f9397",
+    "name": "image(20261104-052442).png",
+    "mime_type": "image/png",
+    "size_bytes": 332164,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "049",
+    "sha256": "ba323d2d7b7cdc756dc4d86c57e3452f1c63e8c657a8d288ace1f8c6a1485a0f",
+    "publication_candidate": false,
+    "review_note": "包含具体发货工作流标识及旁路任务通知；不公开原图。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_004bb6f79e908191b072090c76ea0b8a",
+    "sent_at": "2026-11-04T05:27:22.265196+00:00",
+    "library_file_id": "libfile_fbff299a5c1c8191a70dd09a4dfb5a8f",
+    "name": "image(20261104-052720).png",
+    "mime_type": "image/png",
+    "size_bytes": 297304,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "050",
+    "sha256": "06ce503a3d0e5a58acb0670f8872e98f5f4e5f65505b02ed9972bd0233b6cd15",
+    "publication_candidate": false,
+    "review_note": "包含具体发货工作流标识；不公开原图。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  },
+  {
+    "message_id": "Sentinel_ab4dee605d108191b427ad832deaf248",
+    "sent_at": "2026-11-04T07:03:41.161612+00:00",
+    "library_file_id": "libfile_f5304e92a1388191a571adf66f8fa4c6",
+    "name": "1000074357.jpg",
+    "mime_type": "image/jpeg",
+    "size_bytes": 249265,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "051",
+    "sha256": "79a9672b475004cef5de78cbc0fbb646113c97d453148155db33f634254f519b",
+    "publication_candidate": false,
+    "review_note": "第三方私人聊天截图及头像；改用业务摘要，不公开原图。",
+    "dimensions": [
+      931,
+      2048
+    ]
+  },
+  {
+    "message_id": "Sentinel_547a17fb5e448191b446e0134136c796",
+    "sent_at": "2026-11-04T08:45:32.014631+00:00",
+    "library_file_id": "libfile_91d0e8ca455c819198cfdcc7fac31abc",
+    "name": "image(20261104-084531).png",
+    "mime_type": "image/png",
+    "size_bytes": 384014,
+    "status": "已恢复并核验文件字节；未上传",
+    "index": "052",
+    "sha256": "e4f55609a642d80f60b6d24f5d06583442166194bdf61abae43efc21efaef8f2",
+    "publication_candidate": true,
+    "review_note": "商品/库存/回执或4A工作记录；仍含经营数据，公开须经授权。",
+    "dimensions": [
+      1920,
+      855
+    ]
+  }
+]

@@ -49,3 +49,10 @@ python tools/search.py '22933941801' --scope all
 混合对话按实际用户消息段筛选，保留选中业务段的上下文和公开操作。无关段落不导入。辅助事件流只收入可明确划定的业务轮次；被新消息改变主题的混合轮次，以 `activity` 为主要记录。最后 8 个 FBM 的补充浏览器操作另存 `codex-fbm-closure`。
 
 不包含账号密钥、登录会话、私有推理、机器运行环境、无关业务，以及完整 PSD/原片库。大素材保留本地原路径和哈希索引，按需再取。只能覆盖当前电脑仍保存的记录和文件，不承诺找回已删除或只存在云端的历史，也不声称恢复所有未留存的旧文件版本。
+
+
+## Dragon 补充归档 · 2026-11-04
+
+[Dragon 4A 归档入口](progress/dragon-20261104/README.md) · [讨论记录](progress/dragon-20261104/DISCUSSIONS.md) · [早期网站讨论](progress/dragon-20261104/EARLY_4A_WEBSITES.md) · [结论与未完事项](progress/dragon-20261104/DECISIONS_AND_STATUS.md) · [文件清单](progress/dragon-20261104/FILES.md) · [覆盖与脱敏说明](progress/dragon-20261104/COVERAGE.md)。
+
+本批补充911条运营讨论、38条早期网站相关记录或摘录及1,733项文件记录，附件以无损分卷存放，可按本批入口恢复并逐项验证。它不替代上方 Codex / Antigravity 状态；历史结论不等于当前全店验收，旧表格不应重传或重执行。用户确认暂时保持仓库公开并上传脱敏版本，订单个人信息、私人聊天和临时访问链接不在本批公开范围。
