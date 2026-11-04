@@ -1,0 +1,118 @@
+{
+  "asof_beijing": "2026-11-04 15:33",
+  "business_changes_frozen_by_user": true,
+  "handoff_only_authorized": true,
+  "repository_visibility": "public, user deliberately opened for web Gemini reading",
+  "dragon_cloud_export": "user will import separately; no export performed here",
+  "ads": {
+    "managed_running_campaigns": 37,
+    "daily_budget_usd": 112,
+    "core_daily_budgets": {
+      "301N": 18,
+      "30315": 15,
+      "4012": 12,
+      "BS1801": 10
+    },
+    "latest_auto_enabled": [
+      "close",
+      "loose",
+      "substitutes"
+    ],
+    "latest_auto_paused": [
+      "complements"
+    ],
+    "base_bids": {
+      "301N": {
+        "close": 0.75,
+        "loose": 0.7,
+        "substitutes": 0.5
+      },
+      "30315": {
+        "close": 0.75,
+        "loose": 0.65,
+        "substitutes": 0.5
+      },
+      "4012": {
+        "close": 0.7,
+        "loose": 0.6,
+        "substitutes": 0.5
+      },
+      "BS1801": {
+        "close": 0.75,
+        "loose": 0.75,
+        "substitutes": 0.45
+      }
+    },
+    "strategy": "dynamic bids down only retained",
+    "manual_terms_unchanged_in_last_expansion": true,
+    "independent_reload_verification": "[traffic-expansion-reload-verification.json](files/E/OpenAI-Codex/%E5%A4%A9%E7%9A%87%E3%81%AEcodex/work/ab-marketing-20261103/followup-verification-20261104-1339/traffic-expansion-reload-verification.json)",
+    "performance_not_yet_proven_after_expansion": true
+  },
+  "performance_before_latest_expansion": {
+    "native_export_at_beijing": "2026-11-04 13:51",
+    "us_table_date": "2026-11-03",
+    "all": {
+      "impressions": 5675,
+      "clicks": 14,
+      "spend_usd": 10.61,
+      "attributed_purchases": 2,
+      "attributed_sales_usd": 23.98
+    },
+    "new31": {
+      "impressions": 135,
+      "clicks": 3,
+      "spend_usd": 1.38,
+      "attributed_purchases": 0
+    },
+    "attributed_orders_scope": "both attributed to old 305 campaigns, not proof of exact purchased ASIN or FBM orders"
+  },
+  "listing_copy": {
+    "backend_own_contributions_saved": 7,
+    "public_title_and_five_bullets_updated": [
+      "B0F9L5G6XQ",
+      "B07QXJZKHC"
+    ],
+    "public_five_bullets_updated_title_old": [
+      "B07QXJYTZ7",
+      "B0F2TKL2P5"
+    ],
+    "public_copy_still_old": [
+      "B0FBG138ND",
+      "B08DKJ2K3T",
+      "B08CVLH794"
+    ]
+  },
+  "images": {
+    "premium_png_assets": 6,
+    "actual_dimensions": "1254x1254 RGB",
+    "instruction_guide_replacements_saved_for_asins": 10,
+    "distinct_asins_with_image_changes_including_5082": 11,
+    "all_public_image_selection_confirmed": false
+  },
+  "pss_merge": {
+    "case": "22960471201",
+    "source_asin": "B08DKJ2K3T",
+    "target_asin": "B08CVLH794",
+    "status": "rejected",
+    "reason": "active Amazon retail/multichannel catalog associations",
+    "last_reply_beijing": "2026-11-03 18:04",
+    "old_SC_page_maintained_separately": true
+  },
+  "order_statistics_correction": "Preserve c324c23 and 89b8469: prior historical order totals and derived averages withdrawn because item lines were incomplete.",
+  "open_items": [
+    "Read-only review of post-expansion impressions/clicks/spend/search terms and attributed orders",
+    "Verify public catalog selection for remaining titles/bullets/images",
+    "If PSS remains old, investigate contribution ownership/selection before any resubmission",
+    "Reconcile Dragon ownership using separate user export before any overlapping changes"
+  ],
+  "not_authorized_by_handoff": [
+    "new advertising edits",
+    "new listing edits",
+    "price or shipping changes",
+    "stock changes",
+    "case messages",
+    "re-submitting historical spreadsheets",
+    "video work",
+    "automatic monitoring"
+  ]
+}

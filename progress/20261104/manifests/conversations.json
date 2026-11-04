@@ -1,0 +1,56 @@
+{
+  "thread_id": "01a18a7c-7953-7b83-b51d-1a7f216ae7e1",
+  "title": "亚马逊相关业务",
+  "start_utc": "2026-11-01T16:00:00.000Z",
+  "cutoff_utc": "2026-11-04T08:17:23.505339Z",
+  "records": 6033,
+  "counts": {
+    "message": 638,
+    "function_call": 262,
+    "function_call_output": 262,
+    "custom_tool_call": 2433,
+    "custom_tool_call_output": 2438
+  },
+  "messages": {
+    "user": 163,
+    "assistant": 475
+  },
+  "activity_parts": [
+    "progress/20261104/conversations/activity-001.jsonl",
+    "progress/20261104/conversations/activity-002.jsonl",
+    "progress/20261104/conversations/activity-003.jsonl",
+    "progress/20261104/conversations/activity-004.jsonl",
+    "progress/20261104/conversations/activity-005.jsonl",
+    "progress/20261104/conversations/activity-006.jsonl",
+    "progress/20261104/conversations/activity-007.jsonl",
+    "progress/20261104/conversations/activity-008.jsonl",
+    "progress/20261104/conversations/activity-009.jsonl",
+    "progress/20261104/conversations/activity-010.jsonl",
+    "progress/20261104/conversations/activity-011.jsonl",
+    "progress/20261104/conversations/activity-012.jsonl",
+    "progress/20261104/conversations/activity-013.jsonl",
+    "progress/20261104/conversations/activity-014.jsonl",
+    "progress/20261104/conversations/activity-015.jsonl"
+  ],
+  "chat_parts": [
+    "progress/20261104/conversations/chat-001.md",
+    "progress/20261104/conversations/chat-002.md"
+  ],
+  "sources": [
+    {
+      "source": "E:\\OpenAI-Codex\\CodexHome\\sessions\\2026\\10\\30\\rollout-2026-10-30T09-46-15-01a18a7c-7953-7b83-b51d-1a7f216ae7e1.jsonl",
+      "snapshot_bytes": 789352968,
+      "kept": 4904,
+      "ignored_runtime_or_outside_range": 35020,
+      "snapshot_sha256": "0c11edd72ac184b779458967eebd842bac4190984e5304a50c5fb54d492fce8b"
+    },
+    {
+      "source": "E:\\OpenAI-Codex\\CodexHome\\sessions\\2026\\11\\03\\rollout-2026-11-03T23-18-14-01a18a7c-7953-7b83-b51d-1a7f216ae7e1_01a1a1fd-4e54-7ba1-8876-3e14f27611ee.jsonl",
+      "snapshot_bytes": 91493810,
+      "kept": 1129,
+      "ignored_runtime_or_outside_range": 3309,
+      "snapshot_sha256": "2c00d02b13a0758a04ae70e42e29fa1465cd2e3f64c8773d823d1a49819d7e7f"
+    }
+  ],
+  "export_rule": "Visible user/assistant messages and public tool calls/results only. Internal reasoning, system/developer messages, runtime state, compactions, encrypted contents and authentication are excluded. No Dragon cloud conversation export."
+}

@@ -1,0 +1,29 @@
+{
+  "created_at_utc": "2026-11-04T08:17:23.505339Z",
+  "business_files": 3683,
+  "business_file_bytes": 538301539,
+  "embedded_assets": 114,
+  "embedded_asset_bytes": 38507105,
+  "public_records": 6033,
+  "message_counts": {
+    "user": 163,
+    "assistant": 475
+  },
+  "activity_parts": 15,
+  "chat_parts": 2,
+  "excluded": 0,
+  "unavailable_reference_candidates": 285,
+  "redactions": {
+    "assignment": 8,
+    "aws_query": 100,
+    "jwt": 9,
+    "aws_access_id": 40,
+    "query_secret": 10,
+    "url_credential": 1
+  },
+  "business_state_frozen": true,
+  "dragon_cloud_export_included": false,
+  "large_release_files": 1,
+  "large_release_file_bytes": 149436186,
+  "business_files_including_release": 3684
+}

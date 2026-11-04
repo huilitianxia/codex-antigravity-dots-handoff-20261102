@@ -1,0 +1,24 @@
+{
+  "at_utc": "2026-11-04T08:28:10.746260+00:00",
+  "business_files": 3683,
+  "all_file_hashes_match": true,
+  "hash_mismatches": [],
+  "strong_credential_findings": [],
+  "office_and_zip_text_members_scanned": 886,
+  "all_files_under_100MiB": true,
+  "remote_verification": "performed after push; see final delivery receipt outside tracked tree",
+  "entry_links_valid": true,
+  "large_original_expected_sha256": "66ea00d89618e13a7c3a2dd64f3b206cf28ac17a63e8027bdb36510e47657816",
+  "embedded_assets_verified": 114,
+  "all_embedded_asset_hashes_match": true,
+  "user_messages_with_images": 14,
+  "user_image_references": 19,
+  "unresolved_invalid_embedded_placeholders": [],
+  "attachment_reference_repair_verified_at_utc": "2026-11-04T08:43:37.072671+00:00",
+  "literal_marker_mentions_in_archived_code": 5,
+  "all_user_image_references_resolve": true,
+  "freeze_planning_files_refreshed": [
+    "progress/20261104/files/E/OpenAI-Codex/天皇のcodex/.planning/2026-11-03-ab-old-product-marketing/progress.md",
+    "progress/20261104/files/E/OpenAI-Codex/天皇のcodex/.planning/2026-11-03-ab-old-product-marketing/task_plan.md"
+  ]
+}
