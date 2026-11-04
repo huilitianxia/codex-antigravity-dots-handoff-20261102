@@ -1,0 +1,265 @@
+{
+  "product": {
+    "sku": "4A PSS 32x6",
+    "asin": "B08CVLH794",
+    "spec": "0.6 × 393 in per roll; 6 rolls with individual cutters",
+    "colors": "coral / lime green / orange / yellow / pink / blue"
+  },
+  "created_at": "2026-10-30 Asia/Shanghai",
+  "generation_mode": "内置imagegen；尺寸对比图为精确SVG图形",
+  "specification_conflicts": [],
+  "status_definitions": {
+    "final_candidate": "已完成本轮设计检查，待实物核样和最终采用；不等于已批准上架",
+    "needs_product_check": "存在明确待核或需改进项目，先审稿",
+    "approved": "仅明确审核通过后进入可交付_已批准，并设置approved_for_automation=true"
+  },
+  "approved_files": [],
+  "images": [
+    {
+      "sku": "4A PSS 32x6",
+      "asin": "B08CVLH794",
+      "id": "PSS32x6_01",
+      "title": "主图｜六盒白底",
+      "order": 1,
+      "role": "main",
+      "file": "交付候选_2000px/PSS32x6_01.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "reference_sources": [
+        {
+          "original": "D:/4A/印刷用图片/电商/亚马逊图片-2021/8-----4A Roll Sticky Notes/4A PSS 32/pss 32x6-3.jpg",
+          "copy": "原图参考\\01_pss 32x6-3.jpg",
+          "sha256": "66fe92207f985273dff8069271b1738ae075e659eecd29afea8ef606b991a81e"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_30315_20261030/images/303_01.png",
+          "copy": "原图参考\\02_303_01.png",
+          "sha256": "1e43645a44ad169e600999d935504d23efcc5fc3d4d49b2ec8ce1924c0ac8852"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_Listing_AP_20261029/images/5082_03.png",
+          "copy": "原图参考\\03_5082_03.png",
+          "sha256": "590492275a4e88adef8c71ae4fd907486d75a7d6a993d7a7e51c24f691a8ce9c"
+        }
+      ],
+      "generation_source": "生成源图/PSS32x6_01_v2.png",
+      "generation_source_pixels": [
+        1254,
+        1254
+      ],
+      "processing": "内置imagegen透明底返修源图；Lanczos3等比缩放至1800方框；合成RGB255白底；四边各100px白色边距；未恢复真实细节。",
+      "color_verification": "Amazon标题/五点和原始素材一致；色值非实物色准测量。",
+      "review_status": "final_candidate",
+      "design_check": "六盒可数；六色；无广告字和额外道具",
+      "pending_checks": [
+        "切刀齿形、透明外壳与实际批次复核",
+        "生成产品图仍需实物批次核样；尚未获得发布批准"
+      ],
+      "approved_for_automation": false,
+      "approved_for_upload": false,
+      "physical_sample_verified": false,
+      "white_background_check": {
+        "border_test_width_px": 60,
+        "border_pixels_checked": 465600,
+        "exact_rgb_255_pixels": 465600,
+        "pass": true,
+        "method": "透明底合成纯白；边框逐像素核验。产品与浅接触阴影区域不要求为纯白。"
+      },
+      "sha256": "82d792dca25dece724ca3fb1259cb5e66935c17672903d3ea401a69731c80456"
+    },
+    {
+      "sku": "4A PSS 32x6",
+      "asin": "B08CVLH794",
+      "id": "PSS32x6_02",
+      "title": "副图｜拉出与切割",
+      "order": 2,
+      "role": "secondary",
+      "file": "审稿待核_2000px/PSS32x6_02.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "reference_sources": [
+        {
+          "original": "D:/4A/印刷用图片/电商/亚马逊图片-2021/8-----4A Roll Sticky Notes/4A PSS 32/pss 32x6-3.jpg",
+          "copy": "原图参考\\01_pss 32x6-3.jpg",
+          "sha256": "66fe92207f985273dff8069271b1738ae075e659eecd29afea8ef606b991a81e"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_30315_20261030/images/303_01.png",
+          "copy": "原图参考\\02_303_01.png",
+          "sha256": "1e43645a44ad169e600999d935504d23efcc5fc3d4d49b2ec8ce1924c0ac8852"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_Listing_AP_20261029/images/5082_03.png",
+          "copy": "原图参考\\03_5082_03.png",
+          "sha256": "590492275a4e88adef8c71ae4fd907486d75a7d6a993d7a7e51c24f691a8ce9c"
+        }
+      ],
+      "generation_source": "生成源图/PSS32x6_02.png",
+      "generation_source_pixels": [
+        1254,
+        1254
+      ],
+      "processing": "Lanczos3等比插值至2000×2000；源图约1254px；无AI超分、未恢复真实细节。",
+      "color_verification": "Amazon标题/五点和原始素材一致；色值非实物色准测量。",
+      "review_status": "needs_product_check",
+      "design_check": "两步标题及0.6/393英寸文字正确",
+      "pending_checks": [
+        "切割画面与拉出姿势差异较小；需实物切割动作核验后定稿",
+        "生成产品图仍需实物批次核样；尚未获得发布批准"
+      ],
+      "approved_for_automation": false,
+      "approved_for_upload": false,
+      "physical_sample_verified": false,
+      "white_background_check": null,
+      "sha256": "eff2d978cf7d0ac2e15124289b4ce1772aa914735c7c46e0c69832472a6e6af5"
+    },
+    {
+      "sku": "4A PSS 32x6",
+      "asin": "B08CVLH794",
+      "id": "PSS32x6_03",
+      "title": "副图｜书写与全背胶用途",
+      "order": 3,
+      "role": "secondary",
+      "file": "审稿待核_2000px/PSS32x6_03.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "reference_sources": [
+        {
+          "original": "D:/4A/印刷用图片/电商/亚马逊图片-2021/8-----4A Roll Sticky Notes/4A PSS 32/pss 32x6-3.jpg",
+          "copy": "原图参考\\01_pss 32x6-3.jpg",
+          "sha256": "66fe92207f985273dff8069271b1738ae075e659eecd29afea8ef606b991a81e"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_30315_20261030/images/303_01.png",
+          "copy": "原图参考\\02_303_01.png",
+          "sha256": "1e43645a44ad169e600999d935504d23efcc5fc3d4d49b2ec8ce1924c0ac8852"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_Listing_AP_20261029/images/5082_03.png",
+          "copy": "原图参考\\03_5082_03.png",
+          "sha256": "590492275a4e88adef8c71ae4fd907486d75a7d6a993d7a7e51c24f691a8ce9c"
+        }
+      ],
+      "generation_source": "生成源图/PSS32x6_03.png",
+      "generation_source_pixels": [
+        1254,
+        1254
+      ],
+      "processing": "Lanczos3等比插值至2000×2000；源图约1254px；无AI超分、未恢复真实细节。",
+      "color_verification": "Amazon标题/五点和原始素材一致；色值非实物色准测量。",
+      "review_status": "needs_product_check",
+      "design_check": "书写与贴附用途清楚；无耐热或绝缘承诺",
+      "pending_checks": [
+        "背面呈浅色，背面纸色及全背胶结构需实物复核；不得作为胶层证明",
+        "生成产品图仍需实物批次核样；尚未获得发布批准"
+      ],
+      "approved_for_automation": false,
+      "approved_for_upload": false,
+      "physical_sample_verified": false,
+      "white_background_check": null,
+      "sha256": "b50ac1f3e824dafd821d5a06f72cb7fa5d7f3d246269e792c3c2118727b91dc2"
+    },
+    {
+      "sku": "4A PSS 32x6",
+      "asin": "B08CVLH794",
+      "id": "PSS32x6_04",
+      "title": "副图｜电线／文件／收纳／实验室分类",
+      "order": 4,
+      "role": "secondary",
+      "file": "交付候选_2000px/PSS32x6_04.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "reference_sources": [
+        {
+          "original": "D:/4A/印刷用图片/电商/亚马逊图片-2021/8-----4A Roll Sticky Notes/4A PSS 32/pss 32x6-3.jpg",
+          "copy": "原图参考\\01_pss 32x6-3.jpg",
+          "sha256": "66fe92207f985273dff8069271b1738ae075e659eecd29afea8ef606b991a81e"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_30315_20261030/images/303_01.png",
+          "copy": "原图参考\\02_303_01.png",
+          "sha256": "1e43645a44ad169e600999d935504d23efcc5fc3d4d49b2ec8ce1924c0ac8852"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_Listing_AP_20261029/images/5082_03.png",
+          "copy": "原图参考\\03_5082_03.png",
+          "sha256": "590492275a4e88adef8c71ae4fd907486d75a7d6a993d7a7e51c24f691a8ce9c"
+        }
+      ],
+      "generation_source": "生成源图/PSS32x6_04.png",
+      "generation_source_pixels": [
+        1254,
+        1254
+      ],
+      "processing": "Lanczos3等比插值至2000×2000；源图约1254px；无AI超分、未恢复真实细节。",
+      "color_verification": "Amazon标题/五点和原始素材一致；色值非实物色准测量。",
+      "review_status": "final_candidate",
+      "design_check": "四种分类场景；电线仅作识别；无绝缘暗示",
+      "pending_checks": [
+        "标签与道具尺度为场景示意；场景道具不包含在商品中",
+        "生成产品图仍需实物批次核样；尚未获得发布批准"
+      ],
+      "approved_for_automation": false,
+      "approved_for_upload": false,
+      "physical_sample_verified": false,
+      "white_background_check": null,
+      "sha256": "34a9d1aa9403b4a612cdefc374992cf42e8356ecd1ba242d0fac2aab591377e9"
+    },
+    {
+      "sku": "4A PSS 32x6",
+      "asin": "B08CVLH794",
+      "id": "PSS32x6_05",
+      "title": "副图｜六盒与卷长规格",
+      "order": 5,
+      "role": "secondary",
+      "file": "交付候选_2000px/PSS32x6_05.png",
+      "pixels": [
+        2000,
+        2000
+      ],
+      "reference_sources": [
+        {
+          "original": "D:/4A/印刷用图片/电商/亚马逊图片-2021/8-----4A Roll Sticky Notes/4A PSS 32/pss 32x6-3.jpg",
+          "copy": "原图参考\\01_pss 32x6-3.jpg",
+          "sha256": "66fe92207f985273dff8069271b1738ae075e659eecd29afea8ef606b991a81e"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_30315_20261030/images/303_01.png",
+          "copy": "原图参考\\02_303_01.png",
+          "sha256": "1e43645a44ad169e600999d935504d23efcc5fc3d4d49b2ec8ce1924c0ac8852"
+        },
+        {
+          "original": "C:/Users/24243/Documents/ChatGPT/天皇のcodex 2/outputs/4A_Listing_AP_20261029/images/5082_03.png",
+          "copy": "原图参考\\03_5082_03.png",
+          "sha256": "590492275a4e88adef8c71ae4fd907486d75a7d6a993d7a7e51c24f691a8ce9c"
+        }
+      ],
+      "generation_source": "生成源图/PSS32x6_05.png",
+      "generation_source_pixels": [
+        1254,
+        1254
+      ],
+      "processing": "Lanczos3等比插值至2000×2000；源图约1254px；无AI超分、未恢复真实细节。",
+      "color_verification": "Amazon标题/五点和原始素材一致；色值非实物色准测量。",
+      "review_status": "final_candidate",
+      "design_check": "六盒六色可数；0.6英寸宽/393英寸每卷文字正确",
+      "pending_checks": [
+        "外壳、纸色与实物批次复核",
+        "生成产品图仍需实物批次核样；尚未获得发布批准"
+      ],
+      "approved_for_automation": false,
+      "approved_for_upload": false,
+      "physical_sample_verified": false,
+      "white_background_check": null,
+      "sha256": "0c8e6504b7e7aa9cda82712c3925a2f3e9406145b1089fbe88fb20f2dc57142d"
+    }
+  ]
+}
