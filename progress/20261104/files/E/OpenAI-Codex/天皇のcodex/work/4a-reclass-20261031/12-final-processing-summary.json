@@ -1,0 +1,870 @@
+{
+  "batch_id": "285175020758",
+  "status_counts": {
+    "SUCCESS": 413,
+    "SUCCESS (OTHER ERROR)": 99
+  },
+  "failed_rows": 0,
+  "submitted_cells_checked": 4903,
+  "submitted_cell_mismatches": 0,
+  "no_100476_in_receipt": true,
+  "no_99300_in_receipt": true,
+  "primary_buckets": {
+    "家族关系或套装设置暂缓": 21,
+    "SKU或ASIN不存在或不能匹配": 23,
+    "目录属性冲突待核": 39,
+    "真实合规或商品限制待核": 4,
+    "图片问题暂缓": 4,
+    "语言数据旧提示": 4,
+    "其他属性枚举待核": 2,
+    "本次重复亮点已纠正并回验": 1,
+    "需卖家支持诊断": 1
+  },
+  "bucket_rule": "One primary bucket per OTHER ERROR row. Multiple issues may coexist; all_codes retains every code. These are residual catalog issues, not a claim that all submitted changes failed or all buyer pages are live.",
+  "rows": [
+    {
+      "sku": "4A Meeting-51",
+      "asin": "B07GBYPK92",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "100893"
+      ]
+    },
+    {
+      "sku": "4AMEETING-41CLEAR",
+      "asin": "B07T6LTJ4G",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4A sticky 021-21",
+      "asin": "B07KS9TZ8Q",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A SMC 435",
+      "asin": "B07F2CWPTH",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "100893",
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A sticky 020-20",
+      "asin": "B07KS8JBD5",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "8066"
+      ]
+    },
+    {
+      "sku": "4A093",
+      "asin": "B01N0VHWSL",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "101265",
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 0153",
+      "asin": "B077QFD8G7",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 0154",
+      "asin": "B078BQ7G72",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 0155",
+      "asin": "B0784GDSY2",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "101265",
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 0166",
+      "asin": "B0784GHSVJ",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 0168",
+      "asin": "B077Q9W8CW",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 0169",
+      "asin": "B077QB3SK9",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 0171",
+      "asin": "B078BPPCXR",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 0183",
+      "asin": "B07B7JF9LB",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 024",
+      "asin": "B01MEBRJQE",
+      "primary_bucket": "真实合规或商品限制待核",
+      "all_codes": [
+        "100227",
+        "19083",
+        "19084"
+      ]
+    },
+    {
+      "sku": "4A 037",
+      "asin": "B01M617ZTH",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 039",
+      "asin": "B01N1T23HH",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 040",
+      "asin": "B01N7IT411",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 186",
+      "asin": "B07B8FGS9G",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 187",
+      "asin": "B07B8CP97S",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 303 x 24-Y",
+      "asin": "B01MEBRJQE",
+      "primary_bucket": "真实合规或商品限制待核",
+      "all_codes": [
+        "100227",
+        "19083",
+        "19084"
+      ]
+    },
+    {
+      "sku": "4A 303-Full Adhesive",
+      "asin": "B0F9L7BVCW",
+      "primary_bucket": "图片问题暂缓",
+      "all_codes": [
+        "101156"
+      ]
+    },
+    {
+      "sku": "4A 303-Full-400+304-Full-400",
+      "asin": "B0H5Y7WDLT",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "100893",
+        "18837",
+        "8603"
+      ]
+    },
+    {
+      "sku": "4A 30315-Z",
+      "asin": "B07RP82CVJ",
+      "primary_bucket": "图片问题暂缓",
+      "all_codes": [
+        "300403"
+      ]
+    },
+    {
+      "sku": "4A 305 x 6-Y",
+      "asin": "B01N0R4QI8",
+      "primary_bucket": "真实合规或商品限制待核",
+      "all_codes": [
+        "18370"
+      ]
+    },
+    {
+      "sku": "4A 305x6-Y",
+      "asin": "B01N0R4QI8",
+      "primary_bucket": "真实合规或商品限制待核",
+      "all_codes": [
+        "13013",
+        "18370"
+      ]
+    },
+    {
+      "sku": "4A 40606",
+      "asin": "B00SMEEWUA",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 40608*2",
+      "asin": "B01N6KXLJ5",
+      "primary_bucket": "语言数据旧提示",
+      "all_codes": [
+        "100720"
+      ]
+    },
+    {
+      "sku": "4A 40609",
+      "asin": "B00SMEF4RU",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "100893",
+        "100899",
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 5036",
+      "asin": "B01N6IT5IG",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 5078",
+      "asin": "B00SMEEF2A",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 5084 Parent",
+      "asin": "B0FB8GH4HV",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4A 5088",
+      "asin": "B07F2TCDG2",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 60122 NG",
+      "asin": "B00V9Z631K",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "100899"
+      ]
+    },
+    {
+      "sku": "4A 60122 NO",
+      "asin": "B00V9Z5Y60",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "100899"
+      ]
+    },
+    {
+      "sku": "4A 60122 NP",
+      "asin": "B00V9Z5YBK",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "100899"
+      ]
+    },
+    {
+      "sku": "4A 60122 NY",
+      "asin": "B00V9Z5Y7Y",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "100899"
+      ]
+    },
+    {
+      "sku": "4A 60122-NYx3+NBx3",
+      "asin": "B0F53255VT",
+      "primary_bucket": "图片问题暂缓",
+      "all_codes": [
+        "18320"
+      ]
+    },
+    {
+      "sku": "4A 60238",
+      "asin": "B01MATR9TE",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 6035x2",
+      "asin": "B0CCDCTBBV",
+      "primary_bucket": "其他属性枚举待核",
+      "all_codes": [
+        "90244"
+      ]
+    },
+    {
+      "sku": "4A 8076",
+      "asin": "B077QLH5CB",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "100893",
+        "101265",
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A BS 1803",
+      "asin": "B07K8KJ83T",
+      "primary_bucket": "图片问题暂缓",
+      "all_codes": [
+        "101265",
+        "20000"
+      ]
+    },
+    {
+      "sku": "4A GM124418*3",
+      "asin": "B07PY1BY5F",
+      "primary_bucket": "语言数据旧提示",
+      "all_codes": [
+        "100720"
+      ]
+    },
+    {
+      "sku": "4A GM40624*2",
+      "asin": "B07FK8CRM9",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "99022"
+      ]
+    },
+    {
+      "sku": "4A GM484812-N*2",
+      "asin": "B07FK81CQ6",
+      "primary_bucket": "语言数据旧提示",
+      "all_codes": [
+        "100581",
+        "100720"
+      ]
+    },
+    {
+      "sku": "4A GM50024",
+      "asin": "B07RP9BW5Z",
+      "primary_bucket": "语言数据旧提示",
+      "all_codes": [
+        "100720"
+      ]
+    },
+    {
+      "sku": "4A GM60171*3",
+      "asin": "B07FK9VK5L",
+      "primary_bucket": "本次重复亮点已纠正并回验",
+      "all_codes": [
+        "100470"
+      ]
+    },
+    {
+      "sku": "4A GMPSS 9-5 Refill",
+      "asin": "B07QXJX2BV",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "100899"
+      ]
+    },
+    {
+      "sku": "4A PSS 9-1 NG",
+      "asin": "B01N9LPEVG",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A PSS 9-1 NOGrid",
+      "asin": "B01N7MTXCN",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "100893",
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A PSS 9-1 NR",
+      "asin": "B00V9Z5YCO",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "100899"
+      ]
+    },
+    {
+      "sku": "4A PSS 9-1 NYGrid",
+      "asin": "B00SMEE444",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "100899"
+      ]
+    },
+    {
+      "sku": "4A PSS 9-5 NB",
+      "asin": "B00V9Z5PS2",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "101265",
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A PSS 9-5 Refill",
+      "asin": "B07QXJX2BV",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "100899"
+      ]
+    },
+    {
+      "sku": "4A SF-60238",
+      "asin": "B01MATR9TE",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A SMC-001-1",
+      "asin": "B07KS9D62F",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4A Sticky 005-5",
+      "asin": "B07KT5PXLK",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A Sticky 007-7",
+      "asin": "B07KT5SQWF",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A TN 789",
+      "asin": "B01MDJGBD5",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "100893",
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A sticky 001-1",
+      "asin": "B07KPGH5ZD",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4A sticky 002-4",
+      "asin": "B07JNZ1H6C",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "8066"
+      ]
+    },
+    {
+      "sku": "4A sticky 003-3",
+      "asin": "B07JY1NRG1",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "8047"
+      ]
+    },
+    {
+      "sku": "4A sticky 006-6",
+      "asin": "B07KR97S12",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4A sticky 009-9",
+      "asin": "B07KR9LD68",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A sticky 010-10",
+      "asin": "B07KRBF9V8",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4A sticky 013-13",
+      "asin": "B07KRL9KK3",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4A sticky 014-14",
+      "asin": "B07KS972NW",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4A sticky 015-15",
+      "asin": "B07KS92L4R",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4A sticky 016-16",
+      "asin": "B07KS868KR",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4A sticky 022-22",
+      "asin": "B07KS13HT8",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A sticky 023-23",
+      "asin": "B07KS82V78",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4A sticky 024-24",
+      "asin": "B07KSR4VVZ",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4A sticky 027-27",
+      "asin": "B07KSMSMFD",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A sticky 030-30",
+      "asin": "B07KSZJ1LK",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4A sticky 033-33",
+      "asin": "B07KSSFFYS",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4A077",
+      "asin": "B01MY2BF9Q",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A092",
+      "asin": "B00SMEDUWQ",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "101265",
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A095",
+      "asin": "B01M2UDADZ",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A30FANNA00",
+      "asin": "B07QWKWRQR",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A3DSTICKYANI",
+      "asin": "B082WDQWV3",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4A3DSTICKYCAT",
+      "asin": "B082WDVBP8",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4A3DSTICKYDOG",
+      "asin": "B082WDFK4H",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4A3DSTICKYOCEAN",
+      "asin": "B082WDN5JB",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4A3DSTICKYTL",
+      "asin": "B082WDLB76",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4ABNLCOLORFUL",
+      "asin": "B07TSD42PN",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4ABP111522NP4",
+      "asin": "B07SDDQFC7",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4ADRT521",
+      "asin": "B07TXPZJBJ",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4ADSSBP-DC",
+      "asin": "B07Q21QT9W",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4ASCBS1812345",
+      "asin": "B07WFVJT3F",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "8066"
+      ]
+    },
+    {
+      "sku": "4ASMC5678",
+      "asin": "B07Q4PX9V3",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "8047"
+      ]
+    },
+    {
+      "sku": "4ASNFSDC12",
+      "asin": "B07TS7Y1FN",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4ASNFSILMS",
+      "asin": "B07TXGF2QR",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4ASNVPDS-MC",
+      "asin": "B07TXKTTKH",
+      "primary_bucket": "SKU或ASIN不存在或不能匹配",
+      "all_codes": [
+        "8567"
+      ]
+    },
+    {
+      "sku": "4ASSNDS924",
+      "asin": "B07TXGHQNZ",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4ASUPERSN-5C",
+      "asin": "B07TTCCL7J",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "AAAA 4A 6411+ 6412",
+      "asin": "B07FKQ77PK",
+      "primary_bucket": "需卖家支持诊断",
+      "all_codes": [
+        "18128"
+      ]
+    },
+    {
+      "sku": "AAAA 4AMT4293SNT",
+      "asin": "B07ZQHHCB5",
+      "primary_bucket": "家族关系或套装设置暂缓",
+      "all_codes": [
+        "8047"
+      ]
+    },
+    {
+      "sku": "AAAAACCUBE",
+      "asin": "B07QNL7N3W",
+      "primary_bucket": "目录属性冲突待核",
+      "all_codes": [
+        "8541"
+      ]
+    },
+    {
+      "sku": "4A 0146",
+      "asin": "B0778HMZ9W",
+      "primary_bucket": "其他属性枚举待核",
+      "all_codes": [
+        "100095"
+      ]
+    }
+  ],
+  "three_language_titles_current_acceptance": [
+    {
+      "sku": "4A GM124418*3",
+      "title_and_highlight_saved_match": true,
+      "visible_language": "English",
+      "current_editor_100720_absent": true,
+      "new_edits_or_resubmission": false
+    },
+    {
+      "sku": "4A GM484812-N*2",
+      "title_and_highlight_saved_match": true,
+      "visible_language": "English",
+      "current_editor_100720_absent": true,
+      "new_edits_or_resubmission": false
+    },
+    {
+      "sku": "4A GM50024",
+      "title_and_highlight_saved_match": true,
+      "visible_language": "English",
+      "current_editor_100720_absent": true,
+      "new_edits_or_resubmission": false
+    }
+  ],
+  "one_highlight_correction": {
+    "sku": "4A GM60171*3",
+    "asin": "B07FK9VK5L",
+    "new_highlight": "Sign Here and Note flags; transparent, writable color tabs for marking documents",
+    "saved_independent_readback": true,
+    "100470_absent": true,
+    "frozen_upload_file_unchanged": true
+  },
+  "public_pages_all_verified": false
+}

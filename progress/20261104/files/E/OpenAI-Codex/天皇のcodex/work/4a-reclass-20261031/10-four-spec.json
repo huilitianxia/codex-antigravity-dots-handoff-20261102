@@ -1,0 +1,79 @@
+{
+  "source": "D:/下载文件/PriceAndQuantity.xlsm",
+  "final": "E:/OpenAI-Codex/天皇のcodex/outputs/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/20261031-urgent-fixes/10-four-noncoupon-promotions.xlsm",
+  "changes": {
+    "A7": "AAAA 4A PSS 9-1 NGGrid",
+    "K7": 17.99,
+    "L7": "2026-11-02",
+    "M7": "2026-11-16",
+    "P7": 17.49,
+    "U7": "Percent",
+    "V7": 3,
+    "W7": 2,
+    "X7": 5,
+    "Y7": 3,
+    "Z7": 10,
+    "AA7": 5,
+    "A8": "4A 004",
+    "K8": 14.39,
+    "L8": "2026-11-02",
+    "M8": "2026-11-16",
+    "P8": 13.99,
+    "U8": "Percent",
+    "V8": 3,
+    "W8": 2,
+    "X8": 5,
+    "Y8": 3,
+    "Z8": 10,
+    "AA8": 5,
+    "A9": "AAAA 4A 301x12-N",
+    "K9": 15.29,
+    "L9": "2026-11-02",
+    "M9": "2026-11-16",
+    "P9": 14.99,
+    "U9": "Percent",
+    "V9": 3,
+    "W9": 2,
+    "X9": 5,
+    "Y9": 3,
+    "Z9": 10,
+    "AA9": 5,
+    "A10": "4A 301x24x2",
+    "K10": 23.39,
+    "L10": "2026-11-02",
+    "M10": "2026-11-16",
+    "P10": 22.99,
+    "U10": "Percent",
+    "V10": 3,
+    "W10": 2,
+    "X10": 5,
+    "Y10": 3,
+    "Z10": 10,
+    "AA10": 5
+  },
+  "rows": [
+    [
+      "AAAA 4A PSS 9-1 NGGrid",
+      17.99,
+      17.49
+    ],
+    [
+      "4A 004",
+      14.39,
+      13.99
+    ],
+    [
+      "AAAA 4A 301x12-N",
+      15.29,
+      14.99
+    ],
+    [
+      "4A 301x24x2",
+      23.39,
+      22.99
+    ]
+  ],
+  "requested_active_dates": "2026-11-02 through 2026-11-15 inclusive",
+  "sale_end_at": "2026-11-16 00:00 per official template Data Definitions D17",
+  "business_tiers_persist_after_sale_end": true
+}

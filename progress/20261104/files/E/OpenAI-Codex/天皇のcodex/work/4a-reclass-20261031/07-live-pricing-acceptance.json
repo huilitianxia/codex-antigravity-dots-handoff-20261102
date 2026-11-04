@@ -1,0 +1,57 @@
+{
+  "checked_at": "2026-11-01T14:26:24.095013",
+  "scope": "07 two SKU pricing actual inventory and business panel",
+  "receipt": "2 SUCCESS OTHER ERROR; inherited100476 remains, no price-field errors",
+  "sku": [
+    {
+      "sku": "4A 305-Full Adhesive",
+      "regular": 10.99,
+      "sale": 10.99,
+      "business": 9.49,
+      "tiers": [
+        [
+          2,
+          3.0
+        ],
+        [
+          5,
+          4.0
+        ],
+        [
+          10,
+          5.0
+        ]
+      ],
+      "status": "live_pricing_verified",
+      "evidence": [
+        "07-live-inventory-305.txt",
+        "07-live-tiers-305.txt"
+      ]
+    },
+    {
+      "sku": "4A 302-Full Adhesive-400",
+      "regular": 17.99,
+      "sale": 17.99,
+      "business": 17.56,
+      "tiers": [
+        [
+          2,
+          2.0
+        ],
+        [
+          5,
+          3.0
+        ],
+        [
+          10,
+          5.0
+        ]
+      ],
+      "status": "live_pricing_verified",
+      "evidence": [
+        "07-live-inventory-302.txt",
+        "07-live-tiers-302.txt"
+      ]
+    }
+  ]
+}

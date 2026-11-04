@@ -1,0 +1,53 @@
+{
+  "file": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261031-urgent-fixes\\12-catalog-text-repairs-only.xlsm",
+  "sha256": "aac5be52a7d6cf7bb6904f51c2f4d436f08dd19355908bd3f5e818de2cd3ed11",
+  "rows": 512,
+  "asins": 406,
+  "field_counts": {
+    "item_name": 409,
+    "title_differentiation": 409,
+    "bullet_point": 1356,
+    "product_description": 169
+  },
+  "title_pair_numeric_values_preserved": 409,
+  "maximum_title_length": 75,
+  "maximum_highlight_length": 122,
+  "populated_columns": [
+    "C",
+    "D",
+    "E",
+    "I",
+    "J",
+    "L",
+    "M",
+    "AR",
+    "AS",
+    "AT",
+    "AU",
+    "AV",
+    "AW"
+  ],
+  "all_columns_checked": true,
+  "non_target_fields": 0,
+  "price_stock_color_pack_relationship_fields_written": false,
+  "changed_zip_parts": [
+    "xl/worksheets/sheet5.xml"
+  ],
+  "headers_macros_other_tabs_unchanged": true,
+  "hold_reasons": {
+    "generic_source_title_identity_insufficient": 35,
+    "existing_identity_or_compliance_conflict:100390,100477": 2,
+    "latest_report_title_changed_preserve_newer_text": 48,
+    "existing_identity_or_compliance_conflict:8541": 24,
+    "latest_report_asin_differs_from_source": 7,
+    "no_highlight_facts": 37,
+    "parent_family_deferred": 29,
+    "unverified_bulk_pack_quantity": 4,
+    "already_corrected_title_highlight_in_latest_report": 6,
+    "existing_identity_or_compliance_conflict:pack_identity_conflict": 2,
+    "ambiguous_mixed_size_title": 2,
+    "exact_sku_missing_latest_report": 2,
+    "existing_identity_or_compliance_conflict:100720": 1
+  },
+  "uploaded": false
+}

@@ -1,0 +1,23 @@
+{
+  "source": "D:/下载文件/PriceAndQuantity.xlsm",
+  "final": "E:/OpenAI-Codex/天皇のcodex/outputs/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/20261031-urgent-fixes/05-remove-temporary-minimums.xlsm",
+  "rows": [
+    [
+      "AAAA 4A 303-AC-holder",
+      17.99
+    ],
+    [
+      "AAAA 4A 6032",
+      24.99
+    ],
+    [
+      "AAAA 4A 608-N-L-210",
+      14.99
+    ],
+    [
+      "303-AC-holder",
+      11.6
+    ]
+  ],
+  "deletion": "Delete Minimum Seller Allowed Price (Sell on Amazon, US)"
+}

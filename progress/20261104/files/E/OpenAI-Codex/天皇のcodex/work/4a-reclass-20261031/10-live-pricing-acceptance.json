@@ -1,0 +1,175 @@
+{
+  "checked_at": "2026-11-01T16:19:48.716141+08:00",
+  "read_only": true,
+  "no_repeat_writes": true,
+  "rows": [
+    {
+      "asin": "B07FK7PBHJ",
+      "sku": "AAAA 4A PSS 9-1 NGGrid",
+      "ordinary_price": 19.99,
+      "ordinary_unchanged": true,
+      "saved_sale_price": 17.99,
+      "saved_sale_start": "2026-11-02",
+      "saved_sale_end_date": "2026-11-16",
+      "sale_end_semantics": "00:00 per officialtemplate; covers11/15",
+      "sale_configuration_verified": true,
+      "sale_frontend_active_now": false,
+      "sale_frontend_state": "NOT_DUE_YET_NOT_A_FAILURE",
+      "business_price_observed": 17.49,
+      "business_tiers_observed": [
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          10,
+          5
+        ]
+      ],
+      "expected_business_price": 17.49,
+      "expected_business_tiers": [
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          10,
+          5
+        ]
+      ],
+      "business_configuration_verified": true,
+      "status": "ALL_SAVED_CONFIGURATION_VERIFIED",
+      "evidence": [
+        "10-live-source-B07FK7PBHJ.txt",
+        "10-live-inventory-B07FK7PBHJ.txt",
+        "10-live-business-B07FK7PBHJ.txt"
+      ]
+    },
+    {
+      "asin": "B01LVXOCU2",
+      "sku": "4A 004",
+      "ordinary_price": 15.99,
+      "ordinary_unchanged": true,
+      "saved_sale_price": 14.39,
+      "saved_sale_start": "2026-11-02",
+      "saved_sale_end_date": "2026-11-16",
+      "sale_end_semantics": "00:00 per officialtemplate; covers11/15",
+      "sale_configuration_verified": true,
+      "sale_frontend_active_now": false,
+      "sale_frontend_state": "NOT_DUE_YET_NOT_A_FAILURE",
+      "business_price_observed": null,
+      "business_tiers_observed": [],
+      "expected_business_price": 13.99,
+      "expected_business_tiers": [
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          10,
+          5
+        ]
+      ],
+      "business_configuration_verified": false,
+      "status": "SALE_SAVED_BUSINESS_NOT_YET_VISIBLE",
+      "evidence": [
+        "10-live-source-B01LVXOCU2.txt",
+        "10-live-inventory-B01LVXOCU2.txt",
+        "10-live-business-B01LVXOCU2.txt"
+      ]
+    },
+    {
+      "asin": "B07FK8LN8D",
+      "sku": "AAAA 4A 301x12-N",
+      "ordinary_price": 16.99,
+      "ordinary_unchanged": true,
+      "saved_sale_price": 15.29,
+      "saved_sale_start": "2026-11-02",
+      "saved_sale_end_date": "2026-11-16",
+      "sale_end_semantics": "00:00 per officialtemplate; covers11/15",
+      "sale_configuration_verified": true,
+      "sale_frontend_active_now": false,
+      "sale_frontend_state": "NOT_DUE_YET_NOT_A_FAILURE",
+      "business_price_observed": null,
+      "business_tiers_observed": [],
+      "expected_business_price": 14.99,
+      "expected_business_tiers": [
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          10,
+          5
+        ]
+      ],
+      "business_configuration_verified": false,
+      "status": "SALE_SAVED_BUSINESS_NOT_YET_VISIBLE",
+      "evidence": [
+        "10-live-source-B07FK8LN8D.txt",
+        "10-live-inventory-B07FK8LN8D.txt",
+        "10-live-business-B07FK8LN8D.txt"
+      ]
+    },
+    {
+      "asin": "B0F7LW38FX",
+      "sku": "4A 301x24x2",
+      "ordinary_price": 25.99,
+      "ordinary_unchanged": true,
+      "saved_sale_price": 23.39,
+      "saved_sale_start": "2026-11-02",
+      "saved_sale_end_date": "2026-11-16",
+      "sale_end_semantics": "00:00 per officialtemplate; covers11/15",
+      "sale_configuration_verified": true,
+      "sale_frontend_active_now": false,
+      "sale_frontend_state": "NOT_DUE_YET_NOT_A_FAILURE",
+      "business_price_observed": null,
+      "business_tiers_observed": [],
+      "expected_business_price": 22.99,
+      "expected_business_tiers": [
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          10,
+          5
+        ]
+      ],
+      "business_configuration_verified": false,
+      "status": "SALE_SAVED_BUSINESS_NOT_YET_VISIBLE",
+      "evidence": [
+        "10-live-source-B0F7LW38FX.txt",
+        "10-live-inventory-B0F7LW38FX.txt",
+        "10-live-business-B0F7LW38FX.txt"
+      ]
+    }
+  ],
+  "summary": {
+    "sale_configuration_verified": 4,
+    "ordinary_price_unchanged": 4,
+    "business_and_exact_three_tiers_verified": 1,
+    "business_pending": 3
+  },
+  "scope_note": "Saved sellerconfiguration readback only; publicSale futurestarts11/2. Did not misclassify currentordinaryBuyBox asfailure."
+}

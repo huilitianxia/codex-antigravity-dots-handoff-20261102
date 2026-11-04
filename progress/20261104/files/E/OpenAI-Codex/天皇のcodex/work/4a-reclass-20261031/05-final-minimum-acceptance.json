@@ -1,0 +1,38 @@
+{
+  "readback_at": "2026-11-01T15:57:34.311475+08:00",
+  "read_only": true,
+  "independent_new_inventory_pages": true,
+  "verified_cleared": 3,
+  "pending": 1,
+  "no_repeat_write": true,
+  "rows": [
+    {
+      "sku": "AAAA 4A 303-AC-holder",
+      "ordinary": 17.99,
+      "minimum": null,
+      "status": "CLEARED_VERIFIED",
+      "evidence": "05-final-min-0.txt"
+    },
+    {
+      "sku": "AAAA 4A 6032",
+      "ordinary": 24.99,
+      "minimum": 24.99,
+      "status": "PENDING_PROPAGATION",
+      "evidence": "05-final-min-1.txt"
+    },
+    {
+      "sku": "AAAA 4A 608-N-L-210",
+      "ordinary": 14.99,
+      "minimum": null,
+      "status": "CLEARED_VERIFIED",
+      "evidence": "05-final-min-2.txt"
+    },
+    {
+      "sku": "303-AC-holder",
+      "ordinary": 11.6,
+      "minimum": null,
+      "status": "CLEARED_VERIFIED",
+      "evidence": "05-final-min-3.txt"
+    }
+  ]
+}

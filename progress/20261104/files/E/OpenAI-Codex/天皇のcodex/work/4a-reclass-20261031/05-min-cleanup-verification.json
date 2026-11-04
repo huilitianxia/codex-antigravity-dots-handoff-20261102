@@ -1,0 +1,15 @@
+{
+  "file": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261031-urgent-fixes\\05-remove-temporary-minimums.xlsm",
+  "rows": 4,
+  "only_nonempty_columns": [
+    "A:SKU",
+    "G:verified unchanged regular price",
+    "I:official deletion enum for ordinary minimum"
+  ],
+  "quantity_fulfillment_business_sale_maximum_blank": true,
+  "changed_zip_parts": [
+    "xl/worksheets/sheet5.xml"
+  ],
+  "headers_macros_other_sheets_preserved": true,
+  "sha256": "d3d72ef8b5c507bffca8d527e79781ae017722a562f090a6ad73cac3dd2ee7b6"
+}

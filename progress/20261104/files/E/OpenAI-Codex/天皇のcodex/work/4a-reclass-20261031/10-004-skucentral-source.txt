@@ -1,0 +1,617 @@
+- navigation:
+  - button "菜单":
+  - generic: 菜单
+  - button:
+  - navigation:
+    - searchbox
+    - link:
+      - /url: /amazonsell/business
+      - generic: 我的业务
+    - button:
+      - generic: 商品
+    - link:
+      - /url: /amazonsell/listings
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/manage-products
+      - text: 管理商品
+      - button:
+    - link:
+      - /url: /pricing/health
+      - text: 管理定价
+      - button:
+    - link:
+      - /url: /product-search
+      - text: 添加商品
+      - button:
+    - link:
+      - /url: /feedback-manager/index.html
+      - text: 分析评论
+      - button:
+    - link:
+      - /url: /new-product-guidance
+      - text: 研究商品
+      - button:
+    - link:
+      - /url: /gex
+      - text: 全球开店
+      - button:
+    - link:
+      - /url: /listing/reports
+      - text: 商品报告
+      - button:
+    - button:
+      - generic: 供应链
+    - link:
+      - /url: /amazonsell/inventory
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/fba-inventory
+      - text: 管理亚马逊库存
+      - button:
+    - link:
+      - /url: /global-store
+      - text: 管理海外购
+      - button:
+    - link:
+      - /url: /seller-fulfilled-product/analytics
+      - text: 管理卖家自配送库存
+      - button:
+    - link:
+      - /url: /manage/shipments
+      - text: 管理货件
+      - button:
+    - link:
+      - /url: /fba/sendtoamazon
+      - text: Send to Amazon
+      - button:
+    - link:
+      - /url: /channel-manager
+      - text: 管理渠道目的地
+      - button:
+    - link:
+      - /url: https://supplychain.amazon.com/scp/login?utm_source=ngs_persistence_link
+      - text: 供应链控制面板
+      - button:
+    - link:
+      - /url: /reportcentral/WelcomePage
+      - text: 供应链报告
+      - button:
+    - button:
+      - generic: 订单
+    - link:
+      - /url: /amazonsell/orders
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/orders/mfn
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /amazonsell/orders/fba
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /business/manage-quotes
+      - text: 管理报价
+      - button:
+    - link:
+      - /url: /manage/returns/mfn
+      - text: 管理退货
+      - button:
+    - link:
+      - /url: /gp/chargebacks/home.html
+      - text: 管理索赔
+      - button:
+    - link:
+      - /url: /order-reports-and-feeds/reports
+      - text: 订单报告
+      - button:
+    - button:
+      - generic: 营销推广
+    - link:
+      - /url: /amazonsell/marketing
+      - text: 工作区
+    - link:
+      - /url: /promotion-central/dashboard
+      - text: 管理促销和特惠
+      - button:
+    - link:
+      - /url: /brand-analytics
+      - text: 品牌分析
+      - button:
+    - link:
+      - /url: /cm?source=ngs
+      - text: 广告控制台
+      - button:
+    - link:
+      - /url: /vine
+      - text: Vine
+      - button:
+    - button:
+      - generic: 财务人员
+    - link:
+      - /url: /amazonsell/payments
+      - text: 工作区
+    - link:
+      - /url: /manage/finance/transactions
+      - text: 管理交易
+      - button:
+    - link:
+      - /url: /managetaxes/global-transaction-reports
+      - text: 管理税费
+      - button:
+    - link:
+      - /url: /economics
+      - text: 利润分析
+      - button:
+    - link:
+      - /url: /manage/finance/reports
+      - text: 财务报告
+      - button:
+    - button:
+      - generic: 账户状况
+    - link:
+      - /url: /performance/dashboard
+      - text: 管理账户状况
+      - button:
+    - button:
+      - generic: 计划和应用程序
+    - link:
+      - /url: /recommended-programs
+      - text: 了解计划
+      - button:
+    - link:
+      - /url: /selling-partner-appstore
+      - text: 销售伙伴应用商店
+      - button:
+    - link:
+      - /url: /tsba
+      - text: 浏览服务
+      - button:
+  - link:
+    - /url: /sitemap
+    - text: 站点地图
+  - link:
+    - /url: /home?ngs_do_not_redirect_flag=1
+    - text: 传统卖家平台
+  - link "Amazon":
+    - /url: /amazonsell
+  - button "4A (USA) LIMITED 美国":
+    - generic: 4A (USA) LIMITED
+    - generic: 美国
+  - button "账户状况":
+    - generic: 账户状况
+    - generic: 存在风险
+  - textbox "搜索任何内容"
+  - button "询问卖家助手":
+    - generic: 卖家助手
+  - link "新增内容":
+    - /url: /featurereleases
+  - link "消息":
+    - /url: /messaging/inbox-v3?fi=responseNeeded&&
+  - button "帮助":
+  - button "设置":
+- navigation:
+  - button:
+  - link "管理交易":
+    - /url: /manage/finance/transactions
+    - generic: 管理交易
+  - link "卖家大学":
+    - /url: /su/learn
+    - generic: 卖家大学
+  - link "管理商品":
+    - /url: /amazonsell/manage-products
+    - generic: 管理商品
+  - link "广告控制台":
+    - /url: /cm?source=ngs
+    - generic: 广告控制台
+  - link "管理货件":
+    - /url: /manage/shipments
+    - generic: 管理货件
+  - link "商品商机探测器":
+    - /url: /new-product-guidance
+    - generic: 商品商机探测器
+  - link "品牌分析":
+    - /url: /brand-analytics
+    - generic: 品牌分析
+  - link "A+ 商品描述管理器":
+    - /url: /enhanced-content/ref=xx_ebc_favb_xx
+    - generic: A+ 商品描述管理器
+  - link "业务报告":
+    - /url: /business-reports#/dashboard
+    - generic: 业务报告
+  - link "亚马逊物流库存报告":
+    - /url: /reportcentral/WelcomePage
+    - generic: 亚马逊物流库存报告
+  - link "商品报告":
+    - /url: /listing/reports
+    - generic: 商品报告
+  - link "绩效通知":
+    - /url: /performance/notifications
+    - generic: 绩效通知
+  - link "管理账户状况":
+    - /url: /performance/dashboard
+    - generic: 管理账户状况
+  - button:
+- list
+- button "✕"
+- heading "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24" [level=1]
+- navigation:
+  - link "图片不可用":
+    - /url: https://www.amazon.com/dp/B01LVXOCU2
+    - img "图片不可用"
+  - link "在亚马逊上查看":
+    - /url: https://www.amazon.com/dp/B01LVXOCU2
+    - generic: 在亚马逊上查看
+  - text: 状态：
+  - generic: 在售
+  - text: SKU：
+  - generic: 4A 004
+  - text: ASIN：
+  - generic: B01LVXOCU2
+  - text: FNSKU：
+  - generic: X004MPCE59
+  - list:
+    - link "销售额":
+      - /url: javascript:void(0);
+      - heading "销售额" [level=3]
+    - link "SKU 成本 新功能":
+      - /url: javascript:void(0);
+      - heading "SKU 成本" [level=3]
+      - generic: 新功能
+    - link "定价":
+      - /url: javascript:void(0);
+      - heading "定价" [level=3]
+    - link "库存":
+      - /url: javascript:void(0);
+      - heading "库存" [level=3]
+    - link "入库":
+      - /url: javascript:void(0);
+      - heading "入库" [level=3]
+    - link "♦订购省♦：一次订购，周期发货 新功能":
+      - /url: javascript:void(0);
+      - heading "♦订购省♦：一次订购，周期发货" [level=3]
+      - generic: 新功能
+  - heading "操作" [level=2]
+  - button "编辑商品信息":
+    - generic: 编辑商品信息
+  - button "发送库存":
+    - generic: 发送库存
+  - button "设置补货提醒":
+    - generic: 设置补货提醒
+  - button "宣传商品信息":
+    - generic: 宣传商品信息
+  - link "查看更多":
+    - /url: javascript:void(0);
+- heading "销售额" [level=2]
+- generic: i
+- generic: 上次更新时间：
+- generic: 2026/11/1 16:24
+- generic: 
+- generic: 
+- generic: 
+- generic: 新功能
+- button "深入了解销售和流量":
+  - generic: 
+  - generic: 深入了解销售和流量
+- generic: 
+- tablist:
+  - tab "信息" [selected]:
+    - generic: 信息
+  - tabpanel "信息":
+    - generic: 查看以下方面的销售数据：
+    - generic: SKUASIN
+    - generic: 畅销商品排名榜：
+    - generic: 办公用品分类中的编号 342039
+    - generic: 过去 7 天
+    - generic: 过去 30 天
+    - generic: 过去 90 天
+    - generic: 订购数量
+    - generic: "0"
+    - generic: "0"
+    - generic: "25"
+    - generic: 每个订单的平均商品数量
+    - generic: "0.00"
+    - generic: "0.00"
+    - generic: "8.33"
+    - generic: 平均销售价格
+    - generic: $0.00
+    - generic: $0.00
+    - generic: $15.99
+    - generic: 销售额商品数量
+    - text: 显示数据
+    - generic "30 天":
+      - generic: 30 天
+      - generic: 
+    - generic: 销售
+    - checkbox [checked]
+    - generic: 过去30天
+    - generic: $0.00
+    - generic: 0 商品数量
+    - checkbox
+    - generic: 过去 31-60 天
+    - generic: $319.80
+    - generic: 20 商品数量
+    - checkbox
+    - generic: 去年同期 30 天
+    - generic: $0.00
+    - generic: 0 商品数量
+    - generic: 
+    - generic: 您有 1 条可能提高销量的新建议
+    - generic: 至少获得 +US$82 的潜在销售提升
+    - button "查看建议":
+      - generic: 查看建议
+    - button "忽略":
+      - generic: 
+  - tab "建议 (1) 新功能":
+    - generic: 建议 (1)
+    - generic: 新功能
+  - generic: "#1 建议"
+- generic: 您对此页面上的功能的满意度如何？
+- generic: 请选择一个主题
+- heading "SKU 成本" [level=2]
+- generic: i
+- generic: 上次更新时间：
+- generic: 2026/11/1 16:24
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- tablist:
+  - tab "信息" [selected]:
+    - generic: 信息
+  - tabpanel "信息":
+    - generic: 
+    - generic: 自 2026 年 4 月 17 日起，亚马逊针对美国和加拿大的亚马逊物流 (FBA) 配送费用以及从美国到加拿大、墨西哥和巴西的亚马逊物流远程配送费用收取 3.5% 的燃油和物流相关附加费。自 2026 年 5 月 2 日起，此附加费在美国的 Buy with Prime 以及美国和加拿大的多渠道配送 (MCF) 中生效。 此外，2026 年 10 月 15 日至 2027 年 1 月 14 日期间，我们将对亚马逊物流、发往加拿大和墨西哥的亚马逊物流远程配送、多渠道配送 (MCF) 以及 Buy with Prime 收取假日旺季配送费用。平均而言，假日旺季配送费用的价目表中，每件商品相较于非旺季费率的涨幅将与去年相同。这些费用将收取与燃料和物流相关的附加费。
+    - generic: 自 2026 年 4 月 17 日起，亚马逊针对美国和加拿大的亚马逊物流 (FBA) 配送费用以及从美国到加拿大、墨西哥和巴西的亚马逊物流远程配送费用收取 3.5% 的燃油和物流相关附加费。自 2026 年 5 月 2 日起，此附加费在美国的 Buy with Prime 以及美国和加拿大的多渠道配送 (MCF) 中生效。 此外，2026 年 10 月 15 日至 2027 年 1 月 14 日期间，我们将对亚马逊物流、发往加拿大和墨西哥的亚马逊物流远程配送、多渠道配送 (MCF) 以及 Buy with Prime 收取假日旺季配送费用。平均而言，假日旺季配送费用的价目表中，每件商品相较于非旺季费率的涨幅将与去年相同。这些费用将收取与燃料和物流相关的附加费。
+    - button "忽略":
+      - generic: 
+    - generic: 显示数据
+    - generic: 显示数据
+    - generic "显示数据":
+      - generic "最近 30 天":
+        - generic: 最近 30 天
+        - generic: 
+    - paragraph: 按周
+    - list:
+      - text: 总成本
+      - text: 销售额
+      - text: 净收入
+    - generic: 新
+    - link "SKU 成本报告":
+      - /url: /economics?ref_=secard
+      - generic: SKU 成本报告
+    - text: 获取 SKU 的费用、成本和净收入的汇总报告
+    - generic: 最近 30 天
+    - group "null":
+      - button "总计" [disabled]:
+        - generic: 总计
+      - button "每件商品" [disabled]:
+        - generic: 每件商品
+    - text: 平均销售价格
+    - generic: 
+    - generic: "-"
+    - text: 已售商品数量
+    - generic: 
+    - generic: "0"
+    - text: 退货商品数量
+    - generic: 
+    - generic: "0"
+    - text: 已售商品净数量
+    - generic: 
+    - generic: "0"
+    - text: 销售额
+    - generic: 
+    - generic: "-"
+    - text: 净销售额
+    - generic: 
+    - generic: "-"
+    - generic: 亚马逊收取的总费用
+    - generic: 
+    - text: "-$1.86"
+    - generic: 
+    - generic: 月度库存仓储费
+    - generic: 
+    - generic: "-$1.86"
+    - generic: 
+    - generic: 非亚马逊总费用
+    - generic: "- 编辑"
+    - generic: 所售商品成本 x 已售商品数量
+    - generic: "-"
+    - generic: 杂项费用 x 已售商品数量
+    - generic: "-"
+    - text: 净收入
+    - generic: 
+    - generic: "-$1.86"
+    - generic: 保存成本输入数据，用于以下费用工具：
+    - radiogroup
+    - generic: 是否确定要删除您提供的所有成本输入数据？
+    - generic: 是
+    - generic: 
+    - generic: 您有 1 条可能降低成本的新建议
+    - generic: 净收入收益可能至少提升 +US$3
+    - button "查看建议":
+      - generic: 查看建议
+    - button "忽略":
+      - generic: 
+  - tab "建议 (1) 新功能":
+    - generic: 建议 (1)
+    - generic: 新功能
+  - generic: "#1 建议"
+- generic: 您对此页面上的功能的满意度如何？
+- generic: 请选择一个主题
+- heading "定价" [level=2]
+- generic: i
+- generic: 上次更新时间：
+- generic: 2026/11/1 16:24
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- heading "当前设置" [level=3]
+- paragraph: 您当前的价格[商品价格 + 运费]
+- generic: US$15.99
+- paragraph: (US$15.99 + US$0.00)
+- generic: Update
+- paragraph: 您的最低价
+- generic: US$--
+- generic: Update
+- paragraph: 您的最高价
+- generic: US$199.99
+- generic: Update
+- paragraph: 自动定价
+- paragraph: 注册自动定价以增加您的报价成为推荐报价的几率。
+- generic: 立即注册
+- generic: "|"
+- link "了解更多信息":
+  - /url: /help/hub/reference/201994820
+  - generic: 了解更多信息
+- heading "参考价" [level=3]
+- link "了解更多信息":
+  - /url: /learn
+  - generic: 了解更多信息
+- generic: "[商品价格 + 运费]"
+- paragraph:
+  - text: 推荐报价
+  - generic: 
+- generic: $15.99
+- paragraph: 有竞争力的外部价格
+- generic: "--"
+- paragraph:
+  - text: 当前最低价格
+  - generic: 
+- generic: $15.99
+- generic: 您对此页面上的功能的满意度如何？
+- generic: 请选择一个主题
+- heading "库存" [level=2]
+- generic: i
+- generic: 上次更新时间：
+- generic: 2026/11/1 16:24
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 状况
+- generic: 新品
+- generic: 商品体积
+- generic: 36.742 立方英寸
+- generic: 商品重量
+- generic: 0.789 磅
+- generic: 包裹尺寸
+- generic: 6.22 x 3.58 x 1.65 英寸
+- generic: 供货天数
+- generic: 365+
+- generic: 冗余
+- generic: 冗余
+- generic: 超出库存
+- generic: 59 个单位
+- generic: 补货
+- generic: 无
+- generic: 亚马逊物流库存明细
+- generic: 总计
+- text: "59"
+- generic: 可售
+- text: "59"
+- generic: 入库
+- text: "0"
+- generic: 预留
+- text: "0"
+- generic: 不可售
+- text: "0"
+- generic: 正在研究
+- text: "0"
+- generic: 预留
+- generic: 总计
+- text: "0"
+- generic: 买家订单
+- text: "0"
+- generic: 配送中心传输
+- text: "0"
+- generic: 配送中心处理
+- text: "0"
+- generic: 不可售
+- generic: 总计
+- text: "0"
+- generic: 卓越亚马逊物流库存货龄（按天）
+- generic: 0-90
+- text: "0"
+- generic: 91-180
+- text: "0"
+- generic: 181-270
+- text: "0"
+- generic: 271-365
+- text: "0"
+- generic: 365+
+- text: "59"
+- generic: 更多信息
+- link "查看出库详情":
+  - /url: /gp/ssof/reports/search.html?orderAscending=&recordType=SHIPMENT_SALES&merchantSku=4A 004&eventDateOption=7&ref_=skuc_rc_outbound
+  - generic: 查看出库详情
+- link "查看活动详情":
+  - /url: "/reportcentral/LEDGER_REPORT/0/{\"filters\":[\"\",\"4A 004\",\"\",\"DAILY\",\"FC\",\"84700\",\"\",\"\",\"\",\"\",\"\"],\"pageOffset\":1,\"searchDays\":7}?ref_=skuc_rc_event"
+  - generic: 查看活动详情
+- generic: 供应商备货时间：
+- text: 4 周
+- generic: 重新订购频率：
+- text: 2 周
+- generic: 您对此页面上的功能的满意度如何？
+- generic: 请选择一个主题
+- heading "入库" [level=2]
+- generic: i
+- generic: 上次更新时间：
+- generic: 2026/11/1 16:24
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 正在处理的入库数量
+- generic: "0"
+- generic: 已配送入库数量
+- generic: "0"
+- generic: 正在入库数量
+- generic: "0"
+- generic: 入库问题数量
+- generic: "0"
+- generic: 入库总量
+- generic: "0"
+- generic: 您对此页面上的功能的满意度如何？
+- generic: 请选择一个主题
+- heading "♦订购省♦：一次订购，周期发货" [level=2]
+- generic: i
+- generic: 上次更新时间：
+- generic: 2026/11/1 16:24
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- tablist:
+  - tab "信息" [selected]:
+    - generic: 信息
+  - tabpanel "信息":
+    - generic: 状态
+    - generic: 在售
+    - link "访问“订购省”页面":
+      - /url: /sns/manage
+      - generic: 访问“订购省”页面
+    - generic: 订购数量
+    - generic: "-"
+    - generic: 选择卖家出资折扣
+    - generic: 0%
+    - generic: 5%
+    - generic: 10%
+    - generic: 采用 10%/15% 折扣的商品平均可以推动转化率提升高达 1.8 倍 （不保证转化率会提高）
+    - generic: 了解更多信
+  - tab "建议 (1) 新功能":
+    - generic: 建议 (1)
+    - generic: 新功能
+  - generic: "#1 建议"
+- generic: 您对此页面上的功能的满意度如何？
+- generic: 请选择一个主题
+- button "Scroll to top of page":
+- link "站点地图":
+  - /url: /sitemap
+- link "计划政策":
+  - /url: /help/hub/reference/521
+- generic: © 1999-2026，Amazon.com, Inc. 或其附属公司
+- link "反馈":
+  - /url: "#"
