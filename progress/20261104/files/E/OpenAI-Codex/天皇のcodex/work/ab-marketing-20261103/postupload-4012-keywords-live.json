@@ -1,0 +1,82 @@
+{
+  "url": "https://advertising.amazon.com/cm/sp/campaigns/A08305252J4LVVEZ5N1BI/ad-groups/A09887831UFJO8V73LJD1/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+  "footer": "指标\n展示量\n—\n隐藏图表\n无数据\n\n要查看图表，请选择不同的指标或筛选条件\n\n添加关键词\nSearch\n筛选条件\n选择行以启用批量操作。\n视图：默认\n列\n2026-11-03\n导出\n\n全选\n\n进行中\n关键词\n状态\n建议竞价\n竞价\n0 条规则已生效\n展示量\n搜索结果首页首位展示量份额\n总成本\n购买量\n销售额\nROAS\nsticky notes 18 pads\n便利贴18本装\nsticky notes assorted sizes\n多尺寸便利贴\nsticky notes value pack\n便利贴超值装\nsticky notes variety pack\n便利贴多样装\n\n进行中\n\n无最新数据\n—\nUS$0.45\nUS$0.45\n—\n—\n—\n—\n—\n—\n\n进行中\n\nUS$1.33 (US$1.00-US$1.66)\n应用\n—\nUS$0.45\nUS$0.45\n—\n—\n—\n—\n—\n—\n\n进行中\n\nUS$3.30 (US$1.88-US$3.81)\n应用\n—\nUS$0.45\nUS$0.45\n—\n—\n—\n—\n—\n—\n\n进行中\n\nUS$1.49 (US$1.12-US$2.17)\n应用\n—\nUS$0.45\nUS$0.45\n—\n—\n—\n—\n—\n—\n总计: 4\n—\n—\n—\n—\n—\n—\n© 2026 Amazon.com, Inc. 或其附属公司。\n使用条款\n隐私声明\n亚马逊广告协议\n請求支持\n状态",
+  "rows": [
+    {
+      "id": "93514431277663",
+      "cells": {
+        "target": "sticky notes 18 pads\n便利贴18本装",
+        "status": "进行中",
+        "suggestedBid": "无最新数据\n—",
+        "bid": "US$0.45\nUS$0.45",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—",
+        "sales": "—",
+        "roas": "—"
+      },
+      "enabled": "true"
+    },
+    {
+      "id": "255249945431126",
+      "cells": {
+        "target": "sticky notes assorted sizes\n多尺寸便利贴",
+        "status": "进行中",
+        "suggestedBid": "US$1.33 (US$1.00-US$1.66)\n应用\n—",
+        "bid": "US$0.45\nUS$0.45",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—",
+        "sales": "—",
+        "roas": "—"
+      },
+      "enabled": "true"
+    },
+    {
+      "id": "198559922287180",
+      "cells": {
+        "target": "sticky notes value pack\n便利贴超值装",
+        "status": "进行中",
+        "suggestedBid": "US$3.30 (US$1.88-US$3.81)\n应用\n—",
+        "bid": "US$0.45\nUS$0.45",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—",
+        "sales": "—",
+        "roas": "—"
+      },
+      "enabled": "true"
+    },
+    {
+      "id": "141917023075567",
+      "cells": {
+        "target": "sticky notes variety pack\n便利贴多样装",
+        "status": "进行中",
+        "suggestedBid": "US$1.49 (US$1.12-US$2.17)\n应用\n—",
+        "bid": "US$0.45\nUS$0.45",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—",
+        "sales": "—",
+        "roas": "—"
+      },
+      "enabled": "true"
+    },
+    {
+      "id": "[object Object]",
+      "cells": {
+        "target": "总计: 4",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—",
+        "sales": "—",
+        "roas": "—"
+      }
+    }
+  ]
+}

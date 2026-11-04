@@ -1,0 +1,41 @@
+adb.verifyCampaign = async rec => {
+  const page=19,root='https://advertising.amazon.com/cm/sp/campaigns/'+rec.campaignId;
+  const result={group:rec.group,campaignId:rec.campaignId,checked_at:new Date().toISOString()};
+  const name=rec.name||'SP_REACTIVATE_B4_30315_EXACT_20261102';
+  const keywords=rec.keywords||['sticky notes 3x3 assorted colors','3x3 sticky notes bulk','colored sticky notes 3x3','sticky notes 15 pads','3x3 sticky notes 1500 sheets'];
+  try {
+    await adb.checkedTool('navigate_page',{pageId:page,type:'url',url:root+'/settings?entityId=ENTITY2EFMPU8GWXHSP'});
+    let s=await adb.waitSnapshot(page,rec.group+'-verified-settings',s=>s.includes('spinbutton "enter amount in US$"')&&s.includes(name));
+    result.portfolio=s.includes('button " OLD_PRODUCTS_REACTIVATE_20261102_300USD"');
+    result.campaign_running=s.includes('switch "正在投放" checked');
+    const daily=s.split('\n').find(l=>l.includes('spinbutton "enter amount in US$"'));
+    result.daily=Number(daily?.match(/value="([0-9.]+)"/)?.[1]);
+    result.daily_matches=result.daily===Number(rec.daily);
+    result.end=s.split('\n').find(l=>l.includes('textbox "结束日期"'))?.match(/value="([^"]+)"/)?.[1];
+    result.down_only=s.includes('button " 动态竞价 - 仅降低"');
+    await adb.checkedTool('navigate_page',{pageId:page,type:'url',url:root+'/ad-groups?entityId=ENTITY2EFMPU8GWXHSP'});
+    s=await adb.waitSnapshot(page,rec.group+'-verified-adgroups',s=>s.includes('link "'+rec.group+'_'+rec.code+'_EXACT"')&&s.includes('/targeting?'));
+    const urls=[...s.matchAll(/url="([^"]+)"/g)].map(m=>m[1]);
+    result.ads_url=urls.find(u=>u.includes('/ad-groups/A')&&u.includes('/ads?'))||urls.find(u=>u.includes('/ad-groups/')&&u.includes('/ads?'));
+    result.targeting_url=urls.find(u=>u.includes('/ad-groups/')&&u.includes('/targeting?'));
+    if(!result.ads_url||!result.targeting_url)throw new Error('Missing exact ad-group links');
+    result.adGroupId=result.targeting_url.match(/ad-groups\/([^/]+)\//)?.[1];
+    await adb.checkedTool('navigate_page',{pageId:page,type:'url',url:result.ads_url});
+    s=await adb.waitSnapshot(page,rec.group+'-verified-products',s=>s.includes(rec.asin)&&rec.skus.every(sku=>s.includes(sku)));
+    result.product_rows=s.split('\n').filter(l=>l.includes(' row "')&&l.includes(rec.asin)&&rec.skus.some(sku=>l.includes(sku)));
+    result.product_status=rec.skus.map(sku=>({sku,row:result.product_rows.find(l=>l.includes(sku))||null}));
+    result.products_running=result.product_status.every(p=>p.row&&/row "(进行中|正在投放|已启用) /.test(p.row));
+    await adb.checkedTool('navigate_page',{pageId:page,type:'url',url:result.targeting_url});
+    s=await adb.waitSnapshot(page,rec.group+'-verified-targets',s=>s.includes(' row "精准 ')&&keywords.every(k=>s.toLowerCase().includes(k.toLowerCase())));
+    const rows=s.split('\n').filter(l=>l.includes(' row "精准 '));
+    const bid='US$'+Number(rec.bid).toFixed(2);
+    result.target_count=rows.length;result.expected_target_count=keywords.length;
+    result.targets_running=rows.length===keywords.length&&rows.every(l=>l.includes('精准 进行中')&&l.includes(bid));
+    result.keyword_rows=rows;
+    result.verified=result.portfolio&&result.campaign_running&&result.daily_matches&&result.down_only&&result.products_running&&result.targets_running;
+    result.status=result.verified?'verified-running':'requires-review';
+  }catch(e){result.status='verification-incomplete';result.error=String(e);result.verified=false;}
+  rec.verification=result;rec.independently_verified=result.verified;
+  await adb.fs.writeFile('E:/OpenAI-Codex/天皇のcodex/work/ab-marketing-20261103/precision-ad-execution.json',JSON.stringify(adb.adBatch.records,null,2));
+  return result;
+};

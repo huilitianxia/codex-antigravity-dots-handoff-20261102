@@ -1,0 +1,271 @@
+## Latest page snapshot
+uid=2291_0 RootWebArea "Amazon" url="https://sellercentral.amazon.com/imaging/manage"
+  uid=2291_1 navigation
+    uid=2291_2 button "菜单" expandable
+    uid=2291_3 link "Amazon" url="https://sellercentral.amazon.com/amazonsell"
+    uid=2291_4 button "4A (USA) LIMITED 美国" expandable
+    uid=2291_5 button "账户状况"
+    uid=2291_6 textbox "搜索任何内容" haspopup="menu"
+    uid=2291_7 button "询问卖家助手" description="卖家助手"
+    uid=2291_8 link "新增内容" description="新鲜出巢" url="https://sellercentral.amazon.com/featurereleases"
+    uid=2291_9 link "消息" description="您可以在任意页面顶部的搜索和设置旁边找到买家消息，因此无需离开当前工作页面，即可轻松回复买家。" url="https://sellercentral.amazon.com/messaging/inbox-v3?fi=responseNeeded&&"
+    uid=2291_10 button "帮助" description="帮助" haspopup="menu"
+    uid=2291_11 button "设置" description="设置" haspopup="menu"
+  uid=2291_12 navigation
+    uid=2291_13 button disableable disabled
+    uid=2291_14 link "管理交易" url="https://sellercentral.amazon.com/manage/finance/transactions"
+      uid=2291_15 StaticText "管理交易"
+    uid=2291_16 link "卖家大学" url="https://sellercentral.amazon.com/su/learn"
+      uid=2291_17 StaticText "卖家大学"
+    uid=2291_18 link "管理商品" url="https://sellercentral.amazon.com/amazonsell/manage-products"
+      uid=2291_19 StaticText "管理商品"
+    uid=2291_20 link "广告控制台" url="https://sellercentral.amazon.com/cm?source=ngs"
+      uid=2291_21 StaticText "广告控制台"
+    uid=2291_22 link "管理货件" url="https://sellercentral.amazon.com/manage/shipments"
+      uid=2291_23 StaticText "管理货件"
+    uid=2291_24 link "商品商机探测器" url="https://sellercentral.amazon.com/new-product-guidance"
+      uid=2291_25 StaticText "商品商机探测器"
+    uid=2291_26 link "品牌分析" url="https://sellercentral.amazon.com/brand-analytics"
+      uid=2291_27 StaticText "品牌分析"
+    uid=2291_28 link "A+ 商品描述管理器" url="https://sellercentral.amazon.com/enhanced-content/ref=xx_ebc_favb_xx"
+      uid=2291_29 StaticText "A+ 商品描述管理器"
+    uid=2291_30 link "业务报告" url="https://sellercentral.amazon.com/business-reports#/dashboard"
+      uid=2291_31 StaticText "业务报告"
+    uid=2291_32 link "亚马逊物流库存报告" url="https://sellercentral.amazon.com/reportcentral/WelcomePage"
+      uid=2291_33 StaticText "亚马逊物流库存报告"
+    uid=2291_34 link "商品报告" url="https://sellercentral.amazon.com/listing/reports"
+      uid=2291_35 StaticText "商品报告"
+    uid=2291_36 link "绩效通知" url="https://sellercentral.amazon.com/performance/notifications"
+      uid=2291_37 StaticText "绩效通知"
+    uid=2291_38 link "管理账户状况" url="https://sellercentral.amazon.com/performance/dashboard"
+      uid=2291_39 StaticText "管理账户状况"
+    uid=2291_40 button
+  uid=2291_41 link "管理商品" url="https://sellercentral.amazon.com/amazonsell/manage-products"
+    uid=2291_42 StaticText "管理商品"
+  uid=2291_43 link "管理 A+ 商品描述" url="https://sellercentral.amazon.com/enhanced-content/content-manager"
+    uid=2291_44 StaticText "管理 A+ 商品描述"
+  uid=2291_45 link "管理图片" url="https://sellercentral.amazon.com/imaging/manage"
+    uid=2291_46 StaticText "管理图片"
+  uid=2291_47 link "管理视频" url="https://sellercentral.amazon.com/creatorhub/video/library"
+    uid=2291_48 StaticText "管理视频"
+  uid=2291_49 link "管理试验" url="https://sellercentral.amazon.com/experiments/dashboard"
+    uid=2291_50 StaticText "管理试验"
+  uid=2291_51 link "查看销售申请" url="https://sellercentral.amazon.com/hz/myqdashboard"
+    uid=2291_52 StaticText "查看销售申请"
+  uid=2291_53 button "✕"
+  uid=2291_54 navigation "面包屑"
+    uid=2291_55 link "商品" url="https://sellercentral.amazon.com/amazonsell/listings"
+      uid=2291_56 StaticText "商品"
+    uid=2291_57 link "管理商品" url="https://sellercentral.amazon.com/amazonsell/manage-products"
+      uid=2291_58 StaticText "管理商品"
+    uid=2291_59 StaticText "管理图片"
+  uid=2291_60 navigation
+    uid=2291_61 link "上传图片" url="https://sellercentral.amazon.com/media/upload"
+      uid=2291_62 StaticText "上传图片"
+    uid=2291_63 link "分配图片 0" url="https://sellercentral.amazon.com/media/assign"
+      uid=2291_64 StaticText "分配图片"
+      uid=2291_65 StaticText "0"
+    uid=2291_66 link "图片管理器" url="https://sellercentral.amazon.com/imaging/manage"
+      uid=2291_67 StaticText "图片管理器"
+    uid=2291_68 link "提交状态" url="https://sellercentral.amazon.com/imaging/upload/status"
+      uid=2291_69 StaticText "提交状态"
+    uid=2291_70 link "图片培训中心" url="https://sellercentral.amazon.com/imaging/help"
+      uid=2291_71 StaticText "图片培训中心"
+    uid=2291_72 link "3D 资产查看器" url="https://sellercentral.amazon.com/imaging/3dviewer"
+      uid=2291_73 StaticText "3D 资产查看器"
+  uid=2291_74 main
+    uid=2291_75 heading "图片管理器" level="1"
+    uid=2291_76 StaticText " "
+    uid=2291_77 button "用户指南"
+    uid=2291_78 link "批量上传图片" url="https://sellercentral.amazon.com/media/upload"
+      uid=2291_79 StaticText "批量上传图片"
+    uid=2291_80 heading "图片处理" level="5"
+    uid=2291_81 StaticText "您所分配图片的顺序可能与商品详情页面上显示的顺序不一致。 为了打造最佳的购物体验，我们从多个销售伙伴那里选择并安排商品图片。 为了最大限度地提高图片显示的几率，请确保它们符合我们的"
+    uid=2291_82 link "商品图片要求" url="https://sellercentral.amazon.com/imaging/manage#"
+      uid=2291_83 StaticText "商品图片要求"
+    uid=2291_84 StaticText "。"
+    uid=2291_85 StaticText "如果我们选择显示您的图片，上传后最多可能需要 24 小时才会显示在商品详情页面上。"
+    uid=2291_86 searchbox "按 ASIN 或 SKU 搜索"
+    uid=2291_87 StaticText "830"
+    uid=2291_88 StaticText " 件商品"
+    uid=2291_89 button "4A Self-Stick Notes, Classic Assorted, 650 Sheets, MG-ET8D-JLS7 ASIN B00SMEE5HU SKU 4A MC 434-FBM"
+    uid=2291_90 button "4A Sticky Notes,4 x 6 Inches,Large Size,Pastel Assorted,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,4A 406x6 ASIN B01MDJCWVH SKU 4A 406x6-FBM"
+    uid=2291_91 button "4A 2028-N Sticky Notes, 2 x 2 Inches, Small Size, Self-Stick Notes, 100 Sheets/Pad, 8 Pads/Pack, Neon Color ASIN B07DJXC4PJ SKU 4A 2028-N-B07DJ-FBM"
+    uid=2291_92 button "4A Self-Stick Notes, Neon Assorted, 4A 404-AC-Holder ASIN B07Z2555TN SKU 4A 404AC-B07Z-FBM"
+    uid=2291_93 button "4A Roll Sticky Notes with Dispenser, Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6 ASIN B08CVLH794 SKU 4A PSS32x6-B08CV-FBM"
+    uid=2291_94 button "4A Sticky Notes,1 3/8 x 1 7/8 Inches,Small Size,The Adhesive On Longer Side,Neon Assorted,Self-Stick Notes,18 Colors,100 Sheets/Pad,18 Pads/Pack,4A 354818 ASIN B07DJKDB63 SKU 4A354818-B07DJK-FBM"
+    uid=2291_95 button "4A Self-Stick Notes, Canary Yellow, G4-PV5Z-2519 ASIN B01LVWFZVZ SKU 4A301x12-Y-B01LVW-FBM"
+    uid=2291_96 button "4A Sticky Notes, 1.5 x 2 in, 12 Pads, Neon Colors ASIN B01LVTWP7Q SKU 4A301x12-N-B01LVT-FBM"
+    uid=2291_97 button "4A Arrow Shaped Sticky Notes, 2.72 x 2.56 in, 1 Pad, Neon Colors ASIN B00SMEEV4C SKU 4A5013-B00SM-FBM"
+    uid=2291_98 button "4A Speech Bubble Sticky Notes, 3.375 x 1.875 in, 1 Pad, Neon Colors ASIN B00SMEEVCO SKU 4A 5059-B00SM-FBM"
+    uid=2291_99 button "4A Three-Color Sticky Note Roll Dispensers ASIN B0HQ4JM1ML SKU PARENT-4A-PSS-3LANE-YOR-DISPENSERS"
+    uid=2291_100 button "4A Ruled Paper Sticky Note Dividers with Six Tabs ASIN B0HQ4PZ8RQ SKU PARENT-4A-PAPER-RULED-6TAB"
+    uid=2291_101 button "4A Ruled White Paper Sticky Note Dividers with Four Tabs ASIN B0HQ4C1V36 SKU PARENT-4A-PAPER-RULED-4TAB"
+    uid=2291_102 button "4A Blank Paper Sticky Note Dividers with Four Tabs ASIN B0HQ4S7Y4Z SKU PARENT-4A-PAPER-BLANK-4TAB"
+    uid=2291_103 button "4A Narrow Paper Page Markers ASIN B07TXPZZSJ SKU PARENT-4A-PAPER-NARROW-MARKERS"
+    uid=2291_104 button "4A Mixed-Shape Film Page Flag Card Sets ASIN B0HQ4T3L85 SKU PARENT-4A-MIXED-SHAPE-FLAG-CARDS"
+    uid=2291_105 heading "4A Self-Stick Notes, Classic Assorted, 650 Sheets, MG-ET8D-JLS7" level="3"
+    uid=2291_106 StaticText "注册品牌所有者"
+    uid=2291_107 tab "图片" selectable selected
+    uid=2291_108 tab "视频" selectable
+    uid=2291_109 tab "3D 模型" selectable
+    uid=2291_110 tabpanel "图片"
+      uid=2291_111 heading "您提交的图片" level="5"
+      uid=2291_112 button "刷新"
+      uid=2291_113 button "全部展开"
+      uid=2291_114 button "按商城筛选" expandable haspopup="listbox"
+      uid=2291_115 generic
+      uid=2291_116 generic
+      uid=2291_117 generic
+      uid=2291_118 button "全球" expandable expanded
+      uid=2291_119 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_120 button "查看实时图片"
+      uid=2291_121 button "查看商品详情页面"
+      uid=2291_122 button "上传"
+      uid=2291_123 button "MAIN" expandable haspopup="dialog"
+      uid=2291_124 generic
+      uid=2291_125 generic
+      uid=2291_126 generic
+      uid=2291_127 button "上传"
+      uid=2291_128 button "FRNT" expandable haspopup="dialog"
+      uid=2291_129 generic
+      uid=2291_130 generic
+      uid=2291_131 generic
+      uid=2291_132 button "上传"
+      uid=2291_133 button "SIDE" expandable haspopup="dialog"
+      uid=2291_134 generic
+      uid=2291_135 generic
+      uid=2291_136 generic
+      uid=2291_137 button "上传"
+      uid=2291_138 button "BACK" expandable haspopup="dialog"
+      uid=2291_139 generic
+      uid=2291_140 generic
+      uid=2291_141 generic
+      uid=2291_142 button "上传"
+      uid=2291_143 button "PT01" expandable haspopup="dialog"
+      uid=2291_144 generic
+      uid=2291_145 generic
+      uid=2291_146 generic
+      uid=2291_147 button "上传"
+      uid=2291_148 button "PT02" expandable haspopup="dialog"
+      uid=2291_149 generic
+      uid=2291_150 generic
+      uid=2291_151 generic
+      uid=2291_152 button "上传"
+      uid=2291_153 button "PT03" expandable haspopup="dialog"
+      uid=2291_154 generic
+      uid=2291_155 generic
+      uid=2291_156 generic
+      uid=2291_157 button "上传"
+      uid=2291_158 button "PT04" expandable haspopup="dialog"
+      uid=2291_159 generic
+      uid=2291_160 generic
+      uid=2291_161 generic
+      uid=2291_162 button "上传"
+      uid=2291_163 button "PT05" expandable haspopup="dialog"
+      uid=2291_164 generic
+      uid=2291_165 generic
+      uid=2291_166 generic
+      uid=2291_167 button "上传"
+      uid=2291_168 button "PT06" expandable haspopup="dialog"
+      uid=2291_169 generic
+      uid=2291_170 generic
+      uid=2291_171 generic
+      uid=2291_172 button "上传"
+      uid=2291_173 button "PT07" expandable haspopup="dialog"
+      uid=2291_174 generic
+      uid=2291_175 generic
+      uid=2291_176 generic
+      uid=2291_177 button "英国" expandable
+      uid=2291_178 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_179 button "查看实时图片"
+      uid=2291_180 button "查看商品详情页面"
+      uid=2291_181 button "德国" expandable
+      uid=2291_182 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_183 button "查看实时图片"
+      uid=2291_184 button "查看商品详情页面"
+      uid=2291_185 button "法国" expandable
+      uid=2291_186 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_187 button "查看实时图片"
+      uid=2291_188 button "查看商品详情页面"
+      uid=2291_189 button "日本" expandable
+      uid=2291_190 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_191 button "查看实时图片"
+      uid=2291_192 button "查看商品详情页面"
+      uid=2291_193 button "加拿大" expandable
+      uid=2291_194 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_195 button "查看实时图片"
+      uid=2291_196 button "查看商品详情页面"
+      uid=2291_197 button "意大利" expandable
+      uid=2291_198 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_199 button "查看实时图片"
+      uid=2291_200 button "查看商品详情页面"
+      uid=2291_201 button "西班牙" expandable
+      uid=2291_202 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_203 button "查看实时图片"
+      uid=2291_204 button "查看商品详情页面"
+      uid=2291_205 button "印度" expandable
+      uid=2291_206 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_207 button "查看实时图片"
+      uid=2291_208 button "查看商品详情页面"
+      uid=2291_209 button "巴西" expandable
+      uid=2291_210 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_211 button "查看实时图片"
+      uid=2291_212 button "查看商品详情页面"
+      uid=2291_213 button "墨西哥" expandable
+      uid=2291_214 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_215 button "查看实时图片"
+      uid=2291_216 button "查看商品详情页面"
+      uid=2291_217 button "澳大利亚" expandable
+      uid=2291_218 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_219 button "查看实时图片"
+      uid=2291_220 button "查看商品详情页面"
+      uid=2291_221 button "荷兰" expandable
+      uid=2291_222 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_223 button "查看实时图片"
+      uid=2291_224 button "查看商品详情页面"
+      uid=2291_225 button "阿联酋" expandable
+      uid=2291_226 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_227 button "查看实时图片"
+      uid=2291_228 button "查看商品详情页面"
+      uid=2291_229 button "沙特阿拉伯" expandable
+      uid=2291_230 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_231 button "查看实时图片"
+      uid=2291_232 button "查看商品详情页面"
+      uid=2291_233 button "土耳其" expandable
+      uid=2291_234 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_235 button "查看实时图片"
+      uid=2291_236 button "查看商品详情页面"
+      uid=2291_237 button "埃及" expandable
+      uid=2291_238 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_239 button "查看实时图片"
+      uid=2291_240 button "查看商品详情页面"
+      uid=2291_241 button "瑞典" expandable
+      uid=2291_242 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_243 button "查看实时图片"
+      uid=2291_244 button "查看商品详情页面"
+      uid=2291_245 button "波兰" expandable
+      uid=2291_246 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_247 button "查看实时图片"
+      uid=2291_248 button "查看商品详情页面"
+      uid=2291_249 button "比利时" expandable
+      uid=2291_250 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_251 button "查看实时图片"
+      uid=2291_252 button "查看商品详情页面"
+      uid=2291_253 button "爱尔兰" expandable
+      uid=2291_254 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_255 button "查看实时图片"
+      uid=2291_256 button "查看商品详情页面"
+      uid=2291_257 button "新加坡" expandable
+      uid=2291_258 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2291_259 button "查看实时图片"
+      uid=2291_260 button "查看商品详情页面"
+    uid=2291_261 complementary
+      uid=2291_262 button expandable haspopup="menu"
+  uid=2291_263 link "站点地图" url="https://sellercentral.amazon.com/sitemap"
+    uid=2291_264 StaticText "站点地图"
+  uid=2291_265 link " 计划政策" url="https://sellercentral.amazon.com/help/hub/reference/521"
+    uid=2291_266 StaticText " 计划政策"
+  uid=2291_267 StaticText "© 1999-2026，Amazon.com, Inc. 或其附属公司"
+  uid=2291_268 link "反馈" url="https://sellercentral.amazon.com/imaging/manage#"
+    uid=2291_269 StaticText "反馈"

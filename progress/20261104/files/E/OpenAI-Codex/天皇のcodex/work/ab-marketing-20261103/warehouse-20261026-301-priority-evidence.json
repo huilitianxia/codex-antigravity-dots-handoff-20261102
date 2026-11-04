@@ -1,0 +1,73 @@
+{
+  "source": "E:\\xwechat_files\\wxid_81xkainbu5d822_de43\\msg\\file\\2026-11\\海外仓库存-20261026.xlsx",
+  "sheet": "出入库",
+  "snapshot": "2026-10-26 per filename;cached workbook balances",
+  "rows": [
+    {
+      "row": 6,
+      "sku": "4A 30132",
+      "name": "1.5x2小本便签16霓虹色32本短边胶水",
+      "warehouse": "QUINLAN(T01)",
+      "base_stock": 470,
+      "outbound": 0,
+      "inbound": 0,
+      "adjustment": null,
+      "cached_balance": 470
+    },
+    {
+      "row": 7,
+      "sku": "4A 301x12-N",
+      "name": "1.5x2小本便签7霓虹色12本短边胶水",
+      "warehouse": "QUINLAN(T01)",
+      "base_stock": 23263,
+      "outbound": 20,
+      "inbound": 0,
+      "adjustment": null,
+      "cached_balance": 23243
+    },
+    {
+      "row": 8,
+      "sku": "4A 301x12-Y",
+      "name": "1.5x2小本便签黄色12本短边胶水",
+      "warehouse": "QUINLAN(T01)",
+      "base_stock": 35,
+      "outbound": 0,
+      "inbound": 0,
+      "adjustment": null,
+      "cached_balance": 35
+    },
+    {
+      "row": 9,
+      "sku": "4A 301x24",
+      "name": "1.5x2小本便签12霓虹色24本短边胶水",
+      "warehouse": "QUINLAN(T01)",
+      "base_stock": 1236,
+      "outbound": 0,
+      "inbound": 0,
+      "adjustment": null,
+      "cached_balance": 1236
+    },
+    {
+      "row": 10,
+      "sku": "4A 301x24-Y",
+      "name": "1.5x2小本便签黄色24本短边胶水",
+      "warehouse": "QUINLAN(T01)",
+      "base_stock": 4226,
+      "outbound": 0,
+      "inbound": 0,
+      "adjustment": null,
+      "cached_balance": 4226
+    },
+    {
+      "row": 33,
+      "sku": "4A 354818",
+      "name": "1.375x1.875小本便签18霓虹色18本长边胶水",
+      "warehouse": "QUINLAN(T01)",
+      "base_stock": 863,
+      "outbound": 0,
+      "inbound": 0,
+      "adjustment": null,
+      "cached_balance": 863
+    }
+  ]
+}

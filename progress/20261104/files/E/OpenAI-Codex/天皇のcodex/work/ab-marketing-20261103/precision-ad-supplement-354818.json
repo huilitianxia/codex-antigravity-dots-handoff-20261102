@@ -1,0 +1,182 @@
+[
+  {
+    "group": "S1",
+    "code": "354818",
+    "asin": "B07DJKDB63",
+    "skus": [
+      "4A 354818"
+    ],
+    "daily": 2,
+    "bid": 0.35,
+    "keywords": [
+      "mini sticky notes",
+      "small sticky notes assorted colors",
+      "mini sticky notes bulk",
+      "small sticky notes 18 pads",
+      "sticky notes 18 colors"
+    ],
+    "name": "SP_REACTIVATE_S1_354818_EXACT_20261103",
+    "status": "launched",
+    "stage": "pending-independent-verification",
+    "sent": true,
+    "started_at": "2026-11-03T00:12:11.596Z",
+    "sent_at": "2026-11-03T00:12:53.772Z",
+    "campaignId": "A08178061JQPNPP6UO1R8",
+    "publicCampaignId": "42823615558052",
+    "finished_at": "2026-11-03T00:12:59.950Z",
+    "verification": {
+      "group": "S1",
+      "campaignId": "A08178061JQPNPP6UO1R8",
+      "checked_at": "2026-11-03T00:13:38.333Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 2,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A08178061JQPNPP6UO1R8/ad-groups/A0821614ZQRO0SYESX9V/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A08178061JQPNPP6UO1R8/ad-groups/A0821614ZQRO0SYESX9V/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "adGroupId": "A0821614ZQRO0SYESX9V",
+      "product_rows": [],
+      "product_status": [
+        {
+          "sku": "4A 354818",
+          "row": {
+            "id": "A03815643L7HWMWI74V3X",
+            "cells": {
+              "adName": "4A Sticky Notes,1 3/8 x 1 7/8 Inches,Small Size,The Adhesive On Longer Side,Neon Assorted,Self-Stick Notes,18 Colors,100 Sheets/Pad,18 Pads/Pack,4A 354818 \n\nUS$7.99",
+              "status": "进行中",
+              "videoDetails": "添加视频",
+              "videoStatus": "无可用数据",
+              "asin": "4A 354818\n\nB07DJKDB63 ",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            }
+          },
+          "status": "进行中"
+        }
+      ],
+      "products_running": true,
+      "target_count": 5,
+      "expected_target_count": 5,
+      "targets_running": true,
+      "keyword_rows": [
+        "  uid=1491_114 row \"精准 进行中 US$2.12 (US$1.46-US$2.65) 应用 — Open tooltip US$0.35 US$0.35 — — — —\" selectable",
+        "  uid=1491_135 row \"精准 进行中 US$1.35 (US$0.98-US$1.83) 应用 — Open tooltip US$0.35 US$0.35 — — — —\" selectable",
+        "  uid=1491_156 row \"精准 进行中 无最新数据 — Open tooltip US$0.35 US$0.35 — — — —\" selectable",
+        "  uid=1491_176 row \"精准 进行中 US$1.88 (US$1.41-US$2.81) 应用 — Open tooltip US$0.35 US$0.35 — — — —\" selectable",
+        "  uid=1491_197 row \"精准 进行中 US$0.82 (US$0.62-US$1.02) 应用 — Open tooltip US$0.35 US$0.35 — — — —\" selectable"
+      ],
+      "dom_targets": {
+        "url": "https://advertising.amazon.com/cm/sp/campaigns/A08178061JQPNPP6UO1R8/ad-groups/A0821614ZQRO0SYESX9V/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+        "rows": [
+          {
+            "id": "253153291439347",
+            "cells": {
+              "target": "mini sticky notes\n迷你便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$2.12 (US$1.46-US$2.65)\n应用\n—",
+              "bid": "US$0.35\nUS$0.35",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            }
+          },
+          {
+            "id": "178741990618416",
+            "cells": {
+              "target": "mini sticky notes bulk\n迷你便利贴批发",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.35 (US$0.98-US$1.83)\n应用\n—",
+              "bid": "US$0.35\nUS$0.35",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            }
+          },
+          {
+            "id": "78892609696296",
+            "cells": {
+              "target": "small sticky notes 18 pads\n小便利贴 18 张纸巾",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.35\nUS$0.35",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            }
+          },
+          {
+            "id": "8022480619826",
+            "cells": {
+              "target": "small sticky notes assorted colors\n各种颜色的小便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.88 (US$1.41-US$2.81)\n应用\n—",
+              "bid": "US$0.35\nUS$0.35",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            }
+          },
+          {
+            "id": "189816132917770",
+            "cells": {
+              "target": "sticky notes 18 colors\n便利贴 18 种颜色",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$0.82 (US$0.62-US$1.02)\n应用\n—",
+              "bid": "US$0.35\nUS$0.35",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            }
+          }
+        ]
+      },
+      "verified": true,
+      "status": "verified-running",
+      "dom_products": {
+        "url": "https://advertising.amazon.com/cm/sp/campaigns/A08178061JQPNPP6UO1R8/ad-groups/A0821614ZQRO0SYESX9V/ads?entityId=ENTITY2EFMPU8GWXHSP",
+        "rows": [
+          {
+            "id": "A03815643L7HWMWI74V3X",
+            "cells": {
+              "adName": "4A Sticky Notes,1 3/8 x 1 7/8 Inches,Small Size,The Adhesive On Longer Side,Neon Assorted,Self-Stick Notes,18 Colors,100 Sheets/Pad,18 Pads/Pack,4A 354818 \n\nUS$7.99",
+              "status": "进行中",
+              "videoDetails": "添加视频",
+              "videoStatus": "无可用数据",
+              "asin": "4A 354818\n\nB07DJKDB63 ",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            }
+          },
+          {
+            "id": "[object Object]",
+            "cells": {
+              "adName": "总计: 1",
+              "videoDetails": "总计: 1",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            }
+          }
+        ]
+      }
+    },
+    "independently_verified": true
+  }
+]

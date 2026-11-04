@@ -1,0 +1,27 @@
+{
+  "at": "2026-11-04T00:50:44.823Z",
+  "status": "verified",
+  "changes": [
+    {
+      "name": "SP_304满胶_ASIN 竞_20250724",
+      "campaign": "A00365532LJO9V0VNWWPT",
+      "publicId": "357890487078534",
+      "from": 10,
+      "to": 7,
+      "actual": 7,
+      "pass": true
+    },
+    {
+      "name": "SP_305满胶300_KW BROAD_20250411",
+      "campaign": "A08519421LOCSOSTAXPTY",
+      "publicId": "378855663060981",
+      "from": 2,
+      "to": 5,
+      "actual": 5,
+      "pass": true,
+      "status": "进行中"
+    }
+  ],
+  "totalChange": 0,
+  "bulkJobId": "3a6db1cb-71fd-491e-8263-9a75c7d1d667"
+}

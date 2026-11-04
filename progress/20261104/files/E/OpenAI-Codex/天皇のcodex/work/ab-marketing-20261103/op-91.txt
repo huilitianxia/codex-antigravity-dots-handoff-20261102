@@ -1,0 +1,4 @@
+Script ran on page and returned:
+```json
+{"bids":[{"aria":"US$0.45，输入金额 US$，针对关键词sticky notes 15 pads的竞价，EXACT匹配类型","value":"0.45"},{"aria":"US$0.45，输入金额 US$，针对关键词3x3 sticky notes 1500 sheets的竞价，EXACT匹配类型","value":"0.45"},{"aria":"US$2.42，输入金额 US$，针对关键词sticky notes 3x3 assorted colors的竞价，EXACT匹配类型","value":"2.42"},{"aria":"US$2.75，输入金额 US$，针对关键词3x3 sticky notes bulk的竞价，EXACT匹配类型","value":"2.75"},{"aria":"US$2.42，输入金额 US$，针对关键词colored sticky notes 3x3的竞价，EXACT匹配类型","value":"2.42"}],"budget":"5.00"}
+```

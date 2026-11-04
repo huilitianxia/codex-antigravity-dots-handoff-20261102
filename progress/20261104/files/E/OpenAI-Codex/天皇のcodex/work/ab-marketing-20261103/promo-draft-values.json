@@ -1,0 +1,137 @@
+{
+  "configured": {
+    "4A 020": {
+      "baseline": 14.99,
+      "discount_percent": 10,
+      "floor": 13.49,
+      "committed_units": 20,
+      "ui_values": [
+        "10",
+        "13.49",
+        "20"
+      ]
+    },
+    "4A GM30132": {
+      "baseline": 12.99,
+      "discount_percent": 10,
+      "floor": 11.69,
+      "committed_units": 100,
+      "ui_values": [
+        "10",
+        "11.69",
+        "100"
+      ]
+    },
+    "4A GM354832": {
+      "baseline": 15.99,
+      "discount_percent": 10,
+      "floor": 14.39,
+      "committed_units": 100,
+      "ui_values": [
+        "10",
+        "14.39",
+        "100"
+      ]
+    },
+    "4A 030": {
+      "baseline": 11.99,
+      "discount_percent": 10,
+      "floor": 10.79,
+      "committed_units": 30,
+      "ui_values": [
+        "10",
+        "10.79",
+        "30"
+      ]
+    },
+    "4A GM30315": {
+      "baseline": 14.99,
+      "discount_percent": 10,
+      "floor": 13.49,
+      "committed_units": 200,
+      "ui_values": [
+        "10",
+        "13.49",
+        "200"
+      ]
+    },
+    "4A GM-SC-PSS 9-1 NYNRx2": {
+      "baseline": 19.99,
+      "discount_percent": 10,
+      "floor": 17.99,
+      "committed_units": 30,
+      "ui_values": [
+        "10",
+        "17.99",
+        "30"
+      ]
+    },
+    "4A FBM-5082-Y-L": {
+      "baseline": 11.99,
+      "discount_percent": 10,
+      "floor": 10.79,
+      "committed_units": 300,
+      "ui_values": [
+        "10",
+        "10.79",
+        "300"
+      ]
+    },
+    "4A GMVC6043": {
+      "baseline": 8.99,
+      "discount_percent": 10,
+      "floor": 8.09,
+      "committed_units": 30,
+      "ui_values": [
+        "10",
+        "8.09",
+        "30"
+      ]
+    },
+    "4A-MEETING-52X4": {
+      "baseline": 64.99,
+      "discount_percent": 10,
+      "floor": 58.49,
+      "committed_units": 10,
+      "ui_values": [
+        "10",
+        "58.49",
+        "10"
+      ]
+    },
+    "4A 5059-B00SM-FBM": {
+      "baseline": 6.99,
+      "discount_percent": 10,
+      "floor": 6.29,
+      "committed_units": 10,
+      "ui_values": [
+        "10",
+        "6.29",
+        "10"
+      ]
+    },
+    "4A 304 Full Glue-FBM": {
+      "baseline": 9.99,
+      "discount_percent": 10,
+      "floor": 8.99,
+      "committed_units": 300,
+      "ui_values": [
+        "10",
+        "8.99",
+        "300"
+      ]
+    },
+    "4A 4012-B07T-FBM": {
+      "baseline": 12.99,
+      "discount_percent": 10,
+      "floor": 11.69,
+      "committed_units": 100,
+      "ui_values": [
+        "10",
+        "11.69",
+        "100"
+      ]
+    }
+  },
+  "missing": []
+}

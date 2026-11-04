@@ -1,0 +1,1298 @@
+{
+  "status": "complete",
+  "records": [
+    {
+      "group": "B4",
+      "at": "2026-11-03T16:53:02.292Z",
+      "checks": [
+        {
+          "group": "B4",
+          "type": "bid",
+          "keyword": "3x3 sticky notes bulk",
+          "keyword_id": "189800989136857",
+          "before": 0.55,
+          "after": 0.65,
+          "row": {
+            "id": "189800989136857",
+            "cells": {
+              "target": "3x3 sticky notes bulk\n3x3便利贴批发",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$2.80 (US$2.10-US$3.50)\n应用\n—",
+              "bid": "US$0.65\nUS$0.65",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.65,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "B4",
+          "type": "bid",
+          "keyword": "colored sticky notes 3x3",
+          "keyword_id": "20955361404728",
+          "before": 0.55,
+          "after": 0.65,
+          "row": {
+            "id": "20955361404728",
+            "cells": {
+              "target": "colored sticky notes 3x3\n3x3彩色便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$2.46 (US$1.75-US$2.80)\n应用\n—",
+              "bid": "US$0.65\nUS$0.65",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.65,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "B4",
+          "type": "bid",
+          "keyword": "sticky notes 3x3 assorted colors",
+          "keyword_id": "268058507043824",
+          "before": 0.55,
+          "after": 0.65,
+          "row": {
+            "id": "268058507043824",
+            "cells": {
+              "target": "sticky notes 3x3 assorted colors\n3x3 便利贴多色混装",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$2.45 (US$1.84-US$3.06)\n应用\n—",
+              "bid": "US$0.65\nUS$0.65",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.65,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "B4",
+          "type": "new-keyword",
+          "keyword": "3x3 sticky notes assorted colors",
+          "match": "phrase",
+          "bid": 0.5,
+          "row": {
+            "id": "110115049123620",
+            "cells": {
+              "target": "3x3 sticky notes assorted colors\n3x3英寸彩色便利贴",
+              "matchType": "短语",
+              "status": "进行中",
+              "suggestedBid": "US$1.93 (US$1.40-US$2.47)\n应用\n—",
+              "bid": "US$0.50\nUS$0.50",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.5,
+          "actual_status": "进行中",
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "group": "B12",
+      "at": "2026-11-03T16:44:48.434Z",
+      "pass": true,
+      "checks": [
+        {
+          "group": "B12",
+          "type": "bid",
+          "keyword": "0.6 inch sticky note roll",
+          "keyword_id": "212851464213388",
+          "before": 0.25,
+          "after": 0.5,
+          "row": {
+            "id": "212851464213388",
+            "cells": {
+              "target": "0.6 inch sticky note roll\n0.6 英寸的便利贴纸",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.50\nUS$0.50",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.5,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "B12",
+          "type": "bid",
+          "keyword": "full adhesive sticky note roll 0.6 inch",
+          "keyword_id": "155824531484259",
+          "before": 0.25,
+          "after": 0.5,
+          "row": {
+            "id": "155824531484259",
+            "cells": {
+              "target": "full adhesive sticky note roll 0.6 inch\n全粘便签卷 0.6 英寸",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.50\nUS$0.50",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.5,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "B12",
+          "type": "bid",
+          "keyword": "6 color sticky note rolls with dispenser",
+          "keyword_id": "38438629142541",
+          "before": 0.25,
+          "after": 0.45,
+          "row": {
+            "id": "38438629142541",
+            "cells": {
+              "target": "6 color sticky note rolls with dispenser\n带分配器的 6 种彩色便利贴卷",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.45,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "B12",
+          "type": "new-keyword",
+          "keyword": "sticky note roll dispenser",
+          "match": "phrase",
+          "bid": 0.5,
+          "row": {
+            "id": "195396651524210",
+            "cells": {
+              "target": "sticky note roll dispenser\n便利贴卷轴分发器",
+              "matchType": "短语",
+              "status": "进行中",
+              "suggestedBid": "US$0.48 (US$0.36-US$0.60)\n应用\n—",
+              "bid": "US$0.50\nUS$0.50",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.5,
+          "actual_status": "进行中",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "group": "R002",
+      "at": "2026-11-03T16:45:01.676Z",
+      "pass": true,
+      "checks": [
+        {
+          "group": "R002",
+          "type": "bid",
+          "keyword": "desktop sticky notes organizer set",
+          "keyword_id": "86664209718644",
+          "before": 0.2,
+          "after": 0.4,
+          "row": {
+            "id": "86664209718644",
+            "cells": {
+              "target": "desktop sticky notes organizer set\n桌面便签收纳套装",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.40\nUS$0.40",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.4,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "R002",
+          "type": "bid",
+          "keyword": "sticky notes and index flags organizer",
+          "keyword_id": "29071898252801",
+          "before": 0.2,
+          "after": 0.4,
+          "row": {
+            "id": "29071898252801",
+            "cells": {
+              "target": "sticky notes and index flags organizer\n便签和索引标志管理器",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.40\nUS$0.40",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.4,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "R002",
+          "type": "new-keyword",
+          "keyword": "sticky note organizer set",
+          "match": "phrase",
+          "bid": 0.4,
+          "row": {
+            "id": "36825385520891",
+            "cells": {
+              "target": "sticky note organizer set\n便利贴收纳整理套装",
+              "matchType": "短语",
+              "status": "进行中",
+              "suggestedBid": "US$0.37 (US$0.28-US$0.46)\n应用\n—",
+              "bid": "US$0.40\nUS$0.40",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.4,
+          "actual_status": "进行中",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "group": "B2",
+      "at": "2026-11-03T16:45:35.734Z",
+      "pass": true,
+      "checks": [
+        {
+          "group": "B2",
+          "type": "bid",
+          "keyword": "full adhesive sticky notes",
+          "keyword_id": "252260799912837",
+          "before": 0.45,
+          "after": 0.55,
+          "row": {
+            "id": "252260799912837",
+            "cells": {
+              "target": "full adhesive sticky notes\n全胶便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.57 (US$0.79-US$1.89)\n应用\n—",
+              "bid": "US$0.55\nUS$0.55",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.55,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "B2",
+          "type": "bid",
+          "keyword": "sticky notes full back adhesive",
+          "keyword_id": "178623841080693",
+          "before": 0.45,
+          "after": 0.55,
+          "row": {
+            "id": "178623841080693",
+            "cells": {
+              "target": "sticky notes full back adhesive\n全背胶便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.20 (US$0.92-US$1.37)\n应用\n—",
+              "bid": "US$0.55\nUS$0.55",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.55,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "B2",
+          "type": "bid",
+          "keyword": "fully adhesive sticky notes",
+          "keyword_id": "59284530568881",
+          "before": 0.45,
+          "after": 0.5,
+          "row": {
+            "id": "59284530568881",
+            "cells": {
+              "target": "fully adhesive sticky notes\n全面粘性便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$2.14 (US$1.29-US$2.74)\n应用\n—",
+              "bid": "US$0.50\nUS$0.50",
+              "impressions": "2",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.5,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "B2",
+          "type": "bid",
+          "keyword": "full sticky notes",
+          "keyword_id": "109741906331931",
+          "before": 0.45,
+          "after": 0.4,
+          "row": {
+            "id": "109741906331931",
+            "cells": {
+              "target": "full sticky notes\n整页便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.64 (US$1.09-US$2.12)\n应用\n—",
+              "bid": "US$0.40\nUS$0.40",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.4,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "B2",
+          "type": "new-keyword",
+          "keyword": "fully adhesive sticky notes",
+          "match": "phrase",
+          "bid": 0.4,
+          "row": {
+            "id": "48069485054192",
+            "cells": {
+              "target": "fully adhesive sticky notes\n全面粘性便利贴",
+              "matchType": "短语",
+              "status": "进行中",
+              "suggestedBid": "US$2.02 (US$1.25-US$2.72)\n应用\n—",
+              "bid": "US$0.40\nUS$0.40",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.4,
+          "actual_status": "进行中",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "group": "RE303",
+      "at": "2026-11-03T16:45:55.965Z",
+      "pass": true,
+      "checks": [
+        {
+          "group": "RE303",
+          "type": "bid",
+          "keyword": "full sticky back post it notes",
+          "keyword_id": "71825437436907",
+          "before": 0.25,
+          "after": 0.7,
+          "row": {
+            "id": "71825437436907",
+            "cells": {
+              "target": "full sticky back post it notes\n全贴背便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.39 (US$1.05-US$1.70)\n应用\n—",
+              "bid": "US$0.70\nUS$0.70",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.7,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "RE303",
+          "type": "new-keyword",
+          "keyword": "full stick post it notes",
+          "match": "exact",
+          "bid": 0.55,
+          "row": {
+            "id": "83325748248327",
+            "cells": {
+              "target": "full stick post it notes\n全胶便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.10 (US$0.77-US$1.44)\n应用\n—",
+              "bid": "US$0.55\nUS$0.55",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.55,
+          "actual_status": "进行中",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "group": "B1",
+      "at": "2026-11-03T16:46:13.747Z",
+      "pass": true,
+      "checks": [
+        {
+          "group": "B1",
+          "type": "bid",
+          "keyword": "lined sticky notes 5x8",
+          "keyword_id": "130810826344384",
+          "before": 0.5,
+          "after": 0.55,
+          "row": {
+            "id": "130810826344384",
+            "cells": {
+              "target": "lined sticky notes 5x8\n5x8横线便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$0.84 (US$0.60-US$1.05)\n应用\n—",
+              "bid": "US$0.55\nUS$0.55",
+              "impressions": "1",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.55,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "B1",
+          "type": "bid",
+          "keyword": "large yellow lined sticky notes",
+          "keyword_id": "227465520714200",
+          "before": 0.5,
+          "after": 0.6,
+          "row": {
+            "id": "227465520714200",
+            "cells": {
+              "target": "large yellow lined sticky notes\n带有黄色的大号便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.02 (US$0.77-US$1.27)\n应用\n—",
+              "bid": "US$0.60\nUS$0.60",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.6,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "B1",
+          "type": "new-keyword",
+          "keyword": "lined sticky notes",
+          "match": "exact",
+          "bid": 0.55,
+          "row": {
+            "id": "155861675120414",
+            "cells": {
+              "target": "lined sticky notes\n横线便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$2.79 (US$2.09-US$3.49)\n应用\n—",
+              "bid": "US$0.55\nUS$0.55",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.55,
+          "actual_status": "进行中",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "group": "R006",
+      "at": "2026-11-03T16:46:31.628Z",
+      "pass": true,
+      "checks": [
+        {
+          "group": "R006",
+          "type": "bid",
+          "keyword": "1.5x2 sticky notes 24 pads",
+          "keyword_id": "237422155733681",
+          "before": 0.3,
+          "after": 0.35,
+          "row": {
+            "id": "237422155733681",
+            "cells": {
+              "target": "1.5x2 sticky notes 24 pads\n1.5x2 便利贴 24 张纸巾",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.35\nUS$0.35",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.35,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "R006",
+          "type": "bid",
+          "keyword": "1.5 x 2 sticky notes assorted colors",
+          "keyword_id": "28403349192656",
+          "before": 0.3,
+          "after": 0.35,
+          "row": {
+            "id": "28403349192656",
+            "cells": {
+              "target": "1.5 x 2 sticky notes assorted colors\n1.5 x 2 各种颜色的便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.35\nUS$0.35",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.35,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "R006",
+          "type": "new-keyword",
+          "keyword": "mini sticky notes",
+          "match": "phrase",
+          "bid": 0.3,
+          "row": {
+            "id": "223651269403891",
+            "cells": {
+              "target": "mini sticky notes\n迷你便利贴",
+              "matchType": "短语",
+              "status": "进行中",
+              "suggestedBid": "US$1.59 (US$1.19-US$1.99)\n应用\n—",
+              "bid": "US$0.30\nUS$0.30",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.3,
+          "actual_status": "进行中",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "group": "B5",
+      "at": "2026-11-03T16:46:41.065Z",
+      "pass": true,
+      "checks": [
+        {
+          "group": "B5",
+          "type": "pause-keyword",
+          "keyword": "mini sticky notes bulk",
+          "keyword_id": "160587331368830",
+          "row": {
+            "id": "160587331368830",
+            "cells": {
+              "target": "mini sticky notes bulk迷你便利贴批发",
+              "matchType": "精准",
+              "status": "已暂停",
+              "suggestedBid": "无最新数据—"
+            },
+            "enabled": "false"
+          },
+          "actual_bid": null,
+          "actual_status": "已暂停",
+          "pass": true
+        },
+        {
+          "group": "B5",
+          "type": "pause-keyword",
+          "keyword": "small colored sticky notes",
+          "keyword_id": "97319125486469",
+          "row": {
+            "id": "97319125486469",
+            "cells": {
+              "target": "small colored sticky notes小号彩色便利贴",
+              "matchType": "精准",
+              "status": "已暂停",
+              "suggestedBid": "无最新数据—"
+            },
+            "enabled": "false"
+          },
+          "actual_bid": null,
+          "actual_status": "已暂停",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "group": "B6",
+      "at": "2026-11-03T16:54:07.693Z",
+      "checks": [
+        {
+          "group": "B6",
+          "type": "pause-keyword",
+          "keyword": "mini sticky notes",
+          "keyword_id": "227358854393399",
+          "row": {
+            "id": "227358854393399",
+            "cells": {
+              "target": "mini sticky notes\n迷你便利贴",
+              "matchType": "精准",
+              "status": "已暂停",
+              "suggestedBid": "US$2.12 (US$1.46-US$2.65)\n应用\n—",
+              "bid": "US$0.37\nUS$0.37",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "false"
+          },
+          "actual_bid": 0.37,
+          "actual_status": "已暂停",
+          "pass": true
+        },
+        {
+          "group": "B6",
+          "type": "pause-keyword",
+          "keyword": "mini sticky notes assorted colors",
+          "keyword_id": "65263276284289",
+          "row": {
+            "id": "65263276284289",
+            "cells": {
+              "target": "mini sticky notes assorted colors\n各种颜色的迷你便签",
+              "matchType": "精准",
+              "status": "已暂停",
+              "suggestedBid": "US$3.45 (US$2.59-US$3.86)\n应用\n—",
+              "bid": "US$0.37\nUS$0.37",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "false"
+          },
+          "actual_bid": 0.37,
+          "actual_status": "已暂停",
+          "pass": true
+        },
+        {
+          "group": "B6",
+          "type": "pause-keyword",
+          "keyword": "small sticky notes bulk",
+          "keyword_id": "223898250060684",
+          "row": {
+            "id": "223898250060684",
+            "cells": {
+              "target": "small sticky notes bulk\n迷你便利贴批发",
+              "matchType": "精准",
+              "status": "已暂停",
+              "suggestedBid": "US$0.89 (US$0.67-US$1.11)\n应用\n—",
+              "bid": "US$0.37\nUS$0.37",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "false"
+          },
+          "actual_bid": 0.37,
+          "actual_status": "已暂停",
+          "pass": true
+        },
+        {
+          "group": "B6",
+          "type": "pause-keyword",
+          "keyword": "sticky notes 32 pads",
+          "keyword_id": "135322400514641",
+          "row": {
+            "id": "135322400514641",
+            "cells": {
+              "target": "sticky notes 32 pads\n便利贴 32 张纸巾",
+              "matchType": "精准",
+              "status": "已暂停",
+              "suggestedBid": "US$1.30 (US$1.16-US$1.73)\n应用\n—",
+              "bid": "US$0.37\nUS$0.37",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "false"
+          },
+          "actual_bid": 0.37,
+          "actual_status": "已暂停",
+          "pass": true
+        },
+        {
+          "group": "B6",
+          "type": "new-keyword",
+          "keyword": "mini sticky notes 32 pads",
+          "match": "exact",
+          "bid": 0.3,
+          "retry_original_row": 44,
+          "row": {
+            "id": "33031812640150",
+            "cells": {
+              "target": "mini sticky notes 32 pads\n迷你便利贴 32 张纸巾",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.30\nUS$0.30",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.3,
+          "actual_status": "进行中",
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "group": "RE302",
+      "at": "2026-11-03T16:47:29.363Z",
+      "pass": true,
+      "checks": [
+        {
+          "group": "RE302",
+          "type": "pause-keyword",
+          "keyword": "full stick post it notes",
+          "keyword_id": "36689448650082",
+          "row": {
+            "id": "36689448650082",
+            "cells": {
+              "target": "full stick post it notes\n全胶便利贴",
+              "matchType": "精准",
+              "status": "已暂停",
+              "suggestedBid": "US$1.10 (US$0.77-US$1.44)\n应用\n—",
+              "bid": "US$0.32\nUS$0.32",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            },
+            "enabled": "false"
+          },
+          "actual_bid": 0.32,
+          "actual_status": "已暂停",
+          "pass": true
+        },
+        {
+          "group": "RE302",
+          "type": "new-keyword",
+          "keyword": "full adhesive sticky notes 2x3",
+          "match": "phrase",
+          "bid": 0.25,
+          "row": {
+            "id": "244307028199116",
+            "cells": {
+              "target": "full adhesive sticky notes 2x3\n全粘便利贴 2x3",
+              "matchType": "短语",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.25\nUS$0.25",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.25,
+          "actual_status": "进行中",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "group": "R008",
+      "at": "2026-11-03T16:47:39.399Z",
+      "pass": true,
+      "checks": [
+        {
+          "group": "R008",
+          "type": "pause-keyword",
+          "keyword": "large lined sticky notes 5 x 8",
+          "keyword_id": "191879747713292",
+          "row": {
+            "id": "191879747713292",
+            "cells": {
+              "target": "large lined sticky notes 5 x 8\n大号内衬便利贴 5 x 8",
+              "matchType": "精准",
+              "status": "已暂停",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.75\nUS$0.75",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "false"
+          },
+          "actual_bid": 0.75,
+          "actual_status": "已暂停",
+          "pass": true
+        },
+        {
+          "keyword": "5x8 lined sticky notes 8 pads",
+          "type": "pause-keyword",
+          "row": {
+            "id": "252388226398185",
+            "cells": {
+              "target": "5x8 lined sticky notes 8 pads\n5x8 内衬便利贴 8 张纸巾",
+              "matchType": "精准",
+              "status": "已暂停",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.30\nUS$0.30",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "false"
+          },
+          "actual_bid": 0.3,
+          "actual_status": "已暂停",
+          "pass": true
+        },
+        {
+          "keyword": "5x8 sticky notes 400 sheets",
+          "type": "pause-keyword",
+          "row": {
+            "id": "160298084526409",
+            "cells": {
+              "target": "5x8 sticky notes 400 sheets\n5x8 便利贴 400 张",
+              "matchType": "精准",
+              "status": "已暂停",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.30\nUS$0.30",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "false"
+          },
+          "actual_bid": 0.3,
+          "actual_status": "已暂停",
+          "pass": true
+        },
+        {
+          "keyword": "5x8 lined sticky notes 4 pads",
+          "type": "new-keyword",
+          "match": "exact",
+          "bid": 0.3,
+          "row": {
+            "id": "72025852145188",
+            "cells": {
+              "target": "5x8 lined sticky notes 4 pads\n5x8横线便签纸4本装",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.30\nUS$0.30",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.3,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "keyword": "5x8 sticky notes 200 sheets",
+          "type": "new-keyword",
+          "match": "exact",
+          "bid": 0.3,
+          "row": {
+            "id": "225667925078352",
+            "cells": {
+              "target": "5x8 sticky notes 200 sheets\n5x8便利贴200张",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.30\nUS$0.30",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.3,
+          "actual_status": "进行中",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "group": "R001",
+      "at": "2026-11-03T16:47:50.310Z",
+      "pass": true,
+      "checks": [
+        {
+          "group": "R001",
+          "type": "bid",
+          "keyword": "1.5 x 2 neon sticky notes",
+          "keyword_id": "60617417803643",
+          "after": 0.3,
+          "row": {
+            "id": "60617417803643",
+            "cells": {
+              "target": "1.5 x 2 neon sticky notes\n1.5 x 2 霓虹便条",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.30\nUS$0.30",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.3,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "R001",
+          "type": "bid",
+          "keyword": "1.5x2 sticky notes 12 pads",
+          "keyword_id": "151842310074032",
+          "after": 0.25,
+          "row": {
+            "id": "151842310074032",
+            "cells": {
+              "target": "1.5x2 sticky notes 12 pads\n1.5x2 便签纸 12 张纸巾",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.25\nUS$0.25",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.25,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "R001",
+          "type": "new-keyword",
+          "keyword": "small neon sticky notes",
+          "match": "phrase",
+          "bid": 0.25,
+          "row": {
+            "id": "64414658029541",
+            "cells": {
+              "target": "small neon sticky notes\n小号荧光便利贴",
+              "matchType": "短语",
+              "status": "进行中",
+              "suggestedBid": "US$2.54 (US$1.39-US$3.13)\n应用\n—",
+              "bid": "US$0.25\nUS$0.25",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.25,
+          "actual_status": "进行中",
+          "pass": true
+        },
+        {
+          "group": "R001",
+          "type": "new-keyword",
+          "keyword": "mini sticky notes 1.5 x 2",
+          "match": "phrase",
+          "bid": 0.25,
+          "row": {
+            "id": "14932584876876",
+            "cells": {
+              "target": "mini sticky notes 1.5 x 2\n1.5 x 2迷你便利贴",
+              "matchType": "短语",
+              "status": "进行中",
+              "suggestedBid": "US$1.05 (US$0.79-US$1.31)\n应用\n—",
+              "bid": "US$0.25\nUS$0.25",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—",
+              "sales": "—",
+              "roas": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.25,
+          "actual_status": "进行中",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "group": "S1",
+      "at": "2026-11-03T16:48:00.599Z",
+      "pass": true,
+      "checks": [
+        {
+          "group": "S1",
+          "type": "pause-keyword",
+          "keyword": "mini sticky notes",
+          "keyword_id": "253153291439347",
+          "row": {
+            "id": "253153291439347",
+            "cells": {
+              "target": "mini sticky notes\n迷你便利贴",
+              "matchType": "精准",
+              "status": "已暂停",
+              "suggestedBid": "US$2.12 (US$1.46-US$2.65)\n应用\n—"
+            },
+            "enabled": "false"
+          },
+          "actual_bid": null,
+          "actual_status": "已暂停",
+          "pass": true
+        },
+        {
+          "group": "S1",
+          "type": "pause-keyword",
+          "keyword": "mini sticky notes bulk",
+          "keyword_id": "178741990618416",
+          "row": {
+            "id": "178741990618416",
+            "cells": {
+              "target": "mini sticky notes bulk\n迷你便利贴批发",
+              "matchType": "精准",
+              "status": "已暂停",
+              "suggestedBid": "US$1.35 (US$0.98-US$1.83)\n应用\n—"
+            },
+            "enabled": "false"
+          },
+          "actual_bid": null,
+          "actual_status": "已暂停",
+          "pass": true
+        },
+        {
+          "group": "S1",
+          "type": "pause-keyword",
+          "keyword": "small sticky notes assorted colors",
+          "keyword_id": "8022480619826",
+          "row": {
+            "id": "8022480619826",
+            "cells": {
+              "target": "small sticky notes assorted colors\n各种颜色的小便利贴",
+              "matchType": "精准",
+              "status": "已暂停",
+              "suggestedBid": "US$1.88 (US$1.41-US$2.81)\n应用\n—"
+            },
+            "enabled": "false"
+          },
+          "actual_bid": null,
+          "actual_status": "已暂停",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "group": "R007",
+      "at": "2026-11-03T16:48:20.206Z",
+      "pass": true,
+      "checks": [
+        {
+          "keyword": "5x8 lined sticky notes 800 sheets",
+          "type": "pause-keyword",
+          "row": {
+            "id": "187188165719687",
+            "cells": {
+              "target": "5x8 lined sticky notes 800 sheets\n5x8 内衬便利贴 800 张",
+              "matchType": "精准",
+              "status": "已暂停",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.30\nUS$0.30",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            },
+            "enabled": "false"
+          },
+          "actual_bid": 0.3,
+          "actual_status": "已暂停",
+          "pass": true
+        },
+        {
+          "keyword": "5x8 lined sticky notes 400 sheets",
+          "type": "new-keyword",
+          "match": "exact",
+          "bid": 0.3,
+          "row": {
+            "id": "47325635019149",
+            "cells": {
+              "target": "5x8 lined sticky notes 400 sheets\n5x8横线便利贴400张",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.30\nUS$0.30",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—",
+              "orders": "—"
+            },
+            "enabled": "true"
+          },
+          "actual_bid": 0.3,
+          "actual_status": "进行中",
+          "pass": true
+        }
+      ]
+    }
+  ],
+  "all_pass": true,
+  "check_count": 47
+}

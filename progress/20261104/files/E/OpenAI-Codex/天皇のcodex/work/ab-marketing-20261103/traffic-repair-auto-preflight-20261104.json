@@ -1,0 +1,106 @@
+{
+  "at": "2026-11-04T00:24:55.560Z",
+  "budgetNNow": {
+    "url": "https://advertising.amazon.com/campaign-manager/all-campaigns?entityId=ENTITY2EFMPU8GWXHSP",
+    "rows": [
+      {
+        "id": "201025833740906",
+        "cells": {
+          "name": "SP_VC_REVIEW_R001_30112N_VC_EXACT_20261103\nA0219519PE5RDQRTARA9",
+          "country": "美国",
+          "status": "进行中",
+          "portfolio": "OLD_PRODUCTS_REACTIVATE_20261103_DAILY",
+          "smartBiddingStrategy": "动态竞价（只降低）",
+          "startDate": "2026-11-03\n2026-11-03",
+          "budget": "US$6.00 - 每天\nUS$6.00 - 每天",
+          "costType": "CPC",
+          "impressions": "—",
+          "topOfSearchImpressionShare": "—",
+          "tcisBidAdjustment": "0%\n0%"
+        },
+        "enabled": "true"
+      },
+      {
+        "id": "[object Object]",
+        "cells": {
+          "name": "总计: 1",
+          "impressions": "—",
+          "topOfSearchImpressionShare": "—",
+          "tcisBidAdjustment": "—"
+        }
+      }
+    ]
+  },
+  "budget303Now": {
+    "url": "https://advertising.amazon.com/campaign-manager/all-campaigns?entityId=ENTITY2EFMPU8GWXHSP",
+    "rows": [
+      {
+        "id": "227608823498168",
+        "cells": {
+          "name": "SP_REACTIVATE_B4_30315_EXACT_20261102\nA0625560C81W26ZWQFAG",
+          "country": "美国",
+          "status": "进行中",
+          "portfolio": "OLD_PRODUCTS_REACTIVATE_20261103_DAILY",
+          "smartBiddingStrategy": "动态竞价（只降低）",
+          "startDate": "2026-11-02\n2026-11-02",
+          "budget": "US$5.00 - 每天\nUS$5.00 - 每天",
+          "costType": "CPC",
+          "impressions": "—",
+          "topOfSearchImpressionShare": "—",
+          "tcisBidAdjustment": "0%\n0%"
+        },
+        "enabled": "true"
+      },
+      {
+        "id": "[object Object]",
+        "cells": {
+          "name": "总计: 1",
+          "impressions": "—",
+          "topOfSearchImpressionShare": "—",
+          "tcisBidAdjustment": "—"
+        }
+      }
+    ]
+  },
+  "drafts": [
+    {
+      "page": 252,
+      "style": "301N",
+      "name": "SP_DISCOVERY_301N_AUTO_CLOSE_20261104",
+      "group": "DISCOVERY_301N_AUTO_CLOSE",
+      "asin": "B01LVTWP7Q",
+      "skus": [
+        "4A301x12-N-B01LVT-FBM",
+        "4A 301x12-N"
+      ],
+      "bid": 0.45,
+      "daily": 2
+    },
+    {
+      "page": 253,
+      "style": "30315",
+      "name": "SP_DISCOVERY_30315_AUTO_CLOSE_20261104",
+      "group": "DISCOVERY_30315_AUTO_CLOSE",
+      "asin": "B07FKG29KB",
+      "skus": [
+        "4A GM30315"
+      ],
+      "bid": 0.39,
+      "daily": 2
+    }
+  ],
+  "checks": [
+    {
+      "style": "301N",
+      "pass": true
+    },
+    {
+      "style": "30315",
+      "pass": true
+    }
+  ],
+  "research": [
+    "https://kb.helium10.com/hc/en-us/articles/360046281853-Creating-Amazon-Ads-Campaigns-within-Helium-10-Ads",
+    "https://advertising.amazon.com/library/guides/targeting-with-sponsored-products/"
+  ]
+}

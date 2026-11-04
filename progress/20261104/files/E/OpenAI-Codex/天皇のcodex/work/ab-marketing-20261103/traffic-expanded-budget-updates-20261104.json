@@ -1,0 +1,32 @@
+{
+  "at": "2026-11-04T00:36:59.198Z",
+  "results": [
+    {
+      "name": "SP_VC_REVIEW_R001_30112N_VC_EXACT_20261103",
+      "campaign": "A0219519PE5RDQRTARA9",
+      "publicId": "201025833740906",
+      "from": 6,
+      "to": 8,
+      "actual": 8,
+      "pass": true
+    },
+    {
+      "name": "SP_DISCOVERY_301N_AUTO_CLOSE_20261104",
+      "campaign": "A1002295TRUEWQ3Y1Z9M",
+      "publicId": "180975607507224",
+      "from": 2,
+      "to": 10,
+      "actual": 10,
+      "pass": true
+    },
+    {
+      "name": "SP_REACTIVATE_B4_30315_EXACT_20261102",
+      "campaign": "A0625560C81W26ZWQFAG",
+      "publicId": "227608823498168",
+      "from": 5,
+      "to": 7,
+      "actual": 7,
+      "pass": true
+    }
+  ]
+}

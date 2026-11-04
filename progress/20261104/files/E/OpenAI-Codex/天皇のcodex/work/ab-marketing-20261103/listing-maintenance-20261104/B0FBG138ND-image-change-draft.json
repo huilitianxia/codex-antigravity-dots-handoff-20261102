@@ -1,0 +1,88 @@
+{
+  "before": [
+    {
+      "slot": "image-box-0",
+      "src": "https://m.media-amazon.com/images/I/61ttRboAXZL.jpg",
+      "alt": "主图像链接地址"
+    },
+    {
+      "slot": "image-box-1",
+      "src": "https://m.media-amazon.com/images/I/71oi9cJQejL.jpg",
+      "alt": "图片 2"
+    },
+    {
+      "slot": "image-box-2",
+      "src": "https://m.media-amazon.com/images/I/71qUraoc+sL.jpg",
+      "alt": "图片 3"
+    },
+    {
+      "slot": "image-box-3",
+      "src": "https://m.media-amazon.com/images/I/61DcCBehvXL.jpg",
+      "alt": "图片 4"
+    },
+    {
+      "slot": "image-box-4",
+      "src": "https://m.media-amazon.com/images/I/71+j+BkOBLL.jpg",
+      "alt": "图片 5"
+    },
+    {
+      "slot": "image-box-5",
+      "src": "https://m.media-amazon.com/images/I/61m3SQlp6lL.jpg",
+      "alt": "图片 6"
+    },
+    {
+      "slot": "image-box-6",
+      "src": "https://m.media-amazon.com/images/I/61ZKXTrC0uL.jpg",
+      "alt": "图片 7"
+    },
+    {
+      "slot": "image-box-7",
+      "src": "https://m.media-amazon.com/images/I/813AK+4Zu7L.jpg",
+      "alt": "图片 8"
+    }
+  ],
+  "removed": null,
+  "inserted": {
+    "slot": "image-box-8",
+    "src": "https://d92ap0lo8fr10.cloudfront.net/DescriptionImages/A1SIQRGD8XGCE4/615ac371-a614-44a3-b098-1af5185f86e3",
+    "alt": "图片 9"
+  },
+  "after": [
+    {
+      "alt": "主图像链接地址",
+      "src": "https://m.media-amazon.com/images/I/61ttRboAXZL.jpg"
+    },
+    {
+      "alt": "图片 2",
+      "src": "https://d92ap0lo8fr10.cloudfront.net/DescriptionImages/A1SIQRGD8XGCE4/615ac371-a614-44a3-b098-1af5185f86e3"
+    },
+    {
+      "alt": "图片 3",
+      "src": "https://m.media-amazon.com/images/I/71oi9cJQejL.jpg"
+    },
+    {
+      "alt": "图片 4",
+      "src": "https://m.media-amazon.com/images/I/71qUraoc+sL.jpg"
+    },
+    {
+      "alt": "图片 5",
+      "src": "https://m.media-amazon.com/images/I/61DcCBehvXL.jpg"
+    },
+    {
+      "alt": "图片 6",
+      "src": "https://m.media-amazon.com/images/I/71+j+BkOBLL.jpg"
+    },
+    {
+      "alt": "图片 7",
+      "src": "https://m.media-amazon.com/images/I/61m3SQlp6lL.jpg"
+    },
+    {
+      "alt": "图片 8",
+      "src": "https://m.media-amazon.com/images/I/61ZKXTrC0uL.jpg"
+    },
+    {
+      "alt": "图片 9",
+      "src": "https://m.media-amazon.com/images/I/813AK+4Zu7L.jpg"
+    }
+  ]
+}

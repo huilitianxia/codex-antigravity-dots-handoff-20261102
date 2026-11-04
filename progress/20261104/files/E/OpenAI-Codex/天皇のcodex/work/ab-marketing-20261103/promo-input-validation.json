@@ -1,0 +1,31 @@
+[
+  {
+    "value": "17.99",
+    "attrs": {
+      "type": "number",
+      "step": ".01",
+      "min": ".01",
+      "class": "user-input-error touched",
+      "unique-id": "katal-id-165",
+      "size": "large",
+      "inputmode": "",
+      "enterkeyhint": "",
+      "state": "error",
+      "value": "17.99"
+    }
+  },
+  {
+    "value": "10",
+    "attrs": {
+      "type": "number",
+      "min": "1",
+      "class": "user-input-error touched",
+      "unique-id": "katal-id-167",
+      "size": "large",
+      "inputmode": "",
+      "enterkeyhint": "",
+      "state": "error",
+      "value": "10"
+    }
+  }
+]

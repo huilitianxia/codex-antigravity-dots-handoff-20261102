@@ -1,0 +1,90 @@
+{
+  "at": "2026-11-04T00:14:12.353Z",
+  "clientDate": "2026-11-04",
+  "adReportDateUS": "2026-11-03",
+  "metricsSource": "morning-review-US-today-advertising-20261104.json",
+  "new27": {
+    "impressions": 82,
+    "clicks": 2,
+    "spend": 1.1,
+    "purchases": 0
+  },
+  "old6": {
+    "impressions": 4083,
+    "clicks": 6,
+    "spend": 4.97,
+    "purchases": 1
+  },
+  "core": [
+    {
+      "style": "301N",
+      "budget": 8,
+      "impressions": 0,
+      "clicks": 0,
+      "spend": 0,
+      "adOffers": [
+        "FBA",
+        "FBM"
+      ],
+      "featuredOfferObserved": "FBA 4A USD5.99"
+    },
+    {
+      "style": "30315",
+      "budget": 7,
+      "impressions": 0,
+      "clicks": 0,
+      "spend": 0,
+      "adOffers": [
+        "FBM"
+      ],
+      "featuredOfferObserved": "FBM 4A USD11.99 + shipping8.99"
+    },
+    {
+      "style": "BS1801",
+      "budget": 5,
+      "impressions": 0,
+      "clicks": 0,
+      "spend": 0,
+      "adOffers": [
+        "FBA"
+      ],
+      "featuredOfferObserved": "FBA 4A USD14.99"
+    },
+    {
+      "style": "4012",
+      "budget": 4,
+      "impressions": 2,
+      "clicks": 0,
+      "spend": 0,
+      "adOffers": [
+        "FBM"
+      ],
+      "featuredOfferObserved": "FBM 4A USD11.99 + shipping4.99"
+    }
+  ],
+  "FBAOrders": {
+    "date": "US 2026-11-03",
+    "orders": 26,
+    "items": 28,
+    "units": 41,
+    "pendingOrders": 25,
+    "paidOrders": 1,
+    "coreOrders": 0
+  },
+  "FBM": {
+    "unshipped": 1,
+    "unshippedStyle": "SCMC434 B07FKGDMPS",
+    "pending": 1,
+    "pendingStyle": "484812-Nx3 B07PWM2X8Y",
+    "shippedToday": 0
+  },
+  "checks": {
+    "keywordBidsPersisted": true,
+    "coreProductAdsEnabled": true,
+    "adGroupNegativeKeywordsEmpty": true,
+    "allFourPublicBuyable": true
+  },
+  "unresolved": "Exact cause of low impressions is not proven; narrow targeting, relevance, auction strength and report delay remain candidates. No account block or product availability block observed.",
+  "changesAppliedThisTurn": [],
+  "recommendationNotApplied": "Consider reallocating USD2 of each 301N/30315 existing budget to auto-close campaigns or testing shorter phrase keywords, after user decides to adjust."
+}

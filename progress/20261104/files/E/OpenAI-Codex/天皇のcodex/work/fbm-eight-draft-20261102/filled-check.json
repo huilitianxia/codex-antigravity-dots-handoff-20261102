@@ -1,0 +1,66 @@
+[
+  {
+    "sku": "4A 4012",
+    "fields": [
+      "spinbutton \"数量\": \"50\"",
+      "textbox \"您的价格\":\n    - /placeholder: 示例： 9.00\n    - text: \"23.99\"\n  - generic: \n  - "
+    ],
+    "errors": false
+  },
+  {
+    "sku": "4A GM-SC-PSS 9-1 NYNRx2",
+    "fields": [
+      "spinbutton \"数量\": \"30\"",
+      "textbox \"您的价格\":\n  - /placeholder: 示例： 9.00\n  - text: \"19.99\"\n- generic: \n- generic:"
+    ],
+    "errors": false
+  },
+  {
+    "sku": "4A 301x24",
+    "fields": [
+      "spinbutton \"数量\": \"50\"",
+      "textbox \"您的价格\":\n    - /placeholder: 示例： 9.00\n    - text: \"12.99\"\n  - generic: \n  - "
+    ],
+    "errors": true
+  },
+  {
+    "sku": "4A GMVC6043",
+    "fields": [
+      "spinbutton \"数量\": \"30\"",
+      "textbox \"您的价格\":\n  - /placeholder: 示例： 9.00\n  - text: \"8.99\"\n- generic: 匹配最低价：USD$8.9"
+    ],
+    "errors": false
+  },
+  {
+    "sku": "4A 020",
+    "fields": [
+      "spinbutton \"数量\": \"20\"",
+      "textbox \"您的价格\":\n    - /placeholder: 示例： 9.00\n    - text: \"14.99\"\n  - generic: \n  - "
+    ],
+    "errors": false
+  },
+  {
+    "sku": "4A 027",
+    "fields": [
+      "spinbutton \"数量\": \"30\"",
+      "textbox \"您的价格\":\n    - /placeholder: 示例： 9.00\n    - text: \"11.99\"\n  - generic: 卖方允许的最"
+    ],
+    "errors": false
+  },
+  {
+    "sku": "4A 030",
+    "fields": [
+      "spinbutton \"数量\": \"30\"",
+      "textbox \"您的价格\":\n    - /placeholder: 示例： 9.00\n    - text: \"11.99\"\n  - generic: \n  - "
+    ],
+    "errors": false
+  },
+  {
+    "sku": "4A-MEETING-52X4",
+    "fields": [
+      "spinbutton \"数量\": \"10\"",
+      "textbox \"您的价格\":\n  - /placeholder: 示例： 9.00\n  - text: \"64.99\"\n- generic: \n- generic:"
+    ],
+    "errors": false
+  }
+]

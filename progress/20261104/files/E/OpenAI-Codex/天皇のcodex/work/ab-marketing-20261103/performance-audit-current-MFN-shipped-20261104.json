@@ -1,0 +1,56 @@
+{
+  "url": "https://sellercentral.amazon.com/orders-v3/mfn/shipped?page=1",
+  "count": [
+    "6 个订单过去 7 天"
+  ],
+  "orders": [
+    {
+      "date": "2026/11/2",
+      "time": "08:33 PST",
+      "market": "Amazon.com",
+      "asin": "B01N6J0VZO",
+      "sku": "4A 302 Full Glue",
+      "qty": "1"
+    },
+    {
+      "date": "2026/11/2",
+      "time": "06:57 PST",
+      "market": "Amazon.com",
+      "asin": "B01MSZSEBW",
+      "sku": "4A 406x6-N",
+      "qty": "1"
+    },
+    {
+      "date": "2026/10/31",
+      "time": "21:39 PDT",
+      "market": "Amazon.com",
+      "asin": "B07FK8ML41",
+      "sku": "4A GM302-Full Glue*3",
+      "qty": "1"
+    },
+    {
+      "date": "2026/10/30",
+      "time": "15:58 PDT",
+      "market": "Amazon.com",
+      "asin": "B00V9Z5PS2",
+      "sku": "4A PSS 9-5 NB",
+      "qty": "1"
+    },
+    {
+      "date": "2026/10/30",
+      "time": "07:34 PDT",
+      "market": "Amazon.com",
+      "asin": "B01MU5BGNQ",
+      "sku": "4A0102",
+      "qty": "3"
+    },
+    {
+      "date": "2026/10/28",
+      "time": "05:39 PDT",
+      "market": "Amazon.com",
+      "asin": "B07FKGDMPS",
+      "sku": "4A GMSCMC 434",
+      "qty": "1"
+    }
+  ]
+}

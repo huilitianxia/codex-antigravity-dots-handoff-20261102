@@ -1,0 +1,60 @@
+{
+  "mode": "Built-in image_gen",
+  "prompts": [
+    {
+      "key": "5082-pack",
+      "refs": [
+        "D:/4A/00_当前工作区_202611/voc_infographics/03_5082_Y_Lx2_4Pads_Packaging_Clarity_2000x2000.jpg"
+      ],
+      "prompt": "Use case: infographic-diagram. Create ONE polished premium Amazon SECONDARY listing image, square, 2048x2048 or larger. Edit/reference input: the attached existing 4A 5082 packing infographic. Preserve actual pastel-yellow ruled pads and the REAL photographed wrappers/labels exactly; do not invent or redesign the product. Redesign only the infographic presentation to be beautiful, minimal, refined stationery-brand editorial design: warm ivory background, ink-navy typography, restrained sage accents, generous whitespace, subtle paper shadows, excellent mobile readability. Show TWO shrink-wrapped twin-packs as the only main product photos, each contains two stacked pads; use the reference photographed twin-pack cutouts, not invented retail boxes. No extra products. Exact typeset copy: headline '4 PADS. 200 SHEETS.' subhead 'Two twin-packs. Four pads inside.' Label under each twin-pack: '2 pads · 100 sheets'. Bottom clear equation: '2 packs × 2 pads × 50 sheets = 200 sheets'. Small feature line: '5 × 8 in  |  Pastel Yellow  |  Ruled'. Final concise instruction 'Open each wrap to separate the two stacked pads.' Text must be correct, not cropped. No star badges, awards, price, superlatives, sustainability/performance claims, blue/orange paper, extra included accessories. This is not a white-background main image; it is a beautiful precise informational secondary image. Keep color true to pastel yellow."
+    },
+    {
+      "key": "303-count-size",
+      "refs": [
+        "D:/4A/印刷用图片/电商/亚马逊图片-2021/6-----4A Full Adhesive Notes/4A 303-Full Adhesive-400/702877124307.main.jpg"
+      ],
+      "prompt": "Use case: infographic-diagram. ONE premium Amazon secondary listing image, square2048x2048. Product-reference input is real4A303fulladhesive400 pack. Accurately preserve FIVE separate SQUARE paper pads, lime green, peach/coral, orange, pink, yellow. Preserve actual paper proportions and the narrow non-stick lifting edge; do not present it as100%edge-to-edge adhesive. No thick cardboard backing or covers or new packaging. Design a sophisticated clean stationery editorial info image, warm white/ivory, dark navy text, understated sage rules, soft natural paper shadows, lots of air, beautiful flat-lay product photography based on reference. Main center arrangement FIVE pads individually countable with the exact reference colors. Add a small square sheet dimension diagram with arrows3inwide3inhigh. Exact copy headline 'Five colors. 400 notes.' Subtitle '3 × 3 in full-adhesive sticky notes'. Three balanced fact blocks '5 pads' / '80 sheets per pad' / '400 sheets total'. Small legend 'Lime · Peach · Orange · Pink · Yellow'. A small callout to the lifting edge 'Non-stick edge for lifting'. Objective facts only. No never-curl or strong-adhesion or residue guarantees; no awards badges prices competitor references, no props sold as part of set, no lined pages. All text perfect and comfortably readable on a mobile screen. Actual product structure and palette take priority over visual embellishment."
+    },
+    {
+      "key": "305-count-size",
+      "refs": [
+        "D:/4A/01_便签店运营_2026-10/02_Listing与新图包/02_第二批_新图文素材库/305FullAdhesive/原图参考/02_B0FBG138ND_01.jpg"
+      ],
+      "prompt": "Use case: infographic-diagram. Create ONE polished premium Amazon SECONDARY image square2048x2048. Reference input is actual4A305fulladhesive100 specification picture: five thin rectangular3by5inch sticky-note pads,20sheetsperpad,100total, five exact colors green,pink,orange,peach/coral,yellow, with a non-stick edge. Preserve this product identity, dimensions and colors. Redesign to elegant premium stationery editorial design: ivory backdrop, dark ink-navy typography, restrained sage fine lines, generous whitespace, clean product flat lay based faithfully on reference, realistic thin20-sheet pads, soft shadows. FIVE individually countable pads, no blue/purple. Main hero five colored pads with clean precise3in by5in dimension arrows on one rectangle; no black hatching or actual 'ADHESIVE' printed onto paper. Exact copy: 'Five colors. 100 notes.' Subtitle '3 × 5 in full-adhesive sticky notes'. Fact blocks '5 pads' / '20 sheets per pad' / '100 sheets total'. Caption 'Lime · Pink · Orange · Peach · Yellow'. Small callout 'Non-stick edge for lifting'. No packaging redesign, do not add spiral bindings or cardboard backing, no notebook ruling. No performance or no-curl or residue-free promises. No price awards reviews badges. Text must be precise, airy and readable at thumbnail scale, no cropped text."
+    },
+    {
+      "key": "pss-size-use",
+      "refs": [
+        "D:/4A/印刷用图片/电商/亚马逊图片-2021/8-----4A Roll Sticky Notes/4A PSS 32/pss 32x6-3.jpg"
+      ],
+      "prompt": "Use case: infographic-diagram. Create ONE beautiful high-end Amazon SECONDARY product image square2048x2048 for 4A PSS32x6 roll sticky notes. Real product reference: six paper rolls in individual TRANSLUCENT small handheld plastic dispensers, colors coral,lime,orange,yellow,pink,blue. Preserve EXACT open dispenser geometry, clear plastic curved sides and serrated front edge from reference, no invented housing, handles, scissors or metal mechanisms. This is removable paper for notes/marking, not heavy-duty mounting tape. Premium stationery editorial art direction: ivory warm-white background, dark navy typography, soft realistic shadows, thin sage divider rules and generous whitespace. Main hero six dispensers arranged neatly in two rows, individually countable, photorealistic faithful to reference. Below an enlarged strip across a simple notebook page demonstrates brief color-coded paper marking, no adhesive strength test. Add one clear width arrow across a straight paper strip '0.6 in / 15 mm'. Exact headline 'Six colors. Cut to your length.' Subtitle 'Roll sticky notes with individual dispensers'. Three small fact blocks '6 rolls' / '0.6 in wide' / '393 in per roll'. Small bottom line 'For planners, indexing and paper labels'. Do not make rulers or notebooks appear included; final small caption 'Notebook shown for use illustration only.' Keep captions large readable, exact spelled. No residue-free, no-fade, curl-free, tape-strength or clean-cut guarantee, no awards reviews prices logos invented. Product identity accuracy over decorative prettiness."
+    }
+  ],
+  "images": [
+    {
+      "key": "5082-pack",
+      "src": "E:/OpenAI-Codex/CodexHome/generated_images/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/exec-40602c12-821f-4f77-8185-b50a699a3588.png",
+      "name": "B0F9L5G6XQ_pack-clarity_premium_v2.png",
+      "dest": "E:/OpenAI-Codex/天皇のcodex/work/ab-marketing-20261103/listing-maintenance-20261104/images/B0F9L5G6XQ_pack-clarity_premium_v2.png"
+    },
+    {
+      "key": "303-count-size",
+      "src": "E:/OpenAI-Codex/CodexHome/generated_images/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/exec-dfa5990e-4498-4a03-8163-c3dea05e7b02.png",
+      "name": "B07QXJYTZ7_size-count_premium_v2.png",
+      "dest": "E:/OpenAI-Codex/天皇のcodex/work/ab-marketing-20261103/listing-maintenance-20261104/images/B07QXJYTZ7_size-count_premium_v2.png"
+    },
+    {
+      "key": "305-count-size",
+      "src": "E:/OpenAI-Codex/CodexHome/generated_images/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/exec-fdf05dc1-589d-4f9b-9869-f7830f57c935.png",
+      "name": "B0FBG138ND_size-count_premium_v2.png",
+      "dest": "E:/OpenAI-Codex/天皇のcodex/work/ab-marketing-20261103/listing-maintenance-20261104/images/B0FBG138ND_size-count_premium_v2.png"
+    },
+    {
+      "key": "pss-size-use",
+      "src": "E:/OpenAI-Codex/CodexHome/generated_images/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/exec-20f1c15b-fc11-492e-a7f4-3db911ee75ba.png",
+      "name": "PSS32x6_size-use_premium_v2.png",
+      "dest": "E:/OpenAI-Codex/天皇のcodex/work/ab-marketing-20261103/listing-maintenance-20261104/images/PSS32x6_size-use_premium_v2.png"
+    }
+  ],
+  "QA": "All four visually inspected: text/counts/dimensions/palette/core structure pass; primary photos retained as main images"
+}

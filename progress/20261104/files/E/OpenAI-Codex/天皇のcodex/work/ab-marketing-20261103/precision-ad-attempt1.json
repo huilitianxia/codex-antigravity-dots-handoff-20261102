@@ -1,0 +1,262 @@
+[
+  {
+    "group": "B4",
+    "code": "30315",
+    "asin": "B07FKG29KB",
+    "skus": [
+      "4A GM30315"
+    ],
+    "daily": 5,
+    "bid": 0.55,
+    "status": "launched",
+    "campaignId": "A0625560C81W26ZWQFAG",
+    "publicCampaignId": "227608823498168",
+    "portfolio_verified": true,
+    "actual_end_settings": "2026-11-08",
+    "planned_portfolio_end": "2026-11-09"
+  },
+  {
+    "group": "B2",
+    "code": "304FULL",
+    "asin": "B00SMEFFRE",
+    "skus": [
+      "4A 304 Full Glue",
+      "4A 304 Full Glue-FBM"
+    ],
+    "daily": 4,
+    "bid": 0.45,
+    "keywords": [
+      "full adhesive sticky notes",
+      "fully adhesive sticky notes",
+      "sticky notes full back adhesive",
+      "full sticky notes"
+    ],
+    "name": "SP_REACTIVATE_B2_304FULL_EXACT_20261102",
+    "status": "not-launched",
+    "stage": "manual",
+    "sent": false,
+    "started_at": "2026-11-02T18:59:21.802Z",
+    "error": "Error: Error: Missing down-only strategy"
+  },
+  {
+    "group": "B5",
+    "code": "30132",
+    "asin": "B07RQ7JMV9",
+    "skus": [
+      "4A GM30132",
+      "4A 30132"
+    ],
+    "daily": 3,
+    "bid": 0.4,
+    "keywords": [
+      "small sticky notes 1.5 x 2",
+      "mini sticky notes bulk",
+      "small colored sticky notes",
+      "sticky notes 32 pads"
+    ],
+    "name": "SP_REACTIVATE_B5_30132_EXACT_20261102",
+    "status": "not-launched",
+    "stage": "products",
+    "sent": false,
+    "started_at": "2026-11-02T18:59:40.960Z",
+    "error": "Error: Expected one switch 所有商品, found 0"
+  },
+  {
+    "group": "B6",
+    "code": "354832",
+    "asin": "B07RP9LR73",
+    "skus": [
+      "4A GM354832"
+    ],
+    "daily": 3,
+    "bid": 0.4,
+    "keywords": [
+      "small sticky notes bulk",
+      "mini sticky notes",
+      "mini sticky notes assorted colors",
+      "sticky notes 32 pads"
+    ],
+    "name": "SP_REACTIVATE_B6_354832_EXACT_20261102",
+    "status": "not-launched",
+    "stage": "products",
+    "sent": false,
+    "started_at": "2026-11-02T18:59:44.715Z",
+    "error": "Error: Expected one switch 所有商品, found 0"
+  },
+  {
+    "group": "B3",
+    "code": "4012",
+    "asin": "B01M3N310M",
+    "skus": [
+      "4A 4012-B07T-FBM"
+    ],
+    "daily": 4,
+    "bid": 0.45,
+    "keywords": [
+      "sticky notes variety pack",
+      "sticky notes assorted sizes",
+      "sticky notes value pack",
+      "sticky notes 18 pads"
+    ],
+    "name": "SP_REACTIVATE_B3_4012_EXACT_20261102",
+    "status": "not-launched",
+    "stage": "products",
+    "sent": false,
+    "started_at": "2026-11-02T18:59:47.865Z",
+    "error": "Error: Expected one switch 所有商品, found 0"
+  },
+  {
+    "group": "B1",
+    "code": "5082YL",
+    "asin": "B07F2BHFJH",
+    "skus": [
+      "4A 5082-Y-L-GM",
+      "4A FBM-5082-Y-L"
+    ],
+    "daily": 5,
+    "bid": 0.5,
+    "keywords": [
+      "lined sticky notes 5x8",
+      "5x8 sticky notes lined",
+      "large yellow lined sticky notes",
+      "large lined sticky notes"
+    ],
+    "name": "SP_REACTIVATE_B1_5082YL_EXACT_20261102",
+    "status": "not-launched",
+    "stage": "products",
+    "sent": false,
+    "started_at": "2026-11-02T18:59:51.485Z",
+    "error": "Error: Expected one switch 所有商品, found 0"
+  },
+  {
+    "group": "A2",
+    "code": "PSS91",
+    "asin": "B07FK7PBHJ",
+    "skus": [
+      "4A GM-SC-PSS 9-1 NYNRx2"
+    ],
+    "daily": 2,
+    "bid": 0.45,
+    "keywords": [
+      "full adhesive sticky note roll",
+      "sticky note roll dispenser",
+      "repositionable sticky roll",
+      "2 inch sticky note roll"
+    ],
+    "name": "SP_REACTIVATE_A2_PSS91_EXACT_20261102",
+    "status": "not-launched",
+    "stage": "products",
+    "sent": false,
+    "started_at": "2026-11-02T18:59:54.617Z",
+    "error": "Error: Expected one switch 所有商品, found 0"
+  },
+  {
+    "group": "A4",
+    "code": "6043",
+    "asin": "B01M986R0Y",
+    "skus": [
+      "4A GMVC6043",
+      "4A 6043-FBA"
+    ],
+    "daily": 2,
+    "bid": 0.35,
+    "keywords": [
+      "binder index tabs",
+      "durable file tabs",
+      "writable binder tabs",
+      "binder page markers"
+    ],
+    "name": "SP_REACTIVATE_A4_6043_EXACT_20261102",
+    "status": "not-launched",
+    "stage": "products",
+    "sent": false,
+    "started_at": "2026-11-02T18:59:57.798Z",
+    "error": "Error: Expected one switch 所有商品, found 0"
+  },
+  {
+    "group": "A5",
+    "code": "30318Y",
+    "asin": "B01NGWHSK1",
+    "skus": [
+      "4A 020"
+    ],
+    "daily": 3,
+    "bid": 0.45,
+    "keywords": [
+      "sticky notes 3x3 yellow",
+      "yellow sticky notes bulk",
+      "sticky notes 18 pads",
+      "pastel yellow sticky notes"
+    ],
+    "name": "SP_REACTIVATE_A5_30318Y_EXACT_20261102",
+    "status": "not-launched",
+    "stage": "products",
+    "sent": false,
+    "started_at": "2026-11-02T19:00:01.216Z",
+    "error": "Error: Expected one switch 所有商品, found 0"
+  },
+  {
+    "group": "A7",
+    "code": "4046N",
+    "asin": "B01MXYQPE1",
+    "skus": [
+      "4A 030"
+    ],
+    "daily": 3,
+    "bid": 0.45,
+    "keywords": [
+      "sticky notes 4x4",
+      "4x4 sticky notes neon",
+      "large square sticky notes",
+      "4 inch sticky notes"
+    ],
+    "name": "SP_REACTIVATE_A7_4046N_EXACT_20261102",
+    "status": "not-launched",
+    "stage": "products",
+    "sent": false,
+    "started_at": "2026-11-02T19:00:07.360Z",
+    "error": "Error: Expected one switch 所有商品, found 0"
+  },
+  {
+    "group": "A8",
+    "code": "MEETING52",
+    "asin": "B082WMV9NQ",
+    "skus": [
+      "4A-MEETING-52X4"
+    ],
+    "daily": 2,
+    "bid": 0.35,
+    "keywords": [
+      "4a self stick notes",
+      "4a sticky notes"
+    ],
+    "name": "SP_REACTIVATE_A8_MEETING52_EXACT_20261102",
+    "status": "not-launched",
+    "stage": "products",
+    "sent": false,
+    "started_at": "2026-11-02T19:00:10.595Z",
+    "error": "Error: Expected one switch 所有商品, found 0"
+  },
+  {
+    "group": "B17",
+    "code": "5059",
+    "asin": "B00SMEEVCO",
+    "skus": [
+      "4A 5059-B00SM-FBM",
+      "4A 5059-B00SM-FBA"
+    ],
+    "daily": 1,
+    "bid": 0.25,
+    "keywords": [
+      "speech bubble sticky notes",
+      "speech bubble notes",
+      "bubble shaped sticky notes"
+    ],
+    "name": "SP_REACTIVATE_B17_5059_EXACT_20261102",
+    "status": "not-launched",
+    "stage": "manual",
+    "sent": false,
+    "started_at": "2026-11-02T19:00:13.818Z",
+    "error": "Error: UI did not reach keywords-added-B17"
+  }
+]

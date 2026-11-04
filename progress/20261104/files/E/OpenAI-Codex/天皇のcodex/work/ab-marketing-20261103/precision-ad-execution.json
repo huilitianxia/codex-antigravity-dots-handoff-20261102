@@ -1,0 +1,1513 @@
+[
+  {
+    "group": "B4",
+    "code": "30315",
+    "asin": "B07FKG29KB",
+    "skus": [
+      "4A GM30315"
+    ],
+    "daily": 5,
+    "bid": 0.55,
+    "status": "launched",
+    "campaignId": "A0625560C81W26ZWQFAG",
+    "publicCampaignId": "227608823498168",
+    "portfolio_verified": true,
+    "actual_end_settings": "2026-11-08",
+    "planned_portfolio_end": "2026-11-09",
+    "verification": {
+      "group": "B4",
+      "campaignId": "A0625560C81W26ZWQFAG",
+      "checked_at": "2026-11-02T19:45:55.586Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 5,
+      "daily_matches": true,
+      "end": "2026年11月8日",
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A0625560C81W26ZWQFAG/ad-groups/A0386883323ZDFC3GMWZ4/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A0625560C81W26ZWQFAG/ad-groups/A0386883323ZDFC3GMWZ4/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "adGroupId": "A0386883323ZDFC3GMWZ4",
+      "product_rows": [
+        "  uid=1079_33 row \"进行中 添加视频 添加视频 无可用数据 4A GM30315 B07FKG29KB  — — — —\" selectable"
+      ],
+      "product_status": [
+        {
+          "sku": "4A GM30315",
+          "row": "  uid=1079_33 row \"进行中 添加视频 添加视频 无可用数据 4A GM30315 B07FKG29KB  — — — —\" selectable"
+        }
+      ],
+      "products_running": true,
+      "target_count": 5,
+      "expected_target_count": 5,
+      "targets_running": true,
+      "keyword_rows": [
+        "  uid=1085_97 row \"精准 进行中 无最新数据 — Open tooltip\" selectable",
+        "  uid=1085_106 row \"精准 进行中 US$2.75 (US$2.06-US$3.44) 应用 — Open tooltip\" selectable",
+        "  uid=1085_116 row \"精准 进行中 US$2.42 (US$1.72-US$2.76) 应用 — Open tooltip\" selectable",
+        "  uid=1085_126 row \"精准 进行中 无最新数据 — Open tooltip\" selectable",
+        "  uid=1085_135 row \"精准 进行中 US$2.42 (US$1.82-US$3.03) 应用 — Open tooltip\" selectable"
+      ],
+      "verified": true,
+      "status": "verified-running",
+      "dom_targets": {
+        "url": "https://advertising.amazon.com/cm/sp/campaigns/A0625560C81W26ZWQFAG/ad-groups/A0386883323ZDFC3GMWZ4/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+        "rows": [
+          {
+            "id": "63252716272764",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "3x3 sticky notes 1500 sheets\n3x3 便利贴 1500 张",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.55\nUS$0.55",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "189800989136857",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "3x3 sticky notes bulk\n3x3便利贴批发",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$2.75 (US$2.06-US$3.44)\n应用\n—",
+              "bid": "US$0.55\nUS$0.55",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "20955361404728",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "colored sticky notes 3x3\n3x3彩色便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$2.42 (US$1.72-US$2.76)\n应用\n—",
+              "bid": "US$0.55\nUS$0.55",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "30393094120593",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "sticky notes 15 pads\n便利贴 15 张纸巾",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.55\nUS$0.55",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "268058507043824",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "sticky notes 3x3 assorted colors\n3x3 便利贴多色混装",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$2.42 (US$1.82-US$3.03)\n应用\n—",
+              "bid": "US$0.55\nUS$0.55",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          }
+        ]
+      },
+      "final_checked_at": "2026-11-02T19:47:54.275Z"
+    },
+    "independently_verified": true,
+    "stage": "independently-verified"
+  },
+  {
+    "group": "B2",
+    "code": "304FULL",
+    "asin": "B00SMEFFRE",
+    "skus": [
+      "4A 304 Full Glue",
+      "4A 304 Full Glue-FBM"
+    ],
+    "daily": 4,
+    "bid": 0.45,
+    "keywords": [
+      "full adhesive sticky notes",
+      "fully adhesive sticky notes",
+      "sticky notes full back adhesive",
+      "full sticky notes"
+    ],
+    "name": "SP_REACTIVATE_B2_304FULL_EXACT_20261102",
+    "status": "launched",
+    "stage": "independently-verified",
+    "sent": true,
+    "started_at": "2026-11-02T19:03:18.812Z",
+    "previous_error": "Error: Campaign settings mismatch",
+    "sent_at": "2026-11-02T19:05:38.157Z",
+    "campaignId": "A00505811FL5377VPOSXZ",
+    "publicCampaignId": "237699244124115",
+    "verification": {
+      "group": "B2",
+      "campaignId": "A00505811FL5377VPOSXZ",
+      "checked_at": "2026-11-02T19:26:03.044Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 4,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A00505811FL5377VPOSXZ/ad-groups/A0152328TEEAPIKHI8SG/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A00505811FL5377VPOSXZ/ad-groups/A0152328TEEAPIKHI8SG/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "adGroupId": "A0152328TEEAPIKHI8SG",
+      "product_rows": [
+        "  uid=790_63 row \"进行中 添加视频 添加视频 无可用数据 4A 304 Full Glue B00SMEFFRE  — — — —\" selectable",
+        "  uid=790_84 row \"进行中 添加视频 添加视频 无可用数据 4A 304 Full Glue-FBM B00SMEFFRE  — — — —\" selectable"
+      ],
+      "product_status": [
+        {
+          "sku": "4A 304 Full Glue",
+          "row": "  uid=790_63 row \"进行中 添加视频 添加视频 无可用数据 4A 304 Full Glue B00SMEFFRE  — — — —\" selectable"
+        },
+        {
+          "sku": "4A 304 Full Glue-FBM",
+          "row": "  uid=790_84 row \"进行中 添加视频 添加视频 无可用数据 4A 304 Full Glue-FBM B00SMEFFRE  — — — —\" selectable"
+        }
+      ],
+      "products_running": true,
+      "target_count": 4,
+      "expected_target_count": 4,
+      "targets_running": true,
+      "keyword_rows": [
+        "  uid=794_101 row \"精准 进行中 US$1.54 (US$0.78-US$1.87) 应用 — Open tooltip\" selectable",
+        "  uid=794_111 row \"精准 进行中 US$1.71 (US$1.25-US$2.28) 应用 — Open tooltip\" selectable",
+        "  uid=794_121 row \"精准 进行中 US$1.80 (US$1.35-US$2.25) 应用 — Open tooltip\" selectable",
+        "  uid=794_131 row \"精准 进行中 US$1.18 (US$0.91-US$1.35) 应用 — Open tooltip\" selectable"
+      ],
+      "verified": true,
+      "status": "verified-running",
+      "dom_targets": {
+        "url": "https://advertising.amazon.com/cm/sp/campaigns/A00505811FL5377VPOSXZ/ad-groups/A0152328TEEAPIKHI8SG/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+        "rows": [
+          {
+            "id": "252260799912837",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "full adhesive sticky notes\n全胶便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.54 (US$0.78-US$1.87)\n应用\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "109741906331931",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "full sticky notes\n整页便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.71 (US$1.25-US$2.28)\n应用\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "59284530568881",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "fully adhesive sticky notes\n全面粘性便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.80 (US$1.35-US$2.25)\n应用\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "178623841080693",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "sticky notes full back adhesive\n全背胶便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.18 (US$0.91-US$1.35)\n应用\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          }
+        ]
+      },
+      "final_checked_at": "2026-11-02T19:48:10.073Z"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "B5",
+    "code": "30132",
+    "asin": "B07RQ7JMV9",
+    "skus": [
+      "4A GM30132",
+      "4A 30132"
+    ],
+    "daily": 3,
+    "bid": 0.4,
+    "keywords": [
+      "small sticky notes 1.5 x 2",
+      "mini sticky notes bulk",
+      "small colored sticky notes",
+      "sticky notes 32 pads"
+    ],
+    "name": "SP_REACTIVATE_B5_30132_EXACT_20261102",
+    "status": "launched",
+    "stage": "independently-verified",
+    "sent": true,
+    "started_at": "2026-11-02T19:07:14.313Z",
+    "sent_at": "2026-11-02T19:07:46.707Z",
+    "campaignId": "A076106617HP171QF1Y50",
+    "publicCampaignId": "270879124926153",
+    "finished_at": "2026-11-02T19:07:51.589Z",
+    "verification": {
+      "group": "B5",
+      "campaignId": "A076106617HP171QF1Y50",
+      "checked_at": "2026-11-02T19:27:06.988Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 3,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A076106617HP171QF1Y50/ad-groups/A068068412ISHHTWCWVIF/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A076106617HP171QF1Y50/ad-groups/A068068412ISHHTWCWVIF/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "adGroupId": "A068068412ISHHTWCWVIF",
+      "product_rows": [
+        "  uid=810_47 row \"进行中 添加视频 添加视频 无可用数据 4A GM30132 B07RQ7JMV9  — — — —\" selectable",
+        "  uid=810_68 row \"进行中 添加视频 添加视频 无可用数据 4A 30132 B07RQ7JMV9  — — — —\" selectable"
+      ],
+      "product_status": [
+        {
+          "sku": "4A GM30132",
+          "row": "  uid=810_47 row \"进行中 添加视频 添加视频 无可用数据 4A GM30132 B07RQ7JMV9  — — — —\" selectable"
+        },
+        {
+          "sku": "4A 30132",
+          "row": "  uid=810_68 row \"进行中 添加视频 添加视频 无可用数据 4A 30132 B07RQ7JMV9  — — — —\" selectable"
+        }
+      ],
+      "products_running": true,
+      "target_count": 4,
+      "expected_target_count": 4,
+      "targets_running": true,
+      "keyword_rows": [
+        "  uid=813_105 row \"精准 进行中 US$1.33 (US$0.97-US$1.80) 应用 — Open tooltip US$0.40 US$0.40 — — —\" selectable",
+        "  uid=813_124 row \"精准 进行中 US$0.93 (US$0.79-US$1.14) 应用 — Open tooltip US$0.40 US$0.40 — — —\" selectable",
+        "  uid=813_143 row \"精准 进行中 US$1.17 (US$1.02-US$1.36) 应用 — Open tooltip US$0.40 US$0.40 — — —\" selectable",
+        "  uid=813_162 row \"精准 进行中 US$1.27 (US$1.13-US$1.71) 应用 — Open tooltip US$0.40 US$0.40 — — —\" selectable"
+      ],
+      "verified": true,
+      "status": "verified-running",
+      "dom_targets": {
+        "url": "https://advertising.amazon.com/cm/sp/campaigns/A076106617HP171QF1Y50/ad-groups/A068068412ISHHTWCWVIF/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+        "rows": [
+          {
+            "id": "160587331368830",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "mini sticky notes bulk\n迷你便利贴批发",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.33 (US$0.97-US$1.80)\n应用\n—",
+              "bid": "US$0.40\nUS$0.40",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "97319125486469",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "small colored sticky notes\n小号彩色便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$0.93 (US$0.79-US$1.14)\n应用\n—",
+              "bid": "US$0.40\nUS$0.40",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "96199794057353",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "small sticky notes 1.5 x 2\n1.5 x 2小便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.17 (US$1.02-US$1.36)\n应用\n—",
+              "bid": "US$0.40\nUS$0.40",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "220989136892645",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "sticky notes 32 pads\n便利贴 32 张纸巾",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.27 (US$1.13-US$1.71)\n应用\n—",
+              "bid": "US$0.40\nUS$0.40",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          }
+        ]
+      },
+      "final_checked_at": "2026-11-02T19:48:25.857Z"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "B6",
+    "code": "354832",
+    "asin": "B07RP9LR73",
+    "skus": [
+      "4A GM354832"
+    ],
+    "daily": 3,
+    "bid": 0.4,
+    "keywords": [
+      "small sticky notes bulk",
+      "mini sticky notes",
+      "mini sticky notes assorted colors",
+      "sticky notes 32 pads"
+    ],
+    "name": "SP_REACTIVATE_B6_354832_EXACT_20261102",
+    "status": "launched",
+    "stage": "independently-verified",
+    "sent": true,
+    "started_at": "2026-11-02T19:07:51.590Z",
+    "sent_at": "2026-11-02T19:08:20.283Z",
+    "campaignId": "A01532032232LQS5VVH5H",
+    "publicCampaignId": "142775996563157",
+    "finished_at": "2026-11-02T19:08:24.903Z",
+    "verification": {
+      "group": "B6",
+      "campaignId": "A01532032232LQS5VVH5H",
+      "checked_at": "2026-11-02T19:28:06.958Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 3,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A01532032232LQS5VVH5H/ad-groups/A0171491GLR5B0IYOAOJ/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A01532032232LQS5VVH5H/ad-groups/A0171491GLR5B0IYOAOJ/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "adGroupId": "A0171491GLR5B0IYOAOJ",
+      "product_rows": [
+        "  uid=824_48 row \"进行中 添加视频 添加视频 无可用数据 4A GM354832 B07RP9LR73  1 条建议 — — — —\" selectable"
+      ],
+      "product_status": [
+        {
+          "sku": "4A GM354832",
+          "row": "  uid=824_48 row \"进行中 添加视频 添加视频 无可用数据 4A GM354832 B07RP9LR73  1 条建议 — — — —\" selectable"
+        }
+      ],
+      "products_running": true,
+      "target_count": 4,
+      "expected_target_count": 4,
+      "targets_running": true,
+      "keyword_rows": [
+        "  uid=830_87 row \"精准 进行中 US$2.10 (US$1.44-US$3.15) 应用 — Open tooltip\" selectable",
+        "  uid=830_97 row \"精准 进行中 US$3.40 (US$2.55-US$3.80) 应用 — Open tooltip\" selectable",
+        "  uid=830_107 row \"精准 进行中 US$0.86 (US$0.65-US$1.08) 应用 — Open tooltip\" selectable",
+        "  uid=830_117 row \"精准 进行中 US$1.27 (US$1.13-US$1.71) 应用 — Open tooltip\" selectable"
+      ],
+      "verified": true,
+      "status": "verified-running",
+      "dom_targets": {
+        "url": "https://advertising.amazon.com/cm/sp/campaigns/A01532032232LQS5VVH5H/ad-groups/A0171491GLR5B0IYOAOJ/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+        "rows": [
+          {
+            "id": "227358854393399",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "mini sticky notes\n迷你便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$2.10 (US$1.44-US$3.15)\n应用\n—",
+              "bid": "US$0.40\nUS$0.40",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "65263276284289",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "mini sticky notes assorted colors\n各种颜色的迷你便签",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$3.40 (US$2.55-US$3.80)\n应用\n—",
+              "bid": "US$0.40\nUS$0.40",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "223898250060684",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "small sticky notes bulk\n迷你便利贴批发",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$0.86 (US$0.65-US$1.08)\n应用\n—",
+              "bid": "US$0.40\nUS$0.40",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "135322400514641",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "sticky notes 32 pads\n便利贴 32 张纸巾",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.27 (US$1.13-US$1.71)\n应用\n—",
+              "bid": "US$0.40\nUS$0.40",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          }
+        ]
+      },
+      "final_checked_at": "2026-11-02T19:48:41.027Z"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "B3",
+    "code": "4012",
+    "asin": "B01M3N310M",
+    "skus": [
+      "4A 4012-B07T-FBM"
+    ],
+    "daily": 4,
+    "bid": 0.45,
+    "keywords": [
+      "sticky notes variety pack",
+      "sticky notes assorted sizes",
+      "sticky notes value pack",
+      "sticky notes 18 pads"
+    ],
+    "name": "SP_REACTIVATE_B3_4012_EXACT_20261102",
+    "status": "launched",
+    "stage": "independently-verified",
+    "sent": true,
+    "started_at": "2026-11-02T19:08:24.904Z",
+    "sent_at": "2026-11-02T19:09:55.068Z",
+    "campaignId": "A08305252J4LVVEZ5N1BI",
+    "publicCampaignId": "165988682795928",
+    "finished_at": "2026-11-02T19:10:09.502Z",
+    "verification": {
+      "group": "B3",
+      "campaignId": "A08305252J4LVVEZ5N1BI",
+      "checked_at": "2026-11-02T19:29:01.679Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 4,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A08305252J4LVVEZ5N1BI/ad-groups/A09887831UFJO8V73LJD1/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A08305252J4LVVEZ5N1BI/ad-groups/A09887831UFJO8V73LJD1/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "adGroupId": "A09887831UFJO8V73LJD1",
+      "product_rows": [
+        "  uid=850_38 row \"进行中 添加视频 添加视频 无可用数据 4A 4012-B07T-FBM B01M3N310M  — — — —\" selectable"
+      ],
+      "product_status": [
+        {
+          "sku": "4A 4012-B07T-FBM",
+          "row": "  uid=850_38 row \"进行中 添加视频 添加视频 无可用数据 4A 4012-B07T-FBM B01M3N310M  — — — —\" selectable"
+        }
+      ],
+      "products_running": true,
+      "target_count": 4,
+      "expected_target_count": 4,
+      "targets_running": true,
+      "keyword_rows": [
+        "  uid=859_75 row \"精准 进行中 无最新数据 — Open tooltip\" selectable",
+        "  uid=859_84 row \"精准 进行中 US$1.26 (US$0.80-US$1.40) 应用 — Open tooltip\" selectable",
+        "  uid=859_93 row \"精准 进行中 US$3.25 (US$1.86-US$3.76) 应用 — Open tooltip\" selectable",
+        "  uid=859_102 row \"精准 进行中 US$1.47 (US$1.10-US$2.14) 应用 — Open tooltip\" selectable"
+      ],
+      "verified": true,
+      "status": "verified-running",
+      "dom_targets": {
+        "url": "https://advertising.amazon.com/cm/sp/campaigns/A08305252J4LVVEZ5N1BI/ad-groups/A09887831UFJO8V73LJD1/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+        "rows": [
+          {
+            "id": "93514431277663",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "sticky notes 18 pads\n便利贴18本装",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "255249945431126",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "sticky notes assorted sizes\n多尺寸便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.26 (US$0.80-US$1.40)\n应用\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "198559922287180",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "sticky notes value pack\n便利贴超值装",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$3.25 (US$1.86-US$3.76)\n应用\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "141917023075567",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "sticky notes variety pack\n便利贴多样装",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.47 (US$1.10-US$2.14)\n应用\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          }
+        ]
+      },
+      "final_checked_at": "2026-11-02T19:48:57.632Z"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "B1",
+    "code": "5082YL",
+    "asin": "B07F2BHFJH",
+    "skus": [
+      "4A 5082-Y-L-GM",
+      "4A FBM-5082-Y-L"
+    ],
+    "daily": 5,
+    "bid": 0.5,
+    "keywords": [
+      "lined sticky notes 5x8",
+      "5x8 sticky notes lined",
+      "large yellow lined sticky notes",
+      "large lined sticky notes"
+    ],
+    "name": "SP_REACTIVATE_B1_5082YL_EXACT_20261102",
+    "status": "launched",
+    "stage": "independently-verified",
+    "sent": true,
+    "started_at": "2026-11-02T19:10:09.503Z",
+    "sent_at": "2026-11-02T19:12:35.306Z",
+    "campaignId": "A07292273M47U0OO99X85",
+    "publicCampaignId": "16557079259795",
+    "finished_at": "2026-11-02T19:12:45.543Z",
+    "verification": {
+      "group": "B1",
+      "campaignId": "A07292273M47U0OO99X85",
+      "checked_at": "2026-11-02T19:29:59.956Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 5,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A07292273M47U0OO99X85/ad-groups/A006207312IHQR6XG70L8/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A07292273M47U0OO99X85/ad-groups/A006207312IHQR6XG70L8/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "adGroupId": "A006207312IHQR6XG70L8",
+      "product_rows": [
+        "  uid=880_48 row \"进行中 添加视频 添加视频 无可用数据 4A 5082-Y-L-GM B07F2BHFJH  — — — —\" selectable",
+        "  uid=880_65 row \"进行中 添加视频 添加视频 无可用数据 4A FBM-5082-Y-L B07F2BHFJH  — — — —\" selectable"
+      ],
+      "product_status": [
+        {
+          "sku": "4A 5082-Y-L-GM",
+          "row": "  uid=880_48 row \"进行中 添加视频 添加视频 无可用数据 4A 5082-Y-L-GM B07F2BHFJH  — — — —\" selectable"
+        },
+        {
+          "sku": "4A FBM-5082-Y-L",
+          "row": "  uid=880_65 row \"进行中 添加视频 添加视频 无可用数据 4A FBM-5082-Y-L B07F2BHFJH  — — — —\" selectable"
+        }
+      ],
+      "products_running": true,
+      "target_count": 4,
+      "expected_target_count": 4,
+      "targets_running": true,
+      "keyword_rows": [
+        "  uid=887_75 row \"精准 进行中 无最新数据 — Open tooltip\" selectable",
+        "  uid=887_84 row \"精准 进行中 US$2.03 (US$1.52-US$2.86) 应用 — Open tooltip\" selectable",
+        "  uid=887_93 row \"精准 进行中 US$1.02 (US$0.77-US$1.27) 应用 — Open tooltip\" selectable",
+        "  uid=887_102 row \"精准 进行中 US$1.05 (US$0.85-US$1.17) 应用 — Open tooltip\" selectable"
+      ],
+      "verified": true,
+      "status": "verified-running",
+      "dom_targets": {
+        "url": "https://advertising.amazon.com/cm/sp/campaigns/A07292273M47U0OO99X85/ad-groups/A006207312IHQR6XG70L8/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+        "rows": [
+          {
+            "id": "228831505154977",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "5x8 sticky notes lined\n5x8横线便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.50\nUS$0.50",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "185225435258686",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "large lined sticky notes\n大号横线便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$2.03 (US$1.52-US$2.86)\n应用\n—",
+              "bid": "US$0.50\nUS$0.50",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "227465520714200",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "large yellow lined sticky notes\n带有黄色的大号便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.02 (US$0.77-US$1.27)\n应用\n—",
+              "bid": "US$0.50\nUS$0.50",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "130810826344384",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "lined sticky notes 5x8\n5x8横线便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.05 (US$0.85-US$1.17)\n应用\n—",
+              "bid": "US$0.50\nUS$0.50",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          }
+        ]
+      },
+      "final_checked_at": "2026-11-02T19:49:12.800Z"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "A2",
+    "code": "PSS91",
+    "asin": "B07FK7PBHJ",
+    "skus": [
+      "4A GM-SC-PSS 9-1 NYNRx2"
+    ],
+    "daily": 2,
+    "bid": 0.45,
+    "keywords": [
+      "full adhesive sticky note roll",
+      "sticky note roll dispenser",
+      "repositionable sticky roll",
+      "2 inch sticky note roll"
+    ],
+    "name": "SP_REACTIVATE_A2_PSS91_EXACT_20261102",
+    "status": "launched",
+    "stage": "independently-verified",
+    "sent": true,
+    "started_at": "2026-11-02T19:12:45.543Z",
+    "sent_at": "2026-11-02T19:14:54.927Z",
+    "campaignId": "A0091508K9TE5TSNB0TV",
+    "publicCampaignId": "110555114190977",
+    "finished_at": "2026-11-02T19:15:04.289Z",
+    "verification": {
+      "group": "A2",
+      "campaignId": "A0091508K9TE5TSNB0TV",
+      "checked_at": "2026-11-02T19:30:51.198Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 2,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A0091508K9TE5TSNB0TV/ad-groups/A056598628MRIEMOM79Z7/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A0091508K9TE5TSNB0TV/ad-groups/A056598628MRIEMOM79Z7/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "adGroupId": "A056598628MRIEMOM79Z7",
+      "product_rows": [
+        "  uid=909_32 row \"进行中 添加视频 添加视频 无可用数据 4A GM-SC-PSS 9-1 NYNRx2 B07FK7PBHJ  — — — —\" selectable"
+      ],
+      "product_status": [
+        {
+          "sku": "4A GM-SC-PSS 9-1 NYNRx2",
+          "row": "  uid=909_32 row \"进行中 添加视频 添加视频 无可用数据 4A GM-SC-PSS 9-1 NYNRx2 B07FK7PBHJ  — — — —\" selectable"
+        }
+      ],
+      "products_running": true,
+      "target_count": 4,
+      "expected_target_count": 4,
+      "targets_running": true,
+      "keyword_rows": [
+        "  uid=918_75 row \"精准 进行中 无最新数据 — Open tooltip\" selectable",
+        "  uid=918_84 row \"精准 进行中 US$0.77 (US$0.58-US$0.96) 应用 — Open tooltip\" selectable",
+        "  uid=918_93 row \"精准 进行中 无最新数据 — Open tooltip\" selectable",
+        "  uid=918_102 row \"精准 进行中 US$0.35 (US$0.32-US$0.39) 应用 — Open tooltip\" selectable"
+      ],
+      "verified": true,
+      "status": "verified-running",
+      "dom_targets": {
+        "url": "https://advertising.amazon.com/cm/sp/campaigns/A0091508K9TE5TSNB0TV/ad-groups/A056598628MRIEMOM79Z7/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+        "rows": [
+          {
+            "id": "44285859548852",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "2 inch sticky note roll\n2 英寸便签卷",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "65392996707325",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "full adhesive sticky note roll\n全粘性便签纸卷",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$0.77 (US$0.58-US$0.96)\n应用\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "83288324585364",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "repositionable sticky roll\n可重复定位的粘性纸卷",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "95160869536559",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "sticky note roll dispenser\n便利贴卷轴分发器",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$0.35 (US$0.32-US$0.39)\n应用\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          }
+        ]
+      },
+      "final_checked_at": "2026-11-02T19:49:29.842Z"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "A4",
+    "code": "6043",
+    "asin": "B01M986R0Y",
+    "skus": [
+      "4A GMVC6043",
+      "4A 6043-FBA"
+    ],
+    "daily": 2,
+    "bid": 0.35,
+    "keywords": [
+      "binder index tabs",
+      "durable file tabs",
+      "writable binder tabs",
+      "binder page markers"
+    ],
+    "name": "SP_REACTIVATE_A4_6043_EXACT_20261102",
+    "status": "launched",
+    "stage": "independently-verified",
+    "sent": true,
+    "started_at": "2026-11-02T19:15:04.289Z",
+    "sent_at": "2026-11-02T19:17:33.515Z",
+    "campaignId": "A04801862ACJ6AZSVSLDM",
+    "publicCampaignId": "28103404354808",
+    "finished_at": "2026-11-02T19:17:43.906Z",
+    "verification": {
+      "group": "A4",
+      "campaignId": "A04801862ACJ6AZSVSLDM",
+      "checked_at": "2026-11-02T19:31:42.192Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 2,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A04801862ACJ6AZSVSLDM/ad-groups/A058290124EXNUJD6H270/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A04801862ACJ6AZSVSLDM/ad-groups/A058290124EXNUJD6H270/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "adGroupId": "A058290124EXNUJD6H270",
+      "product_rows": [
+        "  uid=940_43 row \"进行中 添加视频 添加视频 无可用数据 4A GMVC6043 B01M986R0Y  — — — —\" selectable",
+        "  uid=940_60 row \"进行中 添加视频 添加视频 无可用数据 4A 6043-FBA B01M986R0Y  — — — —\" selectable"
+      ],
+      "product_status": [
+        {
+          "sku": "4A GMVC6043",
+          "row": "  uid=940_43 row \"进行中 添加视频 添加视频 无可用数据 4A GMVC6043 B01M986R0Y  — — — —\" selectable"
+        },
+        {
+          "sku": "4A 6043-FBA",
+          "row": "  uid=940_60 row \"进行中 添加视频 添加视频 无可用数据 4A 6043-FBA B01M986R0Y  — — — —\" selectable"
+        }
+      ],
+      "products_running": true,
+      "target_count": 4,
+      "expected_target_count": 4,
+      "targets_running": true,
+      "keyword_rows": [
+        "  uid=947_74 row \"精准 进行中 US$0.91 (US$0.68-US$1.14) 应用 — Open tooltip\" selectable",
+        "  uid=947_83 row \"精准 进行中 US$0.69 (US$0.52-US$0.86) 应用 — Open tooltip\" selectable",
+        "  uid=947_92 row \"精准 进行中 US$0.75 (US$0.56-US$0.94) 应用 — Open tooltip\" selectable",
+        "  uid=947_101 row \"精准 进行中 US$0.84 (US$0.63-US$1.05) 应用 — Open tooltip\" selectable"
+      ],
+      "verified": true,
+      "status": "verified-running",
+      "dom_targets": {
+        "url": "https://advertising.amazon.com/cm/sp/campaigns/A04801862ACJ6AZSVSLDM/ad-groups/A058290124EXNUJD6H270/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+        "rows": [
+          {
+            "id": "207389797548222",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "binder index tabs\n文件夹索引标签",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$0.91 (US$0.68-US$1.14)\n应用\n—",
+              "bid": "US$0.35\nUS$0.35",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "173883207841821",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "binder page markers\n活页夹页面标记",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$0.69 (US$0.52-US$0.86)\n应用\n—",
+              "bid": "US$0.35\nUS$0.35",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "109137303207240",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "durable file tabs\n耐用文件标签",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$0.75 (US$0.56-US$0.94)\n应用\n—",
+              "bid": "US$0.35\nUS$0.35",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "162468230036724",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "writable binder tabs\n可写活页夹选项卡",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$0.84 (US$0.63-US$1.05)\n应用\n—",
+              "bid": "US$0.35\nUS$0.35",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          }
+        ]
+      },
+      "final_checked_at": "2026-11-02T19:49:45.623Z"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "A5",
+    "code": "30318Y",
+    "asin": "B01NGWHSK1",
+    "skus": [
+      "4A 020"
+    ],
+    "daily": 3,
+    "bid": 0.45,
+    "keywords": [
+      "sticky notes 3x3 yellow",
+      "yellow sticky notes bulk",
+      "sticky notes 18 pads",
+      "pastel yellow sticky notes"
+    ],
+    "name": "SP_REACTIVATE_A5_30318Y_EXACT_20261102",
+    "status": "launched",
+    "stage": "independently-verified",
+    "sent": true,
+    "started_at": "2026-11-02T19:17:43.907Z",
+    "sent_at": "2026-11-02T19:20:07.561Z",
+    "campaignId": "A0160435B6Z99NEQ33WA",
+    "publicCampaignId": "96611651848178",
+    "finished_at": "2026-11-02T19:20:21.207Z",
+    "verification": {
+      "group": "A5",
+      "campaignId": "A0160435B6Z99NEQ33WA",
+      "checked_at": "2026-11-02T19:32:33.445Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 3,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A0160435B6Z99NEQ33WA/ad-groups/A01832073J4V59OJG2GQV/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A0160435B6Z99NEQ33WA/ad-groups/A01832073J4V59OJG2GQV/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "adGroupId": "A01832073J4V59OJG2GQV",
+      "product_rows": [
+        "  uid=969_33 row \"进行中 添加视频 添加视频 无可用数据 4A 020 B01NGWHSK1  — — — —\" selectable"
+      ],
+      "product_status": [
+        {
+          "sku": "4A 020",
+          "row": "  uid=969_33 row \"进行中 添加视频 添加视频 无可用数据 4A 020 B01NGWHSK1  — — — —\" selectable"
+        }
+      ],
+      "products_running": true,
+      "target_count": 4,
+      "expected_target_count": 4,
+      "targets_running": true,
+      "keyword_rows": [
+        "  uid=980_88 row \"精准 进行中 US$1.04 (US$0.78-US$1.30) 应用 — Open tooltip\" selectable",
+        "  uid=980_98 row \"精准 进行中 无最新数据 — Open tooltip\" selectable",
+        "  uid=980_107 row \"精准 进行中 US$2.65 (US$2.18-US$3.16) 应用 — Open tooltip\" selectable",
+        "  uid=980_117 row \"精准 进行中 US$1.81 (US$1.36-US$2.26) 应用 — Open tooltip\" selectable"
+      ],
+      "verified": true,
+      "status": "verified-running",
+      "dom_targets": {
+        "url": "https://advertising.amazon.com/cm/sp/campaigns/A0160435B6Z99NEQ33WA/ad-groups/A01832073J4V59OJG2GQV/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+        "rows": [
+          {
+            "id": "198884650876782",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "pastel yellow sticky notes\n柔和的黄色便条纸",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.04 (US$0.78-US$1.30)\n应用\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "259813117812499",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "sticky notes 18 pads\n便利贴18本装",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "103651333691153",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "sticky notes 3x3 yellow\n3x3黄色便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$2.65 (US$2.18-US$3.16)\n应用\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "7950369673417",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "yellow sticky notes bulk\n黄色便利贴批发",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.81 (US$1.36-US$2.26)\n应用\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          }
+        ]
+      },
+      "final_checked_at": "2026-11-02T19:50:01.727Z"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "A7",
+    "code": "4046N",
+    "asin": "B01MXYQPE1",
+    "skus": [
+      "4A 030"
+    ],
+    "daily": 3,
+    "bid": 0.45,
+    "keywords": [
+      "sticky notes 4x4",
+      "4x4 sticky notes neon",
+      "large square sticky notes",
+      "4 inch sticky notes"
+    ],
+    "name": "SP_REACTIVATE_A7_4046N_EXACT_20261102",
+    "status": "launched",
+    "stage": "independently-verified",
+    "sent": true,
+    "started_at": "2026-11-02T19:20:21.208Z",
+    "sent_at": "2026-11-02T19:22:48.679Z",
+    "campaignId": "A04599033D14G0BM08SOJ",
+    "publicCampaignId": "241743977714692",
+    "finished_at": "2026-11-02T19:23:01.414Z",
+    "verification": {
+      "group": "A7",
+      "campaignId": "A04599033D14G0BM08SOJ",
+      "checked_at": "2026-11-02T19:33:24.162Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 3,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A04599033D14G0BM08SOJ/ad-groups/A047765920D3MQLYXCM0M/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A04599033D14G0BM08SOJ/ad-groups/A047765920D3MQLYXCM0M/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "adGroupId": "A047765920D3MQLYXCM0M",
+      "product_rows": [
+        "  uid=1000_39 row \"进行中 添加视频 添加视频 无可用数据 4A 030 B01MXYQPE1  — — — —\" selectable"
+      ],
+      "product_status": [
+        {
+          "sku": "4A 030",
+          "row": "  uid=1000_39 row \"进行中 添加视频 添加视频 无可用数据 4A 030 B01MXYQPE1  — — — —\" selectable"
+        }
+      ],
+      "products_running": true,
+      "target_count": 4,
+      "expected_target_count": 4,
+      "targets_running": true,
+      "keyword_rows": [
+        "  uid=1010_88 row \"精准 进行中 US$0.95 (US$0.71-US$1.19) 应用 — Open tooltip\" selectable",
+        "  uid=1010_98 row \"精准 进行中 无最新数据 — Open tooltip\" selectable",
+        "  uid=1010_107 row \"精准 进行中 US$1.57 (US$1.18-US$1.74) 应用 — Open tooltip\" selectable",
+        "  uid=1010_117 row \"精准 进行中 US$1.53 (US$0.94-US$1.91) 应用 — Open tooltip\" selectable"
+      ],
+      "verified": true,
+      "status": "verified-running",
+      "dom_targets": {
+        "url": "https://advertising.amazon.com/cm/sp/campaigns/A04599033D14G0BM08SOJ/ad-groups/A047765920D3MQLYXCM0M/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+        "rows": [
+          {
+            "id": "211476067023397",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "4 inch sticky notes\n4英寸便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$0.95 (US$0.71-US$1.19)\n应用\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "218117404732250",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "4x4 sticky notes neon\n4x4 便签霓虹灯",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "248590967923711",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "large square sticky notes\n大号方形便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.57 (US$1.18-US$1.74)\n应用\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "200749044026986",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "sticky notes 4x4\n4x4便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$1.53 (US$0.94-US$1.91)\n应用\n—",
+              "bid": "US$0.45\nUS$0.45",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          }
+        ]
+      },
+      "final_checked_at": "2026-11-02T19:50:17.896Z"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "A8",
+    "code": "MEETING52",
+    "asin": "B082WMV9NQ",
+    "skus": [
+      "4A-MEETING-52X4"
+    ],
+    "daily": 2,
+    "bid": 0.35,
+    "keywords": [
+      "4a self stick notes",
+      "4a sticky notes"
+    ],
+    "name": "SP_REACTIVATE_A8_MEETING52_EXACT_20261102",
+    "status": "launched",
+    "stage": "independently-verified",
+    "sent": true,
+    "started_at": "2026-11-02T19:23:01.415Z",
+    "sent_at": "2026-11-02T19:25:21.117Z",
+    "campaignId": "A022916216JY8PO8QQA02",
+    "publicCampaignId": "181382489981751",
+    "finished_at": "2026-11-02T19:25:32.921Z",
+    "verification": {
+      "group": "A8",
+      "campaignId": "A022916216JY8PO8QQA02",
+      "checked_at": "2026-11-02T19:34:15.065Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 2,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A022916216JY8PO8QQA02/ad-groups/A03267373NGKUC15251ZO/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A022916216JY8PO8QQA02/ad-groups/A03267373NGKUC15251ZO/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "adGroupId": "A03267373NGKUC15251ZO",
+      "product_rows": [
+        "  uid=1027_22 row \"Press Space to toggle row selection (unchecked) 已启用 4A Self-Stick Notes, Classic Assorted, 4A-MEETING-52X4 | B082WMV9NQ 4A Self-Stick Notes, Classic Assorted, 4A-MEETING-52X4 | B082WMV9NQ  US$64.99\" selectable"
+      ],
+      "product_status": [
+        {
+          "sku": "4A-MEETING-52X4",
+          "row": "  uid=1027_22 row \"Press Space to toggle row selection (unchecked) 已启用 4A Self-Stick Notes, Classic Assorted, 4A-MEETING-52X4 | B082WMV9NQ 4A Self-Stick Notes, Classic Assorted, 4A-MEETING-52X4 | B082WMV9NQ  US$64.99\" selectable"
+        }
+      ],
+      "products_running": true,
+      "target_count": 2,
+      "expected_target_count": 2,
+      "targets_running": true,
+      "keyword_rows": [
+        "  uid=1037_70 row \"精准 进行中 无最新数据 — Open tooltip\" selectable",
+        "  uid=1037_79 row \"精准 进行中 US$2.32 (US$1.43-US$2.74) 应用 — Open tooltip\" selectable"
+      ],
+      "verified": true,
+      "status": "verified-running",
+      "dom_targets": {
+        "url": "https://advertising.amazon.com/cm/sp/campaigns/A022916216JY8PO8QQA02/ad-groups/A03267373NGKUC15251ZO/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+        "rows": [
+          {
+            "id": "151614965593478",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "4a self stick notes\n4a 自粘笔记",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.35\nUS$0.35",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "39767125456980",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "4a sticky notes\n4A便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$2.32 (US$1.43-US$2.74)\n应用\n—",
+              "bid": "US$0.35\nUS$0.35",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          }
+        ]
+      },
+      "final_checked_at": "2026-11-02T19:50:34.378Z"
+    },
+    "independently_verified": true
+  },
+  {
+    "group": "B17",
+    "code": "5059",
+    "asin": "B00SMEEVCO",
+    "skus": [
+      "4A 5059-B00SM-FBM",
+      "4A 5059-B00SM-FBA"
+    ],
+    "daily": 1,
+    "bid": 0.25,
+    "keywords": [
+      "speech bubble sticky notes",
+      "speech bubble notes",
+      "bubble shaped sticky notes"
+    ],
+    "name": "SP_REACTIVATE_B17_5059_EXACT_20261102",
+    "status": "launched",
+    "stage": "independently-verified",
+    "sent": true,
+    "started_at": "2026-11-02T19:25:32.922Z",
+    "sent_at": "2026-11-02T19:29:23.648Z",
+    "campaignId": "A055889731EJUQJ4JSAID",
+    "publicCampaignId": "185161997019858",
+    "finished_at": "2026-11-02T19:29:33.720Z",
+    "verification": {
+      "group": "B17",
+      "campaignId": "A055889731EJUQJ4JSAID",
+      "checked_at": "2026-11-02T19:46:44.910Z",
+      "portfolio": true,
+      "campaign_running": true,
+      "daily": 1,
+      "daily_matches": true,
+      "end": "2026年11月9日",
+      "down_only": true,
+      "ads_url": "https://advertising.amazon.com/cm/sp/campaigns/A055889731EJUQJ4JSAID/ad-groups/A02475383AQ070C41TV2D/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "targeting_url": "https://advertising.amazon.com/cm/sp/campaigns/A055889731EJUQJ4JSAID/ad-groups/A02475383AQ070C41TV2D/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "adGroupId": "A02475383AQ070C41TV2D",
+      "product_rows": [
+        "  uid=1107_44 row \"进行中 添加视频 添加视频 无可用数据 4A 5059-B00SM-FBM B00SMEEVCO  — — — —\" selectable",
+        "  uid=1107_61 row \"进行中 添加视频 添加视频 无可用数据 4A 5059-B00SM-FBA B00SMEEVCO  — — — —\" selectable"
+      ],
+      "product_status": [
+        {
+          "sku": "4A 5059-B00SM-FBM",
+          "row": "  uid=1107_44 row \"进行中 添加视频 添加视频 无可用数据 4A 5059-B00SM-FBM B00SMEEVCO  — — — —\" selectable"
+        },
+        {
+          "sku": "4A 5059-B00SM-FBA",
+          "row": "  uid=1107_61 row \"进行中 添加视频 添加视频 无可用数据 4A 5059-B00SM-FBA B00SMEEVCO  — — — —\" selectable"
+        }
+      ],
+      "products_running": true,
+      "target_count": 3,
+      "expected_target_count": 3,
+      "targets_running": true,
+      "keyword_rows": [
+        "  uid=1116_69 row \"精准 进行中 无最新数据 — Open tooltip\" selectable",
+        "  uid=1116_78 row \"精准 进行中 无最新数据 — Open tooltip\" selectable",
+        "  uid=1116_87 row \"精准 进行中 US$0.48 (US$0.33-US$0.60) 应用 — Open tooltip\" selectable"
+      ],
+      "verified": true,
+      "status": "verified-running",
+      "dom_targets": {
+        "url": "https://advertising.amazon.com/cm/sp/campaigns/A055889731EJUQJ4JSAID/ad-groups/A02475383AQ070C41TV2D/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+        "rows": [
+          {
+            "id": "77127570310373",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "bubble shaped sticky notes\n气泡形便签纸",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.25\nUS$0.25",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "8244253593632",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "speech bubble notes\n语音泡泡笔记",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "无最新数据\n—",
+              "bid": "US$0.25\nUS$0.25",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          },
+          {
+            "id": "249811528077426",
+            "cells": {
+              "ag-Grid-SelectionColumn": "",
+              "state": "",
+              "target": "speech bubble sticky notes\n对话框便利贴",
+              "matchType": "精准",
+              "status": "进行中",
+              "suggestedBid": "US$0.48 (US$0.33-US$0.60)\n应用\n—",
+              "bid": "US$0.25\nUS$0.25",
+              "impressions": "—",
+              "topOfSearchImpressionShare": "—",
+              "spend": "—"
+            }
+          }
+        ]
+      },
+      "final_checked_at": "2026-11-02T19:50:50.502Z"
+    },
+    "independently_verified": true
+  }
+]

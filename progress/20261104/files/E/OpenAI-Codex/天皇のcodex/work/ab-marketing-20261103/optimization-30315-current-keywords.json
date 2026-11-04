@@ -1,0 +1,91 @@
+{
+  "url": "https://advertising.amazon.com/cm/sp/campaigns/A0625560C81W26ZWQFAG/ad-groups/A0386883323ZDFC3GMWZ4/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+  "footer": "导出\n\n全选\n\n进行中\n关键词\n投放匹配类型\n状态\n建议竞价\n竞价\n0 条规则已生效\n展示量\n搜索结果首页首位展示量份额\n总成本\n购买量\n3x3 sticky notes 1500 sheets\n3x3 便利贴 1500 张\n3x3 sticky notes bulk\n3x3便利贴批发\ncolored sticky notes 3x3\n3x3彩色便利贴\nsticky notes 15 pads\n便利贴 15 张纸巾\nsticky notes 3x3 assorted colors\n3x3 便利贴多色混装\n精准\n\n进行中\n\n无最新数据\n—\nUS$0.55\nUS$0.55\n—\n—\n—\n—\n精准\n\n进行中\n\nUS$2.80 (US$2.10-US$3.50)\n应用\n—\nUS$0.55\nUS$0.55\n—\n—\n—\n—\n精准\n\n进行中\n\nUS$2.46 (US$1.75-US$2.80)\n应用\n—\nUS$0.55\nUS$0.55\n—\n—\n—\n—\n精准\n\n进行中\n\n无最新数据\n—\nUS$0.55\nUS$0.55\n—\n—\n—\n—\n精准\n\n进行中\n\nUS$2.45 (US$1.84-US$3.06)\n应用\n—\nUS$0.55\nUS$0.55\n—\n—\n—\n—\n总计: 5\n—\n—\n—\n—\n© 2026 Amazon.com, Inc. 或其附属公司。\n使用条款\n隐私声明\n亚马逊广告协议\n請求支持\n状态",
+  "rows": [
+    {
+      "id": "63252716272764",
+      "cells": {
+        "target": "3x3 sticky notes 1500 sheets\n3x3 便利贴 1500 张",
+        "matchType": "精准",
+        "status": "进行中",
+        "suggestedBid": "无最新数据\n—",
+        "bid": "US$0.55\nUS$0.55",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—"
+      },
+      "enabled": "true"
+    },
+    {
+      "id": "189800989136857",
+      "cells": {
+        "target": "3x3 sticky notes bulk\n3x3便利贴批发",
+        "matchType": "精准",
+        "status": "进行中",
+        "suggestedBid": "US$2.80 (US$2.10-US$3.50)\n应用\n—",
+        "bid": "US$0.55\nUS$0.55",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—"
+      },
+      "enabled": "true"
+    },
+    {
+      "id": "20955361404728",
+      "cells": {
+        "target": "colored sticky notes 3x3\n3x3彩色便利贴",
+        "matchType": "精准",
+        "status": "进行中",
+        "suggestedBid": "US$2.46 (US$1.75-US$2.80)\n应用\n—",
+        "bid": "US$0.55\nUS$0.55",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—"
+      },
+      "enabled": "true"
+    },
+    {
+      "id": "30393094120593",
+      "cells": {
+        "target": "sticky notes 15 pads\n便利贴 15 张纸巾",
+        "matchType": "精准",
+        "status": "进行中",
+        "suggestedBid": "无最新数据\n—",
+        "bid": "US$0.55\nUS$0.55",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—"
+      },
+      "enabled": "true"
+    },
+    {
+      "id": "268058507043824",
+      "cells": {
+        "target": "sticky notes 3x3 assorted colors\n3x3 便利贴多色混装",
+        "matchType": "精准",
+        "status": "进行中",
+        "suggestedBid": "US$2.45 (US$1.84-US$3.06)\n应用\n—",
+        "bid": "US$0.55\nUS$0.55",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—"
+      },
+      "enabled": "true"
+    },
+    {
+      "id": "[object Object]",
+      "cells": {
+        "target": "总计: 5",
+        "impressions": "—",
+        "topOfSearchImpressionShare": "—",
+        "spend": "—",
+        "orders": "—"
+      }
+    }
+  ]
+}

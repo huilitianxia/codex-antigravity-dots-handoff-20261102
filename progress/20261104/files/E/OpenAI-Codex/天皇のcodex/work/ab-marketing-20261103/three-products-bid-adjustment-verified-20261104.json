@@ -1,0 +1,153 @@
+{
+  "at": "2026-11-03T18:23:55.152Z",
+  "budgetEvidence": "three-products-current-budget-performance-20261104.json",
+  "results": [
+    {
+      "style": "30315",
+      "campaign": "A0625560C81W26ZWQFAG",
+      "dailyBudget": 7,
+      "checks": [
+        {
+          "id": "63252716272764",
+          "term": "3x3 sticky notes 1500 sheets",
+          "to": 0.75,
+          "actual": 0.75,
+          "match": "精准",
+          "status": "进行中",
+          "pass": true
+        },
+        {
+          "id": "110115049123620",
+          "term": "3x3 sticky notes assorted colors",
+          "to": 0.9,
+          "actual": 0.9,
+          "match": "短语",
+          "status": "进行中",
+          "pass": true
+        },
+        {
+          "id": "189800989136857",
+          "term": "3x3 sticky notes bulk",
+          "to": 0.9,
+          "actual": 0.9,
+          "match": "精准",
+          "status": "进行中",
+          "pass": true
+        },
+        {
+          "id": "20955361404728",
+          "term": "colored sticky notes 3x3",
+          "to": 0.95,
+          "actual": 0.95,
+          "match": "精准",
+          "status": "进行中",
+          "pass": true
+        },
+        {
+          "id": "30393094120593",
+          "term": "sticky notes 15 pads",
+          "to": 0.75,
+          "actual": 0.75,
+          "match": "精准",
+          "status": "进行中",
+          "pass": true
+        },
+        {
+          "id": "268058507043824",
+          "term": "sticky notes 3x3 assorted colors",
+          "to": 1,
+          "actual": 1,
+          "match": "精准",
+          "status": "进行中",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "style": "BS1801",
+      "campaign": "A092452820HCLVUYOMQHY",
+      "dailyBudget": 5,
+      "checks": [
+        {
+          "id": "86664209718644",
+          "term": "desktop sticky notes organizer set",
+          "to": 0.75,
+          "actual": 0.75,
+          "match": "精准",
+          "status": "进行中",
+          "pass": true
+        },
+        {
+          "id": "109156535490858",
+          "term": "sticky note organizer black leather",
+          "to": 0.6,
+          "actual": 0.6,
+          "match": "精准",
+          "status": "进行中",
+          "pass": true
+        },
+        {
+          "id": "36825385520891",
+          "term": "sticky note organizer set",
+          "to": 0.7,
+          "actual": 0.7,
+          "match": "短语",
+          "status": "进行中",
+          "pass": true
+        },
+        {
+          "id": "29071898252801",
+          "term": "sticky notes and index flags organizer",
+          "to": 0.7,
+          "actual": 0.7,
+          "match": "精准",
+          "status": "进行中",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "style": "4012",
+      "campaign": "A08305252J4LVVEZ5N1BI",
+      "dailyBudget": 4,
+      "checks": [
+        {
+          "id": "93514431277663",
+          "term": "sticky notes 18 pads",
+          "to": 0.7,
+          "actual": 0.7,
+          "match": "精准",
+          "status": "进行中",
+          "pass": true
+        },
+        {
+          "id": "255249945431126",
+          "term": "sticky notes assorted sizes",
+          "to": 1,
+          "actual": 1,
+          "match": "精准",
+          "status": "进行中",
+          "pass": true
+        },
+        {
+          "id": "198559922287180",
+          "term": "sticky notes value pack",
+          "to": 0.85,
+          "actual": 0.85,
+          "match": "精准",
+          "status": "进行中",
+          "pass": true
+        },
+        {
+          "id": "141917023075567",
+          "term": "sticky notes variety pack",
+          "to": 0.9,
+          "actual": 0.9,
+          "match": "精准",
+          "status": "进行中",
+          "pass": true
+        }
+      ]
+    }
+  ]
+}

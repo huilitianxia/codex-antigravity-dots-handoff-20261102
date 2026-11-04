@@ -1,0 +1,734 @@
+{
+  "status": "42-of43-applied",
+  "US_period": "2026-11-03",
+  "historical_period": "2026-10-04 through2026-11-03",
+  "budget_before": 97,
+  "budget_after": 100,
+  "ui_already_applied": [
+    {
+      "group": "R008",
+      "type": "budget",
+      "before": 3,
+      "after": 1
+    },
+    {
+      "group": "R007",
+      "type": "budget",
+      "before": 3,
+      "after": 1
+    }
+  ],
+  "changes": [
+    {
+      "group": "B5",
+      "type": "budget",
+      "before": 3,
+      "after": 1,
+      "asin": "B07RQ7JMV9"
+    },
+    {
+      "group": "B6",
+      "type": "budget",
+      "before": 3,
+      "after": 1,
+      "asin": "B07RP9LR73"
+    },
+    {
+      "group": "RE302",
+      "type": "budget",
+      "before": 2,
+      "after": 1,
+      "asin": "B0F2TKL2P5"
+    },
+    {
+      "group": "B12",
+      "type": "budget",
+      "before": 2,
+      "after": 6,
+      "asin": "B08CVLH794"
+    },
+    {
+      "group": "B4",
+      "type": "budget",
+      "before": 5,
+      "after": 7,
+      "asin": "B07FKG29KB"
+    },
+    {
+      "group": "R002",
+      "type": "budget",
+      "before": 3,
+      "after": 5,
+      "asin": "B07JVSYNYV"
+    },
+    {
+      "group": "B2",
+      "type": "budget",
+      "before": 4,
+      "after": 5,
+      "asin": "B00SMEFFRE"
+    },
+    {
+      "group": "RE303",
+      "type": "budget",
+      "before": 2,
+      "after": 4,
+      "asin": "B07QXJYTZ7"
+    },
+    {
+      "group": "R006",
+      "type": "budget",
+      "before": 3,
+      "after": 4,
+      "asin": "B01LVXOCU2"
+    },
+    {
+      "group": "B4",
+      "type": "bid",
+      "keyword": "3x3 sticky notes bulk",
+      "keyword_id": "189800989136857",
+      "before": 0.55,
+      "after": 0.65
+    },
+    {
+      "group": "B4",
+      "type": "bid",
+      "keyword": "colored sticky notes 3x3",
+      "keyword_id": "20955361404728",
+      "before": 0.55,
+      "after": 0.65
+    },
+    {
+      "group": "B4",
+      "type": "bid",
+      "keyword": "sticky notes 3x3 assorted colors",
+      "keyword_id": "268058507043824",
+      "before": 0.55,
+      "after": 0.65
+    },
+    {
+      "group": "B12",
+      "type": "bid",
+      "keyword": "0.6 inch sticky note roll",
+      "keyword_id": "212851464213388",
+      "before": 0.25,
+      "after": 0.5
+    },
+    {
+      "group": "B12",
+      "type": "bid",
+      "keyword": "full adhesive sticky note roll 0.6 inch",
+      "keyword_id": "155824531484259",
+      "before": 0.25,
+      "after": 0.5
+    },
+    {
+      "group": "B12",
+      "type": "bid",
+      "keyword": "6 color sticky note rolls with dispenser",
+      "keyword_id": "38438629142541",
+      "before": 0.25,
+      "after": 0.45
+    },
+    {
+      "group": "R002",
+      "type": "bid",
+      "keyword": "desktop sticky notes organizer set",
+      "keyword_id": "86664209718644",
+      "before": 0.2,
+      "after": 0.4
+    },
+    {
+      "group": "R002",
+      "type": "bid",
+      "keyword": "sticky notes and index flags organizer",
+      "keyword_id": "29071898252801",
+      "before": 0.2,
+      "after": 0.4
+    },
+    {
+      "group": "B2",
+      "type": "bid",
+      "keyword": "full adhesive sticky notes",
+      "keyword_id": "252260799912837",
+      "before": 0.45,
+      "after": 0.55
+    },
+    {
+      "group": "B2",
+      "type": "bid",
+      "keyword": "sticky notes full back adhesive",
+      "keyword_id": "178623841080693",
+      "before": 0.45,
+      "after": 0.55
+    },
+    {
+      "group": "B2",
+      "type": "bid",
+      "keyword": "fully adhesive sticky notes",
+      "keyword_id": "59284530568881",
+      "before": 0.45,
+      "after": 0.5
+    },
+    {
+      "group": "B2",
+      "type": "bid",
+      "keyword": "full sticky notes",
+      "keyword_id": "109741906331931",
+      "before": 0.45,
+      "after": 0.4
+    },
+    {
+      "group": "RE303",
+      "type": "bid",
+      "keyword": "full sticky back post it notes",
+      "keyword_id": "71825437436907",
+      "before": 0.25,
+      "after": 0.7
+    },
+    {
+      "group": "B1",
+      "type": "bid",
+      "keyword": "lined sticky notes 5x8",
+      "keyword_id": "130810826344384",
+      "before": 0.5,
+      "after": 0.55
+    },
+    {
+      "group": "B1",
+      "type": "bid",
+      "keyword": "large yellow lined sticky notes",
+      "keyword_id": "227465520714200",
+      "before": 0.5,
+      "after": 0.6
+    },
+    {
+      "group": "R006",
+      "type": "bid",
+      "keyword": "1.5x2 sticky notes 24 pads",
+      "keyword_id": "237422155733681",
+      "before": 0.3,
+      "after": 0.35
+    },
+    {
+      "group": "R006",
+      "type": "bid",
+      "keyword": "1.5 x 2 sticky notes assorted colors",
+      "keyword_id": "28403349192656",
+      "before": 0.3,
+      "after": 0.35
+    },
+    {
+      "group": "B5",
+      "type": "pause-keyword",
+      "keyword": "mini sticky notes bulk",
+      "keyword_id": "160587331368830"
+    },
+    {
+      "group": "B5",
+      "type": "pause-keyword",
+      "keyword": "small colored sticky notes",
+      "keyword_id": "97319125486469"
+    },
+    {
+      "group": "B6",
+      "type": "pause-keyword",
+      "keyword": "mini sticky notes",
+      "keyword_id": "227358854393399"
+    },
+    {
+      "group": "B6",
+      "type": "pause-keyword",
+      "keyword": "mini sticky notes assorted colors",
+      "keyword_id": "65263276284289"
+    },
+    {
+      "group": "B6",
+      "type": "pause-keyword",
+      "keyword": "small sticky notes bulk",
+      "keyword_id": "223898250060684"
+    },
+    {
+      "group": "B6",
+      "type": "pause-keyword",
+      "keyword": "sticky notes 32 pads",
+      "keyword_id": "135322400514641"
+    },
+    {
+      "group": "RE302",
+      "type": "pause-keyword",
+      "keyword": "full stick post it notes",
+      "keyword_id": "36689448650082"
+    },
+    {
+      "group": "R008",
+      "type": "pause-keyword",
+      "keyword": "large lined sticky notes 5 x 8",
+      "keyword_id": "191879747713292"
+    },
+    {
+      "group": "B4",
+      "type": "new-keyword",
+      "keyword": "3x3 sticky notes assorted colors",
+      "match": "phrase",
+      "bid": 0.5
+    },
+    {
+      "group": "B12",
+      "type": "new-keyword",
+      "keyword": "sticky note roll dispenser",
+      "match": "phrase",
+      "bid": 0.5
+    },
+    {
+      "group": "R002",
+      "type": "new-keyword",
+      "keyword": "sticky note organizer set",
+      "match": "phrase",
+      "bid": 0.4
+    },
+    {
+      "group": "B2",
+      "type": "new-keyword",
+      "keyword": "fully adhesive sticky notes",
+      "match": "phrase",
+      "bid": 0.4
+    },
+    {
+      "group": "R006",
+      "type": "new-keyword",
+      "keyword": "mini sticky notes",
+      "match": "phrase",
+      "bid": 0.3
+    },
+    {
+      "group": "RE303",
+      "type": "new-keyword",
+      "keyword": "full stick post it notes",
+      "match": "exact",
+      "bid": 0.55
+    },
+    {
+      "group": "RE302",
+      "type": "new-keyword",
+      "keyword": "full adhesive sticky notes 2x3",
+      "match": "phrase",
+      "bid": 0.25
+    },
+    {
+      "group": "B1",
+      "type": "new-keyword",
+      "keyword": "lined sticky notes",
+      "match": "exact",
+      "bid": 0.55
+    },
+    {
+      "group": "B6",
+      "type": "new-keyword",
+      "keyword": "small sticky notes 1 3/8 x 1 7/8",
+      "match": "exact",
+      "bid": 0.3
+    }
+  ],
+  "rows": [
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Campaign",
+      "Operation": "Update",
+      "Campaign ID": "270879124926153",
+      "Daily Budget": 1
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Campaign",
+      "Operation": "Update",
+      "Campaign ID": "142775996563157",
+      "Daily Budget": 1
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Campaign",
+      "Operation": "Update",
+      "Campaign ID": "83043845792053",
+      "Daily Budget": 1
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Campaign",
+      "Operation": "Update",
+      "Campaign ID": "76233215149222",
+      "Daily Budget": 6
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Campaign",
+      "Operation": "Update",
+      "Campaign ID": "227608823498168",
+      "Daily Budget": 7
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Campaign",
+      "Operation": "Update",
+      "Campaign ID": "281322421241932",
+      "Daily Budget": 5
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Campaign",
+      "Operation": "Update",
+      "Campaign ID": "237699244124115",
+      "Daily Budget": 5
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Campaign",
+      "Operation": "Update",
+      "Campaign ID": "73428717527736",
+      "Daily Budget": 4
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Campaign",
+      "Operation": "Update",
+      "Campaign ID": "270158046348930",
+      "Daily Budget": 4
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "227608823498168",
+      "Ad Group ID": "461295659653522",
+      "Keyword ID": "189800989136857",
+      "Bid": 0.65
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "227608823498168",
+      "Ad Group ID": "461295659653522",
+      "Keyword ID": "20955361404728",
+      "Bid": 0.65
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "227608823498168",
+      "Ad Group ID": "461295659653522",
+      "Keyword ID": "268058507043824",
+      "Bid": 0.65
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "76233215149222",
+      "Ad Group ID": "202470829530235",
+      "Keyword ID": "212851464213388",
+      "Bid": 0.5
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "76233215149222",
+      "Ad Group ID": "202470829530235",
+      "Keyword ID": "155824531484259",
+      "Bid": 0.5
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "76233215149222",
+      "Ad Group ID": "202470829530235",
+      "Keyword ID": "38438629142541",
+      "Bid": 0.45
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "281322421241932",
+      "Ad Group ID": "188903907220684",
+      "Keyword ID": "86664209718644",
+      "Bid": 0.4
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "281322421241932",
+      "Ad Group ID": "188903907220684",
+      "Keyword ID": "29071898252801",
+      "Bid": 0.4
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "237699244124115",
+      "Ad Group ID": "87052628483369",
+      "Keyword ID": "252260799912837",
+      "Bid": 0.55
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "237699244124115",
+      "Ad Group ID": "87052628483369",
+      "Keyword ID": "178623841080693",
+      "Bid": 0.55
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "237699244124115",
+      "Ad Group ID": "87052628483369",
+      "Keyword ID": "59284530568881",
+      "Bid": 0.5
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "237699244124115",
+      "Ad Group ID": "87052628483369",
+      "Keyword ID": "109741906331931",
+      "Bid": 0.4
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "73428717527736",
+      "Ad Group ID": "100063655417200",
+      "Keyword ID": "71825437436907",
+      "Bid": 0.7
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "16557079259795",
+      "Ad Group ID": "94748146338559",
+      "Keyword ID": "130810826344384",
+      "Bid": 0.55
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "16557079259795",
+      "Ad Group ID": "94748146338559",
+      "Keyword ID": "227465520714200",
+      "Bid": 0.6
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "270158046348930",
+      "Ad Group ID": "180909644241765",
+      "Keyword ID": "237422155733681",
+      "Bid": 0.35
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "270158046348930",
+      "Ad Group ID": "180909644241765",
+      "Keyword ID": "28403349192656",
+      "Bid": 0.35
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "270879124926153",
+      "Ad Group ID": "12008774648118",
+      "Keyword ID": "160587331368830",
+      "State": "paused"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "270879124926153",
+      "Ad Group ID": "12008774648118",
+      "Keyword ID": "97319125486469",
+      "State": "paused"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "142775996563157",
+      "Ad Group ID": "164539734013980",
+      "Keyword ID": "227358854393399",
+      "State": "paused"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "142775996563157",
+      "Ad Group ID": "164539734013980",
+      "Keyword ID": "65263276284289",
+      "State": "paused"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "142775996563157",
+      "Ad Group ID": "164539734013980",
+      "Keyword ID": "223898250060684",
+      "State": "paused"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "142775996563157",
+      "Ad Group ID": "164539734013980",
+      "Keyword ID": "135322400514641",
+      "State": "paused"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "83043845792053",
+      "Ad Group ID": "184860993175727",
+      "Keyword ID": "36689448650082",
+      "State": "paused"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "105258674425432",
+      "Ad Group ID": "58359435582035",
+      "Keyword ID": "191879747713292",
+      "State": "paused"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Create",
+      "Campaign ID": "227608823498168",
+      "Ad Group ID": "461295659653522",
+      "State": "enabled",
+      "Bid": 0.5,
+      "Keyword Text": "3x3 sticky notes assorted colors",
+      "Match Type": "phrase"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Create",
+      "Campaign ID": "76233215149222",
+      "Ad Group ID": "202470829530235",
+      "State": "enabled",
+      "Bid": 0.5,
+      "Keyword Text": "sticky note roll dispenser",
+      "Match Type": "phrase"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Create",
+      "Campaign ID": "281322421241932",
+      "Ad Group ID": "188903907220684",
+      "State": "enabled",
+      "Bid": 0.4,
+      "Keyword Text": "sticky note organizer set",
+      "Match Type": "phrase"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Create",
+      "Campaign ID": "237699244124115",
+      "Ad Group ID": "87052628483369",
+      "State": "enabled",
+      "Bid": 0.4,
+      "Keyword Text": "fully adhesive sticky notes",
+      "Match Type": "phrase"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Create",
+      "Campaign ID": "270158046348930",
+      "Ad Group ID": "180909644241765",
+      "State": "enabled",
+      "Bid": 0.3,
+      "Keyword Text": "mini sticky notes",
+      "Match Type": "phrase"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Create",
+      "Campaign ID": "73428717527736",
+      "Ad Group ID": "100063655417200",
+      "State": "enabled",
+      "Bid": 0.55,
+      "Keyword Text": "full stick post it notes",
+      "Match Type": "exact"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Create",
+      "Campaign ID": "83043845792053",
+      "Ad Group ID": "184860993175727",
+      "State": "enabled",
+      "Bid": 0.25,
+      "Keyword Text": "full adhesive sticky notes 2x3",
+      "Match Type": "phrase"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Create",
+      "Campaign ID": "16557079259795",
+      "Ad Group ID": "94748146338559",
+      "State": "enabled",
+      "Bid": 0.55,
+      "Keyword Text": "lined sticky notes",
+      "Match Type": "exact"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Create",
+      "Campaign ID": "142775996563157",
+      "Ad Group ID": "164539734013980",
+      "State": "enabled",
+      "Bid": 0.3,
+      "Keyword Text": "small sticky notes 1 3/8 x 1 7/8",
+      "Match Type": "exact"
+    }
+  ],
+  "scope": "Existing US campaigns only. No offer, inventory, dates, bidding-strategy or placement changes.",
+  "notes": [
+    "Multi-ASIN search-term sales are not attributed to each member ASIN.",
+    "5082/5084/5088 share a retail variation family. Main5082 remains5/day.",
+    "301x24/30132/354832 share a retail family. Main24pads4/day, secondary1/day.",
+    "302/303/305Full family shared. Retain specific302 and emphasize converting303exact terms.",
+    "4012 contribution using FOB3.25, reference outbound9.99,15%referral,.50misc is only.693 before ads at11.99+4.99. No increase pending actual costs.",
+    "Budget increases are bounded acquisition experiments, not proof of positive profit."
+  ],
+  "job": "7747d740-5763-4353-9753-659bde82871c",
+  "failed_row": 44,
+  "failure": "Keyword is invalid, fraction slashes"
+}

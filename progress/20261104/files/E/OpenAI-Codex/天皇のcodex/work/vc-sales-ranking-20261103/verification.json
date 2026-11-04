@@ -1,0 +1,48 @@
+{
+  "status": "verified",
+  "rows": 315,
+  "unavailable_asin": 26,
+  "period": "2015-2024",
+  "sort": "Original total amount USD descending, equal amounts share rank",
+  "original_source": "E:\\xwechat_files\\wxid_81xkainbu5d822_de43\\msg\\file\\2026-09\\Amazon VC销量汇总(周订单+批发单+直接订单).xlsx",
+  "file": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261103-vc-sales-ranking\\VC历史销售额排名_ASIN_2015-2024.xlsx",
+  "sha256": "6210e499a30d1338ebc79bbcee53e3b13500e6a20823fb495ab5151c2f521edb",
+  "original_file_untouched": true,
+  "source_discrepancy": {
+    "detail_count": 315,
+    "overview_count": 316,
+    "missing_asin": 26,
+    "detail_units": 286393,
+    "overview_units": 287617,
+    "units_delta": -1224,
+    "detail_amount": 1131160.05,
+    "overview_amount": 1133461.17,
+    "amount_delta": -2301.12,
+    "missing_original_rank": 36,
+    "blank_source_rows": [
+      100,
+      101,
+      102
+    ]
+  },
+  "focus": [
+    {
+      "rank": 1,
+      "sku": "4A 301x12-N",
+      "asin": "B01LVTWP7Q",
+      "amount": 158415.68
+    },
+    {
+      "rank": 20,
+      "sku": "4A 354818",
+      "asin": "B07DJKDB63",
+      "amount": 16897.87
+    },
+    {
+      "rank": 113,
+      "sku": "4A 301x12-Y",
+      "asin": "B01LVWFZVZ",
+      "amount": 706.38
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "validated": true,
+  "rows": 43,
+  "headers": [
+    "Product",
+    "Entity",
+    "Operation",
+    "Campaign ID",
+    "Ad Group ID",
+    "Keyword ID",
+    "State",
+    "Daily Budget",
+    "Bid",
+    "Keyword Text",
+    "Match Type"
+  ],
+  "all_rows_exact": true,
+  "sha256": "0cb244c09a16604ea17be8d4684bc87361cd20424ae63c987ca4e6e4709316d0",
+  "budget_after": 100
+}

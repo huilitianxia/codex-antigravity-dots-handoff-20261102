@@ -1,0 +1,69 @@
+{
+  "before": [
+    {
+      "slot": "image-box-0",
+      "src": "https://m.media-amazon.com/images/I/71o6fCkpvFL.jpg",
+      "alt": "主图像链接地址"
+    },
+    {
+      "slot": "image-box-1",
+      "src": "https://m.media-amazon.com/images/I/715JNvcQ7sL.jpg",
+      "alt": "图片 2"
+    },
+    {
+      "slot": "image-box-2",
+      "src": "https://m.media-amazon.com/images/I/714dNQONaOL.jpg",
+      "alt": "图片 3"
+    },
+    {
+      "slot": "image-box-3",
+      "src": "https://m.media-amazon.com/images/I/71XrF5fKR3L.jpg",
+      "alt": "图片 4"
+    },
+    {
+      "slot": "image-box-4",
+      "src": "https://m.media-amazon.com/images/I/71gj64SHx2L.jpg",
+      "alt": "图片 5"
+    },
+    {
+      "slot": "image-box-5",
+      "src": "https://m.media-amazon.com/images/I/71zi+9zmjjL.jpg",
+      "alt": "图片 6"
+    }
+  ],
+  "newImage": {
+    "slot": "image-box-6",
+    "src": "https://d92ap0lo8fr10.cloudfront.net/DescriptionImages/A1SIQRGD8XGCE4/11de9ee4-d5f4-4087-959e-3308a2eef035",
+    "alt": "图片 7"
+  },
+  "after": [
+    {
+      "alt": "主图像链接地址",
+      "src": "https://m.media-amazon.com/images/I/71o6fCkpvFL.jpg"
+    },
+    {
+      "alt": "图片 2",
+      "src": "https://d92ap0lo8fr10.cloudfront.net/DescriptionImages/A1SIQRGD8XGCE4/11de9ee4-d5f4-4087-959e-3308a2eef035"
+    },
+    {
+      "alt": "图片 3",
+      "src": "https://m.media-amazon.com/images/I/715JNvcQ7sL.jpg"
+    },
+    {
+      "alt": "图片 4",
+      "src": "https://m.media-amazon.com/images/I/714dNQONaOL.jpg"
+    },
+    {
+      "alt": "图片 5",
+      "src": "https://m.media-amazon.com/images/I/71XrF5fKR3L.jpg"
+    },
+    {
+      "alt": "图片 6",
+      "src": "https://m.media-amazon.com/images/I/71gj64SHx2L.jpg"
+    },
+    {
+      "alt": "图片 7",
+      "src": "https://m.media-amazon.com/images/I/71zi+9zmjjL.jpg"
+    }
+  ]
+}

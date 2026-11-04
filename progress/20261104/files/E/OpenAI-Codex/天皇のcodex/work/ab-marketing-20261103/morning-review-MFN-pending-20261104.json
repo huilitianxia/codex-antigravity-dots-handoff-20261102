@@ -1,0 +1,16 @@
+{
+  "at": "2026-11-04T00:07:44.106Z",
+  "url": "https://sellercentral.amazon.com/orders-v3/mfn/pending?page=1",
+  "count": "1 个订单",
+  "orders": [
+    {
+      "date": "2026/11/3",
+      "time": "12:11 PST",
+      "market": "Amazon.com",
+      "asin": "B07PWM2X8Y",
+      "sku": "4A GM484812-N*3",
+      "qty": "1",
+      "subtotal": "US$17.99"
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "scope": "7reviewedexistingUSSKUs only;noinventory/catalog/familychanges",
+  "source": "Official-PriceAndQuantity-20261103.xlsm",
+  "rows": [
+    {
+      "sku": "4A 004",
+      "asin": "B01LVXOCU2",
+      "fulfillment": "FBA",
+      "old_regular": 15.99,
+      "old_effective": 14.39,
+      "new_price": 12.99,
+      "new_sale": 12.99,
+      "sale_start": "2026-11-03",
+      "sale_end": "2026-11-09",
+      "business": 12.73,
+      "floor": 12.08,
+      "tiers": [
+        {
+          "qty": 2,
+          "price": 12.6
+        },
+        {
+          "qty": 5,
+          "price": 12.34
+        },
+        {
+          "qty": 10,
+          "price": 12.08
+        }
+      ],
+      "shipping": 0.0,
+      "shipping_template": null,
+      "fob": 2.75,
+      "fba_fee": 5.06,
+      "outbound_reference": null,
+      "estimates": [
+        {
+          "qty": 1,
+          "price": 12.99,
+          "type": "retail",
+          "gross_per_unit_est": 3.2315,
+          "after_misc_ad_est": 1.2315
+        },
+        {
+          "qty": 1,
+          "price": 12.73,
+          "type": "business",
+          "gross_per_unit_est": 3.0105,
+          "after_misc_ad_est": 1.0105
+        },
+        {
+          "qty": 2,
+          "price": 12.6,
+          "type": "quantity",
+          "gross_per_unit_est": 2.9,
+          "after_misc_ad_est": 1.65
+        },
+        {
+          "qty": 5,
+          "price": 12.34,
+          "type": "quantity",
+          "gross_per_unit_est": 2.679,
+          "after_misc_ad_est": 1.879
+        },
+        {
+          "qty": 10,
+          "price": 12.08,
+          "type": "quantity",
+          "gross_per_unit_est": 2.458,
+          "after_misc_ad_est": 1.808
+        }
+      ]
+    },
+    {
+      "sku": "4A 608S-Lx4",
+      "asin": "B073VPHSJ9",
+      "fulfillment": "FBA",
+      "old_regular": 13.99,
+      "old_effective": 13.99,
+      "new_price": 12.99,
+      "new_sale": 12.99,
+      "sale_start": "2026-11-03",
+      "sale_end": "2026-11-09",
+      "business": 12.73,
+      "floor": 12.08,
+      "tiers": [
+        {
+          "qty": 2,
+          "price": 12.6
+        },
+        {
+          "qty": 5,
+          "price": 12.34
+        },
+        {
+          "qty": 10,
+          "price": 12.08
+        }
+      ],
+      "shipping": 0.0,
+      "shipping_template": null,
+      "fob": 3,
+      "fba_fee": 5.53,
+      "outbound_reference": null,
+      "estimates": [
+        {
+          "qty": 1,
+          "price": 12.99,
+          "type": "retail",
+          "gross_per_unit_est": 2.5115,
+          "after_misc_ad_est": 0.5115
+        },
+        {
+          "qty": 1,
+          "price": 12.73,
+          "type": "business",
+          "gross_per_unit_est": 2.2905,
+          "after_misc_ad_est": 0.2905
+        },
+        {
+          "qty": 2,
+          "price": 12.6,
+          "type": "quantity",
+          "gross_per_unit_est": 2.18,
+          "after_misc_ad_est": 0.93
+        },
+        {
+          "qty": 5,
+          "price": 12.34,
+          "type": "quantity",
+          "gross_per_unit_est": 1.959,
+          "after_misc_ad_est": 1.159
+        },
+        {
+          "qty": 10,
+          "price": 12.08,
+          "type": "quantity",
+          "gross_per_unit_est": 1.738,
+          "after_misc_ad_est": 1.088
+        }
+      ]
+    },
+    {
+      "sku": "4A 5082-Y-L-GM",
+      "asin": "B07F2BHFJH",
+      "fulfillment": "FBA",
+      "old_regular": 10.99,
+      "old_effective": 11.39,
+      "new_price": 9.99,
+      "new_sale": 9.99,
+      "sale_start": "2026-11-03",
+      "sale_end": "2026-11-09",
+      "business": 9.79,
+      "floor": 9.29,
+      "tiers": [
+        {
+          "qty": 2,
+          "price": 9.69
+        },
+        {
+          "qty": 5,
+          "price": 9.49
+        },
+        {
+          "qty": 10,
+          "price": 9.29
+        }
+      ],
+      "shipping": 0.0,
+      "shipping_template": null,
+      "fob": 1.25,
+      "fba_fee": 3.82,
+      "outbound_reference": null,
+      "estimates": [
+        {
+          "qty": 1,
+          "price": 9.99,
+          "type": "retail",
+          "gross_per_unit_est": 3.4215,
+          "after_misc_ad_est": 1.4215
+        },
+        {
+          "qty": 1,
+          "price": 9.79,
+          "type": "business",
+          "gross_per_unit_est": 3.2515,
+          "after_misc_ad_est": 1.2515
+        },
+        {
+          "qty": 2,
+          "price": 9.69,
+          "type": "quantity",
+          "gross_per_unit_est": 3.1665,
+          "after_misc_ad_est": 1.9165
+        },
+        {
+          "qty": 5,
+          "price": 9.49,
+          "type": "quantity",
+          "gross_per_unit_est": 2.9965,
+          "after_misc_ad_est": 2.1965
+        },
+        {
+          "qty": 10,
+          "price": 9.29,
+          "type": "quantity",
+          "gross_per_unit_est": 2.8265,
+          "after_misc_ad_est": 2.1765
+        }
+      ]
+    },
+    {
+      "sku": "4A FBM-5082-Y-L",
+      "asin": "B07F2BHFJH",
+      "fulfillment": "FBM",
+      "old_regular": 11.99,
+      "old_effective": 10.4,
+      "new_price": 5.99,
+      "new_sale": 5.99,
+      "sale_start": "2026-11-03",
+      "sale_end": "2026-11-09",
+      "business": 5.87,
+      "floor": 5.57,
+      "tiers": [
+        {
+          "qty": 2,
+          "price": 5.81
+        },
+        {
+          "qty": 5,
+          "price": 5.69
+        },
+        {
+          "qty": 10,
+          "price": 5.57
+        }
+      ],
+      "shipping": 4.99,
+      "shipping_template": "Migrated Template",
+      "fob": 1.25,
+      "fba_fee": 0,
+      "outbound_reference": 4.99,
+      "estimates": [
+        {
+          "qty": 1,
+          "price": 5.99,
+          "type": "retail",
+          "gross_per_unit_est": 3.093,
+          "after_misc_ad_est": 1.093
+        },
+        {
+          "qty": 1,
+          "price": 5.87,
+          "type": "business",
+          "gross_per_unit_est": 2.991,
+          "after_misc_ad_est": 0.991
+        },
+        {
+          "qty": 2,
+          "price": 5.81,
+          "type": "quantity",
+          "gross_per_unit_est": 2.94,
+          "after_misc_ad_est": 1.69
+        },
+        {
+          "qty": 5,
+          "price": 5.69,
+          "type": "quantity",
+          "gross_per_unit_est": 2.838,
+          "after_misc_ad_est": 2.038
+        },
+        {
+          "qty": 10,
+          "price": 5.57,
+          "type": "quantity",
+          "gross_per_unit_est": 2.736,
+          "after_misc_ad_est": 2.086
+        }
+      ]
+    },
+    {
+      "sku": "4A 404-AC-Holder",
+      "asin": "B07Z2555TN",
+      "fulfillment": "FBA",
+      "old_regular": 15.99,
+      "old_effective": 15.99,
+      "new_price": 14.99,
+      "new_sale": 14.99,
+      "sale_start": "2026-11-03",
+      "sale_end": "2026-11-09",
+      "business": 14.69,
+      "floor": 13.94,
+      "tiers": [
+        {
+          "qty": 2,
+          "price": 14.54
+        },
+        {
+          "qty": 5,
+          "price": 14.24
+        },
+        {
+          "qty": 10,
+          "price": 13.94
+        }
+      ],
+      "shipping": 0.0,
+      "shipping_template": null,
+      "fob": 4.5,
+      "fba_fee": 5.06,
+      "outbound_reference": null,
+      "estimates": [
+        {
+          "qty": 1,
+          "price": 14.99,
+          "type": "retail",
+          "gross_per_unit_est": 3.1815,
+          "after_misc_ad_est": 1.1815
+        },
+        {
+          "qty": 1,
+          "price": 14.69,
+          "type": "business",
+          "gross_per_unit_est": 2.9265,
+          "after_misc_ad_est": 0.9265
+        },
+        {
+          "qty": 2,
+          "price": 14.54,
+          "type": "quantity",
+          "gross_per_unit_est": 2.799,
+          "after_misc_ad_est": 1.549
+        },
+        {
+          "qty": 5,
+          "price": 14.24,
+          "type": "quantity",
+          "gross_per_unit_est": 2.544,
+          "after_misc_ad_est": 1.744
+        },
+        {
+          "qty": 10,
+          "price": 13.94,
+          "type": "quantity",
+          "gross_per_unit_est": 2.289,
+          "after_misc_ad_est": 1.639
+        }
+      ]
+    },
+    {
+      "sku": "4A 404AC-B07Z-FBM",
+      "asin": "B07Z2555TN",
+      "fulfillment": "FBM",
+      "old_regular": 15.99,
+      "old_effective": 15.99,
+      "new_price": 14.99,
+      "new_sale": 14.99,
+      "sale_start": "2026-11-03",
+      "sale_end": "2026-11-09",
+      "business": 14.69,
+      "floor": 13.94,
+      "tiers": [
+        {
+          "qty": 2,
+          "price": 14.54
+        },
+        {
+          "qty": 5,
+          "price": 14.24
+        },
+        {
+          "qty": 10,
+          "price": 13.94
+        }
+      ],
+      "shipping": 4.99,
+      "shipping_template": "Migrated Template",
+      "fob": 4.5,
+      "fba_fee": 0,
+      "outbound_reference": 9.99,
+      "estimates": [
+        {
+          "qty": 1,
+          "price": 14.99,
+          "type": "retail",
+          "gross_per_unit_est": 2.493,
+          "after_misc_ad_est": 0.493
+        },
+        {
+          "qty": 1,
+          "price": 14.69,
+          "type": "business",
+          "gross_per_unit_est": 2.238,
+          "after_misc_ad_est": 0.238
+        },
+        {
+          "qty": 2,
+          "price": 14.54,
+          "type": "quantity",
+          "gross_per_unit_est": 2.1105,
+          "after_misc_ad_est": 0.8605
+        },
+        {
+          "qty": 5,
+          "price": 14.24,
+          "type": "quantity",
+          "gross_per_unit_est": 1.8555,
+          "after_misc_ad_est": 1.0555
+        },
+        {
+          "qty": 10,
+          "price": 13.94,
+          "type": "quantity",
+          "gross_per_unit_est": 1.6005,
+          "after_misc_ad_est": 0.9505
+        }
+      ]
+    },
+    {
+      "sku": "4A GM354832",
+      "asin": "B07RP9LR73",
+      "fulfillment": "FBM",
+      "old_regular": 15.99,
+      "old_effective": 14.4,
+      "new_price": 13.99,
+      "new_sale": 13.99,
+      "sale_start": "2026-11-03",
+      "sale_end": "2026-11-09",
+      "business": 13.71,
+      "floor": 13.01,
+      "tiers": [
+        {
+          "qty": 2,
+          "price": 13.57
+        },
+        {
+          "qty": 5,
+          "price": 13.29
+        },
+        {
+          "qty": 10,
+          "price": 13.01
+        }
+      ],
+      "shipping": 9.99,
+      "shipping_template": "Big size delivery",
+      "fob": 4,
+      "fba_fee": 0,
+      "outbound_reference": 9.99,
+      "estimates": [
+        {
+          "qty": 1,
+          "price": 13.99,
+          "type": "retail",
+          "gross_per_unit_est": 6.393,
+          "after_misc_ad_est": 4.393
+        },
+        {
+          "qty": 1,
+          "price": 13.71,
+          "type": "business",
+          "gross_per_unit_est": 6.155,
+          "after_misc_ad_est": 4.155
+        },
+        {
+          "qty": 2,
+          "price": 13.57,
+          "type": "quantity",
+          "gross_per_unit_est": 6.036,
+          "after_misc_ad_est": 4.786
+        },
+        {
+          "qty": 5,
+          "price": 13.29,
+          "type": "quantity",
+          "gross_per_unit_est": 5.798,
+          "after_misc_ad_est": 4.998
+        },
+        {
+          "qty": 10,
+          "price": 13.01,
+          "type": "quantity",
+          "gross_per_unit_est": 5.56,
+          "after_misc_ad_est": 4.91
+        }
+      ]
+    }
+  ],
+  "assumptions": {
+    "referral": 0.15,
+    "other_per_unit": 0.5,
+    "ad_per_order": 1.5,
+    "outbound": "Excel shipping reference budget, not actual invoice",
+    "profit": "illustrative estimate, not guaranteed realized profit"
+  },
+  "excluded": [
+    "PSS9-1 FBA identity ambiguity",
+    "30132 and608-NL210FBMmarginlow",
+    "4012casewait",
+    "BP1515andMeeting52x4shippinganomalies",
+    "yellow18missingexactmaster",
+    "R009pausedpackrepair"
+  ]
+}

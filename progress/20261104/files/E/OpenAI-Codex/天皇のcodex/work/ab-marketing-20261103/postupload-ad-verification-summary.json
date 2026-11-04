@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-11-03T15:41:13.427609+00:00",
+  "date": "2026-11-03",
+  "connection": "direct existing Chrome",
+  "active_campaigns": 33,
+  "new_current_scope": 27,
+  "new_budget": 71.0,
+  "total_daily_budget": 97,
+  "new_impressions": 1,
+  "new_clicks": 0,
+  "4012": {
+    "campaign": "A08305252J4LVVEZ5N1BI",
+    "sku": "4A 4012-B07T-FBM",
+    "asin": "B01M3N310M",
+    "campaign_status": "进行中",
+    "adgroup_status": "进行中",
+    "product_status": "进行中",
+    "exact_keywords": 4,
+    "keyword_bid": 0.45,
+    "daily_budget": 4,
+    "front_item": 11.99,
+    "shipping": 4.99,
+    "buyable": true,
+    "action": "existing campaign verified active; no duplicate created"
+  }
+}

@@ -1,0 +1,4 @@
+Script ran on page and returned:
+```json
+{"url":"https://sellercentral.amazon.com/discounts/create","tags":["NAVIGATION-FAVORITES-BUTTON","KAT-MODAL","KAT-FLAG","KAT-BUTTON","KAT-POPOVER","KAT-PANEL-WRAPPER","KAT-WORKFLOWTRACKER","KAT-WORKFLOWTRACKER-STEP","KAT-ICON","KAT-LABEL","KAT-REGION-SELECTOR","KAT-DROPDOWN","KAT-DATE-PICKER","KAT-INPUT","KAT-ACTION-BAR"],"country":["<kat-label class=\"header-label\" variant=\"default\" text=\"国家/地区\" tooltip-text=\"将推出商品价格折扣的国家/地区。\"><span slot=\"private-light-dom\"><label><!----> <span part=\"label-text\"><!---->国家/地区<!----></span><!----></label></span></kat-label>","<kat-region-selector max-height=\"30vh\" state=\"error\" state-label=\" \" mobile-emulated-modal=\"\" size=\"large\" include=\"[&quot;BR&quot;,&quot;CA&quot;,&quot;DE&quot;,&quot;ES&quot;,&quot;FR&quot;,&quot;IT&quot;,&quot;JP&quot;,&quot;MX&quot;,&quot;UK&quot;,&quot;US&quot;]\" state-emphasis=\"选择国家/地区\"></kat-region-selector>"]}
+```

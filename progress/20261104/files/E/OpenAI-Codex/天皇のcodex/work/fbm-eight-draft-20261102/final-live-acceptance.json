@@ -1,0 +1,93 @@
+[
+  {
+    "sku": "4A 4012",
+    "asin": "B01MZ1PQQ8",
+    "expected_price": 23.99,
+    "expected_quantity": 50,
+    "actual_quantity": "50",
+    "actual_price": "23.99",
+    "active": true,
+    "mfn": true,
+    "matches": true
+  },
+  {
+    "sku": "4A GM-SC-PSS 9-1 NYNRx2",
+    "asin": "B07FK7PBHJ",
+    "expected_price": 19.99,
+    "expected_quantity": 30,
+    "actual_quantity": "30",
+    "actual_price": "19.99",
+    "active": true,
+    "mfn": true,
+    "matches": true
+  },
+  {
+    "sku": "4A 301x24",
+    "asin": "B01LVXOCU2",
+    "expected_price": 12.99,
+    "expected_quantity": 50,
+    "actual_quantity": "50",
+    "actual_price": "12.99",
+    "active": true,
+    "mfn": true,
+    "matches": true,
+    "verified_at": "2026-11-02T05:06:39.552776+08:00",
+    "evidence": "301-final-live-latest.txt",
+    "screenshot": "301-price-12.99-confirmed.png"
+  },
+  {
+    "sku": "4A GMVC6043",
+    "asin": "B01M986R0Y",
+    "expected_price": 8.99,
+    "expected_quantity": 30,
+    "actual_quantity": "30",
+    "actual_price": "8.99",
+    "active": true,
+    "mfn": true,
+    "matches": true
+  },
+  {
+    "sku": "4A 020",
+    "asin": "B01NGWHSK1",
+    "expected_price": 14.99,
+    "expected_quantity": 20,
+    "actual_quantity": "20",
+    "actual_price": "14.99",
+    "active": true,
+    "mfn": true,
+    "matches": true
+  },
+  {
+    "sku": "4A 027",
+    "asin": "B01MXYR202",
+    "expected_price": 11.99,
+    "expected_quantity": 30,
+    "actual_quantity": "30",
+    "actual_price": "11.99",
+    "active": true,
+    "mfn": true,
+    "matches": true
+  },
+  {
+    "sku": "4A 030",
+    "asin": "B01MXYQPE1",
+    "expected_price": 11.99,
+    "expected_quantity": 30,
+    "actual_quantity": "30",
+    "actual_price": "11.99",
+    "active": true,
+    "mfn": true,
+    "matches": true
+  },
+  {
+    "sku": "4A-MEETING-52X4",
+    "asin": "B082WMV9NQ",
+    "expected_price": 64.99,
+    "expected_quantity": 10,
+    "actual_quantity": "10",
+    "actual_price": "64.99",
+    "active": true,
+    "mfn": true,
+    "matches": true
+  }
+]

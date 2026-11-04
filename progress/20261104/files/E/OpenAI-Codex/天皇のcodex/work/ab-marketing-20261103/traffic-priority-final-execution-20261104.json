@@ -1,0 +1,263 @@
+{
+  "at": "2026-11-04T00:52:18.361Z",
+  "status": "executed-and-independently-verified",
+  "priority": [
+    "301N",
+    "30315",
+    "4012",
+    "BS1801"
+  ],
+  "dailyTotal": 112,
+  "activeCampaigns": 37,
+  "allDeliveryStatus": "进行中",
+  "core": [
+    {
+      "style": "301N",
+      "manual": 8,
+      "auto": 10,
+      "total": 18,
+      "autoBid": 0.45,
+      "skus": [
+        "4A301x12-N-B01LVT-FBM",
+        "4A 301x12-N"
+      ]
+    },
+    {
+      "style": "30315",
+      "manual": 7,
+      "auto": 8,
+      "total": 15,
+      "autoBid": 0.39,
+      "skus": [
+        "4A GM30315"
+      ]
+    },
+    {
+      "style": "4012",
+      "manual": 6,
+      "auto": 6,
+      "total": 12,
+      "autoBid": 0.39,
+      "skus": [
+        "4A 4012-B07T-FBM"
+      ]
+    },
+    {
+      "style": "BS1801",
+      "manual": 5,
+      "auto": 5,
+      "total": 10,
+      "autoBid": 0.36,
+      "skus": [
+        "4A BS 1801-FBA"
+      ]
+    }
+  ],
+  "autoCampaigns": [
+    {
+      "style": "301N",
+      "name": "SP_DISCOVERY_301N_AUTO_CLOSE_20261104",
+      "campaignId": "A1002295TRUEWQ3Y1Z9M",
+      "publicCampaignId": "180975607507224",
+      "bid": 0.45,
+      "group": "https://advertising.amazon.com/cm/sp/campaigns/A1002295TRUEWQ3Y1Z9M/ad-groups/A0493704232Q7DIXFT5C5/targeting?entityId=ENTITY2EFMPU8GWXHSP"
+    },
+    {
+      "style": "30315",
+      "name": "SP_DISCOVERY_30315_AUTO_CLOSE_20261104",
+      "campaignId": "A021503112Y3T4D71FBB",
+      "publicCampaignId": "214379930697755",
+      "bid": 0.39,
+      "group": "https://advertising.amazon.com/cm/sp/campaigns/A021503112Y3T4D71FBB/ad-groups/A02287971JPVDAQL0BFIJ/targeting?entityId=ENTITY2EFMPU8GWXHSP"
+    },
+    {
+      "style": "BS1801",
+      "name": "SP_DISCOVERY_BS1801_AUTO_CLOSE_20261104",
+      "campaignId": "A00035661LNO7Z0N7F87A",
+      "publicCampaignId": "195155961893965",
+      "bid": 0.36,
+      "group": "https://advertising.amazon.com/cm/sp/campaigns/A00035661LNO7Z0N7F87A/ad-groups/A05429032AQUF5QCCGQHD/targeting?entityId=ENTITY2EFMPU8GWXHSP"
+    },
+    {
+      "style": "4012",
+      "name": "SP_DISCOVERY_4012_AUTO_CLOSE_20261104",
+      "campaignId": "A037329735SIYWWUSJIJE",
+      "publicCampaignId": "233784960058017",
+      "bid": 0.39,
+      "group": "https://advertising.amazon.com/cm/sp/campaigns/A037329735SIYWWUSJIJE/ad-groups/A0997045167YN565VFZ8B/targeting?entityId=ENTITY2EFMPU8GWXHSP"
+    }
+  ],
+  "shortPhrases": [
+    {
+      "style": "BS1801",
+      "term": "sticky note holder",
+      "match": "PHRASE",
+      "bid": 0.58
+    },
+    {
+      "style": "4012",
+      "term": "sticky notes assorted sizes",
+      "match": "PHRASE",
+      "bid": 0.8
+    },
+    {
+      "style": "4012",
+      "term": "sticky notes set",
+      "match": "PHRASE",
+      "bid": 0.8
+    }
+  ],
+  "lowerCuts": [
+    {
+      "group": "A8",
+      "name": "SP_REACTIVATE_A8_MEETING52_EXACT_20261102",
+      "campaign": "A022916216JY8PO8QQA02",
+      "publicId": "181382489981751",
+      "from": 2,
+      "to": 1
+    },
+    {
+      "group": "A5",
+      "name": "SP_REACTIVATE_A5_30318Y_EXACT_20261102",
+      "campaign": "A0160435B6Z99NEQ33WA",
+      "publicId": "96611651848178",
+      "from": 3,
+      "to": 1
+    },
+    {
+      "group": "A2",
+      "name": "SP_REACTIVATE_A2_PSS91_EXACT_20261102",
+      "campaign": "A0091508K9TE5TSNB0TV",
+      "publicId": "110555114190977",
+      "from": 2,
+      "to": 1
+    },
+    {
+      "group": "A4",
+      "name": "SP_REACTIVATE_A4_6043_EXACT_20261102",
+      "campaign": "A04801862ACJ6AZSVSLDM",
+      "publicId": "28103404354808",
+      "from": 2,
+      "to": 1
+    },
+    {
+      "group": "A7",
+      "name": "SP_REACTIVATE_A7_4046N_EXACT_20261102",
+      "campaign": "A04599033D14G0BM08SOJ",
+      "publicId": "241743977714692",
+      "from": 3,
+      "to": 1
+    },
+    {
+      "group": "B2",
+      "name": "SP_REACTIVATE_B2_304FULL_EXACT_20261102",
+      "campaign": "A00505811FL5377VPOSXZ",
+      "publicId": "237699244124115",
+      "from": 5,
+      "to": 2
+    },
+    {
+      "group": "R010",
+      "name": "SP_VC_REVIEW_R010_SMC434_VC_EXACT_20261103",
+      "campaign": "A03038412RJ3XS1AVIN5T",
+      "publicId": "50542779480330",
+      "from": 2,
+      "to": 1
+    },
+    {
+      "group": "B12",
+      "name": "SP_VC_REVIEW_B12_PSS32x6_VC_EXACT_20261103",
+      "campaign": "A08999323M5EPQNASO48Q",
+      "publicId": "76233215149222",
+      "from": 2,
+      "to": 1
+    },
+    {
+      "group": "R013",
+      "name": "SP_VC_REVIEW_R013_BP1515N4_SC_EXACT_20261103",
+      "campaign": "A06648202WUCTKJ5QF2WU",
+      "publicId": "253187259325435",
+      "from": 2,
+      "to": 1
+    },
+    {
+      "group": "R014",
+      "name": "SP_VC_REVIEW_R014_608SL4_VC_EXACT_20261103",
+      "campaign": "A038326439P2B45WQA0AC",
+      "publicId": "201923420622406",
+      "from": 2,
+      "to": 1
+    },
+    {
+      "group": "R006",
+      "name": "SP_VC_REVIEW_R006_30124_VC_EXACT_20261103",
+      "campaign": "A065124016N4SI5FF9GDM",
+      "publicId": "270158046348930",
+      "from": 4,
+      "to": 2
+    },
+    {
+      "group": "B14",
+      "name": "SP_VC_REVIEW_B14_404ACHolder_VC_EXACT_20261103",
+      "campaign": "A08016981TJR1LB581UL8",
+      "publicId": "204903242817092",
+      "from": 2,
+      "to": 1
+    },
+    {
+      "group": "RE303",
+      "name": "SP_VC_REVIEW_RE303_303FULL_EXACT_20261103",
+      "campaign": "A0633133G7HGM4YEPSHE",
+      "publicId": "73428717527736",
+      "from": 4,
+      "to": 2
+    },
+    {
+      "group": "R018",
+      "name": "SP_VC_REVIEW_R018_608NL210_SC_EXACT_20261103",
+      "campaign": "A030465431U85ANCZFINA",
+      "publicId": "222268354103101",
+      "from": 2,
+      "to": 1
+    }
+  ],
+  "legacy27Preserved": true,
+  "legacyBudgetTransfer": [
+    {
+      "name": "SP_304满胶_ASIN 竞_20250724",
+      "campaign": "A00365532LJO9V0VNWWPT",
+      "publicId": "357890487078534",
+      "from": 10,
+      "to": 7
+    },
+    {
+      "name": "SP_305满胶300_KW BROAD_20250411",
+      "campaign": "A08519421LOCSOSTAXPTY",
+      "publicId": "378855663060981",
+      "from": 2,
+      "to": 5
+    }
+  ],
+  "verification": {
+    "source": "D:\\下载文件\\Campaign_Nov_4_2026 (10).csv",
+    "autoQA": "traffic-repair-all-four-auto-QA-20261104.json",
+    "phraseQA": "traffic-repair-short-phrase-verification-20261104.json",
+    "bulkJobs": [
+      {
+        "id": "fcb3fdf3-0f24-4b59-b374-3d56147c5ec8",
+        "accepted": 16,
+        "total": 16
+      },
+      {
+        "id": "3a6db1cb-71fd-491e-8263-9a75c7d1d667",
+        "accepted": 1,
+        "total": 1
+      }
+    ]
+  },
+  "research": [
+    "https://kb.helium10.com/hc/en-us/articles/360046281853-Creating-Amazon-Ads-Campaigns-within-Helium-10-Ads",
+    "https://advertising.amazon.com/library/guides/targeting-with-sponsored-products/"
+  ],
+  "materialLimit": "New4auto campaigns show0impressions/0clicks in just-created report; execution is not proof of delivered traffic or orders. No new monitoring automation created."
+}

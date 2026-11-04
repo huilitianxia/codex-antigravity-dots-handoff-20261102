@@ -1,0 +1,34 @@
+{
+  "mode": "Built-in image_gen",
+  "prompts": [
+    {
+      "key": "full-adhesive-peel-guide",
+      "refs": [
+        "E:/Desktop/voc_infographics_买家之声防退货附图/00_NanoBanana_Plus_Factory_Full_Adhesive_Guide_2000x2000.jpg"
+      ],
+      "prompt": "Use case: infographic-diagram. Produce ONE beautifully designed premium Amazon secondary instructional infographic, square2048x2048. Input reference is an older full-adhesive paper-note peel guide; use it ONLY for understanding the non-stick lifting edge and sideways peeling motion, not its advertising claims or statistics. Keep a real yellow paper sheet and narrow non-stick lifting edge; do not introduce new dispenser, coatings or product hardware. Purpose: a generic use guide suitable for different sizes of4Afulladhesive paper notes. Refined stationery editorial visual system, warm ivory background, dark ink navy typography, restrained sage fine rules and arrows, elegant spacious grid, authentic closeup hand-and-paper photography. Main headline exact 'Lift. Peel. Place.' Subtitle exact 'A simple guide to full-adhesive paper notes'. Three large sequential photo panels, numbered1,2,3: (1) fingertips begin separating a SINGLE sheet at its narrow non-stick edge, arrow and subtle label to that edge; (2) one hand steadies the pad while the other gently peels that single sheet sideways at a low angle close to the pad, arrows make sideways direction unmistakable; (3) the separated sheet lies flat on a notebook page and fingertips press the adhesive area, showing actual action not a performance test. Captions EXACT: '1  Find the non-stick edge' / '2  Peel gently sideways' / '3  Place and press the adhesive area'. Footer EXACT 'Apply to a clean, dry surface. Test delicate surfaces first.' Small footer 'Use illustration; pack sizes and colors vary.' No product packaging or pack count or size measurements (this is a shared usage guide); no90percent/10percent/100percent claims, no nevercurl/no-drop/no-residue guarantees; no WRONG/crossing/shaming text. No overstated surface compatibility. Avoid extra fingers, floating or disconnected hands, thick cardboard, visible adhesive goo, large bent rolls. The steps and text must be legible on mobile. Calm premium professional product education, not a crowded banner."
+    },
+    {
+      "key": "pss-dispenser-guide",
+      "refs": [
+        "E:/Desktop/voc_infographics_买家之声防退货附图/02_PSS_32x6_Roll_Dispenser_Clean_Cut_Guide_2000x2000.jpg"
+      ],
+      "prompt": "Use case: infographic-diagram. ONE refined Amazon SECONDARY how-to infographic square2048x2048 for4APSS32x6 roll sticky notes. Reference is original product photo and guide, including exact real transparent open-sided curved plastic dispenser, paper roll and front serrated plastic edge. Preserve this real product geometry and paper feed path; do not invent closed tape-gun housings, metal cutters, clips or extra guides. Premium stationery editorial design matching ivory, dark ink-navy type, soft sage accents, natural shadows, elegant whitespace, mobile-readable clear typography. Exact headline 'Pull. Hold. Tear.' Exact subtitle 'Using your roll-note dispenser'. Three numbered step panels with clean realistic close-up photos based faithfully on the lime/coral actual dispenser:1a paper strip is drawn forward through its actual front path,2a hand steadies the actual dispenser while holding desired length of paper,3the paper is torn across the existing front serrated edge. Use short sage directional arrows for clarity, hands anatomically correct and not hiding mechanism. Exact captions '1  Pull out the paper strip' / '2  Keep the dispenser steady' / '3  Tear across the serrated edge'. One small uncluttered row of the six actual reference dispensers with all original six colors may be shown as product context, but no extra product counts or new objects. Bottom exact 'Choose the length for your note or label'. No 'cleanly every time' or guaranteed clean cut or no-curl/residue promises. No fixed45degree instruction. No safety or official badges, no prices, reviews, no invented paper performance. Product identity and actual paper path must be accurate. Do not alter colors to fake brighter versions. Keep instructional steps and fingers large enough to see, text perfect, no cropped wording."
+    }
+  ],
+  "images": [
+    {
+      "key": "full-adhesive-peel-guide",
+      "src": "E:/OpenAI-Codex/CodexHome/generated_images/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/exec-d93da088-be16-43e9-a7de-9fddbb1620b4.png",
+      "name": "Full_Adhesive_Peel_Guide_premium_v2.png",
+      "dest": "E:/OpenAI-Codex/天皇のcodex/work/ab-marketing-20261103/listing-maintenance-20261104/images/Full_Adhesive_Peel_Guide_premium_v2.png"
+    },
+    {
+      "key": "pss-dispenser-guide",
+      "src": "E:/OpenAI-Codex/CodexHome/generated_images/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/exec-d17863da-3284-4480-9a75-7cfb6acd2c98.png",
+      "name": "PSS32x6_Dispenser_Guide_premium_v2.png",
+      "dest": "E:/OpenAI-Codex/天皇のcodex/work/ab-marketing-20261103/listing-maintenance-20261104/images/PSS32x6_Dispenser_Guide_premium_v2.png"
+    }
+  ],
+  "QA": "Visually checked both generated guides for exact captions, step sequence and product geometry. Removed unverified100pctflat/no-drop claims."
+}

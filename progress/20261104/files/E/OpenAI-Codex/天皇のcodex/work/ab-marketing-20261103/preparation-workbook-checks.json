@@ -1,0 +1,39 @@
+{
+  "file": "E:\\OpenAI-Codex\\天皇のcodex\\outputs\\01a18a7c-7953-7b83-b51d-1a7f216ae7e1\\20261103-vc-ad-preparation\\VC老品投放准备_库存利润与精准词_20261103.xlsx",
+  "summary": {
+    "historical_styles": 315,
+    "stocked_skus": 342,
+    "stocked_fba_skus": 129,
+    "stocked_fbm_skus": 213,
+    "stocked_asins": 274,
+    "old_candidate_asins": 243,
+    "old_candidate_skus": 306,
+    "actions": {
+      "调价后新增精准": 12,
+      "核运费后新增精准": 83,
+      "先核规格或成本": 65,
+      "回读后新增精准": 61,
+      "维护已有精准": 19,
+      "修复已有精准利润": 3
+    },
+    "fba_fee_matched": 128,
+    "cost_matched": 298,
+    "fba_current_contribution_calculated": 106,
+    "fba_current_negative_foB": 10,
+    "source_asof_beijing": "2026-11-03 08:38库存、08:41广告导出",
+    "keyword_drafts": 876,
+    "old_models_linked": 165
+  },
+  "nProfit": -0.5653374999999998,
+  "expectedN": -0.5653374999999998,
+  "missingCost": "待成本",
+  "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+  "previews": [
+    "queue-preview.png",
+    "fba-current-preview.png",
+    "fba-draft-preview.png",
+    "dallas-preview.png",
+    "keywords-preview.png",
+    "vc-source-preview.png"
+  ]
+}

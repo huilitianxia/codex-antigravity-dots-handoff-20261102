@@ -1,0 +1,181 @@
+{
+  "status": "prepared-not-submitted",
+  "US_period": "2026-11-03",
+  "budget_before": 97,
+  "budget_after": 100,
+  "output_filename": "4A_US_301_PRIORITY_AND_KEYWORD_FIX_20261103.xlsx",
+  "rows": [
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Campaign",
+      "Operation": "Update",
+      "Campaign ID": "76233215149222",
+      "Daily Budget": 2
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Campaign",
+      "Operation": "Update",
+      "Campaign ID": "201025833740906",
+      "Daily Budget": 8
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Campaign",
+      "Operation": "Update",
+      "Campaign ID": "42823615558052",
+      "Daily Budget": 1
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "201025833740906",
+      "Ad Group ID": "132547789467902",
+      "Keyword ID": "60617417803643",
+      "Bid": 0.3
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "201025833740906",
+      "Ad Group ID": "132547789467902",
+      "Keyword ID": "151842310074032",
+      "Bid": 0.25
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Create",
+      "Campaign ID": "201025833740906",
+      "Ad Group ID": "132547789467902",
+      "State": "enabled",
+      "Bid": 0.25,
+      "Keyword Text": "small neon sticky notes",
+      "Match Type": "phrase"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Create",
+      "Campaign ID": "201025833740906",
+      "Ad Group ID": "132547789467902",
+      "State": "enabled",
+      "Bid": 0.25,
+      "Keyword Text": "mini sticky notes 1.5 x 2",
+      "Match Type": "phrase"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "42823615558052",
+      "Ad Group ID": "201964959137078",
+      "Keyword ID": "253153291439347",
+      "State": "paused"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "42823615558052",
+      "Ad Group ID": "201964959137078",
+      "Keyword ID": "178741990618416",
+      "State": "paused"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Update",
+      "Campaign ID": "42823615558052",
+      "Ad Group ID": "201964959137078",
+      "Keyword ID": "8022480619826",
+      "State": "paused"
+    },
+    {
+      "Product": "Sponsored Products",
+      "Entity": "Keyword",
+      "Operation": "Create",
+      "Campaign ID": "142775996563157",
+      "Ad Group ID": "164539734013980",
+      "State": "enabled",
+      "Bid": 0.3,
+      "Keyword Text": "mini sticky notes 32 pads",
+      "Match Type": "exact"
+    }
+  ],
+  "changes": [
+    {
+      "group": "B12",
+      "type": "budget",
+      "after": 2
+    },
+    {
+      "group": "R001",
+      "type": "budget",
+      "after": 8
+    },
+    {
+      "group": "S1",
+      "type": "budget",
+      "after": 1
+    },
+    {
+      "group": "R001",
+      "type": "bid",
+      "keyword": "1.5 x 2 neon sticky notes",
+      "keyword_id": "60617417803643",
+      "after": 0.3
+    },
+    {
+      "group": "R001",
+      "type": "bid",
+      "keyword": "1.5x2 sticky notes 12 pads",
+      "keyword_id": "151842310074032",
+      "after": 0.25
+    },
+    {
+      "group": "R001",
+      "type": "new-keyword",
+      "keyword": "small neon sticky notes",
+      "match": "phrase",
+      "bid": 0.25
+    },
+    {
+      "group": "R001",
+      "type": "new-keyword",
+      "keyword": "mini sticky notes 1.5 x 2",
+      "match": "phrase",
+      "bid": 0.25
+    },
+    {
+      "group": "S1",
+      "type": "pause-keyword",
+      "keyword": "mini sticky notes",
+      "keyword_id": "253153291439347"
+    },
+    {
+      "group": "S1",
+      "type": "pause-keyword",
+      "keyword": "mini sticky notes bulk",
+      "keyword_id": "178741990618416"
+    },
+    {
+      "group": "S1",
+      "type": "pause-keyword",
+      "keyword": "small sticky notes assorted colors",
+      "keyword_id": "8022480619826"
+    },
+    {
+      "group": "B6",
+      "type": "new-keyword",
+      "keyword": "mini sticky notes 32 pads",
+      "match": "exact",
+      "bid": 0.3,
+      "retry_original_row": 44
+    }
+  ],
+  "supersedes": "PSS6reverts2,N3to8,S13548182to1;100totalunchanged",
+  "margin_limit": "N FBA5.99 less totalfees4.41 lessFOB1.75=-.17beforeads; retainonlyexistingFBMadbinding5.99+4.99, no priceorFBAadwrites."
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "text": "4A 2 Full Adhesive Roll Sticky Notes with Dispenser and 2 Refills\nASIN: B07FK7PBHJ\nSKU: 4A GM-SC-PSS 9-1 NYNRx2\n您的价格 : US$19.99US$19.99\n推荐报价 : US$17.99US$17.99\n您的最低价格 : US$19.99US$19.99\n%\n$\n您的最低价格您的最低价格\nUS$17.99\n无参考价无参考价\n有货: 30\n订单配送方: 卖家",
+    "inputs": [
+      {
+        "value": "10",
+        "state": null,
+        "parent": "<kat-input-group size=\"large\"><span size=\"large\">%</span><kat-input type=\"number\" min=\"1\" class=\"touched\" unique-id=\"katal-id-164\" size=\"large\" inputmode=\"\" enterkeyhint=\"\" value=\"10\"><span slot=\"private-light-dom\" style=\"max-width: 0px; max-height: 0px; overflow: hidden;\"></span></kat-input></kat-input-group>"
+      },
+      {
+        "value": "17.99",
+        "state": "error",
+        "parent": "<kat-input-group size=\"large\"><span size=\"large\">$</span><kat-input type=\"number\" step=\".01\" min=\".01\" class=\"user-input-error touched\" unique-id=\"katal-id-165\" size=\"large\" inputmode=\"\" enterkeyhint=\"\" state=\"error\" value=\"17.99\"><span slot=\"private-light-dom\" style=\"max-width: 0px; max-height: 0px; overflow: hidden;\"></span></kat-input></kat-input-group>"
+      },
+      {
+        "value": "30",
+        "state": null,
+        "parent": "<div class=\"stock-cell-container\"><kat-input type=\"number\" step=\"1\" class=\"touched\" unique-id=\"katal-id-166\" size=\"large\" inputmode=\"\" enterkeyhint=\"\" value=\"30\"><span slot=\"private-light-dom\" style=\"max-width: 0px; max-height: 0px; overflow: hidden;\"></span></kat-input><div><div class=\"stock-quantity\"><span>有货: 30</span><kat-badge type=\"tag\" label=\"在售\" variant=\"default\"></kat-badge></div><div class=\"fulfilled-by\"><span>订单配送方: 卖家</span></div></div></div>"
+      }
+    ]
+  },
+  {
+    "text": "4A 2 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Large Sticky Notes with Lines, Yellow Sticky Note Pads for Home, Office, School, 50 Sheets/Pad, 100 Sheets Total, 4A 5082-Y-L\nASIN: B07F2BHFJH\nSKU: 4A FBM-5082-Y-L\n您的价格 : US$11.99US$11.99\n推荐报价 : US$11.39US$11.39\n您的最低价格 : US$10.79US$10.79\n%\n最低折扣 13%最低折扣 13%\n$\n有货: 8898\n订单配送方: 卖家",
+    "inputs": [
+      {
+        "value": "10",
+        "state": "error",
+        "parent": "<kat-input-group size=\"large\"><span size=\"large\">%</span><kat-input type=\"number\" min=\"1\" class=\"user-input-error touched\" unique-id=\"katal-id-167\" size=\"large\" inputmode=\"\" enterkeyhint=\"\" state=\"error\" value=\"10\"><span slot=\"private-light-dom\" style=\"max-width: 0px; max-height: 0px; overflow: hidden;\"></span></kat-input></kat-input-group>"
+      },
+      {
+        "value": "10.79",
+        "state": null,
+        "parent": "<kat-input-group size=\"large\"><span size=\"large\">$</span><kat-input type=\"number\" step=\".01\" min=\".01\" class=\"touched\" unique-id=\"katal-id-168\" size=\"large\" inputmode=\"\" enterkeyhint=\"\" value=\"10.79\"><span slot=\"private-light-dom\" style=\"max-width: 0px; max-height: 0px; overflow: hidden;\"></span></kat-input></kat-input-group>"
+      },
+      {
+        "value": "300",
+        "state": null,
+        "parent": "<div class=\"stock-cell-container\"><kat-input type=\"number\" step=\"1\" class=\"touched\" unique-id=\"katal-id-169\" size=\"large\" inputmode=\"\" enterkeyhint=\"\" value=\"300\"><span slot=\"private-light-dom\" style=\"max-width: 0px; max-height: 0px; overflow: hidden;\"></span></kat-input><div><div class=\"stock-quantity\"><span>有货: 8898</span><kat-badge type=\"tag\" label=\"在售\" variant=\"default\"></kat-badge></div><div class=\"fulfilled-by\"><span>订单配送方: 卖家</span></div></div></div>"
+      }
+    ]
+  }
+]

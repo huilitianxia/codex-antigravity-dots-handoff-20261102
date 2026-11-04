@@ -1,0 +1,387 @@
+{
+  "verified": true,
+  "source": "D:\\下载文件\\Campaign_Nov_4_2026 (10).csv",
+  "row_count": 118,
+  "active_campaigns": 37,
+  "daily_budget": 112,
+  "states": {
+    "进行中": 37
+  },
+  "checks": [
+    {
+      "campaign": "A02315433R9E712848FR",
+      "name": "SP_305满胶100_KW BROAD 1_20250811",
+      "group": "old6",
+      "budget": 10,
+      "actual": 10.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A04076523IUWWY0RME2P8",
+      "name": "SP_304满胶_AUTO CLOSE_20250610",
+      "group": "old6",
+      "budget": 3,
+      "actual": 3.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A08519421LOCSOSTAXPTY",
+      "name": "SP_305满胶300_KW BROAD_20250411",
+      "group": "old6",
+      "budget": 5,
+      "actual": 5.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A078623837CDG4L4M82I2",
+      "name": "SP_305满胶300_AUTO 紧_20250411",
+      "group": "old6",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A0788750Z1KCDFCUE4CY",
+      "name": "SP_303满胶400_ASIN定向_20250313",
+      "group": "old6",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A07292273M47U0OO99X85",
+      "name": "SP_REACTIVATE_B1_5082YL_EXACT_20261102",
+      "group": "B1",
+      "budget": 5,
+      "actual": 5.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A00505811FL5377VPOSXZ",
+      "name": "SP_REACTIVATE_B2_304FULL_EXACT_20261102",
+      "group": "B2",
+      "budget": 2,
+      "actual": 2.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A022916216JY8PO8QQA02",
+      "name": "SP_REACTIVATE_A8_MEETING52_EXACT_20261102",
+      "group": "A8",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A0160435B6Z99NEQ33WA",
+      "name": "SP_REACTIVATE_A5_30318Y_EXACT_20261102",
+      "group": "A5",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A076106617HP171QF1Y50",
+      "name": "SP_REACTIVATE_B5_30132_EXACT_20261102",
+      "group": "B5",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A0091508K9TE5TSNB0TV",
+      "name": "SP_REACTIVATE_A2_PSS91_EXACT_20261102",
+      "group": "A2",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A01532032232LQS5VVH5H",
+      "name": "SP_REACTIVATE_B6_354832_EXACT_20261102",
+      "group": "B6",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A04801862ACJ6AZSVSLDM",
+      "name": "SP_REACTIVATE_A4_6043_EXACT_20261102",
+      "group": "A4",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A08305252J4LVVEZ5N1BI",
+      "name": "SP_REACTIVATE_B3_4012_EXACT_20261102",
+      "group": "B3",
+      "budget": 6,
+      "actual": 6.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A055889731EJUQJ4JSAID",
+      "name": "SP_REACTIVATE_B17_5059_EXACT_20261102",
+      "group": "B17",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A04599033D14G0BM08SOJ",
+      "name": "SP_REACTIVATE_A7_4046N_EXACT_20261102",
+      "group": "A7",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A0625560C81W26ZWQFAG",
+      "name": "SP_REACTIVATE_B4_30315_EXACT_20261102",
+      "group": "B4",
+      "budget": 7,
+      "actual": 7.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A02033959R3UYQEOUERA",
+      "name": "SP_VC_REVIEW_R008_5084NL_SC_EXACT_20261103",
+      "group": "R008",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A03038412RJ3XS1AVIN5T",
+      "name": "SP_VC_REVIEW_R010_SMC434_VC_EXACT_20261103",
+      "group": "R010",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A08178061JQPNPP6UO1R8",
+      "name": "SP_REACTIVATE_S1_354818_EXACT_20261103",
+      "group": "S1",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A08999323M5EPQNASO48Q",
+      "name": "SP_VC_REVIEW_B12_PSS32x6_VC_EXACT_20261103",
+      "group": "B12",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A06648202WUCTKJ5QF2WU",
+      "name": "SP_VC_REVIEW_R013_BP1515N4_SC_EXACT_20261103",
+      "group": "R013",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A038326439P2B45WQA0AC",
+      "name": "SP_VC_REVIEW_R014_608SL4_VC_EXACT_20261103",
+      "group": "R014",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A092452820HCLVUYOMQHY",
+      "name": "SP_VC_REVIEW_R002_BS1801_VC_EXACT_20261103",
+      "group": "R002",
+      "budget": 5,
+      "actual": 5.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A04178601Q8I7DWZSLKR0",
+      "name": "SP_VC_REVIEW_RE302_302FULL_EXACT_20261103",
+      "group": "RE302",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A065124016N4SI5FF9GDM",
+      "name": "SP_VC_REVIEW_R006_30124_VC_EXACT_20261103",
+      "group": "R006",
+      "budget": 2,
+      "actual": 2.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A08016981TJR1LB581UL8",
+      "name": "SP_VC_REVIEW_B14_404ACHolder_VC_EXACT_20261103",
+      "group": "B14",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A1023898G0XCFWI240KT",
+      "name": "SP_VC_REVIEW_R007_5088NL_SC_EXACT_20261103",
+      "group": "R007",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A0633133G7HGM4YEPSHE",
+      "name": "SP_VC_REVIEW_RE303_303FULL_EXACT_20261103",
+      "group": "RE303",
+      "budget": 2,
+      "actual": 2.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A030465431U85ANCZFINA",
+      "name": "SP_VC_REVIEW_R018_608NL210_SC_EXACT_20261103",
+      "group": "R018",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A0219519PE5RDQRTARA9",
+      "name": "SP_VC_REVIEW_R001_30112N_VC_EXACT_20261103",
+      "group": "R001",
+      "budget": 8,
+      "actual": 8.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A07249551GMHP8OWFISJY",
+      "name": "SP_VC_REVIEW_B7_2028N_VC_EXACT_20261103",
+      "group": "B7",
+      "budget": 1,
+      "actual": 1.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A00365532LJO9V0VNWWPT",
+      "name": "SP_304满胶_ASIN 竞_20250724",
+      "group": "old6",
+      "budget": 7,
+      "actual": 7.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A1002295TRUEWQ3Y1Z9M",
+      "name": "SP_DISCOVERY_301N_AUTO_CLOSE_20261104",
+      "group": "AUTO_301N",
+      "budget": 10,
+      "actual": 10.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A021503112Y3T4D71FBB",
+      "name": "SP_DISCOVERY_30315_AUTO_CLOSE_20261104",
+      "group": "AUTO_30315",
+      "budget": 8,
+      "actual": 8.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A00035661LNO7Z0N7F87A",
+      "name": "SP_DISCOVERY_BS1801_AUTO_CLOSE_20261104",
+      "group": "AUTO_BS1801",
+      "budget": 5,
+      "actual": 5.0,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "campaign": "A037329735SIYWWUSJIJE",
+      "name": "SP_DISCOVERY_4012_AUTO_CLOSE_20261104",
+      "group": "AUTO_4012",
+      "budget": 6,
+      "actual": 6.0,
+      "status": "进行中",
+      "pass": true
+    }
+  ],
+  "new_auto_campaigns": [
+    {
+      "id": "A1002295TRUEWQ3Y1Z9M",
+      "name": "SP_DISCOVERY_301N_AUTO_CLOSE_20261104",
+      "budget": 10.0,
+      "status": "进行中",
+      "bid_strategy": "动态竞价（只降低）",
+      "impressions": 0,
+      "clicks": 0,
+      "spend": 0.0
+    },
+    {
+      "id": "A00035661LNO7Z0N7F87A",
+      "name": "SP_DISCOVERY_BS1801_AUTO_CLOSE_20261104",
+      "budget": 5.0,
+      "status": "进行中",
+      "bid_strategy": "动态竞价（只降低）",
+      "impressions": 0,
+      "clicks": 0,
+      "spend": 0.0
+    },
+    {
+      "id": "A037329735SIYWWUSJIJE",
+      "name": "SP_DISCOVERY_4012_AUTO_CLOSE_20261104",
+      "budget": 6.0,
+      "status": "进行中",
+      "bid_strategy": "动态竞价（只降低）",
+      "impressions": 0,
+      "clicks": 0,
+      "spend": 0.0
+    },
+    {
+      "id": "A021503112Y3T4D71FBB",
+      "name": "SP_DISCOVERY_30315_AUTO_CLOSE_20261104",
+      "budget": 8.0,
+      "status": "进行中",
+      "bid_strategy": "动态竞价（只降低）",
+      "impressions": 0,
+      "clicks": 0,
+      "spend": 0.0
+    }
+  ]
+}

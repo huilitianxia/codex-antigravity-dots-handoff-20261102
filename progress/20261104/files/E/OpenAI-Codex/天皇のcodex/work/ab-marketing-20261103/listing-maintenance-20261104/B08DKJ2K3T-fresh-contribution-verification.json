@@ -1,0 +1,41 @@
+{
+  "title": true,
+  "description": true,
+  "bullets": [
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "images": [
+    {
+      "alt": "主图像链接地址",
+      "src": "https://m.media-amazon.com/images/I/71Q6lAkhpML.jpg"
+    },
+    {
+      "alt": "图片 2",
+      "src": "https://m.media-amazon.com/images/I/71dBRXFFh1L.jpg"
+    },
+    {
+      "alt": "图片 3",
+      "src": "https://m.media-amazon.com/images/I/71nIiAgqBZL.jpg"
+    },
+    {
+      "alt": "图片 4",
+      "src": "https://m.media-amazon.com/images/I/71McIK5UxaL.jpg"
+    },
+    {
+      "alt": "图片 5",
+      "src": "https://m.media-amazon.com/images/I/71Uu3EHSJRL.jpg"
+    },
+    {
+      "alt": "图片 6",
+      "src": "https://m.media-amazon.com/images/I/71lFX0SbJGL.jpg"
+    },
+    {
+      "alt": "图片 7",
+      "src": "https://m.media-amazon.com/images/I/71zi+9zmjjL.jpg"
+    }
+  ]
+}

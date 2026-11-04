@@ -1,0 +1,257 @@
+## Latest page snapshot
+uid=2291_0 RootWebArea "Amazon" url="https://sellercentral.amazon.com/imaging/manage"
+  uid=2291_1 navigation
+    uid=2291_2 button "菜单" expandable
+    uid=2291_3 link "Amazon" url="https://sellercentral.amazon.com/amazonsell"
+    uid=2291_4 button "4A (USA) LIMITED 美国" expandable
+    uid=2291_5 button "账户状况"
+    uid=2291_6 textbox "搜索任何内容" haspopup="menu"
+    uid=2291_7 button "询问卖家助手" description="卖家助手"
+    uid=2291_8 link "新增内容" description="新鲜出巢" url="https://sellercentral.amazon.com/featurereleases"
+    uid=2291_9 link "消息" description="您可以在任意页面顶部的搜索和设置旁边找到买家消息，因此无需离开当前工作页面，即可轻松回复买家。" url="https://sellercentral.amazon.com/messaging/inbox-v3?fi=responseNeeded&&"
+    uid=2291_10 button "帮助" description="帮助" haspopup="menu"
+    uid=2291_11 button "设置" description="设置" haspopup="menu"
+  uid=2291_12 navigation
+    uid=2291_13 button disableable disabled
+    uid=2291_14 link "管理交易" url="https://sellercentral.amazon.com/manage/finance/transactions"
+      uid=2291_15 StaticText "管理交易"
+    uid=2291_16 link "卖家大学" url="https://sellercentral.amazon.com/su/learn"
+      uid=2291_17 StaticText "卖家大学"
+    uid=2291_18 link "管理商品" url="https://sellercentral.amazon.com/amazonsell/manage-products"
+      uid=2291_19 StaticText "管理商品"
+    uid=2291_20 link "广告控制台" url="https://sellercentral.amazon.com/cm?source=ngs"
+      uid=2291_21 StaticText "广告控制台"
+    uid=2291_22 link "管理货件" url="https://sellercentral.amazon.com/manage/shipments"
+      uid=2291_23 StaticText "管理货件"
+    uid=2291_24 link "商品商机探测器" url="https://sellercentral.amazon.com/new-product-guidance"
+      uid=2291_25 StaticText "商品商机探测器"
+    uid=2291_26 link "品牌分析" url="https://sellercentral.amazon.com/brand-analytics"
+      uid=2291_27 StaticText "品牌分析"
+    uid=2291_28 link "A+ 商品描述管理器" url="https://sellercentral.amazon.com/enhanced-content/ref=xx_ebc_favb_xx"
+      uid=2291_29 StaticText "A+ 商品描述管理器"
+    uid=2291_30 link "业务报告" url="https://sellercentral.amazon.com/business-reports#/dashboard"
+      uid=2291_31 StaticText "业务报告"
+    uid=2291_32 link "亚马逊物流库存报告" url="https://sellercentral.amazon.com/reportcentral/WelcomePage"
+      uid=2291_33 StaticText "亚马逊物流库存报告"
+    uid=2291_34 link "商品报告" url="https://sellercentral.amazon.com/listing/reports"
+      uid=2291_35 StaticText "商品报告"
+    uid=2291_36 link "绩效通知" url="https://sellercentral.amazon.com/performance/notifications"
+      uid=2291_37 StaticText "绩效通知"
+    uid=2291_38 link "管理账户状况" url="https://sellercentral.amazon.com/performance/dashboard"
+      uid=2291_39 StaticText "管理账户状况"
+    uid=2291_40 button
+  uid=2291_41 link "管理商品" url="https://sellercentral.amazon.com/amazonsell/manage-products"
+    uid=2291_42 StaticText "管理商品"
+  uid=2291_43 link "管理 A+ 商品描述" url="https://sellercentral.amazon.com/enhanced-content/content-manager"
+    uid=2291_44 StaticText "管理 A+ 商品描述"
+  uid=2291_45 link "管理图片" url="https://sellercentral.amazon.com/imaging/manage"
+    uid=2291_46 StaticText "管理图片"
+  uid=2291_47 link "管理视频" url="https://sellercentral.amazon.com/creatorhub/video/library"
+    uid=2291_48 StaticText "管理视频"
+  uid=2291_49 link "管理试验" url="https://sellercentral.amazon.com/experiments/dashboard"
+    uid=2291_50 StaticText "管理试验"
+  uid=2291_51 link "查看销售申请" url="https://sellercentral.amazon.com/hz/myqdashboard"
+    uid=2291_52 StaticText "查看销售申请"
+  uid=2291_53 button "✕"
+  uid=2291_54 navigation "面包屑"
+    uid=2291_55 link "商品" url="https://sellercentral.amazon.com/amazonsell/listings"
+      uid=2291_56 StaticText "商品"
+    uid=2291_57 link "管理商品" url="https://sellercentral.amazon.com/amazonsell/manage-products"
+      uid=2291_58 StaticText "管理商品"
+    uid=2291_59 StaticText "管理图片"
+  uid=2291_60 navigation
+    uid=2291_61 link "上传图片" url="https://sellercentral.amazon.com/media/upload"
+      uid=2291_62 StaticText "上传图片"
+    uid=2291_63 link "分配图片 0" url="https://sellercentral.amazon.com/media/assign"
+      uid=2291_64 StaticText "分配图片"
+      uid=2291_65 StaticText "0"
+    uid=2291_66 link "图片管理器" url="https://sellercentral.amazon.com/imaging/manage"
+      uid=2291_67 StaticText "图片管理器"
+    uid=2291_68 link "提交状态" url="https://sellercentral.amazon.com/imaging/upload/status"
+      uid=2291_69 StaticText "提交状态"
+    uid=2291_70 link "图片培训中心" url="https://sellercentral.amazon.com/imaging/help"
+      uid=2291_71 StaticText "图片培训中心"
+    uid=2291_72 link "3D 资产查看器" url="https://sellercentral.amazon.com/imaging/3dviewer"
+      uid=2291_73 StaticText "3D 资产查看器"
+  uid=2291_74 main
+    uid=2291_75 heading "图片管理器" level="1"
+    uid=2291_76 StaticText " "
+    uid=2291_77 button "用户指南"
+    uid=2291_78 link "批量上传图片" focusable focused url="https://sellercentral.amazon.com/media/upload"
+      uid=2291_79 StaticText "批量上传图片"
+    uid=2291_80 heading "图片处理" level="5"
+    uid=2291_81 StaticText "您所分配图片的顺序可能与商品详情页面上显示的顺序不一致。 为了打造最佳的购物体验，我们从多个销售伙伴那里选择并安排商品图片。 为了最大限度地提高图片显示的几率，请确保它们符合我们的"
+    uid=2291_82 link "商品图片要求" url="https://sellercentral.amazon.com/imaging/manage#"
+      uid=2291_83 StaticText "商品图片要求"
+    uid=2291_84 StaticText "。"
+    uid=2291_85 StaticText "如果我们选择显示您的图片，上传后最多可能需要 24 小时才会显示在商品详情页面上。"
+    uid=2291_86 searchbox "按 ASIN 或 SKU 搜索"
+    uid=2292_0 StaticText "B08DKJ2K3T"
+    uid=2292_1 button "Remove B08DKJ2K3T"
+    uid=2292_2 button "全部清除"
+    uid=2293_0 StaticText "2"
+    uid=2293_1 StaticText " 件商品"
+    uid=2293_2 button "4A Roll Sticky Notes with Dispenser,Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6 ASIN B08DKJ2K3T SKU 4A GM-SCPSS 32x6"
+    uid=2293_3 button "4A Roll Sticky Notes with Dispenser,Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6 ASIN B08DKJ2K3T SKU 4A SCPSS 32x6"
+    uid=2293_4 heading "4A Roll Sticky Notes with Dispenser,Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6" level="3"
+    uid=2293_5 StaticText "注册品牌所有者"
+    uid=2293_6 tab "图片" selectable selected
+    uid=2293_7 tab "视频" selectable
+    uid=2293_8 tab "3D 模型" selectable
+    uid=2293_9 tabpanel "图片"
+      uid=2293_10 heading "您提交的图片" level="5"
+      uid=2293_11 button "刷新"
+      uid=2293_12 button "全部展开"
+      uid=2293_13 button "按商城筛选" expandable haspopup="listbox"
+      uid=2293_14 generic
+      uid=2293_15 generic
+      uid=2293_16 generic
+      uid=2293_17 button "全球" expandable expanded
+      uid=2293_18 button "将媒体素材集复制到同系列商品"
+      uid=2293_19 button "查看实时图片"
+      uid=2293_20 button "查看商品详情页面"
+      uid=2293_21 image "MAIN" url="https://m.media-amazon.com/images/I/41rkf5hmshL.jpg"
+      uid=2293_22 StaticText "MAIN"
+      uid=2293_23 button
+      uid=2293_24 button "已显示" haspopup="dialog"
+      uid=2293_25 button "上传"
+      uid=2293_26 button "FRNT" expandable haspopup="dialog"
+      uid=2293_27 generic
+      uid=2293_28 generic
+      uid=2293_29 generic
+      uid=2293_30 button "上传"
+      uid=2293_31 button "SIDE" expandable haspopup="dialog"
+      uid=2293_32 generic
+      uid=2293_33 generic
+      uid=2293_34 generic
+      uid=2293_35 button "上传"
+      uid=2293_36 button "BACK" expandable haspopup="dialog"
+      uid=2293_37 generic
+      uid=2293_38 generic
+      uid=2293_39 generic
+      uid=2293_40 image "PT01" url="https://m.media-amazon.com/images/I/51rwI6UBMtL.jpg"
+      uid=2293_41 StaticText "PT01"
+      uid=2293_42 button
+      uid=2293_43 button "已显示" haspopup="dialog"
+      uid=2293_44 image "PT02" url="https://m.media-amazon.com/images/I/41E99XutJfL.jpg"
+      uid=2293_45 StaticText "PT02"
+      uid=2293_46 button
+      uid=2293_47 button "已显示" haspopup="dialog"
+      uid=2293_48 image "PT03" url="https://m.media-amazon.com/images/I/41AHBAqk4dL.jpg"
+      uid=2293_49 StaticText "PT03"
+      uid=2293_50 button
+      uid=2293_51 button "已显示" haspopup="dialog"
+      uid=2293_52 image "PT04" url="https://m.media-amazon.com/images/I/41gl7koMKEL.jpg"
+      uid=2293_53 StaticText "PT04"
+      uid=2293_54 button
+      uid=2293_55 button "已显示" haspopup="dialog"
+      uid=2293_56 image "PT05" url="https://m.media-amazon.com/images/I/41Ri9inrOtL.jpg"
+      uid=2293_57 StaticText "PT05"
+      uid=2293_58 button
+      uid=2293_59 button "已显示" haspopup="dialog"
+      uid=2293_60 image "PT06" url="https://m.media-amazon.com/images/I/41mTWteHFsL.jpg"
+      uid=2293_61 StaticText "PT06"
+      uid=2293_62 button
+      uid=2293_63 button "已显示" haspopup="dialog"
+      uid=2293_64 button "上传"
+      uid=2293_65 button "PT07" expandable haspopup="dialog"
+      uid=2293_66 generic
+      uid=2293_67 generic
+      uid=2293_68 generic
+      uid=2293_69 button "英国" expandable
+      uid=2293_70 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_71 button "查看实时图片"
+      uid=2293_72 button "查看商品详情页面"
+      uid=2293_73 button "德国" expandable
+      uid=2293_74 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_75 button "查看实时图片"
+      uid=2293_76 button "查看商品详情页面"
+      uid=2293_77 button "法国" expandable
+      uid=2293_78 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_79 button "查看实时图片"
+      uid=2293_80 button "查看商品详情页面"
+      uid=2293_81 button "日本" expandable
+      uid=2293_82 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_83 button "查看实时图片"
+      uid=2293_84 button "查看商品详情页面"
+      uid=2293_85 button "加拿大" expandable
+      uid=2293_86 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_87 button "查看实时图片"
+      uid=2293_88 button "查看商品详情页面"
+      uid=2293_89 button "意大利" expandable
+      uid=2293_90 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_91 button "查看实时图片"
+      uid=2293_92 button "查看商品详情页面"
+      uid=2293_93 button "西班牙" expandable
+      uid=2293_94 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_95 button "查看实时图片"
+      uid=2293_96 button "查看商品详情页面"
+      uid=2293_97 button "印度" expandable
+      uid=2293_98 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_99 button "查看实时图片"
+      uid=2293_100 button "查看商品详情页面"
+      uid=2293_101 button "巴西" expandable
+      uid=2293_102 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_103 button "查看实时图片"
+      uid=2293_104 button "查看商品详情页面"
+      uid=2293_105 button "墨西哥" expandable
+      uid=2293_106 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_107 button "查看实时图片"
+      uid=2293_108 button "查看商品详情页面"
+      uid=2293_109 button "澳大利亚" expandable
+      uid=2293_110 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_111 button "查看实时图片"
+      uid=2293_112 button "查看商品详情页面"
+      uid=2293_113 button "荷兰" expandable
+      uid=2293_114 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_115 button "查看实时图片"
+      uid=2293_116 button "查看商品详情页面"
+      uid=2293_117 button "阿联酋" expandable
+      uid=2293_118 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_119 button "查看实时图片"
+      uid=2293_120 button "查看商品详情页面"
+      uid=2293_121 button "沙特阿拉伯" expandable
+      uid=2293_122 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_123 button "查看实时图片"
+      uid=2293_124 button "查看商品详情页面"
+      uid=2293_125 button "土耳其" expandable
+      uid=2293_126 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_127 button "查看实时图片"
+      uid=2293_128 button "查看商品详情页面"
+      uid=2293_129 button "埃及" expandable
+      uid=2293_130 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_131 button "查看实时图片"
+      uid=2293_132 button "查看商品详情页面"
+      uid=2293_133 button "瑞典" expandable
+      uid=2293_134 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_135 button "查看实时图片"
+      uid=2293_136 button "查看商品详情页面"
+      uid=2293_137 button "波兰" expandable
+      uid=2293_138 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_139 button "查看实时图片"
+      uid=2293_140 button "查看商品详情页面"
+      uid=2293_141 button "比利时" expandable
+      uid=2293_142 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_143 button "查看实时图片"
+      uid=2293_144 button "查看商品详情页面"
+      uid=2293_145 button "南非" expandable
+      uid=2293_146 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_147 button "查看实时图片"
+      uid=2293_148 button "查看商品详情页面"
+      uid=2293_149 button "爱尔兰" expandable
+      uid=2293_150 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_151 button "查看实时图片"
+      uid=2293_152 button "查看商品详情页面"
+      uid=2293_153 button "新加坡" expandable
+      uid=2293_154 button "将媒体素材集复制到同系列商品" disableable disabled
+      uid=2293_155 button "查看实时图片"
+      uid=2293_156 button "查看商品详情页面"
+    uid=2291_261 complementary
+      uid=2291_262 button expandable haspopup="menu"
+  uid=2291_263 link "站点地图" url="https://sellercentral.amazon.com/sitemap"
+    uid=2291_264 StaticText "站点地图"
+  uid=2291_265 link " 计划政策" url="https://sellercentral.amazon.com/help/hub/reference/521"
+    uid=2291_266 StaticText " 计划政策"
+  uid=2291_267 StaticText "© 1999-2026，Amazon.com, Inc. 或其附属公司"
+  uid=2291_268 link "反馈" url="https://sellercentral.amazon.com/imaging/manage#"
+    uid=2291_269 StaticText "反馈"

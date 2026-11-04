@@ -1,0 +1,490 @@
+{
+  "at": "2026-11-03T18:22:01.505Z",
+  "plans": [
+    {
+      "style": "30315",
+      "pid": 237,
+      "campaign": "A0625560C81W26ZWQFAG",
+      "budget": 7,
+      "rows": [
+        {
+          "id": "63252716272764",
+          "term": "3x3 sticky notes 1500 sheets",
+          "to": 0.75
+        },
+        {
+          "id": "110115049123620",
+          "term": "3x3 sticky notes assorted colors",
+          "to": 0.9
+        },
+        {
+          "id": "189800989136857",
+          "term": "3x3 sticky notes bulk",
+          "to": 0.9
+        },
+        {
+          "id": "20955361404728",
+          "term": "colored sticky notes 3x3",
+          "to": 0.95
+        },
+        {
+          "id": "30393094120593",
+          "term": "sticky notes 15 pads",
+          "to": 0.75
+        },
+        {
+          "id": "268058507043824",
+          "term": "sticky notes 3x3 assorted colors",
+          "to": 1
+        }
+      ]
+    },
+    {
+      "style": "BS1801",
+      "pid": 241,
+      "campaign": "A092452820HCLVUYOMQHY",
+      "budget": 5,
+      "rows": [
+        {
+          "id": "86664209718644",
+          "term": "desktop sticky notes organizer set",
+          "to": 0.75
+        },
+        {
+          "id": "109156535490858",
+          "term": "sticky note organizer black leather",
+          "to": 0.6
+        },
+        {
+          "id": "36825385520891",
+          "term": "sticky note organizer set",
+          "to": 0.7
+        },
+        {
+          "id": "29071898252801",
+          "term": "sticky notes and index flags organizer",
+          "to": 0.7
+        }
+      ]
+    },
+    {
+      "style": "4012",
+      "pid": 236,
+      "campaign": "A08305252J4LVVEZ5N1BI",
+      "budget": 4,
+      "rows": [
+        {
+          "id": "93514431277663",
+          "term": "sticky notes 18 pads",
+          "to": 0.7
+        },
+        {
+          "id": "255249945431126",
+          "term": "sticky notes assorted sizes",
+          "to": 1
+        },
+        {
+          "id": "198559922287180",
+          "term": "sticky notes value pack",
+          "to": 0.85
+        },
+        {
+          "id": "141917023075567",
+          "term": "sticky notes variety pack",
+          "to": 0.9
+        }
+      ]
+    }
+  ],
+  "before": [
+    {
+      "url": "https://advertising.amazon.com/cm/sp/campaigns/A0625560C81W26ZWQFAG/ad-groups/A0386883323ZDFC3GMWZ4/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "rows": [
+        {
+          "id": "63252716272764",
+          "cells": {
+            "target": "3x3 sticky notes 1500 sheets\n3x3 便利贴 1500 张",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.55\nUS$0.55",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "110115049123620",
+          "cells": {
+            "target": "3x3 sticky notes assorted colors\n3x3英寸彩色便利贴",
+            "matchType": "短语",
+            "status": "进行中",
+            "suggestedBid": "US$1.93 (US$1.40-US$2.47)\n应用\n—",
+            "bid": "US$0.50\nUS$0.50",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "189800989136857",
+          "cells": {
+            "target": "3x3 sticky notes bulk\n3x3便利贴批发",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "US$2.80 (US$2.10-US$3.50)\n应用\n—",
+            "bid": "US$0.65\nUS$0.65",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "20955361404728",
+          "cells": {
+            "target": "colored sticky notes 3x3\n3x3彩色便利贴",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "US$2.46 (US$1.75-US$2.80)\n应用\n—",
+            "bid": "US$0.65\nUS$0.65",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "30393094120593",
+          "cells": {
+            "target": "sticky notes 15 pads\n便利贴 15 张纸巾",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.55\nUS$0.55",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "268058507043824",
+          "cells": {
+            "target": "sticky notes 3x3 assorted colors\n3x3 便利贴多色混装",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "US$2.45 (US$1.84-US$3.06)\n应用\n—",
+            "bid": "US$0.65\nUS$0.65",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "[object Object]",
+          "cells": {
+            "target": "总计: 6",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ]
+    },
+    {
+      "pid": 236,
+      "url": "https://advertising.amazon.com/cm/sp/campaigns/A08305252J4LVVEZ5N1BI/ad-groups/A09887831UFJO8V73LJD1/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "rows": [
+        {
+          "id": "93514431277663",
+          "cells": {
+            "target": "sticky notes 18 pads\n便利贴18本装",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.45\nUS$0.45",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "255249945431126",
+          "cells": {
+            "target": "sticky notes assorted sizes\n多尺寸便利贴",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "US$1.33 (US$1.00-US$1.66)\n应用\n—",
+            "bid": "US$0.45\nUS$0.45",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "198559922287180",
+          "cells": {
+            "target": "sticky notes value pack\n便利贴超值装",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "US$3.30 (US$1.88-US$3.81)\n应用\n—",
+            "bid": "US$0.45\nUS$0.45",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "141917023075567",
+          "cells": {
+            "target": "sticky notes variety pack\n便利贴多样装",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "US$1.49 (US$1.12-US$2.17)\n应用\n—",
+            "bid": "US$0.45\nUS$0.45",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "[object Object]",
+          "cells": {
+            "target": "总计: 4",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ]
+    },
+    {
+      "pid": 241,
+      "url": "https://advertising.amazon.com/cm/sp/campaigns/A092452820HCLVUYOMQHY/ad-groups/A00499412944CW5R3FY6R/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "rows": [
+        {
+          "id": "86664209718644",
+          "cells": {
+            "target": "desktop sticky notes organizer set\n桌面便签收纳套装",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.40\nUS$0.40",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "109156535490858",
+          "cells": {
+            "target": "sticky note organizer black leather\n便签收纳袋黑色皮革",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.20\nUS$0.20",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "36825385520891",
+          "cells": {
+            "target": "sticky note organizer set\n便利贴收纳整理套装",
+            "matchType": "短语",
+            "status": "进行中",
+            "suggestedBid": "US$0.37 (US$0.28-US$0.46)\n应用\n—",
+            "bid": "US$0.40\nUS$0.40",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "29071898252801",
+          "cells": {
+            "target": "sticky notes and index flags organizer\n便签和索引标志管理器",
+            "matchType": "精准",
+            "status": "进行中",
+            "suggestedBid": "无最新数据\n—",
+            "bid": "US$0.40\nUS$0.40",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "[object Object]",
+          "cells": {
+            "target": "总计: 4",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ]
+    }
+  ],
+  "adEligibility": [
+    {
+      "pid": 237,
+      "url": "https://advertising.amazon.com/cm/sp/campaigns/A0625560C81W26ZWQFAG/ad-groups/A0386883323ZDFC3GMWZ4/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "rows": [
+        {
+          "id": "A05530093V0ZRYNRH5Y4E",
+          "cells": {
+            "adName": "4A 15 Pads Sticky Notes 3 x 3 in, Assorted Colors, Colorful Stick Notes Self-Stick Note Pads for Office, Home, School Supplies, 100 Sheets/Pad, 1500 Sheets Total, 4A 30315 \n\nUS$11.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A GM30315\n\nB07FKG29KB",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "[object Object]",
+          "cells": {
+            "adName": "总计: 1",
+            "videoDetails": "总计: 1",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ]
+    },
+    {
+      "pid": 241,
+      "url": "https://advertising.amazon.com/cm/sp/campaigns/A092452820HCLVUYOMQHY/ad-groups/A00499412944CW5R3FY6R/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "rows": [
+        {
+          "id": "A01752244TK8BOV0CGQX",
+          "cells": {
+            "adName": "4A Self-Stick Notes, Classic Assorted, 4A BS 1801-FBA | B07JVSYNYV \n\nUS$14.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A BS 1801-FBA\n\nB07JVSYNYV",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "[object Object]",
+          "cells": {
+            "adName": "总计: 1",
+            "videoDetails": "总计: 1",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ]
+    },
+    {
+      "pid": 236,
+      "url": "https://advertising.amazon.com/cm/sp/campaigns/A08305252J4LVVEZ5N1BI/ad-groups/A09887831UFJO8V73LJD1/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "rows": [
+        {
+          "id": "A0229154DKQRGZQMNI29",
+          "cells": {
+            "adName": "4A Sticky Notes Value Pack,Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4012 \n\nUS$11.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A 4012-B07T-FBM\n\nB01M3N310M",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "[object Object]",
+          "cells": {
+            "adName": "总计: 1",
+            "videoDetails": "总计: 1",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ]
+    }
+  ]
+}

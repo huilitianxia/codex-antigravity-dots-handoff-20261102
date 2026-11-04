@@ -1,0 +1,167 @@
+[
+  {
+    "name": "SP_305满胶100_KW BROAD 1_20250811",
+    "active": [
+      {
+        "entity": "广告组",
+        "groupId": "455232693967517",
+        "default": 0.3,
+        "bid": null,
+        "term": null,
+        "match": null,
+        "other_target": {},
+        "clicks": 188.0,
+        "cpc": 0.76,
+        "orders": 50.0
+      },
+      {
+        "entity": "关键词",
+        "groupId": "455232693967517",
+        "default": null,
+        "bid": 0.7,
+        "term": "full stick post it notes",
+        "match": "广泛",
+        "other_target": {},
+        "clicks": 11.0,
+        "cpc": 0.74,
+        "orders": 3.0
+      },
+      {
+        "entity": "关键词",
+        "groupId": "455232693967517",
+        "default": null,
+        "bid": 0.75,
+        "term": "full adhesive sticky notes",
+        "match": "广泛",
+        "other_target": {},
+        "clicks": 177.0,
+        "cpc": 0.76,
+        "orders": 47.0
+      }
+    ],
+    "placements": [
+      {
+        "placement": "广告位亚马逊企业购",
+        "percent": 5.0,
+        "strategy": "动态竞价 - 仅降低"
+      },
+      {
+        "placement": "广告位：搜索结果首页首位",
+        "percent": 10.0,
+        "strategy": "动态竞价 - 仅降低"
+      },
+      {
+        "placement": "广告位：商品页面",
+        "percent": 0.0,
+        "strategy": "动态竞价 - 仅降低"
+      },
+      {
+        "placement": "广告位：搜索结果的其余位置",
+        "percent": 0.0,
+        "strategy": "动态竞价 - 仅降低"
+      }
+    ]
+  },
+  {
+    "name": "SP_304满胶_AUTO CLOSE_20250610",
+    "active": [
+      {
+        "entity": "广告组",
+        "groupId": "528179257901238",
+        "default": 0.6,
+        "bid": null,
+        "term": null,
+        "match": null,
+        "other_target": {},
+        "clicks": 8.0,
+        "cpc": 0.92,
+        "orders": 3.0
+      },
+      {
+        "entity": "商品定向",
+        "groupId": "528179257901238",
+        "default": null,
+        "bid": 0.8,
+        "term": null,
+        "match": null,
+        "other_target": {},
+        "clicks": 8.0,
+        "cpc": 0.92,
+        "orders": 3.0
+      }
+    ],
+    "placements": [
+      {
+        "placement": "广告位：商品页面",
+        "percent": 0.0,
+        "strategy": "固定竞价"
+      },
+      {
+        "placement": "广告位亚马逊企业购",
+        "percent": 0.0,
+        "strategy": "固定竞价"
+      },
+      {
+        "placement": "广告位：搜索结果的其余位置",
+        "percent": 0.0,
+        "strategy": "固定竞价"
+      },
+      {
+        "placement": "广告位：搜索结果首页首位",
+        "percent": 20.0,
+        "strategy": "固定竞价"
+      }
+    ]
+  },
+  {
+    "name": "SP_305满胶300_AUTO 紧_20250411",
+    "active": [
+      {
+        "entity": "广告组",
+        "groupId": "560786897413227",
+        "default": 0.4,
+        "bid": null,
+        "term": null,
+        "match": null,
+        "other_target": {},
+        "clicks": 30.0,
+        "cpc": 0.93,
+        "orders": 8.0
+      },
+      {
+        "entity": "商品定向",
+        "groupId": "560786897413227",
+        "default": null,
+        "bid": 0.96,
+        "term": null,
+        "match": null,
+        "other_target": {},
+        "clicks": 30.0,
+        "cpc": 0.93,
+        "orders": 8.0
+      }
+    ],
+    "placements": [
+      {
+        "placement": "广告位：搜索结果的其余位置",
+        "percent": 0.0,
+        "strategy": "动态竞价 - 仅降低"
+      },
+      {
+        "placement": "广告位：商品页面",
+        "percent": 0.0,
+        "strategy": "动态竞价 - 仅降低"
+      },
+      {
+        "placement": "广告位亚马逊企业购",
+        "percent": 0.0,
+        "strategy": "动态竞价 - 仅降低"
+      },
+      {
+        "placement": "广告位：搜索结果首页首位",
+        "percent": 2.0,
+        "strategy": "动态竞价 - 仅降低"
+      }
+    ]
+  }
+]

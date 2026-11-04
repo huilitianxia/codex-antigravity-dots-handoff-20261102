@@ -1,0 +1,38 @@
+{
+  "checkedAt": "2026-11-04 Beijing morning",
+  "sample": {
+    "groups": 4,
+    "recentTextReviews": 39,
+    "scope": "Latest displayed review pages, not all reviews; variant ASIN links preserved"
+  },
+  "priority": [
+    {
+      "family": "5082 lined",
+      "asin": "B0F9L5G6XQ",
+      "issue": "Verified listing title and first bullet 4pads x100 =400; current image 4pads x50 =200, same-variant Jul24 review says50 perpad. Actual warehouse pack not verified.",
+      "action": "Confirm physical packed count first, synchronize title bullet variation label and images. Use true pale-yellow photos and writing context; sibling 5084/8x2 reviews mention no hard backing."
+    },
+    {
+      "family": "303/302/304/305 full adhesive shared family",
+      "asin": "B07QXJYTZ7",
+      "issue": "Title3 1/3 x3; variation bullet and dimension image3x3. Relation to tear-off tab/usable area unverified. Recent review also flags color preference and thin paper.",
+      "action": "Resolve total vs writing-area dimensions against packaging, show exact palette and count, use tested objective operation steps rather than guaranteed no-curl/no-fall claims."
+    },
+    {
+      "family": "305 full100",
+      "asin": "B0FBG138ND",
+      "issue": "Existing peel bullet and video入口 already present; good review asks blue/purple instead of two pink colors. Latest sample mostly adhesion/curling, so cannot attribute to copy alone.",
+      "action": "Accurate palette and 5pads x20 breakdown; inspect current video for actual question coverage before adding."
+    },
+    {
+      "family": "PSS32x6",
+      "asin": "B08DKJ2K3T",
+      "issue": "Buyer expects adhesive tape substitute; mentions narrow width, dispenser fragility and fading. Latest reviews include older2025 posts.",
+      "action": "Scale photo with ruler, actual 6 colors, clear paper-strip indexing/planner use and actual threading/cutting demonstration. Do not label fading or breakage as misuse."
+    }
+  ],
+  "publication": {
+    "changes": false,
+    "reason": "User requested review and recommendations"
+  }
+}

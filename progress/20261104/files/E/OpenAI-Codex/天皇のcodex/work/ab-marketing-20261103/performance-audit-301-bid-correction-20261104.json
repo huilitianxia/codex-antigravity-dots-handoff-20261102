@@ -1,0 +1,54 @@
+{
+  "at": "2026-11-03T18:05:45.060Z",
+  "campaign": "A0219519PE5RDQRTARA9",
+  "budget": 8,
+  "budgetChanged": false,
+  "beforeSource": "performance-audit-301-keywords-live.json",
+  "checks": [
+    {
+      "id": "60617417803643",
+      "term": "1.5 x 2 neon sticky notes",
+      "from": 0.3,
+      "to": 0.65,
+      "actual": 0.65,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "id": "151842310074032",
+      "term": "1.5x2 sticky notes 12 pads",
+      "from": 0.25,
+      "to": 0.55,
+      "actual": 0.55,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "id": "64414658029541",
+      "term": "small neon sticky notes",
+      "from": 0.25,
+      "to": 0.55,
+      "actual": 0.55,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "id": "69644201067124",
+      "term": "small sticky notes 1200 sheets",
+      "from": 0.2,
+      "to": 0.4,
+      "actual": 0.4,
+      "status": "进行中",
+      "pass": true
+    },
+    {
+      "id": "14932584876876",
+      "term": "mini sticky notes 1.5 x 2",
+      "from": 0.25,
+      "to": 0.8,
+      "actual": 0.8,
+      "status": "进行中",
+      "pass": true
+    }
+  ]
+}

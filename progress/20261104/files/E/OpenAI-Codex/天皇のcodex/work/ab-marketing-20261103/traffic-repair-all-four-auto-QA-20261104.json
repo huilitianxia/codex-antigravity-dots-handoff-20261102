@@ -1,0 +1,537 @@
+{
+  "at": "2026-11-04T00:43:58.416Z",
+  "allAutoTargets": [
+    {
+      "style": "301N",
+      "url": "https://advertising.amazon.com/cm/sp/campaigns/A1002295TRUEWQ3Y1Z9M/ad-groups/A0493704232Q7DIXFT5C5/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "rows": [
+        {
+          "id": "306322914092620",
+          "cells": {
+            "target": "紧密匹配\n近似匹配",
+            "matchType": "—",
+            "status": "进行中",
+            "suggestedBid": "US$0.58 (US$0.35-US$0.69)\n应用\n—",
+            "bid": "US$0.45\nUS$0.45",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "384259348377842",
+          "cells": {
+            "target": "关联商品\n配件",
+            "matchType": "—",
+            "status": "已暂停",
+            "suggestedBid": "US$0.26 (US$0.16-US$0.36)\n应用\n—",
+            "bid": "US$0.75\nUS$0.75",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "false"
+        },
+        {
+          "id": "504334391832721",
+          "cells": {
+            "target": "宽泛匹配\n宽松搭配",
+            "matchType": "—",
+            "status": "已暂停",
+            "suggestedBid": "US$0.57 (US$0.43-US$0.70)\n应用\n—",
+            "bid": "US$0.75\nUS$0.75",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "false"
+        },
+        {
+          "id": "324251969276376",
+          "cells": {
+            "target": "同类商品\n替代品",
+            "matchType": "—",
+            "status": "已暂停",
+            "suggestedBid": "US$0.27 (US$0.14-US$0.34)\n应用\n—",
+            "bid": "US$0.75\nUS$0.75",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "false"
+        },
+        {
+          "id": "[object Object]",
+          "cells": {
+            "target": "总计: 4",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ]
+    },
+    {
+      "style": "30315",
+      "url": "https://advertising.amazon.com/cm/sp/campaigns/A021503112Y3T4D71FBB/ad-groups/A02287971JPVDAQL0BFIJ/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "rows": [
+        {
+          "id": "314684196192320",
+          "cells": {
+            "target": "紧密匹配\n近似匹配",
+            "matchType": "—",
+            "status": "进行中",
+            "suggestedBid": "US$0.51 (US$0.29-US$0.64)\n应用\n—",
+            "bid": "US$0.39\nUS$0.39",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "435823351471776",
+          "cells": {
+            "target": "关联商品\n配件",
+            "matchType": "—",
+            "status": "已暂停",
+            "suggestedBid": "US$0.30 (US$0.18-US$0.41)\n应用\n—",
+            "bid": "US$0.75\nUS$0.75",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "false"
+        },
+        {
+          "id": "400897735352388",
+          "cells": {
+            "target": "宽泛匹配\n宽松搭配",
+            "matchType": "—",
+            "status": "已暂停",
+            "suggestedBid": "US$0.40 (US$0.26-US$0.60)\n应用\n—",
+            "bid": "US$0.75\nUS$0.75",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "false"
+        },
+        {
+          "id": "450642243246435",
+          "cells": {
+            "target": "同类商品\n替代品",
+            "matchType": "—",
+            "status": "已暂停",
+            "suggestedBid": "US$0.35 (US$0.22-US$0.49)\n应用\n—",
+            "bid": "US$0.75\nUS$0.75",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "false"
+        },
+        {
+          "id": "[object Object]",
+          "cells": {
+            "target": "总计: 4",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ]
+    },
+    {
+      "style": "BS1801",
+      "page": 254,
+      "url": "https://advertising.amazon.com/cm/sp/campaigns/A00035661LNO7Z0N7F87A/ad-groups/A05429032AQUF5QCCGQHD/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "rows": [
+        {
+          "id": "550293314237902",
+          "cells": {
+            "target": "紧密匹配\n近似匹配",
+            "matchType": "—",
+            "status": "进行中",
+            "suggestedBid": "US$0.57 (US$0.31-US$0.71)\n应用\n—",
+            "bid": "US$0.36\nUS$0.36",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "539048879952405",
+          "cells": {
+            "target": "关联商品\n配件",
+            "matchType": "—",
+            "status": "已暂停",
+            "suggestedBid": "US$0.24 (US$0.15-US$0.30)\n应用\n—",
+            "bid": "US$0.75\nUS$0.75",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "false"
+        },
+        {
+          "id": "548333389978465",
+          "cells": {
+            "target": "宽泛匹配\n宽松搭配",
+            "matchType": "—",
+            "status": "已暂停",
+            "suggestedBid": "US$0.64 (US$0.48-US$0.80)\n应用\n—",
+            "bid": "US$0.75\nUS$0.75",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "false"
+        },
+        {
+          "id": "321377084873309",
+          "cells": {
+            "target": "同类商品\n替代品",
+            "matchType": "—",
+            "status": "已暂停",
+            "suggestedBid": "US$0.31 (US$0.19-US$0.39)\n应用\n—",
+            "bid": "US$0.75\nUS$0.75",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "false"
+        },
+        {
+          "id": "[object Object]",
+          "cells": {
+            "target": "总计: 4",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ]
+    },
+    {
+      "style": "4012",
+      "page": 255,
+      "url": "https://advertising.amazon.com/cm/sp/campaigns/A037329735SIYWWUSJIJE/ad-groups/A0997045167YN565VFZ8B/targeting?entityId=ENTITY2EFMPU8GWXHSP",
+      "rows": [
+        {
+          "id": "554679352469595",
+          "cells": {
+            "target": "紧密匹配\n近似匹配",
+            "matchType": "—",
+            "status": "进行中",
+            "suggestedBid": "US$0.51 (US$0.29-US$0.64)\n应用\n—",
+            "bid": "US$0.39\nUS$0.39",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "339228155683264",
+          "cells": {
+            "target": "关联商品\n配件",
+            "matchType": "—",
+            "status": "已暂停",
+            "suggestedBid": "US$0.30 (US$0.18-US$0.41)\n应用\n—",
+            "bid": "US$0.75\nUS$0.75",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "false"
+        },
+        {
+          "id": "392577196753392",
+          "cells": {
+            "target": "宽泛匹配\n宽松搭配",
+            "matchType": "—",
+            "status": "已暂停",
+            "suggestedBid": "US$0.40 (US$0.26-US$0.60)\n应用\n—",
+            "bid": "US$0.75\nUS$0.75",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "false"
+        },
+        {
+          "id": "482940059848378",
+          "cells": {
+            "target": "同类商品\n替代品",
+            "matchType": "—",
+            "status": "已暂停",
+            "suggestedBid": "US$0.35 (US$0.22-US$0.49)\n应用\n—",
+            "bid": "US$0.75\nUS$0.75",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "false"
+        },
+        {
+          "id": "[object Object]",
+          "cells": {
+            "target": "总计: 4",
+            "impressions": "—",
+            "topOfSearchImpressionShare": "—",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ]
+    }
+  ],
+  "allAutoAds": [
+    {
+      "style": "301N",
+      "url": "https://advertising.amazon.com/cm/sp/campaigns/A1002295TRUEWQ3Y1Z9M/ad-groups/A0493704232Q7DIXFT5C5/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "rows": [
+        {
+          "id": "A02220873DWREJR8UJYNR",
+          "cells": {
+            "adName": "4A Sticky Notes, 1.5 x 2 in, 12 Pads, Neon Colors | 100 sheets per pad \n\nUS$5.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A301x12-N-B01LVT-FBM\n\nB01LVTWP7Q",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "A0222187UVEXGIHHJ68M",
+          "cells": {
+            "adName": "4A Sticky Notes, 1.5 x 2 in, 12 Pads, Neon Colors | 100 sheets per pad \n\nUS$5.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A 301x12-N\n\nB01LVTWP7Q",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "[object Object]",
+          "cells": {
+            "adName": "总计: 2",
+            "videoDetails": "总计: 2",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ]
+    },
+    {
+      "style": "30315",
+      "url": "https://advertising.amazon.com/cm/sp/campaigns/A021503112Y3T4D71FBB/ad-groups/A02287971JPVDAQL0BFIJ/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "rows": [
+        {
+          "id": "A01662041PJ7WSGSP9J63",
+          "cells": {
+            "adName": "4A 15 Pads Sticky Notes 3 x 3 in, Assorted Colors, Colorful Stick Notes Self-Stick Note Pads for Office, Home, School Supplies, 100 Sheets/Pad, 1500 Sheets Total, 4A 30315 \n\nUS$11.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A GM30315\n\nB07FKG29KB",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "[object Object]",
+          "cells": {
+            "adName": "总计: 1",
+            "videoDetails": "总计: 1",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ]
+    },
+    {
+      "style": "BS1801",
+      "page": 254,
+      "url": "https://advertising.amazon.com/cm/sp/campaigns/A00035661LNO7Z0N7F87A/ad-groups/A05429032AQUF5QCCGQHD/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "rows": [
+        {
+          "id": "A03697414F2LP5BEHASO",
+          "cells": {
+            "adName": "4A Self-Stick Notes, Classic Assorted, 4A BS 1801-FBA | B07JVSYNYV \n\nUS$14.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A BS 1801-FBA\n\nB07JVSYNYV",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "[object Object]",
+          "cells": {
+            "adName": "总计: 1",
+            "videoDetails": "总计: 1",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ]
+    },
+    {
+      "style": "4012",
+      "page": 255,
+      "url": "https://advertising.amazon.com/cm/sp/campaigns/A037329735SIYWWUSJIJE/ad-groups/A0997045167YN565VFZ8B/ads?entityId=ENTITY2EFMPU8GWXHSP",
+      "rows": [
+        {
+          "id": "A095324332D56L1JIHW0L",
+          "cells": {
+            "adName": "4A Sticky Notes Value Pack,Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4012 \n\nUS$11.99",
+            "status": "进行中",
+            "videoDetails": "添加视频",
+            "videoStatus": "无可用数据",
+            "asin": "4A 4012-B07T-FBM\n\nB01M3N310M",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          },
+          "enabled": "true"
+        },
+        {
+          "id": "[object Object]",
+          "cells": {
+            "adName": "总计: 1",
+            "videoDetails": "总计: 1",
+            "spend": "—",
+            "orders": "—",
+            "sales": "—",
+            "roas": "—"
+          }
+        }
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "style": "301N",
+      "groupPass": true,
+      "skuPass": true,
+      "bid": 0.45,
+      "skus": [
+        "4A301x12-N-B01LVT-FBM",
+        "4A 301x12-N"
+      ]
+    },
+    {
+      "style": "30315",
+      "groupPass": true,
+      "skuPass": true,
+      "bid": 0.39,
+      "skus": [
+        "4A GM30315"
+      ]
+    },
+    {
+      "style": "BS1801",
+      "groupPass": true,
+      "skuPass": true,
+      "bid": 0.36,
+      "skus": [
+        "4A BS 1801-FBA"
+      ]
+    },
+    {
+      "style": "4012",
+      "groupPass": true,
+      "skuPass": true,
+      "bid": 0.39,
+      "skus": [
+        "4A 4012-B07T-FBM"
+      ]
+    }
+  ]
+}
