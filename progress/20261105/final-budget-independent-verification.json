@@ -1,0 +1,33 @@
+{
+  "source": "D:/下载文件/Campaign_Nov_5_2026 (1).csv",
+  "configured_live_campaigns": 39,
+  "currently_delivering": 38,
+  "currently_budget_exhausted": 1,
+  "configured_daily_budget": 116.0,
+  "new_campaigns": [
+    {
+      "id": "A10042703CO742B0EB5R2",
+      "name": "SP_PUZZLE_5020X3_AUTO_20261105",
+      "budget": 3.0,
+      "state": "进行中",
+      "country": "美国"
+    },
+    {
+      "id": "A09828672Y5I9N5CKEWQ6",
+      "name": "SP_PUZZLE_5020X3_MANUAL_20261105",
+      "budget": 5.0,
+      "state": "进行中",
+      "country": "美国"
+    }
+  ],
+  "prior_budget_changes": [],
+  "prior_delivery_changes": [
+    {
+      "id": "A08519421LOCSOSTAXPTY",
+      "name": "SP_305满胶300_KW BROAD_20250411",
+      "before": "进行中",
+      "after": "超出预算"
+    }
+  ],
+  "all_pass": true
+}

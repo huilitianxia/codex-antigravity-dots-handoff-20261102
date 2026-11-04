@@ -1,0 +1,17 @@
+{
+  "source": "D:\\下载文件\\Campaign_Nov_5_2026.csv",
+  "table_date_us": "2026-11-04",
+  "rows": 118,
+  "running": 37,
+  "daily_budget": 108.0,
+  "today_reported_spend": 6.55,
+  "missing_expected": [],
+  "unexpected_running": [],
+  "new_plan": {
+    "manual": 5,
+    "auto": 3,
+    "resulting_daily_total": 116.0,
+    "cuts_needed": false
+  },
+  "note": "Earlier morning allocation112/day was108/day in this fresh native export; old305full300broad was already1 rather than5. No attribution of who changed it. This launch preserves all37 existing budgets and adds8, resulting116/day. Original100/101 cap had been explicitly revoked."
+}

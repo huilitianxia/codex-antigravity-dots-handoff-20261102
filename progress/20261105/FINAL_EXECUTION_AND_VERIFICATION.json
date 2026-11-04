@@ -1,0 +1,159 @@
+{
+  "startedAt": "2026-11-04T16:13:11.352Z",
+  "asin": "B07RN7WQ81",
+  "sku": "4A 5020x3",
+  "budgetBefore": 108,
+  "budgetAfter": 116,
+  "otherBudgetChanges": [],
+  "auto": {
+    "name": "SP_PUZZLE_5020X3_AUTO_20261105",
+    "campaignId": "A10042703CO742B0EB5R2",
+    "publicCampaignId": "69798680162940",
+    "budget": 3,
+    "bids": {
+      "close": 0.6,
+      "loose": 0.5,
+      "substitutes": 0.4,
+      "complements": "paused"
+    },
+    "end": "2026-11-10",
+    "negativeExact": [
+      "sticky notes",
+      "brain shaped sticky notes",
+      "heart shaped sticky notes",
+      "flower shaped sticky notes"
+    ],
+    "launchReceiptVerified": true,
+    "groupId": "A07113733047ASN9OI2MH",
+    "independentTargetRows": [
+      "— 进行中 US$0.51 (US$0.29-US$0.64) 应用 — Open tooltip US$0.60 US$0.60 — — — —",
+      "— 已暂停 详情 US$0.30 (US$0.18-US$0.41) 应用 — Open tooltip US$0.75 US$0.75 — — — —",
+      "— 进行中 US$0.40 (US$0.26-US$0.60) 应用 — Open tooltip US$0.50 US$0.50 — — — —",
+      "— 进行中 US$0.35 (US$0.22-US$0.49) 应用 — Open tooltip US$0.40 US$0.40 — — — —"
+    ],
+    "productIndependentVerified": true
+  },
+  "manual": {
+    "name": "SP_PUZZLE_5020X3_MANUAL_20261105",
+    "campaignId": "A09828672Y5I9N5CKEWQ6",
+    "publicCampaignId": "71236184579704",
+    "budget": 5,
+    "strategy": "fixed",
+    "end": "2026-11-10",
+    "keywords": [
+      {
+        "term": "puzzle sticky notes",
+        "match": "EXACT",
+        "bid": 0.75
+      },
+      {
+        "term": "puzzle sticky notes",
+        "match": "PHRASE",
+        "bid": 0.75
+      },
+      {
+        "term": "puzzle shaped sticky notes",
+        "match": "EXACT",
+        "bid": 0.75
+      },
+      {
+        "term": "puzzle shaped sticky notes",
+        "match": "PHRASE",
+        "bid": 0.75
+      },
+      {
+        "term": "jigsaw sticky notes",
+        "match": "EXACT",
+        "bid": 0.75
+      },
+      {
+        "term": "jigsaw sticky notes",
+        "match": "PHRASE",
+        "bid": 0.75
+      },
+      {
+        "term": "puzzle shaped items",
+        "match": "EXACT",
+        "bid": 0.6
+      }
+    ],
+    "launchReceiptVerified": true,
+    "groupId": "A05102502WFEJFDQ4ENG1",
+    "verifiedKeywords": [
+      {
+        "term": "jigsaw sticky notes",
+        "match": "PHRASE",
+        "bid": 0.75
+      },
+      {
+        "term": "jigsaw sticky notes",
+        "match": "EXACT",
+        "bid": 0.75
+      },
+      {
+        "term": "puzzle shaped items",
+        "match": "EXACT",
+        "bid": 0.6
+      },
+      {
+        "term": "puzzle shaped sticky notes",
+        "match": "PHRASE",
+        "bid": 0.75
+      },
+      {
+        "term": "puzzle shaped sticky notes",
+        "match": "EXACT",
+        "bid": 0.75
+      },
+      {
+        "term": "puzzle sticky notes",
+        "match": "PHRASE",
+        "bid": 0.75
+      },
+      {
+        "term": "puzzle sticky notes",
+        "match": "EXACT",
+        "bid": 0.75
+      }
+    ],
+    "productIndependentVerified": true
+  },
+  "verifiedAt": "2026-11-04T16:41:52.000Z",
+  "status": "launched-and-independently-verified",
+  "priceShippingInventoryChanged": false,
+  "videosEnabled": false,
+  "priorAdsReenabled": false,
+  "budgetVerification": {
+    "source": "D:/下载文件/Campaign_Nov_5_2026 (1).csv",
+    "configured_live_campaigns": 39,
+    "currently_delivering": 38,
+    "currently_budget_exhausted": 1,
+    "configured_daily_budget": 116,
+    "new_campaigns": [
+      {
+        "id": "A10042703CO742B0EB5R2",
+        "name": "SP_PUZZLE_5020X3_AUTO_20261105",
+        "budget": 3,
+        "state": "进行中",
+        "country": "美国"
+      },
+      {
+        "id": "A09828672Y5I9N5CKEWQ6",
+        "name": "SP_PUZZLE_5020X3_MANUAL_20261105",
+        "budget": 5,
+        "state": "进行中",
+        "country": "美国"
+      }
+    ],
+    "prior_budget_changes": [],
+    "prior_delivery_changes": [
+      {
+        "id": "A08519421LOCSOSTAXPTY",
+        "name": "SP_305满胶300_KW BROAD_20250411",
+        "before": "进行中",
+        "after": "超出预算"
+      }
+    ],
+    "all_pass": true
+  }
+}
