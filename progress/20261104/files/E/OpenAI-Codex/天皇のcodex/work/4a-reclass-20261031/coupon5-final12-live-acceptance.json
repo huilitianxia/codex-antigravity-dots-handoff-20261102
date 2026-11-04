@@ -1,0 +1,33 @@
+{
+  "tab": "1634912358",
+  "workflow": "e961b2c6-e558-4c0a-98a1-d7366430b466",
+  "asins": [
+    "B08DKJ2K3T",
+    "B0F9L5G6XQ",
+    "B01LVTWP7Q",
+    "B07F2B49BL",
+    "B07QVKPZXX",
+    "B07QXJYKJN",
+    "B07FK9S7S8",
+    "B07FKBHTDG",
+    "B07B8RBCKT",
+    "B07FKJM2LX",
+    "B07JVSYNYV",
+    "B07MQVWLSY"
+  ],
+  "count": 12,
+  "discountPercent": 5,
+  "budget": 100,
+  "start": "2026-10-31",
+  "end": "2026-11-29",
+  "submitted": true,
+  "note": "ASIN-based final table uses MFN values for PSS9-1 and608 despite AFN row selection; do not infer AFN counts from final table",
+  "status_after_refresh": "RUNNING",
+  "submitted_at": "2026-11-01T16:11:18+08:00",
+  "authorization": "User confirmed both final campaigns at action time via parent:15percent22/budget200;5percent12/budget100;terms accepted",
+  "evidence": [
+    "coupon5-final12-submitted.txt",
+    "coupon5-final12-status.txt",
+    "coupon5-final12-running.png"
+  ]
+}

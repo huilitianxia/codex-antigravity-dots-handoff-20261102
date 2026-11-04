@@ -1,0 +1,470 @@
+- navigation:
+  - button "菜单":
+  - generic: 菜单
+  - button:
+  - navigation:
+    - searchbox
+    - link:
+      - /url: /amazonsell/business
+      - generic: 我的业务
+    - button:
+      - generic: 商品
+    - link:
+      - /url: /amazonsell/listings
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/manage-products
+      - text: 管理商品
+      - button:
+    - link:
+      - /url: /pricing/health
+      - text: 管理定价
+      - button:
+    - link:
+      - /url: /product-search
+      - text: 添加商品
+      - button:
+    - link:
+      - /url: /feedback-manager/index.html
+      - text: 分析评论
+      - button:
+    - link:
+      - /url: /new-product-guidance
+      - text: 研究商品
+      - button:
+    - link:
+      - /url: /gex
+      - text: 全球开店
+      - button:
+    - link:
+      - /url: /listing/reports
+      - text: 商品报告
+      - button:
+    - button:
+      - generic: 供应链
+    - link:
+      - /url: /amazonsell/inventory
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/fba-inventory
+      - text: 管理亚马逊库存
+      - button:
+    - link:
+      - /url: /global-store
+      - text: 管理海外购
+      - button:
+    - link:
+      - /url: /seller-fulfilled-product/analytics
+      - text: 管理卖家自配送库存
+      - button:
+    - link:
+      - /url: /manage/shipments
+      - text: 管理货件
+      - button:
+    - link:
+      - /url: /fba/sendtoamazon
+      - text: Send to Amazon
+      - button:
+    - link:
+      - /url: /channel-manager
+      - text: 管理渠道目的地
+      - button:
+    - link:
+      - /url: https://supplychain.amazon.com/scp/login?utm_source=ngs_persistence_link
+      - text: 供应链控制面板
+      - button:
+    - link:
+      - /url: /reportcentral/WelcomePage
+      - text: 供应链报告
+      - button:
+    - button:
+      - generic: 订单
+    - link:
+      - /url: /amazonsell/orders
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/orders/mfn
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /amazonsell/orders/fba
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /business/manage-quotes
+      - text: 管理报价
+      - button:
+    - link:
+      - /url: /manage/returns/mfn
+      - text: 管理退货
+      - button:
+    - link:
+      - /url: /gp/chargebacks/home.html
+      - text: 管理索赔
+      - button:
+    - link:
+      - /url: /order-reports-and-feeds/reports
+      - text: 订单报告
+      - button:
+    - button:
+      - generic: 营销推广
+    - link:
+      - /url: /amazonsell/marketing
+      - text: 工作区
+    - link:
+      - /url: /promotion-central/dashboard
+      - text: 管理促销和特惠
+      - button:
+    - link:
+      - /url: /brand-analytics
+      - text: 品牌分析
+      - button:
+    - link:
+      - /url: /cm?source=ngs
+      - text: 广告控制台
+      - button:
+    - link:
+      - /url: /vine
+      - text: Vine
+      - button:
+    - button:
+      - generic: 财务人员
+    - link:
+      - /url: /amazonsell/payments
+      - text: 工作区
+    - link:
+      - /url: /manage/finance/transactions
+      - text: 管理交易
+      - button:
+    - link:
+      - /url: /managetaxes/global-transaction-reports
+      - text: 管理税费
+      - button:
+    - link:
+      - /url: /economics
+      - text: 利润分析
+      - button:
+    - link:
+      - /url: /manage/finance/reports
+      - text: 财务报告
+      - button:
+    - button:
+      - generic: 账户状况
+    - link:
+      - /url: /performance/dashboard
+      - text: 管理账户状况
+      - button:
+    - button:
+      - generic: 计划和应用程序
+    - link:
+      - /url: /recommended-programs
+      - text: 了解计划
+      - button:
+    - link:
+      - /url: /selling-partner-appstore
+      - text: 销售伙伴应用商店
+      - button:
+    - link:
+      - /url: /tsba
+      - text: 浏览服务
+      - button:
+  - link:
+    - /url: /sitemap
+    - text: 站点地图
+  - link:
+    - /url: /home?ngs_do_not_redirect_flag=1
+    - text: 传统卖家平台
+  - link "Amazon":
+    - /url: /amazonsell
+  - button "4A (USA) LIMITED 美国":
+    - generic: 4A (USA) LIMITED
+    - generic: 美国
+  - button "账户状况":
+    - generic: 账户状况
+    - generic: 存在风险
+  - textbox "搜索任何内容"
+  - button "询问卖家助手":
+    - generic: 卖家助手
+  - link "新增内容":
+    - /url: /featurereleases
+  - link "消息":
+    - /url: /messaging/inbox-v3?fi=responseNeeded&&
+  - button "帮助":
+  - button "设置":
+- navigation:
+  - button:
+  - link "管理交易":
+    - /url: /manage/finance/transactions
+    - generic: 管理交易
+  - link "卖家大学":
+    - /url: /su/learn
+    - generic: 卖家大学
+  - link "管理商品":
+    - /url: /amazonsell/manage-products
+    - generic: 管理商品
+  - link "广告控制台":
+    - /url: /cm?source=ngs
+    - generic: 广告控制台
+  - link "管理货件":
+    - /url: /manage/shipments
+    - generic: 管理货件
+  - link "商品商机探测器":
+    - /url: /new-product-guidance
+    - generic: 商品商机探测器
+  - link "品牌分析":
+    - /url: /brand-analytics
+    - generic: 品牌分析
+  - link "A+ 商品描述管理器":
+    - /url: /enhanced-content/ref=xx_ebc_favb_xx
+    - generic: A+ 商品描述管理器
+  - link "业务报告":
+    - /url: /business-reports#/dashboard
+    - generic: 业务报告
+  - link "亚马逊物流库存报告":
+    - /url: /reportcentral/WelcomePage
+    - generic: 亚马逊物流库存报告
+  - link "商品报告":
+    - /url: /listing/reports
+    - generic: 商品报告
+  - link "绩效通知":
+    - /url: /performance/notifications
+    - generic: 绩效通知
+  - link "管理账户状况":
+    - /url: /performance/dashboard
+    - generic: 管理账户状况
+  - button:
+- list
+- button "✕"
+- heading "编辑商品信息" [level=2]
+- text: SKU：4A001
+- generic: 4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Pastel Assorted,Self-Stick Notes,100 Sheets/Pad,12 Pads/Pack,25 Packs,4A 301x12
+- generic: "ASIN: B01NCQST12"
+- generic: 品牌代表
+- generic: 
+- generic: 产品识别
+- generic: 产品识别
+- generic: 无编辑
+- generic: 无编辑
+- generic: 
+- generic: 
+- generic: 描述
+- generic: 描述
+- generic: "1"
+- generic: "1"
+- generic: 个错误
+- generic: 个错误
+- generic: 
+- generic: 
+- generic: 产品详情
+- generic: 产品详情
+- generic: "1"
+- generic: "1"
+- generic: 个错误
+- generic: 个错误
+- generic: 
+- generic: 变种
+- generic: 变种
+- generic: 无编辑
+- generic: 无编辑
+- generic: 
+- generic: 报价
+- generic: 报价
+- generic: 无编辑
+- generic: 无编辑
+- generic: 
+- generic: 安全与合规
+- generic: 安全与合规
+- generic: 无编辑
+- generic: 无编辑
+- generic: 
+- text: 商品信息质量：
+- generic: 良好
+- generic: 查看 AI 建议
+- button "查看":
+  - generic: 查看
+- button "商品信息采用的语言：English":
+  - generic: 
+  - text: 商品信息采用的语言：English
+- button "提交":
+  - generic: 提交
+- button "取消":
+  - generic: 取消
+- generic: 添加商品信息
+- generic "推荐":
+  - generic: 推荐
+  - generic: 
+- 'button "筛选属性: 推荐"':
+  - generic: "筛选属性: 推荐"
+- generic: 是否可定制？
+- generic: 是否可定制？
+- button "反馈"
+- generic: 指明此商品是否可定制。
+- generic: 指明此商品是否可定制。
+- radio "是"
+- generic: 是
+- generic: 是
+- radio "否" [checked]
+- generic: 否
+- generic: 否
+- text: "*"
+- generic: 制造商
+- generic: 制造商
+- button "反馈"
+- generic: 指定产品的制造商
+- generic: 指定产品的制造商
+- generic: China
+- textbox "制造商":
+  - /placeholder: 示例： Nike, Procter & Gamble
+  - text: China
+- generic: 搜索关键字
+- generic: 搜索关键字
+- button "反馈"
+- generic: 提供可能与客户搜索相关的任何术语没有重复、没有竞争对手的品牌名称或 ASIN。
+- generic: 提供可能与客户搜索相关的任何术语没有重复、没有竞争对手的品牌名称或 ASIN。
+- textbox "搜索关键字":
+  - /placeholder: 示例： Water sport shoes; Derek Rose; Electric; Wi-Fi; Banana
+  - text: Small Sticky notes 1 1/2 x 2 inches,Pastel Assorted,Self-Stick Notes,Post it,Sticky note pads,page marker,sticky notes mini,sticky notes decorative,sticky notes colorful,sticky notes stationary,sticky notes small square,sticky notes colored
+- generic: 专有特征
+- generic: 专有特征
+- button "反馈"
+- generic: 描述有关特定产品的专有特征，而不是普通产品的大众特征
+- generic: 描述有关特定产品的专有特征，而不是普通产品的大众特征
+- textbox "专有特征":
+  - /placeholder: 示例： Transparent
+- link "添加更多":
+  - /url: javascript:void(0);
+  - generic: 添加更多
+- generic: 产品数量
+- generic: 产品数量
+- button "反馈"
+- generic: 向客户提供单位销售中相同产品的总数
+- generic: 向客户提供单位销售中相同产品的总数
+- generic: "1"
+- spinbutton "产品数量": "12"
+- generic: 颜色
+- generic: 颜色
+- button "反馈"
+- generic: 提供产品颜色
+- generic: 提供产品颜色
+- generic: Pastel Assorted-12 Pads
+- textbox "颜色":
+  - /placeholder: 示例： Cranberry
+  - text: Canary Yellow
+- generic: "8541: 提供的商品信息数据与亚马逊目录中已有的数据不同。所提供的item_id与 ASIN B01NCQST12相匹配，但有些商品信息数据与亚马逊目录中已有的数据相矛盾。 以下商品信息属性值与亚马逊目录值冲突：'color' (卖家[en_US: \"Canary Yellow\"] / 亚马逊[en_US: \"Pastel Assorted-12 Pads\", en_CA: \"Pastel Assorted-12 Pads\", it_IT: \"Pastel Assorted-12 Pads\"和2个其他变体de_DE, fr_FR])。 要解决此问题，请按照以下步骤操作：1) 如果您发布的商品与B01NCQST12相同，请更新商品信息的'color' 属性以匹配亚马逊的目录值；2) 如果 ASIN 不正确，请确保所提供的item_id是正确的；或 3) 如果您不认同亚马逊目录中的数据，请联系销售伙伴支持以启动申诉流程。"
+- generic: 尺码
+- generic: 尺码
+- button "反馈"
+- generic: 提供产品尺码
+- generic: 提供产品尺码
+- generic: 3" x 2"
+- textbox "尺码":
+  - /placeholder: 示例： Extra Large
+  - text: 12 Pads Pack
+- text: "*"
+- generic: 零件编号
+- generic: 零件编号
+- button "反馈"
+- generic: 提供零件编号。在许多产品中，此编号与型号相同，但有些制造商会将零件编号与型号区分表示
+- generic: 提供零件编号。在许多产品中，此编号与型号相同，但有些制造商会将零件编号与型号区分表示
+- generic: 4A001
+- textbox "零件编号":
+  - /placeholder: 示例： RIV001
+  - text: 4A001
+- generic: 品項形狀
+- generic: 品項形狀
+- button "反馈"
+- generic: 指定商品形状
+- generic: 指定商品形状
+- generic: Rectangular
+- textbox "品項形狀":
+  - /placeholder: 示例： Round
+- generic: 单位计数
+- generic: 单位计数
+- button "反馈"
+- generic: 指定产品的单位数量和单位类型
+- generic: 指定产品的单位数量和单位类型
+- generic: 单位计数类型
+- generic: 单位计数类型
+- button "反馈"
+- generic: 指定可让客户做出购买决定的单位类型。一瓶苏打水可以有各种尺寸，以液盎司为单位计量；一盒螺钉用盒中螺钉的个数来计量。
+- generic: 指定可让客户做出购买决定的单位类型。一瓶苏打水可以有各种尺寸，以液盎司为单位计量；一盒螺钉用盒中螺钉的个数来计量。
+- generic "单位计数类型":
+  - generic: 示例： Count, Gram
+  - generic: 
+- generic: 单位计数
+- generic: 单位计数
+- button "反馈"
+- generic: 指定产品的单位数量可用于计算产品的每单位价格。
+- generic: 指定产品的单位数量可用于计算产品的每单位价格。
+- generic: "25.0"
+- spinbutton "单位计数"
+- generic: 产品网站发布日期
+- generic: 产品网站发布日期
+- button "反馈"
+- generic: 提供产品发布的日期，应首先显示在亚马逊网站上（YYYY-MM-DD 格式）。PSLD（产品网站发布日期）不会影响购买性或预订逻辑性，它用于表示产品何时在亚马逊网站上可见和可搜索
+- generic: 提供产品发布的日期，应首先显示在亚马逊网站上（YYYY-MM-DD 格式）。PSLD（产品网站发布日期）不会影响购买性或预订逻辑性，它用于表示产品何时在亚马逊网站上可见和可搜索
+- generic: 2018-03-05T08:00:00.000Z
+- button "Calendar":
+  - generic: 
+- textbox "产品网站发布日期":
+  - /placeholder: YYYY-MM-DD
+  - text: 2018-03-05
+- generic: 建议用法
+- generic: 建议用法
+- button "反馈"
+- generic: 从有效值列表中选择。
+- generic: 从有效值列表中选择。
+- textbox "建议用法":
+  - /placeholder: 示例： Book Tab
+- link "添加更多":
+  - /url: javascript:void(0);
+  - generic: 添加更多
+- generic: 包装尺寸名称
+- generic: 包装尺寸名称
+- button "反馈"
+- generic: 出现在外包装上的营销名称，向客户描述了包装的尺寸。当产品按数量或重量提供，并且制造商指定了不同尺寸的包装名称（例如“特大包装”、“经济包装”等）时使用。
+- generic: 出现在外包装上的营销名称，向客户描述了包装的尺寸。当产品按数量或重量提供，并且制造商指定了不同尺寸的包装名称（例如“特大包装”、“经济包装”等）时使用。
+- textbox "包装尺寸名称":
+  - /placeholder: 示例： Economy Pack, Jumbo Pack
+- generic: 内包装数量
+- generic: 内包装数量
+- button "反馈"
+- generic: 提供商品中包含的内包装数量。对于单个包装或非相同商品的包装组合,请输入1。
+- generic: 提供商品中包含的内包装数量。对于单个包装或非相同商品的包装组合,请输入1。
+- spinbutton "内包装数量"
+- text: "*"
+- generic: 商品重量
+- generic: 商品重量
+- button "反馈"
+- generic: 商品的重量。
+- generic: 商品的重量。
+- text: "*"
+- generic: 商品重量
+- generic: 商品重量
+- button "反馈"
+- generic: 给定商品重量数值（不含包装）
+- generic: 给定商品重量数值（不含包装）
+- generic: "28.8"
+- spinbutton "商品重量": "28.80"
+- text: "*"
+- generic: 商品重量单位
+- generic: 商品重量单位
+- button "反馈"
+- generic: 选择相应的单位
+- generic: 选择相应的单位
+- generic: Pounds
+- generic "商品重量单位":
+  - generic "Pounds":
+    - generic: Pounds
+    - button "清除":
+      - generic: 
+    - generic: 
+- text: 继续 变种
+- generic: 
+- link "站点地图":
+  - /url: /sitemap
+- link "计划政策":
+  - /url: /help/hub/reference/521
+- generic: © 1999-2026，Amazon.com, Inc. 或其附属公司
+- link "反馈":
+  - /url: "#"

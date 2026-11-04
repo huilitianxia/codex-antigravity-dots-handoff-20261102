@@ -1,0 +1,44 @@
+{
+  "source": "175793876516020757.txt",
+  "filter": "US, USD, not Cancelled; item-price before refunds; Pending included if values present",
+  "rows": 686,
+  "uniqueOrders": 668,
+  "itemSales": 13965.2999999999,
+  "channels": [
+    {
+      "channel": "Amazon",
+      "rows": 672,
+      "orders": 654,
+      "sales": 13741.829999999902
+    },
+    {
+      "channel": "Merchant",
+      "rows": 14,
+      "orders": 14,
+      "sales": 223.47
+    }
+  ],
+  "geo": [
+    {
+      "region": "Eastern-only states",
+      "rows": 231,
+      "orders": 227,
+      "sales": 4703.74999999998,
+      "share": 33.68
+    },
+    {
+      "region": "Other or mixed-time-zone states",
+      "rows": 351,
+      "orders": 342,
+      "sales": 7013.359999999958,
+      "share": 50.22
+    },
+    {
+      "region": "West Coast CA OR WA",
+      "rows": 104,
+      "orders": 99,
+      "sales": 2248.1899999999996,
+      "share": 16.1
+    }
+  ]
+}

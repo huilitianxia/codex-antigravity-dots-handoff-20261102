@@ -1,0 +1,51 @@
+{
+  "as_of_utc": "2026-11-01T10:22:45.086020+00:00",
+  "source": "Live Seller Central orders-v3/search; ASIN selected; last-30 selected; 4A USA account",
+  "read_only": true,
+  "scope": [
+    "B07K8L4K8K",
+    "B07JVSYNYV",
+    "B0F2TJZ8GM",
+    "B0FGJR49SW"
+  ],
+  "results": [
+    {
+      "asin": "B07K8L4K8K",
+      "sku": "4A BS 1801",
+      "all_orders": 1,
+      "paid_non_cancelled_orders": 1,
+      "units": 1,
+      "amount_usd": 17.99,
+      "latest_paid_order_time_display": "2026/10/21 07:45 PDT",
+      "order_id": "113-2784733-2635408",
+      "status_display": "付款完成"
+    },
+    {
+      "asin": "B07JVSYNYV",
+      "sku": "4A BS 1801-FBA",
+      "all_orders": 2,
+      "paid_non_cancelled_orders": 0,
+      "cancelled_orders": 2,
+      "cancellation_order_times_display": [
+        "2026/10/31 04:56 PDT",
+        "2026/10/31 00:54 PDT"
+      ]
+    },
+    {
+      "asin": "B0F2TJZ8GM",
+      "all_orders": 0,
+      "paid_non_cancelled_orders": 0,
+      "cancelled_orders": 0
+    },
+    {
+      "asin": "B0FGJR49SW",
+      "all_orders": 0,
+      "paid_non_cancelled_orders": 0,
+      "cancelled_orders": 0
+    }
+  ],
+  "new_orders_after_existing_10_31_export_found": false,
+  "latest_valid_purchase_date": "2026-10-21",
+  "pending_orders_observed": 0,
+  "refund_button_is_action_not_refund_status": true
+}

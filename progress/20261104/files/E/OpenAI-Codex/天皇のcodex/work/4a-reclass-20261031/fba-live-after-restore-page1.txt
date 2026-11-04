@@ -1,0 +1,2461 @@
+- navigation:
+  - button "菜单":
+  - generic: 菜单
+  - button:
+  - navigation:
+    - searchbox
+    - link:
+      - /url: /amazonsell/business
+      - generic: 我的业务
+    - button:
+      - generic: 商品
+    - link:
+      - /url: /amazonsell/listings
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/manage-products
+      - text: 管理商品
+      - button:
+    - link:
+      - /url: /pricing/health
+      - text: 管理定价
+      - button:
+    - link:
+      - /url: /product-search
+      - text: 添加商品
+      - button:
+    - link:
+      - /url: /feedback-manager/index.html
+      - text: 分析评论
+      - button:
+    - link:
+      - /url: /new-product-guidance
+      - text: 研究商品
+      - button:
+    - link:
+      - /url: /gex
+      - text: 全球开店
+      - button:
+    - link:
+      - /url: /listing/reports
+      - text: 商品报告
+      - button:
+    - button:
+      - generic: 供应链
+    - link:
+      - /url: /amazonsell/inventory
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/fba-inventory
+      - text: 管理亚马逊库存
+      - button:
+    - link:
+      - /url: /global-store
+      - text: 管理海外购
+      - button:
+    - link:
+      - /url: /seller-fulfilled-product/analytics
+      - text: 管理卖家自配送库存
+      - button:
+    - link:
+      - /url: /manage/shipments
+      - text: 管理货件
+      - button:
+    - link:
+      - /url: /fba/sendtoamazon
+      - text: Send to Amazon
+      - button:
+    - link:
+      - /url: /channel-manager
+      - text: 管理渠道目的地
+      - button:
+    - link:
+      - /url: https://supplychain.amazon.com/scp/login?utm_source=ngs_persistence_link
+      - text: 供应链控制面板
+      - button:
+    - link:
+      - /url: /reportcentral/WelcomePage
+      - text: 供应链报告
+      - button:
+    - button:
+      - generic: 订单
+    - link:
+      - /url: /amazonsell/orders
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/orders/mfn
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /amazonsell/orders/fba
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /business/manage-quotes
+      - text: 管理报价
+      - button:
+    - link:
+      - /url: /manage/returns/mfn
+      - text: 管理退货
+      - button:
+    - link:
+      - /url: /gp/chargebacks/home.html
+      - text: 管理索赔
+      - button:
+    - link:
+      - /url: /order-reports-and-feeds/reports
+      - text: 订单报告
+      - button:
+    - button:
+      - generic: 营销推广
+    - link:
+      - /url: /amazonsell/marketing
+      - text: 工作区
+    - link:
+      - /url: /promotion-central/dashboard
+      - text: 管理促销和特惠
+      - button:
+    - link:
+      - /url: /brand-analytics
+      - text: 品牌分析
+      - button:
+    - link:
+      - /url: /cm?source=ngs
+      - text: 广告控制台
+      - button:
+    - link:
+      - /url: /vine
+      - text: Vine
+      - button:
+    - button:
+      - generic: 财务人员
+    - link:
+      - /url: /amazonsell/payments
+      - text: 工作区
+    - link:
+      - /url: /manage/finance/transactions
+      - text: 管理交易
+      - button:
+    - link:
+      - /url: /managetaxes/global-transaction-reports
+      - text: 管理税费
+      - button:
+    - link:
+      - /url: /economics
+      - text: 利润分析
+      - button:
+    - link:
+      - /url: /manage/finance/reports
+      - text: 财务报告
+      - button:
+    - button:
+      - generic: 账户状况
+    - link:
+      - /url: /performance/dashboard
+      - text: 管理账户状况
+      - button:
+    - button:
+      - generic: 计划和应用程序
+    - link:
+      - /url: /recommended-programs
+      - text: 了解计划
+      - button:
+    - link:
+      - /url: /selling-partner-appstore
+      - text: 销售伙伴应用商店
+      - button:
+    - link:
+      - /url: /tsba
+      - text: 浏览服务
+      - button:
+  - link:
+    - /url: /sitemap
+    - text: 站点地图
+  - link:
+    - /url: /home?ngs_do_not_redirect_flag=1
+    - text: 传统卖家平台
+  - link "Amazon":
+    - /url: /amazonsell
+  - button "4A (USA) LIMITED 美国":
+    - generic: 4A (USA) LIMITED
+    - generic: 美国
+  - button "账户状况":
+    - generic: 账户状况
+    - generic: 存在风险
+  - textbox "搜索任何内容"
+  - button "询问卖家助手":
+    - generic: 卖家助手
+  - link "新增内容":
+    - /url: /featurereleases
+  - link "消息":
+    - /url: /messaging/inbox-v3?fi=responseNeeded&&
+  - button "帮助":
+  - button "设置":
+- navigation:
+  - button:
+  - link "管理交易":
+    - /url: /manage/finance/transactions
+    - generic: 管理交易
+  - link "卖家大学":
+    - /url: /su/learn
+    - generic: 卖家大学
+  - link "管理商品":
+    - /url: /amazonsell/manage-products
+    - generic: 管理商品
+  - link "广告控制台":
+    - /url: /cm?source=ngs
+    - generic: 广告控制台
+  - link "管理货件":
+    - /url: /manage/shipments
+    - generic: 管理货件
+  - link "商品商机探测器":
+    - /url: /new-product-guidance
+    - generic: 商品商机探测器
+  - link "品牌分析":
+    - /url: /brand-analytics
+    - generic: 品牌分析
+  - link "A+ 商品描述管理器":
+    - /url: /enhanced-content/ref=xx_ebc_favb_xx
+    - generic: A+ 商品描述管理器
+  - link "业务报告":
+    - /url: /business-reports#/dashboard
+    - generic: 业务报告
+  - link "亚马逊物流库存报告":
+    - /url: /reportcentral/WelcomePage
+    - generic: 亚马逊物流库存报告
+  - link "商品报告":
+    - /url: /listing/reports
+    - generic: 商品报告
+  - link "绩效通知":
+    - /url: /performance/notifications
+    - generic: 绩效通知
+  - link "管理账户状况":
+    - /url: /performance/dashboard
+    - generic: 管理账户状况
+  - button:
+- list:
+  - link "管理亚马逊库存":
+    - /url: /amazonsell/fba-inventory
+  - link "管理 AWD 库存":
+    - /url: /fba-inventory/gim/inventory-list
+  - link "管理无在售信息的亚马逊库存":
+    - /url: /inventoryplanning/stranded-inventory
+  - link "管理不可售库存":
+    - /url: /myinventory/unfulfillable/index.html
+- button "✕"
+- navigation "面包屑":
+  - list:
+    - link "供应链":
+      - /url: /amazonsell/inventory
+    - generic: 管理亚马逊库存
+- main:
+  - region:
+    - list "Notifications":
+      - group "Info 试试新的“管理亚马逊物流库存”页面 我们已更新设计，让您可以快速访问所需工具。 您可以暂时返回到上一版本。":
+        - img "Info":
+        - generic: 试试新的“管理亚马逊物流库存”页面
+        - generic: 我们已更新设计，让您可以快速访问所需工具。 您可以暂时返回到上一版本。
+      - button "返回上一版本"
+      - button "Dismiss notification":
+  - heading "管理亚马逊库存 (375)" [level=1]:
+    - text: 管理亚马逊库存
+    - generic: (375)
+  - link "信息 管理亚马逊库存":
+    - /url: /help/hub/reference/GTMXYZN64UJL7TT6
+    - text: 信息
+  - button "容量监视器"
+  - button "下载需求预测"
+  - button "批量操作" [disabled]:
+    - text: 批量操作
+  - searchbox "搜索"
+  - button "推荐":
+    - generic: 推荐
+  - button "库龄":
+    - generic: 库龄
+  - button "库存状况":
+    - generic: 库存状况
+  - button "仓储类型":
+    - generic: 仓储类型
+  - button "+12 个更多筛选条件":
+    - generic: "+12"
+  - button "首选项":
+  - treegrid:
+    - rowgroup:
+      - row:
+        - columnheader:
+          - checkbox
+        - columnheader:
+          - strong: 商品
+          - button:
+          - generic: ASIN | SKU | UPC/EAN | FNSKU | 状况
+          - button
+          - slider
+        - columnheader:
+          - button:
+            - strong: 库存状况
+          - button
+          - slider
+        - columnheader:
+          - button:
+            - strong: 配送时效
+            - generic: 平均承诺天数
+          - button
+          - slider
+        - columnheader:
+          - button:
+            - strong: 总库存
+            - generic: 商品数量
+          - button
+          - slider
+        - columnheader:
+          - button:
+            - strong: 入库
+            - generic: 商品数量
+          - button
+          - slider
+        - columnheader:
+          - button:
+            - strong: 配送中
+            - generic: 现货/亚马逊物流库存
+          - button
+          - slider
+        - columnheader:
+          - button:
+            - strong: 库龄
+            - generic: 超龄附加费
+          - button
+          - slider
+        - columnheader:
+          - button:
+            - strong: 供货天数
+          - button
+          - slider
+        - columnheader:
+          - button:
+            - strong: 销售额
+            - generic: 最近 30 天
+          - button
+          - slider
+        - columnheader:
+          - button:
+            - strong: 售出率
+            - generic: 最近 90 天
+          - button
+          - slider
+        - columnheader:
+          - strong: 预计费用
+          - generic: 亚马逊物流/每件商品总计
+          - button
+          - slider
+        - columnheader:
+          - strong: 低库存水平费用
+          - generic: 历史供货天数
+          - button
+          - slider
+        - columnheader:
+          - strong: 商品价格 + 运费
+          - generic: 推荐报价
+          - button
+          - slider
+        - columnheader:
+          - strong: 商品状态
+          - button
+          - slider
+        - columnheader:
+          - strong: 补货设置
+          - button
+          - slider
+        - columnheader:
+          - strong: 操作
+          - button
+          - slider
+  - region "管理亚马逊库存":
+    - treegrid "管理亚马逊库存":
+      - rowgroup:
+        - row "商品 列选项 ASIN | SKU | UPC/EAN | FNSKU | 状况 库存状况 我们通过比较您的可售有货库存和建议的最低库存量以及预估的过剩商品数量来进行计算。 配送时效 平均承诺天数 总库存 入库、全球仓储、国内仓储和配送的总库存。 商品数量 入库 处于处理中、已发货或亚马逊运营中心待签收状态的入库货件商品数量。 商品数量 配送中 您在亚马逊中处于各种状态的库存分布情况的综合视图。 现货/亚马逊物流库存 库龄 有存货商品的库龄。 库龄商品数量 = 可售商品数量 + 预留商品数量 - 等待移除的商品数量。 请注意：库龄是每日计算一次，而可售商品数量则是实时计算得出。 因此，由于数据同步频率不同，两者之间可能存在暂时性差异。 超龄附加费 供货天数 根据商品的预期需求估算的您当前库存能够持续供货的天数。 销售额 最近 30 天 售出率 过去 90 天内售出并完成配送的商品数量除以此时间段内运营中心的平均可售商品数量。 请参阅库存绩效的常见问题部分，了解有关如何计算售出率的更多信息。 最近 90 天 预计费用 亚马逊物流/每件商品总计 低库存水平费用 历史供货天数 商品价格 + 运费 推荐报价 商品状态 补货设置 操作":
+          - columnheader:
+            - checkbox
+          - columnheader "商品 列选项 ASIN | SKU | UPC/EAN | FNSKU | 状况":
+            - strong: 商品
+            - button "列选项":
+            - generic: ASIN | SKU | UPC/EAN | FNSKU | 状况
+            - button "商品 列选项 ASIN | SKU | UPC/EAN | FNSKU | 状况"
+            - slider
+          - columnheader "库存状况 我们通过比较您的可售有货库存和建议的最低库存量以及预估的过剩商品数量来进行计算。":
+            - button "库存状况 我们通过比较您的可售有货库存和建议的最低库存量以及预估的过剩商品数量来进行计算。":
+              - strong: 库存状况
+              - img "我们通过比较您的可售有货库存和建议的最低库存量以及预估的过剩商品数量来进行计算。":
+            - button "库存状况 我们通过比较您的可售有货库存和建议的最低库存量以及预估的过剩商品数量来进行计算。"
+            - slider
+          - columnheader "配送时效 平均承诺天数":
+            - button "配送时效 平均承诺天数":
+              - strong: 配送时效
+              - generic: 平均承诺天数
+            - button "配送时效 平均承诺天数"
+            - slider
+          - columnheader "总库存 入库、全球仓储、国内仓储和配送的总库存。 商品数量":
+            - button "总库存 入库、全球仓储、国内仓储和配送的总库存。 商品数量":
+              - strong: 总库存
+              - img "入库、全球仓储、国内仓储和配送的总库存。":
+              - generic: 商品数量
+            - button "总库存 入库、全球仓储、国内仓储和配送的总库存。 商品数量"
+            - slider
+          - columnheader "入库 处于处理中、已发货或亚马逊运营中心待签收状态的入库货件商品数量。 商品数量":
+            - button "入库 处于处理中、已发货或亚马逊运营中心待签收状态的入库货件商品数量。 商品数量":
+              - strong: 入库
+              - img "处于处理中、已发货或亚马逊运营中心待签收状态的入库货件商品数量。":
+              - generic: 商品数量
+            - button "入库 处于处理中、已发货或亚马逊运营中心待签收状态的入库货件商品数量。 商品数量"
+            - slider
+          - columnheader "配送中 您在亚马逊中处于各种状态的库存分布情况的综合视图。 现货/亚马逊物流库存":
+            - button "配送中 您在亚马逊中处于各种状态的库存分布情况的综合视图。 现货/亚马逊物流库存":
+              - strong: 配送中
+              - img "您在亚马逊中处于各种状态的库存分布情况的综合视图。":
+              - generic: 现货/亚马逊物流库存
+            - button "配送中 您在亚马逊中处于各种状态的库存分布情况的综合视图。 现货/亚马逊物流库存"
+            - slider
+          - columnheader "库龄 有存货商品的库龄。 库龄商品数量 = 可售商品数量 + 预留商品数量 - 等待移除的商品数量。 请注意：库龄是每日计算一次，而可售商品数量则是实时计算得出。 因此，由于数据同步频率不同，两者之间可能存在暂时性差异。 超龄附加费":
+            - button "库龄 有存货商品的库龄。 库龄商品数量 = 可售商品数量 + 预留商品数量 - 等待移除的商品数量。 请注意：库龄是每日计算一次，而可售商品数量则是实时计算得出。 因此，由于数据同步频率不同，两者之间可能存在暂时性差异。 超龄附加费":
+              - strong: 库龄
+              - img "有存货商品的库龄。 库龄商品数量 = 可售商品数量 + 预留商品数量 - 等待移除的商品数量。 请注意：库龄是每日计算一次，而可售商品数量则是实时计算得出。 因此，由于数据同步频率不同，两者之间可能存在暂时性差异。":
+              - generic: 超龄附加费
+            - button "库龄 有存货商品的库龄。 库龄商品数量 = 可售商品数量 + 预留商品数量 - 等待移除的商品数量。 请注意：库龄是每日计算一次，而可售商品数量则是实时计算得出。 因此，由于数据同步频率不同，两者之间可能存在暂时性差异。 超龄附加费"
+            - slider
+          - columnheader "供货天数 根据商品的预期需求估算的您当前库存能够持续供货的天数。":
+            - button "供货天数 根据商品的预期需求估算的您当前库存能够持续供货的天数。":
+              - strong: 供货天数
+              - img "根据商品的预期需求估算的您当前库存能够持续供货的天数。":
+            - button "供货天数 根据商品的预期需求估算的您当前库存能够持续供货的天数。"
+            - slider
+          - columnheader "销售额 最近 30 天":
+            - button "销售额 最近 30 天":
+              - strong: 销售额
+              - generic: 最近 30 天
+            - button "销售额 最近 30 天"
+            - slider
+          - columnheader "售出率 过去 90 天内售出并完成配送的商品数量除以此时间段内运营中心的平均可售商品数量。 请参阅库存绩效的常见问题部分，了解有关如何计算售出率的更多信息。 最近 90 天":
+            - button "售出率 过去 90 天内售出并完成配送的商品数量除以此时间段内运营中心的平均可售商品数量。 请参阅库存绩效的常见问题部分，了解有关如何计算售出率的更多信息。 最近 90 天":
+              - strong: 售出率
+              - img "过去 90 天内售出并完成配送的商品数量除以此时间段内运营中心的平均可售商品数量。 请参阅库存绩效的常见问题部分，了解有关如何计算售出率的更多信息。":
+              - generic: 最近 90 天
+            - button "售出率 过去 90 天内售出并完成配送的商品数量除以此时间段内运营中心的平均可售商品数量。 请参阅库存绩效的常见问题部分，了解有关如何计算售出率的更多信息。 最近 90 天"
+            - slider
+          - columnheader "预计费用 亚马逊物流/每件商品总计":
+            - strong: 预计费用
+            - generic: 亚马逊物流/每件商品总计
+            - button "预计费用 亚马逊物流/每件商品总计"
+            - slider
+          - columnheader "低库存水平费用 历史供货天数":
+            - strong: 低库存水平费用
+            - generic: 历史供货天数
+            - button "低库存水平费用 历史供货天数"
+            - slider
+          - columnheader "商品价格 + 运费 推荐报价":
+            - strong: 商品价格 + 运费
+            - generic: 推荐报价
+            - button "商品价格 + 运费 推荐报价"
+            - slider
+          - columnheader "商品状态":
+            - strong: 商品状态
+            - button "商品状态"
+            - slider
+          - columnheader "补货设置":
+            - strong: 补货设置
+            - button "补货设置"
+            - slider
+          - columnheader "操作":
+            - strong: 操作
+            - button "操作"
+            - slider
+      - rowgroup:
+        - 'row "4A Sticky Full Adhesive Notes,3 1/3 x 3 Inches,80 Sheets/Color,Self-Stick Notes,5 Colors/Pack,400 Sheets Total,4A 303-Full Adhesive-400 4A Sticky Full Adhesive Notes,3 1/3 x 3 Inches,80 Sheets/Color,Self-Stick Notes,5 Colors/Pack,400 Sheets Total,4A 303-Full Adhesive-400 B07QXJYTZ7 | 4A 303-Full Adhesive-400 | 7028771218632 X0024HJH4X | 新增 建议 最低 量：189 件 | 在 Nov 6, 2026 前运送 389 件商品 查看详情 2.6 88 0 65/88 74 查看详情 $0.00/mo 12 9 现货 $3,961.71 3.094 ↑ 0.168 $4.47 / $7.92 计算收入 亚马逊将收取费用 27.9 $22.99 $22.99 + $0.00 Min: $22.99 Max: $22.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A Sticky Full Adhesive Notes,3 1/3 x 3 Inches,80 Sheets/Color,Self-Stick Notes,5 Colors/Pack,400 Sheets Total,4A 303-Full Adhesive-400 4A Sticky Full Adhesive Notes,3 1/3 x 3 Inches,80 Sheets/Color,Self-Stick Notes,5 Colors/Pack,400 Sheets Total,4A 303-Full Adhesive-400 B07QXJYTZ7 | 4A 303-Full Adhesive-400 | 7028771218632 X0024HJH4X | 新增":
+            - img "4A Sticky Full Adhesive Notes,3 1/3 x 3 Inches,80 Sheets/Color,Self-Stick Notes,5 Colors/Pack,400 Sheets Total,4A 303-Full Adhesive-400"
+            - link "4A Sticky Full Adhesive Notes,3 1/3 x 3 Inches,80 Sheets/Color,Self-Stick Notes,5 Colors/Pack,400 Sheets Total,4A 303-Full Adhesive-400":
+              - /url: https://www.amazon.com/dp/B07QXJYTZ7
+            - text: B07QXJYTZ7
+            - generic: "|"
+            - link "4A 303-Full Adhesive-400":
+              - /url: /skucentral?mSku=4A%20303-Full%20Adhesive-400&condition=New
+            - generic: "|"
+            - text: "7028771218632"
+            - text: X0024HJH4X
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：189 件 | 在 Nov 6, 2026 前运送 389 件商品 查看详情":
+            - status:
+              - generic: 低库存
+            - generic: 建议 最低 量：189 件 | 在 Nov 6, 2026 前运送 389 件商品
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "2.6":
+            - generic: "2.6"
+          - gridcell "88":
+            - link "88":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "65/88 74":
+            - button "65/88":
+              - generic: 65/88
+            - progressbar
+            - generic: 74%
+          - gridcell "查看详情 $0.00/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.00/mo
+          - gridcell "12 9 现货":
+            - generic: "12"
+            - generic: 9 现货
+          - gridcell "$3,961.71":
+            - button "$3,961.71":
+              - generic: $3,961.71
+          - gridcell "3.094 ↑ 0.168":
+            - generic: "3.094"
+            - generic: ↑ 0.168
+          - gridcell "$4.47 / $7.92 计算收入":
+            - generic: $4.47 / $7.92
+            - link "计算收入":
+              - /url: /revcal?merchantSku=4A%20303-Full%20Adhesive-400
+          - gridcell "亚马逊将收取费用 27.9":
+            - generic: 亚马逊将收取费用
+            - link "27.9":
+              - /url: "#"
+          - 'gridcell "$22.99 $22.99 + $0.00 Min: $22.99 Max: $22.99 编辑商品价格"':
+            - generic: $22.99
+            - generic: $22.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $22.99
+            - generic: "Max:"
+            - text: $22.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+        - 'row "4A Full Adhesive Sticky Notes 3 x 2 in, Bright Colors, Colorful Small Self-Stick Note Pads for Office, School Supplies, 80 Sheets/Color, 5 Colors/Pack, 400 Sheets Total,4A 302-Full Adhesive-400 4A Full Adhesive Sticky Notes 3 x 2 in, Bright Colors, Colorful Small Self-Stick Note Pads for Office, School Supplies, 80 Sheets/Color, 5 Colors/Pack, 400 Sheets Total,4A 302-Full Adhesive-400 B0F2TKL2P5 | 4A 302-Full Adhesive-400 | 702877125335 X004MJTUO3 | 新增 建议 最低 量：80 件 查看详情 - 344 0 340/344 99 查看详情 $0.00/mo 120 118 现货 $1,335.70 未来销售季 0.628 ↑ 0.005 $4.36 / $7.06 计算收入 已免除费用 152.2 $17.99 $17.99 + $0.00 Min: $17.99 Max: $17.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A Full Adhesive Sticky Notes 3 x 2 in, Bright Colors, Colorful Small Self-Stick Note Pads for Office, School Supplies, 80 Sheets/Color, 5 Colors/Pack, 400 Sheets Total,4A 302-Full Adhesive-400 4A Full Adhesive Sticky Notes 3 x 2 in, Bright Colors, Colorful Small Self-Stick Note Pads for Office, School Supplies, 80 Sheets/Color, 5 Colors/Pack, 400 Sheets Total,4A 302-Full Adhesive-400 B0F2TKL2P5 | 4A 302-Full Adhesive-400 | 702877125335 X004MJTUO3 | 新增":
+            - img "4A Full Adhesive Sticky Notes 3 x 2 in, Bright Colors, Colorful Small Self-Stick Note Pads for Office, School Supplies, 80 Sheets/Color, 5 Colors/Pack, 400 Sheets Total,4A 302-Full Adhesive-400"
+            - link "4A Full Adhesive Sticky Notes 3 x 2 in, Bright Colors, Colorful Small Self-Stick Note Pads for Office, School Supplies, 80 Sheets/Color, 5 Colors/Pack, 400 Sheets Total,4A 302-Full Adhesive-400":
+              - /url: https://www.amazon.com/dp/B0F2TKL2P5
+            - text: B0F2TKL2P5
+            - generic: "|"
+            - link "4A 302-Full Adhesive-400":
+              - /url: /skucentral?mSku=4A%20302-Full%20Adhesive-400&condition=New
+            - generic: "|"
+            - text: "702877125335"
+            - text: X004MJTUO3
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：80 件 查看详情":
+            - status:
+              - generic: 良好
+            - generic: 建议 最低 量：80 件
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "344":
+            - link "344":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "340/344 99":
+            - button "340/344":
+              - generic: 340/344
+            - progressbar
+            - generic: 99%
+          - gridcell "查看详情 $0.00/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.00/mo
+          - gridcell "120 118 现货":
+            - generic: "120"
+            - generic: 118 现货
+          - gridcell "$1,335.70 未来销售季":
+            - button "$1,335.70":
+              - generic: $1,335.70
+            - link "未来销售季":
+              - /url: "#"
+          - gridcell "0.628 ↑ 0.005":
+            - generic: "0.628"
+            - generic: ↑ 0.005
+          - gridcell "$4.36 / $7.06 计算收入":
+            - generic: $4.36 / $7.06
+            - link "计算收入":
+              - /url: /revcal?merchantSku=4A%20302-Full%20Adhesive-400
+          - gridcell "已免除费用 152.2":
+            - generic: 已免除费用
+            - link "152.2":
+              - /url: "#"
+          - 'gridcell "$17.99 $17.99 + $0.00 Min: $17.99 Max: $17.99 编辑商品价格"':
+            - generic: $17.99
+            - generic: $17.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $17.99
+            - generic: "Max:"
+            - text: $17.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+        - 'row "4A 5 Pads Full Adhesive Sticky Notes 3 x 5 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Home Office School Supplies, 20 Sheets/Pad, 100 Sheets Total, 4A 305-Full Adhesive 4A 5 Pads Full Adhesive Sticky Notes 3 x 5 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Home Office School Supplies, 20 Sheets/Pad, 100 Sheets Total, 4A 305-Full Adhesive B0FBG138ND | 4A 305-Full Adhesive | 702877125625 X004PE1MLJ | 新增 建议 最低 量：105 件 查看详情 - 433 0 429/433 99 查看详情 $0.00/mo 118 117 现货 $1,349.00 未来销售季 0.741 ↑ 0.04 $3.74 / $5.39 计算收入 未收取费用 136.4 $10.99 $10.99 + $0.00 Min: $10.99 Max: $10.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A 5 Pads Full Adhesive Sticky Notes 3 x 5 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Home Office School Supplies, 20 Sheets/Pad, 100 Sheets Total, 4A 305-Full Adhesive 4A 5 Pads Full Adhesive Sticky Notes 3 x 5 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Home Office School Supplies, 20 Sheets/Pad, 100 Sheets Total, 4A 305-Full Adhesive B0FBG138ND | 4A 305-Full Adhesive | 702877125625 X004PE1MLJ | 新增":
+            - img "4A 5 Pads Full Adhesive Sticky Notes 3 x 5 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Home Office School Supplies, 20 Sheets/Pad, 100 Sheets Total, 4A 305-Full Adhesive"
+            - link "4A 5 Pads Full Adhesive Sticky Notes 3 x 5 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Home Office School Supplies, 20 Sheets/Pad, 100 Sheets Total, 4A 305-Full Adhesive":
+              - /url: https://www.amazon.com/dp/B0FBG138ND
+            - text: B0FBG138ND
+            - generic: "|"
+            - link "4A 305-Full Adhesive":
+              - /url: /skucentral?mSku=4A%20305-Full%20Adhesive&condition=New
+            - generic: "|"
+            - text: "702877125625"
+            - text: X004PE1MLJ
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：105 件 查看详情":
+            - status:
+              - generic: 良好
+            - generic: 建议 最低 量：105 件
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "433":
+            - link "433":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "429/433 99":
+            - button "429/433":
+              - generic: 429/433
+            - progressbar
+            - generic: 99%
+          - gridcell "查看详情 $0.00/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.00/mo
+          - gridcell "118 117 现货":
+            - generic: "118"
+            - generic: 117 现货
+          - gridcell "$1,349.00 未来销售季":
+            - button "$1,349.00":
+              - generic: $1,349.00
+            - link "未来销售季":
+              - /url: "#"
+          - gridcell "0.741 ↑ 0.04":
+            - generic: "0.741"
+            - generic: ↑ 0.04
+          - gridcell "$3.74 / $5.39 计算收入":
+            - generic: $3.74 / $5.39
+            - link "计算收入":
+              - /url: /revcal?merchantSku=4A%20305-Full%20Adhesive
+          - gridcell "未收取费用 136.4":
+            - generic: 未收取费用
+            - link "136.4":
+              - /url: "#"
+          - 'gridcell "$10.99 $10.99 + $0.00 Min: $10.99 Max: $10.99 编辑商品价格"':
+            - generic: $10.99
+            - generic: $10.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $10.99
+            - generic: "Max:"
+            - text: $10.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+        - 'row "4A 4 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Yellow Sticky Notes with Lines Long Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5082-Y-Lx2 4A 4 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Yellow Sticky Notes with Lines Long Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5082-Y-Lx2 B0F9L5G6XQ | 4A 5082-Y-Lx2 | 702877125588 X004P1W63P | 新增 建议 最低 量：87 件 查看详情 - 296 0 292/296 99 查看详情 $0.00/mo 169 167 现货 $1,026.95 未来销售季 0.709 ↓ 0.005 $5.06 / $8.06 计算收入 已免除费用 148.1 $19.99 $19.99 + $0.00 Min: $19.99 Max: $19.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A 4 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Yellow Sticky Notes with Lines Long Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5082-Y-Lx2 4A 4 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Yellow Sticky Notes with Lines Long Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5082-Y-Lx2 B0F9L5G6XQ | 4A 5082-Y-Lx2 | 702877125588 X004P1W63P | 新增":
+            - img "4A 4 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Yellow Sticky Notes with Lines Long Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5082-Y-Lx2"
+            - link "4A 4 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Yellow Sticky Notes with Lines Long Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5082-Y-Lx2":
+              - /url: https://www.amazon.com/dp/B0F9L5G6XQ
+            - text: B0F9L5G6XQ
+            - generic: "|"
+            - link "4A 5082-Y-Lx2":
+              - /url: /skucentral?mSku=4A%205082-Y-Lx2&condition=New
+            - generic: "|"
+            - text: "702877125588"
+            - text: X004P1W63P
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：87 件 查看详情":
+            - status:
+              - generic: 良好
+            - generic: 建议 最低 量：87 件
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "296":
+            - link "296":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "292/296 99":
+            - button "292/296":
+              - generic: 292/296
+            - progressbar
+            - generic: 99%
+          - gridcell "查看详情 $0.00/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.00/mo
+          - gridcell "169 167 现货":
+            - generic: "169"
+            - generic: 167 现货
+          - gridcell "$1,026.95 未来销售季":
+            - button "$1,026.95":
+              - generic: $1,026.95
+            - link "未来销售季":
+              - /url: "#"
+          - gridcell "0.709 ↓ 0.005":
+            - generic: "0.709"
+            - generic: ↓ 0.005
+          - gridcell "$5.06 / $8.06 计算收入":
+            - generic: $5.06 / $8.06
+            - link "计算收入":
+              - /url: /revcal?merchantSku=4A%205082-Y-Lx2
+          - gridcell "已免除费用 148.1":
+            - generic: 已免除费用
+            - link "148.1":
+              - /url: "#"
+          - 'gridcell "$19.99 $19.99 + $0.00 Min: $19.99 Max: $19.99 编辑商品价格"':
+            - generic: $19.99
+            - generic: $19.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $19.99
+            - generic: "Max:"
+            - text: $19.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+        - 'row "4A 10 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 20 Sheets/Pad, 200 Sheets Total, 4A 304-Full Gluex2 4A 10 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 20 Sheets/Pad, 200 Sheets Total, 4A 304-Full Gluex2 B07FK975YB | AAAA 4A 304-Full Glue | 702877122341 B07FK975YB | 新增 建议 最低 量：97 件 查看详情 - 376 0 372/376 99 查看详情 $0.00/mo 179 177 现货 $701.46 未来销售季 0.485 ↑ 0.001 $3.74 / $5.69 计算收入 已免除费用 206.5 $12.99 $12.99 + $0.00 Min: $12.99 Max: $12.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A 10 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 20 Sheets/Pad, 200 Sheets Total, 4A 304-Full Gluex2 4A 10 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 20 Sheets/Pad, 200 Sheets Total, 4A 304-Full Gluex2 B07FK975YB | AAAA 4A 304-Full Glue | 702877122341 B07FK975YB | 新增":
+            - img "4A 10 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 20 Sheets/Pad, 200 Sheets Total, 4A 304-Full Gluex2"
+            - link "4A 10 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 20 Sheets/Pad, 200 Sheets Total, 4A 304-Full Gluex2":
+              - /url: https://www.amazon.com/dp/B07FK975YB
+            - text: B07FK975YB
+            - generic: "|"
+            - link "AAAA 4A 304-Full Glue":
+              - /url: /skucentral?mSku=AAAA%204A%20304-Full%20Glue&condition=New
+            - generic: "|"
+            - text: "702877122341"
+            - text: B07FK975YB
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：97 件 查看详情":
+            - status:
+              - generic: 良好
+            - generic: 建议 最低 量：97 件
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "376":
+            - link "376":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "372/376 99":
+            - button "372/376":
+              - generic: 372/376
+            - progressbar
+            - generic: 99%
+          - gridcell "查看详情 $0.00/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.00/mo
+          - gridcell "179 177 现货":
+            - generic: "179"
+            - generic: 177 现货
+          - gridcell "$701.46 未来销售季":
+            - button "$701.46":
+              - generic: $701.46
+            - link "未来销售季":
+              - /url: "#"
+          - gridcell "0.485 ↑ 0.001":
+            - generic: "0.485"
+            - generic: ↑ 0.001
+          - gridcell "$3.74 / $5.69 计算收入":
+            - generic: $3.74 / $5.69
+            - link "计算收入":
+              - /url: /revcal?merchantSku=AAAA%204A%20304-Full%20Glue
+          - gridcell "已免除费用 206.5":
+            - generic: 已免除费用
+            - link "206.5":
+              - /url: "#"
+          - 'gridcell "$12.99 $12.99 + $0.00 Min: $12.99 Max: $12.99 编辑商品价格"':
+            - generic: $12.99
+            - generic: $12.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $12.99
+            - generic: "Max:"
+            - text: $12.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+        - 'row "4A Sticky Full Adhesive Notes,4 1/3 x 3 Inches,20 Sheets/Color,5 Colors/Pack,Self-Stick Notes,100 Sheets Total,4A 304 Full Glue 4A Sticky Full Adhesive Notes,4 1/3 x 3 Inches,20 Sheets/Color,5 Colors/Pack,Self-Stick Notes,100 Sheets Total,4A 304 Full Glue B00SMEFFRE | 4A 304 Full Glue | 702877118542 X004MPLR89 | 新增 建议 最低 量：121 件 查看详情 - 335 0 332/335 99 查看详情 $0.00/mo 146 146 现货 $723.86 0.668 ↑ 0.006 $2.77 / $4.27 计算收入 已免除费用 139.1 $9.99 $9.99 + $0.00 Min: $6.99 Max: $11.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A Sticky Full Adhesive Notes,4 1/3 x 3 Inches,20 Sheets/Color,5 Colors/Pack,Self-Stick Notes,100 Sheets Total,4A 304 Full Glue 4A Sticky Full Adhesive Notes,4 1/3 x 3 Inches,20 Sheets/Color,5 Colors/Pack,Self-Stick Notes,100 Sheets Total,4A 304 Full Glue B00SMEFFRE | 4A 304 Full Glue | 702877118542 X004MPLR89 | 新增":
+            - img "4A Sticky Full Adhesive Notes,4 1/3 x 3 Inches,20 Sheets/Color,5 Colors/Pack,Self-Stick Notes,100 Sheets Total,4A 304 Full Glue"
+            - link "4A Sticky Full Adhesive Notes,4 1/3 x 3 Inches,20 Sheets/Color,5 Colors/Pack,Self-Stick Notes,100 Sheets Total,4A 304 Full Glue":
+              - /url: https://www.amazon.com/dp/B00SMEFFRE
+            - text: B00SMEFFRE
+            - generic: "|"
+            - link "4A 304 Full Glue":
+              - /url: /skucentral?mSku=4A%20304%20Full%20Glue&condition=New
+            - generic: "|"
+            - text: "702877118542"
+            - text: X004MPLR89
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：121 件 查看详情":
+            - status:
+              - generic: 良好
+            - generic: 建议 最低 量：121 件
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "335":
+            - link "335":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "332/335 99":
+            - button "332/335":
+              - generic: 332/335
+            - progressbar
+            - generic: 99%
+          - gridcell "查看详情 $0.00/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.00/mo
+          - gridcell "146 146 现货":
+            - generic: "146"
+            - generic: 146 现货
+          - gridcell "$723.86":
+            - button "$723.86":
+              - generic: $723.86
+          - gridcell "0.668 ↑ 0.006":
+            - generic: "0.668"
+            - generic: ↑ 0.006
+          - gridcell "$2.77 / $4.27 计算收入":
+            - generic: $2.77 / $4.27
+            - link "计算收入":
+              - /url: /revcal?merchantSku=4A%20304%20Full%20Glue
+          - gridcell "已免除费用 139.1":
+            - generic: 已免除费用
+            - link "139.1":
+              - /url: "#"
+          - 'gridcell "$9.99 $9.99 + $0.00 Min: $6.99 Max: $11.99 编辑商品价格"':
+            - generic: $9.99
+            - generic: $9.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $6.99
+            - generic: "Max:"
+            - text: $11.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+        - 'row "4A Roll Sticky Notes with Dispenser,Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6 4A Roll Sticky Notes with Dispenser,Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6 B08DKJ2K3T | 4A SCPSS 32x6 | - X002LFYT23 | 新增 建议 最低 量：60 件 | 在 Nov 7, 2026 前运送 48 件商品 查看详情 1.9 70 0 48/70 69 查看详情 $0.00/mo 37 27 现货 $473.56 1.586 ↑ 0.004 $3.74 / $5.84 计算收入 已免除费用 52.4 $13.99 $13.99 + $0.00 Min: $13.99 Max: $13.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A Roll Sticky Notes with Dispenser,Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6 4A Roll Sticky Notes with Dispenser,Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6 B08DKJ2K3T | 4A SCPSS 32x6 | - X002LFYT23 | 新增":
+            - img "4A Roll Sticky Notes with Dispenser,Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6"
+            - link "4A Roll Sticky Notes with Dispenser,Full Adhesive,Width x Length 0.6 x 393 Inches,6 Different Neon Colors,Self-Stick Notes,6 Roll/Pack,4A PSS 32x6":
+              - /url: https://www.amazon.com/dp/B08DKJ2K3T
+            - text: B08DKJ2K3T
+            - generic: "|"
+            - link "4A SCPSS 32x6":
+              - /url: /skucentral?mSku=4A%20SCPSS%2032x6&condition=New
+            - generic: "|"
+            - text: "-"
+            - text: X002LFYT23
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：60 件 | 在 Nov 7, 2026 前运送 48 件商品 查看详情":
+            - status:
+              - generic: 低库存
+            - generic: 建议 最低 量：60 件 | 在 Nov 7, 2026 前运送 48 件商品
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "1.9":
+            - generic: "1.9"
+          - gridcell "70":
+            - link "70":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "48/70 69":
+            - button "48/70":
+              - generic: 48/70
+            - progressbar
+            - generic: 69%
+          - gridcell "查看详情 $0.00/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.00/mo
+          - gridcell "37 27 现货":
+            - generic: "37"
+            - generic: 27 现货
+          - gridcell "$473.56":
+            - button "$473.56":
+              - generic: $473.56
+          - gridcell "1.586 ↑ 0.004":
+            - generic: "1.586"
+            - generic: ↑ 0.004
+          - gridcell "$3.74 / $5.84 计算收入":
+            - generic: $3.74 / $5.84
+            - link "计算收入":
+              - /url: /revcal?merchantSku=4A%20SCPSS%2032x6
+          - gridcell "已免除费用 52.4":
+            - generic: 已免除费用
+            - link "52.4":
+              - /url: "#"
+          - 'gridcell "$13.99 $13.99 + $0.00 Min: $13.99 Max: $13.99 编辑商品价格"':
+            - generic: $13.99
+            - generic: $13.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $13.99
+            - generic: "Max:"
+            - text: $13.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+        - 'row "4A 8 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 400 Sheets Total, 4A 5084-N-Lx2 4A 8 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 400 Sheets Total, 4A 5084-N-Lx2 B07FKJM2LX | AAAA 4A 5084-N-L | 702877122891 B07FKJM2LX | 新增 建议 最低 量：118 件 查看详情 - 285 0 285/285 100 查看详情 $0.00/mo 237 237 现货 $39.97 未来销售季 1.117 ↑ 0.001 $5.06 / $8.06 计算收入 已免除费用 0 $19.99 $19.99 + $0.00 Min: $19.99 Max: $19.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A 8 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 400 Sheets Total, 4A 5084-N-Lx2 4A 8 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 400 Sheets Total, 4A 5084-N-Lx2 B07FKJM2LX | AAAA 4A 5084-N-L | 702877122891 B07FKJM2LX | 新增":
+            - img "4A 8 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 400 Sheets Total, 4A 5084-N-Lx2"
+            - link "4A 8 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 400 Sheets Total, 4A 5084-N-Lx2":
+              - /url: https://www.amazon.com/dp/B07FKJM2LX
+            - text: B07FKJM2LX
+            - generic: "|"
+            - link "AAAA 4A 5084-N-L":
+              - /url: /skucentral?mSku=AAAA%204A%205084-N-L&condition=New
+            - generic: "|"
+            - text: "702877122891"
+            - text: B07FKJM2LX
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：118 件 查看详情":
+            - status:
+              - generic: 良好
+            - generic: 建议 最低 量：118 件
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "285":
+            - link "285":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "285/285 100":
+            - button "285/285":
+              - generic: 285/285
+            - progressbar
+            - generic: 100%
+          - gridcell "查看详情 $0.00/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.00/mo
+          - gridcell "237 237 现货":
+            - generic: "237"
+            - generic: 237 现货
+          - gridcell "$39.97 未来销售季":
+            - button "$39.97":
+              - generic: $39.97
+            - link "未来销售季":
+              - /url: "#"
+          - gridcell "1.117 ↑ 0.001":
+            - generic: "1.117"
+            - generic: ↑ 0.001
+          - gridcell "$5.06 / $8.06 计算收入":
+            - generic: $5.06 / $8.06
+            - link "计算收入":
+              - /url: /revcal?merchantSku=AAAA%204A%205084-N-L
+          - gridcell "已免除费用 0":
+            - generic: 已免除费用
+            - link "0":
+              - /url: "#"
+          - 'gridcell "$19.99 $19.99 + $0.00 Min: $19.99 Max: $19.99 编辑商品价格"':
+            - generic: $19.99
+            - generic: $19.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $19.99
+            - generic: "Max:"
+            - text: $19.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+        - 'row "4A 4 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5084-N-L 4A 4 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5084-N-L B07F2B49BL | 4A 5084-N-L | 702877124161 B07F2B49BL | 新增 建议 最低 量：38 件 查看详情 - 214 2 210/212 99 查看详情 $0.00/mo 263 260 现货 $72.65 未来销售季 0.831 ↓ 0.001 $5.06 / $7.46 计算收入 已免除费用 47 $15.99 $15.99 + $0.00 Min: $9.99 Max: $19.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A 4 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5084-N-L 4A 4 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5084-N-L B07F2B49BL | 4A 5084-N-L | 702877124161 B07F2B49BL | 新增":
+            - img "4A 4 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5084-N-L"
+            - link "4A 4 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5084-N-L":
+              - /url: https://www.amazon.com/dp/B07F2B49BL
+            - text: B07F2B49BL
+            - generic: "|"
+            - link "4A 5084-N-L":
+              - /url: /skucentral?mSku=4A%205084-N-L&condition=New
+            - generic: "|"
+            - text: "702877124161"
+            - text: B07F2B49BL
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：38 件 查看详情":
+            - status:
+              - generic: 良好
+            - generic: 建议 最低 量：38 件
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "214":
+            - link "214":
+              - /url: "#"
+          - gridcell "2":
+            - link "2":
+              - /url: "#"
+          - gridcell "210/212 99":
+            - button "210/212":
+              - generic: 210/212
+            - progressbar
+            - generic: 99%
+          - gridcell "查看详情 $0.00/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.00/mo
+          - gridcell "263 260 现货":
+            - generic: "263"
+            - generic: 260 现货
+          - gridcell "$72.65 未来销售季":
+            - button "$72.65":
+              - generic: $72.65
+            - link "未来销售季":
+              - /url: "#"
+          - gridcell "0.831 ↓ 0.001":
+            - generic: "0.831"
+            - generic: ↓ 0.001
+          - gridcell "$5.06 / $7.46 计算收入":
+            - generic: $5.06 / $7.46
+            - link "计算收入":
+              - /url: /revcal?merchantSku=4A%205084-N-L
+          - gridcell "已免除费用 47":
+            - generic: 已免除费用
+            - link "47":
+              - /url: "#"
+          - 'gridcell "$15.99 $15.99 + $0.00 Min: $9.99 Max: $19.99 编辑商品价格"':
+            - generic: $15.99
+            - generic: $15.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $9.99
+            - generic: "Max:"
+            - text: $19.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "更低价格"
+              - button "Actions":
+        - 'row "4A 650 Sheets Memo Cube Non-Sticky Notes, 3 1/4 x 3 1/4 Inches,Wave Patterned On 4 Sides, Non Sticky Memo Padsfor Office, School,4A MC 434 4A 650 Sheets Memo Cube Non-Sticky Notes, 3 1/4 x 3 1/4 Inches,Wave Patterned On 4 Sides, Non Sticky Memo Padsfor Office, School,4A MC 434 B07FKGDMPS | AAAA 4A MC 434 | 702877123751 B07FKGDMPS | - 建议 最低 量：30 件 | 在 Oct 30, 2026 前运送 61 件商品 查看详情 - 1 0 0/1 0 查看详情 $0.00/mo 1 0 现货 $363.77 2.053 ↑ 0.014 - 已免除费用 45.1 $0.00 $13.99 + $8.99 Min: $0.00 Max: $0.00 编辑商品价格 已删除 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A 650 Sheets Memo Cube Non-Sticky Notes, 3 1/4 x 3 1/4 Inches,Wave Patterned On 4 Sides, Non Sticky Memo Padsfor Office, School,4A MC 434 4A 650 Sheets Memo Cube Non-Sticky Notes, 3 1/4 x 3 1/4 Inches,Wave Patterned On 4 Sides, Non Sticky Memo Padsfor Office, School,4A MC 434 B07FKGDMPS | AAAA 4A MC 434 | 702877123751 B07FKGDMPS | -":
+            - img "4A 650 Sheets Memo Cube Non-Sticky Notes, 3 1/4 x 3 1/4 Inches,Wave Patterned On 4 Sides, Non Sticky Memo Padsfor Office, School,4A MC 434"
+            - link "4A 650 Sheets Memo Cube Non-Sticky Notes, 3 1/4 x 3 1/4 Inches,Wave Patterned On 4 Sides, Non Sticky Memo Padsfor Office, School,4A MC 434":
+              - /url: https://www.amazon.com/dp/B07FKGDMPS
+            - text: B07FKGDMPS
+            - generic: "|"
+            - link "AAAA 4A MC 434":
+              - /url: /skucentral?mSku=AAAA%204A%20MC%20434
+            - generic: "|"
+            - text: "702877123751"
+            - text: B07FKGDMPS
+            - generic: "|"
+            - text: "-"
+          - gridcell "建议 最低 量：30 件 | 在 Oct 30, 2026 前运送 61 件商品 查看详情":
+            - status:
+              - generic: 缺货
+            - generic: 建议 最低 量：30 件 | 在 Oct 30, 2026 前运送 61 件商品
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "1":
+            - link "1":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "0/1 0":
+            - button "0/1":
+              - generic: 0/1
+            - progressbar
+            - generic: 0%
+          - gridcell "查看详情 $0.00/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.00/mo
+          - gridcell "1 0 现货":
+            - generic: "1"
+            - generic: 0 现货
+          - gridcell "$363.77":
+            - button "$363.77":
+              - generic: $363.77
+          - gridcell "2.053 ↑ 0.014":
+            - generic: "2.053"
+            - generic: ↑ 0.014
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "已免除费用 45.1":
+            - generic: 已免除费用
+            - link "45.1":
+              - /url: "#"
+          - 'gridcell "$0.00 $13.99 + $8.99 Min: $0.00 Max: $0.00 编辑商品价格"':
+            - generic: $0.00
+            - generic: $13.99
+            - generic: +
+            - generic: $8.99
+            - generic: "Min:"
+            - text: $0.00
+            - generic: "Max:"
+            - text: $0.00
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "已删除":
+            - generic: 已删除
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+        - 'row "4A 5 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 80 Sheets/Pad, 400 Sheets Total, 4A 304-Full Adhesive-400 4A 5 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 80 Sheets/Pad, 400 Sheets Total, 4A 304-Full Adhesive-400 B07QXJWDPL | 4A 304-Full Adhesive-400 | 7028771218700 X0024G2E2B | 新增 建议 最低 量：38 件 | 365 件预计冗余商品 查看详情 - 535 0 533/535 100 查看详情 $0.00/mo 365+ 365+ 现货 $236.23 未来销售季 0.109 0 $4.64 / $7.94 计算收入 已免除费用 1,625.1 $21.99 $18.99 + $0.00 Min: $21.99 Max: $21.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A 5 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 80 Sheets/Pad, 400 Sheets Total, 4A 304-Full Adhesive-400 4A 5 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 80 Sheets/Pad, 400 Sheets Total, 4A 304-Full Adhesive-400 B07QXJWDPL | 4A 304-Full Adhesive-400 | 7028771218700 X0024G2E2B | 新增":
+            - img "4A 5 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 80 Sheets/Pad, 400 Sheets Total, 4A 304-Full Adhesive-400"
+            - link "4A 5 Pads Full Adhesive Sticky Notes 3 x 4 in, Bright Colors, Full Sticky Back Sticky Notes Self-Stick Note Pads for Office, School Supplies, 80 Sheets/Pad, 400 Sheets Total, 4A 304-Full Adhesive-400":
+              - /url: https://www.amazon.com/dp/B07QXJWDPL
+            - text: B07QXJWDPL
+            - generic: "|"
+            - link "4A 304-Full Adhesive-400":
+              - /url: /skucentral?mSku=4A%20304-Full%20Adhesive-400&condition=New
+            - generic: "|"
+            - text: "7028771218700"
+            - text: X0024G2E2B
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：38 件 | 365 件预计冗余商品 查看详情":
+            - status:
+              - generic: 冗余
+            - generic: 建议 最低 量：38 件 | 365 件预计冗余商品
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "535":
+            - link "535":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "533/535 100":
+            - button "533/535":
+              - generic: 533/535
+            - progressbar
+            - generic: 100%
+          - gridcell "查看详情 $0.00/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.00/mo
+          - gridcell "365+ 365+ 现货":
+            - generic: 365+
+            - generic: 365+ 现货
+          - gridcell "$236.23 未来销售季":
+            - button "$236.23":
+              - generic: $236.23
+            - link "未来销售季":
+              - /url: "#"
+          - gridcell "0.109 0":
+            - generic: "0.109"
+            - generic: "0"
+          - gridcell "$4.64 / $7.94 计算收入":
+            - generic: $4.64 / $7.94
+            - link "计算收入":
+              - /url: /revcal?merchantSku=4A%20304-Full%20Adhesive-400
+          - gridcell "已免除费用 1,625.1":
+            - generic: 已免除费用
+            - link "1,625.1":
+              - /url: "#"
+          - 'gridcell "$21.99 $18.99 + $0.00 Min: $21.99 Max: $21.99 编辑商品价格"':
+            - generic: $21.99
+            - generic: $18.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $21.99
+            - generic: "Max:"
+            - text: $21.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "创建商品推广广告"
+              - button "Actions":
+        - 'row "4A 12 Pads Puzzle Shaped Sticky Notes 2 7/8 x 2 4/7 in, Cute Shaped Sticky Notes Colorful Self-Stick Note Pads Fun Memo Pads for Office School Supplies, 100 Sheets/Pad, 1200 Sheets Total, 4A 5020x3 4A 12 Pads Puzzle Shaped Sticky Notes 2 7/8 x 2 4/7 in, Cute Shaped Sticky Notes Colorful Self-Stick Note Pads Fun Memo Pads for Office School Supplies, 100 Sheets/Pad, 1200 Sheets Total, 4A 5020x3 B07RN7WQ81 | 4A 5020x3 | 702877122952 X0026CLEM9 | 新增 建议 最低 量：26 件 查看详情 - 53 0 51/53 96 查看详情 $1.42/mo 102 101 现货 $524.79 未来销售季 0.478 ↑ 0.146 $5.06 / $8.96 计算收入 已免除费用 241.6 $25.99 $25.99 + $0.00 Min: $25.99 Max: $25.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A 12 Pads Puzzle Shaped Sticky Notes 2 7/8 x 2 4/7 in, Cute Shaped Sticky Notes Colorful Self-Stick Note Pads Fun Memo Pads for Office School Supplies, 100 Sheets/Pad, 1200 Sheets Total, 4A 5020x3 4A 12 Pads Puzzle Shaped Sticky Notes 2 7/8 x 2 4/7 in, Cute Shaped Sticky Notes Colorful Self-Stick Note Pads Fun Memo Pads for Office School Supplies, 100 Sheets/Pad, 1200 Sheets Total, 4A 5020x3 B07RN7WQ81 | 4A 5020x3 | 702877122952 X0026CLEM9 | 新增":
+            - img "4A 12 Pads Puzzle Shaped Sticky Notes 2 7/8 x 2 4/7 in, Cute Shaped Sticky Notes Colorful Self-Stick Note Pads Fun Memo Pads for Office School Supplies, 100 Sheets/Pad, 1200 Sheets Total, 4A 5020x3"
+            - link "4A 12 Pads Puzzle Shaped Sticky Notes 2 7/8 x 2 4/7 in, Cute Shaped Sticky Notes Colorful Self-Stick Note Pads Fun Memo Pads for Office School Supplies, 100 Sheets/Pad, 1200 Sheets Total, 4A 5020x3":
+              - /url: https://www.amazon.com/dp/B07RN7WQ81
+            - text: B07RN7WQ81
+            - generic: "|"
+            - link "4A 5020x3":
+              - /url: /skucentral?mSku=4A%205020x3&condition=New
+            - generic: "|"
+            - text: "702877122952"
+            - text: X0026CLEM9
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：26 件 查看详情":
+            - status:
+              - generic: 良好
+            - generic: 建议 最低 量：26 件
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "53":
+            - link "53":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "51/53 96":
+            - button "51/53":
+              - generic: 51/53
+            - progressbar
+            - generic: 96%
+          - gridcell "查看详情 $1.42/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $1.42/mo
+          - gridcell "102 101 现货":
+            - generic: "102"
+            - generic: 101 现货
+          - gridcell "$524.79 未来销售季":
+            - button "$524.79":
+              - generic: $524.79
+            - link "未来销售季":
+              - /url: "#"
+          - gridcell "0.478 ↑ 0.146":
+            - generic: "0.478"
+            - generic: ↑ 0.146
+          - gridcell "$5.06 / $8.96 计算收入":
+            - generic: $5.06 / $8.96
+            - link "计算收入":
+              - /url: /revcal?merchantSku=4A%205020x3
+          - gridcell "已免除费用 241.6":
+            - generic: 已免除费用
+            - link "241.6":
+              - /url: "#"
+          - 'gridcell "$25.99 $25.99 + $0.00 Min: $25.99 Max: $25.99 编辑商品价格"':
+            - generic: $25.99
+            - generic: $25.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $25.99
+            - generic: "Max:"
+            - text: $25.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+        - 'row "4A Divider Sticky Notes Tabs 2 2/3 x 2 7/8 Inches,White,Lined Sticky Notes with Lines for Notebooks,Books,Office,School Supplies,15 Sheets/Divider,4 Dividers/Pad,120 Sheets Total,4A 40609x2 4A Divider Sticky Notes Tabs 2 2/3 x 2 7/8 Inches,White,Lined Sticky Notes with Lines for Notebooks,Books,Office,School Supplies,15 Sheets/Divider,4 Dividers/Pad,120 Sheets Total,4A 40609x2 B07FKBHTDG | AAAA 4A 40609 | 702877122426 B07FKBHTDG | 新增 建议 最低 量：49 件 查看详情 - 612 0 612/612 100 查看详情 $0.00/mo 365+ 365+ 现货 $274.75 未来销售季 0.166 ↓ 0.002 $3.70 / $5.35 计算收入 已免除费用 821.3 $10.99 $10.99 + $0.00 Min: $10.99 Max: $10.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A Divider Sticky Notes Tabs 2 2/3 x 2 7/8 Inches,White,Lined Sticky Notes with Lines for Notebooks,Books,Office,School Supplies,15 Sheets/Divider,4 Dividers/Pad,120 Sheets Total,4A 40609x2 4A Divider Sticky Notes Tabs 2 2/3 x 2 7/8 Inches,White,Lined Sticky Notes with Lines for Notebooks,Books,Office,School Supplies,15 Sheets/Divider,4 Dividers/Pad,120 Sheets Total,4A 40609x2 B07FKBHTDG | AAAA 4A 40609 | 702877122426 B07FKBHTDG | 新增":
+            - img "4A Divider Sticky Notes Tabs 2 2/3 x 2 7/8 Inches,White,Lined Sticky Notes with Lines for Notebooks,Books,Office,School Supplies,15 Sheets/Divider,4 Dividers/Pad,120 Sheets Total,4A 40609x2"
+            - link "4A Divider Sticky Notes Tabs 2 2/3 x 2 7/8 Inches,White,Lined Sticky Notes with Lines for Notebooks,Books,Office,School Supplies,15 Sheets/Divider,4 Dividers/Pad,120 Sheets Total,4A 40609x2":
+              - /url: https://www.amazon.com/dp/B07FKBHTDG
+            - text: B07FKBHTDG
+            - generic: "|"
+            - link "AAAA 4A 40609":
+              - /url: /skucentral?mSku=AAAA%204A%2040609&condition=New
+            - generic: "|"
+            - text: "702877122426"
+            - text: B07FKBHTDG
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：49 件 查看详情":
+            - status:
+              - generic: 良好
+            - generic: 建议 最低 量：49 件
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "612":
+            - link "612":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "612/612 100":
+            - button "612/612":
+              - generic: 612/612
+            - progressbar
+            - generic: 100%
+          - gridcell "查看详情 $0.00/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.00/mo
+          - gridcell "365+ 365+ 现货":
+            - generic: 365+
+            - generic: 365+ 现货
+          - gridcell "$274.75 未来销售季":
+            - button "$274.75":
+              - generic: $274.75
+            - link "未来销售季":
+              - /url: "#"
+          - gridcell "0.166 ↓ 0.002":
+            - generic: "0.166"
+            - generic: ↓ 0.002
+          - gridcell "$3.70 / $5.35 计算收入":
+            - generic: $3.70 / $5.35
+            - link "计算收入":
+              - /url: /revcal?merchantSku=AAAA%204A%2040609
+          - gridcell "已免除费用 821.3":
+            - generic: 已免除费用
+            - link "821.3":
+              - /url: "#"
+          - 'gridcell "$10.99 $10.99 + $0.00 Min: $10.99 Max: $10.99 编辑商品价格"':
+            - generic: $10.99
+            - generic: $10.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $10.99
+            - generic: "Max:"
+            - text: $10.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "更低价格"
+              - button "Actions":
+        - 'row "4A 16 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Office School Supplies, 50 Sheets/Pad,16 Pads, 800 Sheets Total, 4A 5084-N-Lx4 4A 16 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Office School Supplies, 50 Sheets/Pad,16 Pads, 800 Sheets Total, 4A 5084-N-Lx4 B07MQVWLSY | 4A 5084-N-L*4 | 702877121450 X0020S17RL | 新增 建议 最低 量：13 件 | 63 件预计冗余商品 查看详情 - 76 0 76/76 100 查看详情 $0.00/mo 365+ 365+ 现货 $71.98 未来销售季 0.742 0 $8.02 / $13.42 计算收入 已免除费用 144 $35.99 $35.99 + $0.00 Min: $35.99 Max: $35.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A 16 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Office School Supplies, 50 Sheets/Pad,16 Pads, 800 Sheets Total, 4A 5084-N-Lx4 4A 16 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Office School Supplies, 50 Sheets/Pad,16 Pads, 800 Sheets Total, 4A 5084-N-Lx4 B07MQVWLSY | 4A 5084-N-L*4 | 702877121450 X0020S17RL | 新增":
+            - img "4A 16 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Office School Supplies, 50 Sheets/Pad,16 Pads, 800 Sheets Total, 4A 5084-N-Lx4"
+            - link "4A 16 Pads Lined Sticky Notes 5 x 8 in, Bright Colors, Colorful Large Sticky Notes with Lines Self-Stick Note Pads for Office School Supplies, 50 Sheets/Pad,16 Pads, 800 Sheets Total, 4A 5084-N-Lx4":
+              - /url: https://www.amazon.com/dp/B07MQVWLSY
+            - text: B07MQVWLSY
+            - generic: "|"
+            - link "4A 5084-N-L*4":
+              - /url: /skucentral?mSku=4A%205084-N-L*4&condition=New
+            - generic: "|"
+            - text: "702877121450"
+            - text: X0020S17RL
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：13 件 | 63 件预计冗余商品 查看详情":
+            - status:
+              - generic: 冗余
+            - generic: 建议 最低 量：13 件 | 63 件预计冗余商品
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "76":
+            - link "76":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "76/76 100":
+            - button "76/76":
+              - generic: 76/76
+            - progressbar
+            - generic: 100%
+          - gridcell "查看详情 $0.00/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.00/mo
+          - gridcell "365+ 365+ 现货":
+            - generic: 365+
+            - generic: 365+ 现货
+          - gridcell "$71.98 未来销售季":
+            - button "$71.98":
+              - generic: $71.98
+            - link "未来销售季":
+              - /url: "#"
+          - gridcell "0.742 0":
+            - generic: "0.742"
+            - generic: "0"
+          - gridcell "$8.02 / $13.42 计算收入":
+            - generic: $8.02 / $13.42
+            - link "计算收入":
+              - /url: /revcal?merchantSku=4A%205084-N-L*4
+          - gridcell "已免除费用 144":
+            - generic: 已免除费用
+            - link "144":
+              - /url: "#"
+          - 'gridcell "$35.99 $35.99 + $0.00 Min: $35.99 Max: $35.99 编辑商品价格"':
+            - generic: $35.99
+            - generic: $35.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $35.99
+            - generic: "Max:"
+            - text: $35.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "创建商品推广广告"
+              - button "Actions":
+        - 'row "4A 2 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Large Sticky Notes with Lines, Yellow Sticky Note Pads for Home, Office, School, 50 Sheets/Pad, 100 Sheets Total, 4A 5082-Y-L 4A 2 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Large Sticky Notes with Lines, Yellow Sticky Note Pads for Home, Office, School, 50 Sheets/Pad, 100 Sheets Total, 4A 5082-Y-L B07F2BHFJH | 4A 5082-Y-L-GM | 702877124178 X004LZLBOP | 新增 建议 最低 量：41 件 查看详情 - 113 0 77/113 68 查看详情 $1.47/mo 153 104 现货 $174.85 0.769 ↑ 0.021 $2.91 / $3.81 计算收入 已免除费用 94.3 $5.99 $5.99 + $0.00 Min: $5.99 Max: $5.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A 2 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Large Sticky Notes with Lines, Yellow Sticky Note Pads for Home, Office, School, 50 Sheets/Pad, 100 Sheets Total, 4A 5082-Y-L 4A 2 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Large Sticky Notes with Lines, Yellow Sticky Note Pads for Home, Office, School, 50 Sheets/Pad, 100 Sheets Total, 4A 5082-Y-L B07F2BHFJH | 4A 5082-Y-L-GM | 702877124178 X004LZLBOP | 新增":
+            - img "4A 2 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Large Sticky Notes with Lines, Yellow Sticky Note Pads for Home, Office, School, 50 Sheets/Pad, 100 Sheets Total, 4A 5082-Y-L"
+            - link "4A 2 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Large Sticky Notes with Lines, Yellow Sticky Note Pads for Home, Office, School, 50 Sheets/Pad, 100 Sheets Total, 4A 5082-Y-L":
+              - /url: https://www.amazon.com/dp/B07F2BHFJH
+            - text: B07F2BHFJH
+            - generic: "|"
+            - link "4A 5082-Y-L-GM":
+              - /url: /skucentral?mSku=4A%205082-Y-L-GM&condition=New
+            - generic: "|"
+            - text: "702877124178"
+            - text: X004LZLBOP
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：41 件 查看详情":
+            - status:
+              - generic: 良好
+            - generic: 建议 最低 量：41 件
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "113":
+            - link "113":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "77/113 68":
+            - button "77/113":
+              - generic: 77/113
+            - progressbar
+            - generic: 68%
+          - gridcell "查看详情 $1.47/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $1.47/mo
+          - gridcell "153 104 现货":
+            - generic: "153"
+            - generic: 104 现货
+          - gridcell "$174.85":
+            - button "$174.85":
+              - generic: $174.85
+          - gridcell "0.769 ↑ 0.021":
+            - generic: "0.769"
+            - generic: ↑ 0.021
+          - gridcell "$2.91 / $3.81 计算收入":
+            - generic: $2.91 / $3.81
+            - link "计算收入":
+              - /url: /revcal?merchantSku=4A%205082-Y-L-GM
+          - gridcell "已免除费用 94.3":
+            - generic: 已免除费用
+            - link "94.3":
+              - /url: "#"
+          - 'gridcell "$5.99 $5.99 + $0.00 Min: $5.99 Max: $5.99 编辑商品价格"':
+            - generic: $5.99
+            - generic: $5.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $5.99
+            - generic: "Max:"
+            - text: $5.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+        - 'row "4A 5 Pads Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Sticky Notes Full Adhesive Back for Home Office School Supplies, 60 Sheets/Pad, 300 Sheets Total, 4A 305-Full Adhesive-300 4A 5 Pads Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Sticky Notes Full Adhesive Back for Home Office School Supplies, 60 Sheets/Pad, 300 Sheets Total, 4A 305-Full Adhesive-300 B07QXJZKHC | 4A 305-Full Adhesive-300 | 7028771218878 X0024IK7VJ | 新增 建议 最低 量：15 件 查看详情 - 183 0 182/183 99 查看详情 $0.70/mo 365+ 365+ 现货 $227.61 未来销售季 0.269 ↑ 0.001 $4.64 / $7.94 计算收入 已免除费用 561 $21.99 $21.99 + $0.00 Min: $21.99 Max: $21.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A 5 Pads Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Sticky Notes Full Adhesive Back for Home Office School Supplies, 60 Sheets/Pad, 300 Sheets Total, 4A 305-Full Adhesive-300 4A 5 Pads Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Sticky Notes Full Adhesive Back for Home Office School Supplies, 60 Sheets/Pad, 300 Sheets Total, 4A 305-Full Adhesive-300 B07QXJZKHC | 4A 305-Full Adhesive-300 | 7028771218878 X0024IK7VJ | 新增":
+            - img "4A 5 Pads Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Sticky Notes Full Adhesive Back for Home Office School Supplies, 60 Sheets/Pad, 300 Sheets Total, 4A 305-Full Adhesive-300"
+            - link "4A 5 Pads Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Sticky Notes Full Adhesive Back for Home Office School Supplies, 60 Sheets/Pad, 300 Sheets Total, 4A 305-Full Adhesive-300":
+              - /url: https://www.amazon.com/dp/B07QXJZKHC
+            - text: B07QXJZKHC
+            - generic: "|"
+            - link "4A 305-Full Adhesive-300":
+              - /url: /skucentral?mSku=4A%20305-Full%20Adhesive-300&condition=New
+            - generic: "|"
+            - text: "7028771218878"
+            - text: X0024IK7VJ
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：15 件 查看详情":
+            - status:
+              - generic: 良好
+            - generic: 建议 最低 量：15 件
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "183":
+            - link "183":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "182/183 99":
+            - button "182/183":
+              - generic: 182/183
+            - progressbar
+            - generic: 99%
+          - gridcell "查看详情 $0.70/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.70/mo
+          - gridcell "365+ 365+ 现货":
+            - generic: 365+
+            - generic: 365+ 现货
+          - gridcell "$227.61 未来销售季":
+            - button "$227.61":
+              - generic: $227.61
+            - link "未来销售季":
+              - /url: "#"
+          - gridcell "0.269 ↑ 0.001":
+            - generic: "0.269"
+            - generic: ↑ 0.001
+          - gridcell "$4.64 / $7.94 计算收入":
+            - generic: $4.64 / $7.94
+            - link "计算收入":
+              - /url: /revcal?merchantSku=4A%20305-Full%20Adhesive-300
+          - gridcell "已免除费用 561":
+            - generic: 已免除费用
+            - link "561":
+              - /url: "#"
+          - 'gridcell "$21.99 $21.99 + $0.00 Min: $21.99 Max: $21.99 编辑商品价格"':
+            - generic: $21.99
+            - generic: $21.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $21.99
+            - generic: "Max:"
+            - text: $21.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+        - 'row "4A Sticky Note Cube, 2.5 x 2.5 in, 500 Sheets, Bubble Printed on 4 Sides, Memo Cube Sticky Blocks Stick Note Pads for Office, Home, School, 4A SMC 434 4A Sticky Note Cube, 2.5 x 2.5 in, 500 Sheets, Bubble Printed on 4 Sides, Memo Cube Sticky Blocks Stick Note Pads for Office, Home, School, 4A SMC 434 B07FKHNTRK | AAAA 4A SMC 434 | 702877123744 B07FKHNTRK | 新增 建议 最低 量：17 件 查看详情 - 26 0 26/26 100 查看详情 $0.00/mo 39 39 现货 $297.81 1.019 ↑ 0.043 $4.36 / $6.76 计算收入 已免除费用 89 $15.99 $15.99 + $0.00 Min: $15.99 Max: $15.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A Sticky Note Cube, 2.5 x 2.5 in, 500 Sheets, Bubble Printed on 4 Sides, Memo Cube Sticky Blocks Stick Note Pads for Office, Home, School, 4A SMC 434 4A Sticky Note Cube, 2.5 x 2.5 in, 500 Sheets, Bubble Printed on 4 Sides, Memo Cube Sticky Blocks Stick Note Pads for Office, Home, School, 4A SMC 434 B07FKHNTRK | AAAA 4A SMC 434 | 702877123744 B07FKHNTRK | 新增":
+            - img "4A Sticky Note Cube, 2.5 x 2.5 in, 500 Sheets, Bubble Printed on 4 Sides, Memo Cube Sticky Blocks Stick Note Pads for Office, Home, School, 4A SMC 434"
+            - link "4A Sticky Note Cube, 2.5 x 2.5 in, 500 Sheets, Bubble Printed on 4 Sides, Memo Cube Sticky Blocks Stick Note Pads for Office, Home, School, 4A SMC 434":
+              - /url: https://www.amazon.com/dp/B07FKHNTRK
+            - text: B07FKHNTRK
+            - generic: "|"
+            - link "AAAA 4A SMC 434":
+              - /url: /skucentral?mSku=AAAA%204A%20SMC%20434&condition=New
+            - generic: "|"
+            - text: "702877123744"
+            - text: B07FKHNTRK
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：17 件 查看详情":
+            - status:
+              - generic: 良好
+            - generic: 建议 最低 量：17 件
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "26":
+            - link "26":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "26/26 100":
+            - button "26/26":
+              - generic: 26/26
+            - progressbar
+            - generic: 100%
+          - gridcell "查看详情 $0.00/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.00/mo
+          - gridcell "39 39 现货":
+            - generic: "39"
+            - generic: 39 现货
+          - gridcell "$297.81":
+            - button "$297.81":
+              - generic: $297.81
+          - gridcell "1.019 ↑ 0.043":
+            - generic: "1.019"
+            - generic: ↑ 0.043
+          - gridcell "$4.36 / $6.76 计算收入":
+            - generic: $4.36 / $6.76
+            - link "计算收入":
+              - /url: /revcal?merchantSku=AAAA%204A%20SMC%20434
+          - gridcell "已免除费用 89":
+            - generic: 已免除费用
+            - link "89":
+              - /url: "#"
+          - 'gridcell "$15.99 $15.99 + $0.00 Min: $15.99 Max: $15.99 编辑商品价格"':
+            - generic: $15.99
+            - generic: $15.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $15.99
+            - generic: "Max:"
+            - text: $15.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+        - 'row "4A Full Adhesive Sticky Notes, 4 Refill Sticky Rolls, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home, 4A PSS 9-1 Refill 4A Full Adhesive Sticky Notes, 4 Refill Sticky Rolls, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home, 4A PSS 9-1 Refill B07QVKPZXX | 4A PSS 9-1 Refill | 7028771218328 X0024KE5EH | 新增 建议 最低 量：16 件 查看详情 - 76 0 71/76 93 查看详情 $0.00/mo 259 242 现货 $56.97 0.46 ↑ 0.002 $4.36 / $7.21 计算收入 已免除费用 184.9 $18.99 $18.99 + $0.00 Min: $15.99 Max: $29.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A Full Adhesive Sticky Notes, 4 Refill Sticky Rolls, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home, 4A PSS 9-1 Refill 4A Full Adhesive Sticky Notes, 4 Refill Sticky Rolls, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home, 4A PSS 9-1 Refill B07QVKPZXX | 4A PSS 9-1 Refill | 7028771218328 X0024KE5EH | 新增":
+            - img "4A Full Adhesive Sticky Notes, 4 Refill Sticky Rolls, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home, 4A PSS 9-1 Refill"
+            - link "4A Full Adhesive Sticky Notes, 4 Refill Sticky Rolls, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home, 4A PSS 9-1 Refill":
+              - /url: https://www.amazon.com/dp/B07QVKPZXX
+            - text: B07QVKPZXX
+            - generic: "|"
+            - link "4A PSS 9-1 Refill":
+              - /url: /skucentral?mSku=4A%20PSS%209-1%20Refill&condition=New
+            - generic: "|"
+            - text: "7028771218328"
+            - text: X0024KE5EH
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：16 件 查看详情":
+            - status:
+              - generic: 良好
+            - generic: 建议 最低 量：16 件
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "76":
+            - link "76":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "71/76 93":
+            - button "71/76":
+              - generic: 71/76
+            - progressbar
+            - generic: 93%
+          - gridcell "查看详情 $0.00/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.00/mo
+          - gridcell "259 242 现货":
+            - generic: "259"
+            - generic: 242 现货
+          - gridcell "$56.97":
+            - button "$56.97":
+              - generic: $56.97
+          - gridcell "0.46 ↑ 0.002":
+            - generic: "0.46"
+            - generic: ↑ 0.002
+          - gridcell "$4.36 / $7.21 计算收入":
+            - generic: $4.36 / $7.21
+            - link "计算收入":
+              - /url: /revcal?merchantSku=4A%20PSS%209-1%20Refill
+          - gridcell "已免除费用 184.9":
+            - generic: 已免除费用
+            - link "184.9":
+              - /url: "#"
+          - 'gridcell "$18.99 $18.99 + $0.00 Min: $15.99 Max: $29.99 编辑商品价格"':
+            - generic: $18.99
+            - generic: $18.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $15.99
+            - generic: "Max:"
+            - text: $29.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+        - 'row "4A 4 Pads Big Sticky Notes 15 x 15 Inches, Bright Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad 4A 4 Pads Big Sticky Notes 15 x 15 Inches, Bright Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad B07R1XLCP4 | 4A BP 1515-Nx4 | 7028771219172 X0024G2BWT | - 建议 最低 量：3 件 | 在 Oct 24, 2026 前运送 4 件商品 查看详情 - 0 0 0/0 0 查看详情 $0.00/mo 0 0 现货 $0.00 - $10.07 / $19.52 计算收入 已免除费用 0 $62.99 Min: $62.99 Max: $62.99 编辑商品价格 缺货 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A 4 Pads Big Sticky Notes 15 x 15 Inches, Bright Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad 4A 4 Pads Big Sticky Notes 15 x 15 Inches, Bright Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad B07R1XLCP4 | 4A BP 1515-Nx4 | 7028771219172 X0024G2BWT | -":
+            - img "4A 4 Pads Big Sticky Notes 15 x 15 Inches, Bright Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad"
+            - link "4A 4 Pads Big Sticky Notes 15 x 15 Inches, Bright Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad":
+              - /url: https://www.amazon.com/dp/B07R1XLCP4
+            - text: B07R1XLCP4
+            - generic: "|"
+            - link "4A BP 1515-Nx4":
+              - /url: /skucentral?mSku=4A%20BP%201515-Nx4&condition=New
+            - generic: "|"
+            - text: "7028771219172"
+            - text: X0024G2BWT
+            - generic: "|"
+            - text: "-"
+          - gridcell "建议 最低 量：3 件 | 在 Oct 24, 2026 前运送 4 件商品 查看详情":
+            - status:
+              - generic: 缺货
+            - generic: 建议 最低 量：3 件 | 在 Oct 24, 2026 前运送 4 件商品
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "0/0 0":
+            - button "0/0":
+              - generic: 0/0
+            - progressbar
+            - generic: 0%
+          - gridcell "查看详情 $0.00/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.00/mo
+          - gridcell "0 0 现货":
+            - generic: "0"
+            - generic: 0 现货
+          - gridcell "$0.00":
+            - link "$0.00":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "$10.07 / $19.52 计算收入":
+            - generic: $10.07 / $19.52
+            - link "计算收入":
+              - /url: /revcal?merchantSku=4A%20BP%201515-Nx4
+          - gridcell "已免除费用 0":
+            - generic: 已免除费用
+            - link "0":
+              - /url: "#"
+          - 'gridcell "$62.99 Min: $62.99 Max: $62.99 编辑商品价格"':
+            - generic: $62.99
+            - generic: "Min:"
+            - text: $62.99
+            - generic: "Max:"
+            - text: $62.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "缺货":
+            - generic: 缺货
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+        - 'row "4A Roll Sticky Notes, 2 Full Adhesive Sticky Rolls with Dispenser and 2 Refill Rolls,0.4 x 315 Inches,5 Bright Colors,Colorful Sticky Roll Tape for Book,Notebook,Office,Home,4A PSS 9-5 NANBx2 4A Roll Sticky Notes, 2 Full Adhesive Sticky Rolls with Dispenser and 2 Refill Rolls,0.4 x 315 Inches,5 Bright Colors,Colorful Sticky Roll Tape for Book,Notebook,Office,Home,4A PSS 9-5 NANBx2 B07QXJYKJN | 4A PSS 9-5 NANBx2 | 7028771218250 X0024HJGVH | 新增 建议 最低 量：11 件 查看详情 - 34 0 33/34 97 查看详情 $0.00/mo 195 189 现货 $149.94 1.079 ↑ 0.17 $4.64 / $8.39 计算收入 已免除费用 83.1 $24.99 $24.99 + $0.00 Min: $24.99 Max: $24.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A Roll Sticky Notes, 2 Full Adhesive Sticky Rolls with Dispenser and 2 Refill Rolls,0.4 x 315 Inches,5 Bright Colors,Colorful Sticky Roll Tape for Book,Notebook,Office,Home,4A PSS 9-5 NANBx2 4A Roll Sticky Notes, 2 Full Adhesive Sticky Rolls with Dispenser and 2 Refill Rolls,0.4 x 315 Inches,5 Bright Colors,Colorful Sticky Roll Tape for Book,Notebook,Office,Home,4A PSS 9-5 NANBx2 B07QXJYKJN | 4A PSS 9-5 NANBx2 | 7028771218250 X0024HJGVH | 新增":
+            - img "4A Roll Sticky Notes, 2 Full Adhesive Sticky Rolls with Dispenser and 2 Refill Rolls,0.4 x 315 Inches,5 Bright Colors,Colorful Sticky Roll Tape for Book,Notebook,Office,Home,4A PSS 9-5 NANBx2"
+            - link "4A Roll Sticky Notes, 2 Full Adhesive Sticky Rolls with Dispenser and 2 Refill Rolls,0.4 x 315 Inches,5 Bright Colors,Colorful Sticky Roll Tape for Book,Notebook,Office,Home,4A PSS 9-5 NANBx2":
+              - /url: https://www.amazon.com/dp/B07QXJYKJN
+            - text: B07QXJYKJN
+            - generic: "|"
+            - link "4A PSS 9-5 NANBx2":
+              - /url: /skucentral?mSku=4A%20PSS%209-5%20NANBx2&condition=New
+            - generic: "|"
+            - text: "7028771218250"
+            - text: X0024HJGVH
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：11 件 查看详情":
+            - status:
+              - generic: 良好
+            - generic: 建议 最低 量：11 件
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "34":
+            - link "34":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "33/34 97":
+            - button "33/34":
+              - generic: 33/34
+            - progressbar
+            - generic: 97%
+          - gridcell "查看详情 $0.00/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.00/mo
+          - gridcell "195 189 现货":
+            - generic: "195"
+            - generic: 189 现货
+          - gridcell "$149.94":
+            - button "$149.94":
+              - generic: $149.94
+          - gridcell "1.079 ↑ 0.17":
+            - generic: "1.079"
+            - generic: ↑ 0.17
+          - gridcell "$4.64 / $8.39 计算收入":
+            - generic: $4.64 / $8.39
+            - link "计算收入":
+              - /url: /revcal?merchantSku=4A%20PSS%209-5%20NANBx2
+          - gridcell "已免除费用 83.1":
+            - generic: 已免除费用
+            - link "83.1":
+              - /url: "#"
+          - 'gridcell "$24.99 $24.99 + $0.00 Min: $24.99 Max: $24.99 编辑商品价格"':
+            - generic: $24.99
+            - generic: $24.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $24.99
+            - generic: "Max:"
+            - text: $24.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+        - 'row "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24 4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24 B01LVXOCU2 | 4A 004 | 702877118634 X004MPCE59 | 新增 建议 最低 量：3 件 | 59 件预计冗余商品 查看详情 - 59 0 59/59 100 查看详情 $20.65/mo 365+ 365+ 现货 $0.00 0.348 0 $4.21 / $5.63 计算收入 已免除费用 0 $9.49 $9.49 + $0.00 Min: $9.49 Max: $199.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24 4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24 B01LVXOCU2 | 4A 004 | 702877118634 X004MPCE59 | 新增":
+            - img "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24"
+            - link "4A Sticky Notes,1 1/2 x 2 Inches,Small Size,The Adhesive On Shorter Side,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,24 Pads/Box,4A 301x24":
+              - /url: https://www.amazon.com/dp/B01LVXOCU2
+            - text: B01LVXOCU2
+            - generic: "|"
+            - link "4A 004":
+              - /url: /skucentral?mSku=4A%20004&condition=New
+            - generic: "|"
+            - text: "702877118634"
+            - text: X004MPCE59
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：3 件 | 59 件预计冗余商品 查看详情":
+            - status:
+              - generic: 冗余
+            - generic: 建议 最低 量：3 件 | 59 件预计冗余商品
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "59":
+            - link "59":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "59/59 100":
+            - button "59/59":
+              - generic: 59/59
+            - progressbar
+            - generic: 100%
+          - gridcell "查看详情 $20.65/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $20.65/mo
+          - gridcell "365+ 365+ 现货":
+            - generic: 365+
+            - generic: 365+ 现货
+          - gridcell "$0.00":
+            - link "$0.00":
+              - /url: "#"
+          - gridcell "0.348 0":
+            - generic: "0.348"
+            - generic: "0"
+          - gridcell "$4.21 / $5.63 计算收入":
+            - generic: $4.21 / $5.63
+            - link "计算收入":
+              - /url: /revcal?merchantSku=4A%20004
+          - gridcell "已免除费用 0":
+            - generic: 已免除费用
+            - link "0":
+              - /url: "#"
+          - 'gridcell "$9.49 $9.49 + $0.00 Min: $9.49 Max: $199.99 编辑商品价格"':
+            - generic: $9.49
+            - generic: $9.49
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $9.49
+            - generic: "Max:"
+            - text: $199.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+        - 'row "4A 6 Pads Sticky Notes 4x6 in, Yellow Sticky Notes Self-Stick Note Pads, Large Memo Pads for Office Back to School Supplies,100 Sheets/Pad, 600 Sheets Total, 4A 406x6-Y 4A 6 Pads Sticky Notes 4x6 in, Yellow Sticky Notes Self-Stick Note Pads, Large Memo Pads for Office Back to School Supplies,100 Sheets/Pad, 600 Sheets Total, 4A 406x6-Y B01N0RJSTU | 4A 032 | 702877118917 X004MP0GWH | 新增 建议 最低 量：15 件 | 在 Nov 6, 2026 前运送 16 件商品 查看详情 - 13 0 12/13 92 查看详情 $0.00/mo 26 26 现货 $77.43 未来销售季 1.12 ↓ 0.023 $5.93 / $7.50 计算收入 已免除费用 72.8 $10.49 $10.49 + $0.00 Min: $10.49 Max: $10.49 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A 6 Pads Sticky Notes 4x6 in, Yellow Sticky Notes Self-Stick Note Pads, Large Memo Pads for Office Back to School Supplies,100 Sheets/Pad, 600 Sheets Total, 4A 406x6-Y 4A 6 Pads Sticky Notes 4x6 in, Yellow Sticky Notes Self-Stick Note Pads, Large Memo Pads for Office Back to School Supplies,100 Sheets/Pad, 600 Sheets Total, 4A 406x6-Y B01N0RJSTU | 4A 032 | 702877118917 X004MP0GWH | 新增":
+            - img "4A 6 Pads Sticky Notes 4x6 in, Yellow Sticky Notes Self-Stick Note Pads, Large Memo Pads for Office Back to School Supplies,100 Sheets/Pad, 600 Sheets Total, 4A 406x6-Y"
+            - link "4A 6 Pads Sticky Notes 4x6 in, Yellow Sticky Notes Self-Stick Note Pads, Large Memo Pads for Office Back to School Supplies,100 Sheets/Pad, 600 Sheets Total, 4A 406x6-Y":
+              - /url: https://www.amazon.com/dp/B01N0RJSTU
+            - text: B01N0RJSTU
+            - generic: "|"
+            - link "4A 032":
+              - /url: /skucentral?mSku=4A%20032&condition=New
+            - generic: "|"
+            - text: "702877118917"
+            - text: X004MP0GWH
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：15 件 | 在 Nov 6, 2026 前运送 16 件商品 查看详情":
+            - status:
+              - generic: 低库存
+            - generic: 建议 最低 量：15 件 | 在 Nov 6, 2026 前运送 16 件商品
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "13":
+            - link "13":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "12/13 92":
+            - button "12/13":
+              - generic: 12/13
+            - progressbar
+            - generic: 92%
+          - gridcell "查看详情 $0.00/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.00/mo
+          - gridcell "26 26 现货":
+            - generic: "26"
+            - generic: 26 现货
+          - gridcell "$77.43 未来销售季":
+            - button "$77.43":
+              - generic: $77.43
+            - link "未来销售季":
+              - /url: "#"
+          - gridcell "1.12 ↓ 0.023":
+            - generic: "1.12"
+            - generic: ↓ 0.023
+          - gridcell "$5.93 / $7.50 计算收入":
+            - generic: $5.93 / $7.50
+            - link "计算收入":
+              - /url: /revcal?merchantSku=4A%20032
+          - gridcell "已免除费用 72.8":
+            - generic: 已免除费用
+            - link "72.8":
+              - /url: "#"
+          - 'gridcell "$10.49 $10.49 + $0.00 Min: $10.49 Max: $10.49 编辑商品价格"':
+            - generic: $10.49
+            - generic: $10.49
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $10.49
+            - generic: "Max:"
+            - text: $10.49
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+        - 'row "4A Full Adhesive Sticky Notes, Sticky Rolls with Dispenser and 2 Refill Rolls, Neon Yellow and Rose Red, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home,4A PSS 9-1 NYNRx2 4A Full Adhesive Sticky Notes, Sticky Rolls with Dispenser and 2 Refill Rolls, Neon Yellow and Rose Red, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home,4A PSS 9-1 NYNRx2 B07QWKWWP2 | 4A PSS 9-1 NYNRx2 | 7028771218182 X0024HJGUD | 新增 建议 最低 量：23 件 查看详情 - 163 0 162/163 99 查看详情 $6.06/mo 365+ 365+ 现货 $45.98 0.088 0 $4.36 / $7.36 计算收入 已免除费用 1,639.7 $19.99 $19.99 + $0.00 Min: $19.99 Max: $19.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A Full Adhesive Sticky Notes, Sticky Rolls with Dispenser and 2 Refill Rolls, Neon Yellow and Rose Red, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home,4A PSS 9-1 NYNRx2 4A Full Adhesive Sticky Notes, Sticky Rolls with Dispenser and 2 Refill Rolls, Neon Yellow and Rose Red, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home,4A PSS 9-1 NYNRx2 B07QWKWWP2 | 4A PSS 9-1 NYNRx2 | 7028771218182 X0024HJGUD | 新增":
+            - img "4A Full Adhesive Sticky Notes, Sticky Rolls with Dispenser and 2 Refill Rolls, Neon Yellow and Rose Red, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home,4A PSS 9-1 NYNRx2"
+            - link "4A Full Adhesive Sticky Notes, Sticky Rolls with Dispenser and 2 Refill Rolls, Neon Yellow and Rose Red, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home,4A PSS 9-1 NYNRx2":
+              - /url: https://www.amazon.com/dp/B07QWKWWP2
+            - text: B07QWKWWP2
+            - generic: "|"
+            - link "4A PSS 9-1 NYNRx2":
+              - /url: /skucentral?mSku=4A%20PSS%209-1%20NYNRx2&condition=New
+            - generic: "|"
+            - text: "7028771218182"
+            - text: X0024HJGUD
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：23 件 查看详情":
+            - status:
+              - generic: 良好
+            - generic: 建议 最低 量：23 件
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "163":
+            - link "163":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "162/163 99":
+            - button "162/163":
+              - generic: 162/163
+            - progressbar
+            - generic: 99%
+          - gridcell "查看详情 $6.06/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $6.06/mo
+          - gridcell "365+ 365+ 现货":
+            - generic: 365+
+            - generic: 365+ 现货
+          - gridcell "$45.98":
+            - button "$45.98":
+              - generic: $45.98
+          - gridcell "0.088 0":
+            - generic: "0.088"
+            - generic: "0"
+          - gridcell "$4.36 / $7.36 计算收入":
+            - generic: $4.36 / $7.36
+            - link "计算收入":
+              - /url: /revcal?merchantSku=4A%20PSS%209-1%20NYNRx2
+          - gridcell "已免除费用 1,639.7":
+            - generic: 已免除费用
+            - link "1,639.7":
+              - /url: "#"
+          - 'gridcell "$19.99 $19.99 + $0.00 Min: $19.99 Max: $19.99 编辑商品价格"':
+            - generic: $19.99
+            - generic: $19.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $19.99
+            - generic: "Max:"
+            - text: $19.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+        - 'row "4A 2 Packs Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Full Sticky Back Sticky Notes for Home Office School Supplies, 20 Sheets/Color, 5 Colors/Pack, 200 Sheets Total, 4A 305-Full Gluex2 4A 2 Packs Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Full Sticky Back Sticky Notes for Home Office School Supplies, 20 Sheets/Color, 5 Colors/Pack, 200 Sheets Total, 4A 305-Full Gluex2 B07FK9BYHW | AAAA 4A 305-Full Glue | 702877122358 B07FK9BYHW | - 建议 最低 量：15 件 查看详情 - 60 0 60/60 100 查看详情 $19.77/mo 274 274 现货 $29.98 未来销售季 0.365 0 $4.36 / $6.61 计算收入 已免除费用 608 $14.99 $14.99 + $0.00 Min: $14.99 Max: $14.99 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A 2 Packs Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Full Sticky Back Sticky Notes for Home Office School Supplies, 20 Sheets/Color, 5 Colors/Pack, 200 Sheets Total, 4A 305-Full Gluex2 4A 2 Packs Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Full Sticky Back Sticky Notes for Home Office School Supplies, 20 Sheets/Color, 5 Colors/Pack, 200 Sheets Total, 4A 305-Full Gluex2 B07FK9BYHW | AAAA 4A 305-Full Glue | 702877122358 B07FK9BYHW | -":
+            - img "4A 2 Packs Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Full Sticky Back Sticky Notes for Home Office School Supplies, 20 Sheets/Color, 5 Colors/Pack, 200 Sheets Total, 4A 305-Full Gluex2"
+            - link "4A 2 Packs Full Adhesive Sticky Notes 3 x 5 in, 5 Bright Colored Full Sticky Back Sticky Notes for Home Office School Supplies, 20 Sheets/Color, 5 Colors/Pack, 200 Sheets Total, 4A 305-Full Gluex2":
+              - /url: https://www.amazon.com/dp/B07FK9BYHW
+            - text: B07FK9BYHW
+            - generic: "|"
+            - link "AAAA 4A 305-Full Glue":
+              - /url: /skucentral?mSku=AAAA%204A%20305-Full%20Glue&condition=New
+            - generic: "|"
+            - text: "702877122358"
+            - text: B07FK9BYHW
+            - generic: "|"
+            - text: "-"
+          - gridcell "建议 最低 量：15 件 查看详情":
+            - status:
+              - generic: 良好
+            - generic: 建议 最低 量：15 件
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "60":
+            - link "60":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "60/60 100":
+            - button "60/60":
+              - generic: 60/60
+            - progressbar
+            - generic: 100%
+          - gridcell "查看详情 $19.77/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $19.77/mo
+          - gridcell "274 274 现货":
+            - generic: "274"
+            - generic: 274 现货
+          - gridcell "$29.98 未来销售季":
+            - button "$29.98":
+              - generic: $29.98
+            - link "未来销售季":
+              - /url: "#"
+          - gridcell "0.365 0":
+            - generic: "0.365"
+            - generic: "0"
+          - gridcell "$4.36 / $6.61 计算收入":
+            - generic: $4.36 / $6.61
+            - link "计算收入":
+              - /url: /revcal?merchantSku=AAAA%204A%20305-Full%20Glue
+          - gridcell "已免除费用 608":
+            - generic: 已免除费用
+            - link "608":
+              - /url: "#"
+          - 'gridcell "$14.99 $14.99 + $0.00 Min: $14.99 Max: $14.99 编辑商品价格"':
+            - generic: $14.99
+            - generic: $14.99
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $14.99
+            - generic: "Max:"
+            - text: $14.99
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - link "编辑商品信息":
+                - /url: /abis/listing/edit/product_details?sku=AAAA%204A%20305-Full%20Glue&asin=B07FK9BYHW#product_details
+              - button "Actions":
+        - 'row "4A 6 Pads Sticky Notes 4 x 6 Inches, Pastel Colors, Large Self-Stick Note Pads for Office, School, 100 Sheets/Pad, 600 Sheets Total, 4A 406x6 4A 6 Pads Sticky Notes 4 x 6 Inches, Pastel Colors, Large Self-Stick Note Pads for Office, School, 100 Sheets/Pad, 600 Sheets Total, 4A 406x6 B07FKL263W | AAAA 4A 406x6 | 702877123584 B07FKL263W | 新增 建议 最低 量：11 件 | 在 Nov 3, 2026 前运送 11 件商品 查看详情 - 7 0 7/7 100 查看详情 $0.00/mo 28 28 现货 $188.86 1.22 ↓ 0.033 $6.10 / $8.12 计算收入 已免除费用 72.9 $13.49 $13.49 + $0.00 Min: $13.49 Max: $13.49 编辑商品价格 在售 交期: -- 频率: -- 查看详情 Actions" [level=1]':
+          - gridcell:
+            - checkbox
+          - gridcell "4A 6 Pads Sticky Notes 4 x 6 Inches, Pastel Colors, Large Self-Stick Note Pads for Office, School, 100 Sheets/Pad, 600 Sheets Total, 4A 406x6 4A 6 Pads Sticky Notes 4 x 6 Inches, Pastel Colors, Large Self-Stick Note Pads for Office, School, 100 Sheets/Pad, 600 Sheets Total, 4A 406x6 B07FKL263W | AAAA 4A 406x6 | 702877123584 B07FKL263W | 新增":
+            - img "4A 6 Pads Sticky Notes 4 x 6 Inches, Pastel Colors, Large Self-Stick Note Pads for Office, School, 100 Sheets/Pad, 600 Sheets Total, 4A 406x6"
+            - link "4A 6 Pads Sticky Notes 4 x 6 Inches, Pastel Colors, Large Self-Stick Note Pads for Office, School, 100 Sheets/Pad, 600 Sheets Total, 4A 406x6":
+              - /url: https://www.amazon.com/dp/B07FKL263W
+            - text: B07FKL263W
+            - generic: "|"
+            - link "AAAA 4A 406x6":
+              - /url: /skucentral?mSku=AAAA%204A%20406x6&condition=New
+            - generic: "|"
+            - text: "702877123584"
+            - text: B07FKL263W
+            - generic: "|"
+            - text: 新增
+          - gridcell "建议 最低 量：11 件 | 在 Nov 3, 2026 前运送 11 件商品 查看详情":
+            - status:
+              - generic: 低库存
+            - generic: 建议 最低 量：11 件 | 在 Nov 3, 2026 前运送 11 件商品
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "-":
+            - generic: "-"
+          - gridcell "7":
+            - link "7":
+              - /url: "#"
+          - gridcell "0":
+            - generic: "0"
+          - gridcell "7/7 100":
+            - button "7/7":
+              - generic: 7/7
+            - progressbar
+            - generic: 100%
+          - gridcell "查看详情 $0.00/mo":
+            - link "查看详情":
+              - /url: "#"
+            - generic: $0.00/mo
+          - gridcell "28 28 现货":
+            - generic: "28"
+            - generic: 28 现货
+          - gridcell "$188.86":
+            - button "$188.86":
+              - generic: $188.86
+          - gridcell "1.22 ↓ 0.033":
+            - generic: "1.22"
+            - generic: ↓ 0.033
+          - gridcell "$6.10 / $8.12 计算收入":
+            - generic: $6.10 / $8.12
+            - link "计算收入":
+              - /url: /revcal?merchantSku=AAAA%204A%20406x6
+          - gridcell "已免除费用 72.9":
+            - generic: 已免除费用
+            - link "72.9":
+              - /url: "#"
+          - 'gridcell "$13.49 $13.49 + $0.00 Min: $13.49 Max: $13.49 编辑商品价格"':
+            - generic: $13.49
+            - generic: $13.49
+            - generic: +
+            - generic: $0.00
+            - generic: "Min:"
+            - text: $13.49
+            - generic: "Max:"
+            - text: $13.49
+            - link "编辑商品价格":
+              - /url: "#"
+          - gridcell "在售":
+            - generic: 在售
+          - 'gridcell "交期: -- 频率: -- 查看详情"':
+            - generic: "交期: --"
+            - generic: "频率: --"
+            - link "查看详情":
+              - /url: "#"
+          - gridcell "Actions":
+            - group "Actions":
+              - button "发送库存"
+              - button "Actions":
+  - generic: 1~25，共 375
+  - list:
+    - button [disabled]:
+    - button "1"
+    - button "2"
+    - button "3"
+    - button "4"
+    - button "5"
+    - button "6"
+    - button "7"
+    - listitem: ...
+    - button "15"
+    - button:
+- link "站点地图":
+  - /url: /sitemap
+- link "计划政策":
+  - /url: /help/hub/reference/521
+- generic: © 1999-2026，Amazon.com, Inc. 或其附属公司
+- link "反馈":
+  - /url: "#"
+- generic: 73.86363636363636%
+- generic: 98.83720930232558%
+- generic: 99.07621247113164%
+- generic: 98.64864864864865%
+- generic: 98.93617021276596%
+- generic: 99.1044776119403%
+- generic: 68.57142857142857%
+- generic: 100%
+- generic: 99.05660377358491%
+- generic: 0%
+- generic: 99.62616822429906%
+- generic: 96.22641509433963%
+- generic: 100%
+- generic: 100%
+- generic: 68.14159292035397%
+- generic: 99.4535519125683%
+- generic: 100%
+- generic: 93.42105263157895%
+- generic: 0%
+- generic: 97.05882352941177%
+- generic: 100%
+- generic: 92.3076923076923%
+- generic: 99.38650306748467%
+- generic: 100%
+- generic: 100%

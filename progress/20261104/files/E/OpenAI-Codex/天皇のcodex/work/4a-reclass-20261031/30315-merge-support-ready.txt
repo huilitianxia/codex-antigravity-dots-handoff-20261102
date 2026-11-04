@@ -1,0 +1,18 @@
+Subject: Review 4A 30315 specification mismatch and duplicate ASINs — previous case 22923307871
+
+Please review the specification difference that prevented the merge in case 22923307871:
+- Source ASIN B07F295DPC: Standard Flat Pads (15 Pads).
+- Intended retained ASIN B07FKG29KB: Standard Flat Pads (15 Pads Value Pack).
+
+The manufacturer's product page identifies model 4A 30315 as 3 x 3-inch self-stick notes, 15 neon colors, 15 pads per pack, and 100 sheets per pad:
+https://4ausa.com/product/4a-sticky-notes3-x-3-inchesneon-assorted15-colorsself-stick-notes100-sheets-pad15-pads-pack4a-30315/
+
+Please assess whether the two size strings describe the same physical 15-pad product, and correct the size attribute if supported by this manufacturer evidence.
+
+There is an identifier discrepancy that needs review. Our 2026 product master maps B07FKG29KB to UPC 702877124116, which also appears on the source FBA offer. A historical target FBA SKU, AAAA 4A 30315, listed UPC 702877122860. The manufacturer page does not display a UPC. We are not asserting that these two UPCs are interchangeable.
+
+If Amazon confirms that the ASINs represent the identical physical product and are eligible, please review merging B07F295DPC into B07FKG29KB while preserving the existing FBA offers, FNSKUs and inventory associations. If the identifier discrepancy prevents this, please identify the exact ASIN/code requiring proof and the specific manufacturer or original-package evidence needed.
+
+This is a catalog correction and duplicate-product review. No variation-family, price, quantity, or SKU-to-ASIN reassignment is requested.
+
+Supporting evidence: manufacturer-page screenshot, previous case reply, and scoped product/offer identifier extracts. The internal extracts are supplementary, not substitutes for manufacturer evidence.

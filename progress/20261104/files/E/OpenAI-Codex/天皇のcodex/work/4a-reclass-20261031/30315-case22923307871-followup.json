@@ -1,0 +1,38 @@
+{
+  "case_id": "22923307871",
+  "url": "https://sellercentral.amazon.com/cu/case-dashboard/view-case?ref=sc_cd_lobby_vc_v3&ie=UTF&caseID=22923307871",
+  "checked_at": "2026-11-01T16:30:19+08:00",
+  "status": "Answered; merge rejected",
+  "last_reply": "2026-10-31 21:04 GMT+8",
+  "source_asin": "B07F295DPC",
+  "requested_retained_asin": "B07FKG29KB",
+  "reason": "Size/specification attributes differ",
+  "source_size": "Standard Flat Pads (15 Pads)",
+  "target_size": "Standard Flat Pads (15 Pads Value Pack)",
+  "required_evidence": [
+    "Manufacturer website clearly showing correct product specification and visible UPC/EAN",
+    "High-resolution product and original-package contents photos clearly showing specification and barcode"
+  ],
+  "next_action": "With explicit send authorization, submit new catalog review request citing manufacturer webpage and prior denial; ask Amazon to resolve size mismatch and clarify authoritative UPC mapping before merge.",
+  "evidence_strength": {
+    "same_model_quantity": "Both saved report titles:4A30315,3x3in,15pads,100sheets/pad,1500total;2026masterrow22same",
+    "UPC_not_fully_reconciled": "2026master targetB07FKG29KB mapsUPC702877124116;sourceFBA B07F295DPC reportsUPC702877124116;historic09-03 targetFBA AAAA4A30315 reportsUPC702877122860. Cannot claim all UPCs identical.",
+    "missing": "UPC relationship remains unresolved; manufacturer page now supports concrete specification review. Photos are additional evidence if Amazon requires them, not an automatic prerequisite to sending this review request."
+  },
+  "changes": "No message sent; no attributes/prices/SKU/ASIN/inventory changed. No2028 or family work started.",
+  "evidence_files": [
+    "30315-case22923307871-latest.txt",
+    "30315-case22923307871-latest.png",
+    "30315-case-master-identity-evidence.json",
+    "30315-case-offer-identity-evidence.json"
+  ],
+  "manufacturer_page_found": "https://4ausa.com/product/4a-sticky-notes3-x-3-inchesneon-assorted15-colorsself-stick-notes100-sheets-pad15-pads-pack4a-30315/",
+  "manufacturer_proves": [
+    "4A30315",
+    "3x3in",
+    "15colors",
+    "15pads/pack",
+    "100sheets/pad"
+  ],
+  "manufacturer_UPC_visible": false
+}

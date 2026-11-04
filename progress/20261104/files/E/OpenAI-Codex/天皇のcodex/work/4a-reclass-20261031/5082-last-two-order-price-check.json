@@ -1,0 +1,32 @@
+[
+  {
+    "order_suffix": "1601839",
+    "lines": [
+      "      - text: 管理促销和特惠",
+      "- heading \"订单为“等待中”状态\" [level=4]",
+      "- text: 此订单当前处于待处理状态，您的库存已被暂时保留。 请在处理完成后再配送该订单。 此订单的付款授权仍在处理中。 在状态从“待处理”更改为“未发货”前，您将无法确认发货。 有关更多信息，请参阅",
+      "- link \"待处理订单\":",
+      "    - 'row \"等待付款中 等待付款验证 4A Lined Sticky Notes, 5 x 8 in, 2 Pads, Pastel Yellow | 50 sheets per pad, 100 sheets total ASIN: B07F2BHFJH SKU: 4A 5082-Y-L-GM 订单商品编号: 173857692986681 2 US$5.99\"':",
+      "      - cell \"等待付款中 等待付款验证\":",
+      "        - generic: 等待付款中",
+      "        - link \"等待付款验证\":",
+      "          - text: 等待付款验证",
+      "      - cell \"US$5.99\""
+    ]
+  },
+  {
+    "order_suffix": "2110602",
+    "lines": [
+      "      - text: 管理促销和特惠",
+      "- heading \"订单为“等待中”状态\" [level=4]",
+      "- text: 此订单当前处于待处理状态，您的库存已被暂时保留。 请在处理完成后再配送该订单。 此订单的付款授权仍在处理中。 在状态从“待处理”更改为“未发货”前，您将无法确认发货。 有关更多信息，请参阅",
+      "- link \"待处理订单\":",
+      "    - 'row \"等待付款中 等待付款验证 4A Lined Sticky Notes, 5 x 8 in, 2 Pads, Pastel Yellow | 50 sheets per pad, 100 sheets total ASIN: B07F2BHFJH SKU: 4A 5082-Y-L-GM 订单商品编号: 173841447299361 1 US$5.99\"':",
+      "      - cell \"等待付款中 等待付款验证\":",
+      "        - generic: 等待付款中",
+      "        - link \"等待付款验证\":",
+      "          - text: 等待付款验证",
+      "      - cell \"US$5.99\""
+    ]
+  }
+]

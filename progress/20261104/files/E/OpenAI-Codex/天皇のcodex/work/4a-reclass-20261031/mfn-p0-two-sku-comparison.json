@@ -1,0 +1,85 @@
+{
+  "checked_at": "2026-11-01T16:08:17+08:00",
+  "scope": "GM406SL-10 versus one same-template control GM608SL-5 only; read-only",
+  "template": {
+    "name": "Heavy delivery",
+    "id": "9f2cd5aa-5103-4b7b-bdba-becbf955256d",
+    "saved_rate_evidence": "mfn8-heavy-template-live.txt",
+    "mainland_standard": "USD9.99/order + USD6.99/lb; New York covered; SSA enabled",
+    "rates_not_reread_this_pass": true
+  },
+  "rows": [
+    {
+      "role": "affected",
+      "sku": "4A GM406SL-10",
+      "asin": "B07RP85C2P",
+      "status": "Active",
+      "fulfillment": "MFN",
+      "condition": "New",
+      "qty": 466,
+      "price": 17.49,
+      "shipping_inventory": 1000001,
+      "template_id": "9f2cd5aa-5103-4b7b-bdba-becbf955256d",
+      "catalog_weight": 1.066,
+      "catalog_weight_unit": "Kilograms",
+      "catalog_package_H_L_W_cm": [
+        15.494,
+        10.414,
+        10.668
+      ],
+      "seller_weight_input": null,
+      "seller_dimensions_input": null,
+      "handling_time_input": null,
+      "restock_date": null,
+      "sale_price": null,
+      "min_max_price": null,
+      "offer_release_date": "2019-05-22",
+      "buyer_destination": "New York10001",
+      "buyer_status": "Currently unavailable / currently out of stock; target product no purchasable offer exposed",
+      "source": [
+        "mfn-p0-current-target-inventory.txt",
+        "mfn-p0-current-target-offer.txt",
+        "mfn-p0-current-buyer.txt"
+      ]
+    },
+    {
+      "role": "control",
+      "sku": "4A GM608SL-5",
+      "asin": "B07RN7W756",
+      "status": "Active",
+      "fulfillment": "MFN",
+      "condition": "New",
+      "qty": 106,
+      "price": 18.99,
+      "shipping_inventory": 26.35,
+      "template_id": "9f2cd5aa-5103-4b7b-bdba-becbf955256d",
+      "catalog_weight": 1.061,
+      "catalog_weight_unit": "Kilograms",
+      "catalog_package_H_L_W_cm": [
+        20.8026,
+        5.0038,
+        15.5956
+      ],
+      "seller_weight_input": null,
+      "seller_dimensions_input": null,
+      "handling_time_input": null,
+      "restock_date": null,
+      "sale_price": null,
+      "min_max_price": null,
+      "offer_release_date": "2019-05-22",
+      "buyer_status": "not checked; control is normal seller shipping quote only",
+      "source": [
+        "mfn-p0-current-control-inventory.txt",
+        "mfn-p0-current-control-offer.txt"
+      ]
+    }
+  ],
+  "conclusion": "No visible field difference establishes a safe specific fix. Same-template control proves blank seller weight and kg unit do not alone explain failure. Backend buyability/shipping quote diagnosis is required.",
+  "gaps": [
+    "Actual quote failure reason/error code and input weight used by quote service",
+    "Resolved SKU shipping-template association and SSA/default-origin routing",
+    "Whether1000001 is a fallback/sentinel rather than genuine shipping charge",
+    "Actual measured shipment package weight, only if backend identifies weight as cause"
+  ],
+  "actions_performed_this_pass": "Read-only navigation and evidence capture; no edits, submissions, support messages or cases."
+}

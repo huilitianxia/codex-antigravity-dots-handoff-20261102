@@ -1,0 +1,217 @@
+- generic: 世界一流的便利贴！
+- list:
+  - link "创建批发账户":
+    - /url: https://4ausa.com/my-account/
+    - generic: 创建批发账户
+  - link "登录":
+    - /url: https://4ausa.com/my-account/
+    - generic: 登录
+  - link "查看":
+    - /url: https://4ausa.com/checkout/
+    - generic: 查看
+- link "0 件商品":
+  - /url: https://4ausa.com/cart/
+  - text: 
+  - generic: 0 件商品
+- banner:
+  - navigation:
+    - list:
+      - link "商店分类 3":
+        - /url: https://4ausa.com/shop/
+        - generic: 商店分类
+        - text: "3"
+      - link "关于我们":
+        - /url: https://4ausa.com/about-us/
+        - generic: 关于我们
+      - link "4A 高品质便利贴":
+        - /url: https://4ausa.com/
+        - img "4A 高品质便利贴"
+      - link "批发信息":
+        - /url: https://4ausa.com/wholesale-information/
+        - generic: 批发信息
+      - link "联系我们":
+        - /url: https://4ausa.com/contact-us/
+        - generic: 联系我们
+  - generic: U
+  - text: a
+  - search:
+    - searchbox "搜索："
+  - generic: M
+- navigation "面包屑":
+  - link "首页":
+    - /url: https://4ausa.com
+    - generic: 首页
+  - generic: /
+  - link "便签纸":
+    - /url: https://4ausa.com/product-category/sticky-notes-zh-hans/
+    - generic: 便签纸
+  - generic: / 4A 便签纸，3 x 3 英寸，霓虹色混装，15 种颜色，自粘便签，每本 100 张，每包 15 本，4A 30315
+- button "查看全屏图片库":
+  - generic: 🔍
+- link "4A 便利贴，3 x 3 英寸，霓虹色混装，15 种颜色，自粘便签，每本 100 张，每包 15 本，4A 30315":
+  - /url: https://4ausa.com/wp-content/uploads/2026/01/30315-1修改.png
+  - img "4A 便利贴，3 x 3 英寸，霓虹色混装，15 种颜色，自粘便签，每本 100 张，每包 15 本，4A 30315"
+- heading "4A 便利贴，3 x 3 英寸，霓虹色混装，15 种颜色，自粘便签，每本 100 张，每包 15 本，4A 30315" [level=1]:
+  - generic: 4A 便利贴，3 x 3 英寸，霓虹色混装，15 种颜色，自粘便签，每本 100 张，每包 15 本，4A 30315
+- paragraph:
+  - text: $
+  - generic: "14.99"
+- table:
+  - rowgroup:
+    - row "便利贴，3×3，霓虹色什锦装，自粘便签，Post it，便利贴本":
+      - cell "便利贴，3×3，霓虹色什锦装，自粘便签，Post it，便利贴本":
+        - generic: 便利贴，3×3，霓虹色什锦装，自粘便签，Post it，便利贴本
+- generic: 4A 便利贴，3 x 3 英寸，霓虹色混装，15 种颜色，自粘便签，每本 100 张，每包 15 本，4A 30315 数量
+- spinbutton "产品数量": "1"
+- button "添加到购物车":
+  - generic: 添加到购物车
+- generic: 类别：
+- link "便签纸":
+  - /url: https://4ausa.com/product-category/sticky-notes-zh-hans/
+  - generic: 便签纸
+- tablist:
+  - tab "描述" [selected]:
+    - generic: 描述
+  - tab "附加信息":
+    - generic: 附加信息
+- tabpanel "描述":
+  - heading "描述" [level=2]:
+    - generic: 描述
+  - table:
+    - rowgroup:
+      - row "便利贴，3×3，霓虹色什锦装，自粘便签，Post it，便利贴本":
+        - cell "便利贴，3×3，霓虹色什锦装，自粘便签，Post it，便利贴本":
+          - generic: 便利贴，3×3，霓虹色什锦装，自粘便签，Post it，便利贴本
+- heading "相关产品" [level=2]:
+  - generic: 相关产品
+- list:
+  - link "4A 便利贴，2 x 2 英寸，小号，霓虹色混装，8 种颜色，自粘便签，每本 100 张，每包 8 本，4A 2028-N  4A 便利贴，2 x 2 英寸，小号，霓虹色混装，8 种颜色，自粘便签，每本 100 张，每包 8 本，4A 2028-N $5.99":
+    - /url: https://4ausa.com/product/4a-sticky-notes2-x-2-inchessmall-sizeneon-assorted8-colorsself-stick-notes100-sheets-pad8-pads-pack4a-2028-n/
+    - img "4A 便利贴，2 x 2 英寸，小号，霓虹色混装，8 种颜色，自粘便签，每本 100 张，每包 8 本，4A 2028-N"
+    - generic: 
+    - heading "4A 便利贴，2 x 2 英寸，小号，霓虹色混装，8 种颜色，自粘便签，每本 100 张，每包 8 本，4A 2028-N" [level=2]:
+      - generic: 4A 便利贴，2 x 2 英寸，小号，霓虹色混装，8 种颜色，自粘便签，每本 100 张，每包 8 本，4A 2028-N
+    - text: $
+    - generic: "5.99"
+  - link "4A 便签纸，3 x 5 英寸，霓虹色混装，带横线，12 种颜色，自粘便签纸，每本 100 张，每包 12 本，4A 30512-L  4A 便签纸，3 x 5 英寸，霓虹色混装，带横线，12 种颜色，自粘便签纸，每本 100 张，每包 12 本，4A 30512-L $27.49":
+    - /url: https://4ausa.com/product/4a-sticky-notes3-x-5-inchesneon-assortedlined12-colorsself-stick-notes100-sheets-pad12-pads-pack4a-30512-l-2/
+    - img "4A 便签纸，3 x 5 英寸，霓虹色混装，带横线，12 种颜色，自粘便签纸，每本 100 张，每包 12 本，4A 30512-L"
+    - generic: 
+    - heading "4A 便签纸，3 x 5 英寸，霓虹色混装，带横线，12 种颜色，自粘便签纸，每本 100 张，每包 12 本，4A 30512-L" [level=2]:
+      - generic: 4A 便签纸，3 x 5 英寸，霓虹色混装，带横线，12 种颜色，自粘便签纸，每本 100 张，每包 12 本，4A 30512-L
+    - text: $
+    - generic: "27.49"
+  - link "4A 便签纸，0.6 x 2 英寸，小号，16 种颜色，自粘便签，每本 100 张，每包 16 本，4A 501516  4A 便签纸，0.6 x 2 英寸，小号，16 种颜色，自粘便签，每本 100 张，每包 16 本，4A 501516 $9.99":
+    - /url: https://4ausa.com/product/4a-sticky-notes-0-6-x-2-inches-small-size16-colors-self-stick-notes-100-sheets-pad16-pads-pack-4a-501516/
+    - img "4A 便签纸，0.6 x 2 英寸，小号，16 种颜色，自粘便签，每本 100 张，每包 16 本，4A 501516"
+    - generic: 
+    - heading "4A 便签纸，0.6 x 2 英寸，小号，16 种颜色，自粘便签，每本 100 张，每包 16 本，4A 501516" [level=2]:
+      - generic: 4A 便签纸，0.6 x 2 英寸，小号，16 种颜色，自粘便签，每本 100 张，每包 16 本，4A 501516
+    - text: $
+    - generic: "9.99"
+- heading "产品类别" [level=4]:
+  - generic: 产品类别
+- list:
+  - link "3D打印便利贴":
+    - /url: https://4ausa.com/product-category/3d-printed-sticky-notes/
+    - generic: 3D打印便利贴
+  - link "任何人彩色便利贴":
+    - /url: https://4ausa.com/product-category/anyone-color-sticky-notes/
+    - generic: 任何人彩色便利贴
+  - link "大垫":
+    - /url: https://4ausa.com/product-category/big-pad/
+    - generic: 大垫
+  - link "模切便利贴":
+    - /url: https://4ausa.com/product-category/die-cut-sticky-notes/
+    - generic: 模切便利贴
+  - link "胶片粘性旗帜":
+    - /url: https://4ausa.com/product-category/film-sticky-flags/
+    - generic: 胶片粘性旗帜
+  - link "全粘性便签":
+    - /url: https://4ausa.com/product-category/full-adhesive-notes/
+    - generic: 全粘性便签
+  - link "神奇便签":
+    - /url: https://4ausa.com/product-category/magic-sticky-notes/
+    - generic: 神奇便签
+  - link "美纹纸胶带":
+    - /url: https://4ausa.com/product-category/masking-tape/
+    - generic: 美纹纸胶带
+  - link "会议":
+    - /url: https://4ausa.com/product-category/meeting/
+    - generic: 会议
+  - link "备忘录立方体":
+    - /url: https://4ausa.com/product-category/memo-cube/
+    - generic: 备忘录立方体
+  - link "整理便签":
+    - /url: https://4ausa.com/product-category/organizer-sticky-notes/
+    - generic: 整理便签
+  - link "规划师":
+    - /url: https://4ausa.com/product-category/planners/
+    - generic: 规划师
+  - link "打印的便签纸":
+    - /url: https://4ausa.com/product-category/printed-sticky-notes/
+    - generic: 打印的便签纸
+  - link "卷式便利贴":
+    - /url: https://4ausa.com/product-category/roll-sticky-notes/
+    - generic: 卷式便利贴
+  - link "便签纸":
+    - /url: https://4ausa.com/product-category/sticky-notes/
+    - generic: 便签纸
+  - link "便签盒套装":
+    - /url: https://4ausa.com/product-category/sticky-notes-box-set/
+    - generic: 便签盒套装
+  - link "便利贴立方体":
+    - /url: https://4ausa.com/product-category/sticky-notes-cube/
+    - generic: 便利贴立方体
+  - link "便签套装（PP盒装）":
+    - /url: https://4ausa.com/product-category/sticky-notes-set-in-pp-box/
+    - generic: 便签套装（PP盒装）
+  - link "超级粘性便签":
+    - /url: https://4ausa.com/product-category/super-sticky-notes/
+    - generic: 超级粘性便签
+  - link "未分类":
+    - /url: https://4ausa.com/product-category/uncategorized/
+    - generic: 未分类
+  - link "Z 型胶片索引注释":
+    - /url: https://4ausa.com/product-category/z-type-film-index-notes/
+    - generic: Z 型胶片索引注释
+- text: "2"
+- contentinfo:
+  - heading "网站链接" [level=4]:
+    - generic: 网站链接
+  - list:
+    - link "家":
+      - /url: https://4ausa.com/
+      - generic: 家
+    - link "联系我们":
+      - /url: https://4ausa.com/contact-us/
+      - generic: 联系我们
+    - link "配送与退货":
+      - /url: https://4ausa.com/shipping-returns/
+      - generic: 配送与退货
+    - link "隐私政策":
+      - /url: https://4ausa.com/privacy-policy/
+      - generic: 隐私政策
+  - heading "我的账户" [level=4]:
+    - generic: 我的账户
+  - list:
+    - link "创建批发账户":
+      - /url: https://4ausa.com/my-account/
+      - generic: 创建批发账户
+    - link "查看购物车":
+      - /url: https://4ausa.com/cart/
+      - generic: 查看购物车
+    - link "我的账户":
+      - /url: https://4ausa.com/my-account/
+      - generic: 我的账户
+  - heading "客户支持" [level=4]:
+    - generic: 客户支持
+  - link:
+    - /url: https://4ausa.com/contact-us/
+  - text: 如果您有任何疑问，或者在下单过程中需要帮助，
+  - link "请点击此处给我们发送电子邮件。":
+    - /url: https://4ausa.com/contact-us/
+  - generic: ©
+  - generic: "2026"
+  - generic: 4A (USA) Limited。版权所有。
+- status

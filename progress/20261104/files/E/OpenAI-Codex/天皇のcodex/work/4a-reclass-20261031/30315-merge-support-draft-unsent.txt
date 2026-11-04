@@ -1,0 +1,20 @@
+DRAFT ONLY - NOT SENT
+Subject:30315 catalog specification review using manufacturer webpage; previous case22923307871
+
+Please review the specification difference that prevented the duplicate-ASIN merge in case22923307871:
+- SourceASIN B07F295DPC:size "Standard Flat Pads (15 Pads)".
+- Intended retainedASIN B07FKG29KB:size "Standard Flat Pads (15 Pads Value Pack)".
+
+The manufacturer's public product page provides additional evidence:
+https://4ausa.com/product/4a-sticky-notes3-x-3-inchesneon-assorted15-colorsself-stick-notes100-sheets-pad15-pads-pack4a-30315/
+It identifies model4A30315 as3x3-inch ordinary self-stick notes,15assorted neon colors,15pads per pack and100sheets per pad (1500sheets total by calculation). The page does not describe "Value Pack" as a separate physical specification. Please assess whether the two size strings are inconsistent catalog descriptions of the same15-pad product, and identify the correct size attribute from this manufacturer evidence.
+
+We are not claiming all historic product-code contributions match. Our2026 master maps the intended targetB07FKG29KB toUPC702877124116; the sourceFBA offer report also lists702877124116. A historical targetFBA SKU,AAAA4A30315, listed702877122860. The public manufacturer page does not display a UPC. Please verify the authoritative product-code mapping rather than assuming these codes are interchangeable. If that distinction prevents the correction or merge, please specify which ASIN/code requires proof and whether you need an original-package barcode photo, GS1/manufacturer confirmation, or evidence of an old/new packaging-code relationship.
+
+Requested action:
+1. Review and resolve the size/specification mismatch using the manufacturer page, correcting an erroneous catalog contribution if supported.
+2. Confirm whether the ASINs represent the identical physical product. If confirmed and eligible, review mergingB07F295DPC intoB07FKG29KB, preserving existing FBA offer/FNSKU/inventory associations. If not eligible, explain the exact remaining physical-product or identifier difference.
+
+This request is for catalog correction and duplicate-product review, not a variation-family change. No changes to price, stock or SKU-to-ASIN assignments are requested.
+
+Available supporting attachments:manufacturer-page screenshot; prior case reply; scoped2026master row22 extract and historical offer-identifier extract. Internal spreadsheets are supplementary, not substitutes for the public manufacturer evidence.

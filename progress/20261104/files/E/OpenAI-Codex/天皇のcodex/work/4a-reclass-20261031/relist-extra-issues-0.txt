@@ -1,0 +1,541 @@
+- navigation:
+  - button "菜单":
+  - generic: 菜单
+  - button:
+  - navigation:
+    - searchbox
+    - link:
+      - /url: /amazonsell/business
+      - generic: 我的业务
+    - button:
+      - generic: 商品
+    - link:
+      - /url: /amazonsell/listings
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/manage-products
+      - text: 管理商品
+      - button:
+    - link:
+      - /url: /pricing/health
+      - text: 管理定价
+      - button:
+    - link:
+      - /url: /product-search
+      - text: 添加商品
+      - button:
+    - link:
+      - /url: /feedback-manager/index.html
+      - text: 分析评论
+      - button:
+    - link:
+      - /url: /new-product-guidance
+      - text: 研究商品
+      - button:
+    - link:
+      - /url: /gex
+      - text: 全球开店
+      - button:
+    - link:
+      - /url: /listing/reports
+      - text: 商品报告
+      - button:
+    - button:
+      - generic: 供应链
+    - link:
+      - /url: /amazonsell/inventory
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/fba-inventory
+      - text: 管理亚马逊库存
+      - button:
+    - link:
+      - /url: /global-store
+      - text: 管理海外购
+      - button:
+    - link:
+      - /url: /seller-fulfilled-product/analytics
+      - text: 管理卖家自配送库存
+      - button:
+    - link:
+      - /url: /manage/shipments
+      - text: 管理货件
+      - button:
+    - link:
+      - /url: /fba/sendtoamazon
+      - text: Send to Amazon
+      - button:
+    - link:
+      - /url: /channel-manager
+      - text: 管理渠道目的地
+      - button:
+    - link:
+      - /url: https://supplychain.amazon.com/scp/login?utm_source=ngs_persistence_link
+      - text: 供应链控制面板
+      - button:
+    - link:
+      - /url: /reportcentral/WelcomePage
+      - text: 供应链报告
+      - button:
+    - button:
+      - generic: 订单
+    - link:
+      - /url: /amazonsell/orders
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/orders/mfn
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /amazonsell/orders/fba
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /business/manage-quotes
+      - text: 管理报价
+      - button:
+    - link:
+      - /url: /manage/returns/mfn
+      - text: 管理退货
+      - button:
+    - link:
+      - /url: /gp/chargebacks/home.html
+      - text: 管理索赔
+      - button:
+    - link:
+      - /url: /order-reports-and-feeds/reports
+      - text: 订单报告
+      - button:
+    - button:
+      - generic: 营销推广
+    - link:
+      - /url: /amazonsell/marketing
+      - text: 工作区
+    - link:
+      - /url: /promotion-central/dashboard
+      - text: 管理促销和特惠
+      - button:
+    - link:
+      - /url: /brand-analytics
+      - text: 品牌分析
+      - button:
+    - link:
+      - /url: /cm?source=ngs
+      - text: 广告控制台
+      - button:
+    - link:
+      - /url: /vine
+      - text: Vine
+      - button:
+    - button:
+      - generic: 财务人员
+    - link:
+      - /url: /amazonsell/payments
+      - text: 工作区
+    - link:
+      - /url: /manage/finance/transactions
+      - text: 管理交易
+      - button:
+    - link:
+      - /url: /managetaxes/global-transaction-reports
+      - text: 管理税费
+      - button:
+    - link:
+      - /url: /economics
+      - text: 利润分析
+      - button:
+    - link:
+      - /url: /manage/finance/reports
+      - text: 财务报告
+      - button:
+    - button:
+      - generic: 账户状况
+    - link:
+      - /url: /performance/dashboard
+      - text: 管理账户状况
+      - button:
+    - button:
+      - generic: 计划和应用程序
+    - link:
+      - /url: /recommended-programs
+      - text: 了解计划
+      - button:
+    - link:
+      - /url: /selling-partner-appstore
+      - text: 销售伙伴应用商店
+      - button:
+    - link:
+      - /url: /tsba
+      - text: 浏览服务
+      - button:
+  - link:
+    - /url: /sitemap
+    - text: 站点地图
+  - link:
+    - /url: /home?ngs_do_not_redirect_flag=1
+    - text: 传统卖家平台
+  - link "Amazon":
+    - /url: /amazonsell
+  - button "4A (USA) LIMITED 美国":
+    - generic: 4A (USA) LIMITED
+    - generic: 美国
+  - button "账户状况":
+    - generic: 账户状况
+    - generic: 存在风险
+  - textbox "搜索任何内容"
+  - button "询问卖家助手":
+    - generic: 卖家助手
+  - link "新增内容":
+    - /url: /featurereleases
+  - link "消息":
+    - /url: /messaging/inbox-v3?fi=responseNeeded&&
+  - button "帮助":
+  - button "设置":
+- navigation:
+  - button:
+  - link "管理交易":
+    - /url: /manage/finance/transactions
+    - generic: 管理交易
+  - link "卖家大学":
+    - /url: /su/learn
+    - generic: 卖家大学
+  - link "管理商品":
+    - /url: /amazonsell/manage-products
+    - generic: 管理商品
+  - link "广告控制台":
+    - /url: /cm?source=ngs
+    - generic: 广告控制台
+  - link "管理货件":
+    - /url: /manage/shipments
+    - generic: 管理货件
+  - link "商品商机探测器":
+    - /url: /new-product-guidance
+    - generic: 商品商机探测器
+  - link "品牌分析":
+    - /url: /brand-analytics
+    - generic: 品牌分析
+  - link "A+ 商品描述管理器":
+    - /url: /enhanced-content/ref=xx_ebc_favb_xx
+    - generic: A+ 商品描述管理器
+  - link "业务报告":
+    - /url: /business-reports#/dashboard
+    - generic: 业务报告
+  - link "亚马逊物流库存报告":
+    - /url: /reportcentral/WelcomePage
+    - generic: 亚马逊物流库存报告
+  - link "商品报告":
+    - /url: /listing/reports
+    - generic: 商品报告
+  - link "绩效通知":
+    - /url: /performance/notifications
+    - generic: 绩效通知
+  - link "管理账户状况":
+    - /url: /performance/dashboard
+    - generic: 管理账户状况
+  - button:
+- list
+- button "✕"
+- banner:
+  - link "主页":
+    - /url: //sellercentral.amazon.com
+    - img "主页"
+  - link "需要帮助？":
+    - /url: /gp/help/help.html?itemID=G9YKQNSGEKXKPAYT
+  - img "商品图片"
+  - heading "4A Sticky Note Dispenser Pen Holder Set,Self-Stick Notes,8 Ultra Colors 3X3 Inches 400 Neon Sheets Sticky Notes and 1 * 1 3/4 Inches 2X50 Sheets.100 Flags,4A 303-AC-holder" [level=2]
+  - paragraph:
+    - generic: "ASIN:"
+    - generic: B07F2FCHLK
+    - generic: "ASIN:"
+    - generic: B07F2FCHLK
+  - paragraph:
+    - generic: "UPC:"
+    - generic: "702877124123"
+    - generic: "UPC:"
+    - generic: "702877124123"
+  - paragraph:
+    - generic: "亚马逊销售排名:"
+    - generic: "亚马逊销售排名:"
+  - generic: "竞争报价:"
+  - paragraph: 无当前报价
+  - link "在亚马逊上查看商品信息":
+    - /url: https://www.amazon.com/dp/B07F2FCHLK
+  - link "更多信息":
+    - /url: javascript:;
+  - generic: 
+  - navigation:
+    - link "产品详情":
+      - /url: /abis/listing/relist/product_details?sku=4A+303-AC-holder&asin=B07F2FCHLK&productType=SELF_STICK_NOTE&isVariationParent=false&marketplaceID=ATVPDKIKX0DER&ref_=myp_relist#product_details
+      - generic: 
+      - text: 产品详情
+    - link "图片":
+      - /url: /abis/listing/relist/images?sku=4A+303-AC-holder&asin=B07F2FCHLK&productType=SELF_STICK_NOTE&isVariationParent=false&marketplaceID=ATVPDKIKX0DER&ref_=myp_relist#images
+    - link "变种":
+      - /url: /abis/listing/relist/variations?sku=4A+303-AC-holder&asin=B07F2FCHLK&productType=SELF_STICK_NOTE&isVariationParent=false&marketplaceID=ATVPDKIKX0DER&ref_=myp_relist#variations
+    - link "报价":
+      - /url: /abis/listing/relist/offer?sku=4A+303-AC-holder&asin=B07F2FCHLK&productType=SELF_STICK_NOTE&isVariationParent=false&marketplaceID=ATVPDKIKX0DER&ref_=myp_relist#offer
+    - link "安全与合规":
+      - /url: /abis/listing/relist/safety_and_compliance?sku=4A+303-AC-holder&asin=B07F2FCHLK&productType=SELF_STICK_NOTE&isVariationParent=false&marketplaceID=ATVPDKIKX0DER&ref_=myp_relist#safety_and_compliance
+- generic: 输入语言
+- generic: 输入语言
+- 'note "Info: 选择您输入商品信息所使用的语言。亚马逊会为当地买家自动翻译成{main-language}。"':
+  - generic: 
+- generic "输入语言":
+  - generic "English":
+    - generic: English
+    - generic: 
+- 'note "Info: 在商品信息创建流程中设置商品信息语言后，将无法更改该语言。"':
+  - generic: 
+- generic: 属性
+- generic: 属性
+- button:
+  - generic: 
+- radio "必填"
+- generic: 必填
+- generic: 必填
+- radio "推荐"
+- generic: 推荐
+- generic: 推荐
+- radio "所有属性" [checked]
+- generic: 所有属性
+- generic: 所有属性
+- generic: A/B 试验
+- 'note "Info: 您可以运行试验来优化所支持的商品描述，从而提高转化率和增加销售额的潜力。"':
+  - generic: 
+- generic: 新增！
+- text: 因流量较低而不符合要求
+- link "查看符合要求的商品":
+  - /url: https://sellercentral.amazon.com/experiments/dashboard?ref=mye_marathon_not_eligible
+  - text: 查看符合要求的商品
+  - generic: 
+- text: "*"
+- generic: 商品名称
+- generic: 商品名称
+- generic: 
+- generic: 4A Sticky Note Dispenser Pen Holder Set,Self-Stick Notes,8 Ultra Colors 3X3 Inches 400 Neon Sheets Sticky Notes and 1 * 1 3/4 Inches 2X50 Sheets.100 Flags,4A 303-AC-holder
+- textbox "示例： Adidas Blue Sneakers": 4A Pen Holder Set with 400 Sticky Note Sheets and 100 Page Flags
+- generic: 商品亮点
+- generic: 商品亮点
+- generic: 
+- textbox "示例： Breathable material": Desktop storage with colorful notes and flags
+- text: "*"
+- generic: 品牌名
+- generic: 品牌名
+- generic: 
+- generic: 4A
+- textbox "示例： Sony" [disabled]: 4A
+- generic: 
+- generic: 外部产品 ID
+- generic: 外部产品 ID
+- generic: 
+- text: "702877124123"
+- textbox "示例： 714532191586" [disabled]: "702877124123"
+- text: upc
+- generic "UPC":
+  - generic: UPC
+  - generic: 
+- 'note "Info: 此字段在提交后将无法更改。 要进行编辑，请删除该商品信息，并创建新的商品信息。"':
+  - generic: 
+- generic: 产品类型关键字
+- generic: 产品类型关键字
+- generic: 
+- text: sticky-note-pads
+- textbox "产品类型关键字" [disabled]:
+  - /placeholder: Suggest a change
+  - text: sticky-note-pads
+- link "编辑":
+  - /url: /abis/listing/relist/product_details/itkrbn?sku=4A+303-AC-holder&asin=B07F2FCHLK&productType=SELF_STICK_NOTE&isVariationParent=false&marketplaceID=ATVPDKIKX0DER&ref_=myp_relist#product_details
+  - button "编辑":
+    - generic: 编辑
+- generic: 型号
+- generic: 型号
+- generic: 
+- generic: 4A 303-AC-holder
+- textbox "示例： RXZER23"
+- text: "*"
+- generic: 制造商
+- generic: 制造商
+- generic: 
+- generic: AAAA 4A
+- textbox "示例： Nike, Procter & Gamble": AAAA 4A
+- text: "*"
+- generic: 产品描述
+- generic: 产品描述
+- generic: 
+- generic: 4A,Brand,High Quality,Good Price! 4A,professional sticky notes manufactures,started to research and develop on sticky notes from 2000,and took 7 years making a significant in researching technical difficulties.From 2007, We do OEM for many famous brand. Now 4A is one of best sticky notes manufactures in the world. 4A strive in producing the best quality sticky notes with smooth adhesive,stick longer,remove cleanly,no curved.4A sticky notes have a unique adhesive technology to stick again and again on any smooth surface. 4A have several series of sticky notes,including creative design products,also accept OEM orders. Search 4A in Amazon.com,you will find professional sticky you want and will be satisfied with our products.
+- textbox "示例： This summer, boots by Jette made from high quality suede leather are real gems. They visually highlight the craftsmanship and fine leather braid positioned at the top of the shaft": 4A,Brand,High Quality,Good Price! 4A,professional sticky notes manufactures,started to research and develop on sticky notes from 2000,and took 7 years making a significant in researching technical difficulties.From 2007, We do OEM for many famous brand. Now 4A is one of best sticky notes manufactures in the world. 4A strive in producing the best quality sticky notes with smooth adhesive,stick longer,remove cleanly,no curved.4A sticky notes have a unique adhesive technology to stick again and again on any smooth surface. 4A have several series of sticky notes,including creative design products,also accept OEM orders. Search 4A in Amazon.com,you will find professional sticky you want and will be satisfied with our products.
+- text: "*"
+- generic: 要点
+- generic: 要点
+- generic: 
+- textbox "示例： Breathable Leather Lining": "[Color and size] 3 in x 3 in 400 Sticky Notes and 1 in x 1 3/4 in 100 Flags, 8 Ultra Colors"
+- generic: "99300: 分项描述 包含虚假/促销声明或外部链接。 在重新提交之前，请更新内容以符合商品详情页面政策。 查看指南 https://sellercentral.amazon.com/help/hub/reference/external/G200390640"
+- generic: "99300: 分项描述 包含虚假/促销声明或外部链接。 在重新提交之前，请更新内容以符合商品详情页面政策。 查看指南 https://sellercentral.amazon.com/help/hub/reference/external/G200390640"
+- generic: 这段文字有帮助吗？
+- generic: 
+- generic: 
+- generic: "*"
+- textbox "示例： Breathable Leather Lining": "[Features] High quality paper, easy to use and peel, no residue, can keep clean and tidy"
+- generic: "*"
+- textbox "示例： Breathable Leather Lining": "[Application] Great for jotting down quick messages and brainstorming meetings where ideas get captured"
+- generic: "*"
+- textbox "示例： Breathable Leather Lining": "[Recyclable] 4A sticky notes are recyclable"
+- generic: "*"
+- textbox "示例： Breathable Leather Lining": "[4A brand] High quality,good price!FREE shipping on orders over $25.00"
+- link "添加更多":
+  - /url: javascript:void(0);
+  - generic: 添加更多
+- text: "|"
+- link "清除上一个":
+  - /url: javascript:void(0);
+  - generic: 清除上一个
+- generic: 搜索关键字
+- generic: 搜索关键字
+- generic: 
+- textbox "示例： Water sport shoes; Derek Rose; Electric; Wi-Fi; Banana": Sticky notes,3 x 3 inches,Dispenser Pen Holder,Box Set,Neon Assorted,Self-Stick Notes,Post it,Sticky note pads,page marker,sticky notes mini,sticky notes decorative,sticky notes colorful,sticky notes stationary,sticky notes small square,memo pad
+- generic: 专有特征
+- generic: 专有特征
+- generic: 
+- textbox "示例： Transparent"
+- link "添加更多":
+  - /url: javascript:void(0);
+  - generic: 添加更多
+- generic: 产品数量
+- generic: 产品数量
+- generic: 
+- generic: "1"
+- spinbutton: "50"
+- generic: 成套产品数量
+- generic: 成套产品数量
+- generic: 
+- generic: "1"
+- spinbutton
+- generic: 颜色
+- generic: 颜色
+- generic: 
+- generic: Multicolor
+- textbox "示例： Cranberry": Neon Assorted
+- generic: "8541: 提供的商品信息数据与亚马逊目录中已有的数据不同。所提供的item_id与 ASIN B07F2FCHLK相匹配，但有些商品信息数据与亚马逊目录中已有的数据相矛盾。 以下商品信息属性值与亚马逊目录值冲突：'color' (卖家[en_US: \"Neon Assorted\"] / 亚马逊[en_US: \"Multicolor\", en_CA: \"Multicolor\", es_US: \"Varios colores\"和1个其他变体fr_CA])。 要解决此问题，请按照以下步骤操作：1) 如果您发布的商品与B07F2FCHLK相同，请更新商品信息的'color' 属性以匹配亚马逊的目录值；2) 如果 ASIN 不正确，请确保所提供的item_id是正确的；或 3) 如果您不认同亚马逊目录中的数据，请联系销售伙伴支持以启动申诉流程。 了解如何修复此错误"
+- generic: "8541: 提供的商品信息数据与亚马逊目录中已有的数据不同。所提供的item_id与 ASIN B07F2FCHLK相匹配，但有些商品信息数据与亚马逊目录中已有的数据相矛盾。 以下商品信息属性值与亚马逊目录值冲突：'color' (卖家[en_US: \"Neon Assorted\"] / 亚马逊[en_US: \"Multicolor\", en_CA: \"Multicolor\", es_US: \"Varios colores\"和1个其他变体fr_CA])。 要解决此问题，请按照以下步骤操作：1) 如果您发布的商品与B07F2FCHLK相同，请更新商品信息的'color' 属性以匹配亚马逊的目录值；2) 如果 ASIN 不正确，请确保所提供的item_id是正确的；或 3) 如果您不认同亚马逊目录中的数据，请联系销售伙伴支持以启动申诉流程。 了解如何修复此错误"
+- generic: 这段文字有帮助吗？
+- generic: 
+- generic: 
+- generic: 尺码
+- generic: 尺码
+- generic: 
+- generic: 3.8" x 3.7"
+- textbox "示例： Extra Large": Standard Size (Pack 6)
+- text: "*"
+- generic: 零件编号
+- generic: 零件编号
+- generic: 
+- generic: 4A 303-AC-holder
+- textbox "示例： RIV001": 4A 303-AC-holder
+- generic: 品項形狀
+- generic: 品項形狀
+- generic: 
+- generic: Rectangular
+- textbox "示例： Round"
+- generic: 纸张尺寸
+- generic: 纸张尺寸
+- generic: 
+- generic: 纸张尺寸单位
+- generic: 纸张尺寸单位
+- generic: 
+- generic: inches
+- generic: Inches
+- button "清除":
+  - generic: 
+- generic: 
+- generic: 纸张尺寸
+- generic: 纸张尺寸
+- generic: 
+- generic: 1 x 1 3/4
+- textbox "示例： 8.5 x 11, 5 x 7, 11 x 17": 1 x 1 3/4
+- generic: 单位计数
+- generic: 单位计数
+- generic: 
+- generic: 单位计数类型
+- generic: 单位计数类型
+- generic: 单位计数类型
+- generic: 
+- generic: Count
+- generic: 示例： Count, Gram
+- generic: 
+- generic: 单位计数
+- generic: 单位计数
+- generic: 
+- generic: "1.0"
+- spinbutton
+- generic: 产品网站发布日期
+- generic: 产品网站发布日期
+- generic: 
+- button "Calendar":
+  - generic: 
+- textbox "undefined":
+  - /placeholder: YYYY-MM-DD
+  - text: 2018-06-26
+- generic: 联赛名称
+- generic: 联赛名称
+- generic: 
+- textbox "示例： NBA"
+- link "添加更多":
+  - /url: javascript:void(0);
+  - generic: 添加更多
+- generic: 球队名称
+- generic: 球队名称
+- generic: 
+- textbox "示例： Seattle Seahawks"
+- link "添加更多":
+  - /url: javascript:void(0);
+  - generic: 添加更多
+- generic: 建议用法
+- generic: 建议用法
+- generic: 
+- textbox "示例： Book Tab"
+- link "添加更多":
+  - /url: javascript:void(0);
+  - generic: 添加更多
+- generic: 包装尺寸名称
+- generic: 包装尺寸名称
+- generic: 
+- textbox "示例： Economy Pack, Jumbo Pack"
+- generic: 内包装数量
+- generic: 内包装数量
+- generic: 
+- spinbutton
+- generic: 政府合同名称和编号
+- generic: 政府合同名称和编号
+- generic: 
+- generic: 政府合同名称
+- generic: 政府合同名称
+- generic: 
+- textbox "示例： NASA SEWP V"
+- generic: 政府合同编号
+- generic: 政府合同编号
+- generic: 
+- textbox "示例： 47QTCA19D000C"
+- generic: 商品重量
+- generic: 商品重量
+- generic: 
+- generic: 商品重量
+- generic: 商品重量
+- generic: 
+- spinbutton
+- generic: 商品重量单位
+- generic: 商品重量单位
+- generic: 
+- generic: 示例： Pounds, Grams
+- generic: 
+- text: "* * *"
+- button "取消":
+  - generic: 取消
+- button "保存并完成":
+  - generic: 保存并完成
+- link "站点地图":
+  - /url: /sitemap
+- link "计划政策":
+  - /url: /help/hub/reference/521
+- generic: © 1999-2026，Amazon.com, Inc. 或其附属公司
+- link "反馈":
+  - /url: "#"

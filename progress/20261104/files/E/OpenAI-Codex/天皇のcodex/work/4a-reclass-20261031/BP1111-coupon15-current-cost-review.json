@@ -1,0 +1,24 @@
+{
+  "asin": "B07QWKYQV7",
+  "sku": "4A BP 1111-Nx4",
+  "ordinary_price": 27.39,
+  "fba_sellable": 25,
+  "current_b2b_price": null,
+  "current_b2b_tiers": [],
+  "fba_fee": 6.37,
+  "coupon15_customer_price": 23.28,
+  "coupon15_cash_before_goods_other_costs": 12.84,
+  "prior_27_99_to_27_39_then_coupon15_total_discount_percent": 16.82,
+  "coupon_eligible_current": true,
+  "no_further_price_reduction_needed": true,
+  "ui_last30_units": 3,
+  "us_noncancel_orders_2026_10_02_to_10_30": 0,
+  "period_scope_discrepancy_unresolved": true,
+  "evidence": [
+    "coupon-price-current-B07QWKYQV7.txt",
+    "BP1111-current-inventory.txt",
+    "BP1111-current-business-tiers.txt",
+    "priority-two-demand-recheck.json"
+  ],
+  "live_changes_this_agent": false
+}

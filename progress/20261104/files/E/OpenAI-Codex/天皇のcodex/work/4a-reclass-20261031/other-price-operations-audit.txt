@@ -1,0 +1,38 @@
+02/03及手工价格操作复核
+03实际文件164行，仅C,D,E,I,J,L,M,T,BG有值；无价格字段，无价格重复覆盖风险。
+02实际9行逐单元格与作者数据一致；6条恢复价与原历史价一致；2028、holder、6032三条下降正在恢复。
+
+4A073 | B00SMEEVKQ | FBA
+{"ordinary": [10.99, 4.99], "business": [4.49, 4.49]}
+需优先复核：手工FBA普通价下降54.6%，与v1无关；Excel另邮价混用疑点
+依据：CONTINUE_CHECKPOINT.txt lines33,206; pricing-expanded.txt
+
+AAAA 4A 608-N-L-210 | B07B8RBCKT | FBA
+{"ordinary": [14.99, 11.99]}
+需复核：先按历史14.99恢复，随后按Excel11.99降价20%；已有15%券，需分清当时授权与运费口径
+依据：restore-price-evidence.json;608-price-saved.txt;CONTINUE_CHECKPOINT.txt line35
+
+4A 5036-B00SM-FBA | B00SMEEVC4 | FBA
+{"ordinary": [7.2, 6.99], "business": [9.69, 6.99]}
+小幅2.92%普通降价及企业倒挂纠正，不能等同50%事故；仍需核当时授权与原价
+依据：CONTINUE_CHECKPOINT.txt lines34,143
+
+4A GM30315 | B07FKG29KB | FBM
+{"ordinary": [18.99, 15.99], "sale": [15.99, 14.99], "list": [18.99, 15.99]}
+手工FBM单独编辑；到手价另8.99运费；真实有效价15.99→14.99约6.25%，不能按普通18.99→14.99误称一次实际21%降价
+依据：CONTINUE_CHECKPOINT.txt line84;30315-price-submitted.png;30315-public-before.txt
+
+4A BP 1111-Nx4 / 4A GMBP 1111-Nx4 | B07QWKYQV7 | FBA+FBM
+{"ordinary": [27.99, 27.39]}
+用户后来明确要求小幅调价重试Coupon；约2.14%，单独目的，与v1的37.39→27.99分开；提交后当前仍需回读
+依据：bp1111-coupon-price-before.txt/bp1111-coupon-price-saved.txt/bp1111-coupon-retry-after-price.txt
+
+4A 354818 | B07DJKDB63 | FBA
+{"minimum": [9.99, 7.99], "ordinary": [7.99, 7.99]}
+只修最低价冲突，原普通7.99未下降；不能将最低价调整当普通降价
+依据：354818-live-status.txt;CONTINUE_CHECKPOINT.txt lines153
+
+4A 40623 | B00SMEF542 | FBA
+{"minimum": [6.39, 5.99], "ordinary": [5.99, 5.99]}
+只修最低价冲突；截图普通5.99、最低5.99、最高7.39，未降普通价
+依据：40623-floor-fixed.png; earlier current plan

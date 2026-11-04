@@ -1,0 +1,77 @@
+{
+  "checked_at": "2026-11-01T16:15:05+08:00",
+  "campaign": "6de47649-9a49-4c38-9310-5261c67f26ee",
+  "status": "RUNNING",
+  "expected_count": 12,
+  "actual_count": 12,
+  "missing": [],
+  "extra": [],
+  "error_count": 0,
+  "rows": [
+    {
+      "asin": "B0F9L5G6XQ",
+      "error": "",
+      "page": 1
+    },
+    {
+      "asin": "B07QVKPZXX",
+      "error": "",
+      "page": 1
+    },
+    {
+      "asin": "B07FK9S7S8",
+      "error": "",
+      "page": 1
+    },
+    {
+      "asin": "B07FKJM2LX",
+      "error": "",
+      "page": 1
+    },
+    {
+      "asin": "B07B8RBCKT",
+      "error": "",
+      "page": 1
+    },
+    {
+      "asin": "B07JVSYNYV",
+      "error": "",
+      "page": 1
+    },
+    {
+      "asin": "B07F2B49BL",
+      "error": "",
+      "page": 1
+    },
+    {
+      "asin": "B07QXJYKJN",
+      "error": "",
+      "page": 1
+    },
+    {
+      "asin": "B07FKBHTDG",
+      "error": "",
+      "page": 1
+    },
+    {
+      "asin": "B08DKJ2K3T",
+      "error": "",
+      "page": 1
+    },
+    {
+      "asin": "B01LVTWP7Q",
+      "error": "",
+      "page": 2
+    },
+    {
+      "asin": "B07MQVWLSY",
+      "error": "",
+      "page": 2
+    }
+  ],
+  "scope": "Final submitted coupon product ASIN/error-column acceptance only; no price/inventory re-audit",
+  "sources": [
+    "coupon5-final12-detail-page1.txt",
+    "coupon5-final12-detail-page2.txt"
+  ]
+}

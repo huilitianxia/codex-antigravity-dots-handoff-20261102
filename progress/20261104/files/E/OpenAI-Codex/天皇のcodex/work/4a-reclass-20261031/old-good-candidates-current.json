@@ -1,0 +1,1118 @@
+[
+  {
+    "row": 2,
+    "asin": "B07FKG29KB",
+    "historic_rating": 4,
+    "historic_reviews": 122,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A GM30315",
+        "price": 15.99,
+        "quantity": 1054.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-30315-RAINBOW-15"
+      }
+    ]
+  },
+  {
+    "row": 9,
+    "asin": "B01M986R0Y",
+    "historic_rating": 4.4,
+    "historic_reviews": 84,
+    "fba": 3,
+    "offers": [
+      {
+        "sku": "4A 6043-FBA",
+        "price": 8.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "AMAZON_US2MX_RAFN",
+        "parent": "PARENT-4A-TRANSPARENT-PET-TABS"
+      },
+      {
+        "sku": "4A GMVC6043",
+        "price": 9.99,
+        "quantity": 0.0,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-TRANSPARENT-PET-TABS"
+      }
+    ]
+  },
+  {
+    "row": 10,
+    "asin": "B00SMEEF2A",
+    "historic_rating": 4.1,
+    "historic_reviews": 43,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A 5078",
+        "price": 8.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      },
+      {
+        "sku": "4A GMSC5078",
+        "price": 18.99,
+        "quantity": 0.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 14,
+    "asin": "B01MT35G2V",
+    "historic_rating": 4.2,
+    "historic_reviews": 43,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A PSS 9-1 NP",
+        "price": 14.99,
+        "quantity": 0.0,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-PSS-ROLL-TAPE"
+      },
+      {
+        "sku": "4A080",
+        "price": 15.99,
+        "quantity": 0.0,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-PSS-ROLL-TAPE"
+      }
+    ]
+  },
+  {
+    "row": 15,
+    "asin": "B0756Z8N8X",
+    "historic_rating": 4.2,
+    "historic_reviews": 18,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A 0129",
+        "price": 4.99,
+        "quantity": 0.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-303-CLASSIC-SQUARE"
+      }
+    ]
+  },
+  {
+    "row": 16,
+    "asin": "B07FKNMSJH",
+    "historic_rating": 4.2,
+    "historic_reviews": 18,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A 0127",
+        "price": 6.99,
+        "quantity": 0.0,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-303-CLASSIC-SQUARE"
+      },
+      {
+        "sku": "4A 8664",
+        "price": 6.99,
+        "quantity": null,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-303-CLASSIC-SQUARE"
+      }
+    ]
+  },
+  {
+    "row": 17,
+    "asin": "B00V9Z5Y56",
+    "historic_rating": 4.4,
+    "historic_reviews": 13,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A PSS 9-1 NO",
+        "price": 8.99,
+        "quantity": 0.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-PSS-ROLL-TAPE"
+      }
+    ]
+  },
+  {
+    "row": 18,
+    "asin": "B07FKCSH65",
+    "historic_rating": 5,
+    "historic_reviews": 4,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A PSS 9-3 BGR",
+        "price": 15.99,
+        "quantity": null,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-PSS-ROLL-TAPE"
+      }
+    ]
+  },
+  {
+    "row": 19,
+    "asin": "B07FKHKDJC",
+    "historic_rating": 4.2,
+    "historic_reviews": 4,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 8085+8086",
+        "price": 7.99,
+        "quantity": null,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 20,
+    "asin": "B07FKHZVL1",
+    "historic_rating": 4.2,
+    "historic_reviews": 4,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 8068+8065",
+        "price": 7.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 21,
+    "asin": "B07FKJ43F3",
+    "historic_rating": 4.2,
+    "historic_reviews": 4,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 8084+ 8082",
+        "price": 8.99,
+        "quantity": null,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 22,
+    "asin": "B07FKJ6XRW",
+    "historic_rating": 4.2,
+    "historic_reviews": 4,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 8089+8081",
+        "price": 8.99,
+        "quantity": null,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-MEMO-NOTE-CUBES"
+      }
+    ]
+  },
+  {
+    "row": 23,
+    "asin": "B07FKJVC5M",
+    "historic_rating": 4.2,
+    "historic_reviews": 4,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 8087+8088",
+        "price": 6.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 24,
+    "asin": "B07FKL3L4S",
+    "historic_rating": 4.2,
+    "historic_reviews": 4,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 8066+8067",
+        "price": 7.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 25,
+    "asin": "B07FKL8LC9",
+    "historic_rating": 4.2,
+    "historic_reviews": 4,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 8071+8083",
+        "price": 7.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 26,
+    "asin": "B07FKLB97D",
+    "historic_rating": 4.2,
+    "historic_reviews": 4,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 8075+8076",
+        "price": 8.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 27,
+    "asin": "B07FKLCV98",
+    "historic_rating": 4.2,
+    "historic_reviews": 4,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 8069+8070",
+        "price": 7.99,
+        "quantity": null,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 28,
+    "asin": "B07FKMR9CV",
+    "historic_rating": 4.2,
+    "historic_reviews": 4,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 8072+8073",
+        "price": 7.99,
+        "quantity": null,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 29,
+    "asin": "B07FKNJB33",
+    "historic_rating": 4.2,
+    "historic_reviews": 4,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 8074+8067",
+        "price": 8.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 30,
+    "asin": "B07FKQ77PG",
+    "historic_rating": 4.2,
+    "historic_reviews": 4,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 8077+8079",
+        "price": 6.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 31,
+    "asin": "B07FKS5QGR",
+    "historic_rating": 4.2,
+    "historic_reviews": 4,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 8078+8080",
+        "price": 7.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 3,
+    "asin": "B07B7G1DKQ",
+    "historic_rating": 5,
+    "historic_reviews": 2,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A 0185",
+        "price": 13.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-303M-MAGIC-CYCLING"
+      },
+      {
+        "sku": "4A 301Mx24",
+        "price": 10.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-301-MINI-PADS"
+      }
+    ]
+  },
+  {
+    "row": 4,
+    "asin": "B07B7JF9LB",
+    "historic_rating": 5,
+    "historic_reviews": 2,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A 0183",
+        "price": 13.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-303M-MAGIC-CYCLING"
+      },
+      {
+        "sku": "4A U3032",
+        "price": null,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": null,
+        "parent": "PARENT-4A-303-CLASSIC-SQUARE"
+      }
+    ]
+  },
+  {
+    "row": 5,
+    "asin": "B07FD3X3NM",
+    "historic_rating": 5,
+    "historic_reviews": 2,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 305x6",
+        "price": 15.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-FULL-ADHESIVE-PADS"
+      }
+    ]
+  },
+  {
+    "row": 7,
+    "asin": "B07KSX2V6M",
+    "historic_rating": 4.5,
+    "historic_reviews": 2,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A GMMEETING-51*4",
+        "price": 84.99,
+        "quantity": 0.0,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-BIGPAD-MEETING-EASEL"
+      },
+      {
+        "sku": "4A MEETING-51*4",
+        "price": 84.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-BIGPAD-MEETING-EASEL"
+      }
+    ]
+  },
+  {
+    "row": 32,
+    "asin": "B01N9LPEVG",
+    "historic_rating": 5,
+    "historic_reviews": 2,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A PSS 9-1 NG",
+        "price": 7.99,
+        "quantity": 0.0,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-PSS-ROLL-TAPE"
+      }
+    ]
+  },
+  {
+    "row": 33,
+    "asin": "B07FKJ9G7F",
+    "historic_rating": 5,
+    "historic_reviews": 2,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 6417+6418",
+        "price": 7.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 34,
+    "asin": "B07FKK4Z6P",
+    "historic_rating": 5,
+    "historic_reviews": 2,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A GM6416+6414",
+        "price": 5.99,
+        "quantity": 0.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 35,
+    "asin": "B07FKKGK7J",
+    "historic_rating": 5,
+    "historic_reviews": 2,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 6413+6414",
+        "price": 8.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 36,
+    "asin": "B07FKLB2M9",
+    "historic_rating": 5,
+    "historic_reviews": 2,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A GM6419+6415",
+        "price": 7.99,
+        "quantity": 0.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 37,
+    "asin": "B07FKQ77PK",
+    "historic_rating": 5,
+    "historic_reviews": 2,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 6411+ 6412",
+        "price": 7.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 64,
+    "asin": "B07GBYPK92",
+    "historic_rating": 4.5,
+    "historic_reviews": 2,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A Meeting-51",
+        "price": 19.99,
+        "quantity": 0.0,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-BIGPAD-MEETING-EASEL"
+      }
+    ]
+  },
+  {
+    "row": 8,
+    "asin": "B07M854SFQ",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A GMPSS 9-1 NYRPOGRID",
+        "price": 23.49,
+        "quantity": 0.0,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-PSS-ROLL-TAPE"
+      },
+      {
+        "sku": "4A PSS 9-1 NYRPOGRID",
+        "price": 26.99,
+        "quantity": 0.0,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-PSS-ROLL-TAPE"
+      }
+    ]
+  },
+  {
+    "row": 38,
+    "asin": "B01MDJGBD5",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A TN 789",
+        "price": 7.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 39,
+    "asin": "B01MQXZ2LP",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A 5018",
+        "price": 6.99,
+        "quantity": 0.0,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      },
+      {
+        "sku": "4A059",
+        "price": 6.99,
+        "quantity": 0.0,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 40,
+    "asin": "B01MRZCNY9",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A 5020",
+        "price": 6.99,
+        "quantity": 0.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      },
+      {
+        "sku": "4A058",
+        "price": 6.99,
+        "quantity": 0.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 41,
+    "asin": "B01MYXK4U1",
+    "historic_rating": 4,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 65000x8",
+        "price": 5.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 42,
+    "asin": "B01N1WZFFL",
+    "historic_rating": 4,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A PSS 9-3 BGR",
+        "price": 9.99,
+        "quantity": 0.0,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-PSS-ROLL-TAPE"
+      }
+    ]
+  },
+  {
+    "row": 43,
+    "asin": "B07B5V29BQ",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A 0141",
+        "price": 3.99,
+        "quantity": 0.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 44,
+    "asin": "B07B5W21KL",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A 0144",
+        "price": 3.99,
+        "quantity": 0.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 45,
+    "asin": "B07B5YYGRL",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A 0138",
+        "price": 3.99,
+        "quantity": 0.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 46,
+    "asin": "B07B63Q29Z",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A 0142",
+        "price": 3.99,
+        "quantity": 0.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 47,
+    "asin": "B07B63WC97",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A 0139",
+        "price": 3.99,
+        "quantity": 0.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 48,
+    "asin": "B07B6438D1",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A 0140",
+        "price": 3.99,
+        "quantity": 0.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 49,
+    "asin": "B07B64GTPF",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A 0143",
+        "price": 3.99,
+        "quantity": 0.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 50,
+    "asin": "B07B65PV21",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A 0136",
+        "price": 3.99,
+        "quantity": 0.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 51,
+    "asin": "B07B68TZ84",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A 0137",
+        "price": 3.99,
+        "quantity": 0.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 52,
+    "asin": "B07FD5D4QB",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 305x6-Y",
+        "price": 9.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-FULL-ADHESIVE-PADS"
+      }
+    ]
+  },
+  {
+    "row": 53,
+    "asin": "B07FK7Y7YC",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A GMPSS 9-1 NP",
+        "price": 7.99,
+        "quantity": 0.0,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-PSS-ROLL-TAPE"
+      }
+    ]
+  },
+  {
+    "row": 54,
+    "asin": "B07FK9BMYQ",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 303x6-N",
+        "price": 17.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-303-CLASSIC-SQUARE"
+      }
+    ]
+  },
+  {
+    "row": 55,
+    "asin": "B07FKB3BMH",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 303x6-Z",
+        "price": 10.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-303-CLASSIC-SQUARE"
+      }
+    ]
+  },
+  {
+    "row": 56,
+    "asin": "B07FKJC95S",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 8667+ 8666",
+        "price": 17.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-303-CLASSIC-SQUARE"
+      }
+    ]
+  },
+  {
+    "row": 57,
+    "asin": "B07FKJD442",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A GM608x2-N-L YB",
+        "price": 10.99,
+        "quantity": 0.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-608-XLARGE-6X8"
+      }
+    ]
+  },
+  {
+    "row": 58,
+    "asin": "B07FKJVB1L",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 6524+6525",
+        "price": 7.99,
+        "quantity": null,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 59,
+    "asin": "B07FKK9821",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 6523+ 6524",
+        "price": 7.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 60,
+    "asin": "B07FKKYZ1F",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A GM6526+6527",
+        "price": 6.99,
+        "quantity": 0.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+      }
+    ]
+  },
+  {
+    "row": 61,
+    "asin": "B07FKPGMSM",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 8665+8666",
+        "price": 7.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-303-CLASSIC-SQUARE"
+      }
+    ]
+  },
+  {
+    "row": 62,
+    "asin": "B07FKNGL34",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "AAAA 4A 60122x6-N",
+        "price": 8.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-TRANSPARENT-PET-TABS"
+      }
+    ]
+  },
+  {
+    "row": 63,
+    "asin": "B01MSZSP8F",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A 038",
+        "price": 9.99,
+        "quantity": null,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Amazon (NA)",
+        "parent": "PARENT-4A-608-XLARGE-6X8"
+      },
+      {
+        "sku": "4A GM608x2-N-L GR",
+        "price": 10.99,
+        "quantity": 0.0,
+        "offer_stop_passed": false,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-608-XLARGE-6X8"
+      }
+    ]
+  },
+  {
+    "row": 65,
+    "asin": "B07MCTZK9Z",
+    "historic_rating": 5,
+    "historic_reviews": 1,
+    "fba": 0,
+    "offers": [
+      {
+        "sku": "4A GMPSS-9-1 NGYOP",
+        "price": 21.49,
+        "quantity": 0.0,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-PSS-ROLL-TAPE"
+      },
+      {
+        "sku": "4A PSS-9-1 NGYOP",
+        "price": 24.99,
+        "quantity": 0.0,
+        "offer_stop_passed": true,
+        "channel": "Fulfillment by Merchant (Default)",
+        "parent": "PARENT-4A-PSS-ROLL-TAPE"
+      }
+    ]
+  }
+]

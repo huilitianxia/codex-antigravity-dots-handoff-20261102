@@ -1,0 +1,122 @@
+{
+  "status": "RUNNING_PRODUCT_ERRORS_EMPTY",
+  "count": 22,
+  "missing": [],
+  "extra": [],
+  "nonempty_errors": [],
+  "percent": 15,
+  "budget": 200,
+  "end": "2026-11-29",
+  "rows": [
+    {
+      "asin": "B07QWKYQV7",
+      "errors": "",
+      "source": "coupon15-final22-live-detail.txt"
+    },
+    {
+      "asin": "B07FKHHTY4",
+      "errors": "",
+      "source": "coupon15-final22-live-detail.txt"
+    },
+    {
+      "asin": "B07DJKB4FZ",
+      "errors": "",
+      "source": "coupon15-final22-live-detail.txt"
+    },
+    {
+      "asin": "B07RP9BW5Z",
+      "errors": "",
+      "source": "coupon15-final22-live-detail.txt"
+    },
+    {
+      "asin": "B07QWKWWP2",
+      "errors": "",
+      "source": "coupon15-final22-live-detail.txt"
+    },
+    {
+      "asin": "B07T7PTYQ2",
+      "errors": "",
+      "source": "coupon15-final22-live-detail.txt"
+    },
+    {
+      "asin": "B0F2TJZ8GM",
+      "errors": "",
+      "source": "coupon15-final22-live-detail.txt"
+    },
+    {
+      "asin": "B07FKB3BRZ",
+      "errors": "",
+      "source": "coupon15-final22-live-detail.txt"
+    },
+    {
+      "asin": "B07QZR9Z3P",
+      "errors": "",
+      "source": "coupon15-final22-live-detail.txt"
+    },
+    {
+      "asin": "B07FKHHTYG",
+      "errors": "",
+      "source": "coupon15-final22-live-detail.txt"
+    },
+    {
+      "asin": "B07R2KSW34",
+      "errors": "",
+      "source": "coupon15-final22-live-detail-page2.txt"
+    },
+    {
+      "asin": "B07QXJY3FH",
+      "errors": "",
+      "source": "coupon15-final22-live-detail-page2.txt"
+    },
+    {
+      "asin": "B00SMEENOU",
+      "errors": "",
+      "source": "coupon15-final22-live-detail-page2.txt"
+    },
+    {
+      "asin": "B0F2YHTD8T",
+      "errors": "",
+      "source": "coupon15-final22-live-detail-page2.txt"
+    },
+    {
+      "asin": "B07QWKYMGM",
+      "errors": "",
+      "source": "coupon15-final22-live-detail-page2.txt"
+    },
+    {
+      "asin": "B07FKF5V92",
+      "errors": "",
+      "source": "coupon15-final22-live-detail-page2.txt"
+    },
+    {
+      "asin": "B07RP9K6KV",
+      "errors": "",
+      "source": "coupon15-final22-live-detail-page2.txt"
+    },
+    {
+      "asin": "B07FK8MF91",
+      "errors": "",
+      "source": "coupon15-final22-live-detail-page2.txt"
+    },
+    {
+      "asin": "B0F2TJ7ZL7",
+      "errors": "",
+      "source": "coupon15-final22-live-detail-page2.txt"
+    },
+    {
+      "asin": "B07FKFMJTL",
+      "errors": "",
+      "source": "coupon15-final22-live-detail-page2.txt"
+    },
+    {
+      "asin": "B07FKJLZNG",
+      "errors": "",
+      "source": "coupon15-final22-live-detail-page3.txt"
+    },
+    {
+      "asin": "B07DJKDB63",
+      "errors": "",
+      "source": "coupon15-final22-live-detail-page3.txt"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+Scoped supplementary identifier evidence - no prices, costs or unrelated products
+
+2026 product master:Sheet1,row22
+Model4A30315;3x3in;15neon colors;15pads/pack;100sheets/pad.
+Target ASIN B07FKG29KB; listed store UPC702877124116.
+
+2026-09-03 and2026-11-01 All Listings reports:
+Source FBA SKU4A30315;ASIN B07F295DPC;UPC702877124116.
+Target MFN SKU4A GM30315;ASIN B07FKG29KB;product identifier is ASIN rather than UPC.
+
+2026-09-03 historical All Listings report:
+Target FBA SKUAAAA4A30315;ASIN B07FKG29KB;UPC702877122860.
+
+Both saved ASIN titles describe model4A30315,3x3in,15pads,100sheets/pad,1500sheets total.
+These internal records are supplementary. They do not prove the two different UPCs are equivalent. Please verify authoritative identifier mapping from manufacturer evidence or state which further proof is needed.

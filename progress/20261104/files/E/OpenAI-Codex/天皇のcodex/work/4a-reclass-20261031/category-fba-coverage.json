@@ -1,0 +1,159 @@
+{
+  "summary": {
+    "positive_fnsku": 129,
+    "available": 5978,
+    "matched_fnsku": 120,
+    "matched_units": 5680,
+    "missing_fnsku": 9,
+    "missing_units": 298,
+    "mismatch_fnsku": 0,
+    "mismatch_units": 0
+  },
+  "missing": [
+    {
+      "fnsku": "B07FK81CQ7",
+      "market": "US",
+      "skus": [
+        "AAAA 4A 6032"
+      ],
+      "asin": "B07FK81CQ7",
+      "available": 7,
+      "Total Reserved Quantity": 0,
+      "inbound-quantity": 0,
+      "unfulfillable-quantity": 0,
+      "units-shipped-t30": null,
+      "units-shipped-t90": null,
+      "sales-shipped-last-30-days": null,
+      "sales-shipped-last-7-days": null
+    },
+    {
+      "fnsku": "B07FK8CJ76",
+      "market": "US",
+      "skus": [
+        "AAAA 4A 40607"
+      ],
+      "asin": "B07FK8CJ76",
+      "available": 5,
+      "Total Reserved Quantity": 0,
+      "inbound-quantity": 0,
+      "unfulfillable-quantity": 0,
+      "units-shipped-t30": 0,
+      "units-shipped-t90": 7,
+      "sales-shipped-last-30-days": 0,
+      "sales-shipped-last-7-days": 0
+    },
+    {
+      "fnsku": "B07FK8MF91",
+      "market": "US",
+      "skus": [
+        "AAAA 4A PSS 9-1 NBGrid"
+      ],
+      "asin": "B07FK8MF91",
+      "available": 48,
+      "Total Reserved Quantity": 0,
+      "inbound-quantity": 0,
+      "unfulfillable-quantity": 0,
+      "units-shipped-t30": 1,
+      "units-shipped-t90": 16,
+      "sales-shipped-last-30-days": 15.99,
+      "sales-shipped-last-7-days": 0
+    },
+    {
+      "fnsku": "B07FK9BYHW",
+      "market": "US",
+      "skus": [
+        "AAAA 4A 305-Full Glue"
+      ],
+      "asin": "B07FK9BYHW",
+      "available": 60,
+      "Total Reserved Quantity": 0,
+      "inbound-quantity": 0,
+      "unfulfillable-quantity": 0,
+      "units-shipped-t30": 2,
+      "units-shipped-t90": 24,
+      "sales-shipped-last-30-days": 29.98,
+      "sales-shipped-last-7-days": 0
+    },
+    {
+      "fnsku": "B07FKHHTYG",
+      "market": "US",
+      "skus": [
+        "AAAA 4A 303-AC-holder"
+      ],
+      "asin": "B07FKHHTYG",
+      "available": 44,
+      "Total Reserved Quantity": 0,
+      "inbound-quantity": 0,
+      "unfulfillable-quantity": 0,
+      "units-shipped-t30": 1,
+      "units-shipped-t90": 2,
+      "sales-shipped-last-30-days": 17.99,
+      "sales-shipped-last-7-days": 0
+    },
+    {
+      "fnsku": "B07FKFMJTL",
+      "market": "US",
+      "skus": [
+        "AAAA 4A 40622"
+      ],
+      "asin": "B07FKFMJTL",
+      "available": 33,
+      "Total Reserved Quantity": 0,
+      "inbound-quantity": 0,
+      "unfulfillable-quantity": 0,
+      "units-shipped-t30": 0,
+      "units-shipped-t90": 0,
+      "sales-shipped-last-30-days": 0,
+      "sales-shipped-last-7-days": 0
+    },
+    {
+      "fnsku": "B07FKGPCQM",
+      "market": "US",
+      "skus": [
+        "AAAA 4A 2028-N"
+      ],
+      "asin": "B07FKGPCQM",
+      "available": 13,
+      "Total Reserved Quantity": 0,
+      "inbound-quantity": 0,
+      "unfulfillable-quantity": 0,
+      "units-shipped-t30": null,
+      "units-shipped-t90": null,
+      "sales-shipped-last-30-days": null,
+      "sales-shipped-last-7-days": null
+    },
+    {
+      "fnsku": "B07FKB3BRZ",
+      "market": "US",
+      "skus": [
+        "AAAA 4A PSS 9-1 NYGrid"
+      ],
+      "asin": "B07FKB3BRZ",
+      "available": 25,
+      "Total Reserved Quantity": 0,
+      "inbound-quantity": 0,
+      "unfulfillable-quantity": 0,
+      "units-shipped-t30": 0,
+      "units-shipped-t90": 1,
+      "sales-shipped-last-30-days": 0,
+      "sales-shipped-last-7-days": 0
+    },
+    {
+      "fnsku": "B07FKF5V92",
+      "market": "US",
+      "skus": [
+        "AAAA 4A PSS 9-1 NRGrid"
+      ],
+      "asin": "B07FKF5V92",
+      "available": 63,
+      "Total Reserved Quantity": 0,
+      "inbound-quantity": 0,
+      "unfulfillable-quantity": 0,
+      "units-shipped-t30": 2,
+      "units-shipped-t90": 13,
+      "sales-shipped-last-30-days": 39.98,
+      "sales-shipped-last-7-days": 19.99
+    }
+  ],
+  "mismatch": []
+}

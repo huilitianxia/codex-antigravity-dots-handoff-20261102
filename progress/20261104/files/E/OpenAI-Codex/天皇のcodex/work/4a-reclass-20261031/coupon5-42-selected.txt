@@ -1,0 +1,514 @@
+- navigation:
+  - button "菜单":
+  - generic: 菜单
+  - button:
+  - navigation:
+    - searchbox
+    - link:
+      - /url: /amazonsell/business
+      - generic: 我的业务
+    - button:
+      - generic: 商品
+    - link:
+      - /url: /amazonsell/listings
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/manage-products
+      - text: 管理商品
+      - button:
+    - link:
+      - /url: /pricing/health
+      - text: 管理定价
+      - button:
+    - link:
+      - /url: /product-search
+      - text: 添加商品
+      - button:
+    - link:
+      - /url: /feedback-manager/index.html
+      - text: 分析评论
+      - button:
+    - link:
+      - /url: /new-product-guidance
+      - text: 研究商品
+      - button:
+    - link:
+      - /url: /gex
+      - text: 全球开店
+      - button:
+    - link:
+      - /url: /listing/reports
+      - text: 商品报告
+      - button:
+    - button:
+      - generic: 供应链
+    - link:
+      - /url: /amazonsell/inventory
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/fba-inventory
+      - text: 管理亚马逊库存
+      - button:
+    - link:
+      - /url: /global-store
+      - text: 管理海外购
+      - button:
+    - link:
+      - /url: /seller-fulfilled-product/analytics
+      - text: 管理卖家自配送库存
+      - button:
+    - link:
+      - /url: /manage/shipments
+      - text: 管理货件
+      - button:
+    - link:
+      - /url: /fba/sendtoamazon
+      - text: Send to Amazon
+      - button:
+    - link:
+      - /url: /channel-manager
+      - text: 管理渠道目的地
+      - button:
+    - link:
+      - /url: https://supplychain.amazon.com/scp/login?utm_source=ngs_persistence_link
+      - text: 供应链控制面板
+      - button:
+    - link:
+      - /url: /reportcentral/WelcomePage
+      - text: 供应链报告
+      - button:
+    - button:
+      - generic: 订单
+    - link:
+      - /url: /amazonsell/orders
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/orders/mfn
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /amazonsell/orders/fba
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /business/manage-quotes
+      - text: 管理报价
+      - button:
+    - link:
+      - /url: /manage/returns/mfn
+      - text: 管理退货
+      - button:
+    - link:
+      - /url: /gp/chargebacks/home.html
+      - text: 管理索赔
+      - button:
+    - link:
+      - /url: /order-reports-and-feeds/reports
+      - text: 订单报告
+      - button:
+    - button:
+      - generic: 营销推广
+    - link:
+      - /url: /amazonsell/marketing
+      - text: 工作区
+    - link:
+      - /url: /promotion-central/dashboard
+      - text: 管理促销和特惠
+      - button:
+    - link:
+      - /url: /brand-analytics
+      - text: 品牌分析
+      - button:
+    - link:
+      - /url: /cm?source=ngs
+      - text: 广告控制台
+      - button:
+    - link:
+      - /url: /vine
+      - text: Vine
+      - button:
+    - button:
+      - generic: 财务人员
+    - link:
+      - /url: /amazonsell/payments
+      - text: 工作区
+    - link:
+      - /url: /manage/finance/transactions
+      - text: 管理交易
+      - button:
+    - link:
+      - /url: /managetaxes/global-transaction-reports
+      - text: 管理税费
+      - button:
+    - link:
+      - /url: /economics
+      - text: 利润分析
+      - button:
+    - link:
+      - /url: /manage/finance/reports
+      - text: 财务报告
+      - button:
+    - button:
+      - generic: 账户状况
+    - link:
+      - /url: /performance/dashboard
+      - text: 管理账户状况
+      - button:
+    - button:
+      - generic: 计划和应用程序
+    - link:
+      - /url: /recommended-programs
+      - text: 了解计划
+      - button:
+    - link:
+      - /url: /selling-partner-appstore
+      - text: 销售伙伴应用商店
+      - button:
+    - link:
+      - /url: /tsba
+      - text: 浏览服务
+      - button:
+  - link:
+    - /url: /sitemap
+    - text: 站点地图
+  - link:
+    - /url: /home?ngs_do_not_redirect_flag=1
+    - text: 传统卖家平台
+  - link "Amazon":
+    - /url: /amazonsell
+  - button "4A (USA) LIMITED 美国":
+    - generic: 4A (USA) LIMITED
+    - generic: 美国
+  - button "账户状况":
+    - generic: 账户状况
+    - generic: 存在风险
+  - textbox "搜索任何内容"
+  - button "询问卖家助手":
+    - generic: 卖家助手
+  - link "新增内容":
+    - /url: /featurereleases
+  - link "消息":
+    - /url: /messaging/inbox-v3?fi=responseNeeded&&
+  - button "帮助":
+  - button "设置":
+- navigation:
+  - button:
+  - link "管理交易":
+    - /url: /manage/finance/transactions
+    - generic: 管理交易
+  - link "卖家大学":
+    - /url: /su/learn
+    - generic: 卖家大学
+  - link "管理商品":
+    - /url: /amazonsell/manage-products
+    - generic: 管理商品
+  - link "广告控制台":
+    - /url: /cm?source=ngs
+    - generic: 广告控制台
+  - link "管理货件":
+    - /url: /manage/shipments
+    - generic: 管理货件
+  - link "商品商机探测器":
+    - /url: /new-product-guidance
+    - generic: 商品商机探测器
+  - link "品牌分析":
+    - /url: /brand-analytics
+    - generic: 品牌分析
+  - link "A+ 商品描述管理器":
+    - /url: /enhanced-content/ref=xx_ebc_favb_xx
+    - generic: A+ 商品描述管理器
+  - link "业务报告":
+    - /url: /business-reports#/dashboard
+    - generic: 业务报告
+  - link "亚马逊物流库存报告":
+    - /url: /reportcentral/WelcomePage
+    - generic: 亚马逊物流库存报告
+  - link "商品报告":
+    - /url: /listing/reports
+    - generic: 商品报告
+  - link "绩效通知":
+    - /url: /performance/notifications
+    - generic: 绩效通知
+  - link "管理账户状况":
+    - /url: /performance/dashboard
+    - generic: 管理账户状况
+  - button:
+- heading "编辑优惠券" [level=2]
+- generic: 3 of 4 steps completed · 75%
+- navigation:
+  - button "店铺和商品":
+    - heading "店铺和商品" [level=3]
+  - button "优惠券设置 ✓":
+    - heading "优惠券设置" [level=3]
+    - generic: ✓
+  - button "更多详情 ✓":
+    - heading "更多详情" [level=3]
+    - generic: ✓
+  - button "检查并确认 1 inputs / 1 inputs" [disabled]:
+    - heading "检查并确认" [level=3]
+    - generic: 1 inputs / 1 inputs
+- heading "店铺和商品" [level=1]
+- paragraph: 选择您要在优惠券中包含的商城和商品。
+- heading "Store 以发布优惠券" [level=2]
+- button "店铺选择下拉菜单 United States" [disabled]:
+  - generic: United States
+- heading "所有 ASIN (1)" [level=2]:
+  - text: 所有 ASIN
+  - generic: (1)
+- searchbox "按商品名称、ASIN、SKU 搜索": B01LPKL5IE
+- button:
+- list:
+  - button [disabled]:
+  - button "1"
+  - button [disabled]:
+- treegrid:
+  - rowgroup:
+    - row "商品 绩效 最近 30 天 当前价格 有货 订单配送方":
+      - columnheader:
+        - checkbox [checked]
+      - columnheader "商品":
+        - generic: 商品
+      - columnheader "绩效 最近 30 天":
+        - generic: 绩效
+        - generic: 最近 30 天
+      - columnheader "当前价格":
+        - generic: 当前价格
+      - columnheader "有货 订单配送方":
+        - generic: 有货
+        - generic: 订单配送方
+  - rowgroup:
+    - 'row "4A Weekly Planner/Monthly Planner Sticky Pads,Self-Stick Notes,11 x 10 Inches,Large Size,52 Sheets/Pad,1 Pad/Pack,4A 6533 4A Weekly Planner/Monthly Planner Sticky Pads,Self-Stick Notes,11 x 10 Inches,Large Size,52 Sheets/Pad,1 Pad/Pack,4A 6533 ASIN: B01LPKL5IE SKU: 4A 6533-FBA 销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #1,622,943 $13.99 1 件数 AFN" [level=1]':
+      - gridcell:
+        - checkbox [checked] [active]
+      - 'gridcell "4A Weekly Planner/Monthly Planner Sticky Pads,Self-Stick Notes,11 x 10 Inches,Large Size,52 Sheets/Pad,1 Pad/Pack,4A 6533 4A Weekly Planner/Monthly Planner Sticky Pads,Self-Stick Notes,11 x 10 Inches,Large Size,52 Sheets/Pad,1 Pad/Pack,4A 6533 ASIN: B01LPKL5IE SKU: 4A 6533-FBA"':
+        - img "4A Weekly Planner/Monthly Planner Sticky Pads,Self-Stick Notes,11 x 10 Inches,Large Size,52 Sheets/Pad,1 Pad/Pack,4A 6533"
+        - paragraph:
+          - link "4A Weekly Planner/Monthly Planner Sticky Pads,Self-Stick Notes,11 x 10 Inches,Large Size,52 Sheets/Pad,1 Pad/Pack,4A 6533":
+            - /url: https://www.amazon.com/dp/B01LPKL5IE
+        - generic: "ASIN: B01LPKL5IE"
+        - generic: "SKU: 4A 6533-FBA"
+      - 'gridcell "销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #1,622,943"':
+        - generic: "销量 : -"
+        - generic: "售出商品数量 : -"
+        - generic: "页面浏览量 : -"
+        - generic: "销量排行 : #1,622,943"
+      - gridcell "$13.99":
+        - generic: $13.99
+      - gridcell "1 件数 AFN":
+        - generic: 1 件数
+        - generic: AFN
+- 'heading "已选择 : 42" [level=3]'
+- button "扩展所选商品":
+- paragraph: 4A 卷便签带分配器,全粘性,宽 x 长 0.6 x 393 英寸,6 种不同霓虹色,自粘便条,6 卷/包,4A PSS 32x6
+- paragraph: "ASIN: B08DKJ2K3T"
+- button "移除 4A 卷便签带分配器,全粘性,宽 x 长 0.6 x 393 英寸,6 种不同霓虹色,自粘便条,6 卷/包,4A PSS 32x6":
+- paragraph: 4A 便利贴,1 1/2 x 2 英寸,小号,短边胶粘,霓虹色分类,自粘便签,100 张/垫,12 片/包,4A 301x12-N,霓虹色分类-12 片 | 100 sheets per pad
+- paragraph: "ASIN: B01LVTWP7Q"
+- button "移除 4A 便利贴,1 1/2 x 2 英寸,小号,短边胶粘,霓虹色分类,自粘便签,100 张/垫,12 片/包,4A 301x12-N,霓虹色分类-12 片 | 100 sheets per pad":
+- paragraph: 4A 4 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Yellow Sticky Notes with Lines Long Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5082-Y-Lx2
+- paragraph: "ASIN: B0F9L5G6XQ"
+- button "移除 4A 4 Pads Lined Sticky Notes 5 x 8 in, Pastel Yellow, Yellow Sticky Notes with Lines Long Self-Stick Note Pads for Home Office School Supplies, 50 Sheets/Pad, 200 Sheets Total, 4A 5082-Y-Lx2":
+- paragraph: 4A 4 垫内衬便利贴 5 x 8 英寸(约 12.7 x 20.3 厘米),色彩鲜艳,带线条自粘便条,适用于家庭办公室学校用品,50 张/垫,共 200 张,4 张 A 50844 -N-L
+- paragraph: "ASIN: B07F2B49BL"
+- button "移除 4A 4 垫内衬便利贴 5 x 8 英寸(约 12.7 x 20.3 厘米),色彩鲜艳,带线条自粘便条,适用于家庭办公室学校用品,50 张/垫,共 200 张,4 张 A 50844 -N-L":
+- paragraph:
+  - link "4A Full Adhesive Sticky Notes, 4 Refill Sticky Rolls, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home, 4A PSS 9-1 Refill":
+    - /url: https://www.amazon.com/dp/B07QVKPZXX
+- paragraph: "ASIN: B07QVKPZXX"
+- button "移除 4A Full Adhesive Sticky Notes, 4 Refill Sticky Rolls, 2 x 315 Inches, Colorful Sticky Notes for Notebook, Office, Home, 4A PSS 9-1 Refill":
+- paragraph:
+  - link "4A Printed Sticky Note Cube, 2.5 x 2.5 in":
+    - /url: https://www.amazon.com/dp/B07FKHNTRK
+- paragraph: "ASIN: B07FKHNTRK"
+- button "移除 4A Printed Sticky Note Cube, 2.5 x 2.5 in":
+- paragraph:
+  - link "4A Lined Sticky Notes, 5 x 8 in, 2 Pads, Pastel Yellow":
+    - /url: https://www.amazon.com/dp/B07F2BHFJH
+- paragraph: "ASIN: B07F2BHFJH"
+- button "移除 4A Lined Sticky Notes, 5 x 8 in, 2 Pads, Pastel Yellow":
+- paragraph:
+  - link "4A Roll Sticky Notes, 2 Full Adhesive Sticky Rolls with Dispenser and 2 Refill Rolls,0.4 x 315 Inches,5 Bright Colors,Colorful Sticky Roll Tape for Book,Notebook,Office,Home,4A PSS 9-5 NANBx2":
+    - /url: https://www.amazon.com/dp/B07QXJYKJN
+- paragraph: "ASIN: B07QXJYKJN"
+- button "移除 4A Roll Sticky Notes, 2 Full Adhesive Sticky Rolls with Dispenser and 2 Refill Rolls,0.4 x 315 Inches,5 Bright Colors,Colorful Sticky Roll Tape for Book,Notebook,Office,Home,4A PSS 9-5 NANBx2":
+- paragraph:
+  - link "4A Sticky Note Rolls with Dispensers, 0.6 x 315 in, Neon Colors":
+    - /url: https://www.amazon.com/dp/B01MZ4FDN5
+- paragraph: "ASIN: B01MZ4FDN5"
+- button "移除 4A Sticky Note Rolls with Dispensers, 0.6 x 315 in, Neon Colors":
+- paragraph:
+  - link "4A Sticky Notes, 4 x 6 in, 6 Pads, Yellow":
+    - /url: https://www.amazon.com/dp/B01N0RJSTU
+- paragraph: "ASIN: B01N0RJSTU"
+- button "移除 4A Sticky Notes, 4 x 6 in, 6 Pads, Yellow":
+- paragraph:
+  - link "4A Sticky Note Cube 2.87 x 2.87 Inches, 580 Sheets, Cute Dog Printed on 4 Sides, Memo Cube Sticky Blocks Stick Note Pads for Office, Home, School, 4A SMC 438":
+    - /url: https://www.amazon.com/dp/B07F298JNC
+- paragraph: "ASIN: B07F298JNC"
+- button "移除 4A Sticky Note Cube 2.87 x 2.87 Inches, 580 Sheets, Cute Dog Printed on 4 Sides, Memo Cube Sticky Blocks Stick Note Pads for Office, Home, School, 4A SMC 438":
+- paragraph:
+  - link "4A 6 Pads Sticky Notes 4 x 6 Inches, Pastel Colors, Large Self-Stick Note Pads for Office, School, 100 Sheets/Pad, 600 Sheets Total, 4A 406x6":
+    - /url: https://www.amazon.com/dp/B07FKL263W
+- paragraph: "ASIN: B07FKL263W"
+- button "移除 4A 6 Pads Sticky Notes 4 x 6 Inches, Pastel Colors, Large Self-Stick Note Pads for Office, School, 100 Sheets/Pad, 600 Sheets Total, 4A 406x6":
+- paragraph:
+  - link "4A Pop-Up Note Dispenser, Black, Work with Sticky Pop-Up Notes, for 100 Sheets 3x3 Notes, 1 Dispenser/Pack, 4A PSS 7":
+    - /url: https://www.amazon.com/dp/B0821LD25K
+- paragraph: "ASIN: B0821LD25K"
+- button "移除 4A Pop-Up Note Dispenser, Black, Work with Sticky Pop-Up Notes, for 100 Sheets 3x3 Notes, 1 Dispenser/Pack, 4A PSS 7":
+- paragraph:
+  - link "4A Self-Stick Notes, Classic Assorted, 650 Sheets, MG-ET8D-JLS7":
+    - /url: https://www.amazon.com/dp/B00SMEE5HU
+- paragraph: "ASIN: B00SMEE5HU"
+- button "移除 4A Self-Stick Notes, Classic Assorted, 650 Sheets, MG-ET8D-JLS7":
+- paragraph:
+  - link "4A 3 Pads Divider Sticky Notes Tabs 3 3/8 x 2 3/4 Inches,White,Lined Sticky Notes for Notebooks,Books, Office,School Supplies,15 Sheets/Divider,4 Dividers/Pad,180 Sheets Total,4A 40607x3":
+    - /url: https://www.amazon.com/dp/B07FK8CJ76
+- paragraph: "ASIN: B07FK8CJ76"
+- button "移除 4A 3 Pads Divider Sticky Notes Tabs 3 3/8 x 2 3/4 Inches,White,Lined Sticky Notes for Notebooks,Books, Office,School Supplies,15 Sheets/Divider,4 Dividers/Pad,180 Sheets Total,4A 40607x3":
+- paragraph:
+  - link "4A Arrow Shaped Sticky Notes, 2.72 x 2.56 in, 1 Pad, Neon Colors":
+    - /url: https://www.amazon.com/dp/B00SMEEV4C
+- paragraph: "ASIN: B00SMEEV4C"
+- button "移除 4A Arrow Shaped Sticky Notes, 2.72 x 2.56 in, 1 Pad, Neon Colors":
+- paragraph:
+  - link "4A Back to School Sticky Notes Value Pack, Neon Assorted The Most Commonly Used Sizes in One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4013":
+    - /url: https://www.amazon.com/dp/B07T55QCRY
+- paragraph: "ASIN: B07T55QCRY"
+- button "移除 4A Back to School Sticky Notes Value Pack, Neon Assorted The Most Commonly Used Sizes in One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4013":
+- paragraph:
+  - link "4A Self-Stick Notes, Classic Assorted, 4A SMC 435-FBA":
+    - /url: https://www.amazon.com/dp/B07DLM2QP1
+- paragraph: "ASIN: B07DLM2QP1"
+- button "移除 4A Self-Stick Notes, Classic Assorted, 4A SMC 435-FBA":
+- paragraph:
+  - link "4A Sticky Note Bundle Set, Colored Rectangular Notes and Index Flags Organizer, With Two Year Calendar, Leather Look Design Holder, Gifts for Students and Teachers! 1800 Sheets/Set, 4A BS 1803":
+    - /url: https://www.amazon.com/dp/B07J6Q5TTR
+- paragraph: "ASIN: B07J6Q5TTR"
+- button "移除 4A Sticky Note Bundle Set, Colored Rectangular Notes and Index Flags Organizer, With Two Year Calendar, Leather Look Design Holder, Gifts for Students and Teachers! 1800 Sheets/Set, 4A BS 1803":
+- paragraph:
+  - link "4A Super Sticky,6 x 8 Inches,Extra Bright Color Assorted,Lined,Self-Stick Notes,50 Sheets/Pad,4 Pads/Pack,200 Sheets/Pack,4A 608S-Lx4":
+    - /url: https://www.amazon.com/dp/B073VPHSJ9
+- paragraph: "ASIN: B073VPHSJ9"
+- button "移除 4A Super Sticky,6 x 8 Inches,Extra Bright Color Assorted,Lined,Self-Stick Notes,50 Sheets/Pad,4 Pads/Pack,200 Sheets/Pack,4A 608S-Lx4":
+- paragraph:
+  - link "4A 8 Pads Lined Sticky Notes with Lines 5 x 8 in, Bright Colored Large Sticky Note Pads for Office, School, Home, 50 Sheets/Pad, 400 Sheets, 4A 5088-N-L":
+    - /url: https://www.amazon.com/dp/B07RP9MB7Y
+- paragraph: "ASIN: B07RP9MB7Y"
+- button "移除 4A 8 Pads Lined Sticky Notes with Lines 5 x 8 in, Bright Colored Large Sticky Note Pads for Office, School, Home, 50 Sheets/Pad, 400 Sheets, 4A 5088-N-L":
+- paragraph:
+  - link "4A Leaf Shaped Sticky Notes, 2.83 x 2.83 in, 1 Pad, Neon Colors":
+    - /url: https://www.amazon.com/dp/B00SMEEN40
+- paragraph: "ASIN: B00SMEEN40"
+- button "移除 4A Leaf Shaped Sticky Notes, 2.83 x 2.83 in, 1 Pad, Neon Colors":
+- paragraph:
+  - link "4A Shapes Sticky Notes,Heart Shape,3 x 3 Inches,Fluorescent Collection,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5036":
+    - /url: https://www.amazon.com/dp/B00SMEEVC4
+- paragraph: "ASIN: B00SMEEVC4"
+- button "移除 4A Shapes Sticky Notes,Heart Shape,3 x 3 Inches,Fluorescent Collection,Self-Stick Notes,200 Sheets/Pad,1 Pad/Pack,4A 5036":
+- paragraph:
+  - link "4A Shapes Sticky Notes,Puzzle,2 7/8 x 2 4/7 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,4 Pads/Pack,3 Packs,4A 5020x3":
+    - /url: https://www.amazon.com/dp/B07T79KGWF
+- paragraph: "ASIN: B07T79KGWF"
+- button "移除 4A Shapes Sticky Notes,Puzzle,2 7/8 x 2 4/7 Inches,Neon Assorted,Self-Stick Notes,100 Sheets/Pad,4 Pads/Pack,3 Packs,4A 5020x3":
+- paragraph:
+  - link "4A Sticky Notes, 0.6 x 2 Inches, Small Size,16 Colors, Self-Stick Notes, 100 Sheets/Pad,16 Pads/Pack, 4A 501516":
+    - /url: https://www.amazon.com/dp/B07T42J6FY
+- paragraph: "ASIN: B07T42J6FY"
+- button "移除 4A Sticky Notes, 0.6 x 2 Inches, Small Size,16 Colors, Self-Stick Notes, 100 Sheets/Pad,16 Pads/Pack, 4A 501516":
+- paragraph:
+  - link "4A Sticky Notes, 1 7/8 x 1 7/8 inches, Small Size, Neon Assorted, 12 Colors, Self-Stick Notes, 100 Sheets/Pad, 12 Pads/Pack, 484812-N":
+    - /url: https://www.amazon.com/dp/B07DJG1W71
+- paragraph: "ASIN: B07DJG1W71"
+- button "移除 4A Sticky Notes, 1 7/8 x 1 7/8 inches, Small Size, Neon Assorted, 12 Colors, Self-Stick Notes, 100 Sheets/Pad, 12 Pads/Pack, 484812-N":
+- paragraph:
+  - link "4A Super Sticky,4 x 4 Inches,Neon Assorted,Lined,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,600 Sheets/Pack,4A 404S-Lx6":
+    - /url: https://www.amazon.com/dp/B073VPFBL6
+- paragraph: "ASIN: B073VPFBL6"
+- button "移除 4A Super Sticky,4 x 4 Inches,Neon Assorted,Lined,Self-Stick Notes,100 Sheets/Pad,6 Pads/Pack,600 Sheets/Pack,4A 404S-Lx6":
+- paragraph:
+  - link "4A Self-Stick Notes, Neon Assorted, 4A 404-AC-Holder":
+    - /url: https://www.amazon.com/dp/B07Z2555TN
+- paragraph: "ASIN: B07Z2555TN"
+- button "移除 4A Self-Stick Notes, Neon Assorted, 4A 404-AC-Holder":
+- paragraph:
+  - link "4A 3D Shape Printed Sticky Notes Memo Pad, Fennec Fox Print, 3.75 x 4.13 Inches, Cute Sticky Notes for Note Taking Reminders Office Home School Supplies, 100 Sheets/Pad,4A 8077":
+    - /url: https://www.amazon.com/dp/B077QLHHVH
+- paragraph: "ASIN: B077QLHHVH"
+- button "移除 4A 3D Shape Printed Sticky Notes Memo Pad, Fennec Fox Print, 3.75 x 4.13 Inches, Cute Sticky Notes for Note Taking Reminders Office Home School Supplies, 100 Sheets/Pad,4A 8077":
+- paragraph:
+  - link "4A Dry Erase White Board Sheet 2.5 x 2.7 FT, Large White Board Sticker Whiteboard Wallpaper with 1 Cleaning Cloth for Office, School, Home, Meeting, 4A Meeting-6":
+    - /url: https://www.amazon.com/dp/B07FKJGDJR
+- paragraph: "ASIN: B07FKJGDJR"
+- button "移除 4A Dry Erase White Board Sheet 2.5 x 2.7 FT, Large White Board Sticker Whiteboard Wallpaper with 1 Cleaning Cloth for Office, School, Home, Meeting, 4A Meeting-6":
+- paragraph:
+  - link "4A 120 Pcs Pop Up Sticky Tabs 1 x 1.5 in, Writable and Repositionable Book Tabs Flags Transparent Page Markers for Annotating Books, Notebooks, 4A 6035x2":
+    - /url: https://www.amazon.com/dp/B01N2YL12Y
+- paragraph: "ASIN: B01N2YL12Y"
+- button "移除 4A 120 Pcs Pop Up Sticky Tabs 1 x 1.5 in, Writable and Repositionable Book Tabs Flags Transparent Page Markers for Annotating Books, Notebooks, 4A 6035x2":
+- paragraph:
+  - link "4A Sticky Notes, 6 x 8 Inches, 7 Neon color Assorted, Lined, Self-Stick Notes, 210 Sheets/Pad, 1Pad/Pack, 4A 608-N-L-210":
+    - /url: https://www.amazon.com/dp/B07HDVVZ1B
+- paragraph: "ASIN: B07HDVVZ1B"
+- button "移除 4A Sticky Notes, 6 x 8 Inches, 7 Neon color Assorted, Lined, Self-Stick Notes, 210 Sheets/Pad, 1Pad/Pack, 4A 608-N-L-210":
+- paragraph:
+  - link "4A Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Stickers, Writable Labels,Bookmarks,Repositionable,Great Labeling,Flaging,with Hole Fit for Binder,2 Pads/Set,4A 6043":
+    - /url: https://www.amazon.com/dp/B01M986R0Y
+- paragraph: "ASIN: B01M986R0Y"
+- button "移除 4A Durable File Tabs,Divider Tabs,Page Marker Index Label Flags,Transparent Stickers, Writable Labels,Bookmarks,Repositionable,Great Labeling,Flaging,with Hole Fit for Binder,2 Pads/Set,4A 6043":
+- paragraph:
+  - link "4A Sticky Notes, 4 x 6 in, 12 Pads, Bright Colors":
+    - /url: https://www.amazon.com/dp/B07RVJB9DL
+- paragraph: "ASIN: B07RVJB9DL"
+- button "移除 4A Sticky Notes, 4 x 6 in, 12 Pads, Bright Colors":
+- paragraph:
+  - link "4A Sticky Notes Value Pack,Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4012":
+    - /url: https://www.amazon.com/dp/B01M3N310M
+- paragraph: "ASIN: B01M3N310M"
+- button "移除 4A Sticky Notes Value Pack,Assorted The Most Commonly Used Sizes In One PP Box,Self-Stick Notes,18 Pads/Box,1900 Sheets Total,4A 4012":
+- paragraph:
+  - link "4A 3D Shape Printed Sticky Notes Memo Pad, Ocean World of The Atlantic Ocean Print, 3.75 x 4.13 Inches, Cute Sticky Notes for Note Taking Reminders Office Home School Supplies, 100 Sheets/Pad":
+    - /url: https://www.amazon.com/dp/B0784GHSVJ
+- paragraph: "ASIN: B0784GHSVJ"
+- button "移除 4A 3D Shape Printed Sticky Notes Memo Pad, Ocean World of The Atlantic Ocean Print, 3.75 x 4.13 Inches, Cute Sticky Notes for Note Taking Reminders Office Home School Supplies, 100 Sheets/Pad":
+- paragraph:
+  - link "4A Sticky Note Dispenser Pen Holder Set, Self-Stick Notes, 8 Ultra Colors 3x3 Inches 400 Neon Sheets Sticky Notes and 1 * 1 3/4 Inches 2x50 Sheets.100 Flags, 303-AC-holder":
+    - /url: https://www.amazon.com/dp/B07DJP6SNG
+- paragraph: "ASIN: B07DJP6SNG"
+- button "移除 4A Sticky Note Dispenser Pen Holder Set, Self-Stick Notes, 8 Ultra Colors 3x3 Inches 400 Neon Sheets Sticky Notes and 1 * 1 3/4 Inches 2x50 Sheets.100 Flags, 303-AC-holder":
+- paragraph:
+  - link "4A Sticky Notes Flags Set,Neon Color Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Page Marker Bookmarks,Assorted Printed,5 Pads/set,4A 66114":
+    - /url: https://www.amazon.com/dp/B01M2UDADZ
+- paragraph: "ASIN: B01M2UDADZ"
+- button "移除 4A Sticky Notes Flags Set,Neon Color Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Page Marker Bookmarks,Assorted Printed,5 Pads/set,4A 66114":
+- paragraph:
+  - link "4A Self-Stick Notes, 16 Colors Assorted, 4A 354832-FBA":
+    - /url: https://www.amazon.com/dp/B07T42DXZ1
+- paragraph: "ASIN: B07T42DXZ1"
+- button "移除 4A Self-Stick Notes, 16 Colors Assorted, 4A 354832-FBA":
+- paragraph:
+  - link "4A Sticky Note Cube, 2.87 x 2.87 in, Cat Printed on 4 Sides, Sticky Cubes Blocks Memo Cube Sticky Note Pads for Office, Home, School, 580 Sheets,4A SMC 436":
+    - /url: https://www.amazon.com/dp/B07FKJDBFT
+- paragraph: "ASIN: B07FKJDBFT"
+- button "移除 4A Sticky Note Cube, 2.87 x 2.87 in, Cat Printed on 4 Sides, Sticky Cubes Blocks Memo Cube Sticky Note Pads for Office, Home, School, 580 Sheets,4A SMC 436":
+- paragraph:
+  - link "4A Chalkboard Labels, 2.5 x 3.5 in, Black":
+    - /url: https://www.amazon.com/dp/B0821GTX3C
+- paragraph: "ASIN: B0821GTX3C"
+- button "移除 4A Chalkboard Labels, 2.5 x 3.5 in, Black":
+- paragraph:
+  - link "4A Weekly Planner/Monthly Planner Sticky Pads,Self-Stick Notes,11 x 10 Inches,Large Size,52 Sheets/Pad,1 Pad/Pack,4A 6533":
+    - /url: https://www.amazon.com/dp/B01LPKL5IE
+- paragraph: "ASIN: B01LPKL5IE"
+- button "移除 4A Weekly Planner/Monthly Planner Sticky Pads,Self-Stick Notes,11 x 10 Inches,Large Size,52 Sheets/Pad,1 Pad/Pack,4A 6533":
+- button "返回":
+  - text: 返回
+- button "继续"
+- button "Light/dark mode toggle (new)":
+- link "站点地图":
+  - /url: /sitemap
+- link "计划政策":
+  - /url: /help/hub/reference/521
+- generic: © 1999-2026，Amazon.com, Inc. 或其附属公司
+- link "反馈":
+  - /url: "#"

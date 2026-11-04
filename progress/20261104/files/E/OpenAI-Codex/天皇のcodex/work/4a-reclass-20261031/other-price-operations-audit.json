@@ -1,0 +1,280 @@
+{
+  "batch03": {
+    "rows": 164,
+    "populated_data_columns": [
+      "BG",
+      "C",
+      "D",
+      "E",
+      "I",
+      "J",
+      "L",
+      "M",
+      "T"
+    ],
+    "unexpected_columns": [],
+    "price_fields_written": false,
+    "conclusion": "实际03成品无价格/企业/阶梯/最低价/运费/库存字段，未发现重复覆盖价格风险"
+  },
+  "batch02": {
+    "rows": 9,
+    "actual_file_matches_prepared_cells": true,
+    "actual_rows": [
+      {
+        "sku": "AAAA 4A PSS 9-1 NYGrid",
+        "asin": "B07FKB3BRZ",
+        "price": 15.99,
+        "source_basis": "原SKU历史售价；2026总表无对应单卷价格，未冒用4卷价"
+      },
+      {
+        "sku": "AAAA 4A PSS 9-1 NRGrid",
+        "asin": "B07FKF5V92",
+        "price": 19.99,
+        "source_basis": "4卷网格替芯；2026总表行117，且与原SKU历史售价一致"
+      },
+      {
+        "sku": "AAAA 4A 305-Full Glue",
+        "asin": "B07FK9BYHW",
+        "price": 14.99,
+        "source_basis": "真实双包装；原SKU历史售价与同ASIN现有报价一致"
+      },
+      {
+        "sku": "AAAA 4A PSS 9-1 NBGrid",
+        "asin": "B07FK8MF91",
+        "price": 15.99,
+        "source_basis": "原SKU历史售价；2026总表无对应单卷价格，未冒用4卷价"
+      },
+      {
+        "sku": "AAAA 4A 2028-N",
+        "asin": "B07FKGPCQM",
+        "price": 12.99,
+        "source_basis": "24本三包装；同ASIN现有GM报价，低于三份单包表价合计14.97"
+      },
+      {
+        "sku": "AAAA 4A 303-AC-holder",
+        "asin": "B07FKHHTYG",
+        "price": 10.99,
+        "source_basis": "2026总表行101及同ASIN现有GM报价；含便签标签的笔筒套装"
+      },
+      {
+        "sku": "AAAA 4A 40622",
+        "asin": "B07FKFMJTL",
+        "price": 9.99,
+        "source_basis": "原SKU历史双包装售价；先恢复，最终多包装折扣另行核算"
+      },
+      {
+        "sku": "AAAA 4A 6032",
+        "asin": "B07FK81CQ7",
+        "price": 14.99,
+        "source_basis": "现有同ASIN标题为6032x5；2026总表行150五套装"
+      },
+      {
+        "sku": "AAAA 4A 40607",
+        "asin": "B07FK8CJ76",
+        "price": 12.99,
+        "source_basis": "原SKU历史三包装售价；未套用单包价或四包装价"
+      }
+    ],
+    "audit": [
+      {
+        "sku": "AAAA 4A PSS 9-1 NYGrid",
+        "asin": "B07FKB3BRZ",
+        "historical_price": 15.99,
+        "restored_price": 15.99,
+        "drop_percent": 0.0,
+        "source_basis": "原SKU历史售价；2026总表无对应单卷价格，未冒用4卷价",
+        "needs_review": false
+      },
+      {
+        "sku": "AAAA 4A PSS 9-1 NRGrid",
+        "asin": "B07FKF5V92",
+        "historical_price": 19.99,
+        "restored_price": 19.99,
+        "drop_percent": 0.0,
+        "source_basis": "4卷网格替芯；2026总表行117，且与原SKU历史售价一致",
+        "needs_review": false
+      },
+      {
+        "sku": "AAAA 4A 305-Full Glue",
+        "asin": "B07FK9BYHW",
+        "historical_price": 14.99,
+        "restored_price": 14.99,
+        "drop_percent": 0.0,
+        "source_basis": "真实双包装；原SKU历史售价与同ASIN现有报价一致",
+        "needs_review": false
+      },
+      {
+        "sku": "AAAA 4A PSS 9-1 NBGrid",
+        "asin": "B07FK8MF91",
+        "historical_price": 15.99,
+        "restored_price": 15.99,
+        "drop_percent": 0.0,
+        "source_basis": "原SKU历史售价；2026总表无对应单卷价格，未冒用4卷价",
+        "needs_review": false
+      },
+      {
+        "sku": "AAAA 4A 2028-N",
+        "asin": "B07FKGPCQM",
+        "historical_price": 19.99,
+        "restored_price": 12.99,
+        "drop_percent": 35.02,
+        "source_basis": "24本三包装；同ASIN现有GM报价，低于三份单包表价合计14.97",
+        "needs_review": true
+      },
+      {
+        "sku": "AAAA 4A 303-AC-holder",
+        "asin": "B07FKHHTYG",
+        "historical_price": 17.99,
+        "restored_price": 10.99,
+        "drop_percent": 38.91,
+        "source_basis": "2026总表行101及同ASIN现有GM报价；含便签标签的笔筒套装",
+        "needs_review": true
+      },
+      {
+        "sku": "AAAA 4A 40622",
+        "asin": "B07FKFMJTL",
+        "historical_price": 9.99,
+        "restored_price": 9.99,
+        "drop_percent": 0.0,
+        "source_basis": "原SKU历史双包装售价；先恢复，最终多包装折扣另行核算",
+        "needs_review": false
+      },
+      {
+        "sku": "AAAA 4A 6032",
+        "asin": "B07FK81CQ7",
+        "historical_price": 24.99,
+        "restored_price": 14.99,
+        "drop_percent": 40.02,
+        "source_basis": "现有同ASIN标题为6032x5；2026总表行150五套装",
+        "needs_review": true
+      },
+      {
+        "sku": "AAAA 4A 40607",
+        "asin": "B07FK8CJ76",
+        "historical_price": 12.99,
+        "restored_price": 12.99,
+        "drop_percent": 0.0,
+        "source_basis": "原SKU历史三包装售价；未套用单包价或四包装价",
+        "needs_review": false
+      }
+    ]
+  },
+  "manual_operations": [
+    {
+      "sku": "4A073",
+      "asin": "B00SMEEVKQ",
+      "channel": "FBA",
+      "changes": {
+        "ordinary": [
+          10.99,
+          4.99
+        ],
+        "business": [
+          4.49,
+          4.49
+        ]
+      },
+      "source": "CONTINUE_CHECKPOINT.txt lines33,206; pricing-expanded.txt",
+      "status": "需优先复核：手工FBA普通价下降54.6%，与v1无关；Excel另邮价混用疑点"
+    },
+    {
+      "sku": "AAAA 4A 608-N-L-210",
+      "asin": "B07B8RBCKT",
+      "channel": "FBA",
+      "changes": {
+        "ordinary": [
+          14.99,
+          11.99
+        ]
+      },
+      "source": "restore-price-evidence.json;608-price-saved.txt;CONTINUE_CHECKPOINT.txt line35",
+      "status": "需复核：先按历史14.99恢复，随后按Excel11.99降价20%；已有15%券，需分清当时授权与运费口径"
+    },
+    {
+      "sku": "4A 5036-B00SM-FBA",
+      "asin": "B00SMEEVC4",
+      "channel": "FBA",
+      "changes": {
+        "ordinary": [
+          7.2,
+          6.99
+        ],
+        "business": [
+          9.69,
+          6.99
+        ]
+      },
+      "source": "CONTINUE_CHECKPOINT.txt lines34,143",
+      "status": "小幅2.92%普通降价及企业倒挂纠正，不能等同50%事故；仍需核当时授权与原价"
+    },
+    {
+      "sku": "4A GM30315",
+      "asin": "B07FKG29KB",
+      "channel": "FBM",
+      "changes": {
+        "ordinary": [
+          18.99,
+          15.99
+        ],
+        "sale": [
+          15.99,
+          14.99
+        ],
+        "list": [
+          18.99,
+          15.99
+        ]
+      },
+      "source": "CONTINUE_CHECKPOINT.txt line84;30315-price-submitted.png;30315-public-before.txt",
+      "status": "手工FBM单独编辑；到手价另8.99运费；真实有效价15.99→14.99约6.25%，不能按普通18.99→14.99误称一次实际21%降价"
+    },
+    {
+      "sku": "4A BP 1111-Nx4 / 4A GMBP 1111-Nx4",
+      "asin": "B07QWKYQV7",
+      "channel": "FBA+FBM",
+      "changes": {
+        "ordinary": [
+          27.99,
+          27.39
+        ]
+      },
+      "source": "bp1111-coupon-price-before.txt/bp1111-coupon-price-saved.txt/bp1111-coupon-retry-after-price.txt",
+      "status": "用户后来明确要求小幅调价重试Coupon；约2.14%，单独目的，与v1的37.39→27.99分开；提交后当前仍需回读"
+    },
+    {
+      "sku": "4A 354818",
+      "asin": "B07DJKDB63",
+      "channel": "FBA",
+      "changes": {
+        "minimum": [
+          9.99,
+          7.99
+        ],
+        "ordinary": [
+          7.99,
+          7.99
+        ]
+      },
+      "source": "354818-live-status.txt;CONTINUE_CHECKPOINT.txt lines153",
+      "status": "只修最低价冲突，原普通7.99未下降；不能将最低价调整当普通降价"
+    },
+    {
+      "sku": "4A 40623",
+      "asin": "B00SMEF542",
+      "channel": "FBA",
+      "changes": {
+        "minimum": [
+          6.39,
+          5.99
+        ],
+        "ordinary": [
+          5.99,
+          5.99
+        ]
+      },
+      "source": "40623-floor-fixed.png; earlier current plan",
+      "status": "只修最低价冲突；截图普通5.99、最低5.99、最高7.39，未降普通价"
+    }
+  ],
+  "scope": "根据现有会话证据已定位7组手工价格/参考价/最低价操作；不是未搜索历史的绝对无遗漏保证。当前恢复动作另见各代理日志。"
+}

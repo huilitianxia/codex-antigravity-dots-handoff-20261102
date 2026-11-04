@@ -1,0 +1,61 @@
+{
+  "status": "暂停准备家族08，按主代理插队先审受限FBA促销；未写线上、未制作08",
+  "four_skus": [
+    "4A 354818",
+    "4A 354818*2",
+    "4A 354818*4",
+    "4A GM354818*4"
+  ],
+  "all_live_parent": "PARENT-4A-301-MINI-PADS / B0HPTS61KJ",
+  "own_current_values": [
+    {
+      "sku": "4A 354818",
+      "number_of_items": 100,
+      "color": "8 Colors Assorted",
+      "size": "48 Pads (2 Towers) (Pack 2)",
+      "catalog_number_of_items": 1,
+      "catalog_color": "Neon Assorted-18 Pads",
+      "catalog_size": "6.4 inches x 3.2 inches"
+    },
+    {
+      "sku": "4A 354818*2",
+      "number_of_items": 36,
+      "color": "8 Colors Assorted",
+      "size": "48 Pads (2 Towers)"
+    },
+    {
+      "sku": "4A 354818*4",
+      "number_of_items": 72,
+      "color": "8 Colors Assorted",
+      "size": "72 Pads Box (Pack 2)"
+    },
+    {
+      "sku": "4A GM354818*4",
+      "number_of_items": 72,
+      "color": "8 Colors Assorted",
+      "size": "72 Pads Box",
+      "catalog_size": "72 Pads Box (Pack 2)"
+    }
+  ],
+  "evidence": [
+    "family08-details-0..3.txt",
+    "family08-variations-0..3.txt",
+    "family08-template-supported-themes.json",
+    "family354818-buyer.txt",
+    "family354818x2-buyer.txt",
+    "family354818x4-buyer.txt"
+  ],
+  "theme_verified_template": "10/31 official category report Dropdown Lists!K4:K76 via named SELF_STICK_NOTEvariation_theme1.name, NUMBER_OF_ITEMS K17 and COLOR/NUMBER_OF_ITEMS K9 nondeprecated",
+  "next": [
+    "Read exact other ASIN of18-pad buyer two-color family; parent differs from seller contribution",
+    "Check current UI variation theme options if available; yesterday template confirms enumerations",
+    "Read official Amazon help move-child instructions; old family membership may require Support unlink without deleting SKU",
+    "Prepare08 independent family-only upload and rollback after evidence; no prices/stock/fulfillment fields; use artifact authoring then preserve XLSM package as prior06"
+  ],
+  "official_sources": [
+    "https://sellercentral.amazon.com/gp/help/external/GEKYC26YEZX2VSHM?locale=en-MX",
+    "https://sellercentral.amazon.com/help/hub/reference/external/GLQBFJDZ7ZDLXQW8",
+    "https://developer-docs.amazon/sp-api/docs/building-listings-management-workflows-guide"
+  ],
+  "important": "Official docs say theme cannot change after family creation; existing child may already belong other family. Do not delete whole301parent or any childSKU merely to reparent. Need concrete non-destructive move/support step."
+}

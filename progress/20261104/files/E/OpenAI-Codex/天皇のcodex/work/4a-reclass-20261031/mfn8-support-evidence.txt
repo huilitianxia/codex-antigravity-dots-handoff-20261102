@@ -1,0 +1,35 @@
+未发送：GM406SL-10 配送报价异常的支持核查材料
+
+Marketplace: Amazon.com (US)
+SKU: 4A GM406SL-10
+ASIN: B07RP85C2P
+
+Observed facts:
+1. Manage All Inventory shows this MFN SKU as Active, quantity 466, item price USD17.49, and shipping USD1,000,001.00.
+2. SKU Central shows shipping as -- rather than a valid shipping amount.
+3. Existing shipping-template assignment is Heavy delivery. Mainland US standard shipping is USD9.99 per order plus USD6.99 per lb, covering New York and street/PO-box addresses. No million-dollar rate or weight tier appears in the template.
+4. The listing editor shows an existing catalog package weight of 1.066 Kilograms. The seller contribution input is blank. Normal SKUs using the same template also have blank seller contribution inputs, so that alone does not isolate the cause.
+5. A one-time same-value re-save of Heavy delivery was submitted via this SKU's inventory-row Change shipping template dialog; the dialog showed one selected product and closed after submission. Immediate readback still showed USD1,000,001.00, while quantity466 and item price17.49 remained unchanged.
+6. The buyer page with existing destination New York10001 says Currently unavailable. No purchasable offer or real shipping charge for this product was exposed. We do not claim customers are actually asked to pay USD1,000,001.
+7. Manage Seller-Fulfilled Inventory shows466 units in FBM Inventory(default), handling time1 day, no restock date. Named warehouse-location quantity fields are disabled because this SKU has not been upgraded to Multi-Location Inventory. No explicit error code is displayed. No MLI upgrade was performed.
+8. The FBA SKU on this ASIN has zero available units; the problem concerns the in-stock MFN offer.
+
+Requested technical diagnosis, if authorized to contact support:
+- Inspect the MFN offer's buyability/suppression reason and shipping-quote calculation error code.
+- Verify the SKU-to-Heavy-template association and any default-location/SSA routing issue.
+- Confirm whether USD1,000,001 is an internal fallback value for an unavailable shipping quote.
+- Identify the exact attribute or association requiring correction; do not change shared template rates, quantities, prices, or weights without confirmation of the cause.
+
+Evidence files:
+mfn8-refresh-before.txt/png
+mfn8-same-heavy-presave.txt/png
+mfn8-same-heavy-postsave.txt/png
+mfn8-buyer-after-same-heavy.txt/png
+mfn8-heavy-template-live.txt
+mfn8-406sl-offer-all.txt
+mfn8-608sl-offer.txt
+mfn8-404sl-offer.txt
+mfn8-manage-seller-fulfilled.txt
+mfn8-shipping-operation-log.json
+
+Only a same-value template association save was performed. No shared shipping rates, package weights, item/business prices, quantities or locations were changed. No message was sent and no support case was opened.

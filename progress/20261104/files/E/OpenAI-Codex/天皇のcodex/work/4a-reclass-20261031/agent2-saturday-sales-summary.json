@@ -1,0 +1,53 @@
+{
+  "at": "2026-11-01T04:17:27.446Z",
+  "dashboardAt": "2026-10-31 21:12:47 GMT-7",
+  "today": {
+    "uniqueOrders": 13,
+    "orderItems": 13,
+    "units": 15,
+    "sales": 172.85,
+    "businessOrders": 0
+  },
+  "verifiedIncident": {
+    "orders": 3,
+    "units": 5,
+    "sales": 29.95,
+    "sku": "4A 5082-Y-L-GM",
+    "unitPrice": 5.99
+  },
+  "excludingVerifiedIncident": {
+    "orders": 10,
+    "units": 10,
+    "sales": 142.9
+  },
+  "normalPrice5082Order": {
+    "time": "15:49 PDT",
+    "units": 1,
+    "sales": 11.99
+  },
+  "comparisonFullDays": {
+    "2026-10-30": {
+      "orderItems": 26,
+      "units": 41,
+      "sales": 629.4
+    },
+    "2026-10-24": {
+      "orderItems": 16,
+      "units": 18,
+      "sales": 280.24
+    }
+  },
+  "uiPriorSaturdayPercent": {
+    "orders": "-13%",
+    "units": "-6%",
+    "sales": "-33.07%",
+    "timeBasis": "not explicitly verified; do not infer precise same-time totals"
+  },
+  "notes": [
+    "Today not finished in PDT.",
+    "Order-item count is not universally unique-order count; today 13 unique orders separately verified.",
+    "Sales are order subtotals, not net settlements.",
+    "Only verified incorrect-price orders excluded; cannot assume all would not have ordered at correct price.",
+    "Today all nonincident orders are one unit; previous day includes larger multiquantity orders."
+  ]
+}

@@ -1,0 +1,362 @@
+- button:
+- link "Amazon":
+  - /url: /home
+- button "4A (USA) LIMITED 美国":
+  - generic: 4A (USA) LIMITED
+  - generic: 美国
+- textbox "搜索"
+- button "搜索":
+- link "新版卖家平台":
+  - /url: /amazonsell?ref=sc_trim_header&path=%2Flisting%2Fstatus
+  - img "新版卖家平台"
+- link "新版卖家平台":
+  - /url: /amazonsell?ref=sc_trim_header&path=%2Flisting%2Fstatus
+- generic "卖家助手":
+  - button:
+- link "消息":
+  - /url: /messaging/inbox
+- generic "设置":
+- generic "语言":
+  - text: ZH
+- generic "帮助":
+  - generic: 帮助
+- button:
+- link "付款":
+  - /url: /payments/dashboard/index.html/ref=xx_payments_favb_xx
+- link "卖家大学":
+  - /url: /learn?ref_=xx_su_favb_xx
+- link "管理所有库存":
+  - /url: /myinventory/inventory?ref_=xx_invmgr_favb_xx
+- link "广告活动管理":
+  - /url: /cm?ref_=xx_cmpmgr_favb_xx
+- link "货件":
+  - /url: /gp/ssof/shipping-queue.html/ref=xx_fbashipq_favb_xx
+- link "商机探测器":
+  - /url: /opportunity-explorer/ref=xx_ox_sc_favb_xx
+- link "品牌分析":
+  - /url: /brand-analytics?ref_=xx_aba_favb_xx
+- link "A+ 商品描述管理器":
+  - /url: /enhanced-content/ref=xx_ebc_favb_xx
+- link "业务报告":
+  - /url: /business-reports/ref=xx_sitemetric_favb_xx
+- link "配送":
+  - /url: /reportcentral/ref=xx_fbareports_favb_xx
+- link "库存报告":
+  - /url: /listing/reports/ref=xx_invreport_favb_xx
+- link "绩效通知":
+  - /url: /gp/customer-experience/perf-notifications.html/ref=xx_cxperform_favb_xx
+- link "账户状况":
+  - /url: /gp/seller-rating/pages/performance-summary.html/ref=xx_srsumprf_favb_xx
+- button "编辑"
+- heading "检查上传状态" [level=1]
+- button "上传您的电子表格":
+  - generic: 上传您的电子表格
+- generic: 筛选条件：
+- generic: 筛选条件：
+- generic "所有文件类型":
+  - generic: 所有文件类型
+  - generic: 
+- generic "所有状态":
+  - generic: 所有状态
+  - generic: 
+- textbox
+- button:
+  - generic: 
+- table:
+  - rowgroup:
+    - row "文件名 排序 文件名 文件类型 排序 文件类型 批次编号 SKU 成功/已提交 状态":
+      - columnheader "文件名 排序 文件名":
+        - generic: 文件名
+        - button "排序 文件名":
+          - generic: 
+      - columnheader "文件类型 排序 文件类型":
+        - generic: 文件类型
+        - button "排序 文件类型":
+          - generic: 
+      - columnheader "批次编号":
+        - generic: 批次编号
+      - columnheader "SKU 成功/已提交":
+        - generic: SKU 成功/已提交
+      - columnheader "状态":
+        - generic: 状态
+      - columnheader
+  - rowgroup:
+    - row "13-0146-office-only.xlsm 2026年11月1日 下午6:41 用于特定分类的库存文件 285196020758 N/A 进行中":
+      - cell "13-0146-office-only.xlsm 2026年11月1日 下午6:41":
+        - text: 13-0146-office-only.xlsm
+        - text: 2026年11月1日 下午6:41
+      - cell "用于特定分类的库存文件"
+      - cell "285196020758"
+      - cell "N/A"
+      - cell "进行中":
+        - generic: 进行中
+      - cell:
+    - row "12-catalog-text-repairs-only.xlsm 2026年11月1日 下午5:26 用于特定分类的库存文件 285175020758 413 / 512 需操作 下载处理一览 打开下拉菜单":
+      - cell "12-catalog-text-repairs-only.xlsm 2026年11月1日 下午5:26":
+        - text: 12-catalog-text-repairs-only.xlsm
+        - text: 2026年11月1日 下午5:26
+      - cell "用于特定分类的库存文件"
+      - cell "285175020758"
+      - cell "413 / 512"
+      - cell "需操作":
+        - generic: 需操作
+      - cell "下载处理一览 打开下拉菜单":
+        - button "下载处理一览"
+        - button "打开下拉菜单":
+          - generic: 
+    - row "11-remaining-three-five-bullets-only.xlsm 2026年11月1日 下午4:05 用于特定分类的库存文件 285152020758 3 / 3 完成 下载处理一览":
+      - cell "11-remaining-three-five-bullets-only.xlsm 2026年11月1日 下午4:05":
+        - text: 11-remaining-three-five-bullets-only.xlsm
+        - text: 2026年11月1日 下午4:05
+      - cell "用于特定分类的库存文件"
+      - cell "285152020758"
+      - cell "3 / 3"
+      - cell "完成":
+        - generic: 完成
+      - cell "下载处理一览":
+        - button "下载处理一览":
+          - generic: 下载处理一览
+    - row "10-four-noncoupon-promotions.xlsm 2026年11月1日 下午3:46 价格和数量文件 285143020758 1 / 4 需操作 下载处理一览 打开下拉菜单":
+      - cell "10-four-noncoupon-promotions.xlsm 2026年11月1日 下午3:46":
+        - text: 10-four-noncoupon-promotions.xlsm
+        - text: 2026年11月1日 下午3:46
+      - cell "价格和数量文件"
+      - cell "285143020758"
+      - cell "1 / 4"
+      - cell "需操作":
+        - generic: 需操作
+      - cell "下载处理一览 打开下拉菜单":
+        - button "下载处理一览"
+        - button "打开下拉菜单":
+          - generic: 
+    - row "09-073-business-only.xlsm 2026年11月1日 下午3:16 价格和数量文件 285135020758 0 / 1 需操作 下载处理一览 打开下拉菜单":
+      - cell "09-073-business-only.xlsm 2026年11月1日 下午3:16":
+        - text: 09-073-business-only.xlsm
+        - text: 2026年11月1日 下午3:16
+      - cell "价格和数量文件"
+      - cell "285135020758"
+      - cell "0 / 1"
+      - cell "需操作":
+        - generic: 需操作
+      - cell "下载处理一览 打开下拉菜单":
+        - button "下载处理一览"
+        - button "打开下拉菜单":
+          - generic: 
+    - row "07-star-full-adhesive-price-reset.xlsm 2026年11月1日 下午1:44 价格和数量文件 285106020758 0 / 2 需操作 下载处理一览 打开下拉菜单":
+      - cell "07-star-full-adhesive-price-reset.xlsm 2026年11月1日 下午1:44":
+        - text: 07-star-full-adhesive-price-reset.xlsm
+        - text: 2026年11月1日 下午1:44
+      - cell "价格和数量文件"
+      - cell "285106020758"
+      - cell "0 / 2"
+      - cell "需操作":
+        - generic: 需操作
+      - cell "下载处理一览 打开下拉菜单":
+        - button "下载处理一览"
+        - button "打开下拉菜单":
+          - generic: 
+    - row "06-three-skus-five-bullets-only.xlsm 2026年11月1日 下午12:58 用于特定分类的库存文件 285093020758 0 / 3 需操作 下载处理一览 打开下拉菜单":
+      - cell "06-three-skus-five-bullets-only.xlsm 2026年11月1日 下午12:58":
+        - text: 06-three-skus-five-bullets-only.xlsm
+        - text: 2026年11月1日 下午12:58
+      - cell "用于特定分类的库存文件"
+      - cell "285093020758"
+      - cell "0 / 3"
+      - cell "需操作":
+        - generic: 需操作
+      - cell "下载处理一览 打开下拉菜单":
+        - button "下载处理一览"
+        - button "打开下拉菜单":
+          - generic: 
+    - row "05-remove-temporary-minimums.xlsm 2026年11月1日 下午12:26 价格和数量文件 285080020758 4 / 4 完成 下载处理一览":
+      - cell "05-remove-temporary-minimums.xlsm 2026年11月1日 下午12:26":
+        - text: 05-remove-temporary-minimums.xlsm
+        - text: 2026年11月1日 下午12:26
+      - cell "价格和数量文件"
+      - cell "285080020758"
+      - cell "4 / 4"
+      - cell "完成":
+        - generic: 完成
+      - cell "下载处理一览":
+        - button "下载处理一览":
+          - generic: 下载处理一览
+    - row "04-reviewed-nonincident-fixes.xlsm 2026年11月1日 上午4:14 用于特定分类的库存文件 284929020757 20 / 146 需操作 下载处理一览 打开下拉菜单":
+      - cell "04-reviewed-nonincident-fixes.xlsm 2026年11月1日 上午4:14":
+        - text: 04-reviewed-nonincident-fixes.xlsm
+        - text: 2026年11月1日 上午4:14
+      - cell "用于特定分类的库存文件"
+      - cell "284929020757"
+      - cell "20 / 146"
+      - cell "需操作":
+        - generic: 需操作
+      - cell "下载处理一览 打开下拉菜单":
+        - button "下载处理一览"
+        - button "打开下拉菜单":
+          - generic: 
+    - row "03-catalog-errors-consolidated.xlsm 2026年11月1日 上午12:01 用于特定分类的库存文件 284873020757 151 / 164 需操作 下载处理一览 打开下拉菜单":
+      - cell "03-catalog-errors-consolidated.xlsm 2026年11月1日 上午12:01":
+        - text: 03-catalog-errors-consolidated.xlsm
+        - text: 2026年11月1日 上午12:01
+      - cell "用于特定分类的库存文件"
+      - cell "284873020757"
+      - cell "151 / 164"
+      - cell "需操作":
+        - generic: 需操作
+      - cell "下载处理一览 打开下拉菜单":
+        - button "下载处理一览"
+        - button "打开下拉菜单":
+          - generic: 
+    - row "01-price-title-fixes.xlsm 2026年10月31日 下午9:13 用于特定分类的库存文件 284829020757 1 / 106 需操作 下载处理一览 打开下拉菜单":
+      - cell "01-price-title-fixes.xlsm 2026年10月31日 下午9:13":
+        - text: 01-price-title-fixes.xlsm
+        - text: 2026年10月31日 下午9:13
+      - cell "用于特定分类的库存文件"
+      - cell "284829020757"
+      - cell "1 / 106"
+      - cell "需操作":
+        - generic: 需操作
+      - cell "下载处理一览 打开下拉菜单":
+        - button "下载处理一览"
+        - button "打开下拉菜单":
+          - generic: 
+    - row "02-restore-original-skus.xlsm 2026年10月31日 下午9:12 商品信息加载工具文件 284828020757 9 / 9 完成 下载处理一览":
+      - cell "02-restore-original-skus.xlsm 2026年10月31日 下午9:12":
+        - text: 02-restore-original-skus.xlsm
+        - text: 2026年10月31日 下午9:12
+      - cell "商品信息加载工具文件"
+      - cell "284828020757"
+      - cell "9 / 9"
+      - cell "完成":
+        - generic: 完成
+      - cell "下载处理一览":
+        - button "下载处理一览":
+          - generic: 下载处理一览
+    - row "restore-batch-01-fixed.xlsm 2026年10月31日 下午6:04 商品信息加载工具文件 284786020757 6 / 7 需操作 下载处理一览 打开下拉菜单":
+      - cell "restore-batch-01-fixed.xlsm 2026年10月31日 下午6:04":
+        - text: restore-batch-01-fixed.xlsm
+        - text: 2026年10月31日 下午6:04
+      - cell "商品信息加载工具文件"
+      - cell "284786020757"
+      - cell "6 / 7"
+      - cell "需操作":
+        - generic: 需操作
+      - cell "下载处理一览 打开下拉菜单":
+        - button "下载处理一览"
+        - button "打开下拉菜单":
+          - generic: 
+    - row "restore-batch-01-New_Version.xlsm 2026年10月31日 下午5:40 商品信息加载工具文件 284780020757 0 / 7 需操作 下载处理一览 打开下拉菜单":
+      - cell "restore-batch-01-New_Version.xlsm 2026年10月31日 下午5:40":
+        - text: restore-batch-01-New_Version.xlsm
+        - text: 2026年10月31日 下午5:40
+      - cell "商品信息加载工具文件"
+      - cell "284780020757"
+      - cell "0 / 7"
+      - cell "需操作":
+        - generic: 需操作
+      - cell "下载处理一览 打开下拉菜单":
+        - button "下载处理一览"
+        - button "打开下拉菜单":
+          - generic: 
+    - row "4A_全店21大家族精细化变体清洗_终极纯净版_V2.tsv 2026年10月31日 上午2:25 商品电子表格文件 284508020756 103 / 861 需操作 下载处理一览 打开下拉菜单":
+      - cell "4A_全店21大家族精细化变体清洗_终极纯净版_V2.tsv 2026年10月31日 上午2:25":
+        - text: 4A_全店21大家族精细化变体清洗_终极纯净版_V2.tsv
+        - text: 2026年10月31日 上午2:25
+      - cell "商品电子表格文件"
+      - cell "284508020756"
+      - cell "103 / 861"
+      - cell "需操作":
+        - generic: 需操作
+      - cell "下载处理一览 打开下拉菜单":
+        - button "下载处理一览"
+        - button "打开下拉菜单":
+          - generic: 
+    - row "4A_100个无货低评幽灵SKU_官方批量删除表.tsv 2026年10月31日 上午1:55 商品电子表格文件 284496020756 100 / 100 完成 下载处理一览":
+      - cell "4A_100个无货低评幽灵SKU_官方批量删除表.tsv 2026年10月31日 上午1:55":
+        - text: 4A_100个无货低评幽灵SKU_官方批量删除表.tsv
+        - text: 2026年10月31日 上午1:55
+      - cell "商品电子表格文件"
+      - cell "284496020756"
+      - cell "100 / 100"
+      - cell "完成":
+        - generic: 完成
+      - cell "下载处理一览":
+        - button "下载处理一览":
+          - generic: 下载处理一览
+    - row "4A_全店21大家族精细化变体清洗_终极纯净版.tsv 2026年10月30日 下午9:46 商品电子表格文件 284440020756 203 / 961 需操作 下载处理一览 打开下拉菜单":
+      - cell "4A_全店21大家族精细化变体清洗_终极纯净版.tsv 2026年10月30日 下午9:46":
+        - text: 4A_全店21大家族精细化变体清洗_终极纯净版.tsv
+        - text: 2026年10月30日 下午9:46
+      - cell "商品电子表格文件"
+      - cell "284440020756"
+      - cell "203 / 961"
+      - cell "需操作":
+        - generic: 需操作
+      - cell "下载处理一览 打开下拉菜单":
+        - button "下载处理一览"
+        - button "打开下拉菜单":
+          - generic: 
+    - row "4A_全店21大家族精细化变体清洗_终极纯净版.tsv 2026年10月30日 下午8:53 商品电子表格文件 284428020756 91 / 960 需操作 下载处理一览 打开下拉菜单":
+      - cell "4A_全店21大家族精细化变体清洗_终极纯净版.tsv 2026年10月30日 下午8:53":
+        - text: 4A_全店21大家族精细化变体清洗_终极纯净版.tsv
+        - text: 2026年10月30日 下午8:53
+      - cell "商品电子表格文件"
+      - cell "284428020756"
+      - cell "91 / 960"
+      - cell "需操作":
+        - generic: 需操作
+      - cell "下载处理一览 打开下拉菜单":
+        - button "下载处理一览"
+        - button "打开下拉菜单":
+          - generic: 
+    - row "4A_全店15大家族全量变体合并_完美修复终极版.tsv 2026年10月30日 下午6:47 商品电子表格文件 284401020756 610 / 954 需操作 下载处理一览 打开下拉菜单":
+      - cell "4A_全店15大家族全量变体合并_完美修复终极版.tsv 2026年10月30日 下午6:47":
+        - text: 4A_全店15大家族全量变体合并_完美修复终极版.tsv
+        - text: 2026年10月30日 下午6:47
+      - cell "商品电子表格文件"
+      - cell "284401020756"
+      - cell "610 / 954"
+      - cell "需操作":
+        - generic: 需操作
+      - cell "下载处理一览 打开下拉菜单":
+        - button "下载处理一览"
+        - button "打开下拉菜单":
+          - generic: 
+    - row "4A_全店15大家族全量变体合并_官方卖家模板.tsv 2026年10月30日 下午6:14 商品电子表格文件 284393020756 613 / 954 需操作 下载处理一览 打开下拉菜单":
+      - cell "4A_全店15大家族全量变体合并_官方卖家模板.tsv 2026年10月30日 下午6:14":
+        - text: 4A_全店15大家族全量变体合并_官方卖家模板.tsv
+        - text: 2026年10月30日 下午6:14
+      - cell "商品电子表格文件"
+      - cell "284393020756"
+      - cell "613 / 954"
+      - cell "需操作":
+        - generic: 需操作
+      - cell "下载处理一览 打开下拉菜单":
+        - button "下载处理一览"
+        - button "打开下拉菜单":
+          - generic: 
+- link "反馈":
+  - /url: "#"
+- list:
+  - link "帮助":
+    - /url: /help/hub?ref=xx_contactus_foot_xx
+  - link "计划政策":
+    - /url: /gp/help/help.html/ref=xx_help_foot_xx?itemID=521
+  - combobox:
+    - option "English"
+    - option "中文(简体)" [selected]
+    - option "Deutsch"
+    - option "Español"
+    - option "Français"
+    - option "Italiano"
+    - option "日本語"
+    - option "한국어"
+    - option "ไทย"
+    - option "Tiếng Việt"
+    - option "हिंदी"
+    - option "தமிழ்"
+    - option "Português"
+    - option "中文(繁體)"
+  - link "下载“亚马逊卖家”移动应用":
+    - /url: /sellermobileapp?ref=xx_sellermobileapp_foot_xx
+- list:
+  - listitem: © 1999-2026，Amazon.com, Inc. 或其附属公司

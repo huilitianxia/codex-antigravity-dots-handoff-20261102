@@ -1,0 +1,233 @@
+{
+  "html_links_into_sources": [
+    {
+      "file": "01_第一批_新图文素材库\\审稿总览.html",
+      "links": [
+        "PSS32x6/manifest.json",
+        "5084NL/manifest.json",
+        "301x12/manifest.json"
+      ],
+      "count": 3
+    },
+    {
+      "file": "02_第二批_新图文素材库\\审稿总览.html",
+      "links": [
+        "305FullAdhesive/manifest.json",
+        "608NL210/manifest.json",
+        "BS1801/manifest.json",
+        "_核验依据/generation_jobs.json",
+        "_核验依据/Amazon_catalog_20261030.json"
+      ],
+      "count": 5
+    },
+    {
+      "file": "06_第六批_新图文素材库\\608NL210\\审稿.html",
+      "links": [
+        "manifest.json"
+      ],
+      "count": 1
+    },
+    {
+      "file": "06_第六批_新图文素材库\\BP1111\\审稿.html",
+      "links": [
+        "manifest.json"
+      ],
+      "count": 1
+    },
+    {
+      "file": "06_第六批_新图文素材库\\HOLDER303\\审稿.html",
+      "links": [
+        "manifest.json"
+      ],
+      "count": 1
+    },
+    {
+      "file": "05_第五批_新图文素材库\\FULL303\\审稿.html",
+      "links": [
+        "manifest.json"
+      ],
+      "count": 1
+    },
+    {
+      "file": "05_第五批_新图文素材库\\PSS93\\审稿.html",
+      "links": [
+        "manifest.json"
+      ],
+      "count": 1
+    },
+    {
+      "file": "05_第五批_新图文素材库\\SCPSS32\\审稿.html",
+      "links": [
+        "manifest.json"
+      ],
+      "count": 1
+    },
+    {
+      "file": "04_第四批_新图文素材库\\124418\\审稿.html",
+      "links": [
+        "manifest.json"
+      ],
+      "count": 1
+    },
+    {
+      "file": "04_第四批_新图文素材库\\303M\\审稿.html",
+      "links": [
+        "manifest.json"
+      ],
+      "count": 1
+    },
+    {
+      "file": "04_第四批_新图文素材库\\4012\\审稿.html",
+      "links": [
+        "manifest.json"
+      ],
+      "count": 1
+    },
+    {
+      "file": "03_第三批_新图文素材库\\40609\\审稿.html",
+      "links": [
+        "manifest.json"
+      ],
+      "count": 1
+    },
+    {
+      "file": "03_第三批_新图文素材库\\5088NL\\审稿.html",
+      "links": [
+        "manifest.json"
+      ],
+      "count": 1
+    },
+    {
+      "file": "03_第三批_新图文素材库\\PSS91\\审稿.html",
+      "links": [
+        "manifest.json"
+      ],
+      "count": 1
+    },
+    {
+      "file": "02_第二批_新图文素材库\\305FullAdhesive\\审稿.html",
+      "links": [
+        "manifest.json"
+      ],
+      "count": 1
+    },
+    {
+      "file": "02_第二批_新图文素材库\\608NL210\\审稿.html",
+      "links": [
+        "manifest.json"
+      ],
+      "count": 1
+    },
+    {
+      "file": "02_第二批_新图文素材库\\BS1801\\审稿.html",
+      "links": [
+        "manifest.json"
+      ],
+      "count": 1
+    },
+    {
+      "file": "01_第一批_新图文素材库\\301x12\\审稿.html",
+      "links": [
+        "manifest.json"
+      ],
+      "count": 1
+    },
+    {
+      "file": "01_第一批_新图文素材库\\5084NL\\审稿.html",
+      "links": [
+        "manifest.json"
+      ],
+      "count": 1
+    },
+    {
+      "file": "01_第一批_新图文素材库\\PSS32x6\\审稿.html",
+      "links": [
+        "manifest.json"
+      ],
+      "count": 1
+    }
+  ],
+  "script_dependencies": [],
+  "source_summary": {
+    "生成源图": {
+      "count": 109,
+      "bytes": 181388106,
+      "ext": {
+        ".png": 95,
+        ".svg": 14
+      }
+    },
+    "原图参考": {
+      "count": 67,
+      "bytes": 55532270,
+      "ext": {
+        ".jpg": 52,
+        ".png": 14,
+        ".JPG": 1
+      }
+    },
+    "_核验依据": {
+      "count": 118,
+      "bytes": 9657770,
+      "ext": {
+        ".json": 25,
+        ".jpg": 73,
+        ".cjs": 9,
+        ".png": 1,
+        ".md": 3,
+        ".jpeg": 1,
+        ".py": 6
+      }
+    }
+  },
+  "logs": [
+    {
+      "name": "extracted_order_data.txt",
+      "bytes": 238592,
+      "chars": 213121,
+      "lines": 252,
+      "contains_order_terms": true,
+      "contains_dom_snapshot_terms": true
+    },
+    {
+      "name": "gpt_latest_msg.txt",
+      "bytes": 184,
+      "chars": 63,
+      "lines": 1,
+      "contains_order_terms": false,
+      "contains_dom_snapshot_terms": false
+    },
+    {
+      "name": "gpt_script_call.txt",
+      "bytes": 1680,
+      "chars": 1676,
+      "lines": 4,
+      "contains_order_terms": false,
+      "contains_dom_snapshot_terms": false
+    },
+    {
+      "name": "subagent_orders_step5336.txt",
+      "bytes": 4126,
+      "chars": 2857,
+      "lines": 8,
+      "contains_order_terms": true,
+      "contains_dom_snapshot_terms": false
+    },
+    {
+      "name": "tool_call_mapping.txt",
+      "bytes": 11885,
+      "chars": 10791,
+      "lines": 17,
+      "contains_order_terms": true,
+      "contains_dom_snapshot_terms": true
+    },
+    {
+      "name": "通宵自动监听与提取日志.txt",
+      "bytes": 390,
+      "chars": 284,
+      "lines": 4,
+      "contains_order_terms": false,
+      "contains_dom_snapshot_terms": false
+    }
+  ]
+}

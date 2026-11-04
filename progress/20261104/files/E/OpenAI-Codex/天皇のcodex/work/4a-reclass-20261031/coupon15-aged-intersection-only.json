@@ -1,0 +1,218 @@
+{
+  "scope": "Read-only set intersection only; no disposal investigation; live23 versus 10/30 FBA age/estimated AIS",
+  "live23_count": 23,
+  "live_fba_age181_overlap_count": 17,
+  "live_estimated_fee_overlap_count": 17,
+  "live_overlap_stock": 955,
+  "live_overlap_estimated_ais": 230.29,
+  "rows": [
+    {
+      "asin": "B07RN7WQ81",
+      "sku": "4A 5020x3",
+      "fba_qty": 50,
+      "age181": 50,
+      "ais": 1.42,
+      "overlap": true,
+      "fee_overlap": true
+    },
+    {
+      "asin": "B01N1U9USQ",
+      "sku": "4A052",
+      "fba_qty": null,
+      "age181": null,
+      "ais": null,
+      "overlap": false,
+      "fee_overlap": false
+    },
+    {
+      "asin": "B07FKHHTYG",
+      "sku": "AAAA 4A 303-AC-holder",
+      "fba_qty": 44,
+      "age181": 44,
+      "ais": 15.4,
+      "overlap": true,
+      "fee_overlap": true
+    },
+    {
+      "asin": "B07QZR9Z3P",
+      "sku": "4A BP 1111-Px4",
+      "fba_qty": 28,
+      "age181": 28,
+      "ais": 10.04,
+      "overlap": true,
+      "fee_overlap": true
+    },
+    {
+      "asin": "B07B8RBCKT",
+      "sku": "AAAA 4A 608-N-L-210",
+      "fba_qty": 24,
+      "age181": 0,
+      "ais": 0,
+      "overlap": false,
+      "fee_overlap": false
+    },
+    {
+      "asin": "B07FKBHTDG",
+      "sku": "AAAA 4A 40609",
+      "fba_qty": 612,
+      "age181": 0,
+      "ais": 0,
+      "overlap": false,
+      "fee_overlap": false
+    },
+    {
+      "asin": "B07T79KGWM",
+      "sku": "4A 40623x6",
+      "fba_qty": null,
+      "age181": null,
+      "ais": null,
+      "overlap": false,
+      "fee_overlap": false
+    },
+    {
+      "asin": "B07T42D4GL",
+      "sku": "4A 40624x6",
+      "fba_qty": null,
+      "age181": null,
+      "ais": null,
+      "overlap": false,
+      "fee_overlap": false
+    },
+    {
+      "asin": "B01N6IT5IG",
+      "sku": "4A 5036",
+      "fba_qty": null,
+      "age181": null,
+      "ais": null,
+      "overlap": false,
+      "fee_overlap": false
+    },
+    {
+      "asin": "B07QWKWWP2",
+      "sku": "4A PSS 9-1 NYNRx2",
+      "fba_qty": 162,
+      "age181": 163,
+      "ais": 6.06,
+      "overlap": true,
+      "fee_overlap": true
+    },
+    {
+      "asin": "B00SMEENOU",
+      "sku": "4A055",
+      "fba_qty": 140,
+      "age181": 139,
+      "ais": 48.36,
+      "overlap": true,
+      "fee_overlap": true
+    },
+    {
+      "asin": "B07R2KSW34",
+      "sku": "4A PSS 9-1 Grid-NYNGx2",
+      "fba_qty": 130,
+      "age181": 129,
+      "ais": 11.25,
+      "overlap": true,
+      "fee_overlap": true
+    },
+    {
+      "asin": "B07RP9K6KV",
+      "sku": "4A 6031x4",
+      "fba_qty": 77,
+      "age181": 77,
+      "ais": 26.9,
+      "overlap": true,
+      "fee_overlap": true
+    },
+    {
+      "asin": "B0F2YHTD8T",
+      "sku": "4A 5088-Rainbow",
+      "fba_qty": 52,
+      "age181": 52,
+      "ais": 17.23,
+      "overlap": true,
+      "fee_overlap": true
+    },
+    {
+      "asin": "B0F2TJ7ZL7",
+      "sku": "4A 303-Holder+Flag",
+      "fba_qty": 44,
+      "age181": 44,
+      "ais": 15.4,
+      "overlap": true,
+      "fee_overlap": true
+    },
+    {
+      "asin": "B0F1TZ114W",
+      "sku": "4A 5037x2",
+      "fba_qty": 35,
+      "age181": 34,
+      "ais": 11.9,
+      "overlap": true,
+      "fee_overlap": true
+    },
+    {
+      "asin": "B0F1TTFTKQ",
+      "sku": "4A 5036x2",
+      "fba_qty": 33,
+      "age181": 33,
+      "ais": 11.19,
+      "overlap": true,
+      "fee_overlap": true
+    },
+    {
+      "asin": "B0F2TJZ8GM",
+      "sku": "4A BS 1801 Refill",
+      "fba_qty": 37,
+      "age181": 37,
+      "ais": 12.95,
+      "overlap": true,
+      "fee_overlap": true
+    },
+    {
+      "asin": "B07DJKB4FZ",
+      "sku": "AAAA 4A 124418",
+      "fba_qty": 34,
+      "age181": 34,
+      "ais": 11.64,
+      "overlap": true,
+      "fee_overlap": true
+    },
+    {
+      "asin": "B07T7PTYQ2",
+      "sku": "4A 60144x2",
+      "fba_qty": 26,
+      "age181": 26,
+      "ais": 9.1,
+      "overlap": true,
+      "fee_overlap": true
+    },
+    {
+      "asin": "B07FKB3BRZ",
+      "sku": "AAAA 4A PSS 9-1 NYGrid",
+      "fba_qty": 25,
+      "age181": 25,
+      "ais": 8.15,
+      "overlap": true,
+      "fee_overlap": true
+    },
+    {
+      "asin": "B07RP9BW5Z",
+      "sku": "4A 50024",
+      "fba_qty": 21,
+      "age181": 21,
+      "ais": 7.35,
+      "overlap": true,
+      "fee_overlap": true
+    },
+    {
+      "asin": "B07FKJLZNG",
+      "sku": "AAAA 4A 4012",
+      "fba_qty": 17,
+      "age181": 17,
+      "ais": 5.95,
+      "overlap": true,
+      "fee_overlap": true
+    }
+  ],
+  "old50_draft_age181_overlap_count": 39
+}

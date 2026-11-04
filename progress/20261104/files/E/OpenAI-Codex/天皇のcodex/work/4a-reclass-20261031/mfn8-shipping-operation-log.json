@@ -1,0 +1,42 @@
+{
+  "sku": "4A GM406SL-10",
+  "asin": "B07RP85C2P",
+  "allowed_scope": "resave same Heavy delivery once; no rate/price/stock/weight mutations",
+  "steps": [
+    {
+      "time": "2026-11-01T04:46:30.565Z",
+      "action": "verified current binding",
+      "result": "Heavy delivery; qty466; base17.49; shipping1000001"
+    },
+    {
+      "time": "2026-11-01T04:46:30.566Z",
+      "action": "selected existing Heavy delivery in per-row change-template dialog",
+      "result": "one product; save enabled"
+    },
+    {
+      "time": "2026-11-01T04:46:52.19Z",
+      "action": "clicked save same Heavy delivery once",
+      "result": "awaiting UI readback"
+    },
+    {
+      "time": "2026-11-01T04:47:46.623Z",
+      "action": "read after save",
+      "result": "dialog closed; template remains Heavy delivery; quantity466 and base17.49 unchanged; shipping still1000001",
+      "evidence": "mfn8-same-heavy-postsave.txt"
+    },
+    {
+      "time": "2026-11-01T04:50:16.235Z",
+      "action": "buyer page after same-template save",
+      "result": "Existing destination New York 10001; Currently unavailable; no purchasable target offer or actual shipping quote exposed",
+      "evidence": "mfn8-buyer-after-same-heavy.txt"
+    },
+    {
+      "time": "2026-11-01T04:52:58.1135012Z",
+      "action": "read Manage Seller-Fulfilled Inventory",
+      "result": "466 units in default FBM inventory; handling time1day; no restock date; no visible error; location fields disabled until MLI upgrade; no upgrade performed",
+      "evidence": "mfn8-manage-seller-fulfilled.txt"
+    }
+  ],
+  "outcome": "Same Heavy template was selected and submitted once. Dialog closed; immediate backend shipping remains1000001; buyer still unavailable. No proven recovery; no template rate/weight/price/quantity changes.",
+  "support_material": "mfn8-support-evidence.txt"
+}

@@ -1,0 +1,298 @@
+[
+  {
+    "asin": "B07FKJM2LX",
+    "sku": "AAAA 4A 5084-N-L",
+    "price": 19.99,
+    "units_current": 161,
+    "sales_units_ui": 3,
+    "b2b": 19.98,
+    "fba_fee": 5.06,
+    "total_fee": 8.06,
+    "sale_visible": null,
+    "minimum": null,
+    "units30_fba": 3,
+    "age365plus": 0,
+    "catalog_label_issues": [
+      {
+        "sku": "4A GM5084-N-L*2",
+        "size": "8 Pads Pack (Pack 2)",
+        "parent": "PARENT-4A-508-LARGE-5X8"
+      }
+    ],
+    "live_evidence": "audit2-live-B07FKJM2LX.txt",
+    "tiers": [
+      [
+        2,
+        2.0
+      ]
+    ],
+    "tier_evidence": "audit2-tiers-B07FKJM2LX.txt"
+  },
+  {
+    "asin": "B07FKF5V92",
+    "sku": "AAAA 4A PSS 9-1 NRGrid",
+    "price": 19.99,
+    "units_current": 63,
+    "sales_units_ui": 2,
+    "b2b": null,
+    "fba_fee": 4.11,
+    "total_fee": 7.11,
+    "sale_visible": null,
+    "minimum": null,
+    "units30_fba": 2,
+    "age365plus": 0,
+    "catalog_label_issues": [
+      {
+        "sku": "4A GM-SC-PSS 9-1 Grid Refill",
+        "size": "Standard Size (Pack 3)",
+        "parent": "PARENT-4A-PSS-ROLL-TAPE"
+      }
+    ],
+    "live_evidence": "audit2-live-B07FKF5V92.txt",
+    "tiers": []
+  },
+  {
+    "asin": "B07F2BHFJH",
+    "sku": "4A 5082-Y-L-GM",
+    "price": 11.99,
+    "units_current": 61,
+    "sales_units_ui": 17,
+    "b2b": 9.49,
+    "fba_fee": 3.82,
+    "total_fee": 3.81,
+    "sale_visible": null,
+    "minimum": null,
+    "units30_fba": 16,
+    "age365plus": 0,
+    "catalog_label_issues": [
+      {
+        "sku": "4A 5082-Y-L",
+        "size": "2 Pads Pack (Pack 2)",
+        "parent": "PARENT-4A-508-LARGE-5X8"
+      }
+    ],
+    "live_evidence": "audit2-live-B07F2BHFJH.txt",
+    "tiers": [
+      [
+        2,
+        2.0
+      ]
+    ],
+    "tier_evidence": "audit2-tiers-B07F2BHFJH.txt"
+  },
+  {
+    "asin": "B07FK8MF91",
+    "sku": "AAAA 4A PSS 9-1 NBGrid",
+    "price": 15.99,
+    "units_current": 48,
+    "sales_units_ui": 1,
+    "b2b": null,
+    "fba_fee": 4.11,
+    "total_fee": 6.51,
+    "sale_visible": null,
+    "minimum": null,
+    "units30_fba": 1,
+    "age365plus": 0,
+    "catalog_label_issues": [
+      {
+        "sku": "4A GMPSS 9-1 NBGrid",
+        "size": "Standard Size (Pack 11)",
+        "parent": "PARENT-4A-PSS-ROLL-TAPE"
+      }
+    ],
+    "live_evidence": "audit2-live-B07FK8MF91.txt",
+    "tiers": []
+  },
+  {
+    "asin": "B07QWKYMGM",
+    "sku": "4A PSS 9-1 Grid-NBNPx2",
+    "price": 22.99,
+    "units_current": 46,
+    "sales_units_ui": 2,
+    "b2b": null,
+    "fba_fee": 4.64,
+    "total_fee": 8.09,
+    "sale_visible": null,
+    "minimum": null,
+    "units30_fba": 2,
+    "age365plus": 0,
+    "catalog_label_issues": [
+      {
+        "sku": "4A GMPSS 9-1 Grid-NBNPx2",
+        "size": "Standard Size (Pack 4)",
+        "parent": "PARENT-4A-PSS-ROLL-TAPE"
+      },
+      {
+        "sku": "4A PSS 9-1 Grid-NBNPx2",
+        "size": "Standard Size (Pack 39)",
+        "parent": "PARENT-4A-PSS-ROLL-TAPE"
+      }
+    ],
+    "live_evidence": "audit2-live-B07QWKYMGM.txt",
+    "tiers": []
+  },
+  {
+    "asin": "B07FK9S7S8",
+    "sku": "4A PSS 9-3 YORx2",
+    "price": 18.99,
+    "units_current": 43,
+    "sales_units_ui": 7,
+    "b2b": 15.38,
+    "fba_fee": 4.11,
+    "total_fee": 6.96,
+    "sale_visible": null,
+    "minimum": null,
+    "units30_fba": 7,
+    "age365plus": 0,
+    "catalog_label_issues": [
+      {
+        "sku": "4A PSS 9-3 YORx2",
+        "size": "Standard Size (Pack 7)",
+        "parent": "PARENT-4A-PSS-ROLL-TAPE"
+      }
+    ],
+    "live_evidence": "audit2-live-B07FK9S7S8.txt",
+    "tiers": [
+      [
+        2,
+        2.0
+      ]
+    ],
+    "tier_evidence": "audit2-tiers-B07FK9S7S8.txt"
+  },
+  {
+    "asin": "B07FKFMJTL",
+    "sku": "AAAA 4A 40622",
+    "price": 9.99,
+    "units_current": 33,
+    "sales_units_ui": null,
+    "b2b": null,
+    "fba_fee": 2.77,
+    "total_fee": 4.27,
+    "sale_visible": null,
+    "minimum": null,
+    "units30_fba": 0,
+    "age365plus": 33,
+    "catalog_label_issues": [
+      {
+        "sku": "4A GM40622*2",
+        "size": "4 x 6 in (Lined) (Pack 9)",
+        "parent": "PARENT-4A-406-MEDIUM-PADS"
+      }
+    ],
+    "live_evidence": "audit2-live-B07FKFMJTL.txt",
+    "tiers": []
+  },
+  {
+    "asin": "B07QXJYKJN",
+    "sku": "4A PSS 9-5 NANBx2",
+    "price": 24.99,
+    "units_current": 33,
+    "sales_units_ui": 7,
+    "b2b": null,
+    "fba_fee": 4.64,
+    "total_fee": 8.39,
+    "sale_visible": null,
+    "minimum": null,
+    "units30_fba": 6,
+    "age365plus": 0,
+    "catalog_label_issues": [
+      {
+        "sku": "4A PSS 9-5 NANBx2",
+        "size": "Standard Size (Pack 3)",
+        "parent": "PARENT-4A-PSS-ROLL-TAPE"
+      }
+    ],
+    "live_evidence": "audit2-live-B07QXJYKJN.txt",
+    "tiers": []
+  },
+  {
+    "asin": "B07QXJY3FH",
+    "sku": "4A PSS 9-1 NGNOx2",
+    "price": 22.99,
+    "units_current": 27,
+    "sales_units_ui": 2,
+    "b2b": null,
+    "fba_fee": 4.64,
+    "total_fee": 7.64,
+    "sale_visible": null,
+    "minimum": null,
+    "units30_fba": 2,
+    "age365plus": 0,
+    "catalog_label_issues": [
+      {
+        "sku": "4A GMPSS 9-1 NGNOx2",
+        "size": "Standard Size (Pack 5)",
+        "parent": "PARENT-4A-PSS-ROLL-TAPE"
+      },
+      {
+        "sku": "4A PSS 9-1 NGNOx2",
+        "size": "Standard Size (Pack 41)",
+        "parent": "PARENT-4A-PSS-ROLL-TAPE"
+      }
+    ],
+    "live_evidence": "audit2-live-B07QXJY3FH.txt",
+    "tiers": []
+  },
+  {
+    "asin": "B07DJKDB63",
+    "sku": "4A 354818",
+    "price": 7.99,
+    "units_current": 22,
+    "sales_units_ui": null,
+    "b2b": null,
+    "fba_fee": 3.79,
+    "total_fee": 4.99,
+    "sale_visible": null,
+    "minimum": 7.99,
+    "units30_fba": 0,
+    "age365plus": 22,
+    "catalog_label_issues": [
+      {
+        "sku": "4A 354818",
+        "size": "48 Pads (2 Towers) (Pack 2)",
+        "parent": "PARENT-4A-301-MINI-PADS"
+      }
+    ],
+    "live_evidence": "audit2-live-B07DJKDB63.txt",
+    "tiers": []
+  },
+  {
+    "asin": "B07FKHHTY4",
+    "sku": "AAAA 4A 406x6-N",
+    "price": 11.99,
+    "units_current": 20,
+    "sales_units_ui": null,
+    "b2b": null,
+    "fba_fee": 5.93,
+    "total_fee": 7.73,
+    "sale_visible": null,
+    "minimum": null,
+    "units30_fba": 0,
+    "age365plus": 19,
+    "catalog_label_issues": [
+      {
+        "sku": "4A GM406x6-N",
+        "size": "4 x 6 in (Lined) (Pack 4)",
+        "parent": "PARENT-4A-406-MEDIUM-PADS"
+      }
+    ],
+    "live_evidence": "audit2-live-B07FKHHTY4.txt",
+    "tiers": []
+  },
+  {
+    "asin": "B07JVSYNYV",
+    "sku": "4A BS 1801-FBA",
+    "price": 14.99,
+    "units_current": 20,
+    "sales_units_ui": null,
+    "b2b": 14.49,
+    "fba_fee": 4.36,
+    "total_fee": 6.61,
+    "sale_visible": null,
+    "minimum": null,
+    "units30_fba": 0,
+    "age365plus": 0,
+    "catalog_label_issues": []
+  }
+]

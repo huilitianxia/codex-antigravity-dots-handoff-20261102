@@ -1,0 +1,545 @@
+- navigation:
+  - button "菜单":
+  - generic: 菜单
+  - button:
+  - navigation:
+    - searchbox
+    - link:
+      - /url: /amazonsell/business
+      - generic: 我的业务
+    - button:
+      - generic: 商品
+    - link:
+      - /url: /amazonsell/listings
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/manage-products
+      - text: 管理商品
+      - button:
+    - link:
+      - /url: /pricing/health
+      - text: 管理定价
+      - button:
+    - link:
+      - /url: /product-search
+      - text: 添加商品
+      - button:
+    - link:
+      - /url: /feedback-manager/index.html
+      - text: 分析评论
+      - button:
+    - link:
+      - /url: /new-product-guidance
+      - text: 研究商品
+      - button:
+    - link:
+      - /url: /gex
+      - text: 全球开店
+      - button:
+    - link:
+      - /url: /listing/reports
+      - text: 商品报告
+      - button:
+    - button:
+      - generic: 供应链
+    - link:
+      - /url: /amazonsell/inventory
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/fba-inventory
+      - text: 管理亚马逊库存
+      - button:
+    - link:
+      - /url: /global-store
+      - text: 管理海外购
+      - button:
+    - link:
+      - /url: /seller-fulfilled-product/analytics
+      - text: 管理卖家自配送库存
+      - button:
+    - link:
+      - /url: /manage/shipments
+      - text: 管理货件
+      - button:
+    - link:
+      - /url: /fba/sendtoamazon
+      - text: Send to Amazon
+      - button:
+    - link:
+      - /url: /channel-manager
+      - text: 管理渠道目的地
+      - button:
+    - link:
+      - /url: https://supplychain.amazon.com/scp/login?utm_source=ngs_persistence_link
+      - text: 供应链控制面板
+      - button:
+    - link:
+      - /url: /reportcentral/WelcomePage
+      - text: 供应链报告
+      - button:
+    - button:
+      - generic: 订单
+    - link:
+      - /url: /amazonsell/orders
+      - text: 工作区
+    - link:
+      - /url: /amazonsell/orders/mfn
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /amazonsell/orders/fba
+      - text: 管理订单
+      - button:
+    - link:
+      - /url: /business/manage-quotes
+      - text: 管理报价
+      - button:
+    - link:
+      - /url: /manage/returns/mfn
+      - text: 管理退货
+      - button:
+    - link:
+      - /url: /gp/chargebacks/home.html
+      - text: 管理索赔
+      - button:
+    - link:
+      - /url: /order-reports-and-feeds/reports
+      - text: 订单报告
+      - button:
+    - button:
+      - generic: 营销推广
+    - link:
+      - /url: /amazonsell/marketing
+      - text: 工作区
+    - link:
+      - /url: /promotion-central/dashboard
+      - text: 管理促销和特惠
+      - button:
+    - link:
+      - /url: /brand-analytics
+      - text: 品牌分析
+      - button:
+    - link:
+      - /url: /cm?source=ngs
+      - text: 广告控制台
+      - button:
+    - link:
+      - /url: /vine
+      - text: Vine
+      - button:
+    - button:
+      - generic: 财务人员
+    - link:
+      - /url: /amazonsell/payments
+      - text: 工作区
+    - link:
+      - /url: /manage/finance/transactions
+      - text: 管理交易
+      - button:
+    - link:
+      - /url: /managetaxes/global-transaction-reports
+      - text: 管理税费
+      - button:
+    - link:
+      - /url: /economics
+      - text: 利润分析
+      - button:
+    - link:
+      - /url: /manage/finance/reports
+      - text: 财务报告
+      - button:
+    - button:
+      - generic: 账户状况
+    - link:
+      - /url: /performance/dashboard
+      - text: 管理账户状况
+      - button:
+    - button:
+      - generic: 计划和应用程序
+    - link:
+      - /url: /recommended-programs
+      - text: 了解计划
+      - button:
+    - link:
+      - /url: /selling-partner-appstore
+      - text: 销售伙伴应用商店
+      - button:
+    - link:
+      - /url: /tsba
+      - text: 浏览服务
+      - button:
+  - link:
+    - /url: /sitemap
+    - text: 站点地图
+  - link:
+    - /url: /home?ngs_do_not_redirect_flag=1
+    - text: 传统卖家平台
+  - link "Amazon":
+    - /url: /amazonsell
+  - button "4A (USA) LIMITED 美国":
+    - generic: 4A (USA) LIMITED
+    - generic: 美国
+  - button "账户状况":
+    - generic: 账户状况
+    - generic: 存在风险
+  - textbox "搜索任何内容"
+  - button "询问卖家助手":
+    - generic: 卖家助手
+  - link "新增内容":
+    - /url: /featurereleases
+  - link "消息":
+    - /url: /messaging/inbox-v3?fi=responseNeeded&&
+  - button "帮助":
+  - button "设置":
+- navigation:
+  - button:
+  - link "管理交易":
+    - /url: /manage/finance/transactions
+    - generic: 管理交易
+  - link "卖家大学":
+    - /url: /su/learn
+    - generic: 卖家大学
+  - link "管理商品":
+    - /url: /amazonsell/manage-products
+    - generic: 管理商品
+  - link "广告控制台":
+    - /url: /cm?source=ngs
+    - generic: 广告控制台
+  - link "管理货件":
+    - /url: /manage/shipments
+    - generic: 管理货件
+  - link "商品商机探测器":
+    - /url: /new-product-guidance
+    - generic: 商品商机探测器
+  - link "品牌分析":
+    - /url: /brand-analytics
+    - generic: 品牌分析
+  - link "A+ 商品描述管理器":
+    - /url: /enhanced-content/ref=xx_ebc_favb_xx
+    - generic: A+ 商品描述管理器
+  - link "业务报告":
+    - /url: /business-reports#/dashboard
+    - generic: 业务报告
+  - link "亚马逊物流库存报告":
+    - /url: /reportcentral/WelcomePage
+    - generic: 亚马逊物流库存报告
+  - link "商品报告":
+    - /url: /listing/reports
+    - generic: 商品报告
+  - link "绩效通知":
+    - /url: /performance/notifications
+    - generic: 绩效通知
+  - link "管理账户状况":
+    - /url: /performance/dashboard
+    - generic: 管理账户状况
+  - button:
+- heading "编辑优惠券" [level=2]
+- generic: 0 of 4 steps completed · 0%
+- navigation:
+  - button "店铺和商品":
+    - heading "店铺和商品" [level=3]
+  - button "优惠券设置 4 inputs / 4 inputs" [disabled]:
+    - heading "优惠券设置" [level=3]
+    - generic: 4 inputs / 4 inputs
+  - button "更多详情 4 inputs / 4 inputs" [disabled]:
+    - heading "更多详情" [level=3]
+    - generic: 4 inputs / 4 inputs
+  - button "检查并确认 1 inputs / 1 inputs" [disabled]:
+    - heading "检查并确认" [level=3]
+    - generic: 1 inputs / 1 inputs
+- heading "店铺和商品" [level=1]
+- paragraph: 选择您要在优惠券中包含的商城和商品。
+- heading "Store 以发布优惠券" [level=2]
+- button "店铺选择下拉菜单 United States" [disabled]:
+  - generic: United States
+- heading "所有 ASIN (333)" [level=2]:
+  - text: 所有 ASIN
+  - generic: (333)
+- searchbox "按商品名称、ASIN、SKU 搜索"
+- list:
+  - button:
+  - button "1"
+  - listitem: ...
+  - button "28"
+  - button "29"
+  - button "30"
+  - button "31"
+  - button "32"
+  - button "33" [active]
+  - button "34"
+  - button:
+- treegrid:
+  - rowgroup:
+    - row "商品 绩效 最近 30 天 当前价格 有货 订单配送方":
+      - columnheader:
+        - checkbox
+      - columnheader "商品":
+        - generic: 商品
+      - columnheader "绩效 最近 30 天":
+        - generic: 绩效
+        - generic: 最近 30 天
+      - columnheader "当前价格":
+        - generic: 当前价格
+      - columnheader "有货 订单配送方":
+        - generic: 有货
+        - generic: 订单配送方
+  - rowgroup:
+    - 'row "4A Full Adhesive Sticky Notes, 3 x 2 in, 3 Packs, 300 Sheets 4A Full Adhesive Sticky Notes, 3 x 2 in, 3 Packs, 300 Sheets ASIN: B07FK8ML41 SKU: 4A GM302-Full Glue*3 您的商品目前不符合此优惠券的要求，因为该 ASIN 的星级评分未达到最低反馈要求。 您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。 销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #18,474 $7.99 2 件数 MFN" [level=1]':
+      - gridcell
+      - 'gridcell "4A Full Adhesive Sticky Notes, 3 x 2 in, 3 Packs, 300 Sheets 4A Full Adhesive Sticky Notes, 3 x 2 in, 3 Packs, 300 Sheets ASIN: B07FK8ML41 SKU: 4A GM302-Full Glue*3 您的商品目前不符合此优惠券的要求，因为该 ASIN 的星级评分未达到最低反馈要求。 您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。"':
+        - img "4A Full Adhesive Sticky Notes, 3 x 2 in, 3 Packs, 300 Sheets"
+        - paragraph:
+          - link "4A Full Adhesive Sticky Notes, 3 x 2 in, 3 Packs, 300 Sheets":
+            - /url: https://www.amazon.com/dp/B07FK8ML41
+        - generic: "ASIN: B07FK8ML41"
+        - generic: "SKU: 4A GM302-Full Glue*3"
+        - text: 您的商品目前不符合此优惠券的要求，因为该 ASIN 的星级评分未达到最低反馈要求。
+        - text: 您的商品目前不符合此优惠券的要求，因为该商品尚未产生任何销量。
+      - 'gridcell "销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #18,474"':
+        - generic: "销量 : -"
+        - generic: "售出商品数量 : -"
+        - generic: "页面浏览量 : -"
+        - generic: "销量排行 : #18,474"
+      - gridcell "$7.99":
+        - generic: $7.99
+      - gridcell "2 件数 MFN":
+        - generic: 2 件数
+        - generic: MFN
+    - 'row "4A Sticky Notes Flags Set,Neon Color Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Page Marker Bookmarks,Assorted Printed,5 Pads/set,4A 66114 4A Sticky Notes Flags Set,Neon Color Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Page Marker Bookmarks,Assorted Printed,5 Pads/set,4A 66114 ASIN: B01M2UDADZ SKU: 4A 66114 销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #684,594 $6.99 2 件数 AFN" [level=1]':
+      - gridcell:
+        - checkbox
+      - 'gridcell "4A Sticky Notes Flags Set,Neon Color Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Page Marker Bookmarks,Assorted Printed,5 Pads/set,4A 66114 4A Sticky Notes Flags Set,Neon Color Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Page Marker Bookmarks,Assorted Printed,5 Pads/set,4A 66114 ASIN: B01M2UDADZ SKU: 4A 66114"':
+        - img "4A Sticky Notes Flags Set,Neon Color Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Page Marker Bookmarks,Assorted Printed,5 Pads/set,4A 66114"
+        - paragraph:
+          - link "4A Sticky Notes Flags Set,Neon Color Index Label, Transparent Tabs Flags Stickers, Text Highlighter Strips Writable Labels Page Marker Bookmarks,Assorted Printed,5 Pads/set,4A 66114":
+            - /url: https://www.amazon.com/dp/B01M2UDADZ
+        - generic: "ASIN: B01M2UDADZ"
+        - generic: "SKU: 4A 66114"
+      - 'gridcell "销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #684,594"':
+        - generic: "销量 : -"
+        - generic: "售出商品数量 : -"
+        - generic: "页面浏览量 : -"
+        - generic: "销量排行 : #684,594"
+      - gridcell "$6.99":
+        - generic: $6.99
+      - gridcell "2 件数 AFN":
+        - generic: 2 件数
+        - generic: AFN
+    - 'row "4A Sticky Notes,6 x 8 Inches,Large Size,7 Different Neon Colors,Lined,Self-Stick Notes,60 Sheets/Pad,7 Pads/Pack,4A 6087-NL-420 4A Sticky Notes,6 x 8 Inches,Large Size,7 Different Neon Colors,Lined,Self-Stick Notes,60 Sheets/Pad,7 Pads/Pack,4A 6087-NL-420 ASIN: B07T77N118 SKU: 4A 6087-NL-420 销量 : 28 售出商品数量 : 1 页面浏览量 : - 销量排行 : #423,732 $23.99 2 件数 AFN" [level=1]':
+      - gridcell:
+        - checkbox
+      - 'gridcell "4A Sticky Notes,6 x 8 Inches,Large Size,7 Different Neon Colors,Lined,Self-Stick Notes,60 Sheets/Pad,7 Pads/Pack,4A 6087-NL-420 4A Sticky Notes,6 x 8 Inches,Large Size,7 Different Neon Colors,Lined,Self-Stick Notes,60 Sheets/Pad,7 Pads/Pack,4A 6087-NL-420 ASIN: B07T77N118 SKU: 4A 6087-NL-420"':
+        - img "4A Sticky Notes,6 x 8 Inches,Large Size,7 Different Neon Colors,Lined,Self-Stick Notes,60 Sheets/Pad,7 Pads/Pack,4A 6087-NL-420"
+        - paragraph:
+          - link "4A Sticky Notes,6 x 8 Inches,Large Size,7 Different Neon Colors,Lined,Self-Stick Notes,60 Sheets/Pad,7 Pads/Pack,4A 6087-NL-420":
+            - /url: https://www.amazon.com/dp/B07T77N118
+        - generic: "ASIN: B07T77N118"
+        - generic: "SKU: 4A 6087-NL-420"
+      - 'gridcell "销量 : 28 售出商品数量 : 1 页面浏览量 : - 销量排行 : #423,732"':
+        - generic: "销量 : 28"
+        - generic: "售出商品数量 : 1"
+        - generic: "页面浏览量 : -"
+        - generic: "销量排行 : #423,732"
+      - gridcell "$23.99":
+        - generic: $23.99
+      - gridcell "2 件数 AFN":
+        - generic: 2 件数
+        - generic: AFN
+    - 'row "4A Self-Stick Notes, 16 Colors Assorted, 4A 354832-FBA 4A Self-Stick Notes, 16 Colors Assorted, 4A 354832-FBA ASIN: B07T42DXZ1 SKU: 4A 354832-FBA 销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #1,227,028 $14.99 2 件数 AFN" [level=1]':
+      - gridcell:
+        - checkbox
+      - 'gridcell "4A Self-Stick Notes, 16 Colors Assorted, 4A 354832-FBA 4A Self-Stick Notes, 16 Colors Assorted, 4A 354832-FBA ASIN: B07T42DXZ1 SKU: 4A 354832-FBA"':
+        - img "4A Self-Stick Notes, 16 Colors Assorted, 4A 354832-FBA"
+        - paragraph:
+          - link "4A Self-Stick Notes, 16 Colors Assorted, 4A 354832-FBA":
+            - /url: https://www.amazon.com/dp/B07T42DXZ1
+        - generic: "ASIN: B07T42DXZ1"
+        - generic: "SKU: 4A 354832-FBA"
+      - 'gridcell "销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #1,227,028"':
+        - generic: "销量 : -"
+        - generic: "售出商品数量 : -"
+        - generic: "页面浏览量 : -"
+        - generic: "销量排行 : #1,227,028"
+      - gridcell "$14.99":
+        - generic: $14.99
+      - gridcell "2 件数 AFN":
+        - generic: 2 件数
+        - generic: AFN
+    - 'row "4A 2 Pads Lined Sticky Notes with Lines 6 x 8 in, Neon Green and Yellow Large Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 200 Sheets, 4A 608x2-N-L YG 4A 2 Pads Lined Sticky Notes with Lines 6 x 8 in, Neon Green and Yellow Large Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 200 Sheets, 4A 608x2-N-L YG ASIN: B01M617ZTH SKU: 4A 037 销量 : 12 售出商品数量 : 1 页面浏览量 : - 销量排行 : #377,649 $12.99 2 件数 AFN" [level=1]':
+      - gridcell:
+        - checkbox
+      - 'gridcell "4A 2 Pads Lined Sticky Notes with Lines 6 x 8 in, Neon Green and Yellow Large Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 200 Sheets, 4A 608x2-N-L YG 4A 2 Pads Lined Sticky Notes with Lines 6 x 8 in, Neon Green and Yellow Large Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 200 Sheets, 4A 608x2-N-L YG ASIN: B01M617ZTH SKU: 4A 037"':
+        - img "4A 2 Pads Lined Sticky Notes with Lines 6 x 8 in, Neon Green and Yellow Large Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 200 Sheets, 4A 608x2-N-L YG"
+        - paragraph:
+          - link "4A 2 Pads Lined Sticky Notes with Lines 6 x 8 in, Neon Green and Yellow Large Sticky Note Pads for Office, School, Home, 100 Sheets/Pad, 200 Sheets, 4A 608x2-N-L YG":
+            - /url: https://www.amazon.com/dp/B01M617ZTH
+        - generic: "ASIN: B01M617ZTH"
+        - generic: "SKU: 4A 037"
+      - 'gridcell "销量 : 12 售出商品数量 : 1 页面浏览量 : - 销量排行 : #377,649"':
+        - generic: "销量 : 12"
+        - generic: "售出商品数量 : 1"
+        - generic: "页面浏览量 : -"
+        - generic: "销量排行 : #377,649"
+      - gridcell "$12.99":
+        - generic: $12.99
+      - gridcell "2 件数 AFN":
+        - generic: 2 件数
+        - generic: AFN
+    - 'row "4A Sticky Note Cube, 2.87 x 2.87 in, Cat Printed on 4 Sides, Sticky Cubes Blocks Memo Cube Sticky Note Pads for Office, Home, School, 580 Sheets,4A SMC 436 4A Sticky Note Cube, 2.87 x 2.87 in, Cat Printed on 4 Sides, Sticky Cubes Blocks Memo Cube Sticky Note Pads for Office, Home, School, 580 Sheets,4A SMC 436 ASIN: B07FKJDBFT SKU: AAAA 4A SMC 436 销量 : 0 售出商品数量 : 0 页面浏览量 : - 销量排行 : #140,636 $12.99 1 件数 AFN" [level=1]':
+      - gridcell:
+        - checkbox
+      - 'gridcell "4A Sticky Note Cube, 2.87 x 2.87 in, Cat Printed on 4 Sides, Sticky Cubes Blocks Memo Cube Sticky Note Pads for Office, Home, School, 580 Sheets,4A SMC 436 4A Sticky Note Cube, 2.87 x 2.87 in, Cat Printed on 4 Sides, Sticky Cubes Blocks Memo Cube Sticky Note Pads for Office, Home, School, 580 Sheets,4A SMC 436 ASIN: B07FKJDBFT SKU: AAAA 4A SMC 436"':
+        - img "4A Sticky Note Cube, 2.87 x 2.87 in, Cat Printed on 4 Sides, Sticky Cubes Blocks Memo Cube Sticky Note Pads for Office, Home, School, 580 Sheets,4A SMC 436"
+        - paragraph:
+          - link "4A Sticky Note Cube, 2.87 x 2.87 in, Cat Printed on 4 Sides, Sticky Cubes Blocks Memo Cube Sticky Note Pads for Office, Home, School, 580 Sheets,4A SMC 436":
+            - /url: https://www.amazon.com/dp/B07FKJDBFT
+        - generic: "ASIN: B07FKJDBFT"
+        - generic: "SKU: AAAA 4A SMC 436"
+      - 'gridcell "销量 : 0 售出商品数量 : 0 页面浏览量 : - 销量排行 : #140,636"':
+        - generic: "销量 : 0"
+        - generic: "售出商品数量 : 0"
+        - generic: "页面浏览量 : -"
+        - generic: "销量排行 : #140,636"
+      - gridcell "$12.99":
+        - generic: $12.99
+      - gridcell "1 件数 AFN":
+        - generic: 1 件数
+        - generic: AFN
+    - 'row "4A Divider Sticky Notes, 4 x 6 in, White 4A Divider Sticky Notes, 4 x 6 in, White ASIN: B01N6KX7PE SKU: 4A069 销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #128,101 $3.99 1 件数 MFN" [level=1]':
+      - gridcell:
+        - checkbox
+      - 'gridcell "4A Divider Sticky Notes, 4 x 6 in, White 4A Divider Sticky Notes, 4 x 6 in, White ASIN: B01N6KX7PE SKU: 4A069"':
+        - img "4A Divider Sticky Notes, 4 x 6 in, White"
+        - paragraph:
+          - link "4A Divider Sticky Notes, 4 x 6 in, White":
+            - /url: https://www.amazon.com/dp/B01N6KX7PE
+        - generic: "ASIN: B01N6KX7PE"
+        - generic: "SKU: 4A069"
+      - 'gridcell "销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #128,101"':
+        - generic: "销量 : -"
+        - generic: "售出商品数量 : -"
+        - generic: "页面浏览量 : -"
+        - generic: "销量排行 : #128,101"
+      - gridcell "$3.99":
+        - generic: $3.99
+      - gridcell "1 件数 MFN":
+        - generic: 1 件数
+        - generic: MFN
+    - 'row "4A Chalkboard Labels, 2.5 x 3.5 in, Black 4A Chalkboard Labels, 2.5 x 3.5 in, Black ASIN: B0821GTX3C SKU: 4A SCLB 1902 销量 : 9 售出商品数量 : 1 页面浏览量 : - 销量排行 : #788,958 $9.99 1 件数 AFN" [level=1]':
+      - gridcell:
+        - checkbox
+      - 'gridcell "4A Chalkboard Labels, 2.5 x 3.5 in, Black 4A Chalkboard Labels, 2.5 x 3.5 in, Black ASIN: B0821GTX3C SKU: 4A SCLB 1902"':
+        - img "4A Chalkboard Labels, 2.5 x 3.5 in, Black"
+        - paragraph:
+          - link "4A Chalkboard Labels, 2.5 x 3.5 in, Black":
+            - /url: https://www.amazon.com/dp/B0821GTX3C
+        - generic: "ASIN: B0821GTX3C"
+        - generic: "SKU: 4A SCLB 1902"
+      - 'gridcell "销量 : 9 售出商品数量 : 1 页面浏览量 : - 销量排行 : #788,958"':
+        - generic: "销量 : 9"
+        - generic: "售出商品数量 : 1"
+        - generic: "页面浏览量 : -"
+        - generic: "销量排行 : #788,958"
+      - gridcell "$9.99":
+        - generic: $9.99
+      - gridcell "1 件数 AFN":
+        - generic: 1 件数
+        - generic: AFN
+    - 'row "4A Sticky Notes and Index Flags Bundle Set,Neon Assorted,Self-Stick Notes,3.5x3.5 Inch,1.5x2.1 Inch,0.67X1.9 Inch 3 Pcs,1.3X3.5 Inch,100 Sheets/Pad,6 Pads/Set,600 Sheets/Set,4A BS 1801 4A Sticky Notes and Index Flags Bundle Set,Neon Assorted,Self-Stick Notes,3.5x3.5 Inch,1.5x2.1 Inch,0.67X1.9 Inch 3 Pcs,1.3X3.5 Inch,100 Sheets/Pad,6 Pads/Set,600 Sheets/Set,4A BS 1801 ASIN: B07K8L4K8K SKU: 4A BS 1801 销量 : 17 售出商品数量 : 1 页面浏览量 : - 销量排行 : #440,683 $17.99 1 件数 AFN" [level=1]':
+      - gridcell:
+        - checkbox
+      - 'gridcell "4A Sticky Notes and Index Flags Bundle Set,Neon Assorted,Self-Stick Notes,3.5x3.5 Inch,1.5x2.1 Inch,0.67X1.9 Inch 3 Pcs,1.3X3.5 Inch,100 Sheets/Pad,6 Pads/Set,600 Sheets/Set,4A BS 1801 4A Sticky Notes and Index Flags Bundle Set,Neon Assorted,Self-Stick Notes,3.5x3.5 Inch,1.5x2.1 Inch,0.67X1.9 Inch 3 Pcs,1.3X3.5 Inch,100 Sheets/Pad,6 Pads/Set,600 Sheets/Set,4A BS 1801 ASIN: B07K8L4K8K SKU: 4A BS 1801"':
+        - img "4A Sticky Notes and Index Flags Bundle Set,Neon Assorted,Self-Stick Notes,3.5x3.5 Inch,1.5x2.1 Inch,0.67X1.9 Inch 3 Pcs,1.3X3.5 Inch,100 Sheets/Pad,6 Pads/Set,600 Sheets/Set,4A BS 1801"
+        - paragraph:
+          - link "4A Sticky Notes and Index Flags Bundle Set,Neon Assorted,Self-Stick Notes,3.5x3.5 Inch,1.5x2.1 Inch,0.67X1.9 Inch 3 Pcs,1.3X3.5 Inch,100 Sheets/Pad,6 Pads/Set,600 Sheets/Set,4A BS 1801":
+            - /url: https://www.amazon.com/dp/B07K8L4K8K
+        - generic: "ASIN: B07K8L4K8K"
+        - generic: "SKU: 4A BS 1801"
+      - 'gridcell "销量 : 17 售出商品数量 : 1 页面浏览量 : - 销量排行 : #440,683"':
+        - generic: "销量 : 17"
+        - generic: "售出商品数量 : 1"
+        - generic: "页面浏览量 : -"
+        - generic: "销量排行 : #440,683"
+      - gridcell "$17.99":
+        - generic: $17.99
+      - gridcell "1 件数 AFN":
+        - generic: 1 件数
+        - generic: AFN
+    - 'row "4A Weekly Planner/Monthly Planner Sticky Pads,Self-Stick Notes,11 x 10 Inches,Large Size,52 Sheets/Pad,1 Pad/Pack,4A 6533 4A Weekly Planner/Monthly Planner Sticky Pads,Self-Stick Notes,11 x 10 Inches,Large Size,52 Sheets/Pad,1 Pad/Pack,4A 6533 ASIN: B01LPKL5IE SKU: 4A 6533-FBA 销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #1,623,500 $13.99 1 件数 AFN" [level=1]':
+      - gridcell:
+        - checkbox
+      - 'gridcell "4A Weekly Planner/Monthly Planner Sticky Pads,Self-Stick Notes,11 x 10 Inches,Large Size,52 Sheets/Pad,1 Pad/Pack,4A 6533 4A Weekly Planner/Monthly Planner Sticky Pads,Self-Stick Notes,11 x 10 Inches,Large Size,52 Sheets/Pad,1 Pad/Pack,4A 6533 ASIN: B01LPKL5IE SKU: 4A 6533-FBA"':
+        - img "4A Weekly Planner/Monthly Planner Sticky Pads,Self-Stick Notes,11 x 10 Inches,Large Size,52 Sheets/Pad,1 Pad/Pack,4A 6533"
+        - paragraph:
+          - link "4A Weekly Planner/Monthly Planner Sticky Pads,Self-Stick Notes,11 x 10 Inches,Large Size,52 Sheets/Pad,1 Pad/Pack,4A 6533":
+            - /url: https://www.amazon.com/dp/B01LPKL5IE
+        - generic: "ASIN: B01LPKL5IE"
+        - generic: "SKU: 4A 6533-FBA"
+      - 'gridcell "销量 : - 售出商品数量 : - 页面浏览量 : - 销量排行 : #1,623,500"':
+        - generic: "销量 : -"
+        - generic: "售出商品数量 : -"
+        - generic: "页面浏览量 : -"
+        - generic: "销量排行 : #1,623,500"
+      - gridcell "$13.99":
+        - generic: $13.99
+      - gridcell "1 件数 AFN":
+        - generic: 1 件数
+        - generic: AFN
+- 'heading "已选择 : 15" [level=3]'
+- button "扩展所选商品":
+- paragraph: 4A 粘性便条盒分配器,笔和便签纸盒,适用于办公桌,8 个亮色便签,3 x 3 英寸(约 7.6 x 7.6 厘米),粘性标签,用于办公室家庭返校用品,4A 303-AC-holder
+- paragraph: "ASIN: B07FKHHTYG"
+- button "移除 4A 粘性便条盒分配器,笔和便签纸盒,适用于办公桌,8 个亮色便签,3 x 3 英寸(约 7.6 x 7.6 厘米),粘性标签,用于办公室家庭返校用品,4A 303-AC-holder":
+- paragraph: 4A 4 Pads Big Sticky Notes 11 x 11 Inches, Pastel Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad, 4A BP 1111-Px4
+- paragraph: "ASIN: B07QZR9Z3P"
+- button "移除 4A 4 Pads Big Sticky Notes 11 x 11 Inches, Pastel Colors, Large Sticky Notes for Wall, Giant Square Memo Pads for Office, School, 30 Sheets/Pad, 4A BP 1111-Px4":
+- paragraph: 4 A die-cut 便签纸心形3 X 25.4 cm 荧光系列200张 / PAD 1 PAD / 包5包。 4 A 5036
+- paragraph: "ASIN: B01N6IT5IG"
+- button "移除 4 A die-cut 便签纸心形3 X 25.4 cm 荧光系列200张 / PAD 1 PAD / 包5包。 4 A 5036":
+- paragraph: 4A 12 垫拼图形状便利贴 2 7/8 x 2 4/7 英寸(约 6.9 x 6.9 厘米),可爱形状便利贴 彩色自粘便条 适用于办公室学校用品的有趣备忘录垫,100 张/垫,100 张 200 S20heets Total, 4A 5020x3
+- paragraph: "ASIN: B07RN7WQ81"
+- button "移除 4A 12 垫拼图形状便利贴 2 7/8 x 2 4/7 英寸(约 6.9 x 6.9 厘米),可爱形状便利贴 彩色自粘便条 适用于办公室学校用品的有趣备忘录垫,100 张/垫,100 张 200 S20heets Total, 4A 5020x3":
+- paragraph: 4A Transparent Page Flags, 1.2 x 2 in | Mark and organize pages for easy reference | Mark and organize pages for easy reference
+- paragraph: "ASIN: B07RP9K6KV"
+- button "移除 4A Transparent Page Flags, 1.2 x 2 in | Mark and organize pages for easy reference | Mark and organize pages for easy reference":
+- paragraph: 4A 全胶卷便利贴,带分配器和 2 个补充卷,霓虹黄和绿色,网格线,2 x 315 英寸,彩色图形便签,适用于笔记本、办公室、家居,4A PSS 9-1 网格-NYNGx2
+- paragraph: "ASIN: B07R2KSW34"
+- button "移除 4A 全胶卷便利贴,带分配器和 2 个补充卷,霓虹黄和绿色,网格线,2 x 315 英寸,彩色图形便签,适用于笔记本、办公室、家居,4A PSS 9-1 网格-NYNGx2":
+- paragraph: 4A 分隔贴纸,4 x 6 英寸,大号,霓虹色混色,衬里,10 张/隔板,6 个潜水器/包,6 张自粘便条,60 张/包,6 个装,4A 40623x6
+- paragraph: "ASIN: B07T79KGWM"
+- button "移除 4A 分隔贴纸,4 x 6 英寸,大号,霓虹色混色,衬里,10 张/隔板,6 个潜水器/包,6 张自粘便条,60 张/包,6 个装,4A 40623x6":
+- paragraph: 4A Sticky Note Holder Dispenser, Pen and Sticky Note Holder for Desk with Bright Colored Sticky Notes 3 x 3 in, Sticky Tabs Flags for Office Home Back to School Supplies, 4A 303-Holder+Flag
+- paragraph: "ASIN: B0F2TJ7ZL7"
+- button "移除 4A Sticky Note Holder Dispenser, Pen and Sticky Note Holder for Desk with Bright Colored Sticky Notes 3 x 3 in, Sticky Tabs Flags for Office Home Back to School Supplies, 4A 303-Holder+Flag":
+- paragraph: 4A 分隔便利贴 2 2/3 x 2 7/8 英寸(约 6.9 x 6.9 厘米),白色,内衬便签带线条,适用于笔记本、书籍、办公室、学校用品,15 张/隔板,4 个隔板/垫,120 张 heets 总计 4A 40609x2
+- paragraph: "ASIN: B07FKBHTDG"
+- button "移除 4A 分隔便利贴 2 2/3 x 2 7/8 英寸(约 6.9 x 6.9 厘米),白色,内衬便签带线条,适用于笔记本、书籍、办公室、学校用品,15 张/隔板,4 个隔板/垫,120 张 heets 总计 4A 40609x2":
+- paragraph: 4A 内衬便利贴 15.24 x 20.32 厘米,7 个亮色大号便签,适用于办公室、学校、家庭,共 210 张 | 210 sheets total for notes and reminders
+- paragraph: "ASIN: B07B8RBCKT"
+- button "移除 4A 内衬便利贴 15.24 x 20.32 厘米,7 个亮色大号便签,适用于办公室、学校、家庭,共 210 张 | 210 sheets total for notes and reminders":
+- paragraph: 4A 全粘性便签,带分配器的粘性卷和 2 卷补充卷,霓虹黄和玫瑰红,2 x 315 英寸,彩色便签,适用于笔记本、办公室、家居,4A PSS 9-1 NYNRx2 | Cut notes to the length needed
+- paragraph: "ASIN: B07QWKWWP2"
+- button "移除 4A 全粘性便签,带分配器的粘性卷和 2 卷补充卷,霓虹黄和玫瑰红,2 x 315 英寸,彩色便签,适用于笔记本、办公室、家居,4A PSS 9-1 NYNRx2 | Cut notes to the length needed":
+- paragraph: 4A Rainbow Sticky Notes, Multi-Size, 8 Bright Colored Fun Sticky Notes for Office Home School Supplies, Gift, 10 Sheets/Color, 80 Sheets Total,4A Rbow
+- paragraph: "ASIN: B0F2YHTD8T"
+- button "移除 4A Rainbow Sticky Notes, Multi-Size, 8 Bright Colored Fun Sticky Notes for Office Home School Supplies, Gift, 10 Sheets/Color, 80 Sheets Total,4A Rbow":
+- paragraph: 4A 箭头形便签,6.91 x 6.50 厘米,5 种亮色,趣味便签便条簿,适用于办公室、学校、家庭,共 200 张,4A 5013 | 200 sheets total for notes and reminders
+- paragraph: "ASIN: B01N1U9USQ"
+- button "移除 4A 箭头形便签,6.91 x 6.50 厘米,5 种亮色,趣味便签便条簿,适用于办公室、学校、家庭,共 200 张,4A 5013 | 200 sheets total for notes and reminders":
+- paragraph: 4A 分隔贴纸贴
+- paragraph: "ASIN: B07T42D4GL"
+- button "移除 4A 分隔贴纸贴":
+- paragraph: 4A Shapes 便利贴,树形,2.6 x 2.71 英寸,霓虹色分类,自粘便签,200 张/垫,1 个衬垫/包,4A 5037 | 200 sheets per pad
+- paragraph: "ASIN: B00SMEENOU"
+- button "移除 4A Shapes 便利贴,树形,2.6 x 2.71 英寸,霓虹色分类,自粘便签,200 张/垫,1 个衬垫/包,4A 5037 | 200 sheets per pad":
+- button "返回":
+  - text: 返回
+- button "继续"
+- button "Light/dark mode toggle (new)":
+- link "站点地图":
+  - /url: /sitemap
+- link "计划政策":
+  - /url: /help/hub/reference/521
+- generic: © 1999-2026，Amazon.com, Inc. 或其附属公司
+- link "反馈":
+  - /url: "#"

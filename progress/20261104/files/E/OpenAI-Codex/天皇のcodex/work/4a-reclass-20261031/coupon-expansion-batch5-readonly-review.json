@@ -1,0 +1,557 @@
+{
+  "scope": "Batch5 additional ASINs; read-only; no coupon or price changes",
+  "asof": "2026-11-01T13:45:52.729470",
+  "rows": [
+    {
+      "asin": "B00SMEEN40",
+      "sku": "4A 5061-B00SM-FBA",
+      "price": 7.2,
+      "units_current": 5,
+      "sales_units_ui": null,
+      "b2b": 6.85,
+      "fba_fee": 3.26,
+      "total_fee": 4.34,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 0,
+      "age365plus": 0,
+      "catalog_label_issues": [
+        {
+          "sku": "4A 5061-B00SM-FBA",
+          "size": "Novelty Die-Cut Shape (Pack 6)",
+          "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+        }
+      ],
+      "live_evidence": "audit5-live-B00SMEEN40.txt",
+      "tiers": [],
+      "tier_evidence": "audit5-tiers-B00SMEEN40.txt",
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 6.84,
+          "deepest_coupon_stacked_unit": 6.51,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 2.09
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 6.12,
+          "deepest_coupon_stacked_unit": 5.82,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 1.51
+        }
+      ],
+      "suggested_coupon_percent": 5,
+      "suggested_reason": "Mild coupon; preserve restored ordinary price",
+      "selected_scenario": {
+        "coupon_percent": 5,
+        "regular_coupon_price": 6.84,
+        "deepest_coupon_stacked_unit": 6.51,
+        "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 2.09
+      }
+    },
+    {
+      "asin": "B00SMEEVCO",
+      "sku": "4A 5059-B00SM-FBA",
+      "price": 7.2,
+      "units_current": 5,
+      "sales_units_ui": null,
+      "b2b": 5.69,
+      "fba_fee": 3.51,
+      "total_fee": 4.59,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 0,
+      "age365plus": 0,
+      "catalog_label_issues": [],
+      "live_evidence": "audit5-live-B00SMEEVCO.txt",
+      "tiers": [],
+      "tier_evidence": "audit5-tiers-B00SMEEVCO.txt",
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 6.84,
+          "deepest_coupon_stacked_unit": 5.41,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 0.91
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 6.12,
+          "deepest_coupon_stacked_unit": 4.84,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 0.42
+        }
+      ],
+      "suggested_coupon_percent": null,
+      "suggested_reason": "Even5% leaves under1.50; retain existing promotion and parent decide alternatives; no automatic additional coupon",
+      "selected_scenario": null
+    },
+    {
+      "asin": "B00SMEEVC4",
+      "sku": "4A 5036-B00SM-FBA",
+      "price": 7.2,
+      "units_current": 5,
+      "sales_units_ui": null,
+      "b2b": 7.2,
+      "fba_fee": 3.26,
+      "total_fee": 4.34,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 0,
+      "age365plus": 0,
+      "catalog_label_issues": [
+        {
+          "sku": "4A 5036-B00SM-FBA",
+          "size": "Heart Shape (Pack 5)",
+          "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+        }
+      ],
+      "live_evidence": "audit5-live-B00SMEEVC4.txt",
+      "tiers": [],
+      "tier_evidence": "audit5-tiers-B00SMEEVC4.txt",
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 6.84,
+          "deepest_coupon_stacked_unit": 6.84,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 2.37
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 6.12,
+          "deepest_coupon_stacked_unit": 6.12,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 1.76
+        }
+      ],
+      "suggested_coupon_percent": 5,
+      "suggested_reason": "Mild coupon; preserve restored ordinary price",
+      "selected_scenario": {
+        "coupon_percent": 5,
+        "regular_coupon_price": 6.84,
+        "deepest_coupon_stacked_unit": 6.84,
+        "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 2.37
+      }
+    },
+    {
+      "asin": "B07T79KGWF",
+      "sku": "4A 5020x3-FBA",
+      "price": 25.99,
+      "units_current": 5,
+      "sales_units_ui": null,
+      "b2b": 24.99,
+      "fba_fee": 4.98,
+      "total_fee": 8.88,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 0,
+      "age365plus": 0,
+      "catalog_label_issues": [],
+      "live_evidence": "audit5-live-B07T79KGWF.txt",
+      "tiers": [],
+      "tier_evidence": "audit5-tiers-B07T79KGWF.txt",
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 24.69,
+          "deepest_coupon_stacked_unit": 23.74,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 14.55
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 22.09,
+          "deepest_coupon_stacked_unit": 21.24,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 12.42
+        }
+      ],
+      "suggested_coupon_percent": 5,
+      "suggested_reason": "Mild coupon; preserve restored ordinary price",
+      "selected_scenario": {
+        "coupon_percent": 5,
+        "regular_coupon_price": 24.69,
+        "deepest_coupon_stacked_unit": 23.74,
+        "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 14.55
+      }
+    },
+    {
+      "asin": "B07T42J6FY",
+      "sku": "4A 501516",
+      "price": 7.49,
+      "units_current": 5,
+      "sales_units_ui": null,
+      "b2b": 7.49,
+      "fba_fee": 3.26,
+      "total_fee": 4.38,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 0,
+      "age365plus": 0,
+      "catalog_label_issues": [
+        {
+          "sku": "4A 501516",
+          "size": "Standard Size (Pack 6)",
+          "parent": "PARENT-4A-PAPER-PAGE-MARKERS"
+        }
+      ],
+      "live_evidence": "audit5-live-B07T42J6FY.txt",
+      "tiers": [],
+      "tier_evidence": "audit5-tiers-B07T42J6FY.txt",
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 7.12,
+          "deepest_coupon_stacked_unit": 7.12,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 2.6
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 6.37,
+          "deepest_coupon_stacked_unit": 6.37,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 1.97
+        }
+      ],
+      "suggested_coupon_percent": 5,
+      "suggested_reason": "Mild coupon; preserve restored ordinary price",
+      "selected_scenario": {
+        "coupon_percent": 5,
+        "regular_coupon_price": 7.12,
+        "deepest_coupon_stacked_unit": 7.12,
+        "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 2.6
+      }
+    },
+    {
+      "asin": "B07DJG1W71",
+      "sku": "4A 484812-N-FBA",
+      "price": 9.99,
+      "units_current": 5,
+      "sales_units_ui": null,
+      "b2b": 9.69,
+      "fba_fee": 3.51,
+      "total_fee": 5.01,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 0,
+      "age365plus": 0,
+      "catalog_label_issues": [],
+      "live_evidence": "audit5-live-B07DJG1W71.txt",
+      "tiers": [],
+      "tier_evidence": "audit5-tiers-B07DJG1W71.txt",
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 9.49,
+          "deepest_coupon_stacked_unit": 9.21,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 4.07
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 8.49,
+          "deepest_coupon_stacked_unit": 8.24,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 3.24
+        }
+      ],
+      "suggested_coupon_percent": 5,
+      "suggested_reason": "Mild coupon; preserve restored ordinary price",
+      "selected_scenario": {
+        "coupon_percent": 5,
+        "regular_coupon_price": 9.49,
+        "deepest_coupon_stacked_unit": 9.21,
+        "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 4.07
+      }
+    },
+    {
+      "asin": "B01N6KXLJ5",
+      "sku": "4A 40608*2",
+      "price": 11.99,
+      "units_current": 5,
+      "sales_units_ui": null,
+      "b2b": null,
+      "fba_fee": 3.63,
+      "total_fee": 5.43,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 0,
+      "age365plus": 5,
+      "catalog_label_issues": [
+        {
+          "sku": "4A 40608*2",
+          "size": "2 Pads Pack (Pack 3)",
+          "parent": "PARENT-4A-608-XLARGE-6X8"
+        }
+      ],
+      "live_evidence": "audit5-live-B01N6KXLJ5.txt",
+      "tiers": [],
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 11.39,
+          "deepest_coupon_stacked_unit": 11.39,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 5.75
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 10.19,
+          "deepest_coupon_stacked_unit": 10.19,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 4.73
+        }
+      ],
+      "suggested_coupon_percent": 15,
+      "suggested_reason": "Aged or slow stock; provisional grouping for parent review",
+      "selected_scenario": {
+        "coupon_percent": 15,
+        "regular_coupon_price": 10.19,
+        "deepest_coupon_stacked_unit": 10.19,
+        "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 4.73
+      }
+    },
+    {
+      "asin": "B073VPFBL6",
+      "sku": "4A 404S-Lx6",
+      "price": 14.99,
+      "units_current": 5,
+      "sales_units_ui": null,
+      "b2b": 14.49,
+      "fba_fee": 5.53,
+      "total_fee": 7.78,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 0,
+      "age365plus": 0,
+      "catalog_label_issues": [
+        {
+          "sku": "4A 404S-Lx6",
+          "size": "6 Pads Pack (Pack 2)",
+          "parent": "PARENT-4A-404-SQUARE-4X4"
+        }
+      ],
+      "live_evidence": "audit5-live-B073VPFBL6.txt",
+      "tiers": [],
+      "tier_evidence": "audit5-tiers-B073VPFBL6.txt",
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 14.24,
+          "deepest_coupon_stacked_unit": 13.77,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 5.8
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 12.74,
+          "deepest_coupon_stacked_unit": 12.32,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 4.57
+        }
+      ],
+      "suggested_coupon_percent": 5,
+      "suggested_reason": "Mild coupon; preserve restored ordinary price",
+      "selected_scenario": {
+        "coupon_percent": 5,
+        "regular_coupon_price": 14.24,
+        "deepest_coupon_stacked_unit": 13.77,
+        "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 5.8
+      }
+    },
+    {
+      "asin": "B07Z2555TN",
+      "sku": "4A 404-AC-Holder",
+      "price": 15.99,
+      "units_current": 5,
+      "sales_units_ui": null,
+      "b2b": 15.49,
+      "fba_fee": 5.06,
+      "total_fee": 7.46,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 0,
+      "age365plus": 0,
+      "catalog_label_issues": [
+        {
+          "sku": "4A 404-AC-Holder",
+          "size": "Standard Size (Pack 3)",
+          "parent": "PARENT-4A-ACRYLIC-DESK-ORGANIZERS"
+        }
+      ],
+      "live_evidence": "audit5-live-B07Z2555TN.txt",
+      "tiers": [],
+      "tier_evidence": "audit5-tiers-B07Z2555TN.txt",
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 15.19,
+          "deepest_coupon_stacked_unit": 14.72,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 7.05
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 13.59,
+          "deepest_coupon_stacked_unit": 13.17,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 5.73
+        }
+      ],
+      "suggested_coupon_percent": 5,
+      "suggested_reason": "Mild coupon; preserve restored ordinary price",
+      "selected_scenario": {
+        "coupon_percent": 5,
+        "regular_coupon_price": 15.19,
+        "deepest_coupon_stacked_unit": 14.72,
+        "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 7.05
+      }
+    },
+    {
+      "asin": "B01N7IT411",
+      "sku": "4A 040",
+      "price": 9.99,
+      "units_current": 5,
+      "sales_units_ui": null,
+      "b2b": null,
+      "fba_fee": 4.21,
+      "total_fee": 5.71,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 0,
+      "age365plus": 5,
+      "catalog_label_issues": [
+        {
+          "sku": "4A 040",
+          "size": "2 Pads Pack (Pack 14)",
+          "parent": "PARENT-4A-608-XLARGE-6X8"
+        },
+        {
+          "sku": "4A GM608x2-N-L RP",
+          "size": "2 Pads Pack (Pack 9)",
+          "parent": "PARENT-4A-608-XLARGE-6X8"
+        }
+      ],
+      "live_evidence": "audit5-live-B01N7IT411.txt",
+      "tiers": [],
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 9.49,
+          "deepest_coupon_stacked_unit": 9.49,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 3.61
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 8.49,
+          "deepest_coupon_stacked_unit": 8.49,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 2.76
+        }
+      ],
+      "suggested_coupon_percent": 15,
+      "suggested_reason": "Aged or slow stock; provisional grouping for parent review",
+      "selected_scenario": {
+        "coupon_percent": 15,
+        "regular_coupon_price": 8.49,
+        "deepest_coupon_stacked_unit": 8.49,
+        "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 2.76
+      }
+    },
+    {
+      "asin": "B077QLHHVH",
+      "sku": "4A 0165",
+      "price": 5.99,
+      "units_current": 5,
+      "sales_units_ui": null,
+      "b2b": 5.99,
+      "fba_fee": 2.77,
+      "total_fee": 3.67,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 0,
+      "age365plus": 0,
+      "catalog_label_issues": [
+        {
+          "sku": "4A 0165",
+          "size": "Novelty Die-Cut Shape (Pack 17)",
+          "parent": "PARENT-4A-SHAPED-NOVELTY-PADS"
+        }
+      ],
+      "live_evidence": "audit5-live-B077QLHHVH.txt",
+      "tiers": [
+        [
+          10,
+          8.0
+        ]
+      ],
+      "tier_evidence": "audit5-tiers-B077QLHHVH.txt",
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 5.69,
+          "deepest_coupon_stacked_unit": 5.24,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 1.53
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 5.09,
+          "deepest_coupon_stacked_unit": 4.68,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 1.06
+        }
+      ],
+      "suggested_coupon_percent": 5,
+      "suggested_reason": "15% leaves under1.50 before goods and other costs;5% is more conservative",
+      "selected_scenario": {
+        "coupon_percent": 5,
+        "regular_coupon_price": 5.69,
+        "deepest_coupon_stacked_unit": 5.24,
+        "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 1.53
+      }
+    },
+    {
+      "asin": "B07FKPY2V6",
+      "sku": "AAAA 4A 608S-Linex4",
+      "price": 9.49,
+      "units_current": 4,
+      "sales_units_ui": null,
+      "b2b": null,
+      "fba_fee": 5.08,
+      "total_fee": 6.5,
+      "sale_visible": null,
+      "minimum": null,
+      "units30_fba": 0,
+      "age365plus": 4,
+      "catalog_label_issues": [],
+      "live_evidence": "audit5-live-B07FKPY2V6.txt",
+      "tiers": [],
+      "audit_state": "live_fba_price_stock_fee_and_business_discount_verified",
+      "coupon_scenarios": [
+        {
+          "coupon_percent": 5,
+          "regular_coupon_price": 9.02,
+          "deepest_coupon_stacked_unit": 9.02,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 2.35
+        },
+        {
+          "coupon_percent": 15,
+          "regular_coupon_price": 8.07,
+          "deepest_coupon_stacked_unit": 8.07,
+          "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 1.54
+        }
+      ],
+      "suggested_coupon_percent": 15,
+      "suggested_reason": "Aged or slow stock; provisional grouping for parent review",
+      "selected_scenario": {
+        "coupon_percent": 15,
+        "regular_coupon_price": 8.07,
+        "deepest_coupon_stacked_unit": 8.07,
+        "cash_before_goods_inbound_storage_ads_refunds_fixed_fee": 1.54
+      }
+    }
+  ],
+  "count": 12,
+  "stock": 59,
+  "assumptions": [
+    "15% estimated referral + live FBA fee + coupon variable2.5% ordinary price",
+    "Coupon conservatively stacked on deepest current business tier",
+    "Not profit: excludes goods,inbound,storage,ads,refunds,fixed fee",
+    "1.50 caution line is audit recommendation,not a user-imposed threshold",
+    "Parent checks coupon eligibility; never lower ordinary price to unlock coupon"
+  ]
+}

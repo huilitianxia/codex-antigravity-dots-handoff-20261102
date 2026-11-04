@@ -1,0 +1,41 @@
+UNSENT — seven conditional duplicate reviews and two identity-only diagnostics.
+Prepared from the scoped current page snapshots and master/offer identifiers in merge13-to12-reviewed-groups.json. None of these messages has been sent. The existing 30315 case is separate; 30132 and 30148 remain protected parallel listings.
+
+4. 5088-N-L — verify duplicate identity and pack label
+ASINs: B07RP9MB7Y and B07T429N23.
+Our master identifies model 4A 5088-N-L as 5 x 8 inch lined sticky notes, eight neon colors, eight pads with 50 sheets each, 400 sheets total. B07RP9MB7Y carries our active FBA and MFN offers and its title agrees with this specification. The older B07T429N23 title is less specific. The current size label on B07RP9MB7Y includes "8 Pads Pack 4", which needs verification against the physical package.
+The master records UPC 702877121757 for B07RP9MB7Y and 702877124673 for B07T429N23. We do not claim these different codes are equivalent. Please verify the physical product, correct any unsupported pack attribute, and confirm the authoritative GTIN associations. If the products are identical and eligible for duplicate consolidation, our preferred retained ASIN is B07RP9MB7Y, preserving its existing FBA associations. Please specify the additional manufacturer or package evidence needed before consolidation. No variation-family, price, inventory, or SKU reassignment is requested.
+Evidence available: master Sheet1 row 45; exact offer identifier extracts; current page snapshots merge-current-B07RP9MB7Y.txt and merge-current-B07T429N23.txt.
+
+5. 5082-Y-L — verify yellow two-pad product and duplicate identity
+ASINs: B07F2BHFJH and B07DJKB2S9.
+Our master and both current titles identify model 4A 5082-Y-L as 5 x 8 inch yellow lined sticky notes, two pads with 50 sheets each, 100 sheets total. B07F2BHFJH carries the active FBA offer. Its current size label includes "2 Pads Pack 2" and its color field shows Pastel Assorted, while the title identifies yellow. Please verify the physical pack quantity and color rather than relying on these conflicting labels.
+The master records UPC 702877124178 for B07F2BHFJH and 702877124895 for B07DJKB2S9. Please verify the GTIN associations and product identity; we do not assert that the codes are equivalent. If duplicate eligible, we prefer to retain B07F2BHFJH and preserve the current FBA associations. Please advise what manufacturer or barcode evidence remains necessary. No variation-family, price, inventory, or SKU reassignment is requested.
+Evidence available: master Sheet1 row 43; scoped offer identifiers; current page snapshots merge-current-B07F2BHFJH.txt and merge-current-B07DJKB2S9.txt.
+
+6. 5084-N-L — verify four-pad quantity and duplicate identity
+ASINs: B07F2B49BL and B07DJPCBLV.
+Our master and both current titles identify model 4A 5084-N-L as 5 x 8 inch lined sticky notes, four neon colors, four pads with 50 sheets each, 200 sheets total. B07F2B49BL carries our active FBA offer. Its current size label includes "4 Pads Pack 3", inconsistent with the four-pad title. Please verify the physical package and correct any unsupported pack attribute.
+The master records UPC 702877124161 for B07F2B49BL and 702877124888 for B07DJPCBLV. These codes differ, and we request verification of their product associations before any consolidation. If the two ASINs are confirmed to represent the identical physical product and are duplicate eligible, our preferred retained ASIN is B07F2B49BL, preserving existing FBA associations. Please identify any remaining manufacturer or barcode proof needed. No variation-family, price, inventory, or SKU reassignment is requested.
+Evidence available: master Sheet1 row 44; scoped offer identifiers; current page snapshots merge-current-B07F2B49BL.txt and merge-current-B07DJPCBLV.txt.
+
+7. 404S-Lx6 — verify model and GTIN mapping before duplicate review
+ASINs: B073VPFBL6 and B07FKKY4XP.
+Both current titles and first bullets describe 4 x 4 inch super sticky lined notes, six neon pads with 100 sheets each, 600 sheets total. Our active FBA offer is on B073VPFBL6; B07FKKY4XP carries an active MFN offer. Our master identifies model 4A 404S-Lx6 with UPC 702877120194 on B073VPFBL6. However, the master's SC counterpart is B07B8JFJZY with UPC 702877121122, while the current MFN offer on B07FKKY4XP records UPC 702877123607.
+Please determine the authoritative model/GTIN associations and whether B07FKKY4XP and B073VPFBL6 actually represent the same physical product. The title similarity alone is not our proof that these identifiers are equivalent. If identity and duplicate eligibility are confirmed, our preferred retained ASIN for this pair is B073VPFBL6, preserving the active FBA associations. Please specify any additional manufacturer or package evidence required. This request does not authorize inclusion of B07B8JFJZY in a merge. No variation-family, price, inventory, or SKU reassignment is requested.
+Evidence available: master Sheet1 row 63; scoped current offer identifiers; current page snapshots merge-current-B073VPFBL6.txt and merge-current-B07FKKY4XP.txt.
+
+8. 305x6-N-Lx4 — identity/redirect diagnosis only; no merge requested
+Relevant ASINs: historical B07M8558B2, active B0F28LXKKF; currently displayed unrelated product B0F2TKL2P5.
+Our saved listing report identifies B07M8558B2 as model 4A 305x6-N-Lx4: 3 x 5 inch lined sticky notes, four packs of six pads, 24 pads and 2400 sheets total. Its historical offer records UPC 702877121504. The active offer on B0F28LXKKF describes the same nominal specification but records UPC 702877125458. When we opened the B07M8558B2 product URL, the main content instead displayed 302 full-adhesive notes, 3 x 2 inches, 400 sheets; the merchant and store links identified B0F2TKL2P5. An extension still displayed the requested old ASIN, so we have not assumed the exact reason for this mismatch.
+Please investigate the identity, redirect, or product-selection mapping of B07M8558B2 and tell us whether it still represents the historical 3 x 5 inch 24-pad product. Please also verify the active product's Pack 6 label against its 24-pad title. We are not requesting a merge with B0F2TKL2P5, a variation change, or any reassignment of our active FBA SKU. We will revisit duplicate eligibility only after the identities and GTIN mappings are resolved.
+Evidence available: saved scoped offer records and current snapshots merge-current-B07M8558B2.txt and merge-current-B0F28LXKKF.txt.
+
+9. 608x2-N-L YG — identity/quantity diagnosis only; no merge requested
+Relevant ASINs: B01M617ZTH and B07FKHLSJM.
+Our active FBA product on B01M617ZTH is 6 x 8 inch lined sticky notes, two pads in neon green and yellow, 100 sheets per pad and 200 sheets total. Its recorded UPC is 702877118955. The historical inactive MFN offer on B07FKHLSJM also describes model 4A 608x2-N-L YG and two pads, but its current product page heading describes four pads in neon colors, with a "4 Pads Pack 2" size label.
+Please establish the actual physical product and authoritative quantity/color attributes for B07FKHLSJM. We cannot determine from the current evidence whether this is a catalog error or a distinct four-pad product. No merge, variation change, or FBA reassignment is requested. Please specify the manufacturer or package evidence needed to resolve the discrepancy before any duplicate review.
+Evidence available: scoped historical/current offer identifiers and current snapshots merge-current-B01M617ZTH.txt and merge-current-B07FKHLSJM.txt.
+
+Review notes — not for customer-support submission:
+The first three conditional drafts are in merge-next3-support-drafts-unsent.txt. The four conditional drafts above complete all seven eligible-for-review groups. The last two are diagnostics, not merge applications. Displayed review scores may be shared across variations; no review aggregation is requested or promised. No raw master workbook, FOB/cost data, unrelated orders, or whole-store inventory should be attached. Prepare only the relevant excerpts and product evidence for any specifically authorized case.

@@ -1,0 +1,23 @@
+{
+  "checked_at": "2026-11-01 18:10 Asia/Shanghai",
+  "asin": "B0FGJR49SW",
+  "sku": "4A BS 1801 + Refill",
+  "type": "virtual_bundle",
+  "components": [
+    {"asin":"B0F2TJZ8GM","sku":"4A BS 1801 Refill","quantity_per_bundle":1,"saleable":37,"current_price":18.99},
+    {"asin":"B07K8L4K8K","sku":"4A BS 1801","quantity_per_bundle":1,"saleable":1,"current_price":17.99}
+  ],
+  "saved_discount_percent":29,
+  "editor_preview_usd":26.26,
+  "buyer_price_usd":25.99,
+  "buyer_stock":1,
+  "buyer_location":"New York 10001",
+  "buyer_purchase_buttons_present":true,
+  "seller":"4A (USA) LIMITED",
+  "fulfilled_by":"Amazon",
+  "shipping_amount_confirmed":false,
+  "transaction_performed":false,
+  "writes_performed":false,
+  "result":"Buyer page offers purchase with one remaining unit; component stock bottleneck is main BS1801. Preview differs from public price by USD0.27; no republish or price change made.",
+  "evidence":["bundle-bs1801-current-inventory.txt","bundle-bs1801-current-configuration.txt","bundle-bs1801-current-buyer.txt"]
+}

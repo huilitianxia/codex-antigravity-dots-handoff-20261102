@@ -1,0 +1,87 @@
+77候选只读审计覆盖总表（不是已提交/已运行证明）
+{"candidate_rows": 77, "candidate_unique_asins": 77, "covered_unique_asins": 77, "missing_asins": [], "extra_asins": [], "new_live_audited_asins_batches2to7": 66, "inherited_parent_batch1_asins": 11, "current_fba_sellable_sum": 1526, "decisions": {"STAR_KEEP_REGULAR_PRICE_BUSINESS_ONLY": 1, "READY_FOR_COUPON_ELIGIBILITY_RECHECK": 73, "PARENT_REVIEW_LOW_STACKED_CASH": 3}, "suggested_coupon_counts": {"None": 4, "15": 35, "5": 38}}
+
+重点分流：
+B00SMEFFRE | 4A 304 Full Glue | STAR_KEEP_REGULAR_PRICE_BUSINESS_ONLY | Latest user strategy: star full-adhesive pad; do not add universal coupon; keep ordinary price and targeted business/tier discounts
+B077QGRH89 | 4A 0175 | PARENT_REVIEW_LOW_STACKED_CASH | Even5% stacked on existing B2B and tiers leaves under1.50; retain business promotion and parent decide other promotion, no automatic additional coupon
+B00SMEEVCO | 4A 5059-B00SM-FBA | PARENT_REVIEW_LOW_STACKED_CASH | Even5% leaves under1.50; retain existing promotion and parent decide alternatives; no automatic additional coupon
+B07DJXC4PJ | 4A 2028-N-FBA | PARENT_REVIEW_LOW_STACKED_CASH | Even5% leaves under1.50; retain existing promotion and parent decide alternatives; no automatic additional coupon
+
+逐项建议（需主代理查活动资格后提交，不能为达券门槛改普通价）：
+B00SMEFFRE | 4A 304 Full Glue | FBA可售332 | 普通9.99 | 企业9.69 | 阶梯[[3, 3.0]] | FBA费2.77 | 建议券None | 证据coupon-expansion-batch1-review.json
+B07FKJM2LX | AAAA 4A 5084-N-L | FBA可售161 | 普通19.99 | 企业19.98 | 阶梯[[2, 2.0]] | FBA费5.06 | 建议券15 | 证据coupon-expansion-batch2-readonly-review.json
+B07QVKPZXX | 4A PSS 9-1 Refill | FBA可售67 | 普通18.99 | 企业None | 阶梯[] | FBA费4.36 | 建议券5 | 证据coupon-expansion-batch1-review.json
+B07FKF5V92 | AAAA 4A PSS 9-1 NRGrid | FBA可售63 | 普通19.99 | 企业None | 阶梯[] | FBA费4.11 | 建议券15 | 证据coupon-expansion-batch2-readonly-review.json
+B07F2BHFJH | 4A 5082-Y-L-GM | FBA可售61 | 普通11.99 | 企业9.49 | 阶梯[[2, 2.0]] | FBA费3.82 | 建议券5 | 证据coupon-expansion-batch2-readonly-review.json
+B07FK8MF91 | AAAA 4A PSS 9-1 NBGrid | FBA可售48 | 普通15.99 | 企业None | 阶梯[] | FBA费4.11 | 建议券15 | 证据coupon-expansion-batch2-readonly-review.json
+B07QWKYMGM | 4A PSS 9-1 Grid-NBNPx2 | FBA可售46 | 普通22.99 | 企业None | 阶梯[] | FBA费4.64 | 建议券15 | 证据coupon-expansion-batch2-readonly-review.json
+B07FK9S7S8 | 4A PSS 9-3 YORx2 | FBA可售43 | 普通18.99 | 企业15.38 | 阶梯[[2, 2.0]] | FBA费4.11 | 建议券15 | 证据coupon-expansion-batch2-readonly-review.json
+B0F2TJZ8GM | 4A BS 1801 Refill | FBA可售37 | 普通18.99 | 企业16.98 | 阶梯[[2, 2.0]] | FBA费4.36 | 建议券15 | 证据coupon-expansion-batch1-review.json
+B0F1TZ114W | 4A 5037x2 | FBA可售35 | 普通14.99 | 企业9.98 | 阶梯[[3, 2.0]] | FBA费4.36 | 建议券15 | 证据coupon-expansion-batch1-review.json
+B07DJKB4FZ | AAAA 4A 124418 | FBA可售34 | 普通6.99 | 企业None | 阶梯[] | FBA费3.26 | 建议券15 | 证据coupon-expansion-batch1-review.json
+B07FKFMJTL | AAAA 4A 40622 | FBA可售33 | 普通9.99 | 企业None | 阶梯[] | FBA费2.77 | 建议券15 | 证据coupon-expansion-batch2-readonly-review.json
+B0F1TTFTKQ | 4A 5036x2 | FBA可售33 | 普通14.99 | 企业9.98 | 阶梯[[3, 2.0]] | FBA费4.11 | 建议券15 | 证据coupon-expansion-batch1-review.json
+B07QXJYKJN | 4A PSS 9-5 NANBx2 | FBA可售33 | 普通24.99 | 企业None | 阶梯[] | FBA费4.64 | 建议券5 | 证据coupon-expansion-batch2-readonly-review.json
+B07QXJY3FH | 4A PSS 9-1 NGNOx2 | FBA可售27 | 普通22.99 | 企业None | 阶梯[] | FBA费4.64 | 建议券15 | 证据coupon-expansion-batch2-readonly-review.json
+B07FKHNTRK | AAAA 4A SMC 434 | FBA可售26 | 普通15.99 | 企业14.99 | 阶梯[] | FBA费4.36 | 建议券5 | 证据coupon-expansion-batch1-review.json
+B07T7PTYQ2 | 4A 60144x2 | FBA可售26 | 普通18.99 | 企业None | 阶梯[] | FBA费3.63 | 建议券15 | 证据coupon-expansion-batch1-review.json
+B07FKB3BRZ | AAAA 4A PSS 9-1 NYGrid | FBA可售25 | 普通15.99 | 企业None | 阶梯[] | FBA费4.11 | 建议券15 | 证据coupon-expansion-batch1-review.json
+B07DJKDB63 | 4A 354818 | FBA可售22 | 普通7.99 | 企业None | 阶梯[] | FBA费3.79 | 建议券15 | 证据coupon-expansion-batch2-readonly-review.json
+B07RP9BW5Z | 4A 50024 | FBA可售21 | 普通17.99 | 企业None | 阶梯[] | FBA费5.06 | 建议券15 | 证据coupon-expansion-batch1-review.json
+B07FKHHTY4 | AAAA 4A 406x6-N | FBA可售20 | 普通11.99 | 企业None | 阶梯[] | FBA费5.93 | 建议券15 | 证据coupon-expansion-batch2-readonly-review.json
+B07JVSYNYV | 4A BS 1801-FBA | FBA可售20 | 普通14.99 | 企业14.49 | 阶梯[] | FBA费4.36 | 建议券15 | 证据coupon-expansion-batch2-readonly-review.json
+B07MQVWLSY | 4A 5084-N-L*4 | FBA可售20 | 普通35.99 | 企业35.98 | 阶梯[[3, 3.0]] | FBA费8.02 | 建议券15 | 证据coupon-expansion-batch3-readonly-review.json
+B07FKJLZNG | AAAA 4A 4012 | FBA可售17 | 普通10.99 | 企业None | 阶梯[] | FBA费5.53 | 建议券15 | 证据coupon-expansion-batch1-review.json
+B01MZ4FDN5 | 4A GM-PSS 9-3 YOR | FBA可售13 | 普通11.99 | 企业11.49 | 阶梯[] | FBA费4.11 | 建议券5 | 证据coupon-expansion-batch3-readonly-review.json
+B07T55VHS6 | 4A GM6035x5 | FBA可售12 | 普通18.99 | 企业None | 阶梯[] | FBA费3.63 | 建议券15 | 证据coupon-expansion-batch3-readonly-review.json
+B01N1T23HH | 4A 039 | FBA可售12 | 普通10.99 | 企业None | 阶梯[] | FBA费5.06 | 建议券15 | 证据coupon-expansion-batch3-readonly-review.json
+B01N0RJSTU | 4A 032 | FBA可售12 | 普通11.49 | 企业10.49 | 阶梯[[10, 5.0]] | FBA费5.93 | 建议券5 | 证据coupon-expansion-batch3-readonly-review.json
+B07F298JNC | 4A SMC 438 | FBA可售10 | 普通12.99 | 企业None | 阶梯[] | FBA费5.06 | 建议券5 | 证据coupon-expansion-batch3-readonly-review.json
+B077QGRH89 | 4A 0175 | FBA可售10 | 普通7.99 | 企业5.99 | 阶梯[[10, 8.0]] | FBA费2.77 | 建议券None | 证据coupon-expansion-batch3-readonly-review.json
+B00SMEE3XQ | 4A 6035-FBA | FBA可售9 | 普通8.99 | 企业8.69 | 阶梯[] | FBA费2.71 | 建议券15 | 证据coupon-expansion-batch3-readonly-review.json
+B0F1TW5LS8 | 4A 5061x2 | FBA可售8 | 普通14.99 | 企业9.98 | 阶梯[[3, 2.0]] | FBA费4.11 | 建议券15 | 证据coupon-expansion-batch3-readonly-review.json
+B07FK81CQ7 | AAAA 4A 6032 | FBA可售7 | 普通24.99 | 企业None | 阶梯[] | FBA费3.63 | 建议券15 | 证据coupon-expansion-batch3-readonly-review.json
+B07FKL263W | AAAA 4A 406x6 | FBA可售7 | 普通13.49 | 企业None | 阶梯[] | FBA费6.1 | 建议券5 | 证据coupon-expansion-batch3-readonly-review.json
+B0821LD25K | 4A SCPSS 7 | FBA可售7 | 普通12.99 | 企业None | 阶梯[] | FBA费4.36 | 建议券5 | 证据coupon-expansion-batch3-readonly-review.json
+B07RBVWVY4 | 4A Meeting 52x4 | FBA可售7 | 普通84.99 | 企业None | 阶梯[] | FBA费18.96 | 建议券15 | 证据coupon-expansion-batch4-readonly-review.json
+B07T2ZNTGK | 4A 40609x4 | FBA可售7 | 普通18.99 | 企业None | 阶梯[] | FBA费4.36 | 建议券15 | 证据coupon-expansion-batch4-readonly-review.json
+B07PVWYS9T | 4A 406x6-N*2 | FBA可售6 | 普通21.99 | 企业None | 阶梯[] | FBA费7.33 | 建议券15 | 证据coupon-expansion-batch4-readonly-review.json
+B00SMEE5HU | MG-ET8D-JLS7 | FBA可售5 | 普通13.99 | 企业13.49 | 阶梯[] | FBA费5.53 | 建议券5 | 证据coupon-expansion-batch4-readonly-review.json
+B07FK8CJ76 | AAAA 4A 40607 | FBA可售5 | 普通12.99 | 企业None | 阶梯[] | FBA费3.74 | 建议券5 | 证据coupon-expansion-batch4-readonly-review.json
+B00SMEEV4C | 4A5013-B00SM-FBA | FBA可售5 | 普通7.2 | 企业7.2 | 阶梯[] | FBA费3.26 | 建议券5 | 证据coupon-expansion-batch4-readonly-review.json
+B07T55QCRY | 4A4013-B07T-FBA | FBA可售5 | 普通15.99 | 企业15.49 | 阶梯[] | FBA费5.06 | 建议券5 | 证据coupon-expansion-batch4-readonly-review.json
+B07DLM2QP1 | 4A SMC 435-FBA | FBA可售5 | 普通13.99 | 企业13.49 | 阶梯[] | FBA费4.64 | 建议券5 | 证据coupon-expansion-batch4-readonly-review.json
+B0821GML8W | 4A SCLB 1901 | FBA可售5 | 普通14.99 | 企业None | 阶梯[] | FBA费4.13 | 建议券15 | 证据coupon-expansion-batch4-readonly-review.json
+B07J6Q5TTR | 4A BS 1803-FBA | FBA可售5 | 普通12.99 | 企业12.49 | 阶梯[] | FBA费4.11 | 建议券5 | 证据coupon-expansion-batch4-readonly-review.json
+B073VPHSJ9 | 4A 608S-Lx4 | FBA可售5 | 普通13.99 | 企业13.49 | 阶梯[] | FBA费5.53 | 建议券5 | 证据coupon-expansion-batch4-readonly-review.json
+B07RP9MB7Y | 4A 5088-N-L | FBA可售7 | 普通19.99 | 企业None | 阶梯[] | FBA费6.1 | 建议券5 | 证据coupon-expansion-batch4-readonly-review.json
+B00SMEEN40 | 4A 5061-B00SM-FBA | FBA可售5 | 普通7.2 | 企业6.85 | 阶梯[] | FBA费3.26 | 建议券5 | 证据coupon-expansion-batch5-readonly-review.json
+B00SMEEVCO | 4A 5059-B00SM-FBA | FBA可售5 | 普通7.2 | 企业5.69 | 阶梯[] | FBA费3.51 | 建议券None | 证据coupon-expansion-batch5-readonly-review.json
+B00SMEEVC4 | 4A 5036-B00SM-FBA | FBA可售5 | 普通7.2 | 企业7.2 | 阶梯[] | FBA费3.26 | 建议券5 | 证据coupon-expansion-batch5-readonly-review.json
+B07T79KGWF | 4A 5020x3-FBA | FBA可售5 | 普通25.99 | 企业24.99 | 阶梯[] | FBA费4.98 | 建议券5 | 证据coupon-expansion-batch5-readonly-review.json
+B07T42J6FY | 4A 501516 | FBA可售5 | 普通7.49 | 企业7.49 | 阶梯[] | FBA费3.26 | 建议券5 | 证据coupon-expansion-batch5-readonly-review.json
+B07DJG1W71 | 4A 484812-N-FBA | FBA可售5 | 普通9.99 | 企业9.69 | 阶梯[] | FBA费3.51 | 建议券5 | 证据coupon-expansion-batch5-readonly-review.json
+B01N6KXLJ5 | 4A 40608*2 | FBA可售5 | 普通11.99 | 企业None | 阶梯[] | FBA费3.63 | 建议券15 | 证据coupon-expansion-batch5-readonly-review.json
+B073VPFBL6 | 4A 404S-Lx6 | FBA可售5 | 普通14.99 | 企业14.49 | 阶梯[] | FBA费5.53 | 建议券5 | 证据coupon-expansion-batch5-readonly-review.json
+B07Z2555TN | 4A 404-AC-Holder | FBA可售5 | 普通15.99 | 企业15.49 | 阶梯[] | FBA费5.06 | 建议券5 | 证据coupon-expansion-batch5-readonly-review.json
+B01N7IT411 | 4A 040 | FBA可售5 | 普通9.99 | 企业None | 阶梯[] | FBA费4.21 | 建议券15 | 证据coupon-expansion-batch5-readonly-review.json
+B077QLHHVH | 4A 0165 | FBA可售5 | 普通5.99 | 企业5.99 | 阶梯[[10, 8.0]] | FBA费2.77 | 建议券5 | 证据coupon-expansion-batch5-readonly-review.json
+B07FKPY2V6 | AAAA 4A 608S-Linex4 | FBA可售4 | 普通9.49 | 企业None | 阶梯[] | FBA费5.08 | 建议券15 | 证据coupon-expansion-batch5-readonly-review.json
+B07RR924N1 | 4A 60122-8 | FBA可售4 | 普通15.99 | 企业None | 阶梯[] | FBA费3.74 | 建议券15 | 证据coupon-expansion-batch6-readonly-review.json
+B07FKJGDJR | AAAA 4A Meeting-6 | FBA可售3 | 普通18.99 | 企业None | 阶梯[] | FBA费11.97 | 建议券5 | 证据coupon-expansion-batch6-readonly-review.json
+B01N2YL12Y | 4A0103 | FBA可售3 | 普通9.99 | 企业None | 阶梯[] | FBA费2.71 | 建议券5 | 证据coupon-expansion-batch6-readonly-review.json
+B07HDVVZ1B | 4A 608-N-L-210-FBA | FBA可售3 | 普通11.99 | 企业11.99 | 阶梯[] | FBA费5.53 | 建议券5 | 证据coupon-expansion-batch6-readonly-review.json
+B01M986R0Y | 4A 6043-FBA | FBA可售3 | 普通8.99 | 企业8.69 | 阶梯[] | FBA费2.71 | 建议券5 | 证据coupon-expansion-batch6-readonly-review.json
+B07RVJB9DL | 4A 40612 | FBA可售3 | 普通21.99 | 企业None | 阶梯[] | FBA费7.86 | 建议券5 | 证据coupon-expansion-batch6-readonly-review.json
+B01M3N310M | 4A 4012-B07T-FBA | FBA可售3 | 普通12.99 | 企业12.99 | 阶梯[] | FBA费5.53 | 建议券5 | 证据coupon-expansion-batch6-readonly-review.json
+B07DJXC4PJ | 4A 2028-N-FBA | FBA可售3 | 普通8.99 | 企业5.39 | 阶梯[] | FBA费3.51 | 建议券None | 证据coupon-expansion-batch6-readonly-review.json
+B0784GHSVJ | 4A 0166 | FBA可售3 | 普通5.99 | 企业5.99 | 阶梯[[10, 8.0]] | FBA费2.77 | 建议券5 | 证据coupon-expansion-batch6-readonly-review.json
+B07DJP6SNG | 303-AC-holder | FBA可售3 | 普通11.6 | 企业11.6 | 阶梯[] | FBA费4.64 | 建议券5 | 证据coupon-expansion-batch6-readonly-review.json
+B01M2UDADZ | 4A 66114 | FBA可售2 | 普通6.99 | 企业None | 阶梯[] | FBA费2.71 | 建议券5 | 证据coupon-expansion-batch6-readonly-review.json
+B07T77N118 | 4A 6087-NL-420 | FBA可售2 | 普通23.99 | 企业None | 阶梯[] | FBA费6.51 | 建议券15 | 证据coupon-expansion-batch6-readonly-review.json
+B07T42DXZ1 | 4A 354832-FBA | FBA可售2 | 普通14.99 | 企业14.49 | 阶梯[] | FBA费5.06 | 建议券5 | 证据coupon-expansion-batch7-readonly-review.json
+B01M617ZTH | 4A 037 | FBA可售2 | 普通12.99 | 企业None | 阶梯[] | FBA费5.53 | 建议券15 | 证据coupon-expansion-batch7-readonly-review.json
+B07FKJDBFT | AAAA 4A SMC 436 | FBA可售1 | 普通12.99 | 企业None | 阶梯[] | FBA费4.64 | 建议券5 | 证据coupon-expansion-batch7-readonly-review.json
+B0821GTX3C | 4A SCLB 1902 | FBA可售1 | 普通9.99 | 企业None | 阶梯[] | FBA费2.77 | 建议券5 | 证据coupon-expansion-batch7-readonly-review.json
+B07K8L4K8K | 4A BS 1801 | FBA可售1 | 普通17.99 | 企业17.98 | 阶梯[[3, 2.0]] | FBA费4.36 | 建议券15 | 证据coupon-expansion-batch7-readonly-review.json
+B01LPKL5IE | 4A 6533-FBA | FBA可售1 | 普通13.99 | 企业13.49 | 阶梯[] | FBA费4.13 | 建议券5 | 证据coupon-expansion-batch7-readonly-review.json

@@ -1,0 +1,538 @@
+{
+  "status": "MAIN_REVIEW_REVISED_USER_STOCK_AND_DEMAND_CONSTRAINT_NOT_APPLIED",
+  "basis": "US/USD noncancelled; 29 complete PDT days 2026-10-02..30; last7 10-24..30; exact SKU with same-ASIN all-fulfillment crosscheck; latest 10-31 not complete in export",
+  "candidate_count": 35,
+  "rows": [
+    {
+      "asin": "B07FKJM2LX",
+      "sku": "AAAA 4A 5084-N-L",
+      "stock": 161,
+      "age365plus": 0,
+      "orders29": 3,
+      "units29": 3,
+      "orders7": 3,
+      "price": 19.99,
+      "b2b": 19.98,
+      "tiers": [
+        [
+          2,
+          2.0
+        ]
+      ],
+      "decision": "KEEP_15",
+      "reason": "20+ FBA units and low recent orders with substantial inventory cover"
+    },
+    {
+      "asin": "B07FKF5V92",
+      "sku": "AAAA 4A PSS 9-1 NRGrid",
+      "stock": 63,
+      "age365plus": 0,
+      "orders29": 1,
+      "units29": 1,
+      "orders7": 1,
+      "price": 19.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "KEEP_15",
+      "reason": "20+ FBA units and low recent orders with substantial inventory cover"
+    },
+    {
+      "asin": "B07FK8MF91",
+      "sku": "AAAA 4A PSS 9-1 NBGrid",
+      "stock": 48,
+      "age365plus": 0,
+      "orders29": 1,
+      "units29": 1,
+      "orders7": 0,
+      "price": 15.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "KEEP_15",
+      "reason": "20+ FBA units and low recent orders with substantial inventory cover"
+    },
+    {
+      "asin": "B07QWKYMGM",
+      "sku": "4A PSS 9-1 Grid-NBNPx2",
+      "stock": 46,
+      "age365plus": 0,
+      "orders29": 2,
+      "units29": 2,
+      "orders7": 0,
+      "price": 22.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "KEEP_15",
+      "reason": "20+ FBA units and low recent orders with substantial inventory cover"
+    },
+    {
+      "asin": "B07FK9S7S8",
+      "sku": "4A PSS 9-3 YORx2",
+      "stock": 43,
+      "age365plus": 0,
+      "orders29": 3,
+      "units29": 7,
+      "orders7": 1,
+      "price": 18.99,
+      "b2b": 15.38,
+      "tiers": [
+        [
+          2,
+          2.0
+        ]
+      ],
+      "decision": "MOVE_TO_5",
+      "reason": "43 units/7 units29/1 order7; existing15.38 business plus2qty2% already20.63% below18.99;5%coupon yields24.6% total vs15%coupon32.56%"
+    },
+    {
+      "asin": "B0F2TJZ8GM",
+      "sku": "4A BS 1801 Refill",
+      "stock": 37,
+      "age365plus": 37,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 18.99,
+      "b2b": 16.98,
+      "tiers": [
+        [
+          2,
+          2.0
+        ]
+      ],
+      "decision": "KEEP_15",
+      "reason": "20+ FBA units and low recent orders with substantial inventory cover"
+    },
+    {
+      "asin": "B0F1TZ114W",
+      "sku": "4A 5037x2",
+      "stock": 35,
+      "age365plus": 34,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 14.99,
+      "b2b": 9.98,
+      "tiers": [
+        [
+          3,
+          2.0
+        ]
+      ],
+      "decision": "REMOVE_15_KEEP_EXISTING_BUSINESS",
+      "reason": "Existing9.98 business and3qty2% versus14.99 regular already34.76%; adding15% reaches44.56% total; user latest avoid excessive concession"
+    },
+    {
+      "asin": "B07DJKB4FZ",
+      "sku": "AAAA 4A 124418",
+      "stock": 34,
+      "age365plus": 33,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 6.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "KEEP_15",
+      "reason": "20+ FBA units and low recent orders with substantial inventory cover"
+    },
+    {
+      "asin": "B07FKFMJTL",
+      "sku": "AAAA 4A 40622",
+      "stock": 33,
+      "age365plus": 33,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 9.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "KEEP_15",
+      "reason": "20+ FBA units and low recent orders with substantial inventory cover"
+    },
+    {
+      "asin": "B0F1TTFTKQ",
+      "sku": "4A 5036x2",
+      "stock": 33,
+      "age365plus": 32,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 14.99,
+      "b2b": 9.98,
+      "tiers": [
+        [
+          3,
+          2.0
+        ]
+      ],
+      "decision": "REMOVE_15_KEEP_EXISTING_BUSINESS",
+      "reason": "Existing9.98 business and3qty2% versus14.99 regular already34.76%; adding15% reaches44.56% total; user latest avoid excessive concession"
+    },
+    {
+      "asin": "B07QXJY3FH",
+      "sku": "4A PSS 9-1 NGNOx2",
+      "stock": 27,
+      "age365plus": 0,
+      "orders29": 2,
+      "units29": 2,
+      "orders7": 0,
+      "price": 22.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "KEEP_15",
+      "reason": "20+ FBA units and low recent orders with substantial inventory cover"
+    },
+    {
+      "asin": "B07T7PTYQ2",
+      "sku": "4A 60144x2",
+      "stock": 26,
+      "age365plus": 26,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 18.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "KEEP_15",
+      "reason": "20+ FBA units and low recent orders with substantial inventory cover"
+    },
+    {
+      "asin": "B07FKB3BRZ",
+      "sku": "AAAA 4A PSS 9-1 NYGrid",
+      "stock": 25,
+      "age365plus": 23,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 15.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "KEEP_15",
+      "reason": "20+ FBA units and low recent orders with substantial inventory cover"
+    },
+    {
+      "asin": "B07DJKDB63",
+      "sku": "4A 354818",
+      "stock": 22,
+      "age365plus": 22,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 7.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "KEEP_15",
+      "reason": "20+ FBA units and low recent orders with substantial inventory cover"
+    },
+    {
+      "asin": "B07RP9BW5Z",
+      "sku": "4A 50024",
+      "stock": 21,
+      "age365plus": 21,
+      "orders29": 1,
+      "units29": 1,
+      "orders7": 0,
+      "price": 17.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "KEEP_15",
+      "reason": "20+ FBA units and low recent orders with substantial inventory cover"
+    },
+    {
+      "asin": "B07FKHHTY4",
+      "sku": "AAAA 4A 406x6-N",
+      "stock": 20,
+      "age365plus": 19,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 11.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "KEEP_15",
+      "reason": "20+ FBA units and low recent orders with substantial inventory cover"
+    },
+    {
+      "asin": "B07JVSYNYV",
+      "sku": "4A BS 1801-FBA",
+      "stock": 20,
+      "age365plus": 0,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 14.99,
+      "b2b": 14.49,
+      "tiers": [],
+      "decision": "KEEP_15",
+      "reason": "20+ FBA units and low recent orders with substantial inventory cover"
+    },
+    {
+      "asin": "B07MQVWLSY",
+      "sku": "4A 5084-N-L*4",
+      "stock": 20,
+      "age365plus": 0,
+      "orders29": 1,
+      "units29": 1,
+      "orders7": 0,
+      "price": 35.99,
+      "b2b": 35.98,
+      "tiers": [
+        [
+          3,
+          3.0
+        ]
+      ],
+      "decision": "KEEP_15",
+      "reason": "20+ FBA units and low recent orders with substantial inventory cover"
+    },
+    {
+      "asin": "B07FKJLZNG",
+      "sku": "AAAA 4A 4012",
+      "stock": 17,
+      "age365plus": 17,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 10.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "KEEP_15",
+      "reason": "Already running first expansion; 17 units all older than365days and0 orders29; retain aged clearance exception"
+    },
+    {
+      "asin": "B07T55VHS6",
+      "sku": "4A GM6035x5",
+      "stock": 12,
+      "age365plus": 12,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 18.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "HOLD_NEW_COUPON",
+      "reason": "Small remaining FBA quantity; postpone broad coupon despite low orders"
+    },
+    {
+      "asin": "B01N1T23HH",
+      "sku": "4A 039",
+      "stock": 12,
+      "age365plus": 12,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 10.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "HOLD_NEW_COUPON",
+      "reason": "Small remaining FBA quantity; postpone broad coupon despite low orders"
+    },
+    {
+      "asin": "B00SMEE3XQ",
+      "sku": "4A 6035-FBA",
+      "stock": 9,
+      "age365plus": 0,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 8.99,
+      "b2b": 8.69,
+      "tiers": [],
+      "decision": "HOLD_NEW_COUPON",
+      "reason": "Small remaining FBA quantity; postpone broad coupon despite low orders"
+    },
+    {
+      "asin": "B0F1TW5LS8",
+      "sku": "4A 5061x2",
+      "stock": 8,
+      "age365plus": 8,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 14.99,
+      "b2b": 9.98,
+      "tiers": [
+        [
+          3,
+          2.0
+        ]
+      ],
+      "decision": "HOLD_NEW_COUPON",
+      "reason": "Small remaining FBA quantity; postpone broad coupon despite low orders"
+    },
+    {
+      "asin": "B07FK81CQ7",
+      "sku": "AAAA 4A 6032",
+      "stock": 7,
+      "age365plus": 7,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 24.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "HOLD_NEW_COUPON",
+      "reason": "Small remaining FBA quantity; postpone broad coupon despite low orders"
+    },
+    {
+      "asin": "B07RBVWVY4",
+      "sku": "4A Meeting 52x4",
+      "stock": 7,
+      "age365plus": 0,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 84.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "HOLD_NEW_COUPON",
+      "reason": "Small remaining FBA quantity; postpone broad coupon despite low orders"
+    },
+    {
+      "asin": "B07T2ZNTGK",
+      "sku": "4A 40609x4",
+      "stock": 7,
+      "age365plus": 7,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 18.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "HOLD_NEW_COUPON",
+      "reason": "Small remaining FBA quantity; postpone broad coupon despite low orders"
+    },
+    {
+      "asin": "B07PVWYS9T",
+      "sku": "4A 406x6-N*2",
+      "stock": 6,
+      "age365plus": 5,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 21.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "HOLD_NEW_COUPON",
+      "reason": "Small remaining FBA quantity; postpone broad coupon despite low orders"
+    },
+    {
+      "asin": "B0821GML8W",
+      "sku": "4A SCLB 1901",
+      "stock": 5,
+      "age365plus": 5,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 14.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "HOLD_NEW_COUPON",
+      "reason": "Small remaining FBA quantity; postpone broad coupon despite low orders"
+    },
+    {
+      "asin": "B01N6KXLJ5",
+      "sku": "4A 40608*2",
+      "stock": 5,
+      "age365plus": 5,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 11.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "HOLD_NEW_COUPON",
+      "reason": "Small remaining FBA quantity; postpone broad coupon despite low orders"
+    },
+    {
+      "asin": "B01N7IT411",
+      "sku": "4A 040",
+      "stock": 5,
+      "age365plus": 5,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 9.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "HOLD_NEW_COUPON",
+      "reason": "Small remaining FBA quantity; postpone broad coupon despite low orders"
+    },
+    {
+      "asin": "B07FKPY2V6",
+      "sku": "AAAA 4A 608S-Linex4",
+      "stock": 4,
+      "age365plus": 4,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 9.49,
+      "b2b": null,
+      "tiers": [],
+      "decision": "HOLD_NEW_COUPON",
+      "reason": "Small remaining FBA quantity; postpone broad coupon despite low orders"
+    },
+    {
+      "asin": "B07RR924N1",
+      "sku": "4A 60122-8",
+      "stock": 4,
+      "age365plus": 4,
+      "orders29": 0,
+      "units29": 0,
+      "orders7": 0,
+      "price": 15.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "HOLD_NEW_COUPON",
+      "reason": "Small remaining FBA quantity; postpone broad coupon despite low orders"
+    },
+    {
+      "asin": "B07T77N118",
+      "sku": "4A 6087-NL-420",
+      "stock": 2,
+      "age365plus": 2,
+      "orders29": 1,
+      "units29": 1,
+      "orders7": 0,
+      "price": 23.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "HOLD_NEW_COUPON",
+      "reason": "Small remaining FBA quantity; postpone broad coupon despite low orders"
+    },
+    {
+      "asin": "B01M617ZTH",
+      "sku": "4A 037",
+      "stock": 2,
+      "age365plus": 2,
+      "orders29": 1,
+      "units29": 1,
+      "orders7": 1,
+      "price": 12.99,
+      "b2b": null,
+      "tiers": [],
+      "decision": "HOLD_NEW_COUPON",
+      "reason": "Small remaining FBA quantity; postpone broad coupon despite low orders"
+    },
+    {
+      "asin": "B07K8L4K8K",
+      "sku": "4A BS 1801",
+      "stock": 1,
+      "age365plus": 1,
+      "orders29": 1,
+      "units29": 1,
+      "orders7": 0,
+      "price": 17.99,
+      "b2b": 17.98,
+      "tiers": [
+        [
+          3,
+          2.0
+        ]
+      ],
+      "decision": "HOLD_NEW_COUPON",
+      "reason": "Small remaining FBA quantity; postpone broad coupon despite low orders"
+    }
+  ],
+  "note": "20-unit review prioritization is an analyst heuristic not user hard threshold. Original15 pre-existing ASINs preserved pending independent audit. 073/BP extra priority separate, never double count as original77."
+}
