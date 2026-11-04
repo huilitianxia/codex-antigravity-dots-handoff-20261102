@@ -1,0 +1,268 @@
+4A 亚马逊运营详细交接（供 Gemini 接手）
+信息截止：2026-11-01 18:49，中国时间。此后未做线上复查。
+整理依据：本轮已保存的上传回执、后台/买家页面回读、客服案内容与项目日志。本文不是新的运营授权，不代表后台会自动监控。
+
+一、先读这几条，避免重做或造成新事故
+
+1. 本轮执行已收尾，原任务没有全部完成。最后用户要求收尾第2、4、6主线，家族重组、第5其他促销、第7 P1暂缓。暂缓是当轮工作顺序，绝不是永久不做；接手时根据用户新安排恢复，不自行全部展开。
+2. 先核对已经提交的批次和客服案。13号文件已提交一次，不能因为没有回执就重传。05最低价已用官方文件和单SKU网页尝试过，不要连续重复写。客服请求已发不等于目录已合并、运费已修复。
+3. 线上事实分四层记录：已提交；处理回执接受；卖家保存字段已回读；买家页面/实际可买已核。不要混称全部生效。SUCCESS (OTHER ERROR) 也不等于整行失败。
+4. 最新记录优先于旧草案。旧Coupon 50个/42个、大范围35个15%+38个5%等都是中间方案，不能再提交。最终运行集合是15%券22 ASIN与5%券12 ASIN，共34且互不重叠。
+5. 不因报错清零而盲目把颜色、装量、UPC、制造商照抄Amazon目录。先确认实物是否同货、条码是否对应。特别禁止通过删除SKU、换ASIN或清空父字段猜测修复家族。
+6. 不再把Excel另收运费的商品标价，直接当活跃FBA包邮历史价；不要从“清积压”推导给明星款半价。普通价、Sale、企业价、数量阶梯、Coupon、最低价分别核对。
+7. 订单只核查，未授权取消或修改。没有创建移除/销毁订单。历史Gemini是否做过销毁未查实，不能把删除商品报价或零pending-removal理解成已经销毁实货。
+
+二、文件位置与证据口径
+
+工作根目录：E:/OpenAI-Codex/天皇のcodex/
+工作证据目录：E:/OpenAI-Codex/天皇のcodex/work/4a-reclass-20261031/
+下文“证据文件名”均相对此目录，除非给了完整路径。
+已提交成品目录：E:/OpenAI-Codex/天皇のcodex/outputs/01a18a7c-7953-7b83-b51d-1a7f216ae7e1/20261031-urgent-fixes/
+源数据/官方处理回执：D:/下载文件/
+计划历史：E:/OpenAI-Codex/天皇のcodex/.planning/2026-10-31-4a-inventory-reclassification/
+
+优先读：
+- 本轮收尾_20261101.txt：简短收尾状态。
+- LIVE_CHECKPOINT_20261101.md：只以最后18:49段覆盖旧段；中间存在旧计划和已解决尾项。
+- AGENT_PREVIOUS_CHECKPOINT.md、AGENT_PRICES_CHECKPOINT.md：操作和验收细节，同样最后段优先。
+- task_plan.md：末尾18:35七主线为最新范围；前面“16包3完成13未完成”是历史，不再拿作最新进度。
+- nonfamily-stream2-6-remaining-gaps.txt：原任务尚未覆盖的缺口。
+
+关键原始数据：
+- D:/下载文件/分类商品报告_10-31-2026.xlsm：804 SKU官方分类模板和原属性；同文件包括Valid Values等表。
+- D:/下载文件/所有商品报告_11-01-2026.txt：11/1全商品报告，精确SKU、ASIN、状态和MFN申报数；历史对照有10/31、9/3、8/26版本。
+- D:/下载文件/175793876516020757.txt：10/31导出的订单；不要称截至当前实时订单。
+- coupon-fullscan-parsed.json、coupon-fullscan-page01到34.txt：全库Coupon资格证据。
+- fba-live-fees.json、fba-fees-page1到6.txt：FBA库存/费用快照；全费用不是净利润成本。
+- analysis.json：目录、FBA/订单/候选等历史基线，实时状态有更新时以新证据为准。
+- 原2026产品总表的具体位置和选定行，见family08-master-2026-evidence.json等引用；不要用SKU文字猜实际装量。
+
+三、七条主线当前状态
+
+1. Coupon全库审查：本轮调查完成。
+已扫34/34页，333报价、274 ASIN；当时129有货FBA报价/128 ASIN/6030件，费用快照6031件属时点差。77个未覆盖FBA候选逐项核价格、企业阶梯、库龄、销量。不是全部都应该加券；后来用户要求只优先明显积压、低实际需求、老库存附加费压力。证据coupon-expansion-77-complete-readonly-audit.json/.txt、coupon77-demand-recheck.json、coupon77-demand-and-aged-fee-recheck.json。
+待办：不重扫全部34页，只更新拟改动商品的当前价格、库存、费用、销量和资格。
+
+2. 同款较好页面、FBA+MFN双报价：部分完成。
+129有货FBA报价映射完成；12组重点候选和19个公开页面复核完成。已发送30315和三组条件性复核工单，尚无任何新目录合并被验收成功。PSS32已被拒绝，见后文。保留301两页并行例外，不强制并页。
+待办：54条身份/报价待核、18条目录MFN未见有货的全量缺口仍未逐条关闭。已有同ASIN FBA+MFN不等于两种履约都能买。读samepage-stocked-fba-execution.json/.txt、samepage-live-decisions.txt、merge12-concrete-review.txt。
+
+3. 实际扩券：本轮最终配置已验收。
+15%券22 ASIN，预算200美元；5%券12 ASIN，预算100美元；均到11/29，最终共34，集合不重叠、逐商品错误栏为空、状态RUNNING。
+15%活动ID e9451bbb-a502-4a49-a82e-77c468ac0f87；5%活动ID 6de47649-9a49-4c38-9310-5261c67f26ee。
+证据coupon15-final22-product-acceptance.json、coupon15-final22-status.txt、coupon5-final12-product-acceptance.json、coupon5-final12-live-acceptance.json和相应截图。
+预算是平台规划金额，不称绝对支出硬封顶。设置保留不与其他百分比/买赠促销叠加，但普通价/企业价/Coupon的实际组合仍须重算。
+073未追加Coupon；5021x2与VC6034按用户指示暂缓；保护满胶明星，不自动给15%。原旧50/42草稿不得提交。
+待办：以后按用户授权观察真实成交、领券转化和费用；不能拿10/31新增券解释10/28—30订单。
+
+4. 上传、文案和价格修复：主要修复已验收，明确尾项仍在。
+37条普通价恢复已核；07两明星价格方案、09的073企业价/三阶梯已验收。11三SKU15条卖点已保存且99300消失。12正式回执512行处理，413 SUCCESS+99 SUCCESS (OTHER ERROR)，0 FAILED；4903提交值匹配，回执100476/99300均为0。13用途Office刚提交待处理。05只剩AAAA 4A 6032最低价24.99未清。其余目录冲突、身份、合规不靠重复文案上传解决。
+
+5. 非Coupon其他促销：部分已执行，后续按用户安排暂缓。
+10号四SKU限时价及日期已保存，只有NGGrid企业价/三阶梯已回读；其余3条企业字段尚未确认生效。Price Discounts活动资格和费用未完成确认，没有另创该活动。未来先读10现状，避免重复添加Sale/Coupon。
+历史受限库36 ASIN/37报价、2655件是快照，并非所有都已制定清仓行动。保留原5项促销，不为加新促销覆盖它们。
+
+6. 原旧任务（家族除外）：部分调查/提交完成，仍有外部与资料阻塞。
+GM406SL-10运费案已发，尚未修复；BS1801组合现态和最近30天订单已查；原14项未覆盖部分逐项保留在第九节。家族本轮暂停，准备资料不等于已重组。
+
+7. P1主图、内容、A+、视频、增长：本轮暂缓。
+文案政策错误修复属于第4线，不应把它算成全套SEO/转化内容完成。既有图片和视频项目仍可续接，不能从零重做或误称已发布。
+
+四、01—13批次台账（禁止直接重传历史文件）
+
+01 01-price-title-fixes.xlsm
+批次284829020757，10/31 21:13；106条，上传状态显示1/106需操作。曾批量处理标题/价格，但其中普通价82处变化、企业价29处变化，需要事故审计。这不是可复用的正确价格模板。价格问题后续通过逐SKU回退和新方案处理，勿上传01覆盖已修复数据。
+证据v1-price-incident-audit.json/.txt；官方回执D:/下载文件/01-price-title-fixes-processing-summary.xlsm。
+
+02 02-restore-original-skus.xlsm
+批次284828020757，10/31 21:12；9/9处理完成，作用恢复原SKU。恢复SKU和恢复正确售价是两件事；2028、holder、6032价格曾随该批下降，后续恢复处理，不能用9/9直接证明没有价格事故。
+证据v2-nine-restores-audit.json、other-price-operations-audit.json/.txt、root-price-recovery-log.json。不要混同更早restore-batch-01-fixed批次284786020757的6/7与New_Version批次284780020757的0/7。
+
+03 03-catalog-errors-consolidated.xlsm
+批次284873020757，11/1 00:01；164处理，151 SUCCESS+13 OTHER，0 FAILED。实际有值列C/D/E/I/J/L/M/T/BG，无价格字段。原残余第一点问题后续由手工4013、04、06、11等分批处理。
+注意处理回执里的AT位置是回执移位后的第一点，不可直接按原模板AW第五点理解。证据processing-comments.json、other-price-operations-audit.txt及03官方回执。
+
+04 04-reviewed-nonincident-fixes.xlsm（v4）
+批次284929020757，11/1 04:14；146 SKU/134 ASIN，130文案修复+16获批价格配置。回执20 SUCCESS+126 OTHER，0 FAILED。没有写item_name，不能说改了130标题；普通售价MJ没有写。
+16条价格配置已回读，后07覆盖其中两明星促销策略。原Sale日期11/1开始、11/30 00:00结束，覆盖到11/29。企业价/阶梯不会随Sale自动到期。
+证据v4-processing-receipt-audit.json、v4-price-live-acceptance.json、v4-approved-price-rows.json；官方回执04-processing-summary存在多个副本，audit JSON指向(1)版本。原130文案不能仅凭回执声称买家全量发布，后12进一步覆盖文本错误。
+冻结SHA256：6d7ff33a9e45ccb7ec071b2cfce783f56354b149dace88f7050aef16ff606e6b。
+
+05 05-remove-temporary-minimums.xlsm
+批次285080020758，11/1 12:26；4/4 SUCCESS。目的仅清事故恢复临时最低价。
+已验收清空：AAAA 4A 303-AC-holder（普通17.99）、AAAA 4A 608-N-L-210（14.99）、303-AC-holder（11.60）。
+未验收清空：AAAA 4A 6032，普通24.99/最低仍24.99。官方模板最低价I列删除枚举已经确认；H列实际是Pricing Rule，不可乱用。该SKU网页也单独清除提交过，后续仍显示旧值。禁止设0、假低价或修改普通价凑通过；下一步先自然时点回读，再按已提交证据诊断支持。
+证据05-final-minimum-acceptance.json、05-min-delete-diagnosis.txt、05-min-delete-operation-log.json、05-6032-late-readback.txt。
+
+06 06-three-skus-five-bullets-only.xlsm
+批次285093020758，11/1 12:58；3 OTHER、0 FAILED，继承3个99300及3个8541颜色冲突。189/B07B8DSVRB、001/B01NCQST12、078/B01NCQ7U0X，新15条卖点在新卖家编辑页均已精确保存。旧目录展示文字/颜色错误仍在，不能连续重传同一五点。
+证据06-after-description-189.txt、06-after-description-001.txt、06-after-description-078.txt及06官方回执。
+剩余：核正确颜色/实物和买家发布；不得为去8541随便把Neon Assorted改Red或把真实12本改成目录错误装量。
+
+07 07-star-full-adhesive-price-reset.xlsm
+批次285106020758，11/1 13:44；2 OTHER、0 FAILED，只有继承100476，不是价格失败。已独立验收：
+- 305-Full Adhesive / B0FBG138ND：普通10.99，Sale10.99（去除额外经济降幅），企业9.49；2/5/10件3%/4%/5%，单价9.21/9.11/9.02。
+- 302-Full Adhesive-400 / B0F2TKL2P5：普通17.99，Sale17.99，企业17.56；2/5/10件2%/3%/5%，单价17.21/17.03/16.68。
+日期保留11/1至11/30 00:00；普通价/库存不改。303满胶22.99/企业21.84、2件3%；304满胶9.99/企业9.69、3件3%保留，不自动加券。
+证据07-live-pricing-acceptance.json、07-live-inventory-302/305.txt、07-live-tiers-302/305.txt。
+
+08 无正式上传文件、无批次、无线上家族操作。
+08只是354818家族方案编号。family08-attach-fields-prepared.json是条件性字段规范，不是可直接上传文件。不得把编号缺口补成新上传。
+
+09 09-073-business-only.xlsm
+批次285135020758，11/1 15:16；1 OTHER、0 FAILED，继承100476，无价格错误。后续自然传播已验收：4A073/B00SMEEVKQ普通10.99不变，企业9.49；3件2%=9.30、5件3%=9.21、10件5%=9.02。
+旧企业4.49并不能证明是本轮新事故：2026总表的4.99是商品价，另列运费4.99，没有企业价列。9.49是用户批准的新策略，勿称“历史企业价恢复”。没有为073加Sale，也未追加Coupon。
+证据09-live-business-acceptance.json、09-073-late-readback.txt及阶梯回读。不要因早期09-073-independent-readback仍4.49而重复写。
+
+10 10-four-noncoupon-promotions.xlsm
+批次285143020758，11/1 15:46；4处理，004=1 SUCCESS，另外3 OTHER，0 FAILED、0价格错误，48提交值与回执一致。
+四款普通价都保持不变，Sale均已保存11/2开始至11/16 00:00结束（完整覆盖11/15）；11/1尚未开始，不能把当天前台普通价当同步失败。
+- AAAA 4A PSS 9-1 NGGrid / B07FK7PBHJ：普通19.99，Sale17.99，企业17.49；企业3/5/10件2%/3%/5%已验收，17.14/16.97/16.62。
+- 4A 004 / B01LVXOCU2：普通15.99，Sale14.39；提交企业13.99及3/5/10件2%/3%/5%，最后新页企业字段为空，待验收。
+- AAAA 4A 301x12-N / B07FK8LN8D：普通16.99，Sale15.29；提交企业14.99及同三阶梯，最后为空，待验收。
+- 4A 301x24x2 / B0F7LW38FX：普通25.99，Sale23.39；提交企业22.99及同三阶梯，最后为空，待验收。
+后三款暂停后未再强刷/重传。下一次恢复第5线时先读现值；企业策略持续到另改，不随Sale自动终止。证据10-processing-receipt-audit.json、10-live-pricing-acceptance.json及四套10-live-source/inventory/business-ASIN.txt。
+
+11 11-remaining-three-five-bullets-only.xlsm
+批次285152020758，11/1 16:05；3/3 SUCCESS，无错误。404SL15/B07RQ69Q1Q、406SL10/B07RP85C2P、6032x5/B07RQ5MBBB，共15条卖点新编辑页精确保存、99300消失。没有价格/装量/父子修改。
+证据11-processing-receipt-audit.json、11-live-bullet-acceptance.json、11-saved-ASIN.txt。
+
+12 12-catalog-text-repairs-only.xlsm
+批次285175020758，11/1 17:26，一次正式提交；首次选文件曾预验证502，未生成批次、未点提交，刷新后成功，不存在两个正式12批次。
+512精确SKU/406 ASIN；409标题+409亮点配对，169描述，1356条卖点文字（272组）。共4903填入单元格；没有价格、库存、颜色、装量、父子字段写入。标题最长75，亮点最长122。
+回执18:00已得：413 SUCCESS、99 OTHER、0 FAILED，4903值0差异。100476/99300在此回执均为0；这不证明512个买家页面全量发布。
+提交前发现4A6032/B07DJPQ7GW是24 Tabs/Set而非Pads，已只修该标题后冻结并上传。不要混淆另ASIN B07FK81CQ7（GM6032*2旧源写5 Pads，实物仍待证）和B07RQ5MBBB（6032x5）。
+新出现的重复亮点100470：4A GM60171*3/B07FK9VK5L，已在线只改亮点为“Sign Here and Note flags; transparent, writable color tabs for marking documents”，提交后独立新页回读精确、100470消失。
+3条标题语言100720：GM124418*3/B07PY1BY5F、GM484812-N*2/B07FK81CQ6、GM50024/B07RP9BW5Z，新页面标题亮点精确、English已选、提示消失；未重复改写。第4条语言为40608*2品牌/制造商，未改。
+另4A012/B01NBKUSIP已有单独清空亮点并独立回读、100476消失，长标题保留；不是所有SKU必须统一缩短。
+冻结SHA256：aac5be52a7d6cf7bb6904f51c2f4d436f08dd19355908bd3f5e818de2cd3ed11。
+证据12-final-processing-summary.json、12-processing-receipt-audit.json、12-package-verification.json、12-main-independent-check.json、12-one-highlight-saved.txt/png、12-language-124/484/500-before.txt。注意package-verification里的uploaded:false是制作时快照，后上传证据优先。
+
+13 13-0146-office-only.xlsm
+批次285196020758，11/1 18:41；最后状态N/A、进行中，尚无回执，也尚无Office生效/100095消失的独立回读。
+只一行六格：C7=4A 0146，D7=WRITING_BOARD，E7=Edit (Partial Update)，L7=ASIN，M7=B0778HMZ9W，GD7=Office。GD为recommended_uses_for_product，en_US #1。原界面办公室非法，官方Valid Values!B124对应WRITING_BOARD推荐用途、L124=Office。
+其他数据格全空；Artifact写入/最终导入六值精确；仅Template sheet5.xml改变，官方其余ZIP部分原样。源文件本身无vbaProject.bin，不声称存在宏。
+冻结SHA256：496f9daed5abe6d62a72ecbf56e5ff92cd3182a52556022d68d491a61cc18fa8。
+文件经主线程独立QA后上传，AI增强未勾选，正式提交仅一次。此前网页输入Office未形成编辑，已Cancel，没有另一笔网页成功修改。
+下一步：打开已存状态页，核此批次；处理结束后下载回执按精确SKU和GD语义核对；再打开全新0146编辑页看Office保存且100095消失。未处理完则记pending，不重传，不扩字段。
+证据13-package-verification.json、13-readable-check.png、13-upload-submitted.txt/png。状态页地址：https://sellercentral.amazon.com/listing/status?reference_id=285196020758&account_id=amzn1.merchant.o.A2O6EHY2KJ4BXE
+
+五、12残余99行及62条目录/映射问题如何接手
+
+99是原回执的互斥主分类，不是当前尚余99个新失败，也不是改动全部未写入：
+家族/套装21；SKU/ASIN匹配23；目录属性冲突39；合规/限制4；图片4；语言4；其他枚举2；已修重复亮点1；支持诊断1。每行可有多个code，详见12-final-processing-summary.json的all_codes与12-processing-receipt-audit.json原文。
+枚举两项：0146已13提交；6035x2/B0CCDCTBBV当前unit count/type为空，产品详情无90244，未猜值修改；其报价页另有8错误，尚未展开处理，不能擅填价格消错。
+
+39目录冲突+23匹配=62条已离线逐SKU对库存、状态和历史订单：residual62-closeout.json、residual-closeout-brief.txt。
+库存优先：4条错误精确SKU本身有FBA共22件，另1条同ASIN另一SKU有2件；16条只有MFN申报库存；41条无可售或零库存草稿。
+先核5条：
+- 4A 039 / B01N1T23HH，FBA12，color。
+- 4A 040 / B01N7IT411，FBA5，color。
+- 4A 0166 / B0784GHSVJ，FBA3，color。
+- 4A 037 / B01M617ZTH，FBA2，color。
+- 4A095 / B01M2UDADZ，错误SKU本身不能视为有2件；同ASIN另SKU 4A 66114 FBA2，manufacturer。
+62条全部仍在11/1报告有精确SKU记录；23不能匹配全部Incomplete且MFN0。不能仅凭8567/13013说“已不存在”或删除重建。
+目录字段细分：20 color需实物/包装/UPC；13 item_classification涉及身份/父子，按家族暂缓；3 manufacturer需包装/发票真实名称，China不是制造商；3 standard_product_id需原UPC/GTIN与型号装量核实。
+这些库存依据11/1 02:46 FBA扫描，缺失FNSKU回退10/30库存；SKU状态/MFN取11/1全商品报告。历史订单来自10/31导出，不是当前实时库存销量。接手只刷新计划处理的有货5条，别因旧数量去改库存。
+
+特殊限制资料清单：
+- CR012/B0822QC8Z2：ps_toys_dv_us要求真实合规材料，具体文档类型以对应入口为准；准备实物型号、包装标签、制造商及已有真实检测材料，改标题不等于解冻。
+- 305黄色/B01N0R4QI8：18370详情页商标提示，取完整绩效/侵权通知、被指向内容、包装/UPC、真实授权或来源凭证；回执未给权利人明细，不猜权利人、不代编授权。
+- 024/B01MEBRJQE：100227版权、19083商品商标、19084其他限制，分别核被投诉图文/图案来源与商标证据，不通过换SKU/换页绕过。
+
+六、客服案台账与下一步
+
+1. 30315，case 22923307871。
+旧答复拒绝理由15Pads与15PadsValuePack差异；本轮已基于厂家页等重新补证，11/1 17:14全文+3附件发送，最后正在处理。厂家页支持3x3、15色、15本、每本100张，但未给UPC；历史UPC702877122860与当前目标702877124116冲突仍如实留案，不得写成条码完全相同。
+下一步看本案新回复，不重复建案。证据30315-support-send-verification.json、30315相关sentbody/result/png和厂家证据。
+
+2. PSS32x6，case 22934108221。
+18:01建案，18:09全文+2附件补齐。保留活跃B08DKJ2K3T，旧B08CVLH794；UPC702877126561与702877126578不同。18:28Amazon已回答拒绝：同父B0HPTC18T2下Pack44与Pack6不是重复。
+当前不是等待处理，更不是已合并。下一步先补真实规格/编码/包装证据，纠正错误Pack后再决定复核；本轮未再回复或动家族。
+证据merge-pss32-reply-1828.txt、merge-pss32-sent-final.txt/png、merge-support-packages/pss32x6/。
+
+3. 406粉彩六本，case 22933634461，18:33全文+2附件已发送回读，正在处理。
+保留B07FKL263W，核旧B01MSZS7M3、B01MDJCWVH；三个UPC不同，目录有lined/Pack3混乱，要求身份核实后才条件性合并，不是无条件要求强并。
+证据merge-406pastel-sent-final.txt/png、merge-support-packages/406-pastel/。
+
+4. 406荧光六本，case 22934554591，18:43建案，18:48全文+2附件发送回读，正在处理。
+保留B07FKHHTY4，核旧B01MSZSEBW；UPC702877117477与702877118931不同，Pack4/10等污染不能当实物事实。
+证据merge-406neon-sent-final.txt/png、merge-support-packages/406-neon/。
+
+5. GM406SL-10运费/不可买，case 22933941801，18:00提交，正在处理。
+目标466申报库存、17.49、列表运费1000001，纽约10001买家端不可用；对照GM608SL-5同Heavy模板、106件、18.99、运费26.35正常。两者卖家weight/handling都空，目录重量约1.066/1.061kg，不能凭猜重量改模板。
+完整说明、库存截图、同模板对照三附件已核。未修好运费，未验收买家可买。
+证据mfn-support-send-verification.json、mfn-p0-two-sku-comparison.json、mfn-p0-support-ready.txt、mfn-support-sent-result.txt/png。
+
+统一工单入口：https://sellercentral.amazon.com/cu/case-dashboard/view-case?caseID=对应编号
+统一证据merge-three-cases-send-verification.json、closeout-case-lobby.txt/png。该汇总文件18:50落盘，记录的是18:49前已完成的动作，没有18:49后的线上复查。
+没有向其余6组发信。merge-additional6-support-drafts-unsent.txt仅草稿：4条件性复核+2身份诊断；不要误当已授权发送。merge12-concrete-review.txt记录12组：303已发、7条件性、305/608两组身份阻塞、301两组保留例外。
+
+七、事故根因及价格保护规则
+
+确认的问题是价格来源和实际履约口径混用：Excel标价另有N4.99/B9.99/H11.99/2H22.99物流列，直接套到FBA包邮活跃SKU会大降。5082从11.99写5.99已证实；004曾15.99到9.49；073手工10.99到4.99与v1分开；02恢复还带入2028、holder、6032下降，不能只审01。
+82普通价改变不全是已确认事故，审计中58“未见同模式”也不等于核准安全。当前37普通价恢复已核，证据restart-37-price-reconciliation.json、root-price-recovery-log.json、agent2-price-recovery-log.json、audit14-operation-log.json等。8个MFN报价口径另队列，不全称事故，也未全可买验收。
+复核新价格必须逐精确SKU/ASIN/渠道/装量/历史价：普通价+运费到手价、企业基价、最深数量阶梯、Sale和Coupon同看。最低价变化不是普通价变化，后台建议价不是实际价。不能对修改前就已有的4.49企业价强行归因本轮。
+回款估算常用扣15%佣金及当前FBA费，只是未扣采购/头程/仓储/广告/退货的余款，不是净利润；低售价可能改变费率，负估算不等于已发生结算亏损。
+明星满胶10/2—10/30有242单、241单普通价成交，不能归功于11/1新Sale。用户批准保护长期款价值，不能为了清库存一律降价。
+保护已运行Coupon与原304400等既有促销；新增任何促销前看最深叠加，不重复覆盖企业阶梯。不擅改共享配送模板。
+
+八、1801最新订单、组合与按钮结论
+
+18:22 Seller订单页最近30天：B07K8L4K8K原页10/21有效1单1件17.99；B07JVSYNYV另一页10/31两笔取消、0有效；替芯B0F2TJZ8GM及组合B0FGJR49SW均0单。没有旧导出后新增有效成交。证据1801-orders-live-summary.json。
+三者没有统一为变体按钮。替芯页“此商品捆绑销售”展开可跳组合25.99；组合买家页显示可买、库存1、我方销售Amazon配送。主件17.99、库存1；替芯18.99、库存37，组合限于主件1。后台29%预览26.26与前台25.99差0.27，只记录未改价，没做买家结算，不称运费已核。
+替芯旁“经典什锦”18.49按钮实际点到B07WHYRJ6H/PSS10，不是1801，已证实目录混杂。未更改家族。
+证据bundle-bs1801-acceptance.json、bs1801-sales-and-switch-review.json、bs1801-switch-main/alt/refill.txt、bs1801-refill-other-option.txt、bs1801-refill-bundle-entry.png。
+下一步：若用户恢复家族工作，再用实物身份整理主件/替芯/组合页面关系；不能把替芯或组合直接当主件颜色变体，不能因按钮混杂就迁移FBA。
+
+九、原14项完整待办：哪些没有被本轮覆盖
+
+1 原SKU恢复：已有恢复与FBA无在售信息清零证据，5条FBM恢复305申报数；ST303X12NZ在售858件/10.99但巨额运费仍影响实际成交。继续检查有货恢复商品可买，不能只看Active。4A003真实装量另核。
+2 价格/Buy Box：37普通价恢复、07/09策略已验收；05的6032最低价、零库存大降幅候选、8 MFN报价与剩余Buy Box、6035x2报价8错误未全关闭。不要把可编辑字段值当买家Featured Offer。
+3 运费：GM406SL-10已发支持；4A000、BP2222 FBM、ST303X12NZ、GM40612-L、GM40612历史1000001尚无各自解决证明。四款7.99/单+2.99/磅模板分配已核，买家结算运费、真实邮资/拣配成本未全核。BP1111曾列表13.31不是全店正常证据。
+4 目录回执/政策文本：03—13的已接受/已回读如上。12买家发布并未全验；颜色、品牌制造商语言、图片和支持诊断残余要按字段分类，不重复乱传同标题/五点。
+5 家族/真实包装：全店重排未执行；301/2028/3548/4848/BP/PSS等仍待。保留真实x2/x4与循环色M款，禁止为评论并不相关货。354818最小方案已有实物/历史依据：18本B07DJKDB63、36本B07FK6867S、72本B07MGH2KWS，4SKU/3ASIN；18色、长边胶。公开父B07N1DX3D1与卖家PARENT-4A-301-MINI-PADS/B0HPTS61KJ冲突。准备先支持解绑确认，再COLOR/NUMBER_OF_ITEMS新父方案；不得删SKU/旧父替代解绑。family08-safe-sequence.txt、family08-support-request-draft.txt均未发送。家族恢复时重新确认当前官方规则与真实目录状态。
+6 同款好页/双报价：129映射完成不是全量执行；54身份/报价、18未见有货MFN继续留待。PSS93厘米/英寸、305300新旧尺寸差异；2028两个8本ASIN不能制造同父重复款。301用户允许两页并行例外保留。
+7 合并/客服：五案状态如第六节。PSS95替芯100899重复变体、4012重复颜色未解决；301人工核查未发送。5088/5082/5084当前活跃评分优于旧VC，别盲转旧页；404S6存在第三ASIN映射冲突；305x6NLx4旧B07M8558B2当前转302满胶B0F2TKL2P5、608候选4本荧光与2本黄绿不同，先身份诊断。
+8 套装/多包装：1801本轮已做上述检查，但x2/x4单位价与多买单包叠加优惠、运费比较没有全做。4A003/B01N9HHKRM与301x24-Y旧表244.99/8.49，标题1152本与属性48本冲突；88是MFN申报数量，不是88件/包。无实物证据不改数量/价格。
+9 全库存清仓：不是只清最初几款，也不是给77全加券。本轮完成34最终券和已存促销；受限88 ASIN/36有货FBA的余项尚未逐个安排。FBA高库龄低需求优先，FBM后排，明星保护。实际老库存附加费账单和历史销毁未取得；曾下载被浏览器阻止，用户随后叫停深查，不能编“无收费/无销毁”。
+10 企业优惠/购物车阶梯：04的16配置、07/09验收；10三项待回读。全目录倒挂、普通买家购物车优惠、Business Deals、Outlet、Price Discounts资格和费用尚未完成。现有企业价/阶梯要设未来复查，不假定Sale结束自动撤销。
+11 销量/推流归因：已有10月、接手前后、地域、周六分析和77需求审查；不等于逐商品广告/流量/优惠完整归因。事故影响按实际订单、件数、实结算分别核；取消单不算销量，pending单分列。10/31券不解释此前销量。
+12 广告增长：有渠道优先级研究，但既有广告审查和新SKU预算/期限/回款边界没有完整执行验收；不擅增无限预算。
+13 主图/内容：主副图、关键词、A+、视频、转化P1本轮暂缓。原PSS32x6/5084NL/301x12共15图及30315/5082/406x6风格项目按原素材清单续接；先确定已有稿/渲染/发布层级，别把审稿当交付。4A354818已有Flow/视频素材在根目录相关目录，用户之前要求优先编辑已有素材，不能未经新指示另做一轮生成。
+14 特殊限制：CR012、305Y、024真实资料阻塞如第五节。标题去促销词并不等于商标/版权/合规限制解除。
+
+十、建议接手顺序及结束标准
+
+第一步，仅只读复核13批次与05单SKU尾项，再看五客服案新回复。记录查询时间、状态与是否比18:49有变化；不用重开工单，不用上传历史01—13。
+第二步，按用户当前优先级处理P0有货不可买、目录5条有FBA的真实身份问题。资料不够时列具体缺资料，不猜值过检。客服有答复时先读全文，再决定有没有需要执行的合法目录修正。
+第三步，恢复第5/家族/第7前，先向用户明确当前要续哪块；旧暂停不是永久禁令，但也不等于现在全面恢复。只做获准范围。
+第四步，后续每次新写入都先保存当前精确SKU/ASIN/渠道/价格/库存快照，再做最小文件；未授权字段留空。冻结已上传文件，新增修复另编号。跨代理按互斥SKU和ASIN共享属性分工，不能两人同时改同字段。
+验收要留：实际提交批次/Case ID；正式回执；新页面保存值；涉及前台效果时买家页；残余问题与下一步。平台仍处理中就标pending交接，不重复上传、不声称后台自动监控。
+
+本交接没有删除任何文件，没有新增浏览器操作、客服消息、上传、价格/库存/家族/配送改动，没有更新全局记忆。
+
+附录A：最终运行Coupon精确ASIN集合（来自已验收产品列表，不是旧计划）
+15%：B07QWKYQV7, B07FKHHTY4, B07DJKB4FZ, B07RP9BW5Z, B07QWKWWP2, B07T7PTYQ2, B0F2TJZ8GM, B07FKB3BRZ, B07QZR9Z3P, B07FKHHTYG, B07R2KSW34, B07QXJY3FH, B00SMEENOU, B0F2YHTD8T, B07QWKYMGM, B07FKF5V92, B07RP9K6KV, B07FK8MF91, B0F2TJ7ZL7, B07FKFMJTL, B07FKJLZNG, B07DJKDB63
+5%：B0F9L5G6XQ, B07QVKPZXX, B07FK9S7S8, B07FKJM2LX, B07B8RBCKT, B07JVSYNYV, B07F2B49BL, B07QXJYKJN, B07FKBHTDG, B08DKJ2K3T, B01LVTWP7Q, B07MQVWLSY
+
+附录B：D:/下载文件/ 中已存在的本轮官方回执
+01-price-title-fixes-processing-summary.xlsm
+03-catalog-errors-consolidated-processing-summary.xlsm
+04-reviewed-nonincident-fixes-processing-summary (1).xlsm
+04-reviewed-nonincident-fixes-processing-summary (2).xlsm
+04-reviewed-nonincident-fixes-processing-summary.xlsm
+05-remove-temporary-minimums-processing-summary.xlsm
+06-three-skus-five-bullets-only-processing-summary.xlsm
+07-star-full-adhesive-price-reset-processing-summary.xlsm
+09-073-business-only-processing-summary.xlsm
+10-four-noncoupon-promotions-processing-summary.xlsm
+11-remaining-three-five-bullets-only-processing-summary.xlsm
+12-catalog-text-repairs-only-processing-summary.xlsm
+02本轮状态页已证9/9，当前此目录没有以02-restore-original-skus开头的正式处理回执文件；不要用更早restore-batch回执替代。
+13截至交接截止点未取得正式回执；仅有提交批次和进行中截图。
+
+
+附录C：本交接包中的文件位置
+本包02为已提交历史文件，不可直接重传；03为验收与待办证据；04为已取得处理回执；05为带日期的源数据快照；06为D盘只读审计。本文未复制的证据仍在前文给出的E盘工作目录，可按清单精确读取。
+D盘旧“核心在用”不包含当前01—13修复文件及全部最新回执，不能替代本交接。详细D盘判断见根目录02_D盘清理判断复核.txt。
