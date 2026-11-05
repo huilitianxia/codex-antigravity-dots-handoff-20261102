@@ -1,3 +1,5 @@
+> **最新补充：2026-11-05 傍晚完整讨论（北京时间 17:30–19:48）** → [本轮接手入口](progress/dragon-20261105-evening/README.md) · [68 条完整原文](progress/dragon-20261105-evening/DISCUSSIONS.md) · [结论与待核事项](progress/dragon-20261105-evening/DECISIONS_AND_STATUS.md)。354818 改价回读未保存，301N 未提交，用户已要求先停；多包装仍是只读研究，不能自动执行。广告预算 $112/$116、订单归因和旧摘要“全店清零”尚有证据缺口。此新批次只归档，旧内容全部保留。仓库当前为用户已知的公开仓库；下文旧的“私有”字样是历史状态。
+
 # 4A / Amazon 业务交接 · Codex + Antigravity
 
 > **最新进展：2026-11-05** → 见 [progress/20261105/README.md](progress/20261105/README.md)（含 11/4 PST 订单归因复盘、全店定价健康清零、广告零增额重平衡）。

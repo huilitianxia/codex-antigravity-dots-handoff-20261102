@@ -1,3 +1,5 @@
+> **最新补充：2026-11-05 傍晚完整讨论（北京时间 17:30–19:48）** → [本轮接手入口](progress/dragon-20261105-evening/README.md) · [68 条完整原文](progress/dragon-20261105-evening/DISCUSSIONS.md) · [结论与待核事项](progress/dragon-20261105-evening/DECISIONS_AND_STATUS.md)。354818 改价回读未保存，301N 未提交，用户已要求先停；多包装仍是只读研究，不能自动执行。广告预算 $112/$116、订单归因和旧摘要“全店清零”尚有证据缺口。此新批次只归档，旧内容全部保留。仓库当前为用户已知的公开仓库；下文旧的“私有”字样是历史状态。
+
 # 上传与校验完成
 
 > **最新补充已上传并验收：北京时间 2026-11-04 18:14。** [Antigravity 接手入口](progress/20261104/README.md) · [验收回执](progress/20261104/manifests/UPLOAD_RECEIPT.json) · [原片附件](https://github.com/huilitianxia/codex-antigravity-dots-handoff-20261102/releases/tag/4a-amazon-update-20261104)。638 条近期对话消息、6,033 条公开记录、3,683 份直接入库的业务文件、114 张嵌入图片，以及 1 段 149 MB 原片均已实际上传；数据提交全部 Git 文件哈希和原片服务器 SHA-256 一致，关键入口及附件均可匿名读取。旧归档保留，Dragon 另行导入；用户冻结后的店铺和广告未再改动。下文为 11/2 原始上传记录。

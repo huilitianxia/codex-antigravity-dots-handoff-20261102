@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "batch": "dragon-20261105-evening",
+  "base_commit": "d182bccc639d734b949b747f9a6c67a6204d0be7",
+  "messages": 68,
+  "user_messages": 21,
+  "assistant_messages": 47,
+  "attachments": 1,
+  "new_batch_files": 8,
+  "root_files_prepended": 4,
+  "files": [
+    {
+      "path": "CURRENT_STATE.md",
+      "size_bytes": 7282,
+      "sha256": "6041d8437b32cacb94302996609a6e588171ec7312478bb2c4ad72b1a9546b3d",
+      "git_blob_sha1": "be62e7ee898c49c02bf6f311a8c61f729e45796f"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 2556,
+      "sha256": "77676ad3a9ceb523975a19f3a8aebf87545eedd50abce3082c9b1e6132a3da92",
+      "git_blob_sha1": "bfdf60ce62ee45d51a71a42cb54f042b7c8b7752"
+    },
+    {
+      "path": "START_HERE.md",
+      "size_bytes": 6228,
+      "sha256": "a49a2a06597ac045807f6240c16fd87314418d29a284c5c420ae96ef1875ca0a",
+      "git_blob_sha1": "4e3115c5c2df9c02d4d6693a446e31dcfedd25cb"
+    },
+    {
+      "path": "UPLOAD_STATUS.md",
+      "size_bytes": 2511,
+      "sha256": "b5c8d25f80b63c147509b24fa28d03accc717e6cd95db53f2d6b04bf9741bd1c",
+      "git_blob_sha1": "4e788e8fed3ba86f2e6da98b664d491a9b34591e"
+    },
+    {
+      "path": "progress/dragon-20261105-evening/COVERAGE.md",
+      "size_bytes": 2588,
+      "sha256": "144099e9de7d9ef40a74cdf6842c3ca5256edcb204fedfc7934eb82c9e0b9041",
+      "git_blob_sha1": "d0663abd4a231205b690db8a957c6786775960d8"
+    },
+    {
+      "path": "progress/dragon-20261105-evening/DECISIONS_AND_STATUS.md",
+      "size_bytes": 11473,
+      "sha256": "a4e6b8b35f86abdb3b060498ffee186b14ba983a956c4e1352c1465cae5473fd",
+      "git_blob_sha1": "cb1dc6c239021dcc26b8824af2971c15bb3796f6"
+    },
+    {
+      "path": "progress/dragon-20261105-evening/DISCUSSIONS.md",
+      "size_bytes": 36207,
+      "sha256": "354932567685e972cc299f31c82c0a4593266ddb9fcdaa48df29334655675527",
+      "git_blob_sha1": "b3c04d0a42140d830eb0cc392c2681c3ea107f43"
+    },
+    {
+      "path": "progress/dragon-20261105-evening/EVIDENCE.md",
+      "size_bytes": 2827,
+      "sha256": "1987d74eeafb99e588188abb7d8245dc54007affdf0867322e842caa80442ee1",
+      "git_blob_sha1": "02a964441a2bd41195db78c7e7ddd51aa65bd7b0"
+    },
+    {
+      "path": "progress/dragon-20261105-evening/README.md",
+      "size_bytes": 3169,
+      "sha256": "d76665f17155ddf24aff3da341f9d9c8fd5d5d6add174f837808c155f6873369",
+      "git_blob_sha1": "fb65b61851de952318a4e4ffc046f805d2fbbc6c"
+    },
+    {
+      "path": "progress/dragon-20261105-evening/attachments/1000074379.jpg",
+      "size_bytes": 329362,
+      "sha256": "b59682bc28f515caed58ec7b8d3c3d15ed8a39ea131b5f08bd206e4951fd2380",
+      "git_blob_sha1": "b12988073911a6c910f0e541d2375ebd5b820e30"
+    },
+    {
+      "path": "progress/dragon-20261105-evening/messages.jsonl",
+      "size_bytes": 41861,
+      "sha256": "ae387a6822e0eab14c6b5178c85b06ebf4d4561e351e8bceddcddb1f0250a4cf",
+      "git_blob_sha1": "a8cc16a9a5a40532ba3d83b71de3af37fe208af0"
+    }
+  ],
+  "self_excluded": "progress/dragon-20261105-evening/MANIFEST.json"
+}
