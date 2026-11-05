@@ -1,0 +1,169 @@
+{
+  "as_of_beijing": "2026-11-05 14:30",
+  "as_of_utc": "2026-11-05T06:58:17.286150+00:00",
+  "orders_attribution_20261104": {
+    "total_revenue_usd": 823.11,
+    "total_orders": 28,
+    "total_units": 48,
+    "direct_operation_attribution": {
+      "revenue_usd": 447.55,
+      "share_percentage": 54.37,
+      "orders_count": 12,
+      "units_count": 25,
+      "breakdown": [
+        {
+          "sku": "4A 303-Full Adhesive-400",
+          "asin": "B07QXJYTZ7",
+          "units": 17,
+          "revenue": 360.72,
+          "note": "4 B2B orders with 3/5/10 quantity discounts"
+        },
+        {
+          "sku": "AAAA 4A 406x6-N",
+          "asin": "B0892BCG3P",
+          "units": 3,
+          "revenue": 34.92,
+          "note": "B2B discounted order"
+        },
+        {
+          "sku": "4A 301x12-N",
+          "asin": "B01LVTWP7Q",
+          "units": 2,
+          "revenue": 11.98,
+          "note": "B2B discounted order"
+        },
+        {
+          "sku": "4A 5084-N-L",
+          "asin": "B07F2DMDFP",
+          "units": 1,
+          "revenue": 12.34,
+          "note": "B2B order"
+        },
+        {
+          "sku": "4A 5082-Y-L-GM",
+          "asin": "B07F2BHFJH",
+          "units": 1,
+          "revenue": 9.79,
+          "note": "B2B order"
+        },
+        {
+          "sku": "4A 302 Full Glue-FBM",
+          "asin": "B00SMEFFRE",
+          "units": 2,
+          "revenue": 5.82,
+          "note": "FBM B2B order"
+        }
+      ]
+    },
+    "baseline_organic_attribution": {
+      "revenue_usd": 375.56,
+      "share_percentage": 45.63,
+      "orders_count": 16,
+      "units_count": 23,
+      "breakdown": [
+        {
+          "category": "Roll Sticky Notes (SCPSS 32x6 & PSS 9-5 NB)",
+          "units": 6,
+          "revenue": 86.94
+        },
+        {
+          "category": "Full Adhesive B2C single pads (303/305/302)",
+          "units": 7,
+          "revenue": 196.65
+        },
+        {
+          "category": "Large Pack 5084*4",
+          "units": 2,
+          "revenue": 71.98
+        },
+        {
+          "category": "5082 Canary Yellow single B2C",
+          "units": 1,
+          "revenue": 19.99
+        }
+      ]
+    }
+  },
+  "ad_budget_status": {
+    "daily_budget_ceiling_usd": 112.0,
+    "net_change_usd": 0.0,
+    "deductions_usd": 29.0,
+    "additions_usd": 29.0,
+    "transferred_to": [
+      "30315 ($13/day)",
+      "5082 series ($16/day)"
+    ],
+    "deducted_from": [
+      "SP_DISCOVERY_301N (-$5)",
+      "SP_VC_REVIEW_R001 (-$6)",
+      "SP_VC_REVIEW_R002 (-$3)",
+      "B3_4012 (-$3)",
+      "PUZZLE_MANUAL (-$2)",
+      "PUZZLE_AUTO (-$1)",
+      "608_KW (-$3)",
+      "BS1801_AUTO (-$3)",
+      "SP_VC_REVIEW_R003/4/5 (-$3)"
+    ]
+  },
+  "pricing_health_resolutions": [
+    {
+      "sku": "4A 4012-B07T-FBM",
+      "asin": "B01M3N310M",
+      "standard_price": 12.99,
+      "min_price": 10.99,
+      "old_b2b": 10.03,
+      "new_b2b": 11.69,
+      "status": "Cleared from Pricing Health, processing in inventory"
+    },
+    {
+      "sku": "4A 039",
+      "asin": "B01N1T23HH",
+      "standard_price": 10.99,
+      "min_price": 9.89,
+      "old_b2b": 4.74,
+      "new_b2b": 10.44,
+      "status": "Cleared from Pricing Health, processing in inventory"
+    },
+    {
+      "sku": "4A 019",
+      "asin": "B01LVZ0GV3",
+      "standard_price": 5.99,
+      "min_price": 5.99,
+      "old_b2b": 5.69,
+      "new_b2b": 5.99,
+      "status": "Cleared from Pricing Health, processing in inventory"
+    },
+    {
+      "sku": "4A000",
+      "asin": "B01N2YLQ23",
+      "standard_price": 6.99,
+      "min_price": 6.29,
+      "old_b2b": 4.74,
+      "new_b2b": 6.64,
+      "status": "Cleared from Pricing Health, processing in inventory"
+    },
+    {
+      "sku": "4A 5082-Y-L-GM",
+      "asin": "B07F2BHFJH",
+      "standard_price": 9.99,
+      "min_price": 9.29,
+      "old_b2b": 5.69,
+      "new_b2b": 9.49,
+      "status": "Cleared and Active (68 units in stock, BuyBox active)"
+    },
+    {
+      "sku": "4A GM30315-Z",
+      "asin": "B07RP82CVJ",
+      "standard_price": 19.99,
+      "sale_price": 16.99,
+      "old_min_price": 17.99,
+      "new_min_price": 15.99,
+      "status": "Cleared from Pricing Health, min price lowered to $15.99"
+    }
+  ],
+  "inactive_inventory_scan": {
+    "scanned_rows": 50,
+    "pricing_errors_remaining": 0,
+    "pure_out_of_stock_rows": 45
+  }
+}

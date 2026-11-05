@@ -1,5 +1,7 @@
 # 4A / Amazon 业务交接 · Codex + Antigravity
 
+> **最新进展：2026-11-05** → 见 [progress/20261105/README.md](progress/20261105/README.md)（含 11/4 PST 订单归因复盘、全店定价健康清零、广告零增额重平衡）。
+
 > **最新接手入口：2026-11-04，已含下午扩大投放及页面核验** → [Antigravity 接手说明](progress/20261104/README.md) · [当前结构化状态](progress/20261104/CURRENT_STATE.json) · [完整近期讨论](progress/20261104/CONVERSATIONS.md) · [本批次文件原件](progress/20261104/FILES.md)。用户已要求暂停新业务改动；Dragon 由用户另外导入。原 11/2、11/3 内容保留为历史，最新订单统计撤回说明继续有效。仓库现由用户设为公开，方便网页版 Gemini 阅读。
 
 这是供 Dots 接续 4A 亚马逊业务的私有资料库。**先读 [START_HERE.md](START_HERE.md)，再读 [CURRENT_STATE.md](CURRENT_STATE.md)。**
