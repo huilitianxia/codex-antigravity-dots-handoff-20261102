@@ -1,0 +1,73 @@
+{
+  "asof_beijing": "2026-11-06 16:30",
+  "conversation_id": "a9c9debb-a9a7-4aef-9dfe-40a94ab2980d",
+  "status": "ready_for_handoff",
+  "variations_batch_23": {
+    "feed_id": "287106020763",
+    "file_name": "23-flagship-9-variations-clean.xlsm",
+    "success_rate": "2 / 10",
+    "next_step": "download_processing_report_and_fix_8_skus"
+  },
+  "product_30315": {
+    "price": 19.99,
+    "coupon": "5% coupon active",
+    "ad_exact_bid": "2.20 - 2.80 + 50% Top-of-Search",
+    "ad_auto_bid": "0.75 + 30% Top-of-Search",
+    "gm30315_z_paused": true
+  },
+  "product_2028_n": {
+    "asin": "B07DJXC4PJ",
+    "sku": "4A 2028-N-B07DJ-FBM",
+    "fbm_stock": 1473,
+    "target_price": 9.99,
+    "target_shipping": "Free Shipping",
+    "ad_plan": "medium_high_bid_sp"
+  },
+  "full_adhesive_orders": [
+    {
+      "sku": "4A 304 Full Glue",
+      "asin": "B00SMEFFRE",
+      "price": 9.49
+    },
+    {
+      "sku": "4A 305-Full Adhesive",
+      "asin": "B0FBG138ND",
+      "price": 10.99
+    },
+    {
+      "sku": "AAAA 4A 304-Full Glue",
+      "asin": "B07FK975YB",
+      "price": 12.34,
+      "buyer": "B2B Enterprise"
+    },
+    {
+      "sku": "4A 302-Full Adhesive-400",
+      "asin": "B0F2TKL2P5",
+      "price": 17.09
+    },
+    {
+      "sku": "AAAA 4A 305-Full Glue",
+      "asin": "B07FK9BYHW",
+      "price": 13.99
+    },
+    {
+      "sku": "4A 305-Full Adhesive-300",
+      "asin": "B07QXJZKHC",
+      "price": 21.99
+    }
+  ],
+  "quantity_discount_recommendation": {
+    "tier_1": {
+      "min_qty": 2,
+      "discount_pct": 3
+    },
+    "tier_2": {
+      "min_qty": 5,
+      "discount_pct": 5
+    },
+    "tier_3": {
+      "min_qty": 10,
+      "discount_pct": 8
+    }
+  }
+}
