@@ -1,65 +1,12 @@
-> **最新补充：2026-11-05 傍晚完整讨论（北京时间 17:30–19:48）** → [本轮接手入口](progress/dragon-20261105-evening/README.md) · [68 条完整原文](progress/dragon-20261105-evening/DISCUSSIONS.md) · [结论与待核事项](progress/dragon-20261105-evening/DECISIONS_AND_STATUS.md)。354818 改价回读未保存，301N 未提交，用户已要求先停；多包装仍是只读研究，不能自动执行。广告预算 $112/$116、订单归因和旧摘要“全店清零”尚有证据缺口。此新批次只归档，旧内容全部保留。仓库当前为用户已知的公开仓库；下文旧的“私有”字样是历史状态。
+# Current Operational State (As of 2026-11-06 16:30 Beijing Time)
 
-# 当前业务状态 · 2026-11-02
+> **Repository Link**: [codex-antigravity-dots-handoff-20261102](https://github.com/huilitianxia/codex-antigravity-dots-handoff-20261102)  
+> **Latest Progress**: [`progress/20261106/HANDOFF.md`](progress/20261106/HANDOFF.md)
 
-> **最新接手入口：2026-11-05（含 11/4 订单全量归因复盘、广告零上限重平衡、全店定价停售清零）** → [2026-11-05 接手说明](progress/20261105/README.md) · [当前结构化状态](progress/20261105/CURRENT_STATE.json) · [订单归因报告](progress/20261105/ORDER_ATTRIBUTION_20261104.md) · [讨论与执行记录](progress/20261105/CONVERSATIONS.md)。全店因企业价低于最低限价引发的停售已全部解除并清零，广告预算净增额 $0.00。
+## Summary of Active Operations
+1. **301 Family 9 Variations**: Batch 23 (`287106020763`) submitted. 2/10 passed, 8 require reviewing the processing report.
+2. **30315 Product**: Price set to $19.99 with 5% coupon active. SP exact raised to $2.20-$2.80 (+50% Top), SP auto raised to $0.75 (+30% Top). 30315-Z remains paused.
+3. **2028-N 2x2**: Ready to change FBM to Free Shipping and price to $9.99 (stock 1,473 ready to overtake Buy Box when AMZ/FBA 7 units sell out).
+4. **Full Adhesive Series**: 6 SKUs actively receiving orders (including enterprise orders). Recommended quantity discount: 3% off for 2-4, 5% off for 5-9, 8% off for 10+.
 
-> **最新接手入口：2026-11-04，已含下午扩大投放及页面核验** → [Antigravity 接手说明](progress/20261104/README.md) · [当前结构化状态](progress/20261104/CURRENT_STATE.json) · [完整近期讨论](progress/20261104/CONVERSATIONS.md) · [本批次文件原件](progress/20261104/FILES.md)。用户已要求暂停新业务改动；Dragon 由用户另外导入。原 11/2、11/3 内容保留为历史，最新订单统计撤回说明继续有效。仓库现由用户设为公开，方便网页版 Gemini 阅读。
-
-> **最新接手入口：北京时间 2026-11-03 01:50 快照（含 01:54 分工与订单纠正）** → [本轮进度与未完事项](progress/20261103/README_PROGRESS_20261103_0026.md) · [结构化状态](progress/20261103/CURRENT_PROGRESS_20261103_0026.json) · [新增已提交批次清单](progress/20261103/SUBMITTED_ARTIFACT_MANIFEST.json)。B17 已在售并核对库存闭环；B18 因高价限制不可售，单次 $7.20 尝试已获保存回执但尚未确认持久化，禁止重复创建、扣库存或继续降价。只同步文本与原件哈希清单，新二进制未上传。下文保留原始 11/2 交接历史；状态冲突以最新有日期的独立证据为准，不代表全店分类或历史报错清零。
-
-
-本页整合 Codex 与 Antigravity 的本地记录及正式回执。助手对完成程度的表述与正式证据冲突时，以证据为准；这里没有重新操作后台。
-
-## 8 个 FBM 已完成
-
-用户明确授权保存提交后，8 个报价均已保存，并在独立库存页面核对在售、商家配送、价格和库存一致。FBA 未改动。
-
-| SKU | ASIN | USD | 数量 |
-|---|---|---:|---:|
-| 4A 4012 | B01MZ1PQQ8 | 23.99 | 50 |
-| 4A GM-SC-PSS 9-1 NYNRx2 | B07FK7PBHJ | 19.99 | 30 |
-| 4A 301x24 | B01LVXOCU2 | 12.99 | 50 |
-| 4A GMVC6043 | B01M986R0Y | 8.99 | 30 |
-| 4A 020 | B01NGWHSK1 | 14.99 | 20 |
-| 4A 027 | B01MXYR202 | 11.99 | 30 |
-| 4A 030 | B01MXYQPE1 | 11.99 | 30 |
-| 4A-MEETING-52X4 | B082WMV9NQ | 64.99 | 10 |
-
-证据原路径：`E:/OpenAI-Codex/天皇のcodex/work/fbm-eight-draft-20261102/final-live-acceptance.json`。301 以 `301-final-live-latest.txt` 和 `301-price-12.99-confirmed.png` 为最新证据；较早显示 9.49 的文件是过程中间态。后台验收不等于所有邮编结算运费均已验收。
-
-## Gemini 后续批次：不要沿用“全部完成”的说法
-
-| 批次 | 正式回执结果 | 接手含义 |
-|---|---|---|
-| 13 | 1 SUCCESS，有 18448 警告 | Office 对应字段已接受；推荐用途仍有警告，缺独立新编辑页验收 |
-| 14 | 18 OTHER、1 ERROR | 目录冲突等残余未清 |
-| 15 | 24 SUCCESS、1 OTHER | CR012 合规、PSS32 重复变体警告仍需处理 |
-| 16 | 1 SUCCESS、13 OTHER | 不能认定 14 行家族搬迁全部完成 |
-| 17 | 7 SUCCESS，无错误/警告 | 批次 285252020758；仍须区分回执与买家展示 |
-| 18 | 6 OTHER | 批次 285255020758；0166 仍有 8541，另有 100476 |
-| 19 原版 | 21 OTHER | 原回执 00:04 |
-| 19 后版 | 5 SUCCESS、26 OTHER、7 ERROR，共38行 | 01:28 回执；价格进入了不相符的 Cosmetic/Renewed 等列。当前工作区文件后来重建为73行，不是这次已上传版本 |
-| 20 | 273 SUCCESS、106 OTHER、24 ERROR，共403行 | 已提交处理，家族未全成功。先处理错误及 OTHER，不能称“全店零冲突” |
-
-20 的 03:02 和 09:54 两份回执内容相同，SHA-256 都是 `6a418c19e489b06eb2b5be85603d9459ba46f37e30817a864d4bd8c4291c31ac`；后者为重复下载，不代表再处理一次。19、20 的正式回执补充在 `files/D/下载文件`，不只看旧交接目录。
-
-## 接下来的核对重点
-
-1. **第19批版本与第20批残余**：避免重传同名但内容不同的文件。20仍见重复变体100899/8801、Size长度、必填危险品/电池属性、8541、100476、99300、合规和图片等问题。`4A PSS 9-3 2 Sets` 有最低价24.99高于售价23.99的90147。
-2. **旧05最低价尾项**：`AAAA 4A 6032` 子记录仍显示最低24.99、可售7，未见后来清空的证据。它与20的PSS问题不是一回事。
-3. **运费案22933941801**：Antigravity子对话 step752/947显示补充回复仅预填，要求用户选4图后发送；未证实已发送。五配送模板有保存记录：Heavy11.99、Big size9.99、Cube8.99、Migrated4.99、Biger size delivery-25为22.99，均每订单加每商品0；不能据此直接认定异常高运费在所有邮编都恢复。
-4. **目录合并**：PSS32案22934108221仍有8801，不能认定已合并；30315、406粉彩、406荧光也未找到较旧证据更新的合并成功证明。先查工单和商品身份，不重发同一请求。
-5. **促销叠加**：已有独立验收基线是22个15%券、12个5%券。后续17新增Sale/B2B、20含价格变更，接手时重新核叠加；不要拿白天07的状态代表晚间之后仍完全相同。
-6. **图片与合规**：VoC附图已制作，有下载记录，尚未找到全部发布到商品页的证据。CR012、305Y、真实包装/图片/条码等阻塞继续按回执核对。
-
-11月1日白天的“第5促销、第7内容、家族暂停”属于历史安排；Gemini晚间实际继续了16/17/19/20，不能再把它们写成完全未动。没有正式证据的部分仍标待核验。
-
-## 文件与定价口径
-
-- 官方2026(3)总表与旧2026(1)不同版本，均保留。普通价、FBA包邮价、FBM另收运费价、企业价不可直接混用，073已有明确复核证据。
-- 01事故表、02恢复表、旧100SKU删除表、旧15/21家族表、03—13已提交文件均仅用于追溯，禁止直接重传。
-- 当前业务脚本依赖的 `284701020757.txt` 和 `175793876516020757.txt` 已列入源文件范围，分别用于库存、订单分析。
-- 最近生成的商品图片按原 manifest 的审稿/交付状态使用，不能把“已生成”当作“已上线”。
-
-更多细节沿 [会话索引](indexes/conversations.json) 和 [原路径清单](manifests/business-files.json) 定位；本页不将历史对话中的建议自动变为新的授权。
+See full details in [HANDOFF.md](progress/20261106/HANDOFF.md).
